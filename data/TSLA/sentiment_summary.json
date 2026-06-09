@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-09T08:05:00.000000-07:00",
-  "total_analyzed": 104,
+  "generated_at": "2026-06-09T09:40:30.000000-07:00",
+  "total_analyzed": 105,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.115,
+  "overall_score_avg": 0.111,
   "sentiment_distribution": {
     "bullish": 36,
     "neutral": 52,
-    "bearish": 16
+    "bearish": 17
   },
   "by_date": [
     {
       "date": "2026-06-09",
-      "articles_analyzed": 9,
+      "articles_analyzed": 10,
       "sentiment": "bullish",
-      "score_avg": 0.111,
+      "score_avg": 0.07,
       "top_headlines": [
         {
           "headline": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
@@ -32,6 +32,13 @@
           "summary": "Tesla stock rose as Cathie Wood's public robotaxi ride and positive Dutch safety data signal potential regulatory opening for FSD in the European market."
         },
         {
+          "headline": "Why Musk's SpaceX control is an 'all-out assault' on US market integrity",
+          "publisher": "(Yahoo Finance Video)",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "A Yale professor characterizes Musk's 85% SpaceX voting control as an 'all-out assault on US market integrity,' citing Tesla-SpaceX merger rumors as potential self-dealing risk that introduces governance overhang and could erode the Musk-premium embedded in TSLA's valuation."
+        },
+        {
           "headline": "Wall Street sees AI trade bearing fruit with MANGOS ahead of IPOs",
           "publisher": "(Yahoo Finance Video)",
           "sentiment": "bullish",
@@ -44,13 +51,6 @@
           "sentiment": "bearish",
           "score": -0.2,
           "summary": "Continued Bitcoin decline (~1.86%) adds to the ongoing pressure on Tesla's BTC holdings, contributing a balance sheet headwind alongside the existing crypto-driven narrative."
-        },
-        {
-          "headline": "Potential implications from SpaceX IPO for Tesla?",
-          "publisher": "(Investing.com)",
-          "sentiment": "neutral",
-          "score": 0.1,
-          "summary": "Wolfe Research says SpaceX/Tesla merger anticipation has entered the mainstream as a primary TSLA investment thesis, providing downside support but requiring robotaxi and Optimus proof points for upside momentum."
         }
       ]
     },
@@ -72,7 +72,7 @@
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
           "score": 0.8,
-          "summary": "JPMorgan's $475 target with Tesla valued across five segments\u2014auto, energy, robotaxis, humanoid robots, licensing\u2014signals a fundamental re-rating rather than a tactical call."
+          "summary": "JPMorgan's $475 target with Tesla valued across five segments—auto, energy, robotaxis, humanoid robots, licensing—signals a fundamental re-rating rather than a tactical call."
         },
         {
           "headline": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",

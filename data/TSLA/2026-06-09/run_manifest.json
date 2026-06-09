@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "TSLA",
   "run_date": "2026-06-09",
-  "started_at": "2026-06-09T08:00:05.237825-07:00",
-  "finished_at": "2026-06-09T08:00:10.162365-07:00",
+  "started_at": "2026-06-09T09:33:59.451082-07:00",
+  "finished_at": "2026-06-09T09:34:30.015245-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 10,
-    "news_links_skipped_recent": 87,
+    "news_links_new": 88,
+    "news_links_skipped_recent": 9,
     "news_links_retry_failed": 3,
-    "articles_fetched_ok": 9,
-    "articles_failed": 4
+    "articles_fetched_ok": 86,
+    "articles_failed": 5
   },
   "errors": [
     {
@@ -62,6 +62,20 @@
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/spacex-ipo-tesla-elon-musk-ai-data-centers-chips-semiconductors?mod=IBD_FV",
       "context": {
         "url": "https://www.investors.com/news/spacex-ipo-tesla-elon-musk-ai-data-centers-chips-semiconductors?mod=IBD_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/research/options/tesla-stock-spacex-ipo-tsla-stock-options-trading?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/research/options/tesla-stock-spacex-ipo-tsla-stock-options-trading?mod=IBD_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/tesla-china-retail-sales-tesla-stock?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/tesla-china-retail-sales-tesla-stock?mod=IBD_FV"
       }
     },
     {
@@ -76,13 +90,6 @@
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/tesla-jpmorgan-ev-electric-vehicle-autos-cars-tech-robotaxi-self-driving-cars?mod=IBD_FV",
       "context": {
         "url": "https://www.investors.com/news/tesla-jpmorgan-ev-electric-vehicle-autos-cars-tech-robotaxi-self-driving-cars?mod=IBD_FV"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/safest-electric-vehicles-market-ranked-2026",
-      "context": {
-        "url": "https://qz.com/safest-electric-vehicles-market-ranked-2026"
       }
     }
   ]

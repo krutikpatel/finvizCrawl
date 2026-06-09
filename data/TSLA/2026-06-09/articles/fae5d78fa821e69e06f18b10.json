@@ -3,17 +3,17 @@
   "ticker": "TSLA",
   "source": {
     "name": "article",
-    "url": "https://qz.com/jp-morgan-tesla-upgrade-neutral-price-target-060526",
-    "fetched_at": "2026-06-09T09:34:15.304612-07:00"
+    "url": "https://www.investors.com/research/options/tesla-stock-spacex-ipo-tsla-stock-options-trading?mod=IBD_FV",
+    "fetched_at": "2026-06-09T09:34:02.604103-07:00"
   },
   "extraction": {
     "method": "http",
     "success": false,
     "error": {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/jp-morgan-tesla-upgrade-neutral-price-target-060526",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/research/options/tesla-stock-spacex-ipo-tsla-stock-options-trading?mod=IBD_FV",
       "context": {
-        "url": "https://qz.com/jp-morgan-tesla-upgrade-neutral-price-target-060526"
+        "url": "https://www.investors.com/research/options/tesla-stock-spacex-ipo-tsla-stock-options-trading?mod=IBD_FV"
       }
     }
   },
