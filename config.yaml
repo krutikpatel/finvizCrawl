@@ -20,11 +20,11 @@ dedup:
 scraping:
   # Backend selector: "http" (requests) or "playwright"
   backend: "http"
-  user_agent: "Mozilla/5.0 (compatible; finzwiz/1.0; +local)"
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
   timeout_seconds: 30
   retries: 2
-  # Optional delay between network requests (best-effort)
-  delay_seconds: 0
+  # Optional delay between article fetches (best-effort, seconds)
+  delay_seconds: 1
   # Keep low by default to reduce blocking risk
   max_concurrency: 5
   playwright:
@@ -35,3 +35,13 @@ articles:
   include_raw_html: false
   # Max characters of extracted text to store (0 = no limit)
   max_text_chars: 0
+
+sentiment:
+  # Claude model used for analysis (haiku is fastest/cheapest)
+  model: "claude-haiku-4-5-20251001"
+  # Max articles sent in a single Claude API call
+  max_articles_per_batch: 20
+  # Per-ticker JSONL log of all analyzed articles
+  log_filename: "sentiment_log.jsonl"
+  # Per-ticker aggregated summary JSON (regenerated each run)
+  summary_filename: "sentiment_summary.json"

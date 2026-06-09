@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "generated_at": "2026-06-08T23:16:59.856608-07:00",
+  "total_analyzed": 95,
+  "overall_sentiment": "bullish",
+  "overall_score_avg": 0.116,
+  "sentiment_distribution": {
+    "neutral": 47,
+    "bullish": 33,
+    "bearish": 15
+  },
+  "by_date": [
+    {
+      "date": "2026-06-08",
+      "articles_analyzed": 95,
+      "sentiment": "bullish",
+      "score_avg": 0.116,
+      "top_headlines": [
+        {
+          "headline": "Tesla Gets 227.6% Target Boost As JPMorgan Upgrades Rating",
+          "publisher": "(GuruFocus.com)",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "JPMorgan's 227.6% price target increase to $475 and shift to Neutral reflects a fundamental re-rating of Tesla's AI/robotics/autonomy opportunity across five $3.9T addressable markets."
+        },
+        {
+          "headline": "JP Morgan Triples Tesla's Price Target",
+          "publisher": "(GuruFocus.com)",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "JPMorgan's $475 target with Tesla valued across five segments—auto, energy, robotaxis, humanoid robots, licensing—signals a fundamental re-rating rather than a tactical call."
+        },
+        {
+          "headline": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",
+          "publisher": "(MarketWatch)",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "JPMorgan lifted Tesla to Neutral from Underweight and raised its price target from $145 to $475, ending one of Wall Street's most vocal bearish calls."
+        },
+        {
+          "headline": "Tesla upgraded, Lululemon downgraded: Wall Street's top analyst calls",
+          "publisher": "(The Fly)",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "JPMorgan upgraded Tesla to Neutral citing it as at the 'forefront of physical AI' with a $475 price target, up from $145; Erste Group also upgraded Tesla to Hold."
+        },
+        {
+          "headline": "Tesla just delivered one of its strongest China updates in months",
+          "publisher": "(GuruFocus.com)",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Tesla's Shanghai plant delivered 85,982 vehicles in May, up 39.4% YoY, beating the broader China EV market's 12% growth and signaling demand recovery."
+        }
+      ]
+    }
+  ]
+}

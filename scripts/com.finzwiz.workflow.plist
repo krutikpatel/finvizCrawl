@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.finzwiz.workflow</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/krutik/technical/finvizCrawl/scripts/workflow.sh</string>
+    </array>
+
+    <!-- Run at 8:00 AM and 4:00 PM system local time -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key>   <integer>8</integer>
+            <key>Minute</key> <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>   <integer>16</integer>
+            <key>Minute</key> <integer>0</integer>
+        </dict>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/krutik/technical/finvizCrawl</string>
+
+    <!-- Captured separately from per-run log so launchd output is always visible -->
+    <key>StandardOutPath</key>
+    <string>/Users/krutik/technical/finvizCrawl/logs/launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/krutik/technical/finvizCrawl/logs/launchd.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <!-- Space-separated list of tickers to scrape and analyze -->
+        <key>FINZWIZ_TICKERS</key>
+        <string>TSLA AAPL META MU ENPH HOOD ORCL GOOG MSFT</string>
+
+    </dict>
+
+    <!-- Rerun missed executions when the Mac wakes from sleep -->
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.investors.com/news/tesla-jpmorgan-ev-electric-vehicle-autos-cars-tech-robotaxi-self-driving-cars?mod=IBD_FV",
+    "fetched_at": "2026-06-08T23:07:53.902068-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/tesla-jpmorgan-ev-electric-vehicle-autos-cars-tech-robotaxi-self-driving-cars?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/tesla-jpmorgan-ev-electric-vehicle-autos-cars-tech-robotaxi-self-driving-cars?mod=IBD_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

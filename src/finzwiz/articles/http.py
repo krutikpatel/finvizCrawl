@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import re
+import time
 from dataclasses import dataclass
 from typing import Any
 
@@ -38,9 +40,17 @@ class HttpArticleFetcher:
         adapter = HTTPAdapter(max_retries=retry)
         self.session.mount("http://", adapter)
         self.session.mount("https://", adapter)
-        self.session.headers.update({"User-Agent": config.scraping.user_agent})
+        self.session.headers.update({
+            "User-Agent": config.scraping.user_agent,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Referer": "https://finviz.com/",
+        })
 
     def fetch(self, url: str) -> ArticleFetchResult:
+        if self.config.scraping.delay_seconds:
+            time.sleep(self.config.scraping.delay_seconds)
         try:
             response = self.session.get(url, timeout=self.config.scraping.timeout_seconds)
             status = response.status_code
@@ -107,9 +117,13 @@ class HttpArticleFetcher:
         )
 
 
+_CONTROL_CHARS_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
+
+
 def _readability_fallback(html: str) -> str:
     try:
-        doc = Document(html)
+        clean = _CONTROL_CHARS_RE.sub("", html)
+        doc = Document(clean)
         summary_html = doc.summary()
         soup = BeautifulSoup(summary_html, "lxml")
         return soup.get_text("\n", strip=True)

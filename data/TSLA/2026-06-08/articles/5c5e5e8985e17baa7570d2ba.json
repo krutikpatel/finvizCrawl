@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/tesla-robotaxi-austin-metro-expansion-060326",
+    "fetched_at": "2026-06-08T23:08:05.539685-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/tesla-robotaxi-austin-metro-expansion-060326",
+      "context": {
+        "url": "https://qz.com/tesla-robotaxi-austin-metro-expansion-060326"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

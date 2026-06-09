@@ -43,6 +43,14 @@ class ArticlesConfig:
 
 
 @dataclass(frozen=True)
+class SentimentConfig:
+    model: str
+    max_articles_per_batch: int
+    log_filename: str
+    summary_filename: str
+
+
+@dataclass(frozen=True)
 class ProjectConfig:
     name: str
     schema_version: str
@@ -55,6 +63,7 @@ class Config:
     dedup: DedupConfig
     scraping: ScrapingConfig
     articles: ArticlesConfig
+    sentiment: SentimentConfig
 
 
 class ConfigError(ValueError):
@@ -82,6 +91,8 @@ def load_config(path: str | Path = "config.yaml") -> Config:
         articles_raw = raw["articles"]
     except KeyError as exc:
         raise ConfigError(f"Missing required config section: {exc}") from exc
+
+    sentiment_raw = raw.get("sentiment", {})
 
     backend = str(scraping_raw.get("backend", "http"))
     if backend != "http":
@@ -124,6 +135,12 @@ def load_config(path: str | Path = "config.yaml") -> Config:
             include_raw_html=bool(articles_raw.get("include_raw_html", False)),
             max_text_chars=int(articles_raw.get("max_text_chars", 0)),
         ),
+        sentiment=SentimentConfig(
+            model=str(sentiment_raw.get("model", "claude-haiku-4-5-20251001")),
+            max_articles_per_batch=int(sentiment_raw.get("max_articles_per_batch", 20)),
+            log_filename=str(sentiment_raw.get("log_filename", "sentiment_log.jsonl")),
+            summary_filename=str(sentiment_raw.get("summary_filename", "sentiment_summary.json")),
+        ),
     )
 
 
@@ -156,6 +173,12 @@ def config_to_dict(config: Config) -> dict[str, Any]:
         "articles": {
             "include_raw_html": config.articles.include_raw_html,
             "max_text_chars": config.articles.max_text_chars,
+        },
+        "sentiment": {
+            "model": config.sentiment.model,
+            "max_articles_per_batch": config.sentiment.max_articles_per_batch,
+            "log_filename": config.sentiment.log_filename,
+            "summary_filename": config.sentiment.summary_filename,
         },
     }
 
