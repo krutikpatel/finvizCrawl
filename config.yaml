@@ -1,0 +1,37 @@
+# Default configuration for FinvizCrawl (PRD-aligned)
+project:
+  name: finzwiz
+  schema_version: "1.0"
+
+output:
+  # Root output folder for all data artifacts
+  data_dir: "data"
+  # If true, JSON is pretty-printed with 2 spaces
+  pretty_json: true
+
+dedup:
+  # Rolling window for URL de-duplication per ticker
+  retention_days: 15
+  # Per-ticker JSONL file name under data/<TICKER>/
+  seen_urls_filename: "seen_urls.jsonl"
+  # Optional: compact old entries; if false, keep append-only
+  compact_on_write: false
+
+scraping:
+  # Backend selector: "http" (requests) or "playwright"
+  backend: "http"
+  user_agent: "Mozilla/5.0 (compatible; finzwiz/1.0; +local)"
+  timeout_seconds: 30
+  retries: 2
+  # Optional delay between network requests (best-effort)
+  delay_seconds: 0
+  # Keep low by default to reduce blocking risk
+  max_concurrency: 5
+  playwright:
+    headless: true
+
+articles:
+  # Store full raw HTML inside article JSON (generally keep false)
+  include_raw_html: false
+  # Max characters of extracted text to store (0 = no limit)
+  max_text_chars: 0

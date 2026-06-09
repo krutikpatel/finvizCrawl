@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "/news/314411/apple-aapl-just-overtook-the-20-day-moving-average",
+    "fetched_at": "2026-02-22T23:42:37.107735-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "Invalid URL '/news/314411/apple-aapl-just-overtook-the-20-day-moving-average': No scheme supplied. Perhaps you meant https:///news/314411/apple-aapl-just-overtook-the-20-day-moving-average?",
+      "context": {
+        "url": "/news/314411/apple-aapl-just-overtook-the-20-day-moving-average"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

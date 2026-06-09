@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amazon-apple-stocks-berkshire-sales-warren-buffett-99e7ccf4?mod=bar_FV",
+    "fetched_at": "2026-02-22T23:47:29.740433-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/amazon-apple-stocks-berkshire-sales-warren-buffett-99e7ccf4?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/amazon-apple-stocks-berkshire-sales-warren-buffett-99e7ccf4?mod=bar_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

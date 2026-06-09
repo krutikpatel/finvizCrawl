@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "/news/318162/wedbush-maintains-bullish-view-on-apple-aapl-despite-ai-delay-concerns",
+    "fetched_at": "2026-02-22T23:42:36.960156-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "Invalid URL '/news/318162/wedbush-maintains-bullish-view-on-apple-aapl-despite-ai-delay-concerns': No scheme supplied. Perhaps you meant https:///news/318162/wedbush-maintains-bullish-view-on-apple-aapl-despite-ai-delay-concerns?",
+      "context": {
+        "url": "/news/318162/wedbush-maintains-bullish-view-on-apple-aapl-despite-ai-delay-concerns"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

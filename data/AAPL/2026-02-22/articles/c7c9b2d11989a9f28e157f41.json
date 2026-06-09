@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.youtube.com/watch?v=OzUZXNuwS_M",
+    "fetched_at": "2026-02-22T23:47:24.490770-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "West Virginia AG on Apple lawsuit: It's important the company meet law enforcement halfway - YouTube",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.youtube.com",
+    "language": null
+  },
+  "content": {
+    "text": "About\nPress\nCopyright\nContact us\nCreators\nAdvertise\nDevelopers\nTerms\nPrivacy\nPolicy & Safety\nHow YouTube works\nTest new features\nNFL Sunday Ticket\n© 2026 Google LLC",
+    "text_blocks": [
+      "About",
+      "Press",
+      "Copyright",
+      "Contact us",
+      "Creators",
+      "Advertise",
+      "Developers",
+      "Terms",
+      "Privacy",
+      "Policy & Safety",
+      "How YouTube works",
+      "Test new features",
+      "NFL Sunday Ticket",
+      "© 2026 Google LLC"
+    ],
+    "html": null
+  },
+  "links": [
+    "/",
+    "/new",
+    "/t/contact_us/",
+    "/t/privacy",
+    "/t/terms",
+    "https://developers.google.com/youtube",
+    "https://tv.youtube.com/learn/nflsundayticket",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/copyright/",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/ads/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen"
+  ]
+}
