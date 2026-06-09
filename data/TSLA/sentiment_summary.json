@@ -1,16 +1,59 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-08T23:16:59.856608-07:00",
-  "total_analyzed": 95,
+  "generated_at": "2026-06-09T08:05:00.000000-07:00",
+  "total_analyzed": 104,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.116,
+  "overall_score_avg": 0.115,
   "sentiment_distribution": {
-    "neutral": 47,
-    "bullish": 33,
-    "bearish": 15
+    "bullish": 36,
+    "neutral": 52,
+    "bearish": 16
   },
   "by_date": [
+    {
+      "date": "2026-06-09",
+      "articles_analyzed": 9,
+      "sentiment": "bullish",
+      "score_avg": 0.111,
+      "top_headlines": [
+        {
+          "headline": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
+          "publisher": "(Bloomberg)",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Musk's revelation of a joint SpaceX-Tesla 'Terafab' chip manufacturing facility directly links Tesla to SpaceX's orbital AI data center ambitions, providing a new hardware manufacturing catalyst for Tesla's AI narrative."
+        },
+        {
+          "headline": "Tesla Stock Is Up. Cathie Wood Takes Us on a Robo-Taxi Ride.",
+          "publisher": "(Barrons.com)",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Tesla stock rose as Cathie Wood's public robotaxi ride and positive Dutch safety data signal potential regulatory opening for FSD in the European market."
+        },
+        {
+          "headline": "Wall Street sees AI trade bearing fruit with MANGOS ahead of IPOs",
+          "publisher": "(Yahoo Finance Video)",
+          "sentiment": "bullish",
+          "score": 0.2,
+          "summary": "Tesla's inclusion in the 'TANGOS' AI-era market leader grouping and growing SpaceX merger speculation reinforces TSLA's positioning in the next-generation AI investment theme."
+        },
+        {
+          "headline": "Large cryptocurrencies drop on Solana, Bitcoin declines",
+          "publisher": "(MarketWatch)",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Continued Bitcoin decline (~1.86%) adds to the ongoing pressure on Tesla's BTC holdings, contributing a balance sheet headwind alongside the existing crypto-driven narrative."
+        },
+        {
+          "headline": "Potential implications from SpaceX IPO for Tesla?",
+          "publisher": "(Investing.com)",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "Wolfe Research says SpaceX/Tesla merger anticipation has entered the mainstream as a primary TSLA investment thesis, providing downside support but requiring robotaxi and Optimus proof points for upside momentum."
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "articles_analyzed": 95,
@@ -29,7 +72,7 @@
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
           "score": 0.8,
-          "summary": "JPMorgan's $475 target with Tesla valued across five segments—auto, energy, robotaxis, humanoid robots, licensing—signals a fundamental re-rating rather than a tactical call."
+          "summary": "JPMorgan's $475 target with Tesla valued across five segments\u2014auto, energy, robotaxis, humanoid robots, licensing\u2014signals a fundamental re-rating rather than a tactical call."
         },
         {
           "headline": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",
