@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "run_date": "2026-06-09",
+  "started_at": "2026-06-09T18:05:06.727861-07:00",
+  "finished_at": "2026-06-09T18:05:40.480741-07:00",
+  "timezone": "America/Los_Angeles",
+  "config": {
+    "project": {
+      "name": "finzwiz",
+      "schema_version": "1.0"
+    },
+    "output": {
+      "data_dir": "data",
+      "pretty_json": true
+    },
+    "dedup": {
+      "retention_days": 15,
+      "seen_urls_filename": "seen_urls.jsonl",
+      "compact_on_write": false
+    },
+    "scraping": {
+      "backend": "http",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "timeout_seconds": 30,
+      "retries": 2,
+      "delay_seconds": 1.0,
+      "max_concurrency": 5,
+      "playwright": {
+        "headless": true
+      }
+    },
+    "articles": {
+      "include_raw_html": false,
+      "max_text_chars": 0
+    },
+    "sentiment": {
+      "model": "claude-haiku-4-5-20251001",
+      "max_articles_per_batch": 20,
+      "log_filename": "sentiment_log.jsonl",
+      "summary_filename": "sentiment_summary.json"
+    }
+  },
+  "artifacts": {
+    "finviz_quote": "data/MSFT/2026-06-09/finviz_quote.json",
+    "finviz_news": "data/MSFT/2026-06-09/finviz_news.json",
+    "articles_dir": "data/MSFT/2026-06-09/articles",
+    "dedup_file": "data/MSFT/seen_urls.jsonl",
+    "run_manifest": "data/MSFT/2026-06-09/run_manifest.json"
+  },
+  "stats": {
+    "news_links_total": 100,
+    "news_links_new": 100,
+    "news_links_skipped_recent": 0,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 96,
+    "articles_failed": 4
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/nhs-england-microsoft-365-copilot-rollout-060926",
+      "context": {
+        "url": "https://qz.com/nhs-england-microsoft-365-copilot-rollout-060926"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/ai-ceos-synthetic-dna-screening-bioweapons-congress-060526",
+      "context": {
+        "url": "https://qz.com/ai-ceos-synthetic-dna-screening-bioweapons-congress-060526"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/eu-tech-sovereignty-cloud-chips-ai-act-060326",
+      "context": {
+        "url": "https://qz.com/eu-tech-sovereignty-cloud-chips-ai-act-060326"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/microsoft-mai-ai-models-openai-reliance-060326",
+      "context": {
+        "url": "https://qz.com/microsoft-mai-ai-models-openai-reliance-060326"
+      }
+    }
+  ]
+}

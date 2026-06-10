@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-09T09:40:30.000000-07:00",
-  "total_analyzed": 105,
+  "generated_at": "2026-06-09T16:05:00.000000-07:00",
+  "total_analyzed": 111,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.111,
+  "overall_score_avg": 0.10,
   "sentiment_distribution": {
-    "bullish": 36,
-    "neutral": 52,
-    "bearish": 17
+    "bullish": 37,
+    "neutral": 54,
+    "bearish": 20
   },
   "by_date": [
     {
       "date": "2026-06-09",
-      "articles_analyzed": 10,
-      "sentiment": "bullish",
-      "score_avg": 0.07,
+      "articles_analyzed": 16,
+      "sentiment": "neutral",
+      "score_avg": 0.01,
       "top_headlines": [
         {
           "headline": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
@@ -25,32 +25,32 @@
           "summary": "Musk's revelation of a joint SpaceX-Tesla 'Terafab' chip manufacturing facility directly links Tesla to SpaceX's orbital AI data center ambitions, providing a new hardware manufacturing catalyst for Tesla's AI narrative."
         },
         {
+          "headline": "Why Elon Musk's track record of unfilled promises matters for investors",
+          "publisher": "(Yahoo Finance Video)",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "NYT analysis showing Musk delivered only 19% of stated goals on time directly challenges the credibility premium embedded in TSLA's AI/autonomy valuation, with specific skepticism directed at FSD and Cybercab timeline reliability."
+        },
+        {
+          "headline": "Tesla Stock Falls as SpaceX IPO Buzz Sparks Capital Rotation Fears",
+          "publisher": "(GuruFocus.com)",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Tesla fell 4% to ~$394 on a confluence of SpaceX capital rotation risk, Roadster delay to August, Barclays hold at $360 citing input cost headwinds, and broad Nasdaq weakness on rate hike fears."
+        },
+        {
+          "headline": "SpaceX IPO Turns Tesla Merger Talk Into a Core Wall Street Thesis",
+          "publisher": "(BeInCrypto)",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Wolfe Research documents Tesla/SpaceX merger speculation has become a primary institutional TSLA thesis, with $150B in SpaceX IPO demand providing structural support for TSLA as the main Musk-franchise proxy."
+        },
+        {
           "headline": "Tesla Stock Is Up. Cathie Wood Takes Us on a Robo-Taxi Ride.",
           "publisher": "(Barrons.com)",
           "sentiment": "bullish",
           "score": 0.4,
           "summary": "Tesla stock rose as Cathie Wood's public robotaxi ride and positive Dutch safety data signal potential regulatory opening for FSD in the European market."
-        },
-        {
-          "headline": "Why Musk's SpaceX control is an 'all-out assault' on US market integrity",
-          "publisher": "(Yahoo Finance Video)",
-          "sentiment": "bearish",
-          "score": -0.3,
-          "summary": "A Yale professor characterizes Musk's 85% SpaceX voting control as an 'all-out assault on US market integrity,' citing Tesla-SpaceX merger rumors as potential self-dealing risk that introduces governance overhang and could erode the Musk-premium embedded in TSLA's valuation."
-        },
-        {
-          "headline": "Wall Street sees AI trade bearing fruit with MANGOS ahead of IPOs",
-          "publisher": "(Yahoo Finance Video)",
-          "sentiment": "bullish",
-          "score": 0.2,
-          "summary": "Tesla's inclusion in the 'TANGOS' AI-era market leader grouping and growing SpaceX merger speculation reinforces TSLA's positioning in the next-generation AI investment theme."
-        },
-        {
-          "headline": "Large cryptocurrencies drop on Solana, Bitcoin declines",
-          "publisher": "(MarketWatch)",
-          "sentiment": "bearish",
-          "score": -0.2,
-          "summary": "Continued Bitcoin decline (~1.86%) adds to the ongoing pressure on Tesla's BTC holdings, contributing a balance sheet headwind alongside the existing crypto-driven narrative."
         }
       ]
     },
