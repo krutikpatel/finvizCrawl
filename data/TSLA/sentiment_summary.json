@@ -1,99 +1,157 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-09T16:05:00.000000-07:00",
-  "total_analyzed": 111,
+  "generated_at": "2026-06-10T08:08:16.098076-07:00",
+  "total_analyzed": 127,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.10,
+  "overall_score_avg": 0.1016,
   "sentiment_distribution": {
-    "bullish": 37,
-    "neutral": 54,
-    "bearish": 20
+    "bullish": 43,
+    "neutral": 60,
+    "bearish": 24
   },
   "by_date": [
     {
-      "date": "2026-06-09",
-      "articles_analyzed": 16,
-      "sentiment": "neutral",
-      "score_avg": 0.01,
+      "date": "2026-06-10",
+      "analyzed": 16,
+      "sentiment": "bullish",
+      "score_avg": 0.1125,
+      "sentiment_distribution": {
+        "bullish": 6,
+        "neutral": 6,
+        "bearish": 4
+      },
       "top_headlines": [
         {
+          "article_id": "98224ef3fdf6d38a6fac6f5d",
+          "headline": "Has Tesla solved the self-driving puzzle? This analyst thinks so",
+          "publisher": "Investing.com",
+          "sentiment": "bullish",
+          "score": 0.8
+        },
+        {
+          "article_id": "b5e526713e4925538b72f178",
+          "headline": "Tesla Has 'Effectively' Achieved Level 4 Autonomy, Says Piper Sandler Analyst",
+          "publisher": "Stocktwits",
+          "sentiment": "bullish",
+          "score": 0.7
+        },
+        {
+          "article_id": "8b4f26e616520955d8913f49",
+          "headline": "Why everyone's an energy company now",
+          "publisher": "TechCrunch",
+          "sentiment": "bullish",
+          "score": 0.5
+        },
+        {
+          "article_id": "236308615ea40056a60f6ee3",
+          "headline": "Elon Musk, after DOGE and politics, bets on SpaceX IPO",
+          "publisher": "AFP",
+          "sentiment": "bearish",
+          "score": -0.4
+        },
+        {
+          "article_id": "0eaaddb80d4f9ff4b8f58f58",
+          "headline": "GM bets on energy storage business, following rival Ford in EV battery pivot",
+          "publisher": "Yahoo Finance",
+          "sentiment": "bullish",
+          "score": 0.3
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "analyzed": 16,
+      "sentiment": "neutral",
+      "score_avg": 0.0063,
+      "sentiment_distribution": {
+        "bullish": 4,
+        "neutral": 7,
+        "bearish": 5
+      },
+      "top_headlines": [
+        {
+          "article_id": "49a81057ffc4bfe5e7e21709",
           "headline": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
           "publisher": "(Bloomberg)",
           "sentiment": "bullish",
-          "score": 0.5,
-          "summary": "Musk's revelation of a joint SpaceX-Tesla 'Terafab' chip manufacturing facility directly links Tesla to SpaceX's orbital AI data center ambitions, providing a new hardware manufacturing catalyst for Tesla's AI narrative."
+          "score": 0.5
         },
         {
-          "headline": "Why Elon Musk's track record of unfilled promises matters for investors",
-          "publisher": "(Yahoo Finance Video)",
-          "sentiment": "bearish",
-          "score": -0.4,
-          "summary": "NYT analysis showing Musk delivered only 19% of stated goals on time directly challenges the credibility premium embedded in TSLA's AI/autonomy valuation, with specific skepticism directed at FSD and Cybercab timeline reliability."
-        },
-        {
-          "headline": "Tesla Stock Falls as SpaceX IPO Buzz Sparks Capital Rotation Fears",
-          "publisher": "(GuruFocus.com)",
-          "sentiment": "bearish",
-          "score": -0.4,
-          "summary": "Tesla fell 4% to ~$394 on a confluence of SpaceX capital rotation risk, Roadster delay to August, Barclays hold at $360 citing input cost headwinds, and broad Nasdaq weakness on rate hike fears."
-        },
-        {
-          "headline": "SpaceX IPO Turns Tesla Merger Talk Into a Core Wall Street Thesis",
-          "publisher": "(BeInCrypto)",
-          "sentiment": "bullish",
-          "score": 0.4,
-          "summary": "Wolfe Research documents Tesla/SpaceX merger speculation has become a primary institutional TSLA thesis, with $150B in SpaceX IPO demand providing structural support for TSLA as the main Musk-franchise proxy."
-        },
-        {
+          "article_id": "780f3a2400c8ccf42d055598",
           "headline": "Tesla Stock Is Up. Cathie Wood Takes Us on a Robo-Taxi Ride.",
           "publisher": "(Barrons.com)",
           "sentiment": "bullish",
-          "score": 0.4,
-          "summary": "Tesla stock rose as Cathie Wood's public robotaxi ride and positive Dutch safety data signal potential regulatory opening for FSD in the European market."
+          "score": 0.4
+        },
+        {
+          "article_id": "138d3d1324dad1c92b44e37c",
+          "headline": "Tesla Stock Falls as SpaceX IPO Buzz Sparks Capital Rotation Fears",
+          "publisher": "(GuruFocus.com)",
+          "sentiment": "bearish",
+          "score": -0.4
+        },
+        {
+          "article_id": "258484a4121cd4eac6470921",
+          "headline": "SpaceX IPO Turns Tesla Merger Talk Into a Core Wall Street Thesis",
+          "publisher": "(BeInCrypto)",
+          "sentiment": "bullish",
+          "score": 0.4
+        },
+        {
+          "article_id": "5bd6b9d31f2a7f6230676cf5",
+          "headline": "Why Elon Musk's track record of unfilled promises matters for investors",
+          "publisher": "(Yahoo Finance Video)",
+          "sentiment": "bearish",
+          "score": -0.4
         }
       ]
     },
     {
       "date": "2026-06-08",
-      "articles_analyzed": 95,
+      "analyzed": 95,
       "sentiment": "bullish",
-      "score_avg": 0.116,
+      "score_avg": 0.1158,
+      "sentiment_distribution": {
+        "bullish": 33,
+        "neutral": 47,
+        "bearish": 15
+      },
       "top_headlines": [
         {
+          "article_id": "56d03d835f66f341b94adf13",
           "headline": "Tesla Gets 227.6% Target Boost As JPMorgan Upgrades Rating",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
-          "score": 0.8,
-          "summary": "JPMorgan's 227.6% price target increase to $475 and shift to Neutral reflects a fundamental re-rating of Tesla's AI/robotics/autonomy opportunity across five $3.9T addressable markets."
+          "score": 0.8
         },
         {
+          "article_id": "958f62e207a36c40396301bb",
           "headline": "JP Morgan Triples Tesla's Price Target",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
-          "score": 0.8,
-          "summary": "JPMorgan's $475 target with Tesla valued across five segments—auto, energy, robotaxis, humanoid robots, licensing—signals a fundamental re-rating rather than a tactical call."
+          "score": 0.8
         },
         {
+          "article_id": "212ace52f8c75912a525e907",
           "headline": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",
           "publisher": "(MarketWatch)",
           "sentiment": "bullish",
-          "score": 0.7,
-          "summary": "JPMorgan lifted Tesla to Neutral from Underweight and raised its price target from $145 to $475, ending one of Wall Street's most vocal bearish calls."
+          "score": 0.7
         },
         {
+          "article_id": "36ec11a2c407b450f53c7d6f",
           "headline": "Tesla upgraded, Lululemon downgraded: Wall Street's top analyst calls",
           "publisher": "(The Fly)",
           "sentiment": "bullish",
-          "score": 0.7,
-          "summary": "JPMorgan upgraded Tesla to Neutral citing it as at the 'forefront of physical AI' with a $475 price target, up from $145; Erste Group also upgraded Tesla to Hold."
+          "score": 0.7
         },
         {
+          "article_id": "681cd604d4ca9ef638ef9e35",
           "headline": "Tesla just delivered one of its strongest China updates in months",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
-          "score": 0.7,
-          "summary": "Tesla's Shanghai plant delivered 85,982 vehicles in May, up 39.4% YoY, beating the broader China EV market's 12% growth and signaling demand recovery."
+          "score": 0.7
         }
       ]
     }
