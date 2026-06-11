@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "generated_at": "2026-06-11T08:22:42.682933-07:00",
+  "total_analyzed": 25,
+  "overall_sentiment": "neutral",
+  "overall_score_avg": -0.038,
+  "by_date": [
+    {
+      "date": "2026-06-11",
+      "articles_analyzed": 25,
+      "sentiment": "neutral",
+      "score_avg": -0.038,
+      "top_headlines": [
+        {
+          "headline": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Microsoft shed approximately $350B in market cap in June as part of Magnificent Seven selloff"
+        },
+        {
+          "headline": "Xbox Plans Significant Layoffs as New CEO Plans Overhaul",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "Xbox planning significant layoffs and budget cuts under new CEO as gaming division revenue declined, creating negative brand sentiment"
+        },
+        {
+          "headline": "Microsoft Cuts 200-400 China Azure Jobs as Cloud Revenue Jumps 40%",
+          "sentiment": "bearish",
+          "score": -0.25,
+          "summary": "Microsoft cutting 200-400 Azure China jobs amid regulatory pressures signals operational risk in key growth market"
+        },
+        {
+          "headline": "Microsoft cuts hundreds of Azure jobs in China amid regulatory pressures and global restructuring",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Microsoft Azure China job cuts confirm regulatory headwinds compressing cloud growth in China market"
+        },
+        {
+          "headline": "5 Things to Know Before the Stock Market Opens",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Xbox layoffs headline among 5 key market events; signals ongoing Microsoft gaming division restructuring"
+        }
+      ]
+    }
+  ]
+}

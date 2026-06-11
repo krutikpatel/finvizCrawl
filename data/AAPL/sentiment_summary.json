@@ -1,16 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-10T08:13:00-07:00",
-  "total_analyzed": 5,
+  "generated_at": "2026-06-11T08:22:40.109313-07:00",
+  "total_analyzed": 22,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.1,
-  "sentiment_distribution": {
-    "bullish": 0,
-    "neutral": 4,
-    "bearish": 1
-  },
+  "overall_score_avg": -0.057,
   "by_date": [
+    {
+      "date": "2026-06-11",
+      "articles_analyzed": 17,
+      "sentiment": "neutral",
+      "score_avg": -0.044,
+      "top_headlines": [
+        {
+          "headline": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Apple shed approximately $300B in market cap in June as part of Magnificent Seven selloff"
+        },
+        {
+          "headline": "Apple's AI News Underwhelms. Siri AI Release Concerns Persist.",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Apple's WWDC AI announcements disappointed investors, with ongoing Siri feature delays reinforcing competitive AI gap"
+        },
+        {
+          "headline": "AMD, ARM, INTC, NVDA Get A Fresh AI Tailwind - BofA Sees Agentic AI Expanding Server CPU Market To $170B",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "BofA identifies Apple as key agentic AI beneficiary with Siri as potential revenue accelerant"
+        },
+        {
+          "headline": "Nasdaq Slides 250 Points as Chip Stocks Resume Sell-Off: Stock Market Today",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Broad Nasdaq selloff driven by chip weakness and geopolitical tensions creates significant headwinds for Apple"
+        },
+        {
+          "headline": "S&P 500, Nasdaq End Lower As Investors Take Breather From AI And Chips  AAPL, ASTS, APLD, RIVN, ZVRA In Focus",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "AAPL highlighted as focus stock during session of broad market decline driven by AI and chip weakness"
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "articles_analyzed": 5,
@@ -19,35 +52,30 @@
       "top_headlines": [
         {
           "headline": "Apple's AI Push Deepens Alphabet Dependency",
-          "publisher": "(GuruFocus.com)",
           "sentiment": "bearish",
           "score": -0.45,
           "summary": "Apple's deepening reliance on Google Cloud and Gemini models for Apple Intelligence risks ceding negotiating leverage to Alphabet while raising new regulatory and privacy concerns for AAPL investors."
         },
         {
           "headline": "Apple-Nvidia Friends Again? Nvidia Says Its Chips In Google Cloud Are Powering Apple Intelligence",
-          "publisher": "(Stocktwits)",
           "sentiment": "neutral",
           "score": -0.2,
           "summary": "Apple's AI infrastructure shift to Nvidia GPUs via Google Cloud expands Private Cloud Compute capabilities, but AAPL stock slides during WWDC as the market digests the company's growing external AI dependencies."
         },
         {
           "headline": "AI Boom Sends TSMC Sales Soaring 30% as Chip Appetite Explodes",
-          "publisher": "(GuruFocus.com)",
           "sentiment": "neutral",
           "score": 0.1,
           "summary": "TSMC's 30% revenue surge from AI chip demand is broadly positive for the AI semiconductor ecosystem Apple depends on, with no direct near-term AAPL earnings impact."
         },
         {
           "headline": "Telegrams TON Rebrand Gets Apple Boost as Durov Expands the Ecosystem",
-          "publisher": "(BeInCrypto)",
           "sentiment": "neutral",
           "score": 0.05,
           "summary": "Telegram's new native Apple Watch app is a minor positive for Apple's wearables ecosystem engagement, though the article focuses primarily on the GRAM crypto rebrand rather than AAPL fundamentals."
         },
         {
           "headline": "A glossary to help understand what happens in an initial public offering",
-          "publisher": "(Associated Press)",
           "sentiment": "neutral",
           "score": 0.0,
           "summary": "A SpaceX IPO explainer that references Apple only as a ticker listing example, with no direct relevance to AAPL's investment thesis or market position."

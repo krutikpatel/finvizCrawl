@@ -1,53 +1,81 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-09T18:01:26.922759-07:00",
-  "total_analyzed": 100,
+  "generated_at": "2026-06-11T08:22:40.847050-07:00",
+  "total_analyzed": 125,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.0215,
-  "sentiment_distribution": {
-    "bullish": 36,
-    "bearish": 41,
-    "neutral": 23
-  },
+  "overall_score_avg": 0.042,
   "by_date": [
+    {
+      "date": "2026-06-11",
+      "articles_analyzed": 25,
+      "sentiment": "bullish",
+      "score_avg": 0.126,
+      "top_headlines": [
+        {
+          "headline": "MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Micron gains 3.6% premarket alongside SK Hynix announcing plans to triple wafer capacity by 2034, validating surging long-term AI memory demand"
+        },
+        {
+          "headline": "Chip stocks rebound ahead of SpaceX IPO despite U.S.-Iran strikes",
+          "sentiment": "bullish",
+          "score": 0.45,
+          "summary": "Chip stocks including Micron rebounded 3% on Thursday as SpaceX IPO nears and investors view semiconductor weakness as a positioning unwind"
+        },
+        {
+          "headline": "Micron Selects Bechtel as Construction Partner for Historic New York Semiconductor Project",
+          "sentiment": "bullish",
+          "score": 0.45,
+          "summary": "Micron selects Bechtel as construction partner for largest semiconductor manufacturing facility in US, advancing domestic production scale"
+        },
+        {
+          "headline": "Intel, Navan surge premarket; Oracle falls amid AI spending concerns",
+          "sentiment": "bullish",
+          "score": 0.45,
+          "summary": "Wolfe Research raises Micron price target to $1,250 from $550, citing expectations for significantly higher DRAM and NAND pricing through 2027"
+        },
+        {
+          "headline": "Premarket movers: Several tech stocks bounce back while Oracle slumps; Intel gets an upgrade",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Micron rose 3% in premarket as tech stocks rebounded ahead of SpaceX IPO pricing"
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "articles_analyzed": 100,
-      "sentiment": "neutral",
-      "score_avg": 0.0215,
+      "sentiment": "bearish",
+      "score_avg": 0.022,
       "top_headlines": [
         {
           "headline": "Morgan Stanley lifts MU and SNDK targets, sees 2-3 years of tight memory supply",
-          "publisher": "(Investing.com)",
           "sentiment": "bullish",
           "score": 0.9,
           "summary": "Morgan Stanley more than doubling MU target to $1,050 from $520 with a 2-3 year tight supply outlook provides exceptional earnings visibility and institutional price target support."
         },
         {
           "headline": "Nvidia Certifies Samsung, SK Hynix, Micron for HBM4 Supply",
-          "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
           "score": 0.8,
           "summary": "Nvidia's HBM4 certification of all three major memory vendors including Micron confirms MU's place in the next-gen AI accelerator supply chain for Vera Rubin."
         },
         {
           "headline": "Micron to deliver another strong quarter, Goldman says",
-          "publisher": "(Investing.com)",
           "sentiment": "bullish",
           "score": 0.8,
           "summary": "Goldman Sachs sharply raises Micron estimates and price target citing tightening supply and surging AI demand, with the stock up 4% in premarket on the note."
         },
         {
           "headline": "Micron Price Targets Rise as Memory Shortage Continues",
-          "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
           "score": 0.8,
           "summary": "Morgan Stanley doubling its MU price target to $1,050 on a multi-year memory shortage outlook is the most significant single analyst upgrade in MU's recent history."
         },
         {
           "headline": "Nvidia certifies Samsung, SK Hynix and Micron for Vera Rubin HBM4 supply",
-          "publisher": "(Investing.com)",
           "sentiment": "bullish",
           "score": 0.8,
           "summary": "Nvidia certifying Micron for HBM4 supply on the Vera Rubin AI platform locks in a high-volume, high-margin revenue stream for MU's advanced memory business."

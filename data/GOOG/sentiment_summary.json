@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "generated_at": "2026-06-11T08:22:42.313081-07:00",
+  "total_analyzed": 27,
+  "overall_sentiment": "neutral",
+  "overall_score_avg": 0.059,
+  "by_date": [
+    {
+      "date": "2026-06-11",
+      "articles_analyzed": 27,
+      "sentiment": "neutral",
+      "score_avg": 0.059,
+      "top_headlines": [
+        {
+          "headline": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Alphabet shed approximately $300B in market cap in June as part of Magnificent Seven selloff"
+        },
+        {
+          "headline": "What Is Google Hiding Behind Its AI Silence?",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Google's pivot to enterprise AI with $460B cloud backlog and 19% ad revenue growth demonstrates durable competitive positioning"
+        },
+        {
+          "headline": "Google in talks with Samsung to make part of next-gen chip, The Information reports",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Google's next-gen TPU chip design partnership with Samsung for 2nm component manufacturing advances AI silicon competitive positioning"
+        },
+        {
+          "headline": "Apple-Nvidia Friends Again? Nvidia Says Its Chips In Google Cloud Are Powering Apple Intelligence",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Apple choosing Google Cloud and Nvidia GPUs for Private Cloud Compute validates Google Cloud as premier confidential AI infrastructure provider"
+        },
+        {
+          "headline": "Apple's AI Push Deepens Alphabet Dependency",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Apple's deepening dependency on Google Cloud and Gemini for AI models strengthens Google's negotiating position and cloud revenue prospects"
+        }
+      ]
+    }
+  ]
+}

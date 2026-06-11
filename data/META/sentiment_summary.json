@@ -1,61 +1,84 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-09T18:45:00.000000-07:00",
-  "total_analyzed": 99,
-  "overall_sentiment": "bearish",
-  "overall_score_avg": -0.05,
-  "sentiment_distribution": {
-    "bullish": 23,
-    "bearish": 31,
-    "neutral": 45
-  },
+  "generated_at": "2026-06-11T08:22:40.476943-07:00",
+  "total_analyzed": 123,
+  "overall_sentiment": "neutral",
+  "overall_score_avg": -0.03,
   "by_date": [
+    {
+      "date": "2026-06-11",
+      "articles_analyzed": 24,
+      "sentiment": "bullish",
+      "score_avg": 0.035,
+      "top_headlines": [
+        {
+          "headline": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Meta shed market cap as part of the Magnificent Seven June selloff"
+        },
+        {
+          "headline": "Meta signs first AI data center deal in India with Reliance",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Meta's first AI data center in India with Reliance expands AI infrastructure globally and deepens strategic partnership in a high-growth market"
+        },
+        {
+          "headline": "META Stock Rebounds Overnight: Analyst Says Subscriptions Could Be $20B Business By 2030",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Truist forecasts Meta's subscription business could reach $20B by 2030, representing a meaningful new non-advertising revenue stream"
+        },
+        {
+          "headline": "Meta's Subscription Push Exposes Its Weak Hand in AI",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "WSJ argues Meta's subscription push exposes weakness in its AI competitive positioning relative to OpenAI and Google"
+        },
+        {
+          "headline": "Meta and Reliance Expand Their AI Partnership",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Meta-Reliance 168MW AI data center JV in India accelerates global AI infrastructure buildout in a key growth market"
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "articles_analyzed": 99,
-      "sentiment": "bearish",
-      "score_avg": -0.05,
+      "sentiment": "neutral",
+      "score_avg": -0.046,
       "top_headlines": [
         {
-          "article_id": "a1cb3c63caf61ed976366d9d",
-          "headline": "Meta stock tumbles on report of potential equity raise",
-          "publisher": "Investing.com",
-          "sentiment": "bearish",
-          "score": -0.6,
-          "summary": "Investing.com full account of META -7% on equity raise report; capex $145B this year; Susan Li and Dina Powell McCormick leading discussions; no banks hired yet."
-        },
-        {
-          "article_id": "6e521538b5b41cb1709e0eb2",
-          "headline": "Meta stock sinks 6% on report of stock sale",
-          "publisher": "Yahoo Finance",
-          "sentiment": "bearish",
-          "score": -0.6,
-          "summary": "META stock fell 6%+ on equity raise report, highlighting investor unease about the scale of capital demands needed to fund Meta's $145B AI infrastructure plans."
-        },
-        {
-          "article_id": "06363e5df48498d57d7a0b21",
           "headline": "META Stock Drops Nearly 7% In Afternoon Trading  Heres Whats Driving The Selloff",
-          "publisher": "Stocktwits",
           "sentiment": "bearish",
           "score": -0.6,
           "summary": "META dropped ~7% as details emerge of Susan Li and Dina Powell McCormick exploring massive equity raise, with premium AI subscription 'Hatch' possibly $199.99/month."
         },
         {
-          "article_id": "130f7fe110c77427eb9a0a4c",
-          "headline": "Meta Enters Enterprise AI With Business Agent",
-          "publisher": "GuruFocus.com",
-          "sentiment": "bullish",
-          "score": 0.55,
-          "summary": "META rose 2.80% intraday on Business Agent launch at Conversations conference, with 1M+ businesses using it and integration with Shopify, Zendesk validating enterprise AI monetization."
+          "headline": "Meta stock sinks 6% on report of stock sale",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "META stock fell 6%+ on equity raise report, highlighting investor unease about the scale of capital demands needed to fund Meta's $145B AI infrastructure plans."
         },
         {
-          "article_id": "e732c7ef29de0b9358b8f0ff",
+          "headline": "Meta stock tumbles on report of potential equity raise",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Investing.com full account of META -7% on equity raise report; capex $145B this year; Susan Li and Dina Powell McCormick leading discussions; no banks hired yet."
+        },
+        {
           "headline": "EU Orders Meta to Open WhatsApp to Rival AI ChatbotsMeta Calls It 'Regulatory Overreach'",
-          "publisher": "decrypt",
           "sentiment": "bearish",
           "score": -0.55,
           "summary": "EU ordered Meta to give rival AI chatbots free WhatsApp access within 5 days or face 10% global revenue fine, severely threatening Meta's control over WhatsApp's AI ecosystem."
+        },
+        {
+          "headline": "Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets  TSLA, GME, META, BA, MSTR, GOOGL In Focus",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Stocktwits recap of Nasdaq's worst drop since April 2025 with META explicitly among worst-affected stocks as equity raise report combined with strong jobs data."
         }
       ]
     }
