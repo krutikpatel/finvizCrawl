@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ORCL",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T08:01:21.158966-07:00",
-  "finished_at": "2026-06-11T08:01:36.971814-07:00",
+  "started_at": "2026-06-11T09:56:00.844171-07:00",
+  "finished_at": "2026-06-11T09:56:19.494346-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 46,
-    "news_links_skipped_recent": 54,
-    "news_links_retry_failed": 0,
-    "articles_fetched_ok": 43,
+    "news_links_new": 55,
+    "news_links_skipped_recent": 43,
+    "news_links_retry_failed": 2,
+    "articles_fetched_ok": 54,
     "articles_failed": 3
   },
   "errors": [
@@ -73,9 +73,9 @@
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/oracle-stock-earnings-preview-may-2026-ai-orcl?mod=IBD_FV",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV",
       "context": {
-        "url": "https://www.investors.com/news/technology/oracle-stock-earnings-preview-may-2026-ai-orcl?mod=IBD_FV"
+        "url": "https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV"
       }
     }
   ]

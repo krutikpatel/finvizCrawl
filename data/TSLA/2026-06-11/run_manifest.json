@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "TSLA",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T08:00:06.720791-07:00",
-  "finished_at": "2026-06-11T08:00:37.462110-07:00",
+  "started_at": "2026-06-11T09:53:31.751260-07:00",
+  "finished_at": "2026-06-11T09:53:44.079230-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,19 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 72,
-    "news_links_skipped_recent": 28,
+    "news_links_new": 33,
+    "news_links_skipped_recent": 67,
     "news_links_retry_failed": 0,
-    "articles_fetched_ok": 72,
-    "articles_failed": 0
+    "articles_fetched_ok": 32,
+    "articles_failed": 1
   },
-  "errors": []
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/tesla-stock-fsd-approved-in-denmark-elon-musk-says-this-about-ai-chips?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/tesla-stock-fsd-approved-in-denmark-elon-musk-says-this-about-ai-chips?mod=IBD_FV"
+      }
+    }
+  ]
 }

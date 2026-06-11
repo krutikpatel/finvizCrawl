@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MU",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T08:01:01.655925-07:00",
-  "finished_at": "2026-06-11T08:01:10.982339-07:00",
+  "started_at": "2026-06-11T09:54:36.369526-07:00",
+  "finished_at": "2026-06-11T09:55:01.511759-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,19 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 25,
-    "news_links_skipped_recent": 75,
+    "news_links_new": 75,
+    "news_links_skipped_recent": 25,
     "news_links_retry_failed": 0,
-    "articles_fetched_ok": 25,
-    "articles_failed": 0
+    "articles_fetched_ok": 74,
+    "articles_failed": 1
   },
-  "errors": []
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/7a165c38-8d8a-3d29-8bc9-046ae8a0596b/why-is-nvda-stock-rising-in.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/7a165c38-8d8a-3d29-8bc9-046ae8a0596b/why-is-nvda-stock-rising-in.html"
+      }
+    }
+  ]
 }

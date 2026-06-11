@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MSFT",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T08:01:48.690303-07:00",
-  "finished_at": "2026-06-11T08:01:59.313116-07:00",
+  "started_at": "2026-06-11T09:56:46.399048-07:00",
+  "finished_at": "2026-06-11T09:57:08.885979-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 26,
-    "news_links_skipped_recent": 71,
+    "news_links_new": 72,
+    "news_links_skipped_recent": 25,
     "news_links_retry_failed": 3,
-    "articles_fetched_ok": 25,
-    "articles_failed": 4
+    "articles_fetched_ok": 72,
+    "articles_failed": 3
   },
   "errors": [
     {
@@ -76,13 +76,6 @@
       "message": "403 Client Error: Forbidden for url: https://qz.com/nhs-england-microsoft-365-copilot-rollout-060926",
       "context": {
         "url": "https://qz.com/nhs-england-microsoft-365-copilot-rollout-060926"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/ai-ceos-synthetic-dna-screening-bioweapons-congress-060526",
-      "context": {
-        "url": "https://qz.com/ai-ceos-synthetic-dna-screening-bioweapons-congress-060526"
       }
     }
   ]

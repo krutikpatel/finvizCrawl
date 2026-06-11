@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "AAPL",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T08:00:38.101217-07:00",
-  "finished_at": "2026-06-11T08:00:49.517047-07:00",
+  "started_at": "2026-06-11T09:53:44.669462-07:00",
+  "finished_at": "2026-06-11T09:54:09.470600-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 19,
-    "news_links_skipped_recent": 77,
-    "news_links_retry_failed": 4,
-    "articles_fetched_ok": 22,
+    "news_links_new": 77,
+    "news_links_skipped_recent": 22,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 77,
     "articles_failed": 1
   },
   "errors": [

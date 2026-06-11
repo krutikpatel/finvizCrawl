@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "META",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T08:00:50.155841-07:00",
-  "finished_at": "2026-06-11T08:01:01.032284-07:00",
+  "started_at": "2026-06-11T09:54:10.111376-07:00",
+  "finished_at": "2026-06-11T09:54:35.774959-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,13 +50,27 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 25,
-    "news_links_skipped_recent": 74,
+    "news_links_new": 75,
+    "news_links_skipped_recent": 24,
     "news_links_retry_failed": 1,
-    "articles_fetched_ok": 25,
-    "articles_failed": 1
+    "articles_fetched_ok": 73,
+    "articles_failed": 3
   },
   "errors": [
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/meta-stock-ai-bull-bear-debate?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/technology/meta-stock-ai-bull-bear-debate?mod=IBD_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/research/options/meta-platforms-stock-options-trade-technology-instagram-facebook-strategy-investing-markets?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/research/options/meta-platforms-stock-options-trade-technology-instagram-facebook-strategy-investing-markets?mod=IBD_FV"
+      }
+    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/spacex-ipo-spcx-google-palantir-meta?mod=IBD_FV",
