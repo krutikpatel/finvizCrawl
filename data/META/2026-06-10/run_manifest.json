@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "META",
   "run_date": "2026-06-10",
-  "started_at": "2026-06-10T08:16:16.497409-07:00",
-  "finished_at": "2026-06-10T08:16:25.358951-07:00",
+  "started_at": "2026-06-10T17:54:54.658831-07:00",
+  "finished_at": "2026-06-10T17:55:27.633424-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,19 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 15,
-    "news_links_skipped_recent": 84,
-    "news_links_retry_failed": 1,
-    "articles_fetched_ok": 16,
-    "articles_failed": 0
+    "news_links_new": 85,
+    "news_links_skipped_recent": 15,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 84,
+    "articles_failed": 1
   },
-  "errors": []
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/01d3dc93-8f51-3118-8788-ad044c9f1dd5/googl-stock-drops-in.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/01d3dc93-8f51-3118-8788-ad044c9f1dd5/googl-stock-drops-in.html"
+      }
+    }
+  ]
 }

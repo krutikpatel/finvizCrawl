@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "HOOD",
   "run_date": "2026-06-10",
-  "started_at": "2026-06-10T08:24:39.744690-07:00",
-  "finished_at": "2026-06-10T08:24:42.112808-07:00",
+  "started_at": "2026-06-10T17:56:44.807386-07:00",
+  "finished_at": "2026-06-10T17:57:20.854073-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 4,
-    "news_links_skipped_recent": 95,
+    "news_links_new": 95,
+    "news_links_skipped_recent": 4,
     "news_links_retry_failed": 1,
-    "articles_fetched_ok": 4,
+    "articles_fetched_ok": 95,
     "articles_failed": 1
   },
   "errors": [

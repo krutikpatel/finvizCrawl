@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "GOOG",
   "run_date": "2026-06-10",
-  "started_at": "2026-06-10T08:24:51.931567-07:00",
-  "finished_at": "2026-06-10T08:25:00.995636-07:00",
+  "started_at": "2026-06-10T17:58:08.836371-07:00",
+  "finished_at": "2026-06-10T17:58:46.664546-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,13 +50,20 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 13,
-    "news_links_skipped_recent": 86,
+    "news_links_new": 87,
+    "news_links_skipped_recent": 12,
     "news_links_retry_failed": 1,
-    "articles_fetched_ok": 13,
-    "articles_failed": 1
+    "articles_fetched_ok": 86,
+    "articles_failed": 2
   },
   "errors": [
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/meta-google-new-trial-denied-youth-addiction-061026",
+      "context": {
+        "url": "https://qz.com/meta-google-new-trial-denied-youth-addiction-061026"
+      }
+    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://qz.com/google-intel-tpu-order-tsmc-capacity-2028-060826",

@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ENPH",
   "run_date": "2026-06-10",
-  "started_at": "2026-06-10T08:24:31.524997-07:00",
-  "finished_at": "2026-06-10T08:24:37.885375-07:00",
+  "started_at": "2026-06-10T17:56:10.889983-07:00",
+  "finished_at": "2026-06-10T17:56:40.456002-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,32 +50,18 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 0,
-    "news_links_skipped_recent": 89,
-    "news_links_retry_failed": 11,
-    "articles_fetched_ok": 3,
+    "news_links_new": 89,
+    "news_links_skipped_recent": 3,
+    "news_links_retry_failed": 8,
+    "articles_fetched_ok": 89,
     "articles_failed": 8
   },
   "errors": [
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260220079738/en/",
-      "context": {
-        "url": "https://www.businesswire.com/news/home/20260220079738/en/"
-      }
-    },
-    {
-      "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260324439697/en",
       "context": {
         "url": "https://www.businesswire.com/news/home/20260324439697/en"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260310355050/en",
-      "context": {
-        "url": "https://www.businesswire.com/news/home/20260310355050/en"
       }
     },
     {
@@ -87,9 +73,16 @@
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260310355050/en",
       "context": {
-        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
+        "url": "https://www.businesswire.com/news/home/20260310355050/en"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260220079738/en/",
+      "context": {
+        "url": "https://www.businesswire.com/news/home/20260220079738/en/"
       }
     },
     {
@@ -97,6 +90,13 @@
       "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html",
       "context": {
         "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
       }
     },
     {

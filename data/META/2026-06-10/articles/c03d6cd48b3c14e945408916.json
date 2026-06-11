@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/01d3dc93-8f51-3118-8788-ad044c9f1dd5/googl-stock-drops-in.html",
+    "fetched_at": "2026-06-10T17:55:20.562143-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/01d3dc93-8f51-3118-8788-ad044c9f1dd5/googl-stock-drops-in.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/01d3dc93-8f51-3118-8788-ad044c9f1dd5/googl-stock-drops-in.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "AAPL",
   "run_date": "2026-06-10",
-  "started_at": "2026-06-10T08:12:31.627689-07:00",
-  "finished_at": "2026-06-10T08:12:38.478109-07:00",
+  "started_at": "2026-06-10T16:08:03.056254-07:00",
+  "finished_at": "2026-06-10T16:08:32.523266-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,18 +50,39 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 8,
-    "news_links_skipped_recent": 89,
-    "news_links_retry_failed": 3,
-    "articles_fetched_ok": 10,
-    "articles_failed": 1
+    "news_links_new": 89,
+    "news_links_skipped_recent": 10,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 86,
+    "articles_failed": 4
   },
   "errors": [
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/739c738c-a649-3ab6-a219-819e366381ff/s%26p-500%2C-nasdaq-end-lower-as.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/739c738c-a649-3ab6-a219-819e366381ff/s%26p-500%2C-nasdaq-end-lower-as.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/654d4449-d127-3262-af95-812c9d111eed/nasdaq-slides-250-points-as.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/654d4449-d127-3262-af95-812c9d111eed/nasdaq-slides-250-points-as.html"
+      }
+    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://qz.com/apple-siri-ai-eu-iphone-dma-delay-060926",
       "context": {
         "url": "https://qz.com/apple-siri-ai-eu-iphone-dma-delay-060926"
+      }
+    },
+    {
+      "type": "parse_error",
+      "message": "No readable text extracted",
+      "context": {
+        "url": "https://www.digitimes.com/news/a20260609VL200/apple-siri-apple-intelligence-wwdc-2026.html"
       }
     }
   ]

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/654d4449-d127-3262-af95-812c9d111eed/nasdaq-slides-250-points-as.html",
+    "fetched_at": "2026-06-10T16:08:06.604300-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/654d4449-d127-3262-af95-812c9d111eed/nasdaq-slides-250-points-as.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/654d4449-d127-3262-af95-812c9d111eed/nasdaq-slides-250-points-as.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

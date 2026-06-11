@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.digitimes.com/news/a20260609VL200/apple-siri-apple-intelligence-wwdc-2026.html",
+    "fetched_at": "2026-06-10T16:08:18.845109-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "parse_error",
+      "message": "No readable text extracted",
+      "context": {
+        "url": "https://www.digitimes.com/news/a20260609VL200/apple-siri-apple-intelligence-wwdc-2026.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.digitimes.com",
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

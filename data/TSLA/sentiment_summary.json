@@ -1,61 +1,66 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-10T08:08:16.098076-07:00",
-  "total_analyzed": 127,
-  "overall_sentiment": "bullish",
-  "overall_score_avg": 0.1016,
+  "generated_at": "2026-06-10T16:07:45.346781-07:00",
+  "total_analyzed": 140,
+  "overall_sentiment": "neutral",
+  "overall_score_avg": 0.0971,
   "sentiment_distribution": {
-    "bullish": 43,
-    "neutral": 60,
-    "bearish": 24
+    "bullish": 46,
+    "neutral": 67,
+    "bearish": 27
   },
   "by_date": [
     {
       "date": "2026-06-10",
-      "analyzed": 16,
-      "sentiment": "bullish",
-      "score_avg": 0.1125,
+      "analyzed": 29,
+      "sentiment": "neutral",
+      "score_avg": 0.0862,
       "sentiment_distribution": {
-        "bullish": 6,
-        "neutral": 6,
-        "bearish": 4
+        "bullish": 9,
+        "neutral": 13,
+        "bearish": 7
       },
       "top_headlines": [
+        {
+          "article_id": "ff3f8491f8801d98e31ec73d",
+          "headline": "Tesla Stock Surges Into Bull Case as JPMorgan Lifts Target 227%",
+          "publisher": "(GuruFocus.com)",
+          "sentiment": "bullish",
+          "score": 0.85,
+          "summary": "JPMorgan's 227% price target hike from $145 to $475 and upgrade from Underweight reflects a major institutional re-rating of Tesla as a multi-segment technology company spanning autos, energy, robotaxis, and robotics."
+        },
         {
           "article_id": "98224ef3fdf6d38a6fac6f5d",
           "headline": "Has Tesla solved the self-driving puzzle? This analyst thinks so",
           "publisher": "Investing.com",
           "sentiment": "bullish",
-          "score": 0.8
+          "score": 0.8,
+          "summary": "Piper Sandler's Overweight rating with $500 PT argues Tesla has effectively achieved Level 4 autonomy, citing Cybercab production ramp of hundreds per week and the analyst's own unsupervised Missoula-to-Minneapolis trip as proof of commercial readiness."
+        },
+        {
+          "article_id": "012001be8fef8a6a74b077d4",
+          "headline": "This Tesla bull makes a bold claim: The company has solved the 'self-driving puzzle'",
+          "publisher": "(MarketWatch)",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "Piper Sandler's claim that Tesla has effectively achieved Level 4 autonomy with FSD, with 30% upside seen, represents a significant potential re-rating catalyst for TSLA's autonomous driving narrative."
         },
         {
           "article_id": "b5e526713e4925538b72f178",
           "headline": "Tesla Has 'Effectively' Achieved Level 4 Autonomy, Says Piper Sandler Analyst",
           "publisher": "Stocktwits",
           "sentiment": "bullish",
-          "score": 0.7
+          "score": 0.7,
+          "summary": "Piper Sandler's $500 PT and L4 autonomy claim reinforces Tesla's autonomous driving credibility ahead of the Cybercab ramp, and Denmark's FSD approval adds a fourth European market to the regulatory footprint."
         },
         {
-          "article_id": "8b4f26e616520955d8913f49",
-          "headline": "Why everyone's an energy company now",
-          "publisher": "TechCrunch",
-          "sentiment": "bullish",
-          "score": 0.5
-        },
-        {
-          "article_id": "236308615ea40056a60f6ee3",
-          "headline": "Elon Musk, after DOGE and politics, bets on SpaceX IPO",
-          "publisher": "AFP",
+          "article_id": "c2533f05dde1587edf59b3b2",
+          "headline": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs   SMCI, AMZN, OPEN, SEGG, TSLA In Focus",
+          "publisher": "(Stocktwits)",
           "sentiment": "bearish",
-          "score": -0.4
-        },
-        {
-          "article_id": "0eaaddb80d4f9ff4b8f58f58",
-          "headline": "GM bets on energy storage business, following rival Ford in EV battery pivot",
-          "publisher": "Yahoo Finance",
-          "sentiment": "bullish",
-          "score": 0.3
+          "score": -0.55,
+          "summary": "A broad 1.6-2% market selloff driven by Iran geopolitical risk and sticky inflation is a direct near-term headwind for TSLA, which as a high-beta tech-adjacent stock typically amplifies broader market declines."
         }
       ]
     },
@@ -63,7 +68,7 @@
       "date": "2026-06-09",
       "analyzed": 16,
       "sentiment": "neutral",
-      "score_avg": 0.0063,
+      "score_avg": 0.0062,
       "sentiment_distribution": {
         "bullish": 4,
         "neutral": 7,
@@ -75,35 +80,40 @@
           "headline": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
           "publisher": "(Bloomberg)",
           "sentiment": "bullish",
-          "score": 0.5
+          "score": 0.5,
+          "summary": "Musk's revelation of a joint SpaceX-Tesla 'Terafab' chip manufacturing facility directly links Tesla to SpaceX's orbital AI data center ambitions, providing a new hardware manufacturing catalyst for Tesla's AI narrative."
         },
         {
           "article_id": "780f3a2400c8ccf42d055598",
           "headline": "Tesla Stock Is Up. Cathie Wood Takes Us on a Robo-Taxi Ride.",
           "publisher": "(Barrons.com)",
           "sentiment": "bullish",
-          "score": 0.4
+          "score": 0.4,
+          "summary": "Tesla stock rose as Cathie Wood's public robotaxi ride and positive Dutch safety data signal potential regulatory opening for FSD in the European market."
         },
         {
           "article_id": "138d3d1324dad1c92b44e37c",
           "headline": "Tesla Stock Falls as SpaceX IPO Buzz Sparks Capital Rotation Fears",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bearish",
-          "score": -0.4
+          "score": -0.4,
+          "summary": "Tesla fell 4% to ~$394 on a confluence of SpaceX capital rotation risk, Roadster delay to August, Barclays hold at $360 citing input cost headwinds, and broad Nasdaq weakness on rate hike fears."
         },
         {
           "article_id": "258484a4121cd4eac6470921",
           "headline": "SpaceX IPO Turns Tesla Merger Talk Into a Core Wall Street Thesis",
           "publisher": "(BeInCrypto)",
           "sentiment": "bullish",
-          "score": 0.4
+          "score": 0.4,
+          "summary": "Wolfe Research documents Tesla/SpaceX merger speculation has become a primary institutional TSLA thesis, with $150B in SpaceX IPO demand providing structural support for TSLA as the main Musk-franchise proxy."
         },
         {
           "article_id": "5bd6b9d31f2a7f6230676cf5",
           "headline": "Why Elon Musk's track record of unfilled promises matters for investors",
           "publisher": "(Yahoo Finance Video)",
           "sentiment": "bearish",
-          "score": -0.4
+          "score": -0.4,
+          "summary": "NYT analysis showing Musk delivered only 19% of stated goals on time directly challenges the credibility premium embedded in TSLA's AI/autonomy valuation, with specific skepticism directed at FSD and Cybercab timeline reliability."
         }
       ]
     },
@@ -123,35 +133,40 @@
           "headline": "Tesla Gets 227.6% Target Boost As JPMorgan Upgrades Rating",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
-          "score": 0.8
+          "score": 0.8,
+          "summary": "JPMorgan's 227.6% price target increase to $475 and shift to Neutral reflects a fundamental re-rating of Tesla's AI/robotics/autonomy opportunity across five $3.9T addressable markets."
         },
         {
           "article_id": "958f62e207a36c40396301bb",
           "headline": "JP Morgan Triples Tesla's Price Target",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
-          "score": 0.8
+          "score": 0.8,
+          "summary": "JPMorgan's $475 target with Tesla valued across five segments—auto, energy, robotaxis, humanoid robots, licensing—signals a fundamental re-rating rather than a tactical call."
         },
         {
           "article_id": "212ace52f8c75912a525e907",
           "headline": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",
           "publisher": "(MarketWatch)",
           "sentiment": "bullish",
-          "score": 0.7
+          "score": 0.7,
+          "summary": "JPMorgan lifted Tesla to Neutral from Underweight and raised its price target from $145 to $475, ending one of Wall Street's most vocal bearish calls."
         },
         {
           "article_id": "36ec11a2c407b450f53c7d6f",
           "headline": "Tesla upgraded, Lululemon downgraded: Wall Street's top analyst calls",
           "publisher": "(The Fly)",
           "sentiment": "bullish",
-          "score": 0.7
+          "score": 0.7,
+          "summary": "JPMorgan upgraded Tesla to Neutral citing it as at the 'forefront of physical AI' with a $475 price target, up from $145; Erste Group also upgraded Tesla to Hold."
         },
         {
           "article_id": "681cd604d4ca9ef638ef9e35",
           "headline": "Tesla just delivered one of its strongest China updates in months",
           "publisher": "(GuruFocus.com)",
           "sentiment": "bullish",
-          "score": 0.7
+          "score": 0.7,
+          "summary": "Tesla's Shanghai plant delivered 85,982 vehicles in May, up 39.4% YoY, beating the broader China EV market's 12% growth and signaling demand recovery."
         }
       ]
     }
