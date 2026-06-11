@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ORCL",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T09:56:00.844171-07:00",
-  "finished_at": "2026-06-11T09:56:19.494346-07:00",
+  "started_at": "2026-06-11T16:01:25.691533-07:00",
+  "finished_at": "2026-06-11T16:01:42.941696-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 55,
-    "news_links_skipped_recent": 43,
-    "news_links_retry_failed": 2,
-    "articles_fetched_ok": 54,
+    "news_links_new": 48,
+    "news_links_skipped_recent": 49,
+    "news_links_retry_failed": 3,
+    "articles_fetched_ok": 48,
     "articles_failed": 3
   },
   "errors": [

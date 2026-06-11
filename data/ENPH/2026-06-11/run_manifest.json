@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ENPH",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T09:55:02.219147-07:00",
-  "finished_at": "2026-06-11T09:55:28.770541-07:00",
+  "started_at": "2026-06-11T16:01:09.683539-07:00",
+  "finished_at": "2026-06-11T16:01:14.008495-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,25 +50,18 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 88,
-    "news_links_skipped_recent": 1,
-    "news_links_retry_failed": 11,
-    "articles_fetched_ok": 86,
-    "articles_failed": 13
+    "news_links_new": 1,
+    "news_links_skipped_recent": 86,
+    "news_links_retry_failed": 13,
+    "articles_fetched_ok": 3,
+    "articles_failed": 11
   },
   "errors": [
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/673a678c-138f-325c-9c34-a6dcd8de1bb3/enph-stock-gains-retail.html",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260317645280/en",
       "context": {
-        "url": "https://finance.yahoo.com/m/673a678c-138f-325c-9c34-a6dcd8de1bb3/enph-stock-gains-retail.html"
-      }
-    },
-    {
-      "type": "parse_error",
-      "message": "No readable text extracted",
-      "context": {
-        "url": "https://finviz.com/news/351967/enphase-energy-announces-new-safe-harbor-agreement-from-us-tpo-provider"
+        "url": "https://www.businesswire.com/news/home/20260317645280/en"
       }
     },
     {
@@ -80,9 +73,9 @@
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260317645280/en",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260310355050/en",
       "context": {
-        "url": "https://www.businesswire.com/news/home/20260317645280/en"
+        "url": "https://www.businesswire.com/news/home/20260310355050/en"
       }
     },
     {
@@ -90,13 +83,6 @@
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/enphase-energy-stock-sees-rs-rating-climb-to-83?mod=IBD_FV",
       "context": {
         "url": "https://www.investors.com/news/enphase-energy-stock-sees-rs-rating-climb-to-83?mod=IBD_FV"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260310355050/en",
-      "context": {
-        "url": "https://www.businesswire.com/news/home/20260310355050/en"
       }
     },
     {
@@ -122,9 +108,9 @@
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV",
       "context": {
-        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
+        "url": "https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV"
       }
     },
     {
@@ -136,16 +122,16 @@
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
       "context": {
-        "url": "https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html"
+        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
       }
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html",
       "context": {
-        "url": "https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV"
+        "url": "https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html"
       }
     }
   ]

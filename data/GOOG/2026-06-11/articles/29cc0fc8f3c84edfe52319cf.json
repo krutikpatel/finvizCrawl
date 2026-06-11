@@ -4,7 +4,7 @@
   "source": {
     "name": "article",
     "url": "https://finance.yahoo.com/sectors/technology/articles/google-talks-samsung-next-generation-131006391.html",
-    "fetched_at": "2026-06-11T08:01:39.854519-07:00"
+    "fetched_at": "2026-06-11T16:01:51.258620-07:00"
   },
   "extraction": {
     "method": "http",
@@ -19,16 +19,18 @@
     "language": null
   },
   "content": {
-    "text": "June 11 (Reuters) - Alphabet's Google is in talks with Samsung Electronics to manufacture part of its next-generation chip, The Information reported on Thursday, citing two people familiar with the matter.\nGoogle plans for Taiwan's TSMC to make the main part of the chip, codenamed 'Icefish,' while Samsung may produce a separate component that helps connect it to memory using its 2-nanometer production technology, the report said.\nThe chip industry has been grappling with a capacity crunch, as TSMC, the world's largest contract chipmaker, works to keep up with surging demand and avoid becoming a bottleneck in the global supply chain amid the AI boom.\nGoogle has been seeking to make its in-house AI chips a viable alternative to Nvidia's dominant graphics processing units, with sales of its tensor processing units becoming a growth driver for the company's cloud revenue.\n\"Icefish\" remains in the design stage and could enter mass production as soon as 2028, according to The Information.\nOn Monday, The Information reported Google was in talks with Intel to manufacture more than three million TPUs in 2028, citing people familiar with the matter.\nAlphabet did not immediately respond to a request for comment, while Samsung Electronics was not immediately available for comment outside regular business hours. Reuters could not independently verify the report.\n(Reporting by Anhata Rooprai in Bengaluru; Editing by Tasim Zahid)",
+    "text": "June 11 (Reuters) - Alphabet's Google is in talks with Samsung Electronics to manufacture part of its next-generation artificial intelligence processor, The Information reported on Thursday, citing two people familiar with the matter.\nGoogle plans for TSMC to make the main computing part of the tensor processing unit, codenamed \"Icefish\", while Samsung may produce a component that helps connect it to memory using its 2-nanometer production technology, the report said.\nThe tech giant is working with chip firm MediaTek on the design, and \"Icefish\" is still in development, with mass production possible as early as 2028, the report said.\nLanding the contract would mark a big win for Samsung's push to grow its contract chip-manufacturing business. The 2nm process packs more power into smaller chips, potentially improving speed, power use and AI capabilities.\nSamsung Electronics declined to comment, while Alphabet did not immediately respond to a request for comment. Reuters could not independently verify the report.\nIn April, Samsung said it expects to win more customers for chips manufactured using the advanced technology and was considering a second Texas plant to ramp up production. In July 2025, it landed a $16.5 billion deal with Tesla to make AI chips using the process.\nThe report is the latest to suggest that Google is looking to reduce reliance on TSMC, which is trying to keep up with surging AI demand but could prove to be a bottleneck for the industry.\nThe Information reported on Monday that Google was in talks with Intel to manufacture more than three million TPUs in 2028.\nGoogle's in-house AI chips have emerged as an alternative to Nvidia's dominant graphics processors, with rising sales of the TPUs becoming a growth driver for its cloud unit. It unveiled two new custom chips in April, designed for training AI models and inference.\n(Reporting by Anhata Rooprai in Bengaluru; Editing by Tasim Zahid and Devika Syamnath)",
     "text_blocks": [
-      "June 11 (Reuters) - Alphabet's Google is in talks with Samsung Electronics to manufacture part of its next-generation chip, The Information reported on Thursday, citing two people familiar with the matter.",
-      "Google plans for Taiwan's TSMC to make the main part of the chip, codenamed 'Icefish,' while Samsung may produce a separate component that helps connect it to memory using its 2-nanometer production technology, the report said.",
-      "The chip industry has been grappling with a capacity crunch, as TSMC, the world's largest contract chipmaker, works to keep up with surging demand and avoid becoming a bottleneck in the global supply chain amid the AI boom.",
-      "Google has been seeking to make its in-house AI chips a viable alternative to Nvidia's dominant graphics processing units, with sales of its tensor processing units becoming a growth driver for the company's cloud revenue.",
-      "\"Icefish\" remains in the design stage and could enter mass production as soon as 2028, according to The Information.",
-      "On Monday, The Information reported Google was in talks with Intel to manufacture more than three million TPUs in 2028, citing people familiar with the matter.",
-      "Alphabet did not immediately respond to a request for comment, while Samsung Electronics was not immediately available for comment outside regular business hours. Reuters could not independently verify the report.",
-      "(Reporting by Anhata Rooprai in Bengaluru; Editing by Tasim Zahid)"
+      "June 11 (Reuters) - Alphabet's Google is in talks with Samsung Electronics to manufacture part of its next-generation artificial intelligence processor, The Information reported on Thursday, citing two people familiar with the matter.",
+      "Google plans for TSMC to make the main computing part of the tensor processing unit, codenamed \"Icefish\", while Samsung may produce a component that helps connect it to memory using its 2-nanometer production technology, the report said.",
+      "The tech giant is working with chip firm MediaTek on the design, and \"Icefish\" is still in development, with mass production possible as early as 2028, the report said.",
+      "Landing the contract would mark a big win for Samsung's push to grow its contract chip-manufacturing business. The 2nm process packs more power into smaller chips, potentially improving speed, power use and AI capabilities.",
+      "Samsung Electronics declined to comment, while Alphabet did not immediately respond to a request for comment. Reuters could not independently verify the report.",
+      "In April, Samsung said it expects to win more customers for chips manufactured using the advanced technology and was considering a second Texas plant to ramp up production. In July 2025, it landed a $16.5 billion deal with Tesla to make AI chips using the process.",
+      "The report is the latest to suggest that Google is looking to reduce reliance on TSMC, which is trying to keep up with surging AI demand but could prove to be a bottleneck for the industry.",
+      "The Information reported on Monday that Google was in talks with Intel to manufacture more than three million TPUs in 2028.",
+      "Google's in-house AI chips have emerged as an alternative to Nvidia's dominant graphics processors, with rising sales of the TPUs becoming a growth driver for its cloud unit. It unveiled two new custom chips in April, designed for training AI models and inference.",
+      "(Reporting by Anhata Rooprai in Bengaluru; Editing by Tasim Zahid and Devika Syamnath)"
     ],
     "html": null
   },
@@ -47,8 +49,8 @@
     "/most-active/",
     "/quote/005930.KS/",
     "/quote/2330.TW/",
+    "/quote/2454.TW/",
     "/quote/GOOGL/",
-    "/quote/NVDA/",
     "/sitemap/",
     "/trending-tickers",
     "http://www.reuters.com/",
@@ -152,6 +154,7 @@
     "https://finance.yahoo.com/personal-finance/taxes/article/wheres-my-refund-223612874.html",
     "https://finance.yahoo.com/portfolios/",
     "https://finance.yahoo.com/quote/NVDA/",
+    "https://finance.yahoo.com/quote/TSLA/",
     "https://finance.yahoo.com/research-hub/screener/",
     "https://finance.yahoo.com/research-hub/screener/analyst_strong_buy_stocks/",
     "https://finance.yahoo.com/research-hub/screener/equity/",
@@ -227,11 +230,12 @@
     "https://sports.yahoo.com/nhl/",
     "https://sports.yahoo.com/soccer/",
     "https://tech.yahoo.com/",
+    "https://tech.yahoo.com/ai/",
     "https://tech.yahoo.com/deals/breaking-news/article/early-amazon-prime-day-deals-are-live-these-are-the-best-sales-on-tech-from-apple-anker-sony-and-more-050536096.html",
     "https://travel.yahoo.com/",
     "https://twitter.com/YahooFinance",
     "https://weather.yahoo.com/",
-    "https://www.coinbase.com/stock/explore?stocks=GOOGL%2CNVDA&utm_source=yahoo_finance&utm_campaign=cx_o_m_w_m_m_yah_gro_dis_yf&utm_medium=display&utm_content=promo%3DYAHOO_1_MONTH",
+    "https://www.coinbase.com/stock/GOOGL?utm_source=yahoo_finance&utm_campaign=cx_o_m_w_m_m_yah_gro_dis_yf&utm_medium=display&utm_content=promo%3DYAHOO_1_MONTH",
     "https://www.linkedin.com/company/yahoo-finance",
     "https://www.yahoo.com/",
     "https://www.yahoo.com/entertainment/",

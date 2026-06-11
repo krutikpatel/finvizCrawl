@@ -4,7 +4,7 @@
   "source": {
     "name": "article",
     "url": "https://finance.yahoo.com/sectors/technology/articles/google-spurned-u-quantum-fund-140235176.html",
-    "fetched_at": "2026-06-11T08:01:50.954942-07:00"
+    "fetched_at": "2026-06-11T16:02:04.412844-07:00"
   },
   "extraction": {
     "method": "http",
@@ -41,9 +41,8 @@
     "/calendar/earnings?day=2026-06-11",
     "/gainers/",
     "/losers/",
-    "/more-info",
     "/most-active/",
-    "/quote/GFS/",
+    "/quote/GOOG/",
     "/quote/GOOGL/",
     "/quote/IBM/",
     "/quote/IONQ/",
@@ -55,7 +54,6 @@
     "https://facebook.com/yahoofinance",
     "https://finance.yahoo.com/",
     "https://finance.yahoo.com/about/promos/gold/alphaspace/",
-    "https://finance.yahoo.com/about/promos/gold/alphaspace/?.done=https%3A%2F%2Falphaspace.finance.yahoo.com%2F%3Fncid%3D100002891&ncid=100002891",
     "https://finance.yahoo.com/about/promos/gold/alphaspace/?.done=https%3A%2F%2Falphaspace.finance.yahoo.com%2F%3Fview%3Dmarkets%26ncid%3D100003534&ncid=100003534",
     "https://finance.yahoo.com/about/promos/silver/?.done=%2Fresearch%2Ftrade-ideas%3Fncid%3Ddcm_306158753_490172245_127172993&ncid=dcm_306158753_490172245_127172993",
     "https://finance.yahoo.com/about/promos/silver/?.done=%2Fresearch%3Fncid%3Ddcm_306158756_490172245_127172993&ncid=dcm_306158756_490172245_127172993",
@@ -229,11 +227,11 @@
     "https://travel.yahoo.com/",
     "https://twitter.com/YahooFinance",
     "https://weather.yahoo.com/",
-    "https://www.coinbase.com/stock/explore?stocks=GOOGL%2CMSFT%2CIONQ%2CIBM%2CGFS&utm_source=yahoo_finance&utm_campaign=cx_o_m_w_m_m_yah_gro_dis_yf&utm_medium=display&utm_content=promo%3DYAHOO_1_MONTH",
+    "https://www.coinbase.com/stock/explore?stocks=GOOGL%2CGOOG%2CMSFT%2CIONQ%2CIBM&utm_source=yahoo_finance&utm_campaign=cx_o_m_w_m_m_yah_gro_dis_yf&utm_medium=display&utm_content=promo%3DYAHOO_1_MONTH",
     "https://www.investing.com/",
     "https://www.investing.com/news/stock-market-news/google-spurned-us-quantum-fund-over-conditions-that-would-slow-rd-4737601?utm_medium=feed&utm_source=yahoo&utm_campaign=yahoo-www",
+    "https://www.investing.com/news/stock-market-news/morgan-stanley-cio-survey-why-ai-hype-isnt-boosting-2026-it-budgets-4446984?utm_medium=feed&utm_source=yahoo&utm_campaign=yahoo-www",
     "https://www.investing.com/news/stock-market-news/these-2-stocks-are-best-positioned-to-benefit-from-higher-uranium-prices-analyst-4437203?utm_medium=feed&utm_source=yahoo&utm_campaign=yahoo-www",
-    "https://www.investing.com/news/stock-market-news/this-sector-is-poised-for-a-big-beautiful-year-truist-4447257?utm_medium=feed&utm_source=yahoo&utm_campaign=yahoo-www",
     "https://www.linkedin.com/company/yahoo-finance",
     "https://www.yahoo.com/",
     "https://www.yahoo.com/entertainment/",

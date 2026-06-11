@@ -4,7 +4,7 @@
   "source": {
     "name": "article",
     "url": "https://www.barrons.com/articles/oracle-earnings-ai-cloud-stock-c2570ca6?mod=bar_FV",
-    "fetched_at": "2026-06-11T08:01:58.704298-07:00"
+    "fetched_at": "2026-06-11T16:02:11.713806-07:00"
   },
   "extraction": {
     "method": "http",
@@ -19,10 +19,10 @@
     "language": null
   },
   "content": {
-    "text": "Oracle Stock Slides on Mixed Earnings. Software Is an Issue.\nOracle shares fell in the Thursday premarket after the company reported mixed earnings results for its fiscal fourth quarter after the Wednesday bell. Weakness in the company’s software results may be feeding into the negative narrative on the sector.",
+    "text": "Oracle Stock Slides on Mixed Earnings. Software Is an Issue.\nOracle shares were falling on Thursday afternoon, after the company reported mixed earnings results for its fiscal fourth quarter after the Wednesday bell. Weakness in the company’s software results may be feeding into the negative narrative on the sector.",
     "text_blocks": [
       "Oracle Stock Slides on Mixed Earnings. Software Is an Issue.",
-      "Oracle shares fell in the Thursday premarket after the company reported mixed earnings results for its fiscal fourth quarter after the Wednesday bell. Weakness in the company’s software results may be feeding into the negative narrative on the sector."
+      "Oracle shares were falling on Thursday afternoon, after the company reported mixed earnings results for its fiscal fourth quarter after the Wednesday bell. Weakness in the company’s software results may be feeding into the negative narrative on the sector."
     ],
     "html": null
   },
@@ -31,7 +31,8 @@
     "/market-data/stocks/orcl",
     "/market-data/stocks/orcl?mod=article_chiclet",
     "http://ereader.barrons.com",
-    "https://corporate.barrons.com/?mod=djm_barronsfooter_44669&LS=Website&utm_source=Website&utm_campaign=barronsfooter",
+    "http://subscribe.barrons.com/bicnav?mod=BOL_TOPNAV",
+    "https://corporate.barrons.com/?LS=Website&utm_source=Website&utm_campaign=barronsfooter&mod=djm_barronsfooter_44669",
     "https://customercenter.barrons.com/home",
     "https://mediakit.wsjbarrons.com",
     "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
@@ -39,7 +40,9 @@
     "https://subscribe.barrons.com/barhpfooter",
     "https://subscribe.barrons.com/bicnav?mod=BOL_footer",
     "https://wsjshop.com/collections/barrons",
+    "https://www.barrons.com",
     "https://www.barrons.com/100-years-of-barrons?mod=BOL_footer",
+    "https://www.barrons.com/?mod=BOL_LOGO",
     "https://www.barrons.com/about/community-rules",
     "https://www.barrons.com/about/copyright-policy",
     "https://www.barrons.com/advisor?mod=BOL_TOPNAV",
@@ -78,8 +81,6 @@
     "https://www.barrons.com/video?mod=BOL_footer",
     "https://www.barrons.com/watchlist?mod=BOL_TOPNAV",
     "https://www.barrons.com/watchlist?mod=BOL_footer",
-    "https://www.barrons.com?mod=BOL_FOOTER_LOGO",
-    "https://www.barrons.com?mod=BOL_LOGO",
     "https://www.djreprints.com",
     "https://www.dowjones.com/accessibility-statement",
     "https://www.dowjones.com/cookie-notice",

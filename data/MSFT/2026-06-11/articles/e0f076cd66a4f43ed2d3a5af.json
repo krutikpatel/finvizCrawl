@@ -4,7 +4,7 @@
   "source": {
     "name": "article",
     "url": "https://finance.yahoo.com/sectors/technology/articles/crusoe-campus-delay-not-sign-132329379.html",
-    "fetched_at": "2026-06-11T08:01:55.771385-07:00"
+    "fetched_at": "2026-06-11T16:02:10.199694-07:00"
   },
   "extraction": {
     "method": "http",
@@ -19,14 +19,14 @@
     "language": null
   },
   "content": {
-    "text": "Investing.com -- Artificial intelligence-related stocks remained under pressure this week as investors grappled with concerns about AI infrastructure spending, but one analyst argues that the market may be misinterpreting the significance of a high-profile project delay.\nPrivately held AI infrastructure company Crusoe announced Tuesday that it is pausing development activities at its planned 1.8-gigawatt data center campus in Cheyenne, Wyoming. The move fueled concerns that demand for AI computing infrastructure may be slowing, sending shares of several AI-linked companies lower.\nThe announcement came at a sensitive time for markets already focused on inflation data and the outlook for technology spending. Investors initially speculated that one of Crusoe's major cloud customers, including Oracle or Microsoft, may have requested the pause, raising fears of weakening demand across the AI ecosystem.\nHowever, Lynx Equity analyst KC Rajkumar believes the situation is more nuanced.\n\"Our checks show something quite different,\" Rajkumar wrote in a note to clients. \"We think the pausing of construction announced yesterday is related to Anthropic.\"\nAccording to Rajkumar, Crusoe provides managed services built around Anthropic's AI platform and operates those services using Nvidia-based infrastructure. The analyst believes recent pricing changes for Anthropic's Claude models may have reduced demand among cloud service providers hosting the technology.\n\"We think the recent price increase at Anthropic Claude has cascaded to demand reduction at CSPs hosting Claude,\" Rajkumar said.\nThe analyst argues that the development should be viewed as part of a broader maturation process within the AI industry rather than evidence of a widespread slowdown.\n\"As inference AI matures from the proof-of-concept phase to real business lines demanding adherence to typical business metrics, CIOs are demanding value for token consumption and tokens at a reasonable price,\" Rajkumar noted.\nThe comments suggest that enterprise customers are becoming increasingly focused on return on investment from AI deployments, potentially creating challenges for smaller infrastructure providers that lack the scale advantages of larger cloud operators.\nRajkumar characterized the Crusoe announcement as an example of an industry shakeout rather than a sign that AI spending is collapsing.\n\"Pausing of development of one AI campus is not indicative of a general slowdown in the pace of AI infrastructure construction,\" he wrote. \"Rather, it is indicative of the coming shakeout in the AI infrastructure industry as smaller players having lesser scale and higher cost run into larger, deeper-pocketed hyperscale players.\"",
+    "text": "Investing.com -- Artificial intelligence-related stocks remained under pressure this week as investors grappled with concerns about AI infrastructure spending, but one analyst argues that the market may be misinterpreting the significance of a high-profile project delay.\nPrivately held AI infrastructure company Crusoe announced Tuesday that it is pausing development activities at its planned 1.8-gigawatt data center campus in Cheyenne, Wyoming. The move fueled concerns that demand for AI computing infrastructure may be slowing, sending shares of several AI-linked companies lower.\nThe announcement came at a sensitive time for markets already focused on inflation data and the outlook for technology spending. Investors initially speculated that one of Crusoe’s major cloud customers, including Oracle or Microsoft, may have requested the pause, raising fears of weakening demand across the AI ecosystem.\nHowever, Lynx Equity analyst KC Rajkumar believes the situation is more nuanced.\n\"Our checks show something quite different,\" Rajkumar wrote in a note to clients. \"We think the pausing of construction announced yesterday is related to Anthropic.\"\nAccording to Rajkumar, Crusoe provides managed services built around Anthropic’s AI platform and operates those services using Nvidia-based infrastructure. The analyst believes recent pricing changes for Anthropic’s Claude models may have reduced demand among cloud service providers hosting the technology.\n\"We think the recent price increase at Anthropic Claude has cascaded to demand reduction at CSPs hosting Claude,\" Rajkumar said.\nThe analyst argues that the development should be viewed as part of a broader maturation process within the AI industry rather than evidence of a widespread slowdown.\n\"As inference AI matures from the proof-of-concept phase to real business lines demanding adherence to typical business metrics, CIOs are demanding value for token consumption and tokens at a reasonable price,\" Rajkumar noted.\nThe comments suggest that enterprise customers are becoming increasingly focused on return on investment from AI deployments, potentially creating challenges for smaller infrastructure providers that lack the scale advantages of larger cloud operators.\nRajkumar characterized the Crusoe announcement as an example of an industry shakeout rather than a sign that AI spending is collapsing.\n\"Pausing of development of one AI campus is not indicative of a general slowdown in the pace of AI infrastructure construction,\" he wrote. \"Rather, it is indicative of the coming shakeout in the AI infrastructure industry as smaller players having lesser scale and higher cost run into larger, deeper-pocketed hyperscale players.\"",
     "text_blocks": [
       "Investing.com -- Artificial intelligence-related stocks remained under pressure this week as investors grappled with concerns about AI infrastructure spending, but one analyst argues that the market may be misinterpreting the significance of a high-profile project delay.",
       "Privately held AI infrastructure company Crusoe announced Tuesday that it is pausing development activities at its planned 1.8-gigawatt data center campus in Cheyenne, Wyoming. The move fueled concerns that demand for AI computing infrastructure may be slowing, sending shares of several AI-linked companies lower.",
-      "The announcement came at a sensitive time for markets already focused on inflation data and the outlook for technology spending. Investors initially speculated that one of Crusoe's major cloud customers, including Oracle or Microsoft, may have requested the pause, raising fears of weakening demand across the AI ecosystem.",
+      "The announcement came at a sensitive time for markets already focused on inflation data and the outlook for technology spending. Investors initially speculated that one of Crusoe’s major cloud customers, including Oracle or Microsoft, may have requested the pause, raising fears of weakening demand across the AI ecosystem.",
       "However, Lynx Equity analyst KC Rajkumar believes the situation is more nuanced.",
       "\"Our checks show something quite different,\" Rajkumar wrote in a note to clients. \"We think the pausing of construction announced yesterday is related to Anthropic.\"",
-      "According to Rajkumar, Crusoe provides managed services built around Anthropic's AI platform and operates those services using Nvidia-based infrastructure. The analyst believes recent pricing changes for Anthropic's Claude models may have reduced demand among cloud service providers hosting the technology.",
+      "According to Rajkumar, Crusoe provides managed services built around Anthropic’s AI platform and operates those services using Nvidia-based infrastructure. The analyst believes recent pricing changes for Anthropic’s Claude models may have reduced demand among cloud service providers hosting the technology.",
       "\"We think the recent price increase at Anthropic Claude has cascaded to demand reduction at CSPs hosting Claude,\" Rajkumar said.",
       "The analyst argues that the development should be viewed as part of a broader maturation process within the AI industry rather than evidence of a widespread slowdown.",
       "\"As inference AI matures from the proof-of-concept phase to real business lines demanding adherence to typical business metrics, CIOs are demanding value for token consumption and tokens at a reasonable price,\" Rajkumar noted.",
@@ -49,7 +49,8 @@
     "/losers/",
     "/more-info",
     "/most-active/",
-    "/quote/ANTP/",
+    "/quote/MSFT/",
+    "/quote/ORCL/",
     "/sitemap/",
     "/trending-tickers",
     "https://autos.yahoo.com/",
@@ -57,7 +58,6 @@
     "https://facebook.com/yahoofinance",
     "https://finance.yahoo.com/",
     "https://finance.yahoo.com/about/promos/gold/alphaspace/",
-    "https://finance.yahoo.com/about/promos/gold/alphaspace/?.done=https%3A%2F%2Falphaspace.finance.yahoo.com%2F%3Fncid%3D100002891&ncid=100002891",
     "https://finance.yahoo.com/about/promos/gold/alphaspace/?.done=https%3A%2F%2Falphaspace.finance.yahoo.com%2F%3Fview%3Dmarkets%26ncid%3D100003534&ncid=100003534",
     "https://finance.yahoo.com/about/promos/silver/?.done=%2Fresearch%2Ftrade-ideas%3Fncid%3Ddcm_306158753_490172245_127172993&ncid=dcm_306158753_490172245_127172993",
     "https://finance.yahoo.com/about/promos/silver/?.done=%2Fresearch%3Fncid%3Ddcm_306158756_490172245_127172993&ncid=dcm_306158756_490172245_127172993",
@@ -204,6 +204,7 @@
     "https://health.yahoo.com/",
     "https://help.yahoo.com/kb/finance-for-web",
     "https://help.yahoo.com/kb/finance-for-web/SLN2310.html?locale=en_US",
+    "https://help.yahoo.com/kb/index?page=content&y=PROD_FIN_DESK&locale=en_US&id=SLN37227",
     "https://local.yahoo.com/",
     "https://login.yahoo.com/?done=https%3A%2F%2Ffinance.yahoo.com%2Fsectors%2Ftechnology%2Farticles%2Fcrusoe-campus-delay-not-sign-132329379.html&intl=us&lang=en-US&activity=ybar-signin&pspid=1183300100&src=finance",
     "https://mail.yahoo.com/",
@@ -230,6 +231,7 @@
     "https://travel.yahoo.com/",
     "https://twitter.com/YahooFinance",
     "https://weather.yahoo.com/",
+    "https://www.coinbase.com/stock/explore?stocks=ORCL%2CMSFT&utm_source=yahoo_finance&utm_campaign=cx_o_m_w_m_m_yah_gro_dis_yf&utm_medium=display&utm_content=promo%3DYAHOO_1_MONTH",
     "https://www.investing.com/",
     "https://www.investing.com/news/economy-news/citi-pushes-back-fed-rate-cuts-to-may-after-blowout-january-jobs-report-4500833?utm_medium=feed&utm_source=yahoo&utm_campaign=yahoo-www",
     "https://www.investing.com/news/stock-market-news/5-reasons-why-jefferies-thinks-metas-pullback-is-a-buying-opportunity-4460320?utm_medium=feed&utm_source=yahoo&utm_campaign=yahoo-www",

@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "GOOG",
   "run_date": "2026-06-11",
-  "started_at": "2026-06-11T09:56:20.126774-07:00",
-  "finished_at": "2026-06-11T09:56:45.767468-07:00",
+  "started_at": "2026-06-11T16:01:43.616024-07:00",
+  "finished_at": "2026-06-11T16:01:59.705031-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,13 +50,20 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 72,
-    "news_links_skipped_recent": 27,
+    "news_links_new": 41,
+    "news_links_skipped_recent": 58,
     "news_links_retry_failed": 1,
-    "articles_fetched_ok": 72,
-    "articles_failed": 1
+    "articles_fetched_ok": 40,
+    "articles_failed": 2
   },
   "errors": [
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/waymo-premier-subscription-loyalty-program-robotaxi-061126",
+      "context": {
+        "url": "https://qz.com/waymo-premier-subscription-loyalty-program-robotaxi-061126"
+      }
+    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://qz.com/meta-google-new-trial-denied-youth-addiction-061026",
