@@ -4,9 +4,22 @@
   "source": {
     "name": "finviz",
     "url": "https://finviz.com/stock?t=ENPH",
-    "fetched_at": "2026-06-12T08:01:53.197124-07:00"
+    "fetched_at": "2026-06-12T16:02:56.077992-07:00"
   },
   "items": [
+    {
+      "published_at": "2026-06-12T16:39:00-07:00",
+      "published_at_raw": "Today 04:39PM",
+      "publisher": "(IPO-Edge.com)",
+      "headline": "ARRAY Technologies Hits 100 GW Milestone as Solar Demand Surges",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/array-technologies-hits-100-gw-203946355.html",
+      "resolved_url": "https://finance.yahoo.com/sectors/energy/articles/array-technologies-hits-100-gw-203946355.html",
+      "url_resolution_status": "already_absolute",
+      "url_resolution_reason": null,
+      "article_id": "fe15d3a141d09da8fd53d2e7",
+      "dedup_status": "new",
+      "dedup_reason": "not_seen_before"
+    },
     {
       "published_at": "2026-06-11T08:00:00-07:00",
       "published_at_raw": "Jun-11-26 08:00AM",
@@ -17,8 +30,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "615263f7a2727cbfbaaed684",
-      "dedup_status": "skipped_recent",
-      "dedup_reason": "recent_success"
+      "dedup_status": "new",
+      "dedup_reason": "older_than_window"
     },
     {
       "published_at": "2026-06-05T06:49:00-07:00",
@@ -30,8 +43,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "903754e66c48db28fb4af91f",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-05-27T03:52:00-07:00",
@@ -43,8 +56,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "458d8264c23e3b0f07a547cc",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-05-26T05:55:00-07:00",
@@ -56,8 +69,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "ec2497a112426b0b7c5c2bf2",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-05-21T13:01:00-07:00",
@@ -69,8 +82,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "5fa49212ff805b174d90eaef",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -82,8 +95,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "c314ccd6ec477436a0834e7c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T03:25:00-07:00",
@@ -95,8 +108,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "ab6651c54687406928b0f9c1",
-      "dedup_status": "skipped_recent",
-      "dedup_reason": "recent_success"
+      "dedup_status": "new",
+      "dedup_reason": "older_than_window"
     },
     {
       "published_at": "2026-05-19T05:30:00-07:00",
@@ -108,8 +121,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "f02692578bc4a87222e921ce",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-05-18T13:53:00-07:00",
@@ -121,8 +134,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "0d29b49fe6200ab3bb1c0fbf",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -134,8 +147,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "937deff6ddd2367b1ce56d33",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-05-13T15:52:00-07:00",
@@ -147,8 +160,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "f1a049ba11499aba714c1e5f",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T09:49:00-07:00",
@@ -160,8 +173,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "b06d8a307e0c37799090af08",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -173,8 +186,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "a212c8d1e063d453a91081ab",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-05-07T15:05:00-07:00",
@@ -186,8 +199,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "283e9e80135ec0c2b88e9b1b",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -199,8 +212,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "31d4c9e52bc9cca04d59e045",
-      "dedup_status": "skipped_recent",
-      "dedup_reason": "recent_success"
+      "dedup_status": "new",
+      "dedup_reason": "older_than_window"
     },
     {
       "published_at": "2026-05-05T08:00:00-07:00",
@@ -212,8 +225,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "14ec1157906367e8194c4903",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-05-04T08:00:00-07:00",
@@ -225,8 +238,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "2fb0be964c68ccc48d94ed02",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-04-29T11:19:00-07:00",
@@ -238,8 +251,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "b51770dc9c8656be7b76222d",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T10:27:00-07:00",
@@ -251,8 +264,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "be22b68bf8304fddfd7dad3c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:30:00-07:00",
@@ -264,8 +277,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "0e43181ab0946358fbd7e41b",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T03:09:00-07:00",
@@ -277,8 +290,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "0432ba1b86efca56f4e63847",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-04-28T16:56:00-07:00",
@@ -290,8 +303,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "f221ee4ccb5f6d8f27059d7d",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T16:05:00-07:00",
@@ -303,8 +316,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "897338b39981700af45ed6e3",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T16:02:00-07:00",
@@ -316,8 +329,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "14109db6e9edb115108b688d",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-04-22T08:00:00-07:00",
@@ -329,8 +342,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "ca370e288f0984abb5e3a026",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-04-15T12:41:00-07:00",
@@ -342,8 +355,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "76025a3903fb9ec39cbaac10",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-04-13T08:00:00-07:00",
@@ -355,8 +368,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "c024ae91a815cbfa8e78d33a",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-04-07T08:00:00-07:00",
@@ -368,8 +381,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "d2fbbbdde98015934b94b8bf",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-26T09:00:00-07:00",
@@ -381,8 +394,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "62251e5d7c49addef5a17976",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -394,8 +407,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "cc96686baf9f81362c2773cf",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-24T16:00:00-07:00",
@@ -420,8 +433,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "f094a33cbf2e77c63da7e2dd",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-19T09:00:00-07:00",
@@ -433,8 +446,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "7aa5de16232e471c36da8db2",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-18T09:00:00-07:00",
@@ -446,8 +459,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "4f2850525a3a5dbe18dffadb",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-17T16:00:00-07:00",
@@ -485,8 +498,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "8de7811a45ceeb7da907a830",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-12T09:00:00-07:00",
@@ -498,8 +511,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "4926b121032ea3b0cc1cbf37",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T04:24:00-07:00",
@@ -511,8 +524,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "b8501c8674b044128c0e7985",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-10T16:00:00-07:00",
@@ -537,8 +550,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "089cf342b302f43783bad15a",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T12:27:00-07:00",
@@ -550,8 +563,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "8543a813629d83e07eacb3ae",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-09T09:28:00-07:00",
@@ -563,8 +576,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "47eeb5cdf40235629fbf41cd",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T03:30:00-07:00",
@@ -576,8 +589,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "867cff5aaa9c86148c8d108c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-08T16:55:00-07:00",
@@ -589,8 +602,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "a2778471e478e422cf7913f2",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-03-06T08:56:00-08:00",
@@ -602,8 +615,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "a5ef13725d12c1478ac2c43b",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T01:50:00-07:00",
@@ -615,8 +628,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "f850b0c6cbf7ef1b2c22613c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-05T14:25:00-08:00",
@@ -628,8 +641,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "416e59be7214dcf8076c12b5",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T11:30:00-07:00",
@@ -641,8 +654,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "f84271286268439a6d286f74",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-04T17:50:00-08:00",
@@ -654,8 +667,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "758460f31c097841d4ead996",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T14:36:00-07:00",
@@ -667,8 +680,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "6fcd89af0ba7aeb0b24bb15d",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-03T11:25:00-08:00",
@@ -680,8 +693,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "c29ab436610e36d8abfa371a",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T09:00:00-07:00",
@@ -693,8 +706,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "7d7e366429e09b3e2d02f190",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -706,8 +719,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "ca85db043e02abbc48be3250",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-03-02T18:03:00-08:00",
@@ -719,8 +732,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "c8b797a5843f897e9c8269df",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-27T22:57:00-08:00",
@@ -732,8 +745,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "34e1d14ed71358ded80de938",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-26T09:57:00-08:00",
@@ -745,8 +758,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "b71ca4c03c1e777a03d12858",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-25T09:32:00-08:00",
@@ -758,8 +771,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "90791999ed7d35b3bb75301e",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T07:57:00-07:00",
@@ -771,8 +784,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "3eaed2c743031362faf3c22e",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T07:22:00-07:00",
@@ -784,8 +797,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "ba48ffe0b020db7a4b2e89dd",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-23T12:18:00-08:00",
@@ -797,8 +810,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "f05816e0b7e3bbc45a6b56dc",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-20T16:25:00-08:00",
@@ -810,8 +823,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "0649b5ba5ffee237fd07866c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T11:30:00-07:00",
@@ -823,8 +836,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "7dc321b78b48d0b844920382",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T09:00:00-07:00",
@@ -836,8 +849,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "7a7caf3b7f1b7d85c4a8e8f3",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T07:15:00-07:00",
@@ -862,8 +875,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "4fc137828dbf5c4d2b9020dc",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-17T23:33:00-08:00",
@@ -875,8 +888,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "f84105399ac770c3f161402c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -888,8 +901,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "440cb583493062ad13f0e935",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-13T09:00:00-08:00",
@@ -901,8 +914,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "f077f22b32184e9d64283f8e",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-10T00:33:00-08:00",
@@ -914,8 +927,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "47bdfe3854779583d1b10f02",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-09T09:00:00-08:00",
@@ -927,8 +940,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "2bc293edbfa9a6a0104687e4",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:00:00-07:00",
@@ -940,8 +953,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "60460c6583c81f92c3381364",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-07T07:04:00-08:00",
@@ -953,8 +966,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "0ff139c577ad5ec9c1384d89",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-06T15:50:00-08:00",
@@ -966,8 +979,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "259bf20354f20db0f27be828",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T14:48:00-07:00",
@@ -979,8 +992,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "8c19f1008eef905a8cc18d92",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-05T16:44:00-08:00",
@@ -992,8 +1005,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "7588c309af61062a0a124064",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T13:17:00-07:00",
@@ -1005,8 +1018,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "1a73c76e1c8ac30451baf933",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T09:01:00-07:00",
@@ -1018,8 +1031,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "185721068f4fe5990be0412d",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T02:27:00-07:00",
@@ -1031,8 +1044,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "5f0bfcff5a07a783d5828c85",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-02-04T17:28:00-08:00",
@@ -1044,8 +1057,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "dcdb5d1cfa7799cdebefab5b",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T17:12:00-07:00",
@@ -1070,8 +1083,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "af9caacf800fafa216b6b0cf",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "retry_failed_recent",
+      "dedup_reason": "recent_failure_retry"
     },
     {
       "published_at": "2026-06-12T15:57:00-07:00",
@@ -1096,8 +1109,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "a76e306b9de048d00e8d8f58",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T13:22:00-07:00",
@@ -1122,8 +1135,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "2d05a3fc151b4f61c9600b7d",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T11:54:00-07:00",
@@ -1135,8 +1148,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "d8291b93dc93fa516106fdcb",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T11:54:00-07:00",
@@ -1161,8 +1174,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "b19e6b0ef8c1c1915303e709",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T10:42:00-07:00",
@@ -1174,8 +1187,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "66941146887c0041fb56dc3e",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T10:41:00-07:00",
@@ -1187,8 +1200,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "9d68786839533d86c825ba6f",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T10:29:00-07:00",
@@ -1213,8 +1226,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "7746b35e2325d641fa47f059",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T10:06:00-07:00",
@@ -1226,8 +1239,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "4f80a55867fca8f3ea3d477c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T09:04:00-07:00",
@@ -1239,8 +1252,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "db87dbf613a20aeeffad5841",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T08:15:00-07:00",
@@ -1265,8 +1278,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "1348bd46d82fc7e01906b90c",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T07:13:00-07:00",
@@ -1278,8 +1291,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "ed2971b9a687ee2837006449",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-06-12T06:22:00-07:00",
@@ -1291,21 +1304,8 @@
       "url_resolution_status": "already_absolute",
       "url_resolution_reason": null,
       "article_id": "fd2a00692c1a5f2b96a2fe8e",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
-    },
-    {
-      "published_at": "2026-06-12T05:47:00-07:00",
-      "published_at_raw": "05:47AM",
-      "publisher": "(MarketWatch)",
-      "headline": "AMD shares dip, Super Micro's pop after earnings, and other early movers",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-up-after-software-dive-amd-down-alphabet-gold/card/amd-shares-dip-super-micro-s-pop-after-earnings-and-other-early-movers-JeLwuDOpjzCjWGprHeco?mod=mw_FV",
-      "resolved_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-up-after-software-dive-amd-down-alphabet-gold/card/amd-shares-dip-super-micro-s-pop-after-earnings-and-other-early-movers-JeLwuDOpjzCjWGprHeco?mod=mw_FV",
-      "url_resolution_status": "already_absolute",
-      "url_resolution_reason": null,
-      "article_id": "418fef86329bcac1fd515d44",
-      "dedup_status": "new",
-      "dedup_reason": "older_than_window"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     }
   ]
 }

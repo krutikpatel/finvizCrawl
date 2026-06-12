@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "GOOG",
   "run_date": "2026-06-12",
-  "started_at": "2026-06-12T08:03:12.827095-07:00",
-  "finished_at": "2026-06-12T08:03:40.764613-07:00",
+  "started_at": "2026-06-12T16:03:41.004597-07:00",
+  "finished_at": "2026-06-12T16:04:12.870049-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 58,
-    "news_links_skipped_recent": 40,
+    "news_links_new": 50,
+    "news_links_skipped_recent": 48,
     "news_links_retry_failed": 2,
-    "articles_fetched_ok": 58,
+    "articles_fetched_ok": 50,
     "articles_failed": 2
   },
   "errors": [

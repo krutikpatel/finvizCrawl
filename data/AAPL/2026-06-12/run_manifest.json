@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "AAPL",
   "run_date": "2026-06-12",
-  "started_at": "2026-06-12T08:00:27.105515-07:00",
-  "finished_at": "2026-06-12T08:00:53.034795-07:00",
+  "started_at": "2026-06-12T16:00:48.207004-07:00",
+  "finished_at": "2026-06-12T16:01:32.085421-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,25 +50,25 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 71,
-    "news_links_skipped_recent": 26,
+    "news_links_new": 30,
+    "news_links_skipped_recent": 67,
     "news_links_retry_failed": 3,
-    "articles_fetched_ok": 71,
+    "articles_fetched_ok": 30,
     "articles_failed": 3
   },
   "errors": [
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/apple-stock-slides-after-ai-strategy-reveal-wwdc-2026?mod=IBD_FV",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/apple-siri-ai-eu-iphone-dma-delay-060926",
       "context": {
-        "url": "https://www.investors.com/news/technology/apple-stock-slides-after-ai-strategy-reveal-wwdc-2026?mod=IBD_FV"
+        "url": "https://qz.com/apple-siri-ai-eu-iphone-dma-delay-060926"
       }
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/apple-siri-ai-eu-iphone-dma-delay-060926",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/apple-stock-slides-after-ai-strategy-reveal-wwdc-2026?mod=IBD_FV",
       "context": {
-        "url": "https://qz.com/apple-siri-ai-eu-iphone-dma-delay-060926"
+        "url": "https://www.investors.com/news/technology/apple-stock-slides-after-ai-strategy-reveal-wwdc-2026?mod=IBD_FV"
       }
     },
     {

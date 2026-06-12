@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "HOOD",
   "run_date": "2026-06-12",
-  "started_at": "2026-06-12T08:02:24.038136-07:00",
-  "finished_at": "2026-06-12T08:02:53.402775-07:00",
+  "started_at": "2026-06-12T16:03:07.004493-07:00",
+  "finished_at": "2026-06-12T16:03:13.574436-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 89,
-    "news_links_skipped_recent": 9,
-    "news_links_retry_failed": 2,
-    "articles_fetched_ok": 89,
-    "articles_failed": 2
+    "news_links_new": 15,
+    "news_links_skipped_recent": 84,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 15,
+    "articles_failed": 1
   },
   "errors": [
     {
@@ -62,13 +62,6 @@
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV",
       "context": {
         "url": "https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/robinhood-ai-agent-trading-credit-card-052726",
-      "context": {
-        "url": "https://qz.com/robinhood-ai-agent-trading-credit-card-052726"
       }
     }
   ]

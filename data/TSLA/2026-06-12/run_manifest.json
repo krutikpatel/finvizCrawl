@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "TSLA",
   "run_date": "2026-06-12",
-  "started_at": "2026-06-12T08:00:05.020318-07:00",
-  "finished_at": "2026-06-12T08:00:26.343094-07:00",
+  "started_at": "2026-06-12T16:00:06.159374-07:00",
+  "finished_at": "2026-06-12T16:00:47.535504-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,26 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 55,
-    "news_links_skipped_recent": 43,
-    "news_links_retry_failed": 2,
-    "articles_fetched_ok": 55,
-    "articles_failed": 2
+    "news_links_new": 58,
+    "news_links_skipped_recent": 42,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 58,
+    "articles_failed": 0
   },
-  "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/spacex-tesla-elon-musk-asml-semiconductor-terafab-ai-chips?mod=IBD_FV",
-      "context": {
-        "url": "https://www.investors.com/news/spacex-tesla-elon-musk-asml-semiconductor-terafab-ai-chips?mod=IBD_FV"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/tesla-stock-fsd-approved-in-denmark-elon-musk-says-this-about-ai-chips?mod=IBD_FV",
-      "context": {
-        "url": "https://www.investors.com/news/tesla-stock-fsd-approved-in-denmark-elon-musk-says-this-about-ai-chips?mod=IBD_FV"
-      }
-    }
-  ]
+  "errors": []
 }

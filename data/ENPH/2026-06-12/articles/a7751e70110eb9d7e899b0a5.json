@@ -4,14 +4,14 @@
   "source": {
     "name": "article",
     "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html",
-    "fetched_at": "2026-06-12T08:02:17.034342-07:00"
+    "fetched_at": "2026-06-12T16:03:04.412650-07:00"
   },
   "extraction": {
     "method": "http",
     "success": false,
     "error": {
       "type": "http_error",
-      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html",
       "context": {
         "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html"
       }

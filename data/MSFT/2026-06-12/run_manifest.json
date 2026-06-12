@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MSFT",
   "run_date": "2026-06-12",
-  "started_at": "2026-06-12T08:03:41.408121-07:00",
-  "finished_at": "2026-06-12T08:04:04.294606-07:00",
+  "started_at": "2026-06-12T16:04:13.615821-07:00",
+  "finished_at": "2026-06-12T16:04:42.049452-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 65,
-    "news_links_skipped_recent": 32,
+    "news_links_new": 43,
+    "news_links_skipped_recent": 54,
     "news_links_retry_failed": 3,
-    "articles_fetched_ok": 65,
-    "articles_failed": 3
+    "articles_fetched_ok": 42,
+    "articles_failed": 4
   },
   "errors": [
     {
@@ -62,6 +62,13 @@
       "message": "403 Client Error: Forbidden for url: https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126",
       "context": {
         "url": "https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/3110cf15-4304-3c51-ac02-adfc720d9912/mn8-energy-launches-260mwac.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/3110cf15-4304-3c51-ac02-adfc720d9912/mn8-energy-launches-260mwac.html"
       }
     },
     {
