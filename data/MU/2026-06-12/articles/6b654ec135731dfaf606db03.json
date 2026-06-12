@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/926d77a5-285d-3ae6-867c-f89b28968b91/the-ai-buildout-is-still.html",
+    "fetched_at": "2026-06-12T08:01:24.190519-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/926d77a5-285d-3ae6-867c-f89b28968b91/the-ai-buildout-is-still.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/926d77a5-285d-3ae6-867c-f89b28968b91/the-ai-buildout-is-still.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

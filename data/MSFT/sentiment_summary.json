@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-11T16:22:50.002623-07:00",
-  "total_analyzed": 25,
+  "generated_at": "2026-06-12T08:24:06.592725-07:00",
+  "total_analyzed": 90,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.038,
+  "overall_score_avg": 0.01,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 65,
+      "sentiment": "neutral",
+      "score_avg": 0.028,
+      "top_headlines": [
+        {
+          "headline": "Microsoft Copilot Gets Massive NHS Rollout",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Microsoft Copilot gets a massive NHS 505K-employee rollout, demonstrating enterprise AI adoption at scale and validating the Copilot monetization thesis."
+        },
+        {
+          "headline": "Microsoft Expands NHS AI Rollout",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Microsoft expands its NHS AI rollout, confirming public sector enterprise penetration and the scalability of its Copilot revenue model."
+        },
+        {
+          "headline": "Nvidia Deepens Microsoft AI Alliance",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Nvidia deepens its Microsoft AI alliance, reinforcing Azure's GPU infrastructure leadership and accelerating its AI cloud competitive advantage."
+        },
+        {
+          "headline": "Microsoft Gets a Fresh AI Cloud Signal",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Microsoft gets a fresh AI cloud demand signal from SpaceX's massive compute deal, supporting the bull thesis on Azure's AI infrastructure capacity."
+        },
+        {
+          "headline": "Dow turns red. Microsoft's stock is the biggest drag despite tech's rally.",
+          "sentiment": "bearish",
+          "score": -0.48,
+          "summary": "Microsoft's stock is the biggest drag on the Dow despite tech's rally, signaling specific underperformance and investor concern."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 25,

@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "run_date": "2026-06-12",
+  "started_at": "2026-06-12T08:01:52.700357-07:00",
+  "finished_at": "2026-06-12T08:02:23.358423-07:00",
+  "timezone": "America/Los_Angeles",
+  "config": {
+    "project": {
+      "name": "finzwiz",
+      "schema_version": "1.0"
+    },
+    "output": {
+      "data_dir": "data",
+      "pretty_json": true
+    },
+    "dedup": {
+      "retention_days": 15,
+      "seen_urls_filename": "seen_urls.jsonl",
+      "compact_on_write": false
+    },
+    "scraping": {
+      "backend": "http",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "timeout_seconds": 30,
+      "retries": 2,
+      "delay_seconds": 1.0,
+      "max_concurrency": 5,
+      "playwright": {
+        "headless": true
+      }
+    },
+    "articles": {
+      "include_raw_html": false,
+      "max_text_chars": 0
+    },
+    "sentiment": {
+      "model": "claude-haiku-4-5-20251001",
+      "max_articles_per_batch": 20,
+      "log_filename": "sentiment_log.jsonl",
+      "summary_filename": "sentiment_summary.json"
+    }
+  },
+  "artifacts": {
+    "finviz_quote": "data/ENPH/2026-06-12/finviz_quote.json",
+    "finviz_news": "data/ENPH/2026-06-12/finviz_news.json",
+    "articles_dir": "data/ENPH/2026-06-12/articles",
+    "dedup_file": "data/ENPH/seen_urls.jsonl",
+    "run_manifest": "data/ENPH/2026-06-12/run_manifest.json"
+  },
+  "stats": {
+    "news_links_total": 100,
+    "news_links_new": 86,
+    "news_links_skipped_recent": 3,
+    "news_links_retry_failed": 11,
+    "articles_fetched_ok": 71,
+    "articles_failed": 26
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /sectors/energy/articles/enphase-energy-stock-surges-data-170141349.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/sectors/energy/articles/enphase-energy-stock-surges-data-170141349.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/555a2eff-aa85-3640-bed7-d4e75548ac0c/micron%2C-intel%2C-sandisk-hogged.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/555a2eff-aa85-3640-bed7-d4e75548ac0c/micron%2C-intel%2C-sandisk-hogged.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/5eac3bb4-506f-3a2b-8ad9-a5cca6953af5/can-enphase-energy-10x-in-10.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/5eac3bb4-506f-3a2b-8ad9-a5cca6953af5/can-enphase-energy-10x-in-10.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /sectors/energy/articles/solar-rout-deepens-market-faces-190556319.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/sectors/energy/articles/solar-rout-deepens-market-faces-190556319.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/31bb610e-759a-34ec-abba-85ba847aff9a/enphase-energy%2C-inc.-q1-2026.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/31bb610e-759a-34ec-abba-85ba847aff9a/enphase-energy%2C-inc.-q1-2026.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /sectors/energy/articles/enphase-energy-inc-enph-q1-070953732.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/sectors/energy/articles/enphase-energy-inc-enph-q1-070953732.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /sectors/energy/articles/enphase-energy-q1-earnings-snapshot-205617746.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/sectors/energy/articles/enphase-energy-q1-earnings-snapshot-205617746.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260324439697/en",
+      "context": {
+        "url": "https://www.businesswire.com/news/home/20260324439697/en"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260317645280/en",
+      "context": {
+        "url": "https://www.businesswire.com/news/home/20260317645280/en"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/enphase-energy-stock-sees-rs-rating-climb-to-83?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/enphase-energy-stock-sees-rs-rating-climb-to-83?mod=IBD_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260310355050/en",
+      "context": {
+        "url": "https://www.businesswire.com/news/home/20260310355050/en"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /news/first-solar-tax-credit-dependency-205513480.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/news/first-solar-tax-credit-dependency-205513480.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/22c6d5e8-99de-3c69-8ac2-3d9940ed2e9e/the-one-fed-signal-that-could.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/22c6d5e8-99de-3c69-8ac2-3d9940ed2e9e/the-one-fed-signal-that-could.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /news/oracle-upgraded-workday-downgraded-wall-143205044.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/news/oracle-upgraded-workday-downgraded-wall-143205044.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/4169d733-42be-3151-835b-ba5bd346912c/here-are-wednesday%E2%80%99s-top-wall.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/4169d733-42be-3151-835b-ba5bd346912c/here-are-wednesday%E2%80%99s-top-wall.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20260220079738/en/",
+      "context": {
+        "url": "https://www.businesswire.com/news/home/20260220079738/en/"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/8eb78c5c-8ba9-31f5-86a3-858a6ec236c1/bloom-energy%2C-the-clean.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/8eb78c5c-8ba9-31f5-86a3-858a6ec236c1/bloom-energy%2C-the-clean.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/8eb78c5c-8ba9-31f5-86a3-858a6ec236c1/bloom-energy-has-declined-20%25.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/8eb78c5c-8ba9-31f5-86a3-858a6ec236c1/bloom-energy-has-declined-20%25.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /news/enphase-energy-price-target-raised-140127866.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/news/enphase-energy-price-target-raised-140127866.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/2d3e430f-0b4e-370e-b4fb-5b61f5966988/enphase-energy-stock-just.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/2d3e430f-0b4e-370e-b4fb-5b61f5966988/enphase-energy-stock-just.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV"
+      }
+    }
+  ]
+}

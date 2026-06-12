@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "HOOD",
-  "generated_at": "2026-06-11T16:22:48.824969-07:00",
-  "total_analyzed": 8,
+  "generated_at": "2026-06-12T08:24:05.354915-07:00",
+  "total_analyzed": 97,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.256,
+  "overall_score_avg": 0.305,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 89,
+      "sentiment": "bullish",
+      "score_avg": 0.31,
+      "top_headlines": [
+        {
+          "headline": "COIN, HOOD Stocks Jump After US Regulator Greenlights Crypto Perpetual Futures",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "COIN and HOOD stocks jump after US regulator greenlights crypto perpetual futures, unlocking a major new product category for Robinhood."
+        },
+        {
+          "headline": "Robinhood will let AI trade stocks and buy stuff for you",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Robinhood's AI agent trading launch is a major product innovation enabling autonomous investing, potentially driving significant engagement growth."
+        },
+        {
+          "headline": "Robinhood CEO Says His Company Gets Greenlight to Underwrite IPOs",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Robinhood's CEO confirms regulatory approval to underwrite IPOs, opening a massive new revenue stream in the capital markets business."
+        },
+        {
+          "headline": "Robinhood Lets Customers Use AI to Trade Stocks, Make Credit-Card Purchases",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Robinhood enabling AI agents to trade stocks and make credit card purchases positions it as the most technologically advanced retail brokerage."
+        },
+        {
+          "headline": "Robinhood Opens Platform to AI Agents for Trading",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Robinhood opens its platform to AI agents for trading, entering an emerging agentic finance market that could redefine retail brokerage."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 8,

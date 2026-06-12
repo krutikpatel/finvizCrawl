@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547?mod=wsj_FV",
+    "fetched_at": "2026-06-12T08:01:12.559612-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Funding rounds and IPOs raising 11-figure sums. Blockbuster bond sales spanning three continents. The casual announcement of an $85 billion equity raise.\nSuch is life on Wall Street at the dawn of the artificial-intelligence build-out. Tech companies are hungry for cash to invest in data centers, and investors are forking it over through all possible means, in all parts of the globe—a flurry of fundraising that has mostly supported markets by powering technological advances, even as it tests their ability to absorb it all.\nAlphabet’s GOOGL -2.13%decrease; down pointing triangle announcement that it would raise $85 billion of equity was just the latest example. SpaceX, Anthropic and OpenAI are poised for public listings that could make this year the biggest ever for money raised through IPOs.\nMeanwhile, the AI hyperscalers Alphabet, Amazon.com AMZN -0.47%decrease; down pointing triangle, Meta META -1.42%decrease; down pointing triangle Platforms, Microsoft MSFT -2.55%decrease; down pointing triangle and Oracle ORCL -11.81%decrease; down pointing triangle have issued $159 billion of bonds globally this year—up from $108 billion all of last year and just $17 billion in 2024, according to Dealogic. Data-center developers have raised billions more in the high-yield bond market, while upstart AI cloud companies are borrowing from banks and private-credit firms to fund purchases of chips.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Funding rounds and IPOs raising 11-figure sums. Blockbuster bond sales spanning three continents. The casual announcement of an $85 billion equity raise.",
+      "Such is life on Wall Street at the dawn of the artificial-intelligence build-out. Tech companies are hungry for cash to invest in data centers, and investors are forking it over through all possible means, in all parts of the globe—a flurry of fundraising that has mostly supported markets by powering technological advances, even as it tests their ability to absorb it all.",
+      "Alphabet’s GOOGL -2.13%decrease; down pointing triangle announcement that it would raise $85 billion of equity was just the latest example. SpaceX, Anthropic and OpenAI are poised for public listings that could make this year the biggest ever for money raised through IPOs.",
+      "Meanwhile, the AI hyperscalers Alphabet, Amazon.com AMZN -0.47%decrease; down pointing triangle, Meta META -1.42%decrease; down pointing triangle Platforms, Microsoft MSFT -2.55%decrease; down pointing triangle and Oracle ORCL -11.81%decrease; down pointing triangle have issued $159 billion of bonds globally this year—up from $108 billion all of last year and just $17 billion in 2024, according to Dealogic. Data-center developers have raised billions more in the high-yield bond market, while upstart AI cloud companies are borrowing from banks and private-credit firms to fund purchases of chips.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  },
+  "links": [
+    "#comments_sector",
+    "/market-data/quotes/AMZN",
+    "/market-data/quotes/GOOGL",
+    "/market-data/quotes/META",
+    "/market-data/quotes/MSFT",
+    "/market-data/quotes/ORCL",
+    "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
+    "https://www.barrons.com/client/silent-login?target=https%3A%2F%2Fwww.barrons.com",
+    "https://www.marketwatch.com/client/silent-login?target=https%3A%2F%2Fwww.marketwatch.com",
+    "https://www.wsj.com/",
+    "https://www.wsj.com/arts-culture?mod=nav_top_section",
+    "https://www.wsj.com/audio?mod=wsjheader",
+    "https://www.wsj.com/business?mod=nav_top_section",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com%2Fbuyside",
+    "https://www.wsj.com/digital-print-edition?mod=wsjheader",
+    "https://www.wsj.com/economy?mod=nav_top_section",
+    "https://www.wsj.com/finance/investing?mod=breadcrumb",
+    "https://www.wsj.com/finance/stocks/market-rout-leaves-wall-street-bracing-for-rockier-times-41feee60?mod=wsj_furtherreading_pos_2",
+    "https://www.wsj.com/finance?mod=breadcrumb",
+    "https://www.wsj.com/finance?mod=nav_top_section",
+    "https://www.wsj.com/health?mod=nav_top_section",
+    "https://www.wsj.com/lifestyle?mod=nav_top_section",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/exclusive-google-equity-raise-exceeds-expectations-hkhPF0iCfyux6qXhHfQ9?mod=article_inline",
+    "https://www.wsj.com/news/author/sam-goldfarb",
+    "https://www.wsj.com/news/latest-headlines?mod=wsjheader",
+    "https://www.wsj.com/news/puzzle?mod=wsjheader",
+    "https://www.wsj.com/opinion/free-expression?mod=nav_top_section",
+    "https://www.wsj.com/opinion?mod=nav_top_section",
+    "https://www.wsj.com/personal-finance?mod=nav_top_section",
+    "https://www.wsj.com/politics?mod=nav_top_section",
+    "https://www.wsj.com/real-estate?mod=nav_top_section",
+    "https://www.wsj.com/sports?mod=nav_top_section",
+    "https://www.wsj.com/style?mod=nav_top_section",
+    "https://www.wsj.com/subscribe?page=wsjplusns",
+    "https://www.wsj.com/tech/ai/google-is-daring-rivals-to-keep-up-in-ai-spending-race-9975c3c0?mod=wsj_furtherreading_pos_3",
+    "https://www.wsj.com/tech/ai/spacexs-rocket-monopoly-gives-it-an-edge-over-openai-in-the-ipo-race-7d8fe513?mod=wsj_furtherreading_pos_5",
+    "https://www.wsj.com/tech/ai/venture-capital-turns-to-hardware-bets-as-ai-threatens-software-companies-29b8b5f3?mod=wsj_furtherreading_pos_4",
+    "https://www.wsj.com/tech/anthropic-ipo-paperwork-9a48c35e?mod=article_inline",
+    "https://www.wsj.com/tech/openai-files-for-ipo-824ecc5e?mod=wsj_furtherreading_pos_1",
+    "https://www.wsj.com/tech?mod=nav_top_section",
+    "https://www.wsj.com/topics/subject/spacex",
+    "https://www.wsj.com/us-news?mod=nav_top_section",
+    "https://www.wsj.com/video?mod=wsjheader",
+    "https://www.wsj.com/world?mod=nav_top_section"
+  ]
+}

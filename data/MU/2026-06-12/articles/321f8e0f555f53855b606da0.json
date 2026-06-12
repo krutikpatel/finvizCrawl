@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2d0838c4-bdc2-3eb0-a51d-701739894f84/nasdaq%27s-chipmakers-to-power.html",
+    "fetched_at": "2026-06-12T08:01:30.975084-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/2d0838c4-bdc2-3eb0-a51d-701739894f84/nasdaq%27s-chipmakers-to-power.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/2d0838c4-bdc2-3eb0-a51d-701739894f84/nasdaq%27s-chipmakers-to-power.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

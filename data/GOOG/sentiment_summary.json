@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "GOOG",
-  "generated_at": "2026-06-11T16:22:49.609518-07:00",
-  "total_analyzed": 27,
+  "generated_at": "2026-06-12T08:24:06.171619-07:00",
+  "total_analyzed": 85,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.059,
+  "overall_score_avg": 0.081,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 58,
+      "sentiment": "neutral",
+      "score_avg": 0.092,
+      "top_headlines": [
+        {
+          "headline": "SpaceX IPO Can Pump $100 Billion Into Googles Alphabet Stock",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "SpaceX IPO could pump $100 billion into Alphabet stock as its ~5% SpaceX stake worth $87-100B becomes publicly referenceable value."
+        },
+        {
+          "headline": "Buy SpaceX, Sell Tesla: A Case For Switching Musk Stocks",
+          "sentiment": "bearish",
+          "score": -0.62,
+          "summary": "Analyst recommends rotating capital from Tesla to SpaceX, directly signaling bearish outlook as TSLA loses its 'premier Musk vehicle' premium."
+        },
+        {
+          "headline": "What massive SpaceX-Alphabet compute deal means ahead of IPO",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "SpaceX's $920M/month cloud deal validates massive AI infrastructure demand, with the compute agreement likely boosting Google Cloud revenue significantly."
+        },
+        {
+          "headline": "MediaTek Soars 187% as Google AI Chip Partnership Fuels Revaluation",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "MediaTek soars 187% on the Google AI chip partnership, confirming the strategic depth of Alphabet's silicon diversification and AI capability investments."
+        },
+        {
+          "headline": "Google Backs $35 Billion Anthropic AI Infrastructure Financing Deal",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Google backs Anthropic's $35B AI infrastructure financing, reinforcing its AI leadership position and deepening its stake in a key frontier model."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 27,

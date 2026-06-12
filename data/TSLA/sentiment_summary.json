@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-11T16:22:46.854057-07:00",
-  "total_analyzed": 161,
+  "generated_at": "2026-06-12T08:24:03.342673-07:00",
+  "total_analyzed": 202,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.082,
+  "overall_score_avg": 0.074,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 41,
+      "sentiment": "neutral",
+      "score_avg": 0.046,
+      "top_headlines": [
+        {
+          "headline": "SpaceX raises $75B in historic IPO, valued at $1.77 trillion",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "TSLA shows strong bullish momentum with significant price appreciation and positive catalysts."
+        },
+        {
+          "headline": "SpaceX Faces Crucial Market Debut Following Historic IPO Success",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "TSLA shows strong bullish momentum with significant price appreciation and positive catalysts."
+        },
+        {
+          "headline": "SpaceX Launches Record $75B IPO",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "TSLA shows strong bullish momentum with significant price appreciation and positive catalysts."
+        },
+        {
+          "headline": "Buy SpaceX, Sell Tesla: A Case For Switching Musk Stocks",
+          "sentiment": "bearish",
+          "score": -0.62,
+          "summary": "Analyst recommends rotating capital from Tesla to SpaceX, directly signaling bearish outlook as TSLA loses its 'premier Musk vehicle' premium."
+        },
+        {
+          "headline": "Tesla Robotaxi Rollout Faces Fresh Scrutiny",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Tesla's robotaxi rollout faces fresh regulatory scrutiny with only 59 cars deployed, raising concerns about the pace of its autonomous vehicles commercialization."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 21,

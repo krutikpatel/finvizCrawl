@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-11T16:22:47.657224-07:00",
-  "total_analyzed": 123,
+  "generated_at": "2026-06-12T08:24:04.155052-07:00",
+  "total_analyzed": 156,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.03,
+  "overall_score_avg": -0.019,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 33,
+      "sentiment": "neutral",
+      "score_avg": 0.023,
+      "top_headlines": [
+        {
+          "headline": "SpaceX raises $75B in historic IPO, valued at $1.77 trillion",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "META shows strong bullish momentum with significant price appreciation and positive catalysts."
+        },
+        {
+          "headline": "These 2 things are key for Meta stock re-rating: BofA",
+          "sentiment": "bullish",
+          "score": 0.58,
+          "summary": "BofA highlights two key re-rating catalysts for Meta stock — AI monetization acceleration and the Llama ecosystem — maintaining a Buy with $835 target."
+        },
+        {
+          "headline": "Meta Expands AI Partnership With Reliance",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Meta expands its AI partnership with Reliance in India, accessing a massive distribution network for AI services and data center infrastructure."
+        },
+        {
+          "headline": "Meta signs AI data centre agreement with Reliance in India",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Meta's AI data center agreement with Reliance in India secures low-cost capacity and regional data localization for a market of 1.4B users."
+        },
+        {
+          "headline": "Oracle shares slide as hefty AI spending, debt plans spook investors",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Oracle shares slide as hefty AI spending and debt fundraising plans spook investors, triggering significant post-earnings de-rating."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 24,

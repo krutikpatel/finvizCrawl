@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-11T16:22:48.048341-07:00",
-  "total_analyzed": 125,
+  "generated_at": "2026-06-12T08:24:04.554740-07:00",
+  "total_analyzed": 130,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.042,
+  "overall_score_avg": 0.04,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 5,
+      "sentiment": "bearish",
+      "score_avg": -0.01,
+      "top_headlines": [
+        {
+          "headline": "Micron's stock rebounds after 'healthy' reset, and analysts see blue skies ahead",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Morgan Stanley says Micron's recent pullback was a healthy reset supporting more explosive future gains as memory stocks rebound."
+        },
+        {
+          "headline": "Micron, Intel drag the tech sector into a new bearish phase. Will the correction last this time?",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Micron is cited as a key driver of tech sector entering correction territory, raising concerns about sustained downward pressure."
+        },
+        {
+          "headline": "Why Goldman Is Cautious on Micron Stock Ahead of Earnings",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Goldman Sachs remains cautious on Micron ahead of earnings, citing near-term risk that limits near-term upside."
+        },
+        {
+          "headline": "How Super Micro, Lam Research, and More Stocks Explain Today's Market",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Tech sector rebounds sharply as Iran strike fears ease, benefiting memory-chip makers including Micron after a brutal two-day selloff."
+        },
+        {
+          "headline": "What's at Stake for the Market",
+          "sentiment": "neutral",
+          "score": 0.05,
+          "summary": "SpaceX IPO AI narrative context is broadly neutral for Apple's near-term fundamentals and valuation."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 25,

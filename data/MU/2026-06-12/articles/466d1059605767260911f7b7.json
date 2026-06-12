@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/182e30fa-96fb-39fc-91d1-0c4a111fd44b/tech-stocks-tumble-again.html",
+    "fetched_at": "2026-06-12T08:01:27.712474-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /m/182e30fa-96fb-39fc-91d1-0c4a111fd44b/tech-stocks-tumble-again.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/m/182e30fa-96fb-39fc-91d1-0c4a111fd44b/tech-stocks-tumble-again.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

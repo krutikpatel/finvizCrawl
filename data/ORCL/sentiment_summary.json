@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-11T16:22:49.214351-07:00",
-  "total_analyzed": 43,
-  "overall_sentiment": "bearish",
-  "overall_score_avg": -0.15,
+  "generated_at": "2026-06-12T08:24:05.757683-07:00",
+  "total_analyzed": 92,
+  "overall_sentiment": "neutral",
+  "overall_score_avg": -0.057,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 49,
+      "sentiment": "neutral",
+      "score_avg": 0.024,
+      "top_headlines": [
+        {
+          "headline": "Oracle Announces Record Q4 and FY 2026 Results Driven by Cloud Infrastructure & Cloud Applications",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Oracle announces record Q4 and FY2026 results driven by cloud infrastructure, with RPO jumping 363% YoY to $638B validating the AI cloud thesis."
+        },
+        {
+          "headline": "Oracle Wins $396M Federal HR Modernization Contract",
+          "sentiment": "bullish",
+          "score": 0.58,
+          "summary": "Oracle wins a $396M federal HR modernization contract, providing a meaningful near-term revenue boost and expanding its government cloud footprint."
+        },
+        {
+          "headline": "Oracle's stock is seeing its worst run in a quarter-century as this key AI debate rages on",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Oracle's stock sees its worst run in a quarter century as the AI-capex vs. returns debate rages, eroding investor confidence in the bull thesis."
+        },
+        {
+          "headline": "Oracle awarded US contract to provide government-wide HR software",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Oracle is awarded a U.S. government-wide HR software contract, demonstrating its enterprise credibility and expanding its federal revenue base."
+        },
+        {
+          "headline": "Oracle wins contract to overhaul U.S. governments HR platform",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Oracle wins contract to overhaul U.S. government's HR platform, securing a significant recurring revenue stream and validating its cloud apps strategy."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 43,

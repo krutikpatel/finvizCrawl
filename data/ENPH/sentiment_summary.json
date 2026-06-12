@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "ENPH",
-  "generated_at": "2026-06-11T16:22:48.432657-07:00",
-  "total_analyzed": 1,
+  "generated_at": "2026-06-12T08:24:04.955629-07:00",
+  "total_analyzed": 72,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.3,
+  "overall_score_avg": 0.142,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 71,
+      "sentiment": "bullish",
+      "score_avg": 0.14,
+      "top_headlines": [
+        {
+          "headline": "ENPH Stock Soars 50% on Earnings Beat-Is It a Data Center Play?",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "ENPH soars 50% on earnings beat, with analysts debating whether its AI data center pivot signals a fundamental re-rating."
+        },
+        {
+          "headline": "ENPHASE PROMISED $370M BUT DELIVERED A $5.56/SHARE LOSS -- SUEWALLST, LLP",
+          "sentiment": "bearish",
+          "score": -0.8,
+          "summary": "Lawsuit alleging Enphase promised $370M but delivered a $5.56/share loss highlights severe credibility and legal risk."
+        },
+        {
+          "headline": "Enphase (ENPH) Jumps 38.6% on Strong Profits",
+          "sentiment": "bullish",
+          "score": 0.78,
+          "summary": "Enphase jumps 38.6% on strong profits, confirming the earnings recovery thesis and short squeeze dynamics."
+        },
+        {
+          "headline": "Enphase Just Lit Up Solar - And Burned Shorts By 35%",
+          "sentiment": "bullish",
+          "score": 0.78,
+          "summary": "Enphase lights up the solar sector with a 35% short squeeze, confirming the earnings beat catalyst and forced short covering."
+        },
+        {
+          "headline": "Enphase Energy (ENPH) Climbs 35% as Earnings Soar",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "Enphase climbs 35% on earnings beat, demonstrating strong profitability and reversing prior pessimism about solar demand."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 1,

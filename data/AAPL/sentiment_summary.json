@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-11T16:22:47.258502-07:00",
-  "total_analyzed": 22,
+  "generated_at": "2026-06-12T08:24:03.761433-07:00",
+  "total_analyzed": 93,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.057,
+  "overall_score_avg": -0.043,
   "by_date": [
+    {
+      "date": "2026-06-12",
+      "articles_analyzed": 71,
+      "sentiment": "bearish",
+      "score_avg": -0.038,
+      "top_headlines": [
+        {
+          "headline": "Apple's stock sees one of its worst post-WWDC reactions of the decade",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Apple's stock posts one of its worst post-WWDC reactions of the decade, signaling deep investor disappointment with the AI Siri reveal."
+        },
+        {
+          "headline": "Apple Delivered AI Siri Today. Investors Yawnedand the Stock Fell.",
+          "sentiment": "bearish",
+          "score": -0.58,
+          "summary": "Apple delivered AI Siri but investors yawned and the stock fell, confirming the announcement fell short of inflated market expectations."
+        },
+        {
+          "headline": "Why Apple's WWDC and Siri AI hype left investors sad",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "WWDC and Siri AI hype left investors disappointed as the announcement failed to deliver the transformative AI moment the market expected."
+        },
+        {
+          "headline": "'Apple could be the biggest winner in AI.' Here's why.",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Bullish analysis argues Apple could be the biggest winner in AI, leveraging its 2.3 billion device installed base as a distribution moat."
+        },
+        {
+          "headline": "Apples AI Push Fails To Impress Wall Street: Analysts Say New AI Features Wont Spark iPhone Upgrade Cycle",
+          "sentiment": "bearish",
+          "score": -0.52,
+          "summary": "Apple's AI push fails to impress Wall Street as analysts say new features won't spark the long-awaited iPhone upgrade cycle."
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles_analyzed": 17,
