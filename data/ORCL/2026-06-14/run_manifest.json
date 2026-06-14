@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ORCL",
   "run_date": "2026-06-14",
-  "started_at": "2026-06-14T08:02:43.641310-07:00",
-  "finished_at": "2026-06-14T08:18:55.443491-07:00",
+  "started_at": "2026-06-14T16:01:37.338482-07:00",
+  "finished_at": "2026-06-14T16:01:57.274173-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,20 +50,13 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 43,
-    "news_links_skipped_recent": 54,
-    "news_links_retry_failed": 3,
-    "articles_fetched_ok": 42,
-    "articles_failed": 4
+    "news_links_new": 54,
+    "news_links_skipped_recent": 42,
+    "news_links_retry_failed": 4,
+    "articles_fetched_ok": 55,
+    "articles_failed": 3
   },
   "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV",
-      "context": {
-        "url": "https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV"
-      }
-    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl?mod=IBD_FV",
@@ -73,9 +66,9 @@
     },
     {
       "type": "http_error",
-      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV",
       "context": {
-        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-hits-47-billion-run-121404687.html"
+        "url": "https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV"
       }
     },
     {

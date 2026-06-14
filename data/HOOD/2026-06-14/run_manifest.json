@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "HOOD",
   "run_date": "2026-06-14",
-  "started_at": "2026-06-14T08:02:05.702056-07:00",
-  "finished_at": "2026-06-14T08:02:40.504427-07:00",
+  "started_at": "2026-06-14T16:01:29.896681-07:00",
+  "finished_at": "2026-06-14T16:01:36.905024-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,25 +50,25 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 84,
-    "news_links_skipped_recent": 15,
-    "news_links_retry_failed": 1,
-    "articles_fetched_ok": 83,
+    "news_links_new": 15,
+    "news_links_skipped_recent": 83,
+    "news_links_retry_failed": 2,
+    "articles_fetched_ok": 15,
     "articles_failed": 2
   },
   "errors": [
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-cpi-inflation-tsm-stock?mod=IBD_FV",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV",
       "context": {
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-cpi-inflation-tsm-stock?mod=IBD_FV"
+        "url": "https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV"
       }
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-cpi-inflation-tsm-stock?mod=IBD_FV",
       "context": {
-        "url": "https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV"
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-cpi-inflation-tsm-stock?mod=IBD_FV"
       }
     }
   ]

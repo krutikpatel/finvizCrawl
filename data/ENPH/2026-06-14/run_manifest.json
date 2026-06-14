@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ENPH",
   "run_date": "2026-06-14",
-  "started_at": "2026-06-14T08:01:36.069494-07:00",
-  "finished_at": "2026-06-14T08:02:02.885059-07:00",
+  "started_at": "2026-06-14T16:01:18.196225-07:00",
+  "finished_at": "2026-06-14T16:01:29.375231-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 70,
-    "news_links_skipped_recent": 19,
-    "news_links_retry_failed": 11,
-    "articles_fetched_ok": 68,
-    "articles_failed": 13
+    "news_links_new": 19,
+    "news_links_skipped_recent": 68,
+    "news_links_retry_failed": 13,
+    "articles_fetched_ok": 20,
+    "articles_failed": 12
   },
   "errors": [
     {
@@ -89,13 +89,6 @@
       "type": "parse_error",
       "message": "No readable text extracted",
       "context": {
-        "url": "https://finviz.com/news/335565/how-enphases-enph-expanded-capital-good-fund-partnership-extends-its-us-microinverter-push"
-      }
-    },
-    {
-      "type": "parse_error",
-      "message": "No readable text extracted",
-      "context": {
         "url": "https://finviz.com/news/331781/is-enphase-energy-inc-enph-one-of-the-best-solar-stocks-to-buy-now"
       }
     },
@@ -108,13 +101,6 @@
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV",
-      "context": {
-        "url": "https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV"
-      }
-    },
-    {
-      "type": "http_error",
       "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html",
       "context": {
         "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html"
@@ -122,9 +108,9 @@
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV",
       "context": {
-        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
+        "url": "https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV"
       }
     },
     {
@@ -136,9 +122,9 @@
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
       "context": {
-        "url": "https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html"
+        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
       }
     },
     {
@@ -146,6 +132,13 @@
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV",
       "context": {
         "url": "https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains?mod=IBD_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/3acfa691-aa38-35b3-b0c2-a3a1f63535ba/these-stocks-are-today%E2%80%99s.html"
       }
     }
   ]
