@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-12T16:29:38.133329-07:00",
-  "total_analyzed": 156,
+  "generated_at": "2026-06-14T08:31:02.762639-07:00",
+  "total_analyzed": 169,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.019,
+  "overall_score_avg": -0.036,
   "by_date": [
+    {
+      "date": "2026-06-14",
+      "articles_analyzed": 13,
+      "sentiment": "bearish",
+      "score_avg": -0.235,
+      "top_headlines": [
+        {
+          "headline": "Metas months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Severe employee revolt in Meta's 6,500-person Applied AI unit, including a hijacked internal presentation, signals deep execution risk in the company's core AI strategy."
+        },
+        {
+          "headline": "Meta reportedly moves to unwind $2B Manus deal after Beijings demand",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Beijing's national security order forcing Meta to unwind its $2B Manus AI acquisition destroys deal value and raises ongoing China regulatory risk for Meta's AI strategy."
+        },
+        {
+          "headline": "Tech Stocks' 'Big Tobacco Moment': What Battles Over Key Legal Shield Mean For Meta, Google",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "IBD compares Meta's Section 230 legal challenge to Big Tobacco's liability crisis, suggesting a potential existential threat to Meta's platform immunity model."
+        },
+        {
+          "headline": "Meta Stock Slumps Further As Bulls And Bears Debate Tech Giant's AI 'Evolution'",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "IBD reports continued META stock weakness as investors remain divided on whether the company's aggressive AI transformation will yield sufficient returns to justify the costs."
+        },
+        {
+          "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Zuckerberg's public admission of AI execution mistakes while 20% of Meta's workforce undergoes restructuring raises significant near-term operational and morale risk for META."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 33,

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-hits-47-billion-run-121404687.html",
+    "fetched_at": "2026-06-14T08:18:21.069403-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.",
+      "context": {
+        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-hits-47-billion-run-121404687.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-12T16:29:37.357829-07:00",
-  "total_analyzed": 202,
+  "generated_at": "2026-06-14T08:30:58.975788-07:00",
+  "total_analyzed": 209,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.074,
+  "overall_score_avg": 0.069,
   "by_date": [
+    {
+      "date": "2026-06-14",
+      "articles_analyzed": 7,
+      "sentiment": "neutral",
+      "score_avg": -0.093,
+      "top_headlines": [
+        {
+          "headline": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "SpaceX's $2T valuation overtaking Tesla signals investor reranking that will likely draw capital and mindshare away from TSLA to the newer Musk listing."
+        },
+        {
+          "headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Despite TSLA recovering +2% on SpaceX's IPO day, fund managers warn the debut will create near-term headwinds as capital rotates into the new Musk listing."
+        },
+        {
+          "headline": "Should You Buy SPCX Stock?",
+          "sentiment": "neutral",
+          "score": -0.1,
+          "summary": "Article about SpaceX's $75B IPO frames it as eclipsing Tesla's own $226M debut, raising capital competition concerns for TSLA investors."
+        },
+        {
+          "headline": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategys Michael Saylor Says",
+          "sentiment": "neutral",
+          "score": 0.05,
+          "summary": "Tesla's 11,509 BTC holding is noted alongside SpaceX's Bitcoin position, but SpaceX's historic IPO is likely to draw capital rotation away from TSLA."
+        },
+        {
+          "headline": "SpaceX Surge Further Boosts Saudi Billionaire Princes Fortune",
+          "sentiment": "neutral",
+          "score": -0.05,
+          "summary": "SpaceX's 19% first-day pop benefits investors in Musk's rocket company but reinforces capital rotation away from Tesla as the secondary Musk vehicle."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 41,

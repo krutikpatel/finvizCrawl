@@ -1,11 +1,31 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-12T16:29:38.518862-07:00",
-  "total_analyzed": 130,
+  "generated_at": "2026-06-14T08:31:04.782420-07:00",
+  "total_analyzed": 132,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.04,
+  "overall_score_avg": 0.052,
   "by_date": [
+    {
+      "date": "2026-06-14",
+      "articles_analyzed": 2,
+      "sentiment": "bullish",
+      "score_avg": 0.8,
+      "top_headlines": [
+        {
+          "headline": "5 big analyst AI moves: Double-upgrade for Intel; SpaceX gets Buy call after IPO",
+          "sentiment": "bullish",
+          "score": 0.85,
+          "summary": "Goldman Sachs raised Micron's price target 125% to $900, projecting 30%+ revenue upside versus Street consensus as AI-driven HBM and DRAM tightness persists through 2027."
+        },
+        {
+          "headline": "How AI started turning memory into a structural bottleneck",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "Morgan Stanley flags a structural multi-year AI-driven memory shortage with prices up sixfold, directly strengthening Micron's pricing power and long-term earnings visibility."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 5,

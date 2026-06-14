@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-12T16:29:37.757155-07:00",
-  "total_analyzed": 93,
+  "generated_at": "2026-06-14T08:31:00.860294-07:00",
+  "total_analyzed": 98,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.043,
+  "overall_score_avg": -0.049,
   "by_date": [
+    {
+      "date": "2026-06-14",
+      "articles_analyzed": 5,
+      "sentiment": "neutral",
+      "score_avg": -0.16,
+      "top_headlines": [
+        {
+          "headline": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "India's pollution board threatening to shut down Tata's iPhone component factory in Hosur directly jeopardizes Apple's China supply chain diversification strategy."
+        },
+        {
+          "headline": "Goldman looks at the impact of the AI capex boom on S&P 500 return on equity",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Goldman Sachs warns AI infrastructure spending will compress Apple and other mega-cap tech ROE by ~7 percentage points in 2027 as D&A costs surge to 12% of revenue."
+        },
+        {
+          "headline": "The Index Says Euphoria. But Don't Panic.",
+          "sentiment": "neutral",
+          "score": -0.05,
+          "summary": "Barron's flags elevated market euphoria alongside Iran, inflation, and potential Fed rate-hike risks as a mild caution signal for high-multiple stocks like AAPL."
+        },
+        {
+          "headline": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategys Michael Saylor Says",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Apple is included in the expanded Mag8 but holds no Bitcoin, making the SpaceX Bitcoin treasury narrative largely irrelevant to AAPL directly."
+        },
+        {
+          "headline": "Does Google Stock Have More Upside?",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Google-focused cloud analysis has minimal direct implications for Apple, only noting Apple's status as the third most valuable U.S.-listed company."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 71,

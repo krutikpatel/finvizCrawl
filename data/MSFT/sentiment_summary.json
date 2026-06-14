@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-12T16:29:40.424472-07:00",
-  "total_analyzed": 90,
+  "generated_at": "2026-06-14T08:31:12.240165-07:00",
+  "total_analyzed": 95,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.01,
+  "overall_score_avg": 0.005,
   "by_date": [
+    {
+      "date": "2026-06-14",
+      "articles_analyzed": 5,
+      "sentiment": "neutral",
+      "score_avg": -0.08,
+      "top_headlines": [
+        {
+          "headline": "Goldman looks at the impact of the AI capex boom on S&P 500 return on equity",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Goldman Sachs warns Microsoft's ROE will decline ~7 percentage points as AI infrastructure spending rises to consume roughly 100% of operating cash flow by 2027."
+        },
+        {
+          "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "Meta's admitted AI execution difficulties could redirect enterprise AI demand toward Microsoft's more stable Azure and Copilot offerings."
+        },
+        {
+          "headline": "Does Google Stock Have More Upside?",
+          "sentiment": "bearish",
+          "score": -0.1,
+          "summary": "Google Cloud's 63.4% YoY revenue growth and rapidly expanding margins signal intensifying competition for Microsoft Azure's enterprise cloud market share."
+        },
+        {
+          "headline": "Is the Turnaround at IBM Stock Finally Here to Stay?",
+          "sentiment": "neutral",
+          "score": -0.1,
+          "summary": "IBM's AI-driven hybrid cloud and infrastructure turnaround creates additional competitive pressure on Microsoft's Azure and enterprise software businesses."
+        },
+        {
+          "headline": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategys Michael Saylor Says",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Microsoft is part of the Mag8 but holds no Bitcoin; SpaceX's debut shifts some large-cap tech investor attention without direct MSFT fundamental implications."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 65,

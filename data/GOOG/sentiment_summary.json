@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "GOOG",
-  "generated_at": "2026-06-12T16:29:40.036888-07:00",
-  "total_analyzed": 85,
+  "generated_at": "2026-06-14T08:31:10.428652-07:00",
+  "total_analyzed": 95,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.081,
+  "overall_score_avg": 0.074,
   "by_date": [
+    {
+      "date": "2026-06-14",
+      "articles_analyzed": 10,
+      "sentiment": "neutral",
+      "score_avg": 0.01,
+      "top_headlines": [
+        {
+          "headline": "Does Google Stock Have More Upside?",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Trefis highlights Google Cloud's 63.4% YoY revenue growth, margin expansion from 17.8% to 32.9%, and backlog nearly doubled to $462B as strong catalysts for GOOG upside."
+        },
+        {
+          "headline": "Goldman looks at the impact of the AI capex boom on S&P 500 return on equity",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Goldman Sachs warns Alphabet's ROE will decline ~7 percentage points as AI infrastructure capex reaches roughly 100% of operating cash flow, compressing near-term profitability."
+        },
+        {
+          "headline": "The hottest debate on Wall Street right now: Does the flood of mega-IPOs and new shares signal a downturn ahead? That depends",
+          "sentiment": "bearish",
+          "score": -0.25,
+          "summary": "Alphabet's $85B secondary offering contributing to historically elevated equity issuance raises concerns that GOOG management may have diluted shareholders near a market peak."
+        },
+        {
+          "headline": "How Booking won online travel & can it win AI travel?",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Bernstein warns AI-powered search tools could erode Google's dominant role as a travel discovery gateway, threatening a key vertical in GOOG's search advertising revenue."
+        },
+        {
+          "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "Meta's acknowledged AI execution stumbles could benefit Google by reinforcing GOOG's cloud and AI leadership narrative among enterprise customers seeking stability."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 58,
