@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.digitimes.com/news/a20260612PD200/google-tpu-broadcom-mediatek-marvell.html",
+    "fetched_at": "2026-06-15T08:02:50.813881-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "parse_error",
+      "message": "No readable text extracted",
+      "context": {
+        "url": "https://www.digitimes.com/news/a20260612PD200/google-tpu-broadcom-mediatek-marvell.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.digitimes.com",
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

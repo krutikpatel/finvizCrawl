@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-14T16:46:06.008393-07:00",
-  "total_analyzed": 98,
+  "generated_at": "2026-06-15T08:15:16.246435-07:00",
+  "total_analyzed": 103,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.049,
+  "overall_score_avg": -0.057,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 5,
+      "sentiment": "bearish",
+      "score_avg": -0.23,
+      "top_headlines": [
+        {
+          "headline": "Why the biggest Magnificent 7 stocks have one giant headwind coming right at them",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Goldman Sachs warns Apple faces one of the steepest ROE declines among Mag7 in 2027 as heavy AI capital expenditure burdens shareholder returns."
+        },
+        {
+          "headline": "Indian officials survey farms around Tata iPhone parts plant after water pollution warning",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Government escalation of environmental inspections at Tata's iPhone component factory signals heightened risk of production disruption at a key Apple supply chain partner."
+        },
+        {
+          "headline": "Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Indian pollution authorities have threatened to shut down Tata's iPhone component factory over groundwater contamination, jeopardizing Apple's supply chain diversification strategy away from China."
+        },
+        {
+          "headline": "Apple supplier Jabil, Adani partner to build AI data center infra platform in India",
+          "sentiment": "bullish",
+          "score": 0.15,
+          "summary": "Apple supplier Jabil's AI data center partnership with Adani in India strengthens the broader manufacturing ecosystem supporting Apple's India production diversification goals."
+        },
+        {
+          "headline": "SpaceX Extends Its Record IPO Gains",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "SpaceX's record IPO placing it alongside Apple in market cap ranks has no direct impact on Apple's business fundamentals."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 5,

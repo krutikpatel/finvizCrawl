@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-14T16:46:05.608264-07:00",
-  "total_analyzed": 209,
+  "generated_at": "2026-06-15T08:15:15.817272-07:00",
+  "total_analyzed": 221,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.069,
+  "overall_score_avg": 0.063,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 12,
+      "sentiment": "bearish",
+      "score_avg": -0.033,
+      "top_headlines": [
+        {
+          "headline": "Exclusive-Tesla presented misleading Full Self-Driving safety data to European regulators",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Reuters investigation confirms Tesla presented inflated FSD safety statistics to European regulators, creating significant regulatory risk for EU market expansion."
+        },
+        {
+          "headline": "Tesla Faces Scrutiny Over FSD Safety Claims Submitted to European Regulators",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Regulatory scrutiny over Tesla's potentially misleading FSD safety claims threatens its European market expansion and approval process."
+        },
+        {
+          "headline": "Tesla Shareholders 'Don't Like Table Scraps'  Bulls Make Case Against SpaceX Merger, See Up To 800% Upside On Robotaxi And Optimus",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Prominent Tesla bulls argue TSLA is worth $3,640 per share based on Robotaxi and Optimus scaling potential, pushing back against a premature SpaceX merger."
+        },
+        {
+          "headline": "Tesla Stock Is Getting a U.S.-Iran Deal Bump",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Tesla stock rises with the broader market on U.S.-Iran peace deal optimism, providing a positive macro catalyst for TSLA."
+        },
+        {
+          "headline": "Elon Musk Rejects Claims Government Support Built TSLA And SPCX  Says Trumps EV Credit Cuts Sent More Buyers To Tesla",
+          "sentiment": "neutral",
+          "score": 0.2,
+          "summary": "Musk's assertion that EV credit removal boosted Tesla sales at rivals' expense supports a mildly positive competitive narrative for TSLA."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 7,

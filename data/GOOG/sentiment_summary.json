@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "GOOG",
-  "generated_at": "2026-06-14T16:46:08.298336-07:00",
-  "total_analyzed": 95,
+  "generated_at": "2026-06-15T08:15:18.747798-07:00",
+  "total_analyzed": 104,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.074,
+  "overall_score_avg": 0.061,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 9,
+      "sentiment": "bearish",
+      "score_avg": -0.072,
+      "top_headlines": [
+        {
+          "headline": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "US government AI model controls targeting Anthropic explicitly set a regulatory precedent that could constrain Alphabet and Google's own frontier AI model deployments."
+        },
+        {
+          "headline": "SpaceX's $75 Billion IPO Fuels $1.5 Trillion Equity Supply Wave",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Alphabet is specifically named as a hyperscaler selling shares to fund AI capital expenditures, adding to anticipated equity supply headwinds for GOOG."
+        },
+        {
+          "headline": "UK Seeks One of Worlds Strictest Social Media Bans for Kids",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "UK's proposed strict under-16 social media ban could reduce YouTube engagement and advertising revenue, though YouTube Kids and Google Classroom carve-outs provide partial mitigation."
+        },
+        {
+          "headline": "Hut 8 Appoints New Board Chair",
+          "sentiment": "bullish",
+          "score": 0.1,
+          "summary": "Hut 8's data center deals with Alphabet cited as a driver of its 544% stock gain, reflecting the strength of Google's hyperscaler infrastructure demand."
+        },
+        {
+          "headline": "Mistral AI weighs new funding at $23bn valuation",
+          "sentiment": "bearish",
+          "score": -0.1,
+          "summary": "Mistral AI's potential 20B EUR valuation raise positions it as a growing European competitor to Google DeepMind, increasing competitive pressure in the enterprise AI market."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 10,

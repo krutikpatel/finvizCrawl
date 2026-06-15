@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126",
+    "fetched_at": "2026-06-15T08:03:10.116967-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126",
+      "context": {
+        "url": "https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-14T16:46:06.386220-07:00",
-  "total_analyzed": 169,
+  "generated_at": "2026-06-15T08:15:16.663898-07:00",
+  "total_analyzed": 179,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.036,
+  "overall_score_avg": -0.037,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 10,
+      "sentiment": "bearish",
+      "score_avg": -0.065,
+      "top_headlines": [
+        {
+          "headline": "Metas Manus Unwind Killed the Singapore Loophole for AI Companies",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Beijing's forced reversal of Meta's $2B Manus acquisition exposes the limits of 'Singapore washing' and creates direct operational disruption for Meta's agentic AI strategy."
+        },
+        {
+          "headline": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "US government AI model controls targeting Anthropic explicitly threaten to set a regulatory precedent affecting Meta's own AI model deployment plans."
+        },
+        {
+          "headline": "Meta's $14B AI Push Faces Growing Pressure to Deliver Results",
+          "sentiment": "bearish",
+          "score": -0.25,
+          "summary": "Growing investor pressure for Meta's $14B AI spending to produce standalone revenue draws unfavorable comparisons to the loss-making Reality Labs era."
+        },
+        {
+          "headline": "SpaceX's $75 Billion IPO Fuels $1.5 Trillion Equity Supply Wave",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Meta is named among hyperscalers selling large share volumes to fund AI spending, contributing to anticipated equity supply headwinds for META stock."
+        },
+        {
+          "headline": "Wolfe Research sees substantial upside to AMD estimates",
+          "sentiment": "bullish",
+          "score": 0.2,
+          "summary": "Wolfe Research names Meta as a primary driver of AMD MI450 AI accelerator demand, underscoring Meta's scale and strategic commitment in the AI infrastructure buildout."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 13,

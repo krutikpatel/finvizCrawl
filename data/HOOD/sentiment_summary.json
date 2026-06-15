@@ -1,11 +1,43 @@
 {
   "schema_version": "1.0",
   "ticker": "HOOD",
-  "generated_at": "2026-06-14T16:46:07.510488-07:00",
-  "total_analyzed": 98,
+  "generated_at": "2026-06-15T08:15:17.914310-07:00",
+  "total_analyzed": 102,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.303,
+  "overall_score_avg": 0.294,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 4,
+      "sentiment": "bullish",
+      "score_avg": 0.075,
+      "top_headlines": [
+        {
+          "headline": "Prediction Markets See Record Volumes From World Cup Betting",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Bernstein projects Robinhood's prediction market revenue to surge from $150M to $586M in 2026 driven by record World Cup betting volumes, a major near-term revenue catalyst."
+        },
+        {
+          "headline": "Robinhood Hit By 5,000 Outages During SpaceX Trading Debut",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Robinhood's 5,000 reported outages during the SpaceX IPO's first minutes underscore platform reliability concerns at critical high-traffic events, despite exclusive retail IPO access."
+        },
+        {
+          "headline": "Bitcoin Just Surpassed a Key Level. It's Driving These Crypto Stocks Higher.",
+          "sentiment": "bullish",
+          "score": 0.25,
+          "summary": "Bitcoin price strength lifts crypto-linked stocks, benefiting Robinhood which derives meaningful revenue from cryptocurrency trading activity."
+        },
+        {
+          "headline": "Retail investors face tighter limits than funds in SpaceX IPO flipping",
+          "sentiment": "bearish",
+          "score": -0.1,
+          "summary": "Robinhood's IPO flip restrictions for retail SpaceX investors highlight platform limitations versus institutional clients, creating modest reputational risk."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 1,

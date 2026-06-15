@@ -1,11 +1,31 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-14T16:46:07.893770-07:00",
-  "total_analyzed": 94,
+  "generated_at": "2026-06-15T08:15:18.330205-07:00",
+  "total_analyzed": 96,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.057,
+  "overall_score_avg": -0.058,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 2,
+      "sentiment": "bearish",
+      "score_avg": -0.1,
+      "top_headlines": [
+        {
+          "headline": "SpaceX's $75 Billion IPO Fuels $1.5 Trillion Equity Supply Wave",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Oracle is cited among hyperscalers needing to raise capital for AI spending, with anticipated share sales potentially creating near-term equity supply headwinds for ORCL."
+        },
+        {
+          "headline": "Adobes Pivot: A Genius Bet Or A Costly Distraction?",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Adobe's AI freemium strategy pivot has no direct implications for Oracle's cloud, database, or AI business segments."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 2,

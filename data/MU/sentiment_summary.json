@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-14T16:46:06.756870-07:00",
-  "total_analyzed": 132,
+  "generated_at": "2026-06-15T08:15:17.076035-07:00",
+  "total_analyzed": 150,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.052,
+  "overall_score_avg": 0.093,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 18,
+      "sentiment": "bullish",
+      "score_avg": 0.394,
+      "top_headlines": [
+        {
+          "headline": "MU Stock Leads Memory Chip Rally Amid Iran Relief  DRAM Surges 6% As SK Hynix, Samsung Gain",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "Micron surges 8% premarket leading the memory chip complex as Iran peace deal reduces macro risk, with MU breaching $1,000 again and up 250% year-to-date on strong AI demand."
+        },
+        {
+          "headline": "US stock futures rise as markets cheer Iran deal",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Multiple Wall Street firms raised Micron price targets dramatically while MU surges 9%, combining strong analyst conviction with the Iran deal macro tailwind."
+        },
+        {
+          "headline": "Micron, Nebius surge premarket; Traws Pharma tumbles",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Dramatic price target upgrades from TD Cowen to $1,500 and RBC to $1,200 signal strong institutional conviction in Micron's AI-driven earnings trajectory ahead of June 24 results."
+        },
+        {
+          "headline": "Nvidia, Micron, Intel Lead Chip Stock Rally After Breakthrough U.S.-Iran Agreement",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Micron leads the semiconductor sector rally following the U.S.-Iran peace deal as macro headwinds recede and the AI chip investment thesis remains intact."
+        },
+        {
+          "headline": "Micron Stock Surges as Memory-Chip Shortage Bites",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Memory chip shortage driven by AI data center buildout is directly lifting Micron's pricing power and stock momentum in early Monday trading."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 2,

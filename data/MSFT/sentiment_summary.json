@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-14T16:46:08.703290-07:00",
-  "total_analyzed": 95,
+  "generated_at": "2026-06-15T08:15:19.164185-07:00",
+  "total_analyzed": 102,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.005,
+  "overall_score_avg": 0.0,
   "by_date": [
+    {
+      "date": "2026-06-15",
+      "articles_analyzed": 7,
+      "sentiment": "neutral",
+      "score_avg": -0.064,
+      "top_headlines": [
+        {
+          "headline": "Microsoft's Xbox Business Faces a Cost Shock",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "Surging memory and NAND costs driven by AI demand are set to squeeze Microsoft's Xbox hardware margins with storage costs potentially 5x higher by 2027, while layoffs are being considered."
+        },
+        {
+          "headline": "Microsoft CEO Nadella Says Every Firm Must Build Token Capital",
+          "sentiment": "bullish",
+          "score": 0.25,
+          "summary": "CEO Satya Nadella's token capital AI framework reinforces Microsoft's positioning as the enterprise AI partner of choice, potentially re-energizing investor confidence in Azure AI monetization."
+        },
+        {
+          "headline": "KPMG drops AI report after false case studies exposed",
+          "sentiment": "bearish",
+          "score": -0.15,
+          "summary": "KPMG's retracted AI report falsely cited a UBS platform co-developed with Microsoft, creating reputational noise around Microsoft's actual enterprise AI partnership landscape."
+        },
+        {
+          "headline": "Microsoft CEO Satya Nadella Pitches New AI Framework With 'Human Capital And Token Capital' As Stock Still Trails Mag7 Peers",
+          "sentiment": "bearish",
+          "score": -0.15,
+          "summary": "Despite Nadella's compelling AI vision, MSFT's 19% year-to-date decline worst among Magnificent Seven signals deep investor skepticism about AI capex returns pending a clear ROI catalyst."
+        },
+        {
+          "headline": "SpaceX Extends Its Record IPO Gains",
+          "sentiment": "neutral",
+          "score": -0.05,
+          "summary": "SpaceX's record IPO placing it in the same market cap tier as Microsoft increases competition for large-cap investment capital allocations."
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles_analyzed": 5,

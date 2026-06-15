@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.youtube.com/watch?v=ckBVv0wreRo",
+    "fetched_at": "2026-06-15T08:02:33.107634-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "parse_error",
+      "message": "No readable text extracted",
+      "context": {
+        "url": "https://www.youtube.com/watch?v=ckBVv0wreRo"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.youtube.com",
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}
