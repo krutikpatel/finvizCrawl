@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MSFT",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:02:59.261021-07:00",
-  "finished_at": "2026-06-15T08:03:19.431103-07:00",
+  "started_at": "2026-06-15T16:03:39.611865-07:00",
+  "finished_at": "2026-06-15T16:04:14.366043-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 55,
-    "news_links_skipped_recent": 43,
+    "news_links_new": 53,
+    "news_links_skipped_recent": 45,
     "news_links_retry_failed": 2,
-    "articles_fetched_ok": 55,
+    "articles_fetched_ok": 53,
     "articles_failed": 2
   },
   "errors": [

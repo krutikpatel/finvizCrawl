@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MU",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:01:09.280234-07:00",
-  "finished_at": "2026-06-15T08:01:21.306807-07:00",
+  "started_at": "2026-06-15T16:01:36.648637-07:00",
+  "finished_at": "2026-06-15T16:02:14.394884-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,19 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 37,
-    "news_links_skipped_recent": 63,
+    "news_links_new": 67,
+    "news_links_skipped_recent": 33,
     "news_links_retry_failed": 0,
-    "articles_fetched_ok": 37,
-    "articles_failed": 0
+    "articles_fetched_ok": 66,
+    "articles_failed": 1
   },
-  "errors": []
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex?mod=IBD_FV"
+      }
+    }
+  ]
 }

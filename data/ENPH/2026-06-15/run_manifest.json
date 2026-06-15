@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ENPH",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:01:21.997325-07:00",
-  "finished_at": "2026-06-15T08:01:43.913622-07:00",
+  "started_at": "2026-06-15T16:02:15.097643-07:00",
+  "finished_at": "2026-06-15T16:02:27.648848-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 68,
-    "news_links_skipped_recent": 20,
-    "news_links_retry_failed": 12,
-    "articles_fetched_ok": 69,
+    "news_links_new": 20,
+    "news_links_skipped_recent": 69,
+    "news_links_retry_failed": 11,
+    "articles_fetched_ok": 20,
     "articles_failed": 11
   },
   "errors": [
@@ -108,16 +108,16 @@
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html",
       "context": {
-        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
+        "url": "https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html"
       }
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
       "context": {
-        "url": "https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html"
+        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
       }
     },
     {

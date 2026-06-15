@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "TSLA",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:00:00.862723-07:00",
-  "finished_at": "2026-06-15T08:00:21.119711-07:00",
+  "started_at": "2026-06-15T16:00:00.847806-07:00",
+  "finished_at": "2026-06-15T16:00:28.804242-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 57,
-    "news_links_skipped_recent": 43,
-    "news_links_retry_failed": 0,
-    "articles_fetched_ok": 56,
+    "news_links_new": 45,
+    "news_links_skipped_recent": 54,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 45,
     "articles_failed": 1
   },
   "errors": [

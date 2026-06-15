@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "GOOG",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:02:35.778703-07:00",
-  "finished_at": "2026-06-15T08:02:58.526234-07:00",
+  "started_at": "2026-06-15T16:03:08.601107-07:00",
+  "finished_at": "2026-06-15T16:03:38.910744-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,32 +50,18 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 57,
-    "news_links_skipped_recent": 41,
+    "news_links_new": 53,
+    "news_links_skipped_recent": 45,
     "news_links_retry_failed": 2,
-    "articles_fetched_ok": 56,
-    "articles_failed": 3
+    "articles_fetched_ok": 54,
+    "articles_failed": 1
   },
   "errors": [
-    {
-      "type": "parse_error",
-      "message": "No readable text extracted",
-      "context": {
-        "url": "https://www.digitimes.com/news/a20260612PD200/google-tpu-broadcom-mediatek-marvell.html"
-      }
-    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://qz.com/waymo-premier-subscription-loyalty-program-robotaxi-061126",
       "context": {
         "url": "https://qz.com/waymo-premier-subscription-loyalty-program-robotaxi-061126"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/meta-google-new-trial-denied-youth-addiction-061026",
-      "context": {
-        "url": "https://qz.com/meta-google-new-trial-denied-youth-addiction-061026"
       }
     }
   ]

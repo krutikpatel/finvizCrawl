@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ORCL",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:02:18.148761-07:00",
-  "finished_at": "2026-06-15T08:02:35.117824-07:00",
+  "started_at": "2026-06-15T16:02:39.474261-07:00",
+  "finished_at": "2026-06-15T16:03:07.903051-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,20 +50,13 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 42,
-    "news_links_skipped_recent": 55,
-    "news_links_retry_failed": 3,
-    "articles_fetched_ok": 41,
-    "articles_failed": 4
+    "news_links_new": 58,
+    "news_links_skipped_recent": 38,
+    "news_links_retry_failed": 4,
+    "articles_fetched_ok": 59,
+    "articles_failed": 3
   },
   "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl?mod=IBD_FV",
-      "context": {
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl?mod=IBD_FV"
-      }
-    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/oracle-earnings-orcl-news-may-2026?mod=IBD_FV",
@@ -73,16 +66,16 @@
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/oracle-federal-hr-software-contract-opm-061126",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl?mod=IBD_FV",
       "context": {
-        "url": "https://qz.com/oracle-federal-hr-software-contract-opm-061126"
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl?mod=IBD_FV"
       }
     },
     {
-      "type": "parse_error",
-      "message": "No readable text extracted",
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/oracle-federal-hr-software-contract-opm-061126",
       "context": {
-        "url": "https://www.youtube.com/watch?v=ckBVv0wreRo"
+        "url": "https://qz.com/oracle-federal-hr-software-contract-opm-061126"
       }
     }
   ]

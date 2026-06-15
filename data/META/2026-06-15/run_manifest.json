@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "META",
   "run_date": "2026-06-15",
-  "started_at": "2026-06-15T08:00:47.233393-07:00",
-  "finished_at": "2026-06-15T08:01:08.528203-07:00",
+  "started_at": "2026-06-15T16:01:10.837269-07:00",
+  "finished_at": "2026-06-15T16:01:35.974678-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 58,
-    "news_links_skipped_recent": 42,
-    "news_links_retry_failed": 0,
-    "articles_fetched_ok": 54,
+    "news_links_new": 42,
+    "news_links_skipped_recent": 54,
+    "news_links_retry_failed": 4,
+    "articles_fetched_ok": 42,
     "articles_failed": 4
   },
   "errors": [
