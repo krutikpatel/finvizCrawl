@@ -1,46 +1,46 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-16T08:20:08.304979-07:00",
-  "total_analyzed": 102,
+  "generated_at": "2026-06-16T16:34:11.809302-07:00",
+  "total_analyzed": 123,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.046,
+  "overall_score_avg": -0.047,
   "by_date": [
     {
       "date": "2026-06-16",
-      "articles_analyzed": 6,
+      "articles_analyzed": 27,
       "sentiment": "neutral",
-      "score_avg": 0.142,
+      "score_avg": -0.009,
       "top_headlines": [
         {
-          "headline": "New AI Capabilities in Oracle OPERA Cloud Supercharge Hotel Operations",
+          "headline": "Investing.coms stocks of the week",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Oracle shares slumped 20.6% this week including an 8.5% single-day drop after mixed fiscal Q4 results where cloud application revenue missed estimates and capex guidance alarmed investors."
+        },
+        {
+          "headline": "Oracle falls Hugo Boss takeover chatter heats up Magnum melts in the spotlight",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Oracle fell ~9% in a single session as investors focused on $90B guided FY27 capex and questioned whether AI infrastructure spending will generate sufficient returns; worst day in six months."
+        },
+        {
+          "headline": "U.S. Office of Personnel Management Selects Oracle to Power Federal Workforce Modernization",
           "sentiment": "bullish",
-          "score": 0.35,
-          "summary": "Oracle embedding new AI capabilities into its OPERA Cloud hotel management platform demonstrates expanding vertical AI monetization within its cloud services business."
+          "score": 0.5,
+          "summary": "US OPM selecting Oracle for federal workforce modernization is a significant government contract win that validates Oracle cloud capabilities in sensitive federal environments and counters the FEDRAMP concerns raised in the failed Microsoft deal."
         },
         {
-          "headline": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
+          "headline": "Oracle Gets Mizuho Backing",
           "sentiment": "bullish",
-          "score": 0.3,
-          "summary": "Oracle's prominent inclusion in the White House AI infrastructure pledge alongside Big Tech positions ORCL as a key hyperscaler in the AI data center arms race."
+          "score": 0.4,
+          "summary": "Mizuho maintained Outperform with $320 target citing cloud infrastructure growth of 90%+ and conservative FY27 revenue guidance; bullish analyst support amid the post-earnings selloff."
         },
         {
-          "headline": "Project Jupiter Expands Community Outreach Effort Highlighting Benefits and Impacts of its Investments in New Mexico",
-          "sentiment": "bullish",
-          "score": 0.2,
-          "summary": "Oracle's Project Jupiter data center investment in New Mexico expanding community outreach signals continued cloud infrastructure growth commitment in the U.S."
-        },
-        {
-          "headline": "Intuit Stock's Real Growth Story Isn't The One You're Watching",
-          "sentiment": "neutral",
-          "score": 0.0,
-          "summary": "Intuit analysis article with no direct relevance to Oracle's business or stock."
-        },
-        {
-          "headline": "The Trillion-Dollar AI Bottleneck Nobody Is Talking About",
-          "sentiment": "neutral",
-          "score": 0.0,
-          "summary": "AI power infrastructure bottleneck article; no specific Oracle content was extractable, making sentiment assessment neutral by default."
+          "headline": "Software stocks tumble in sympathy as fragile market sentiment fractures again",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Oracle massive debt-funded data center buildout fundamentally altered profitability expectations and triggered sympathetic selling across enterprise software as investors question whether AI CapEx will ever pay off at the projected scale."
         }
       ]
     },

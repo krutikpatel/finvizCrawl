@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "GOOG",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:02:39.370310-07:00",
-  "finished_at": "2026-06-16T08:03:02.063387-07:00",
+  "started_at": "2026-06-16T16:02:07.240696-07:00",
+  "finished_at": "2026-06-16T16:02:22.441866-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,19 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 59,
-    "news_links_skipped_recent": 40,
-    "news_links_retry_failed": 1,
-    "articles_fetched_ok": 59,
-    "articles_failed": 1
+    "news_links_new": 42,
+    "news_links_skipped_recent": 58,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 42,
+    "articles_failed": 0
   },
-  "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/waymo-premier-subscription-loyalty-program-robotaxi-061126",
-      "context": {
-        "url": "https://qz.com/waymo-premier-subscription-loyalty-program-robotaxi-061126"
-      }
-    }
-  ]
+  "errors": []
 }

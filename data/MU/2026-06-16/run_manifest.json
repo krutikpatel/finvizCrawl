@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MU",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:01:14.033677-07:00",
-  "finished_at": "2026-06-16T08:01:27.892867-07:00",
+  "started_at": "2026-06-16T16:01:00.529484-07:00",
+  "finished_at": "2026-06-16T16:01:21.832849-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 42,
-    "news_links_skipped_recent": 57,
+    "news_links_new": 60,
+    "news_links_skipped_recent": 39,
     "news_links_retry_failed": 1,
-    "articles_fetched_ok": 42,
+    "articles_fetched_ok": 60,
     "articles_failed": 1
   },
   "errors": [

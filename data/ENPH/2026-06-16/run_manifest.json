@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ENPH",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:01:28.413152-07:00",
-  "finished_at": "2026-06-16T08:01:50.291259-07:00",
+  "started_at": "2026-06-16T16:01:22.536101-07:00",
+  "finished_at": "2026-06-16T16:01:33.228243-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,10 +50,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 69,
-    "news_links_skipped_recent": 20,
+    "news_links_new": 20,
+    "news_links_skipped_recent": 69,
     "news_links_retry_failed": 11,
-    "articles_fetched_ok": 69,
+    "articles_fetched_ok": 20,
     "articles_failed": 11
   },
   "errors": [
@@ -94,16 +94,16 @@
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html",
       "context": {
-        "url": "https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV"
+        "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html"
       }
     },
     {
       "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV",
       "context": {
-        "url": "https://finance.yahoo.com/m/523fec85-74f4-34dd-b8f2-82243509f613/esg-roundup%3A-market-talk.html"
+        "url": "https://www.investors.com/news/bloom-energy-stock-q4-earning-ai-data-centers-play?mod=IBD_FV"
       }
     },
     {

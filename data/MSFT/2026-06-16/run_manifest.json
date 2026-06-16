@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "MSFT",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:03:02.757680-07:00",
-  "finished_at": "2026-06-16T08:03:24.067129-07:00",
+  "started_at": "2026-06-16T16:02:23.103936-07:00",
+  "finished_at": "2026-06-16T16:02:39.882603-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,19 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 57,
-    "news_links_skipped_recent": 42,
-    "news_links_retry_failed": 1,
-    "articles_fetched_ok": 57,
-    "articles_failed": 1
+    "news_links_new": 48,
+    "news_links_skipped_recent": 52,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 48,
+    "articles_failed": 0
   },
-  "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126",
-      "context": {
-        "url": "https://qz.com/xbox-layoffs-ceo-asha-sharma-business-reset-061126"
-      }
-    }
-  ]
+  "errors": []
 }

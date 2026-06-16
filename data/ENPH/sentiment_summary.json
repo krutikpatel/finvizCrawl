@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "ENPH",
-  "generated_at": "2026-06-15T16:42:54.382890-07:00",
-  "total_analyzed": 72,
+  "generated_at": "2026-06-16T16:34:11.059201-07:00",
+  "total_analyzed": 90,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.142,
+  "overall_score_avg": 0.153,
   "by_date": [
+    {
+      "date": "2026-06-16",
+      "articles_analyzed": 18,
+      "sentiment": "neutral",
+      "score_avg": 0.194,
+      "top_headlines": [
+        {
+          "headline": "Enphase Energy stock surges on data center transformer opportunity",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "Enphase surged 14% Thursday and 26% for the week as Goldman Sachs highlighted its solid-state transformer as a potential $5B TAM opportunity for AI data center 800V DC architecture, adding a major new growth catalyst beyond residential solar."
+        },
+        {
+          "headline": "Micron Intel SanDisk Hogged Mays Chip Spotlight  But These 3 Smaller Stocks Crushed Them",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Enphase was up 103% in May making it the best-performing semiconductor and power company in the sector, with Stocktwits sentiment at extremely bullish as investors discover the solid-state transformer AI data center opportunity."
+        },
+        {
+          "headline": "Oracle upgraded Workday downgraded: Wall Streets top analyst calls",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Jefferies upgraded Enphase to Buy from Hold with price target raised to $57 from $42 citing improved demand and margin visibility following the 2026 volume trough."
+        },
+        {
+          "headline": "ENPH Stock Gains Retail Momentum After Goldman Sachs Reaffirms Bullish Stance",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Goldman Sachs reaffirmed Buy with $57 target and retail message volume surged 313% as investors positioned ahead of the July 4 ITC safe harbor deadline; near-term catalyst is well-defined."
+        },
+        {
+          "headline": "Solar Rout Deepens As Market Faces Possible 30% Drop",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "US residential solar industry facing possible 30% volume contraction this year following Trump One Big Beautiful Bill tax credit elimination; Freedom Forever bankruptcy and Enphase soft Q1 confirm the structural headwind."
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles_analyzed": 71,

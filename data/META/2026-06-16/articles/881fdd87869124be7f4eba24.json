@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/ea68cc05-9cd1-3780-96b4-9941f89bddc6/is-meta-spending-too-much-on.html",
+    "fetched_at": "2026-06-16T16:00:59.187516-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/ea68cc05-9cd1-3780-96b4-9941f89bddc6/is-meta-spending-too-much-on.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/ea68cc05-9cd1-3780-96b4-9941f89bddc6/is-meta-spending-too-much-on.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

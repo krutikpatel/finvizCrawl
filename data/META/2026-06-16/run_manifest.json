@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "META",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:00:52.629016-07:00",
-  "finished_at": "2026-06-16T08:01:13.418220-07:00",
+  "started_at": "2026-06-16T16:00:42.915627-07:00",
+  "finished_at": "2026-06-16T16:00:59.848734-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 55,
-    "news_links_skipped_recent": 41,
+    "news_links_new": 47,
+    "news_links_skipped_recent": 49,
     "news_links_retry_failed": 4,
-    "articles_fetched_ok": 55,
-    "articles_failed": 4
+    "articles_fetched_ok": 46,
+    "articles_failed": 5
   },
   "errors": [
     {
@@ -73,16 +73,23 @@
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/research/options/meta-platforms-stock-options-trade-technology-instagram-facebook-strategy-investing-markets?mod=IBD_FV",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/meta-stock-ai-bull-bear-debate?mod=IBD_FV",
       "context": {
-        "url": "https://www.investors.com/research/options/meta-platforms-stock-options-trade-technology-instagram-facebook-strategy-investing-markets?mod=IBD_FV"
+        "url": "https://www.investors.com/news/technology/meta-stock-ai-bull-bear-debate?mod=IBD_FV"
       }
     },
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/technology/meta-stock-ai-bull-bear-debate?mod=IBD_FV",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/ea68cc05-9cd1-3780-96b4-9941f89bddc6/is-meta-spending-too-much-on.html",
       "context": {
-        "url": "https://www.investors.com/news/technology/meta-stock-ai-bull-bear-debate?mod=IBD_FV"
+        "url": "https://finance.yahoo.com/m/ea68cc05-9cd1-3780-96b4-9941f89bddc6/is-meta-spending-too-much-on.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://www.investors.com/research/options/meta-platforms-stock-options-trade-technology-instagram-facebook-strategy-investing-markets?mod=IBD_FV",
+      "context": {
+        "url": "https://www.investors.com/research/options/meta-platforms-stock-options-trade-technology-instagram-facebook-strategy-investing-markets?mod=IBD_FV"
       }
     }
   ]

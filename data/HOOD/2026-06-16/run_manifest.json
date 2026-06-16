@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "HOOD",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:01:50.929344-07:00",
-  "finished_at": "2026-06-16T08:02:20.483810-07:00",
+  "started_at": "2026-06-16T16:01:33.973418-07:00",
+  "finished_at": "2026-06-16T16:01:44.651519-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -50,11 +50,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 78,
-    "news_links_skipped_recent": 20,
+    "news_links_new": 27,
+    "news_links_skipped_recent": 71,
     "news_links_retry_failed": 2,
-    "articles_fetched_ok": 77,
-    "articles_failed": 3
+    "articles_fetched_ok": 27,
+    "articles_failed": 2
   },
   "errors": [
     {
@@ -69,13 +69,6 @@
       "message": "403 Client Error: Forbidden for url: https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV",
       "context": {
         "url": "https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market?mod=IBD_FV"
-      }
-    },
-    {
-      "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/2aad54e4-f49f-38e4-8606-8aa7ee3d8c6d/wintermute-enters-prediction.html",
-      "context": {
-        "url": "https://finance.yahoo.com/m/2aad54e4-f49f-38e4-8606-8aa7ee3d8c6d/wintermute-enters-prediction.html"
       }
     }
   ]

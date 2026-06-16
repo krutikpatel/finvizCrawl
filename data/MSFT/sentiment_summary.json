@@ -1,46 +1,46 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-16T08:20:09.090520-07:00",
-  "total_analyzed": 127,
+  "generated_at": "2026-06-16T16:34:12.551597-07:00",
+  "total_analyzed": 175,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.013,
+  "overall_score_avg": -0.034,
   "by_date": [
     {
       "date": "2026-06-16",
-      "articles_analyzed": 25,
-      "sentiment": "bearish",
-      "score_avg": -0.07,
+      "articles_analyzed": 73,
+      "sentiment": "neutral",
+      "score_avg": -0.082,
       "top_headlines": [
         {
-          "headline": "DELL Stock Is Down 12% From All-Time High With Bearish Retail Sentiment But Government Contracts Keep Growing",
+          "headline": "Microsoft Spent Billions on AI. Investors Want to Know Where the Customers Are.",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Shareholder class action lawsuit alleges Microsoft concealed Azure growth deceleration and $37.5B quarterly CapEx overrun; Copilot adoption at only 3.3% challenges the AI revenue thesis underpinning the stock premium."
+        },
+        {
+          "headline": "Microsoft sued by shareholders over expenses cloud business AI",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Michigan pension fund class action lawsuit alleging Microsoft concealed Azure growth deceleration and speculative AI CapEx construction; the lawsuit led to a 10% stock drop erasing $357B in market cap in January 2026."
+        },
+        {
+          "headline": "Microsoft Stock Is Having a Rough Week. Its the Latest AI Play Under Pressure.",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Microsoft shares slid for six consecutive days on AI spending fears; the company faces its worst losing streak since March 2020 as investors question whether $190B in 2026 CapEx will generate commensurate returns."
+        },
+        {
+          "headline": "Microsoft Stock Gets Bullish Boost From BNP Paribas Note",
           "sentiment": "bullish",
-          "score": 0.35,
-          "summary": "Dell's $1.4B Air Force contract for Microsoft 365 licenses confirms sustained government enterprise demand for Microsoft's software suite."
+          "score": 0.4,
+          "summary": "BNP Paribas analyst says Copilot improved significantly over the past year with NHS England deal signaling enterprise traction; Copilot seat bookings could exceed the 25M consensus estimate in Q4 fiscal year."
         },
         {
-          "headline": "Dell Wins $1.44B Microsoft License Deal",
-          "sentiment": "bullish",
-          "score": 0.35,
-          "summary": "A $1.44B U.S. Air Force Microsoft enterprise license renewal through Dell provides MSFT with long-term government revenue visibility through April 2029."
-        },
-        {
-          "headline": "Microsoft Faces Azure Lawsuit",
+          "headline": "Is The AI Boom Already Priced Out of Microsoft Stock?",
           "sentiment": "bearish",
-          "score": -0.35,
-          "summary": "A class action lawsuit over alleged Azure growth disclosure failures adds legal and reputational risk, potentially pressuring MSFT shares if the case gains traction."
-        },
-        {
-          "headline": "SpaceX Valuation Set to Top Amazon on Third Trading Day. Here's Who It Could Pass Next.",
-          "sentiment": "bearish",
-          "score": -0.3,
-          "summary": "SpaceX surpassing Microsoft's market cap on its third trading day creates a narrative headwind for MSFT as investors redirect capital toward the newer AI darling."
-        },
-        {
-          "headline": "Tech stocks are dragging indexes lower, while most of the market is doing fine",
-          "sentiment": "bearish",
-          "score": -0.3,
-          "summary": "Microsoft is down 1.6% today as large-cap tech underperforms amid a market rotation into defensive sectors, adding to near-term MSFT price pressure."
+          "score": -0.4,
+          "summary": "$190B CapEx in 2026 creates a dangerous disconnect between front-loaded spending and uncertain AI revenue timeline; if FY27 double-digit growth promise misses, the stock faces significant valuation compression."
         }
       ]
     },

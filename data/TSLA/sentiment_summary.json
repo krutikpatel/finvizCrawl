@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-16T08:20:06.325813-07:00",
-  "total_analyzed": 244,
+  "generated_at": "2026-06-16T16:34:09.536189-07:00",
+  "total_analyzed": 299,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.056,
+  "overall_score_avg": 0.047,
   "by_date": [
     {
       "date": "2026-06-16",
-      "articles_analyzed": 23,
+      "articles_analyzed": 78,
       "sentiment": "neutral",
-      "score_avg": -0.009,
+      "score_avg": 0.0,
       "top_headlines": [
         {
           "headline": "Tesla Q2 deliveries likely tracking ahead of consensus: Goldman",
@@ -19,28 +19,28 @@
           "summary": "Goldman Sachs raises Q2 delivery estimate to 420K vs 400K consensus, citing 85-90% YoY European growth and broad international strength, a strong bullish catalyst for TSLA."
         },
         {
+          "headline": "Piper Sandler Says Tesla Has Cracked Self-Driving Technology Challenge (TSLA)",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Piper Sandler reiterates Overweight and claims Tesla has achieved Level 4 autonomous capability, pointing to Cybercab production and FSD insurance discounts as tangible evidence."
+        },
+        {
           "headline": "Goldman Sachs Raises Tesla Delivery Forecast as Second-Quarter Performance Appears Stronger Than Expected (TSLA)",
           "sentiment": "bullish",
           "score": 0.65,
           "summary": "Goldman's upward Q2 delivery revision to 420K units, driven by Europe's ~90% YoY growth and Asia-Pacific strength, materially strengthens the near-term bullish case for TSLA."
         },
         {
+          "headline": "Tesla Stock Traded Its Affordable Car Dream For An AI Moonshot",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Tesla core auto revenue declined 6% as management abandoned affordable EV messaging in favor of an AI/robotics pivot that is years from generating meaningful revenue."
+        },
+        {
           "headline": "A veteran investor is kicking Tesla out of the 'Magnificent Seven' - replacing it with this tech giant",
           "sentiment": "bearish",
           "score": -0.4,
           "summary": "A prominent fund manager is officially removing Tesla from the Mag 7, signaling waning institutional confidence in TSLA's elite tech status."
-        },
-        {
-          "headline": "TSLA Stock Slides Overnight: Ross Gerber Calls Tesla Worthless Without SpaceX Merger As Retail Bets Rise",
-          "sentiment": "bearish",
-          "score": -0.4,
-          "summary": "Influential investor Ross Gerber's 'worthless without SpaceX merger' claim, combined with concerns that Tesla's AI assets were transferred to xAI outside the company, pressures TSLA overnight."
-        },
-        {
-          "headline": "Tesla Stock Falls as It Tries To Escape SpaceX's Gravity",
-          "sentiment": "bearish",
-          "score": -0.3,
-          "summary": "Tesla is underperforming as investor attention and capital rotates toward the newly public SpaceX, creating a narrative headwind for TSLA shares."
         }
       ]
     },

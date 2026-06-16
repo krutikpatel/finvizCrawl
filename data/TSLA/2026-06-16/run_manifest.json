@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "TSLA",
   "run_date": "2026-06-16",
-  "started_at": "2026-06-16T08:00:05.878894-07:00",
-  "finished_at": "2026-06-16T08:00:27.029737-07:00",
+  "started_at": "2026-06-16T16:00:05.314634-07:00",
+  "finished_at": "2026-06-16T16:00:24.484970-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,19 +51,12 @@
   "stats": {
     "news_links_total": 100,
     "news_links_new": 54,
-    "news_links_skipped_recent": 45,
-    "news_links_retry_failed": 1,
-    "articles_fetched_ok": 53,
-    "articles_failed": 2
+    "news_links_skipped_recent": 44,
+    "news_links_retry_failed": 2,
+    "articles_fetched_ok": 55,
+    "articles_failed": 1
   },
   "errors": [
-    {
-      "type": "http_error",
-      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/2983a552-7bcd-3bee-abcd-4dda34346392/s%26p-500%2C-nasdaq%2C-dow-futures.html",
-      "context": {
-        "url": "https://finance.yahoo.com/m/2983a552-7bcd-3bee-abcd-4dda34346392/s%26p-500%2C-nasdaq%2C-dow-futures.html"
-      }
-    },
     {
       "type": "http_error",
       "message": "403 Client Error: Forbidden for url: https://qz.com/spacex-stock-ipo-debut-nasdaq-061526",

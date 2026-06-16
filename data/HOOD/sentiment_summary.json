@@ -1,17 +1,29 @@
 {
   "schema_version": "1.0",
   "ticker": "HOOD",
-  "generated_at": "2026-06-16T08:20:07.912525-07:00",
-  "total_analyzed": 113,
+  "generated_at": "2026-06-16T16:34:11.441225-07:00",
+  "total_analyzed": 132,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.292,
+  "overall_score_avg": 0.263,
   "by_date": [
     {
       "date": "2026-06-16",
-      "articles_analyzed": 11,
+      "articles_analyzed": 30,
       "sentiment": "bullish",
-      "score_avg": 0.273,
+      "score_avg": 0.157,
       "top_headlines": [
+        {
+          "headline": "Robinhoods stock pops as analyst predicts World Cup will boost prediction markets revenue",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Bernstein projects Robinhood prediction markets revenue could surge 286% from $150M to $586M in 2026 driven by World Cup trading on its Rothera joint venture platform with Susquehanna."
+        },
+        {
+          "headline": "Thanks to the World Cup Robinhoods 2026 prediction markets revenue could skyrocket",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Bernstein forecasts Robinhood prediction markets revenue growing from $150M in 2025 to ~$600M in 2026 driven by World Cup betting on Rothera; the low-cost pricing strategy mirrors how Robinhood disrupted stock commissions."
+        },
         {
           "headline": "Robinhood Slashes 10% Of Workforce, Says Layoffs Come From A Position Of Business Strength",
           "sentiment": "bullish",
@@ -29,18 +41,6 @@
           "sentiment": "bullish",
           "score": 0.4,
           "summary": "Robinhood's successful allocation of SpaceX shares to 855K customers amid record-breaking traffic demonstrates HOOD's platform scalability and retail investor engagement."
-        },
-        {
-          "headline": "Robinhood to let go 10% of staff as it seeks to become leaner",
-          "sentiment": "bullish",
-          "score": 0.35,
-          "summary": "Robinhood's 10% workforce cut is framed as a strategic move from a position of strength, with record June trading volumes; the stock's 2%+ gain confirms market approval."
-        },
-        {
-          "headline": "Robinhood cuts 10% of staff as CEO Tenev pushes for lean team",
-          "sentiment": "bullish",
-          "score": 0.35,
-          "summary": "CEO Tenev's lean and hyper-focused framing with record trading volume backing drove HOOD shares up 2%, signaling investor confidence in the efficiency narrative."
         }
       ]
     },
