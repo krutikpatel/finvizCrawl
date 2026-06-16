@@ -3,6 +3,10 @@ project:
   name: finzwiz
   schema_version: "1.0"
 
+# Space-separated list of tickers to scrape and analyze.
+# Override at runtime with: FINZWIZ_TICKERS="TSLA NVDA" make run-workflow
+tickers: "TSLA AAPL META MU ENPH HOOD ORCL GOOG MSFT"
+
 output:
   # Root output folder for all data artifacts
   data_dir: "data"

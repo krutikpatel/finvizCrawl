@@ -183,6 +183,45 @@ FINZWIZ_TICKERS="TSLA NVDA" make run-workflow
 | `logs/workflow-YYYY-MM-DD.log` | Timestamped per-run output — scrape results + Claude analysis summary |
 | `logs/launchd.log` | Raw stdout/stderr captured by launchd for the scheduled executions |
 
+### Email summary (optional)
+
+After each run the workflow can email you a plain-text summary — overall sentiment, score, article counts, and top headlines per ticker.
+
+**One-time setup (requires Gmail + 2FA):**
+
+1. Create a Gmail App Password at <https://myaccount.google.com/apppasswords>.
+2. Store it in macOS Keychain:
+
+```bash
+make setup-email EMAIL=you@gmail.com
+# or manually:
+security add-generic-password -a "you@gmail.com" -s "finzwiz-smtp" -w "<app-password>"
+```
+
+3. Enable email delivery by uncommenting `FINZWIZ_EMAIL` in the plist:
+
+```xml
+<!-- scripts/com.finzwiz.workflow.plist -->
+<key>FINZWIZ_EMAIL</key>
+<string>you@gmail.com</string>
+```
+
+Then reload: `make workflow-install`.
+
+For a one-off test:
+
+```bash
+FINZWIZ_EMAIL=you@gmail.com make run-workflow
+# or call the script directly:
+.venv/bin/python scripts/send_summary_email.py \
+    --to you@gmail.com \
+    --tickers "TSLA AAPL" \
+    --date 2026-06-08 \
+    --data-dir data
+```
+
+The email is skipped silently when `FINZWIZ_EMAIL` is unset.
+
 ## Configuration
 
 Key fields in `config.yaml`:

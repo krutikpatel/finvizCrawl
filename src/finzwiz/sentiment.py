@@ -209,6 +209,25 @@ def _analyze_batch(
         return {a["article_id"]: {"error": str(exc)} for a in articles}
 
 
+def run_rebuild_summary(*, ticker: str, config_path: str) -> int:
+    """Recompute sentiment_summary.json from sentiment_log.jsonl — no API call needed."""
+    ticker = ticker.upper().strip()
+    try:
+        config = load_config(config_path)
+    except ConfigError as exc:
+        print(str(exc), file=sys.stderr)
+        return 2
+
+    data_root = Path(config.output.data_dir)
+    log_path = data_root / ticker / config.sentiment.log_filename
+    summary_path = data_root / ticker / config.sentiment.summary_filename
+
+    log = SentimentLog(log_path)
+    _write_summary(summary_path, ticker, config, log)
+    print(f"{ticker}: summary rebuilt ({len(log.all_records)} total records)")
+    return 0
+
+
 def _write_summary(
     summary_path: Path,
     ticker: str,

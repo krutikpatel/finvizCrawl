@@ -37,9 +37,12 @@
     <dict>
         <key>PATH</key>
         <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
-        <!-- Space-separated list of tickers to scrape and analyze -->
-        <key>FINZWIZ_TICKERS</key>
-        <string>TSLA AAPL META MU ENPH HOOD ORCL GOOG MSFT</string>
+        <!-- Tickers are read from config.yaml by default. Override here only if needed. -->
+        <!-- <key>FINZWIZ_TICKERS</key> -->
+        <!-- <string>TSLA AAPL META</string> -->
+        <!-- Optional: set your Gmail address to receive a daily summary email -->
+        <!-- <key>FINZWIZ_EMAIL</key> -->
+        <!-- <string>you@gmail.com</string> -->
 
     </dict>
 

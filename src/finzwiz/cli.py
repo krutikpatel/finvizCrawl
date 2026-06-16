@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 
 from .run import run_scrape
-from .sentiment import run_sentiment
+from .sentiment import run_rebuild_summary, run_sentiment
 
 
 def main() -> None:
@@ -25,12 +25,22 @@ def main() -> None:
         help="Run date to analyze (defaults to today Pacific)",
     )
 
+    rebuild = subparsers.add_parser(
+        "rebuild-summary",
+        help="Rebuild sentiment_summary.json from the log (no re-analysis)",
+    )
+    rebuild.add_argument("--ticker", required=True, help="Stock ticker symbol")
+    rebuild.add_argument("--config", default="config.yaml", help="Config path")
+
     args = parser.parse_args()
     if args.command == "scrape":
         exit_code = run_scrape(ticker=args.ticker, config_path=args.config, force=args.force)
         raise SystemExit(exit_code)
     if args.command == "analyze":
         exit_code = run_sentiment(ticker=args.ticker, config_path=args.config, run_date=args.date)
+        raise SystemExit(exit_code)
+    if args.command == "rebuild-summary":
+        exit_code = run_rebuild_summary(ticker=args.ticker, config_path=args.config)
         raise SystemExit(exit_code)
 
     raise SystemExit(2)
