@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2983a552-7bcd-3bee-abcd-4dda34346392/s%26p-500%2C-nasdaq%2C-dow-futures.html",
+    "fetched_at": "2026-06-16T08:00:15.678707-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/2983a552-7bcd-3bee-abcd-4dda34346392/s%26p-500%2C-nasdaq%2C-dow-futures.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/2983a552-7bcd-3bee-abcd-4dda34346392/s%26p-500%2C-nasdaq%2C-dow-futures.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

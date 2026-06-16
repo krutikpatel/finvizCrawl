@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-15T16:42:53.995504-07:00",
-  "total_analyzed": 150,
-  "overall_sentiment": "neutral",
-  "overall_score_avg": 0.093,
+  "generated_at": "2026-06-16T08:20:07.522077-07:00",
+  "total_analyzed": 162,
+  "overall_sentiment": "bullish",
+  "overall_score_avg": 0.113,
   "by_date": [
+    {
+      "date": "2026-06-16",
+      "articles_analyzed": 12,
+      "sentiment": "bullish",
+      "score_avg": 0.358,
+      "top_headlines": [
+        {
+          "headline": "Why WDC, MU, STX, SNDK Stocks Rallied Hard Today And Lifted DRAM To Solid Breakout",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "Micron surged 10.8% on record volume as the U.S.-Iran peace deal reignited the AI-memory trade, with DRAM ETF breaking out to new highs."
+        },
+        {
+          "headline": "Micron Stock Charges Toward New High and Could Reach This Level",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Multiple Wall Street analysts are raising Micron price targets after Monday's record high, signaling strong institutional conviction in MU's continued AI-memory upcycle."
+        },
+        {
+          "headline": "Western Digital stock jumps as AI trade reignites",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Micron reached a record high alongside Western Digital and Sandisk as the AI trade reignited on U.S.-Iran peace optimism, reflecting strong sector momentum."
+        },
+        {
+          "headline": "Western Digital, Micron, Sandisk hover at all-time highs as AI trade reignites",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Micron hovering at all-time highs with peers on AI trade revival and U.S.-Iran peace deal is a strong bullish signal for the memory sector."
+        },
+        {
+          "headline": "Oil and US gas prices retreat on US-Iran ceasefire",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "The Iran peace deal's oil price drop is fueling a semiconductor rally including Micron, with expectations of lower inflation enabling the Fed to remain accommodative."
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "articles_analyzed": 18,

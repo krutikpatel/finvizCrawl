@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-15T16:42:53.229946-07:00",
-  "total_analyzed": 103,
+  "generated_at": "2026-06-16T08:20:06.736209-07:00",
+  "total_analyzed": 123,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.057,
+  "overall_score_avg": -0.058,
   "by_date": [
+    {
+      "date": "2026-06-16",
+      "articles_analyzed": 20,
+      "sentiment": "neutral",
+      "score_avg": -0.062,
+      "top_headlines": [
+        {
+          "headline": "Italy's antitrust regulator probes Apple over cloud services under Digital Market rules",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Italy's first DMA investigation into Apple's iCloud interoperability adds a meaningful European regulatory risk that could force costly changes to Apple's cloud services business."
+        },
+        {
+          "headline": "Italian Competition Watchdog Launches Investigation Into Apples Cloud Service Practices (AAPL)",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Italy's antitrust investigation into whether rival cloud providers receive equal access under the DMA poses direct regulatory and operational risk to Apple's iCloud services business."
+        },
+        {
+          "headline": "Apple Faces Italy Cloud Probe",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "Another EU regulatory challenge to Apple's cloud ecosystem adds to a growing compliance burden that could increase costs or force interoperability changes."
+        },
+        {
+          "headline": "Tata iPhone components plant faces pollution probe as India supply chain risks rise",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "A pollution probe targeting Apple's key Indian iPhone component supplier Tata raises supply chain reliability risks as Apple diversifies manufacturing away from China."
+        },
+        {
+          "headline": "Apple Stock Is Down After WWDC. There's More to Its AI Strategy Than Meets the Eye.",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "While AAPL declined post-WWDC, Citi analysts see hidden upside in Apple's AI strategy, suggesting the selloff may be overdone."
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "articles_analyzed": 5,

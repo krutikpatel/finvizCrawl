@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "HOOD",
-  "generated_at": "2026-06-15T16:42:54.767137-07:00",
-  "total_analyzed": 102,
+  "generated_at": "2026-06-16T08:20:07.912525-07:00",
+  "total_analyzed": 113,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.294,
+  "overall_score_avg": 0.292,
   "by_date": [
+    {
+      "date": "2026-06-16",
+      "articles_analyzed": 11,
+      "sentiment": "bullish",
+      "score_avg": 0.273,
+      "top_headlines": [
+        {
+          "headline": "Robinhood Slashes 10% Of Workforce, Says Layoffs Come From A Position Of Business Strength",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Robinhood's efficiency-driven restructuring alongside record trading volumes and the upcoming FIFA World Cup prediction market catalyst makes the 10% cut a net positive for HOOD."
+        },
+        {
+          "headline": "Robinhood is cutting 10% of its jobs to keep a high performance culture",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Robinhood shares rallied toward a fifth consecutive gain as investors cheered the workforce reduction framed around performance culture and record trading volumes."
+        },
+        {
+          "headline": "SpaceX Investors at US Brokers Got at Least One IPO Share",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Robinhood's successful allocation of SpaceX shares to 855K customers amid record-breaking traffic demonstrates HOOD's platform scalability and retail investor engagement."
+        },
+        {
+          "headline": "Robinhood to let go 10% of staff as it seeks to become leaner",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Robinhood's 10% workforce cut is framed as a strategic move from a position of strength, with record June trading volumes; the stock's 2%+ gain confirms market approval."
+        },
+        {
+          "headline": "Robinhood cuts 10% of staff as CEO Tenev pushes for lean team",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "CEO Tenev's lean and hyper-focused framing with record trading volume backing drove HOOD shares up 2%, signaling investor confidence in the efficiency narrative."
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "articles_analyzed": 4,

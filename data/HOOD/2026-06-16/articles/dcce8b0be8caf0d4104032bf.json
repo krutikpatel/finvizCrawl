@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026/card/stocks-to-watch-spacex-qualcomm-dave-buster-s-6q5CjGNVDDA4CigySAs4?mod=wsj_FV",
+    "fetched_at": "2026-06-16T08:01:52.798804-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: SpaceX, Qualcomm, Robinhood",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 1 hour ago\nStocks to Watch: SpaceX, Qualcomm, Robinhood\n↗️ SpaceX (SPCX): Shares of Elon Musk’s rocket company are poised for another day of gains, following a two-day rally that pushed the stock up about 43% from its IPO price. Shares rose 8% in early trading.\n↗️Robinhood Markets (HOOD): Shares in the brokerage ticked higher after it said it would lay off about 10% of its workforce to cut costs and improve efficiency. The move will impact about 290 jobs.\n↗️ Go Inc. (JP:581A): Shares of the ride-hailing app jumped 10% in their Tokyo trading debut after Japan’s largest initial public offering of the year so far.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 1 hour ago",
+      "Stocks to Watch: SpaceX, Qualcomm, Robinhood",
+      "↗️ SpaceX (SPCX): Shares of Elon Musk’s rocket company are poised for another day of gains, following a two-day rally that pushed the stock up about 43% from its IPO price. Shares rose 8% in early trading.",
+      "↗️Robinhood Markets (HOOD): Shares in the brokerage ticked higher after it said it would lay off about 10% of its workforce to cut costs and improve efficiency. The move will impact about 290 jobs.",
+      "↗️ Go Inc. (JP:581A): Shares of the ride-hailing app jumped 10% in their Tokyo trading debut after Japan’s largest initial public offering of the year so far."
+    ],
+    "html": null
+  },
+  "links": [
+    "/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026?mod=lc_navigation",
+    "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
+    "https://www.barrons.com/client/silent-login?target=https%3A%2F%2Fwww.barrons.com",
+    "https://www.marketwatch.com/client/silent-login?target=https%3A%2F%2Fwww.marketwatch.com",
+    "https://www.wsj.com/",
+    "https://www.wsj.com/arts-culture?mod=nav_top_section",
+    "https://www.wsj.com/audio?mod=wsjheader",
+    "https://www.wsj.com/business/ride-hailing-app-go-surges-in-trading-debut-after-japans-biggest-ipo-of-year-2a38bff4",
+    "https://www.wsj.com/business?mod=nav_top_section",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com%2Fbuyside",
+    "https://www.wsj.com/digital-print-edition?mod=wsjheader",
+    "https://www.wsj.com/economy?mod=livemarkets-ribbon",
+    "https://www.wsj.com/economy?mod=nav_top_section",
+    "https://www.wsj.com/finance?mod=livemarkets-ribbon",
+    "https://www.wsj.com/finance?mod=nav_top_section",
+    "https://www.wsj.com/health?mod=nav_top_section",
+    "https://www.wsj.com/lifestyle?mod=nav_top_section",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026?mod=livemarkets-ribbon",
+    "https://www.wsj.com/market-data/quotes/HOOD",
+    "https://www.wsj.com/market-data/quotes/SPCX",
+    "https://www.wsj.com/market-data?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/heard-on-the-street?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/latest-headlines?mod=wsjheader",
+    "https://www.wsj.com/news/markets/stocks?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/puzzle?mod=wsjheader",
+    "https://www.wsj.com/news/types/streetwise?mod=livemarkets-ribbon",
+    "https://www.wsj.com/newsletters/markets-am?mod=livemarkets-ribbon",
+    "https://www.wsj.com/opinion/free-expression?mod=nav_top_section",
+    "https://www.wsj.com/opinion?mod=nav_top_section",
+    "https://www.wsj.com/personal-finance?mod=nav_top_section",
+    "https://www.wsj.com/podcasts/your-money-matters?mod=livemarkets-ribbon",
+    "https://www.wsj.com/politics?mod=nav_top_section",
+    "https://www.wsj.com/real-estate?mod=nav_top_section",
+    "https://www.wsj.com/sports?mod=nav_top_section",
+    "https://www.wsj.com/style?mod=nav_top_section",
+    "https://www.wsj.com/subscribe?page=wsjplusns",
+    "https://www.wsj.com/tech?mod=nav_top_section",
+    "https://www.wsj.com/us-news?mod=nav_top_section",
+    "https://www.wsj.com/video?mod=wsjheader",
+    "https://www.wsj.com/world?mod=nav_top_section"
+  ]
+}

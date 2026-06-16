@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-15T16:42:53.609547-07:00",
-  "total_analyzed": 179,
+  "generated_at": "2026-06-16T08:20:07.125593-07:00",
+  "total_analyzed": 187,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.037,
+  "overall_score_avg": -0.034,
   "by_date": [
+    {
+      "date": "2026-06-16",
+      "articles_analyzed": 8,
+      "sentiment": "neutral",
+      "score_avg": 0.037,
+      "top_headlines": [
+        {
+          "headline": "Meta Shares Jump After Unveiling New AI Feature For Facebook Users",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Meta shares rebounded 4.77% on new Facebook AI search and content tools, breaking a six-session losing streak and validating its AI monetization strategy."
+        },
+        {
+          "headline": "Meta employees are revolting against its AI rules and its a lesson for us all",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Internal revolt against Meta's AI restructuring with morale at historic lows and a public outburst during a company livestream signals execution risk that could slow Meta's AI product velocity."
+        },
+        {
+          "headline": "Michael Saylor Says AI Summer Is Draining Bitcoin Demand, Expects Capital To Rotate Back By Year-End As Frenzy Around OpenAI, SpaceX Fades",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "Saylor's framing of Meta raising ~$500B in AI capital suggests aggressive growth investment, a broadly positive signal for META's long-term AI competitiveness."
+        },
+        {
+          "headline": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
+          "sentiment": "bullish",
+          "score": 0.1,
+          "summary": "Meta's inclusion in the White House AI power commitment signals top-tier status among AI infrastructure spenders, a mild long-term positive for META's competitive positioning."
+        },
+        {
+          "headline": "Get Ready for SpaceX Options Trading. It Will Be Wild.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "SpaceX options launch article with no direct relevance to Meta Platforms."
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "articles_analyzed": 10,

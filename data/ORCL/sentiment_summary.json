@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-15T16:42:55.148052-07:00",
-  "total_analyzed": 96,
+  "generated_at": "2026-06-16T08:20:08.304979-07:00",
+  "total_analyzed": 102,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.058,
+  "overall_score_avg": -0.046,
   "by_date": [
+    {
+      "date": "2026-06-16",
+      "articles_analyzed": 6,
+      "sentiment": "neutral",
+      "score_avg": 0.142,
+      "top_headlines": [
+        {
+          "headline": "New AI Capabilities in Oracle OPERA Cloud Supercharge Hotel Operations",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Oracle embedding new AI capabilities into its OPERA Cloud hotel management platform demonstrates expanding vertical AI monetization within its cloud services business."
+        },
+        {
+          "headline": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Oracle's prominent inclusion in the White House AI infrastructure pledge alongside Big Tech positions ORCL as a key hyperscaler in the AI data center arms race."
+        },
+        {
+          "headline": "Project Jupiter Expands Community Outreach Effort Highlighting Benefits and Impacts of its Investments in New Mexico",
+          "sentiment": "bullish",
+          "score": 0.2,
+          "summary": "Oracle's Project Jupiter data center investment in New Mexico expanding community outreach signals continued cloud infrastructure growth commitment in the U.S."
+        },
+        {
+          "headline": "Intuit Stock's Real Growth Story Isn't The One You're Watching",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Intuit analysis article with no direct relevance to Oracle's business or stock."
+        },
+        {
+          "headline": "The Trillion-Dollar AI Bottleneck Nobody Is Talking About",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "AI power infrastructure bottleneck article; no specific Oracle content was extractable, making sentiment assessment neutral by default."
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "articles_analyzed": 2,
