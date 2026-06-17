@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-16T16:34:12.551597-07:00",
-  "total_analyzed": 175,
+  "generated_at": "2026-06-17T08:19:24.746351-07:00",
+  "total_analyzed": 191,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.034,
+  "overall_score_avg": -0.049,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 16,
+      "sentiment": "neutral",
+      "score_avg": -0.212,
+      "top_headlines": [
+        {
+          "headline": "SpaceX's hot debut sheds more light on Microsoft's dreadful stock price",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Microsoft 2026 stock underperformance of negative 19% YTD below its 200-day moving average reflects investor discomfort with $190B capex and competitive pressure from AI tools like Anthropic Claude Cowork."
+        },
+        {
+          "headline": "Is It Time to Sell Microsoft Stock? Why This Analyst Is Warning Investors to Exit.",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Analyst warning investors to exit Microsoft despite its lagging performance reflects conviction that downside risks from capex overhang and AI competition are not yet fully priced in."
+        },
+        {
+          "headline": "MSFT Falls 2% On Tuesday  Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Microsoft stock fell 2% after abandoning $3B Oracle cloud deal talks, highlighting infrastructure capacity constraints that could slow Azure growth."
+        },
+        {
+          "headline": "SpaceX stock passes Amazon in market cap after record IPO",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Microsoft stock down 19% year-to-date and trading below 200-day moving average with SpaceX rapid valuation approach highlighting the stark contrast between MSFT fundamentals and investor sentiment."
+        },
+        {
+          "headline": "Microsoft dips below 200-day moving average: Buy, hold, or sell?",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Multiple strategists are underweight Microsoft with the stock breaking below its 200-day moving average back to 2025/2026 lows with no clear near-term catalyst to reverse the trend."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 73,

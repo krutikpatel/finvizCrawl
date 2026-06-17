@@ -1,11 +1,31 @@
 {
   "schema_version": "1.0",
   "ticker": "ENPH",
-  "generated_at": "2026-06-16T16:34:11.059201-07:00",
-  "total_analyzed": 90,
+  "generated_at": "2026-06-17T08:19:23.265294-07:00",
+  "total_analyzed": 92,
   "overall_sentiment": "bullish",
   "overall_score_avg": 0.153,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 2,
+      "sentiment": "bullish",
+      "score_avg": 0.15,
+      "top_headlines": [
+        {
+          "headline": "Enphase Energy to Showcase Product Innovations at Intersolar Europe",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Enphase showcase at Intersolar Europe signals continued product innovation and engagement with the European solar market, a key growth region for the company."
+        },
+        {
+          "headline": "Lyft upgraded, Leidos downgraded: Wall Street's top analyst calls",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Wall Street analyst calls roundup has no direct mention of Enphase, providing no new market signal for the stock."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 18,

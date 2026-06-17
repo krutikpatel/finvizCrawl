@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-16T16:34:09.536189-07:00",
-  "total_analyzed": 299,
+  "generated_at": "2026-06-17T08:19:21.750754-07:00",
+  "total_analyzed": 319,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.047,
+  "overall_score_avg": 0.036,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 20,
+      "sentiment": "bearish",
+      "score_avg": -0.13,
+      "top_headlines": [
+        {
+          "headline": "Cathie Wood Swaps Tesla for SpaceX in $529M Elon Musk Pivot",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Cathie Wood high-profile $529M rotation from Tesla to SpaceX signals fading institutional conviction in TSLA amid Chinese EV competition and margin pressure."
+        },
+        {
+          "headline": "Tesla Stock Is Down. An Argentina Charger Deal Won't Help.",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Tesla shares are declining and a minor Argentina charging infrastructure deal is viewed as insufficient to reverse negative stock momentum."
+        },
+        {
+          "headline": "TSLA Stock In Focus: Could Optimus Be The Missing Link Between Tesla And SpaceX?",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Musk comments suggesting Optimus robots could form self-replicating systems reignites bullish speculation about a Tesla-SpaceX merger unlocking long-term robotics value."
+        },
+        {
+          "headline": "China's Brutal Auto Price War Claims Its Biggest Victim Yet: BMW",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "China intensifying auto price war that crushed BMW guidance directly threatens Tesla profitability in its critical Chinese market."
+        },
+        {
+          "headline": "TSLA Stock Falls  Senator Raises Concerns Over Teslas Misleading FSD Safety Data",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Senate pressure on Tesla FSD safety data integrity creates regulatory risk, though Goldman Sachs raising Q2 delivery estimates to 420K provides a partial offset."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 78,

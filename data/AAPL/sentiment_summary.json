@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-16T16:34:09.938100-07:00",
-  "total_analyzed": 150,
+  "generated_at": "2026-06-17T08:19:22.129742-07:00",
+  "total_analyzed": 165,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.034,
+  "overall_score_avg": -0.031,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 15,
+      "sentiment": "bullish",
+      "score_avg": 0.007,
+      "top_headlines": [
+        {
+          "headline": "Apple Investors Are Tired of AI Promises, Want Tangible Progress",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Investor fatigue with Apple AI delays after a disappointing WWDC has pushed AAPL to its worst week since February with no analyst revenue estimate upgrades."
+        },
+        {
+          "headline": "Italy opens first DMA probe into Apple over iCloud access",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Italy first-ever DMA probe into Apple over iCloud interoperability adds fresh regulatory risk potentially requiring Apple to open iOS to competing cloud providers."
+        },
+        {
+          "headline": "Apple Looks Beyond the iPhone Upgrade Cycle",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Apple reported 2027 roadmap for AI-camera AirPods and second-gen foldable iPhone signals meaningful hardware expansion that could revive growth beyond the iPhone upgrade cycle."
+        },
+        {
+          "headline": "Intel Stock Pops as Chip-Making Bet Moves Closer to Paying Off",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Intel 18A-P manufacturing milestone advances prospects of a reported Apple supply deal, potentially diversifying chip supply chain away from TSMC."
+        },
+        {
+          "headline": "Apple Eyes AI-Powered AirPods, Foldable iPhone Launches in 2027",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Apple confirmed 2027 AI-camera AirPods and second-gen foldable iPhone pipeline provides potential new catalysts for hardware growth and ecosystem expansion."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 47,

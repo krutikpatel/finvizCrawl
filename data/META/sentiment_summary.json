@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-16T16:34:10.313789-07:00",
-  "total_analyzed": 232,
+  "generated_at": "2026-06-17T08:19:22.506523-07:00",
+  "total_analyzed": 248,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.021,
+  "overall_score_avg": -0.028,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 16,
+      "sentiment": "neutral",
+      "score_avg": -0.138,
+      "top_headlines": [
+        {
+          "headline": "Meta CTO Flags Employee Morale Concerns After Recent Layoffs: Report",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Meta CTO acknowledging morale is at a roughly 20-year low following 8000 AI-driven layoffs signals significant cultural and execution risks that could slow the AI transformation."
+        },
+        {
+          "headline": "Social Media Has a Political Problem. This Time, It's Not Going Away.",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "UK government proposed ban on under-16s using Instagram adds to a growing regulatory wave targeting Meta social platforms and threatening its youth audience monetization."
+        },
+        {
+          "headline": "General Atlantic in Talks to Lead Round for Chinas Kling AI",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "China forced unwinding of Meta $2B Manus AI acquisition blocks a key agentic AI growth strategy and underscores geopolitical risks for Meta international AI expansion."
+        },
+        {
+          "headline": "Wall Street ticks up ahead of first Fed policy decision under Warsh",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Meta led communication services sector losses with a 2.2% decline as rate uncertainty and growth stock rotation weighed on richly-valued tech names."
+        },
+        {
+          "headline": "Nvidia Stock Braced for AI Funding Squeeze",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Questions about AI hardware spending sustainability could indirectly pressure Meta as a major Nvidia GPU customer in its AI infrastructure buildout."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 53,

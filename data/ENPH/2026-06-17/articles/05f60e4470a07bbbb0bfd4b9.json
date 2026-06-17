@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html",
+    "fetched_at": "2026-06-17T08:01:49.657274-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/4912b849-1fd6-3294-b512-246e1aa85968/enphase-stock-soars-35%25-after.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  },
+  "links": []
+}

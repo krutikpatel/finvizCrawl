@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "GOOG",
-  "generated_at": "2026-06-16T16:34:12.182496-07:00",
-  "total_analyzed": 162,
+  "generated_at": "2026-06-17T08:19:24.379271-07:00",
+  "total_analyzed": 179,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.071,
+  "overall_score_avg": 0.073,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 17,
+      "sentiment": "bullish",
+      "score_avg": 0.088,
+      "top_headlines": [
+        {
+          "headline": "HSBC partners with Google Cloud to expand AI usage",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "HSBC multi-year Google Cloud partnership targeting 200+ AI tasks and $100M+ revenue/efficiency improvements per project demonstrates strong enterprise adoption of Google cloud AI capabilities."
+        },
+        {
+          "headline": "Google Rolls Out Android 17, More Gemini Features Arrive This Summer",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Android 17 rollout with enhanced features and upcoming Gemini Intelligence integration reinforces Google strong mobile AI platform positioning heading into summer."
+        },
+        {
+          "headline": "AI use in UK hits 'tipping point' as companies scale up, Google exec says",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Google Cloud VP highlighting UK AI adoption reaching a tipping point with companies scaling deployments signals accelerating enterprise cloud AI revenue for Alphabet."
+        },
+        {
+          "headline": "Amazon Faces New Ad Pricing Scrutiny",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "FTC reported investigation into whether Google misled advertisers on ad terms and pricing creates regulatory risk for Alphabet dominant advertising business."
+        },
+        {
+          "headline": "Uber and Lucid pick Houston as next robotaxi market as battle with Waymo, Tesla heats up",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Uber-Lucid robotaxi expansion into Houston confirms the intensifying commercial market that Alphabet Waymo already operates in, validating Waymo first-mover advantage."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 58,

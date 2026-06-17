@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "HOOD",
-  "generated_at": "2026-06-16T16:34:11.441225-07:00",
-  "total_analyzed": 132,
+  "generated_at": "2026-06-17T08:19:23.631404-07:00",
+  "total_analyzed": 138,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.263,
+  "overall_score_avg": 0.258,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 6,
+      "sentiment": "bullish",
+      "score_avg": 0.15,
+      "top_headlines": [
+        {
+          "headline": "HOOD Stock Gets A New $105 Price Target  Here's What Bulls Think The Market Is Missing",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Deutsche Bank and Argus Research both raised Robinhood price targets to $105 and $110 respectively citing record June trading volumes and multi-year high-growth potential with the stock rising over 4%."
+        },
+        {
+          "headline": "Robinhood Reduces Workforce 10% While Pledging to Keep Hiring",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Robinhood 10% workforce reduction framed as a proactive efficiency move from strength with record June trading volumes across equities, options, and prediction markets supporting the bullish thesis."
+        },
+        {
+          "headline": "Will Kevin Warsh Trigger a Bitcoin Selloff Today?",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Historical pattern of Bitcoin declining in the 48 hours after FOMC decisions poses a near-term risk to Robinhood crypto trading volumes if the pattern repeats under Warsh."
+        },
+        {
+          "headline": "Trading app Robinhood to shed 10% of staff",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Robinhood proactive headcount reduction amid record trading activity signals disciplined cost management and strong business momentum heading into Q2."
+        },
+        {
+          "headline": "Coinbase Joins Tokenized Stock Race With Onchain Shares and Dividends",
+          "sentiment": "neutral",
+          "score": -0.1,
+          "summary": "Coinbase entering the tokenized equities market alongside Robinhood planned Europe rollout signals growing competition in this emerging product category."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 30,

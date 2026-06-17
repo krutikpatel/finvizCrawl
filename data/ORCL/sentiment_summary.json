@@ -1,11 +1,43 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-16T16:34:11.809302-07:00",
-  "total_analyzed": 123,
+  "generated_at": "2026-06-17T08:19:24.003678-07:00",
+  "total_analyzed": 127,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.047,
+  "overall_score_avg": -0.054,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 4,
+      "sentiment": "bearish",
+      "score_avg": -0.25,
+      "top_headlines": [
+        {
+          "headline": "MSFT Falls 2% On Tuesday  Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Microsoft abandonment of a $3B Oracle cloud deal due to FedRAMP certification failure exposes Oracle infrastructure limitations in serving government-adjacent enterprise workloads."
+        },
+        {
+          "headline": "Microsoft Walks Away From Potential $3 Billion Oracle Deal, Stock Dips",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Microsoft walking away from a $3B+ Oracle data center lease over security compliance gaps creates near-term revenue headwinds and raises questions about Oracle government cloud certification readiness."
+        },
+        {
+          "headline": "OpenAIs Financials Leaked. Theyre Not Bad, but Theyre Not Great.",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Leaked OpenAI financials showing a $38.5B net loss create uncertainty around Oracle strategic bet on OpenAI as a key AI infrastructure customer backed by Larry Ellison."
+        },
+        {
+          "headline": "Lightpath Monetizes Digital Services and Powers AI-Driven Innovation with Oracle",
+          "sentiment": "bullish",
+          "score": 0.2,
+          "summary": "Lightpath Oracle partnership for AI-driven digital services represents a positive customer adoption signal for Oracle cloud and AI infrastructure platform."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 27,

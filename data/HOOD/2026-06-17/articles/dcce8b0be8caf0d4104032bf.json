@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026/card/stocks-to-watch-spacex-qualcomm-dave-buster-s-6q5CjGNVDDA4CigySAs4?mod=wsj_FV",
+    "fetched_at": "2026-06-17T08:01:56.553876-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: Snap, JPMorgan, AMD, SpaceX",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Updated 9 hours ago\nStocks to Watch: Snap, JPMorgan, AMD, SpaceX\n↗️ SpaceX (SPCX): Shares of Elon Musk’s rocket company wrapped up another day of gains, following a two-day rally that put the stock about 43% above its IPO price. Shares rose 4.8% Tuesday, pushing SpaceX's market cap above Amazon's.\n↘️Robinhood Markets (HOOD): Shares in the brokerage ticked 1.4% lower after it said it would lay off about 10% of its workforce to cut costs and improve efficiency. The move will impact about 290 jobs.\n↘️ Snap (SNAP): Snap debuted augmented reality glasses that go for $2,195, in a bet that smartglasses will become consumers' go-to computing device. Investors were skeptical, sending the technology company's shares down 9.6%.",
+    "text_blocks": [
+      "Updated 9 hours ago",
+      "Stocks to Watch: Snap, JPMorgan, AMD, SpaceX",
+      "↗️ SpaceX (SPCX): Shares of Elon Musk’s rocket company wrapped up another day of gains, following a two-day rally that put the stock about 43% above its IPO price. Shares rose 4.8% Tuesday, pushing SpaceX's market cap above Amazon's.",
+      "↘️Robinhood Markets (HOOD): Shares in the brokerage ticked 1.4% lower after it said it would lay off about 10% of its workforce to cut costs and improve efficiency. The move will impact about 290 jobs.",
+      "↘️ Snap (SNAP): Snap debuted augmented reality glasses that go for $2,195, in a bet that smartglasses will become consumers' go-to computing device. Investors were skeptical, sending the technology company's shares down 9.6%."
+    ],
+    "html": null
+  },
+  "links": [
+    "/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026?mod=lc_navigation",
+    "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
+    "https://www.barrons.com/client/silent-login?target=https%3A%2F%2Fwww.barrons.com",
+    "https://www.marketwatch.com/client/silent-login?target=https%3A%2F%2Fwww.marketwatch.com",
+    "https://www.wsj.com/",
+    "https://www.wsj.com/arts-culture?mod=nav_top_section",
+    "https://www.wsj.com/audio?mod=wsjheader",
+    "https://www.wsj.com/business/robinhood-markets-to-cut-10-of-workforce-in-restructuring-15900954",
+    "https://www.wsj.com/business?mod=nav_top_section",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com%2Fbuyside",
+    "https://www.wsj.com/digital-print-edition?mod=wsjheader",
+    "https://www.wsj.com/economy?mod=livemarkets-ribbon",
+    "https://www.wsj.com/economy?mod=nav_top_section",
+    "https://www.wsj.com/finance?mod=livemarkets-ribbon",
+    "https://www.wsj.com/finance?mod=nav_top_section",
+    "https://www.wsj.com/health?mod=nav_top_section",
+    "https://www.wsj.com/lifestyle?mod=nav_top_section",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026?mod=livemarkets-ribbon",
+    "https://www.wsj.com/market-data/quotes/HOOD",
+    "https://www.wsj.com/market-data/quotes/SNAP",
+    "https://www.wsj.com/market-data/quotes/SPCX",
+    "https://www.wsj.com/market-data?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/heard-on-the-street?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/latest-headlines?mod=wsjheader",
+    "https://www.wsj.com/news/markets/stocks?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/puzzle?mod=wsjheader",
+    "https://www.wsj.com/news/types/streetwise?mod=livemarkets-ribbon",
+    "https://www.wsj.com/newsletters/markets-am?mod=livemarkets-ribbon",
+    "https://www.wsj.com/opinion/free-expression?mod=nav_top_section",
+    "https://www.wsj.com/opinion?mod=nav_top_section",
+    "https://www.wsj.com/personal-finance?mod=nav_top_section",
+    "https://www.wsj.com/podcasts/your-money-matters?mod=livemarkets-ribbon",
+    "https://www.wsj.com/politics?mod=nav_top_section",
+    "https://www.wsj.com/real-estate?mod=nav_top_section",
+    "https://www.wsj.com/sports?mod=nav_top_section",
+    "https://www.wsj.com/style?mod=nav_top_section",
+    "https://www.wsj.com/subscribe?page=wsjplusns",
+    "https://www.wsj.com/tech?mod=nav_top_section",
+    "https://www.wsj.com/us-news?mod=nav_top_section",
+    "https://www.wsj.com/video?mod=wsjheader",
+    "https://www.wsj.com/world?mod=nav_top_section"
+  ]
+}

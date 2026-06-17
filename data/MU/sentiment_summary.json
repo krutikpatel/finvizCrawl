@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-16T16:34:10.684988-07:00",
-  "total_analyzed": 197,
+  "generated_at": "2026-06-17T08:19:22.896500-07:00",
+  "total_analyzed": 213,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.142,
+  "overall_score_avg": 0.159,
   "by_date": [
+    {
+      "date": "2026-06-17",
+      "articles_analyzed": 16,
+      "sentiment": "bullish",
+      "score_avg": 0.369,
+      "top_headlines": [
+        {
+          "headline": "Micron shares climb as analysts raise targets on DRAM supply squeeze",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "Deutsche Bank and Citi both raised Micron price targets dramatically to $1500 and $1200 respectively citing DRAM supply tightness expected to persist through 2028 with 200% ASP increases in 2026."
+        },
+        {
+          "headline": "MU, AMAT Stocks Rise Premarket: Analysts Justify Bull Case For Memory Darlings Amid Supply Crunch",
+          "sentiment": "bullish",
+          "score": 0.7,
+          "summary": "Multiple Wall Street analysts reinforcing the bull case for Micron ahead of Q3 earnings with elevated gross margin expectations and Q3 EPS consensus of $19.72 on $34.5B revenue."
+        },
+        {
+          "headline": "Semiconductor Stocks Climb in Premarket Trade Following Intel Manufacturing Milestone",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Intel 18A-P manufacturing milestone drove Micron 3.5% higher in premarket as positive semiconductor news reinforced strong AI memory demand dynamics."
+        },
+        {
+          "headline": "Is Micron Stock's Data Center Engine Stalling, Or Just Drowned Out By AI?",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Analysis confirms Micron core data center SSD segment still grows 45% YoY while AI memory drives 257% growth, validating the complete AI transition thesis."
+        },
+        {
+          "headline": "Why Did MU, WDC, LION Stocks Surge To 52-Week Highs Today?",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "TD Cowen dramatic price target hike to $1500 from $660 confirms the AI memory demand thesis even as MU pulled back 6% from its 52-week high on profit-taking."
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles_analyzed": 47,
