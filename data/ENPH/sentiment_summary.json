@@ -1,11 +1,37 @@
 {
   "schema_version": "1.0",
   "ticker": "ENPH",
-  "generated_at": "2026-06-17T08:19:23.265294-07:00",
-  "total_analyzed": 92,
+  "generated_at": "2026-06-18T08:36:42.404765-07:00",
+  "total_analyzed": 95,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.153,
+  "overall_score_avg": 0.165,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 3,
+      "sentiment": "bullish",
+      "score_avg": 0.55,
+      "top_headlines": [
+        {
+          "headline": "Enphase Energy Climbs After Barclays Upgrade and New Product Rollout",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "ENPH surged 6.7 pct premarket on Barclays upgrade and new product; SST data center opportunity could reach $2B annual run rate with hyperscale 800V DC migration tailwind."
+        },
+        {
+          "headline": "SpaceX initiated Salesforce upgraded: Wall Streets top analyst calls",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Barclays upgraded Enphase to Equal Weight from Underweight and raised price target to $51 from $30 citing emerging solid-state transformer data center opportunity."
+        },
+        {
+          "headline": "Enphase Energy Begins Shipments of GaN-Based 548 VA IQ9S Commercial Microinverters in the United States",
+          "sentiment": "bullish",
+          "score": 0.3,
+          "summary": "Enphase begins shipping new commercial microinverter designed for large-scale solar installations, expanding product footprint beyond residential market."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 2,

@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "GOOG",
-  "generated_at": "2026-06-17T08:19:24.379271-07:00",
-  "total_analyzed": 179,
+  "generated_at": "2026-06-18T08:36:43.664813-07:00",
+  "total_analyzed": 218,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.073,
+  "overall_score_avg": 0.055,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 39,
+      "sentiment": "neutral",
+      "score_avg": -0.029,
+      "top_headlines": [
+        {
+          "headline": "Google Loses a Key Gemini Leader",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Noam Shazeer co-lead of Google Gemini leaving for OpenAI after Google paid $2.7B to bring him back just two years ago; major talent loss at a critical AI competition juncture."
+        },
+        {
+          "headline": "Top AI researcher leaves Google for OpenAI",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "Shazeer departure to OpenAI illustrates limits of acqui-hires and shows OpenAI winning the AI talent war against Google at a key competitive moment."
+        },
+        {
+          "headline": "Google Gemini Co-Lead Leaves for OpenAI",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Shazeer leaving for OpenAI after $2.7B acqui-hire just two years ago is a major loss for Google Gemini competitiveness against ChatGPT."
+        },
+        {
+          "headline": "HSBC Taps Google Cloud For 200 AI Use Cases",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "HSBC multi-year partnership with Google Cloud for 200+ AI use cases each potentially generating $100M+ in value validates Google Cloud enterprise AI momentum."
+        },
+        {
+          "headline": "Big Techs AI Spending Spree Is Making Stock Buybacks Disappear",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Alphabet planning $85B equity raise in first equity sale in 20 years to fund AI data center capex; shareholder dilution and elimination of buybacks are direct negatives."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 17,

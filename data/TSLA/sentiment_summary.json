@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-17T08:19:21.750754-07:00",
-  "total_analyzed": 319,
+  "generated_at": "2026-06-18T08:36:40.657318-07:00",
+  "total_analyzed": 333,
   "overall_sentiment": "neutral",
   "overall_score_avg": 0.036,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 14,
+      "sentiment": "neutral",
+      "score_avg": 0.046,
+      "top_headlines": [
+        {
+          "headline": "TSLA Stock Rises Overnight: Analyst Sees Q2 Delivery Beat, Says SPCX Merger Buzz Is Limiting Downside Risk",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Wolfe Research projects 420K Q2 deliveries and margins above consensus with Tesla-SpaceX merger speculation providing downside support for the stock."
+        },
+        {
+          "headline": "Your Tesla Drives Better Than You Do and That Is Good News for the Stock",
+          "sentiment": "bullish",
+          "score": 0.45,
+          "summary": "Safety data showing Tesla FSD outperforms human drivers supports the robotaxi thesis and reduces a key concern for commercial deployment."
+        },
+        {
+          "headline": "Goldman Sachs Has a Great News For Tesla Stock Fans",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Goldman Sachs raised Q2 delivery estimate to 420K from 405K citing strong demand in Europe, China, and APAC, providing near-term earnings upside."
+        },
+        {
+          "headline": "Robotaxi rankings show Waymo lead, China rise",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "New AV rankings place Chinese companies far ahead of Tesla in robotaxi commercialization, undermining Tesla autonomous leadership narrative."
+        },
+        {
+          "headline": "Tesla needs to deliver on Robotaxi milestones for shares to find momentum: analyst",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Wolfe Research warns robotaxi deployment ramps are shallower than expected and Tesla is likely to miss H1 targets, making the long-term valuation increasingly dependent on AI execution."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 20,

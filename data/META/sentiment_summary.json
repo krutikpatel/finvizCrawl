@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-17T08:19:22.506523-07:00",
-  "total_analyzed": 248,
+  "generated_at": "2026-06-18T08:36:41.556622-07:00",
+  "total_analyzed": 270,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.028,
+  "overall_score_avg": -0.033,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 22,
+      "sentiment": "neutral",
+      "score_avg": -0.082,
+      "top_headlines": [
+        {
+          "headline": "Morale is so bad at Meta even the CTO admits its probably the worst ever",
+          "sentiment": "bearish",
+          "score": -0.6,
+          "summary": "CTO Bosworth says internal morale is probably the worst it has ever been despite record earnings raising execution risk during major AI restructuring."
+        },
+        {
+          "headline": "Nasdaq US stocks slide as Fed forecasts possible rate hike",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Meta down 5 pct in the session after hawkish Fed signaled rate hike possibility; communication services sector worst performer."
+        },
+        {
+          "headline": "Meta AI Restructuring Hit by Executive Exit",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Emily Dalton Smith departure adds leadership instability as Meta accelerates AI agent deployment; META closed down 5.44 pct."
+        },
+        {
+          "headline": "Threads Hits 500 Million Users as Meta Builds Twitter Rival",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Threads reaching 500M monthly users halfway to Zuckerberg 1B goal; direct user growth with organic destination behavior emerging."
+        },
+        {
+          "headline": "Snaps new AR glasses need lower prices to reach consumers analysts say",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Snap Specs at $2,195 fail vs Meta Ray-Ban glasses under $500; Meta dominates AR wearables with 7M units and on track for 10M+ this year."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 16,

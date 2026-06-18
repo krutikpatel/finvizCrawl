@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-17T08:19:22.896500-07:00",
-  "total_analyzed": 213,
+  "generated_at": "2026-06-18T08:36:41.979773-07:00",
+  "total_analyzed": 241,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.159,
+  "overall_score_avg": 0.19,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 28,
+      "sentiment": "bullish",
+      "score_avg": 0.427,
+      "top_headlines": [
+        {
+          "headline": "SanDisk and Micron surge as Apple confirms memory price pass-through",
+          "sentiment": "bullish",
+          "score": 0.85,
+          "summary": "MU up 6.59 pct near 52-week highs as Apple CEO confirmation validates memory supercycle with DRAM prices up 100 pct in H1 2026."
+        },
+        {
+          "headline": "Wall Street scrambles to lift Micron price targets ahead of earnings",
+          "sentiment": "bullish",
+          "score": 0.85,
+          "summary": "Multiple analysts lifting targets to $1,200-$1,500 as MU trades near all-time highs above $1,000 per share on AI DRAM supercycle thesis."
+        },
+        {
+          "headline": "Why Higher Apple Prices Are Sending Micron Stock to a Record High",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "Apple price hike confirmation is a direct catalyst for Micron stock hitting records validating memory supplier pricing power."
+        },
+        {
+          "headline": "Micron Stock Surges Toward Record High. Thank Apple.",
+          "sentiment": "bullish",
+          "score": 0.8,
+          "summary": "MU surging to record highs directly driven by Apple CEO price hike confirmation validating memory chip pricing power."
+        },
+        {
+          "headline": "Stifels $1500 Target Bets Micron Has Further to Run",
+          "sentiment": "bullish",
+          "score": 0.75,
+          "summary": "Stifel tripled price target to $1,500 with Buy rating; server DRAM contract pricing above $2.50 per gigabit is roughly twice initial MU forecasts."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 16,

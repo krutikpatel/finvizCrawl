@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026/card/stocks-to-watch-intel-apple-smith-wesson-CPWrDsktYLV7juQ6yYSl?mod=wsj_FV",
+    "fetched_at": "2026-06-18T08:00:21.169578-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: Intel, Accenture, Micron, SpaceX",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 44 min ago\nStocks to Watch: Intel, Accenture, Micron, SpaceX\n↗️ Intel (INTC): Shares in the tech giant surged after President Trump said Apple agreed to work with it to design and build chips in the U.S.\n↘️ Accenture (ACN): Shares in the consultancy and IT-services provider tumbled after it cut its guidance; other software stocks are also down. Separately, Accenture announced deals of some $4 billion in the industrial-cybersecurity sector.\n↗️ Apple (AAPL): The iPhone maker plans to raise prices on its products to offset surging memory and storage-chip costs, CEO Tim Cook told the Journal. Apple's stock ticked higher, while shares in memory makers including Western Digital (WDC), Marvell Technology (MRVL) and Micron Technology (MU) climbed.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 44 min ago",
+      "Stocks to Watch: Intel, Accenture, Micron, SpaceX",
+      "↗️ Intel (INTC): Shares in the tech giant surged after President Trump said Apple agreed to work with it to design and build chips in the U.S.",
+      "↘️ Accenture (ACN): Shares in the consultancy and IT-services provider tumbled after it cut its guidance; other software stocks are also down. Separately, Accenture announced deals of some $4 billion in the industrial-cybersecurity sector.",
+      "↗️ Apple (AAPL): The iPhone maker plans to raise prices on its products to offset surging memory and storage-chip costs, CEO Tim Cook told the Journal. Apple's stock ticked higher, while shares in memory makers including Western Digital (WDC), Marvell Technology (MRVL) and Micron Technology (MU) climbed."
+    ],
+    "html": null
+  },
+  "links": [
+    "/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026?mod=lc_navigation",
+    "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
+    "https://www.barrons.com/client/silent-login?target=https%3A%2F%2Fwww.barrons.com",
+    "https://www.marketwatch.com/client/silent-login?target=https%3A%2F%2Fwww.marketwatch.com",
+    "https://www.wsj.com/",
+    "https://www.wsj.com/arts-culture?mod=nav_top_section",
+    "https://www.wsj.com/audio?mod=wsjheader",
+    "https://www.wsj.com/business?mod=nav_top_section",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com%2Fbuyside",
+    "https://www.wsj.com/digital-print-edition?mod=wsjheader",
+    "https://www.wsj.com/economy?mod=livemarkets-ribbon",
+    "https://www.wsj.com/economy?mod=nav_top_section",
+    "https://www.wsj.com/finance?mod=livemarkets-ribbon",
+    "https://www.wsj.com/finance?mod=nav_top_section",
+    "https://www.wsj.com/health?mod=nav_top_section",
+    "https://www.wsj.com/lifestyle?mod=nav_top_section",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026/card/intel-stock-rockets-on-apple-partnership-bIi6U3pfTLT9zcTJjn7k",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026?mod=livemarkets-ribbon",
+    "https://www.wsj.com/market-data/quotes/AAPL",
+    "https://www.wsj.com/market-data/quotes/ACN",
+    "https://www.wsj.com/market-data/quotes/INTC",
+    "https://www.wsj.com/market-data/quotes/MRVL",
+    "https://www.wsj.com/market-data/quotes/MU",
+    "https://www.wsj.com/market-data/quotes/WDC",
+    "https://www.wsj.com/market-data?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/heard-on-the-street?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/latest-headlines?mod=wsjheader",
+    "https://www.wsj.com/news/markets/stocks?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/puzzle?mod=wsjheader",
+    "https://www.wsj.com/news/types/streetwise?mod=livemarkets-ribbon",
+    "https://www.wsj.com/newsletters/markets-am?mod=livemarkets-ribbon",
+    "https://www.wsj.com/opinion/free-expression?mod=nav_top_section",
+    "https://www.wsj.com/opinion?mod=nav_top_section",
+    "https://www.wsj.com/personal-finance?mod=nav_top_section",
+    "https://www.wsj.com/podcasts/your-money-matters?mod=livemarkets-ribbon",
+    "https://www.wsj.com/politics?mod=nav_top_section",
+    "https://www.wsj.com/pro/cybersecurity/accenture-takes-majority-stake-in-cyber-company-dragos-bb536634",
+    "https://www.wsj.com/real-estate?mod=nav_top_section",
+    "https://www.wsj.com/sports?mod=nav_top_section",
+    "https://www.wsj.com/style?mod=nav_top_section",
+    "https://www.wsj.com/subscribe?page=wsjplusns",
+    "https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1",
+    "https://www.wsj.com/tech?mod=nav_top_section",
+    "https://www.wsj.com/us-news?mod=nav_top_section",
+    "https://www.wsj.com/video?mod=wsjheader",
+    "https://www.wsj.com/world?mod=nav_top_section"
+  ]
+}

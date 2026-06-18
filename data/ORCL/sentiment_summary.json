@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-17T08:19:24.003678-07:00",
-  "total_analyzed": 127,
+  "generated_at": "2026-06-18T08:36:43.247338-07:00",
+  "total_analyzed": 134,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.054,
+  "overall_score_avg": -0.061,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 7,
+      "sentiment": "bearish",
+      "score_avg": -0.186,
+      "top_headlines": [
+        {
+          "headline": "Oracle Stocks High Stakes Gamble",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Oracle planning $70B capex in FY2027 funded by $40B in debt and equity; margin compression expected as mix shifts from high-margin software to capital-intensive AI infrastructure."
+        },
+        {
+          "headline": "Oracle Is Burning Billions: Is IBM Stock The Smarter Cloud Play?",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Oracle negative $23.7B free cash flow over trailing twelve months due to massive infrastructure spending while IBM generates $12.2B FCF; analysts prefer IBM valuation."
+        },
+        {
+          "headline": "Dayos Releases Athena: Agentic Replacement for Oracle and Workday AMS Contracts",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "AI startup Dayos releasing agentic platform that directly replaces Oracle Application Managed Services contracts claiming 50 pct ticket backlog reduction and 70 pct faster report completion."
+        },
+        {
+          "headline": "Oracle Disputes Report on Failed Microsoft Cloud Deal",
+          "sentiment": "bearish",
+          "score": -0.2,
+          "summary": "Microsoft reportedly abandoned a $3B Oracle data center lease over security concerns; Oracle disputes the account but the uncertainty around a major customer deal is negative."
+        },
+        {
+          "headline": "Turbocharged Earnings Are Pushing Stocks Higher. Theres a Catch",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "General market article noting AI investment cost lag will eventually weigh on earnings; beneficial for Oracle as AI infrastructure player near term."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 4,

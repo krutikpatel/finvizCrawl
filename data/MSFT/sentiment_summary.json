@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-17T08:19:24.746351-07:00",
-  "total_analyzed": 191,
+  "generated_at": "2026-06-18T08:36:44.087776-07:00",
+  "total_analyzed": 223,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.049,
+  "overall_score_avg": -0.053,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 32,
+      "sentiment": "neutral",
+      "score_avg": -0.078,
+      "top_headlines": [
+        {
+          "headline": "Nasdaq US stocks slide as Fed forecasts possible rate hike",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Microsoft down 4 pct in session after hawkish Warsh Fed; MSFT is a high-duration growth stock sensitive to rate hike expectations."
+        },
+        {
+          "headline": "Microsoft Walks Away From Potential $3 Billion Oracle Deal Stock Dips",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Microsoft abandoned a $3B Oracle data center lease over security compliance concerns; MSFT stock dipped 1.5 pct signaling challenges in cloud capacity planning."
+        },
+        {
+          "headline": "Big Techs AI Spending Spree Is Making Stock Buybacks Disappear",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Microsoft Q1 buybacks at lowest in nearly a decade at $3.4B; AI capex consuming free cash flow and reducing shareholder returns."
+        },
+        {
+          "headline": "Salesforce Microsoft share losses contribute to Dows 312-point drop",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Microsoft shares contributed to Dow decline of 312 points as software stocks broadly sold off."
+        },
+        {
+          "headline": "Oracle Disputes Report on Failed Microsoft Cloud Deal",
+          "sentiment": "bearish",
+          "score": -0.25,
+          "summary": "Report of Microsoft abandoning $3B Oracle deal highlights challenges in cloud capacity procurement; Oracle disputes the account but MSFT still slipped on the news."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 16,

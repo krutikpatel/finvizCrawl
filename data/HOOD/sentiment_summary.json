@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "HOOD",
-  "generated_at": "2026-06-17T08:19:23.631404-07:00",
-  "total_analyzed": 138,
+  "generated_at": "2026-06-18T08:36:42.827292-07:00",
+  "total_analyzed": 143,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.258,
+  "overall_score_avg": 0.25,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 5,
+      "sentiment": "neutral",
+      "score_avg": 0.02,
+      "top_headlines": [
+        {
+          "headline": "Kalshi CEO Says Polymarket Is Not His Main Rival Points to 3 Bigger Threats",
+          "sentiment": "bullish",
+          "score": 0.2,
+          "summary": "Kalshi CEO names Robinhood as one of three most significant rivals in prediction markets, validating HOOD as a meaningful player in this growing category."
+        },
+        {
+          "headline": "This $91 Billion Fintech Startup Is Laying Off 10% of Workers Even Though the Business Has Never Been Stronger",
+          "sentiment": "neutral",
+          "score": -0.1,
+          "summary": "Robinhood cutting 10 pct of staff framed as proactive restructuring from strength but incurring $28M in charges signals organizational growing pains."
+        },
+        {
+          "headline": "Coinbase wants to be your bank. But should it?",
+          "sentiment": "neutral",
+          "score": -0.1,
+          "summary": "Coinbase expanding into banking, stock options, and AI advisers increases competition for Robinhood in the retail trading and financial services space."
+        },
+        {
+          "headline": "Cathie Woods ARK Dumps Another $26.7M Of Robinhood Despite HOOD Stocks 36% Monthly Surge",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "ARK selling is profit-taking headwind but HOOD up 36 pct monthly supported by IPO underwriting expansion, record platform assets at $377B, and SpaceX IPO tailwind."
+        },
+        {
+          "headline": "Why Strategy Coinbase Stocks Are Rising When Bitcoin Is Falling",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Crypto-adjacent stocks rebounding even as Bitcoin falls; Robinhood not directly mentioned."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 6,

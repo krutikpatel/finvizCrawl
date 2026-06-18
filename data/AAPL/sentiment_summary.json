@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-17T08:19:22.129742-07:00",
-  "total_analyzed": 165,
+  "generated_at": "2026-06-18T08:36:41.137427-07:00",
+  "total_analyzed": 212,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.031,
+  "overall_score_avg": -0.011,
   "by_date": [
+    {
+      "date": "2026-06-18",
+      "articles_analyzed": 47,
+      "sentiment": "neutral",
+      "score_avg": 0.056,
+      "top_headlines": [
+        {
+          "headline": "Apple Faces AI Fatigue as Stock Gain Trails Nasdaq",
+          "sentiment": "bearish",
+          "score": -0.4,
+          "summary": "Apple AI delivery delays and Siri unavailability in EU and China have caused AAPL to significantly underperform and fail to catalyze the expected upgrade cycle."
+        },
+        {
+          "headline": "Intel shares jump after Trump says Apple will work with chipmaker",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Apple-Intel US chip partnership would diversify supply from TSMC, reducing concentration risk."
+        },
+        {
+          "headline": "Apple Intel Chip Partnership Gains Momentum",
+          "sentiment": "bullish",
+          "score": 0.35,
+          "summary": "Apple-Intel foundry deal would diversify chip production beyond TSMC and validate Intel manufacturing turnaround."
+        },
+        {
+          "headline": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "AI is a dual headwind for Apple: driving memory costs fourfold while simultaneously failing to deliver promised Siri features, pressuring both margins and the upgrade cycle."
+        },
+        {
+          "headline": "Even Apple isnt safe from ballooning memory costs",
+          "sentiment": "bearish",
+          "score": -0.3,
+          "summary": "Analyst confirms memory demand will outpace supply confirming structural cost headwinds Apple cannot resolve through procurement."
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "articles_analyzed": 15,
