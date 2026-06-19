@@ -1,11 +1,37 @@
 {
   "schema_version": "1.0",
   "ticker": "ENPH",
-  "generated_at": "2026-06-18T08:36:42.404765-07:00",
-  "total_analyzed": 95,
+  "generated_at": "2026-06-19T08:26:31.464383-07:00",
+  "total_analyzed": 98,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.165,
+  "overall_score_avg": 0.166,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 3,
+      "sentiment": "neutral",
+      "score_avg": 0.183,
+      "top_headlines": [
+        {
+          "headline": "Enphase Energy Upgraded As AI Data Centers Could Spark New Demand",
+          "sentiment": "bullish",
+          "score": 0.45,
+          "summary": "An analyst upgrade citing Enphase's potential to supply energy solutions to AI data centers opens a new high-growth demand vertical for the solar equipment maker."
+        },
+        {
+          "headline": "Enphase Energy Relative Strength Rating Rises To 83",
+          "sentiment": "neutral",
+          "score": 0.1,
+          "summary": "Enphase's Relative Strength Rating climbing to 83 reflects recent price outperformance and improving technical momentum, a moderately positive signal."
+        },
+        {
+          "headline": "Bloom Energy: Positioned For AI Data Center Demand",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Article text is unreadable and focuses on Bloom Energy as a clean energy AI data center play, with limited direct implications for Enphase."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 3,

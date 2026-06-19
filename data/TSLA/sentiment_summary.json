@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "TSLA",
-  "generated_at": "2026-06-18T08:36:40.657318-07:00",
-  "total_analyzed": 333,
+  "generated_at": "2026-06-19T08:26:29.965815-07:00",
+  "total_analyzed": 349,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.036,
+  "overall_score_avg": 0.032,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 16,
+      "sentiment": "bearish",
+      "score_avg": -0.044,
+      "top_headlines": [
+        {
+          "headline": "Tesla Defies Auto Industry Sales Slump, Goldman Raises Q2 Delivery Forecast",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Goldman Sachs raising Tesla's Q2 delivery forecast while the broader auto industry contracts signals Tesla outperforming peers and strengthening its market position."
+        },
+        {
+          "headline": "Cathie Wood Rotates Into Tesla and Snowflake",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "ARK Invest's $17.6M Tesla purchase signals continued institutional confidence in Tesla's AI and growth narrative from one of its most prominent bulls."
+        },
+        {
+          "headline": "Cathie Wood Backs the Musk Factor as ARK Buys Tesla After SpaceX Pile-In",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "ARK Invest buying Tesla alongside its SpaceX position reinforces the Musk-factor investment thesis and signals growing institutional conviction in Tesla's AI-driven future."
+        },
+        {
+          "headline": "Exclusive-Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Sweden's recommendation to block EU-wide FSD approval unless Tesla removes speed-limit-exceeding functionality threatens a key European software expansion strategy."
+        },
+        {
+          "headline": "TSLA Stock: Major Roadblock For Tesla FSD As Sweden Reportedly Opposes EU-Wide Approval",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Sweden's explicit veto threat over Tesla's speed-offset feature is a concrete obstacle to EU-wide FSD deployment, a critical growth lever for Tesla's European software revenue."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 14,

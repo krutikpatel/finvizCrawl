@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "AAPL",
-  "generated_at": "2026-06-18T08:36:41.137427-07:00",
-  "total_analyzed": 212,
+  "generated_at": "2026-06-19T08:26:30.355881-07:00",
+  "total_analyzed": 239,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.011,
+  "overall_score_avg": -0.0,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 27,
+      "sentiment": "neutral",
+      "score_avg": 0.089,
+      "top_headlines": [
+        {
+          "headline": "Tim Cook Says Chip Wars Will Take a Big Bite of Apple",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "Memory chip costs surging 40-50% are forcing Apple into unavoidable iPhone price hikes, with DRAM costs for the iPhone 18 Pro potentially rising from $39 to $145 and severely pressuring margins and demand."
+        },
+        {
+          "headline": "Wedbush: Apple's Intel Deal Could Change Everything",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Wedbush maintains Outperform with $400 price target, arguing Apple-Intel partnership secures domestic capacity during a critical multi-year AI chip demand cycle."
+        },
+        {
+          "headline": "Apple seen as well-positioned to navigate rising memory costs, Bank of America says",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Bank of America reiterates Buy and $380 price target on AAPL, arguing its scale and supplier relationships position it to manage memory cost headwinds better than peers."
+        },
+        {
+          "headline": "Apple to work with Intel on US chip design and production, Trump says",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Apple partnering with Intel for US chip design and manufacturing reduces TSMC concentration risk and strengthens Apple's domestic supply chain positioning."
+        },
+        {
+          "headline": "Memory Costs Are Hitting Apple. BofA Still Sees 28% Upside.",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Bank of America maintains Buy on AAPL with $380 price target implying 28% upside despite absorbing a cumulative approximately $200 price increase assumption on Pro models."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 47,

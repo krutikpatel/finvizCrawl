@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MU",
-  "generated_at": "2026-06-18T08:36:41.979773-07:00",
-  "total_analyzed": 241,
+  "generated_at": "2026-06-19T08:26:31.090573-07:00",
+  "total_analyzed": 262,
   "overall_sentiment": "bullish",
-  "overall_score_avg": 0.19,
+  "overall_score_avg": 0.194,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 21,
+      "sentiment": "bullish",
+      "score_avg": 0.233,
+      "top_headlines": [
+        {
+          "headline": "Micron Technology Q3 FY2026 Earnings Preview",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Wedbush's industry checks suggest DRAM and NAND prices rose high double to triple digits in Q2, with Micron likely to show 65% QoQ ASP increases significantly above prior guidance."
+        },
+        {
+          "headline": "Wedbush doubles Micron target, sees AI driving demand through 2027-2028",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Wedbush doubles its Micron price target to $1,300 and cites AI-driven demand strength expected through 2027-2028, with oversupply risks low over the next 18 months."
+        },
+        {
+          "headline": "Rosenblatt Doubles Micron Target to $1,200, Citing AI Demand",
+          "sentiment": "bullish",
+          "score": 0.6,
+          "summary": "Rosenblatt doubles its Micron price target to $1,200, citing constrained industry supply for approximately 12 more months, robust data center demand, and HBM as an emerging growth driver."
+        },
+        {
+          "headline": "Apple Price Hike Warning Sends Micron Stock Soaring",
+          "sentiment": "bullish",
+          "score": 0.55,
+          "summary": "Apple CEO Tim Cook's admission that memory costs are unsustainable validates Micron's pricing power, driving a 6% single-day surge as markets price in continued memory demand tightness."
+        },
+        {
+          "headline": "Intel Leads Big Chip Stock Rally",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Micron surged 11% alongside the broad chip rally triggered by the Apple-Intel partnership announcement, with Wedbush and Stifel both issuing fresh price target hikes."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 28,

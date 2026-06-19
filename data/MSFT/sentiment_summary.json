@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "MSFT",
-  "generated_at": "2026-06-18T08:36:44.087776-07:00",
-  "total_analyzed": 223,
+  "generated_at": "2026-06-19T08:26:32.569406-07:00",
+  "total_analyzed": 248,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.053,
+  "overall_score_avg": -0.044,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 25,
+      "sentiment": "neutral",
+      "score_avg": 0.036,
+      "top_headlines": [
+        {
+          "headline": "Microsoft's Unlikely China Miracle",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "ByteDance's $1B+ annual Azure AI spend and triple-digit growth rates in China demonstrate Microsoft's unique competitive position as the only major US AI provider offering GPT models to Chinese enterprises."
+        },
+        {
+          "headline": "Microsoft's Secret $1 Billion Business in China",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Microsoft's quietly built $1B+ China AI business through Azure, with Azure AI revenue tripling in FY2025, demonstrates a hidden growth driver that the market may not be fully pricing in."
+        },
+        {
+          "headline": "ByteDance Spends More Than $1 Billion a Year on Microsoft's Azure",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "ByteDance on track to exceed $1B in annual MSFT Azure AI spend, with Azure AI revenue tripling in FY2025 in China, confirms Microsoft's unique moat as the bridge between US AI models and Chinese enterprise demand."
+        },
+        {
+          "headline": "Why Investors May Be Undervaluing Microsoft",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Barron's argues investors underestimate Microsoft's Satya Nadella-led AI positioning, framing current valuation as a buying opportunity despite the stock's recent underperformance."
+        },
+        {
+          "headline": "VGT ETF: Best And Worst Stocks Over 5 Years",
+          "sentiment": "bearish",
+          "score": -0.35,
+          "summary": "Microsoft's 20.1% decline over the past year made it the single biggest drag on VGT's performance, highlighting its laggard status in the broader tech rally."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 32,

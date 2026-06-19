@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "GOOG",
-  "generated_at": "2026-06-18T08:36:43.664813-07:00",
-  "total_analyzed": 218,
+  "generated_at": "2026-06-19T08:26:32.195615-07:00",
+  "total_analyzed": 234,
   "overall_sentiment": "neutral",
-  "overall_score_avg": 0.055,
+  "overall_score_avg": 0.05,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 16,
+      "sentiment": "neutral",
+      "score_avg": -0.016,
+      "top_headlines": [
+        {
+          "headline": "Google Has The Best Problem Money Cant Quite Buy",
+          "sentiment": "bullish",
+          "score": 0.65,
+          "summary": "Alphabet's stock more than doubled as Google Cloud revenue surged 63% with a $462B backlog; the company's only constraint is compute capacity, not demand, a high-quality problem."
+        },
+        {
+          "headline": "Google Leases Entire $3.2 Billion Lake Mariner Data Center to Anthropic",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Google backing the $3.2B Lake Mariner data center with TPU leasing to Anthropic marks a strategic pivot to commercializing its custom AI silicon, creating a new revenue stream."
+        },
+        {
+          "headline": "Google Loses Gemini Co-Lead to OpenAI",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Losing Noam Shazeer, one of AI history's most consequential researchers brought back for $2.7B, to OpenAI before its IPO represents a costly talent loss and competitive blow to Gemini's development."
+        },
+        {
+          "headline": "Google Plans to Sell Access to TPU Chips Like Nvidia Does With Its GPUs",
+          "sentiment": "bullish",
+          "score": 0.5,
+          "summary": "Google's Nvidia-style strategy of pairing TPUs with cloud services and customer support, backed by a $3.2B Lake Mariner guarantee, opens a new competitive front in AI infrastructure revenue."
+        },
+        {
+          "headline": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "Google losing Noam Shazeer, co-lead of Gemini and co-author of the Transformer paper, to OpenAI is a significant talent loss for Google's AI competitive position."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 39,

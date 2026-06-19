@@ -1,11 +1,49 @@
 {
   "schema_version": "1.0",
   "ticker": "META",
-  "generated_at": "2026-06-18T08:36:41.556622-07:00",
-  "total_analyzed": 270,
+  "generated_at": "2026-06-19T08:26:30.721536-07:00",
+  "total_analyzed": 290,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.033,
+  "overall_score_avg": -0.035,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 20,
+      "sentiment": "neutral",
+      "score_avg": -0.065,
+      "top_headlines": [
+        {
+          "headline": "Metas Applied AI is Reality Labs 2.0",
+          "sentiment": "bearish",
+          "score": -0.55,
+          "summary": "A senior Meta AI executive's departure, widespread employee anger, and morale at historic lows signal deep structural problems in Meta's AI transformation strategy."
+        },
+        {
+          "headline": "Meta's AI Infrastructure Bet Gets Bigger",
+          "sentiment": "bullish",
+          "score": 0.45,
+          "summary": "Meta's 1.6GW Crusoe data center deals alongside its 2-5GW Louisiana campus demonstrate aggressive AI compute accumulation positioning it well for large-scale AI agent deployment."
+        },
+        {
+          "headline": "Who Needs Salary? Xs Nikita Bier Is Poaching Meta Talent With Better Snacks",
+          "sentiment": "bearish",
+          "score": -0.45,
+          "summary": "X actively recruiting Meta AI engineers highlights a severe talent crisis at Meta's Applied AI unit, where morale is at historic lows after May 2026 layoffs and forced AI reassignments."
+        },
+        {
+          "headline": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Meta securing 1.6GW of AI computing capacity from Crusoe reinforces its aggressive infrastructure buildout and supports long-term AI monetization potential."
+        },
+        {
+          "headline": "Meta Reportedly Locks Down A New Data Center Deal With Crusoe",
+          "sentiment": "bullish",
+          "score": 0.4,
+          "summary": "Meta's new 1.6GW Crusoe data center contracts represent a significant step in securing the physical AI infrastructure needed to support Zuckerberg's AI agent ambitions."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 22,

@@ -1,11 +1,43 @@
 {
   "schema_version": "1.0",
   "ticker": "ORCL",
-  "generated_at": "2026-06-18T08:36:43.247338-07:00",
-  "total_analyzed": 134,
+  "generated_at": "2026-06-19T08:26:31.828897-07:00",
+  "total_analyzed": 138,
   "overall_sentiment": "neutral",
-  "overall_score_avg": -0.061,
+  "overall_score_avg": -0.063,
   "by_date": [
+    {
+      "date": "2026-06-19",
+      "articles_analyzed": 4,
+      "sentiment": "neutral",
+      "score_avg": -0.138,
+      "top_headlines": [
+        {
+          "headline": "The Number That Puts Oracle Stock To The Test",
+          "sentiment": "bearish",
+          "score": -0.5,
+          "summary": "Oracle's $70B FY2027 capex plan will compress gross margins, generate negative free cash flow through FY2028, and require $40B in new debt and equity issuance, creating significant near-term financial risk."
+        },
+        {
+          "headline": "Zurich warns data centre boom is outpacing insurance capacity  report",
+          "sentiment": "neutral",
+          "score": -0.1,
+          "summary": "Rising data center insurance constraints could add operational cost risk to Oracle's planned $70B capex buildout, though this headwind is shared equally across all hyperscalers."
+        },
+        {
+          "headline": "Paramount-Warners Too Low Deal Odds Leave Room for Arb Profit",
+          "sentiment": "neutral",
+          "score": 0.05,
+          "summary": "Larry Ellison's relationship with Trump is cited as helpful in securing DOJ approval for Paramount-Skydance, providing a very peripheral positive association for Oracle's political positioning."
+        },
+        {
+          "headline": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "summary": "Meta's Crusoe data center deals confirm Oracle as an existing Crusoe customer; no new Oracle-specific developments are disclosed."
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles_analyzed": 7,
