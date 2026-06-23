@@ -3,7 +3,7 @@
 # Stock Monitor — Weekly Deep Panel Runner
 #
 # Usage:
-#   ./run-weekly.sh                 # Run all tickers in WATCHLIST
+#   ./run-weekly.sh                 # Run all tickers from config.yaml
 #   ./run-weekly.sh AAPL            # Run a single ticker
 #   ./run-weekly.sh AAPL NVDA       # Run specific tickers
 # ============================================================================
@@ -15,6 +15,25 @@ MONITOR_DIR="$(dirname "$SCRIPT_DIR")"
 REPO_ROOT="$(dirname "$MONITOR_DIR")"
 
 source "$MONITOR_DIR/config.env"
+PYTHON="$REPO_ROOT/.venv/bin/python"
+if [ ! -x "$PYTHON" ]; then
+    PYTHON=python3
+fi
+
+load_tickers_from_config() {
+    "$PYTHON" - "$REPO_ROOT/config.yaml" <<'PY'
+import sys
+import yaml
+
+with open(sys.argv[1], "r", encoding="utf-8") as handle:
+    config = yaml.safe_load(handle) or {}
+tickers = config.get("tickers", "")
+if isinstance(tickers, list):
+    print(" ".join(str(ticker).upper() for ticker in tickers))
+else:
+    print(str(tickers).upper())
+PY
+}
 
 PROMPTS_DIR="$REPO_ROOT/$PROMPTS_DIR"
 REPORTS_DIR="$REPO_ROOT/$REPORTS_DIR"
@@ -26,7 +45,7 @@ TODAY=$(date +%Y-%m-%d)
 if [ $# -gt 0 ]; then
     TICKERS="$*"
 else
-    TICKERS="$WATCHLIST"
+    TICKERS="$(load_tickers_from_config)"
 fi
 
 # ── Locate finviz_quote.json for a ticker ────────────────────────────────────

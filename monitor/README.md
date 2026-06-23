@@ -49,7 +49,7 @@ finvizCrawl/                     ← your repo root
 │   └── NVDA/
 │       └── ...
 ├── monitor/
-│   ├── config.env               ← watchlist, paths, settings
+│   ├── config.env               ← monitor paths and settings
 │   ├── prompts/
 │   │   ├── daily-sentinel.md    ← daily system prompt
 │   │   └── weekly-deep-panel.md ← weekly system prompt
@@ -78,12 +78,15 @@ finvizCrawl/                     ← your repo root
 
 ### 2. Configure
 
-Edit `monitor/config.env`:
+Ticker coverage is read from the root `config.yaml` `tickers` field so the scraper and monitor stay in sync:
+
+```yaml
+tickers: "AAPL NVDA IONQ"
+```
+
+Edit `monitor/config.env` for monitor-specific settings:
 
 ```bash
-# Which tickers to monitor
-WATCHLIST="AAPL NVDA IONQ"
-
 # Where your Finviz scraper puts data (relative to repo root)
 FINVIZ_DATA_DIR="data"
 
@@ -242,15 +245,9 @@ For a faster weekly run, reduce to 3 SMEs: Value Investor, Momentum Analyst, Ris
 
 Edit `prompts/daily-sentinel.md`, section "STEP 2 — ACTION ZONE PRICING". The current derivation uses P/E × EPS, P/B, and analyst targets. Swap in DCF, relative valuation, or whatever method suits your style.
 
-### Multiple watchlists
+### Ad hoc ticker runs
 
-Create separate config files and reference them:
-
-```bash
-WATCHLIST="AAPL NVDA MSFT" source monitor/config.env && ./monitor/scripts/run-daily.sh
-```
-
-Or just pass tickers directly:
+By default the monitor reads tickers from root `config.yaml`. For one-off runs, pass tickers directly:
 
 ```bash
 ./monitor/scripts/run-daily.sh AAPL NVDA IONQ PLTR
