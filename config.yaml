@@ -5,7 +5,7 @@ project:
 
 # Space-separated list of tickers to scrape and analyze.
 # Override at runtime with: FINZWIZ_TICKERS="TSLA NVDA" make run-workflow
-tickers: "TSLA AAPL META MU ENPH HOOD ORCL GOOG MSFT"
+tickers: "TSLA AAPL META MU ENPH HOOD ORCL GOOG MSFT AVGO PLTR NVDA AMZN AMD PANW ARM"
 
 output:
   # Root output folder for all data artifacts
