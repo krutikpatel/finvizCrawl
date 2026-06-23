@@ -37,6 +37,8 @@ scraping:
 articles:
   # Store full raw HTML inside article JSON (generally keep false)
   include_raw_html: false
+  # Max article bodies fetched per ticker per scrape run
+  max_articles_per_ticker: 10
   # Max characters of extracted text to store (0 = no limit)
   max_text_chars: 0
 

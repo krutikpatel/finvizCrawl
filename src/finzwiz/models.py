@@ -115,7 +115,6 @@ def article_schema(
             "text_blocks": content.get("text_blocks"),
             "html": content.get("html"),
         },
-        "links": links or [],
     }
 
 

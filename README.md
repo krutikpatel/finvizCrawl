@@ -14,7 +14,7 @@ Sentiment analysis runs via the **Claude Code CLI** — no separate Anthropic AP
 
 ### Scrape
 
-Fetches the Finviz quote page and all linked news articles for one ticker:
+Fetches the Finviz quote page and up to 10 eligible linked news articles for one ticker:
 
 ```bash
 PYTHONPATH=src .venv/bin/python -m finzwiz.cli scrape --ticker AAPL
@@ -61,7 +61,7 @@ All files are written under the `data/` directory (configurable via `config.yaml
 |---|---|
 | `finviz_quote.json` | Parsed Finviz quote page: company info, price, full snapshot table |
 | `finviz_news.json` | All news links found on the quote page with dedup status per URL |
-| `articles/<ARTICLE_ID>.json` | Extracted article text and metadata; `<ARTICLE_ID>` is `sha256(url)[:24]` |
+| `articles/<ARTICLE_ID>.json` | Extracted article text and metadata for up to `articles.max_articles_per_ticker` eligible articles; `<ARTICLE_ID>` is `sha256(url)[:24]` |
 | `run_manifest.json` | Run stats, artifact paths, and any errors for this run |
 
 ### Per-ticker persistent files (under `data/<TICKER>/`)
@@ -330,6 +330,7 @@ Key fields in `config.yaml`:
 | `scraping.max_concurrency` | `5` | Parallel article fetch threads |
 | `scraping.delay_seconds` | `1` | Per-thread delay before each article fetch |
 | `scraping.user_agent` | Chrome UA | Browser UA string sent with every request |
+| `articles.max_articles_per_ticker` | `10` | Maximum article bodies fetched per ticker per scrape run |
 | `articles.max_text_chars` | `0` (no limit) | Truncate extracted article text to this length |
 | `sentiment.model` | `claude-haiku-4-5-20251001` | Claude model used for analysis |
 | `sentiment.max_articles_per_batch` | `20` | Articles sent per Claude API call |

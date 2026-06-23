@@ -79,13 +79,6 @@ class HttpArticleFetcher:
 
         soup = BeautifulSoup(html, "lxml")
         title = soup.title.get_text(" ", strip=True) if soup.title else None
-        links = sorted(
-            {
-                anchor.get("href")
-                for anchor in soup.find_all("a", href=True)
-                if isinstance(anchor.get("href"), str)
-            }
-        )
         blocks = [block.strip() for block in text.split("\n") if block.strip()] if text else []
         max_chars = self.config.articles.max_text_chars
         if max_chars and max_chars > 0:
@@ -108,7 +101,7 @@ class HttpArticleFetcher:
             http_status=status,
             metadata=metadata,
             content=content,
-            links=links,
+            links=[],
             error=None if text else {
                 "type": "parse_error",
                 "message": "No readable text extracted",
@@ -147,4 +140,3 @@ def _empty_content() -> dict[str, Any]:
         "text_blocks": None,
         "html": None,
     }
-

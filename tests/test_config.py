@@ -10,6 +10,7 @@ def test_load_config_defaults() -> None:
     assert cfg.scraping.backend == "http"
     assert cfg.dedup.retention_days == 15
     assert cfg.scraping.max_concurrency == 5
+    assert cfg.articles.max_articles_per_ticker == 10
 
 
 def test_load_config_rejects_non_http_backend(tmp_path: Path) -> None:
@@ -47,4 +48,3 @@ articles:
     except ConfigError:
         return
     raise AssertionError("Expected ConfigError for non-http backend")
-

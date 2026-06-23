@@ -62,7 +62,7 @@ def test_news_and_article_schema_null_placeholders() -> None:
     )
     assert article["metadata"]["title"] is None
     assert article["content"]["text"] is None
-    assert article["links"] == []
+    assert "links" not in article
 
 
 def test_manifest_schema_fixed_stats_keys() -> None:

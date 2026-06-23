@@ -157,7 +157,12 @@ def run_scrape(
         }
         news_items.append(news_entry)
 
-        if resolved_url and decision_fetch and resolved_url not in processed_resolved_urls:
+        if (
+            resolved_url
+            and decision_fetch
+            and resolved_url not in processed_resolved_urls
+            and len(fetch_jobs) < config.articles.max_articles_per_ticker
+        ):
             fetch_jobs.append((news_entry, resolved_url, article_id))
             processed_resolved_urls.add(resolved_url)
         else:

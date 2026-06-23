@@ -40,6 +40,7 @@ class ScrapingConfig:
 class ArticlesConfig:
     include_raw_html: bool
     max_text_chars: int
+    max_articles_per_ticker: int
 
 
 @dataclass(frozen=True)
@@ -106,6 +107,10 @@ def load_config(path: str | Path = "config.yaml") -> Config:
     if retention_days < 1:
         raise ConfigError("dedup.retention_days must be >= 1")
 
+    max_articles_per_ticker = int(articles_raw.get("max_articles_per_ticker", 10))
+    if max_articles_per_ticker < 1:
+        raise ConfigError("articles.max_articles_per_ticker must be >= 1")
+
     return Config(
         project=ProjectConfig(
             name=str(project_raw["name"]),
@@ -134,6 +139,7 @@ def load_config(path: str | Path = "config.yaml") -> Config:
         articles=ArticlesConfig(
             include_raw_html=bool(articles_raw.get("include_raw_html", False)),
             max_text_chars=int(articles_raw.get("max_text_chars", 0)),
+            max_articles_per_ticker=max_articles_per_ticker,
         ),
         sentiment=SentimentConfig(
             model=str(sentiment_raw.get("model", "claude-haiku-4-5-20251001")),
@@ -173,6 +179,7 @@ def config_to_dict(config: Config) -> dict[str, Any]:
         "articles": {
             "include_raw_html": config.articles.include_raw_html,
             "max_text_chars": config.articles.max_text_chars,
+            "max_articles_per_ticker": config.articles.max_articles_per_ticker,
         },
         "sentiment": {
             "model": config.sentiment.model,
@@ -181,4 +188,3 @@ def config_to_dict(config: Config) -> dict[str, Any]:
             "summary_filename": config.sentiment.summary_filename,
         },
     }
-
