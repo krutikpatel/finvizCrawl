@@ -183,6 +183,11 @@ if [ "$AUTO_GIT_COMMIT" = "true" ]; then
         git add "$REPORTS_DIR"
         git commit -m "$GIT_MSG_PREFIX Daily sentinel $TODAY — $TICKERS" --quiet
         log "git: committed report changes"
+        if git push >> "$LOG" 2>&1; then
+            log "git: pushed report changes"
+        else
+            log "git: push failed"
+        fi
     fi
 fi
 

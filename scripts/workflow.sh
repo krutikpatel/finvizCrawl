@@ -238,6 +238,11 @@ else
 
     git commit -m "$COMMIT_SUBJECT" -m "$COMMIT_BODY" >> "$LOG" 2>&1
     log "git commit OK: $COMMIT_SUBJECT"
+    if git push >> "$LOG" 2>&1; then
+        log "git push OK"
+    else
+        log "git push failed"
+    fi
 fi
 
 # ── Email summary ─────────────────────────────────────────────────────────────
