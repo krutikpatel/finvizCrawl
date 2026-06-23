@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/stocks-to-watch-intel-micron-spacex-oracle-dUSifLgU5qpemNNrcBtO?mod=wsj_FV",
+    "fetched_at": "2026-06-23T07:00:43.798797-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: Intel, Micron, SpaceX, Oracle",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 18 min ago\nStocks to Watch: Intel, Micron, SpaceX, Oracle\n↘️ Samsung Electronics (KR:005930): The memory-chip giant tumbled 12% as the technology sell-off hit Asia. Its South Korean rival SK Hynix fell 12%, while Japan’s SoftBank Group slid 10% in Tokyo.\n↘️ Micron Technology (MU): The U.S. memory-chip maker more than 11%. Other semiconductor companies were also hammered, with Intel down more than 6% and Nvidia declining around 3% in early trading.\n↘️ SpaceX (SPCX): Elon Musk’s rocket company opened 1% lower, a day after its shares plunged 16%. SpaceX is expected to issue more than $20 billion of bonds in an offering that could price as early as today.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 18 min ago",
+      "Stocks to Watch: Intel, Micron, SpaceX, Oracle",
+      "↘️ Samsung Electronics (KR:005930): The memory-chip giant tumbled 12% as the technology sell-off hit Asia. Its South Korean rival SK Hynix fell 12%, while Japan’s SoftBank Group slid 10% in Tokyo.",
+      "↘️ Micron Technology (MU): The U.S. memory-chip maker more than 11%. Other semiconductor companies were also hammered, with Intel down more than 6% and Nvidia declining around 3% in early trading.",
+      "↘️ SpaceX (SPCX): Elon Musk’s rocket company opened 1% lower, a day after its shares plunged 16%. SpaceX is expected to issue more than $20 billion of bonds in an offering that could price as early as today."
+    ],
+    "html": null
+  },
+  "links": [
+    "/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026?mod=lc_navigation",
+    "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
+    "https://www.barrons.com/client/silent-login?target=https%3A%2F%2Fwww.barrons.com",
+    "https://www.marketwatch.com/client/silent-login?target=https%3A%2F%2Fwww.marketwatch.com",
+    "https://www.wsj.com/",
+    "https://www.wsj.com/arts-culture?mod=nav_top_section",
+    "https://www.wsj.com/audio?mod=wsjheader",
+    "https://www.wsj.com/business?mod=nav_top_section",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com%2Fbuyside",
+    "https://www.wsj.com/digital-print-edition?mod=wsjheader",
+    "https://www.wsj.com/economy?mod=livemarkets-ribbon",
+    "https://www.wsj.com/economy?mod=nav_top_section",
+    "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-06-22-2026-064543ba",
+    "https://www.wsj.com/finance?mod=livemarkets-ribbon",
+    "https://www.wsj.com/finance?mod=nav_top_section",
+    "https://www.wsj.com/health?mod=nav_top_section",
+    "https://www.wsj.com/lifestyle?mod=nav_top_section",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026?mod=livemarkets-ribbon",
+    "https://www.wsj.com/market-data/quotes/INTC",
+    "https://www.wsj.com/market-data/quotes/JP/XTKS/9984",
+    "https://www.wsj.com/market-data/quotes/KR/XKRX/000660",
+    "https://www.wsj.com/market-data/quotes/KR/XKRX/005930",
+    "https://www.wsj.com/market-data/quotes/MU",
+    "https://www.wsj.com/market-data/quotes/NVDA",
+    "https://www.wsj.com/market-data/quotes/SPCX",
+    "https://www.wsj.com/market-data?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/heard-on-the-street?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/latest-headlines?mod=wsjheader",
+    "https://www.wsj.com/news/markets/stocks?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/puzzle?mod=wsjheader",
+    "https://www.wsj.com/news/types/streetwise?mod=livemarkets-ribbon",
+    "https://www.wsj.com/newsletters/markets-am?mod=livemarkets-ribbon",
+    "https://www.wsj.com/opinion/free-expression?mod=nav_top_section",
+    "https://www.wsj.com/opinion?mod=nav_top_section",
+    "https://www.wsj.com/personal-finance?mod=nav_top_section",
+    "https://www.wsj.com/podcasts/your-money-matters?mod=livemarkets-ribbon",
+    "https://www.wsj.com/politics?mod=nav_top_section",
+    "https://www.wsj.com/real-estate?mod=nav_top_section",
+    "https://www.wsj.com/sports?mod=nav_top_section",
+    "https://www.wsj.com/style?mod=nav_top_section",
+    "https://www.wsj.com/subscribe?page=wsjplusns",
+    "https://www.wsj.com/tech?mod=nav_top_section",
+    "https://www.wsj.com/us-news?mod=nav_top_section",
+    "https://www.wsj.com/video?mod=wsjheader",
+    "https://www.wsj.com/world?mod=nav_top_section"
+  ]
+}

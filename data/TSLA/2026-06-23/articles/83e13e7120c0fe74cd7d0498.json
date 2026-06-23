@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026?mod=wsj_FV",
+    "fetched_at": "2026-06-23T07:00:08.343274-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock Market Today: SpaceX Stock Price Falls, Nasdaq Opens Lower as Tech Selloff Deepens",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 23, 2026 at 9:55am ET\nStock Market Today: Nasdaq Opens Lower as Tech Selloff Deepens\nJitters about AI companies’ heavy spending weigh on investor sentiment\nThe tech selloff is accelerating, with the Nasdaq Composite tumbling more than 2%.\nAlphabet, Nvidia, Oracle and Tesla all opened sharply lower, following steep losses in big tech stocks yesterday. Chip maker Micron Technology slid more than 11%. Overseas markets fell, with South Korea’s Kospi diving 10%, weighed down by chip makers such as Samsung Electronics.\nThe artificial-intelligence rally has gone in reverse in recent days, prompted by jitters about AI companies’ heavy spending and looming Fed rate increases. SpaceX has slumped since its exuberant IPO earlier this month and dipped below $150, where it opened on its first day of trading, several times today.\nOil prices slipped after the U.S. on Monday waived longstanding sanctions on Iranian oil sales for two months, signaling progress in talks between Washington and Tehran. Benchmark Brent crude futures are trading below $78 a barrel, close to where they stood during the early days of the U.S.-Israeli war with Iran.",
+    "text_blocks": [
+      "June 23, 2026 at 9:55am ET",
+      "Stock Market Today: Nasdaq Opens Lower as Tech Selloff Deepens",
+      "Jitters about AI companies’ heavy spending weigh on investor sentiment",
+      "The tech selloff is accelerating, with the Nasdaq Composite tumbling more than 2%.",
+      "Alphabet, Nvidia, Oracle and Tesla all opened sharply lower, following steep losses in big tech stocks yesterday. Chip maker Micron Technology slid more than 11%. Overseas markets fell, with South Korea’s Kospi diving 10%, weighed down by chip makers such as Samsung Electronics.",
+      "The artificial-intelligence rally has gone in reverse in recent days, prompted by jitters about AI companies’ heavy spending and looming Fed rate increases. SpaceX has slumped since its exuberant IPO earlier this month and dipped below $150, where it opened on its first day of trading, several times today.",
+      "Oil prices slipped after the U.S. on Monday waived longstanding sanctions on Iranian oil sales for two months, signaling progress in talks between Washington and Tehran. Benchmark Brent crude futures are trading below $78 a barrel, close to where they stood during the early days of the U.S.-Israeli war with Iran."
+    ],
+    "html": null
+  },
+  "links": [
+    "https://myibd.investors.com/secure/signin.aspx?eurl=https%3A%2F%2Fwww.investors.com&prompt=none",
+    "https://www.barrons.com/client/silent-login?target=https%3A%2F%2Fwww.barrons.com",
+    "https://www.marketwatch.com/client/silent-login?target=https%3A%2F%2Fwww.marketwatch.com",
+    "https://www.wsj.com/",
+    "https://www.wsj.com/arts-culture?mod=nav_top_section",
+    "https://www.wsj.com/audio?mod=wsjheader",
+    "https://www.wsj.com/business?mod=nav_top_section",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com",
+    "https://www.wsj.com/client/silent-login?target=https%3A%2F%2Fwww.wsj.com%2Fbuyside",
+    "https://www.wsj.com/digital-print-edition?mod=wsjheader",
+    "https://www.wsj.com/economy?mod=livemarkets-ribbon",
+    "https://www.wsj.com/economy?mod=nav_top_section",
+    "https://www.wsj.com/finance?mod=livemarkets-ribbon",
+    "https://www.wsj.com/finance?mod=nav_top_section",
+    "https://www.wsj.com/health?mod=nav_top_section",
+    "https://www.wsj.com/lifestyle?mod=nav_top_section",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/-analysts-on-spacex-s-borrowing-plans-al69FcdHYdg7NnygOBsD",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/spacex-poised-to-fall-further-fOV0hQUroXE925Fc9Av0",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026?mod=livemarkets-ribbon",
+    "https://www.wsj.com/market-data?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/author/alexander-osipovich",
+    "https://www.wsj.com/news/heard-on-the-street?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/latest-headlines?mod=wsjheader",
+    "https://www.wsj.com/news/markets/stocks?mod=livemarkets-ribbon",
+    "https://www.wsj.com/news/puzzle?mod=wsjheader",
+    "https://www.wsj.com/news/types/streetwise?mod=livemarkets-ribbon",
+    "https://www.wsj.com/newsletters/markets-am?mod=livemarkets-ribbon",
+    "https://www.wsj.com/opinion/free-expression?mod=nav_top_section",
+    "https://www.wsj.com/opinion?mod=nav_top_section",
+    "https://www.wsj.com/personal-finance?mod=nav_top_section",
+    "https://www.wsj.com/podcasts/your-money-matters?mod=livemarkets-ribbon",
+    "https://www.wsj.com/politics?mod=nav_top_section",
+    "https://www.wsj.com/real-estate?mod=nav_top_section",
+    "https://www.wsj.com/sports?mod=nav_top_section",
+    "https://www.wsj.com/style?mod=nav_top_section",
+    "https://www.wsj.com/subscribe?page=wsjplusns",
+    "https://www.wsj.com/tech?mod=nav_top_section",
+    "https://www.wsj.com/us-news?mod=nav_top_section",
+    "https://www.wsj.com/video?mod=wsjheader",
+    "https://www.wsj.com/world/middle-east/vance-says-iran-agreed-to-allow-nuclear-inspectors-back-in-209db17c",
+    "https://www.wsj.com/world?mod=nav_top_section"
+  ]
+}
