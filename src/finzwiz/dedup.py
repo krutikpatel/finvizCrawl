@@ -65,7 +65,7 @@ class DedupStore:
 
         is_recent = (now - last_seen) <= timedelta(days=self.retention_days)
         status = row.get("status")
-        if is_recent and status == "fetched_ok":
+        if is_recent and status in {"fetched_ok", "skipped_recent"}:
             return DedupDecision(fetch=False, status="skipped_recent", reason="recent_success")
         if is_recent and status == "fetched_failed":
             return DedupDecision(fetch=True, status="retry_failed_recent", reason="recent_failure_retry")
@@ -99,4 +99,3 @@ class DedupStore:
     def flush(self) -> None:
         rows = sorted(self._rows_by_url.values(), key=lambda value: (value.get("url") or ""))
         write_jsonl_atomic(self.path, rows)
-

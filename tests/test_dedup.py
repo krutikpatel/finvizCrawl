@@ -34,6 +34,43 @@ def test_dedup_recent_success_skips(tmp_path) -> None:
     assert decision.status == "skipped_recent"
 
 
+def test_dedup_recent_success_stays_skipped_across_runs(tmp_path) -> None:
+    path = tmp_path / "seen_urls.jsonl"
+    now = datetime(2026, 2, 23, 10, 0, tzinfo=PACIFIC)
+    url = "https://example.com/success"
+    article_id = article_id_from_url(url)
+
+    store = DedupStore(path, retention_days=15)
+    store.update(
+        url=url,
+        article_id=article_id,
+        now=now,
+        fetch_status="fetched_ok",
+        http_status=200,
+        note=None,
+    )
+    store.flush()
+
+    second_run = DedupStore(path, retention_days=15)
+    decision = second_run.decide(url=url, now=now, force=False)
+    assert decision.fetch is False
+    second_run.update(
+        url=url,
+        article_id=article_id,
+        now=now,
+        fetch_status=decision.status,
+        http_status=None,
+        note=decision.reason,
+    )
+    second_run.flush()
+
+    third_run = DedupStore(path, retention_days=15)
+    decision = third_run.decide(url=url, now=now, force=False)
+    assert decision.fetch is False
+    assert decision.status == "skipped_recent"
+    assert decision.reason == "recent_success"
+
+
 def test_dedup_recent_failed_retries(tmp_path) -> None:
     store = DedupStore(tmp_path / "seen_urls.jsonl", retention_days=15)
     now = datetime(2026, 2, 23, 10, 0, tzinfo=PACIFIC)

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(plutil -lint scripts/com.finzwiz.workflow.plist)",
+      "Bash(bash -n scripts/workflow.sh)",
+      "WebSearch"
+    ]
+  }
+}

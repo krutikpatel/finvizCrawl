@@ -138,11 +138,13 @@ if [ -n "$ANALYZE_TICKERS" ]; then
         TICKER_BLOCKS="$TICKER_BLOCKS
 === $TICKER ===
   input:  data/$TICKER/$DATE/analysis_input.json
-  log:    data/$TICKER/sentiment_log.jsonl
+  append: data/$TICKER/sentiment_log.jsonl
 "
     done
 
     PROMPT="Analyze stock sentiment for multiple tickers. Each ticker's input file contains ONLY new articles (pre-filtered by Python — do NOT check for duplicates).
+
+Important token rule: read ONLY the listed analysis_input.json files. Do NOT read, inspect, grep, count, or verify sentiment_log.jsonl files; they are append targets only. Do NOT inspect prior runs or historical data.
 
 Working directory: $PROJECT_DIR
 
@@ -154,7 +156,7 @@ For EACH ticker above:
    - sentiment: \"bullish\", \"bearish\", or \"neutral\"
    - score: float -1.0 (very bearish) to 1.0 (very bullish)
    - summary: one sentence on the key market implication for that ticker
-3. Append one JSON line per article to that ticker's sentiment_log.jsonl:
+3. Append one JSON line per article to that ticker's sentiment_log.jsonl without reading the existing file:
    {\"article_id\": \"...\", \"ticker\": \"$TICKER\", \"run_date\": \"$DATE\", \"analyzed_at\": \"<Pacific ISO>\", \"headline\": \"...\", \"publisher\": \"...\", \"url\": \"...\", \"sentiment\": \"...\", \"score\": 0.0, \"summary\": \"...\", \"analysis_error\": null}
 4. Do NOT write sentiment_summary.json — Python rebuilds that after this step.
 5. Print one line: \"<TICKER> $DATE: N analyzed\"

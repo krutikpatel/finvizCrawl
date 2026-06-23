@@ -222,6 +222,104 @@ FINZWIZ_EMAIL=you@gmail.com make run-workflow
 
 The email is skipped silently when `FINZWIZ_EMAIL` is unset.
 
+## Stock monitor system (`monitor/`)
+
+A complete, self-contained investment monitoring system that sits on top of the scraper. Where the workflow above tracks article-level sentiment, the monitor tracks the **stock itself** over time — building a persistent ledger of daily metrics, maintaining concrete buy/hold/trim price zones, and running progressively deeper analysis on a weekly cadence.
+
+All files live under `monitor/`. The system is independent: it reads the scraper's `finviz_quote.json` outputs but has its own config, prompts, scripts, reports, and launchd job.
+
+### Two analysis tiers
+
+**Daily sentinel** (`monitor/scripts/run-daily.sh`) — runs every weekday at 9 AM:
+
+1. Reads the latest `data/<TICKER>/<YYYY-MM-DD>/finviz_quote.json` for each ticker.
+2. Loads the last 10 days from `monitor/reports/<TICKER>/ledger.jsonl` for trend context, plus the most recent weekly deep analysis as the baseline.
+3. Calls `claude -p` with the sentinel prompt, which outputs:
+   - A machine-readable `LEDGER_ENTRY` JSON block (price, ~40 metrics, action zones, sentiment score, verdict).
+   - A scannable brief: metric trend tables, action zone positioning, 24-hour news scan, and a zone-relative verdict.
+4. `ledger_manager.py` extracts the JSON and appends it to `ledger.jsonl` (duplicate-date safe).
+5. Report saved to `monitor/reports/<TICKER>/daily/YYYY-MM-DD.md`.
+6. If Claude flags `TRIGGER DEEP ANALYSIS` (earnings surprise, guidance change, technical breakdown, etc.), the log surfaces it and prompts a manual weekly run before the next scheduled one.
+
+**Weekly deep panel** (`monitor/scripts/run-weekly.sh`) — run manually or on a trigger:
+
+1. Feeds the full 30-day ledger, auto-generated trend summary, prior weekly analysis, and any trigger alerts into a 5-SME panel prompt.
+2. Each expert reasons independently from their domain lens with stated confidence:
+   - **Value Investor** — moat, margin of safety, intrinsic value estimate
+   - **Growth / Momentum Analyst** — earnings trajectory, price action, institutional flows
+   - **Quant / Technical Analyst** — RSI, SMA structure, risk/reward ratio at current zones
+   - **Risk Manager** — downside scenarios, balance-sheet fragility, thesis-breaking risks
+   - **Sector / Macro Specialist** — uses web search for current sector dynamics, macro context, peer comparison
+3. A structured debate round surfaces the 2–3 sharpest SME disagreements and what data would resolve them.
+4. Action zones are formally recalibrated with derivation shown (which multiple × which estimate = which price).
+5. Lead analyst synthesizes a weighted verdict with upgrade/downgrade triggers for the coming week.
+6. Report saved to `monitor/reports/<TICKER>/weekly/YYYY-MM-DD.md`.
+
+The two tiers build on each other: the daily sentinel carries the weekly zones forward and flags when they need revisiting; the weekly panel uses the daily ledger as its trend backbone.
+
+### Getting started
+
+```bash
+make monitor-install          # register the daily launchd job (9 AM weekdays)
+./monitor/scripts/run-daily.sh AAPL    # test a single ticker now
+./monitor/scripts/run-weekly.sh AAPL   # run the first weekly deep panel
+```
+
+### Management commands
+
+```bash
+make monitor-install      # register and enable the launchd job
+make monitor-uninstall    # stop and remove the launchd job
+make monitor-status       # check whether the job is loaded
+make monitor-logs         # tail today's sentinel log
+make run-monitor          # run the daily sentinel right now (foreground)
+```
+
+Or call the helper directly:
+
+```bash
+./monitor/manage_monitor.sh install | uninstall | run | status | logs
+```
+
+### Schedule
+
+| Job | Schedule | plist |
+|---|---|---|
+| Daily sentinel | 9:00 AM local time, Mon–Fri | `monitor/com.finzwiz.monitor.plist` → `~/Library/LaunchAgents/` |
+| Weekly deep panel | Manual, or triggered by sentinel | `./monitor/scripts/run-weekly.sh` |
+
+The 9 AM daily time is intentionally one hour after the 8 AM scrape so `finviz_quote.json` is always ready. Missed runs are not retried automatically — use `make run-monitor` to catch up.
+
+### Configuration
+
+Edit `monitor/config.env`:
+
+| Field | Default | Description |
+|---|---|---|
+| `WATCHLIST` | all 9 tickers | Space-separated tickers to monitor |
+| `LEDGER_LOOKBACK` | `10` | Days of ledger history fed into daily context |
+| `WEEKLY_LEDGER_LOOKBACK` | `30` | Days of ledger history fed into weekly context |
+| `AUTO_GIT_COMMIT` | `true` | Auto-commit reports to git after each run |
+
+To add or remove tickers, edit `WATCHLIST` in `monitor/config.env` — no plist reload needed.
+
+### Output files
+
+All outputs land under `monitor/reports/<TICKER>/`:
+
+| File | Description |
+|---|---|
+| `daily/YYYY-MM-DD.md` | Daily sentinel report — metric trends, action zones, news scan, verdict |
+| `weekly/YYYY-MM-DD.md` | Weekly deep panel — SME debate, zone recalibration, weighted synthesis |
+| `ledger.jsonl` | Persistent metrics ledger — one JSON record per trading day, ~40 fields |
+
+### Log files
+
+| File | Contents |
+|---|---|
+| `logs/monitor-YYYY-MM-DD.log` | Timestamped per-run output (tailed by `make monitor-logs`) |
+| `logs/monitor-launchd.log` | Raw stdout/stderr captured by launchd |
+
 ## Configuration
 
 Key fields in `config.yaml`:

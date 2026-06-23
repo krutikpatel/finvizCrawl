@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.finzwiz.monitor</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/krutik/technical/finvizCrawl/monitor/scripts/run-daily.sh</string>
+    </array>
+
+    <!-- Run at 8:00 AM system local time, daily -->
+    <!-- 1 hour after the scrape (com.finzwiz.workflow) to ensure data is ready -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>   <integer>8</integer>
+        <key>Minute</key> <integer>0</integer>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/krutik/technical/finvizCrawl</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/krutik/technical/finvizCrawl/logs/monitor-launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/krutik/technical/finvizCrawl/logs/monitor-launchd.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <!-- Do NOT rerun missed executions on wake (markets may be closed) -->
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

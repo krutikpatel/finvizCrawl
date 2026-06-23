@@ -11,16 +11,33 @@
         <string>/Users/krutik/technical/finvizCrawl/scripts/workflow.sh</string>
     </array>
 
-    <!-- Run at 8:00 AM and 4:00 PM system local time -->
+    <!-- Run at 7:00 AM system local time, Monday through Friday -->
     <key>StartCalendarInterval</key>
     <array>
         <dict>
-            <key>Hour</key>   <integer>8</integer>
-            <key>Minute</key> <integer>0</integer>
+            <key>Weekday</key> <integer>2</integer>
+            <key>Hour</key>    <integer>7</integer>
+            <key>Minute</key>  <integer>0</integer>
         </dict>
         <dict>
-            <key>Hour</key>   <integer>16</integer>
-            <key>Minute</key> <integer>0</integer>
+            <key>Weekday</key> <integer>3</integer>
+            <key>Hour</key>    <integer>7</integer>
+            <key>Minute</key>  <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key> <integer>4</integer>
+            <key>Hour</key>    <integer>7</integer>
+            <key>Minute</key>  <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key> <integer>5</integer>
+            <key>Hour</key>    <integer>7</integer>
+            <key>Minute</key>  <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key> <integer>6</integer>
+            <key>Hour</key>    <integer>7</integer>
+            <key>Minute</key>  <integer>0</integer>
         </dict>
     </array>
 

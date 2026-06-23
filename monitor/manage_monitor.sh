@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 # Usage:
-#   ./scripts/manage_workflow.sh install    — register and enable the launchd job
-#   ./scripts/manage_workflow.sh uninstall  — stop and remove the launchd job
-#   ./scripts/manage_workflow.sh run        — run the workflow right now (foreground)
-#   ./scripts/manage_workflow.sh status     — show whether the job is loaded
-#   ./scripts/manage_workflow.sh logs       — tail today's workflow log
+#   ./monitor/manage_monitor.sh install    — register and enable the launchd job
+#   ./monitor/manage_monitor.sh uninstall  — stop and remove the launchd job
+#   ./monitor/manage_monitor.sh run        — run the daily sentinel right now (foreground)
+#   ./monitor/manage_monitor.sh status     — show whether the job is loaded
+#   ./monitor/manage_monitor.sh logs       — tail today's monitor log
 
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
-PLIST_NAME="com.finzwiz.workflow"
+PLIST_NAME="com.finzwiz.monitor"
 PLIST_SRC="$SCRIPT_DIR/$PLIST_NAME.plist"
 PLIST_DEST="$HOME/Library/LaunchAgents/$PLIST_NAME.plist"
 LOG_DIR="$PROJECT_DIR/logs"
@@ -25,8 +25,8 @@ case "$cmd" in
     launchctl unload "$PLIST_DEST" 2>/dev/null || true
     launchctl load -w "$PLIST_DEST"
     echo "Installed: $PLIST_NAME"
-    echo "Runs at:   7:00 AM Monday-Friday (system local time)"
-    echo "Logs:      $LOG_DIR/workflow-YYYY-MM-DD.log"
+    echo "Runs at:   8:00 AM daily (system local time)"
+    echo "Logs:      $LOG_DIR/monitor-YYYY-MM-DD.log"
     ;;
 
   uninstall)
@@ -36,8 +36,8 @@ case "$cmd" in
     ;;
 
   run)
-    echo "Running workflow now..."
-    bash "$SCRIPT_DIR/workflow.sh"
+    echo "Running monitor now..."
+    bash "$SCRIPT_DIR/scripts/run-daily.sh"
     ;;
 
   status)
@@ -45,12 +45,12 @@ case "$cmd" in
         echo "LOADED — job is registered with launchd"
         launchctl list "$PLIST_NAME" 2>/dev/null || true
     else
-        echo "NOT LOADED — run: ./scripts/manage_workflow.sh install"
+        echo "NOT LOADED — run: ./monitor/manage_monitor.sh install"
     fi
     ;;
 
   logs)
-    LOG_FILE="$LOG_DIR/workflow-$TODAY.log"
+    LOG_FILE="$LOG_DIR/monitor-$TODAY.log"
     if [ -f "$LOG_FILE" ]; then
         tail -f "$LOG_FILE"
     else
