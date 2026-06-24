@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/nvidia-chips-pricier-behind-chinas-122552536.html",
+    "fetched_at": "2026-06-24T07:01:14.622778-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Chips Get Pricier Behind China's Firewall",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NVDA, Financials) is seeing how hard it is to keep demand contained when supply is restricted. The Financial Times reported that some Nvidia chips banned from sale in China have more than doubled in price on the black market, citing Chinese chip traders.\nReuters said it could not immediately verify the report. The price jump shows how badly some buyers still want access to Nvidia hardware, even as U.S. export rules limit official sales. For companies building advanced computing systems, finding enough chips remains a major challenge.\nThe report also highlights a difficult position for Nvidia. China has been an important market, but export controls have made business there more complicated.\nFor investors, the takeaway is simple. Demand for Nvidia's chips remains strong, even where access is limited. The bigger question is how much future growth could be capped by trade restrictions and tighter enforcement.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NVDA, Financials) is seeing how hard it is to keep demand contained when supply is restricted. The Financial Times reported that some Nvidia chips banned from sale in China have more than doubled in price on the black market, citing Chinese chip traders.",
+      "Reuters said it could not immediately verify the report. The price jump shows how badly some buyers still want access to Nvidia hardware, even as U.S. export rules limit official sales. For companies building advanced computing systems, finding enough chips remains a major challenge.",
+      "The report also highlights a difficult position for Nvidia. China has been an important market, but export controls have made business there more complicated.",
+      "For investors, the takeaway is simple. Demand for Nvidia's chips remains strong, even where access is limited. The bigger question is how much future growth could be capped by trade restrictions and tighter enforcement."
+    ],
+    "html": null
+  }
+}

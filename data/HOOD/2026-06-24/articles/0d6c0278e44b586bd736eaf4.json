@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/truist-stays-bullish-robinhood-june-190156498.html",
+    "fetched_at": "2026-06-24T07:00:40.804299-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Truist Stays Bullish on Robinhood as June Volumes Point to Record Quarter",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRobinhood Markets (NASDAQ:HOOD) was up 0.14% intraday after Truist Securities reiterated a Buy rating and $100 price target following the company's June month-to-date volume update. Equities, options, and prediction markets are all on pace for record trading in June, while crypto volumes remain suppressed but are showing positive month-over-month trends. Run-rating those volumes through the full quarter suggests double-digit upside to Q2 transaction revenues, or mid- to high-single-digit upside to overall Q2 revenues, according to Truist.\nTruist also addressed the stock's premarket weakness following last week's convertible notes announcement, attributing the 1-2 point decline to uncertainty around the rationale for the capital raise and arbitrage activity tied to the convertible structure. The firm's $100 price target sits roughly 6% below the current trading level.\nCantor Fitzgerald also raised its price target on Robinhood to $130, citing several potential growth drivers, including the launch of Rothera and the expected boost to prediction market activity from the upcoming FIFA World Cup. Meanwhile, Argus increased its target to $110 and pointed to the company's recent decision to reduce its workforce by 10% as part of ongoing efforts to improve efficiency and streamline operations.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Robinhood Markets (NASDAQ:HOOD) was up 0.14% intraday after Truist Securities reiterated a Buy rating and $100 price target following the company's June month-to-date volume update. Equities, options, and prediction markets are all on pace for record trading in June, while crypto volumes remain suppressed but are showing positive month-over-month trends. Run-rating those volumes through the full quarter suggests double-digit upside to Q2 transaction revenues, or mid- to high-single-digit upside to overall Q2 revenues, according to Truist.",
+      "Truist also addressed the stock's premarket weakness following last week's convertible notes announcement, attributing the 1-2 point decline to uncertainty around the rationale for the capital raise and arbitrage activity tied to the convertible structure. The firm's $100 price target sits roughly 6% below the current trading level.",
+      "Cantor Fitzgerald also raised its price target on Robinhood to $130, citing several potential growth drivers, including the launch of Rothera and the expected boost to prediction market activity from the upcoming FIFA World Cup. Meanwhile, Argus increased its target to $110 and pointed to the company's recent decision to reduce its workforce by 10% as part of ongoing efforts to improve efficiency and streamline operations."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-verizon-123947674.html",
+    "fetched_at": "2026-06-24T07:00:57.313397-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Is In. Verizon Is Out.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL) rose 0.40% in premarket after S&P Global announced that the Google parent will replace Verizon (NYSE:VZ) in the Dow Jones Industrial Average ahead of Monday's open. Verizon fell 0.32% in premarket. S&P Global said Alphabet's inclusion would bolster the Dow's exposure to artificial intelligence, cloud infrastructure, and advertising.\nAlphabet joins Nvidia (NASDAQ:NVDA), Amazon (NASDAQ:AMZN), Apple (NASDAQ:AAPL), and Microsoft (NASDAQ:MSFT) as the fifth mega-cap tech company in the 30-stock index. Verizon had represented just around half a percentage point of the Dow due to its low share price, a consequence of the index's price-weighted methodology. Honeywell International (NASDAQ:HON) will remain in the index under its new name, Honeywell Technologies, following the completion of its Honeywell Aerospace spinoff, though the spun-off entity will not be included.\nAlphabet has raised $141 billion in debt and equity since October as part of its AI spending push. Despite closing its worst session in more than a year on Monday, Alphabet shares have more than doubled in the last year.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL) rose 0.40% in premarket after S&P Global announced that the Google parent will replace Verizon (NYSE:VZ) in the Dow Jones Industrial Average ahead of Monday's open. Verizon fell 0.32% in premarket. S&P Global said Alphabet's inclusion would bolster the Dow's exposure to artificial intelligence, cloud infrastructure, and advertising.",
+      "Alphabet joins Nvidia (NASDAQ:NVDA), Amazon (NASDAQ:AMZN), Apple (NASDAQ:AAPL), and Microsoft (NASDAQ:MSFT) as the fifth mega-cap tech company in the 30-stock index. Verizon had represented just around half a percentage point of the Dow due to its low share price, a consequence of the index's price-weighted methodology. Honeywell International (NASDAQ:HON) will remain in the index under its new name, Honeywell Technologies, following the completion of its Honeywell Aerospace spinoff, though the spun-off entity will not be included.",
+      "Alphabet has raised $141 billion in debt and equity since October as part of its AI spending push. Despite closing its worst session in more than a year on Monday, Alphabet shares have more than doubled in the last year."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-focus-google-parent-135444847.html",
+    "fetched_at": "2026-06-24T07:00:51.604841-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Stock in Focus as Google Parent Joins Dow, Replacing Verizon",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL) will join the Dow Jones Industrial Average on June 29, replacing Verizon Communications (VZ) in a reshuffle aimed at giving the benchmark more exposure to large technology companies.\nAlphabet said the move reflects the company's larger share price and broader business mix, which includes digital advertising, cloud computing and artificial intelligence. S&P Dow Jones Indices said Alphabet will make the Dow's lineup more representative of the modern U.S. economy.\nAlphabet's addition means most of the largest U.S. tech names now sit in the 30-stock index, alongside Microsoft (NASDAQ:MSFT), Apple (NASDAQ:AAPL), Amazon (AMZN) and Nvidia (NASDAQ:NVDA). The index provider also said Verizon's lower share price had little effect on the price-weighted average.\nAlphabet's entry comes as Honeywell Aerospace (HONA) is set to join the S&P 500, replacing Conagra Brands, after being spun off from Honeywell International. Honeywell International will stay in the Dow. The changes are the first Dow membership update since Nvidia and Sherwin-Williams were added in November 2024.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL) will join the Dow Jones Industrial Average on June 29, replacing Verizon Communications (VZ) in a reshuffle aimed at giving the benchmark more exposure to large technology companies.",
+      "Alphabet said the move reflects the company's larger share price and broader business mix, which includes digital advertising, cloud computing and artificial intelligence. S&P Dow Jones Indices said Alphabet will make the Dow's lineup more representative of the modern U.S. economy.",
+      "Alphabet's addition means most of the largest U.S. tech names now sit in the 30-stock index, alongside Microsoft (NASDAQ:MSFT), Apple (NASDAQ:AAPL), Amazon (AMZN) and Nvidia (NASDAQ:NVDA). The index provider also said Verizon's lower share price had little effect on the price-weighted average.",
+      "Alphabet's entry comes as Honeywell Aerospace (HONA) is set to join the S&P 500, replacing Conagra Brands, after being spun off from Honeywell International. Honeywell International will stay in the Dow. The changes are the first Dow membership update since Nvidia and Sherwin-Williams were added in November 2024."
+    ],
+    "html": null
+  }
+}

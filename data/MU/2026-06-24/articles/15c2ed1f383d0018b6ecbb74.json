@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/micron-faces-ai-earnings-test-134502451.html",
+    "fetched_at": "2026-06-24T07:00:30.883787-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Faces Its AI Earnings Test",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (MU, Financials) goes into earnings with a lot riding on the report. The stock has already had a strong run, helped by demand for memory used in AI servers. That makes this quarter important. Investors want to know whether the business is still catching up to the stock.\nMicron is not Nvidia, and it is not trying to be. Its role is different. AI systems need high-bandwidth memory and DRAM to move and store data, and that has put Micron back in the spotlight.\nThe main things to watch are memory prices, supply levels and demand from data center customers. If those remain strong, Micron's rally may look more justified.\nThe risk is that expectations have moved up fast. After a big gain, even a solid report may not be enough if guidance sounds cautious. For now, Micron's earnings will be a useful check on the AI chip trade beyond GPUs.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (MU, Financials) goes into earnings with a lot riding on the report. The stock has already had a strong run, helped by demand for memory used in AI servers. That makes this quarter important. Investors want to know whether the business is still catching up to the stock.",
+      "Micron is not Nvidia, and it is not trying to be. Its role is different. AI systems need high-bandwidth memory and DRAM to move and store data, and that has put Micron back in the spotlight.",
+      "The main things to watch are memory prices, supply levels and demand from data center customers. If those remain strong, Micron's rally may look more justified.",
+      "The risk is that expectations have moved up fast. After a big gain, even a solid report may not be enough if guidance sounds cautious. For now, Micron's earnings will be a useful check on the AI chip trade beyond GPUs."
+    ],
+    "html": null
+  }
+}

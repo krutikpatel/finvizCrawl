@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-wins-seat-dow-123154453.html",
+    "fetched_at": "2026-06-24T07:00:59.233200-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Wins a Seat at the Dow",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (GOOGL, Financials) is getting a spot in the Dow Jones Industrial Average. The Google parent will replace Verizon before trading opens on June 29, according to S&P Dow Jones Indices.\nThe move puts Alphabet beside other large tech names already in the index, including Microsoft, Apple, Amazon and Nvidia. It also gives the Dow more exposure to advertising, cloud computing and AI.\nFor Alphabet, the timing is useful. The stock has been under pressure recently, partly because investors are watching the company's heavy AI spending and recent departures of senior AI executives.\nDow inclusion does not change Alphabet's business, but it can bring more attention from index funds and investors who track blue-chip stocks.\nS&P Dow Jones Indices said Alphabet's size, share price and broad business mix make it a stronger fit for the index's communication services exposure.\nNow the question is whether the Dow boost can help sentiment while Alphabet works through concerns around AI costs and competition.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (GOOGL, Financials) is getting a spot in the Dow Jones Industrial Average. The Google parent will replace Verizon before trading opens on June 29, according to S&P Dow Jones Indices.",
+      "The move puts Alphabet beside other large tech names already in the index, including Microsoft, Apple, Amazon and Nvidia. It also gives the Dow more exposure to advertising, cloud computing and AI.",
+      "For Alphabet, the timing is useful. The stock has been under pressure recently, partly because investors are watching the company's heavy AI spending and recent departures of senior AI executives.",
+      "Dow inclusion does not change Alphabet's business, but it can bring more attention from index funds and investors who track blue-chip stocks.",
+      "S&P Dow Jones Indices said Alphabet's size, share price and broad business mix make it a stronger fit for the index's communication services exposure.",
+      "Now the question is whether the Dow boost can help sentiment while Alphabet works through concerns around AI costs and competition."
+    ],
+    "html": null
+  }
+}

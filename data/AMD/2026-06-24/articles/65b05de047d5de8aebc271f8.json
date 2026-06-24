@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/qualcomm-talks-custom-chip-design-043638832.html",
+    "fetched_at": "2026-06-24T07:01:24.710960-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 24 (Reuters) - Qualcomm is in talks to provide chip-design services to China's ByteDance, four people familiar with the matter said, as the U.S. company seeks to reduce dependence on the smartphone market, its biggest revenue source.\nIf successful, the negotiations would make ByteDance, the parent of short-video platform TikTok, an early customer of Qualcomm's chip-design services operation. Qualcomm is the world's largest supplier of smartphone modem chips, which manage cellular communications.\nThe talks also show that U.S. tech firms remain keen to do business with China, even as growing friction between Washington and Beijing over AI chips has impacted the likes of Nvidia, AMD, Applied Materials and Lam Research.\nQualcomm is discussing designing custom chips for ByteDance, according to three of the sources. The chips would be based in part on technology owned by AlphaWave Semi, a high-speed connectivity specialist Qualcomm acquired last year, two of the sources said.\nWhile the discussions are underway, the outcome remains uncertain, three sources said. It was not clear whether the talks would lead to a finished chip design and manufacturing, and ByteDance could pursue different partners, they said.\nOther details about the chip were not immediately clear. One of the sources said the discussion involves the designing of video processing units (VPUs), with an eye toward starting mass production by the end of the year.\nReuters reported earlier that ByteDance is developing an AI chip for inference tasks and custom central processing units (CPUs).\nQualcomm and ByteDance did not respond to requests for comment. The sources spoke on condition of anonymity because the discussions are private.\nA deal with ByteDance would be a significant win for Qualcomm, which has faced uncertainty from smartphone makers this year due to a surge in memory-chip prices. Global smartphone shipments are likely to show the steepest annual contraction on record this year.\nQualcomm is working to break into the booming data center chip market and working with customers on three kinds of chips: CPUs, accelerators for inference, and custom chips called ASICs, a fast-growing market for rivals such as Broadcom and Marvell.\n(Reporting by Max A. Cherney, Fanny Potkin, Wen-Yee Lee and Liam Mo; Editing by Miyoung Kim and David Dolan)",
+    "text_blocks": [
+      "June 24 (Reuters) - Qualcomm is in talks to provide chip-design services to China's ByteDance, four people familiar with the matter said, as the U.S. company seeks to reduce dependence on the smartphone market, its biggest revenue source.",
+      "If successful, the negotiations would make ByteDance, the parent of short-video platform TikTok, an early customer of Qualcomm's chip-design services operation. Qualcomm is the world's largest supplier of smartphone modem chips, which manage cellular communications.",
+      "The talks also show that U.S. tech firms remain keen to do business with China, even as growing friction between Washington and Beijing over AI chips has impacted the likes of Nvidia, AMD, Applied Materials and Lam Research.",
+      "Qualcomm is discussing designing custom chips for ByteDance, according to three of the sources. The chips would be based in part on technology owned by AlphaWave Semi, a high-speed connectivity specialist Qualcomm acquired last year, two of the sources said.",
+      "While the discussions are underway, the outcome remains uncertain, three sources said. It was not clear whether the talks would lead to a finished chip design and manufacturing, and ByteDance could pursue different partners, they said.",
+      "Other details about the chip were not immediately clear. One of the sources said the discussion involves the designing of video processing units (VPUs), with an eye toward starting mass production by the end of the year.",
+      "Reuters reported earlier that ByteDance is developing an AI chip for inference tasks and custom central processing units (CPUs).",
+      "Qualcomm and ByteDance did not respond to requests for comment. The sources spoke on condition of anonymity because the discussions are private.",
+      "A deal with ByteDance would be a significant win for Qualcomm, which has faced uncertainty from smartphone makers this year due to a surge in memory-chip prices. Global smartphone shipments are likely to show the steepest annual contraction on record this year.",
+      "Qualcomm is working to break into the booming data center chip market and working with customers on three kinds of chips: CPUs, accelerators for inference, and custom chips called ASICs, a fast-growing market for rivals such as Broadcom and Marvell.",
+      "(Reporting by Max A. Cherney, Fanny Potkin, Wen-Yee Lee and Liam Mo; Editing by Miyoung Kim and David Dolan)"
+    ],
+    "html": null
+  }
+}

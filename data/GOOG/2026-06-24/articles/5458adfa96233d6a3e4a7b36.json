@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/fef9c91d-2dea-328f-a812-7b21188e2b29/alphabet-to-replace-verizon.html",
+    "fetched_at": "2026-06-24T07:00:53.173472-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet to replace Verizon in Dow Jones Industrial Average",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google parent Alphabet will replace Verizon Communications in the Dow Jones Industrial Average effective before the opening of trading on June 29, index manager S&P Dow Jones Indices said Tuesday.\nS&P Dow Jones Indices said the addition brings into the DJIA a company whose business touches advertising, cloud infrastructure, artificial intelligence, hardware, autonomous mobility, healthcare technology, and media distribution. The index manager said in a statement that the company's scale, stock price, and range of operations make Alphabet a stronger fit than Verizon as the index's representative of the Communication Services sector.\nS&P Dow Jones Indices noted that Verizon's weighting in the index had been negligible, amounting to just around half a percentage point, a consequence of the stock's low price. Because the index assigns weight according to each stock's nominal price rather than market value, companies with cheaper shares punch well below their economic weight in the benchmark. Alphabet stock trades at around $350, compared with roughly $47 for Verizon.\nAlphabet stock, which trades under the ticker GOOGL, rose about 1% after the bell following the announcement. With the addition, the five largest technology companies by market capitalization — Nvidia, Amazon, Apple, Microsoft, and now Alphabet — will all hold seats in the index.\nNo components had been swapped in or out of the index between November 2024, when Nvidia and Sherwin-Williams came in at the expense of Dow Inc. and Intel, and this latest reshuffle, according to Barron's.\nA separate corporate event involving an existing Dow component will also take effect on June 29: Honeywell International is completing a spin-off of its aerospace division on that date, after which it will be renamed Honeywell Technologies and continue in the index, while the newly independent Honeywell Aerospace will not earn a place among the 30 components, S&P Dow Jones Indices said.\nThe index divisor used to calculate the DJIA from its components' share prices will be adjusted before trading opens on June 29 to prevent any distortion in the index's performance, S&P Dow Jones Indices said.",
+    "text_blocks": [
+      "Google parent Alphabet will replace Verizon Communications in the Dow Jones Industrial Average effective before the opening of trading on June 29, index manager S&P Dow Jones Indices said Tuesday.",
+      "S&P Dow Jones Indices said the addition brings into the DJIA a company whose business touches advertising, cloud infrastructure, artificial intelligence, hardware, autonomous mobility, healthcare technology, and media distribution. The index manager said in a statement that the company's scale, stock price, and range of operations make Alphabet a stronger fit than Verizon as the index's representative of the Communication Services sector.",
+      "S&P Dow Jones Indices noted that Verizon's weighting in the index had been negligible, amounting to just around half a percentage point, a consequence of the stock's low price. Because the index assigns weight according to each stock's nominal price rather than market value, companies with cheaper shares punch well below their economic weight in the benchmark. Alphabet stock trades at around $350, compared with roughly $47 for Verizon.",
+      "Alphabet stock, which trades under the ticker GOOGL, rose about 1% after the bell following the announcement. With the addition, the five largest technology companies by market capitalization — Nvidia, Amazon, Apple, Microsoft, and now Alphabet — will all hold seats in the index.",
+      "No components had been swapped in or out of the index between November 2024, when Nvidia and Sherwin-Williams came in at the expense of Dow Inc. and Intel, and this latest reshuffle, according to Barron's.",
+      "A separate corporate event involving an existing Dow component will also take effect on June 29: Honeywell International is completing a spin-off of its aerospace division on that date, after which it will be renamed Honeywell Technologies and continue in the index, while the newly independent Honeywell Aerospace will not earn a place among the 30 components, S&P Dow Jones Indices said.",
+      "The index divisor used to calculate the DJIA from its components' share prices will be adjusted before trading opens on June 29 to prevent any distortion in the index's performance, S&P Dow Jones Indices said."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/11f2905a-37f6-3493-ad27-16b26954ce3a/sunrun-surges-after-forming.html",
+    "fetched_at": "2026-06-24T07:00:08.450097-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sunrun Surges After Forming Data Centre Energy Alliance With Tesla and Renew Home (RUN)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Sunrun (NASDAQ:RUN) shares jumped 16% on Wednesday after the residential solar company announced a partnership with Renew Home and Tesla (NASDAQ:TSLA) aimed at supplying more than 16 gigawatts of flexible energy capacity to hyperscale data centre operators and utility companies.\nThe initiative is designed to help address rapidly growing electricity demand driven by artificial intelligence and large-scale data centre expansion.\nPartnership Creates Large-Scale Distributed Energy Network\nUnder the agreement, the three companies will combine millions of existing energy devices and demand-response assets across the United States into a unified energy platform.\nAccording to the companies, the solution can be deployed without requiring additional hardware, software, transmission interconnections, water resources or land development by customers purchasing the capacity.\nThe framework leverages infrastructure that is already installed and operating, allowing energy resources to be brought online significantly faster than traditional generation projects.\nMore Than 16 Gigawatts of Flexible Capacity\nThe proposed energy network will combine dispatchable power from hundreds of thousands of residential battery systems operated by Sunrun and Tesla with flexible peak-demand resources managed by Renew Home.\nRenew Home currently oversees more than 8 million smart thermostats and connected energy devices across the country.\nTogether, the companies said the combined system would create the largest distributed power plant in the United States, with a total flexible energy capacity exceeding 16 gigawatts.\nVirginia Deployment Already Underway\nThe companies disclosed that more than 300 megawatts of capacity are already available for immediate deployment in Virginia.\nThat figure is expected to increase to at least 500 megawatts by 2030 as additional residential batteries and smart energy devices are added to the network.\nThe project is intended to help support regions experiencing increasing power demand from large-scale computing facilities and AI infrastructure.\nSupporting AI Growth and Grid Reliability\nThe partnership seeks to address two major challenges simultaneously: providing additional electricity capacity for data centres while helping improve grid efficiency and reduce energy costs for households.\nThe companies stated that the distributed energy model can be deployed within months rather than years, offering a faster alternative to conventional power generation projects.\nThey also noted that the system can free up transmission capacity, reduce congestion across local distribution networks and create additional flexibility for utility operators.",
+    "text_blocks": [
+      "Sunrun (NASDAQ:RUN) shares jumped 16% on Wednesday after the residential solar company announced a partnership with Renew Home and Tesla (NASDAQ:TSLA) aimed at supplying more than 16 gigawatts of flexible energy capacity to hyperscale data centre operators and utility companies.",
+      "The initiative is designed to help address rapidly growing electricity demand driven by artificial intelligence and large-scale data centre expansion.",
+      "Partnership Creates Large-Scale Distributed Energy Network",
+      "Under the agreement, the three companies will combine millions of existing energy devices and demand-response assets across the United States into a unified energy platform.",
+      "According to the companies, the solution can be deployed without requiring additional hardware, software, transmission interconnections, water resources or land development by customers purchasing the capacity.",
+      "The framework leverages infrastructure that is already installed and operating, allowing energy resources to be brought online significantly faster than traditional generation projects.",
+      "More Than 16 Gigawatts of Flexible Capacity",
+      "The proposed energy network will combine dispatchable power from hundreds of thousands of residential battery systems operated by Sunrun and Tesla with flexible peak-demand resources managed by Renew Home.",
+      "Renew Home currently oversees more than 8 million smart thermostats and connected energy devices across the country.",
+      "Together, the companies said the combined system would create the largest distributed power plant in the United States, with a total flexible energy capacity exceeding 16 gigawatts.",
+      "Virginia Deployment Already Underway",
+      "The companies disclosed that more than 300 megawatts of capacity are already available for immediate deployment in Virginia.",
+      "That figure is expected to increase to at least 500 megawatts by 2030 as additional residential batteries and smart energy devices are added to the network.",
+      "The project is intended to help support regions experiencing increasing power demand from large-scale computing facilities and AI infrastructure.",
+      "Supporting AI Growth and Grid Reliability",
+      "The partnership seeks to address two major challenges simultaneously: providing additional electricity capacity for data centres while helping improve grid efficiency and reduce energy costs for households.",
+      "The companies stated that the distributed energy model can be deployed within months rather than years, offering a faster alternative to conventional power generation projects.",
+      "They also noted that the system can free up transmission capacity, reduce congestion across local distribution networks and create additional flexibility for utility operators."
+    ],
+    "html": null
+  }
+}

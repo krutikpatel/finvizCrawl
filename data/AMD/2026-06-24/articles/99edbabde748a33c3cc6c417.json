@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-ai-trade-doubts-grow-230105138.html",
+    "fetched_at": "2026-06-24T07:01:25.691371-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus\nUS stocks steadied on Wednesday after a second bruising day for techs, with Wall Street looking to Micron's (MU) earnings later for a health check on AI demand.\nThe tech-heavy Nasdaq Composite (^IXIC) and S&P 500 (^GSPC) both rose around 0.4%, following steep losses for the indexes on Tuesday as AI-focused names took a hit. The Dow Jones Industrial Average (^DJI) which includes fewer tech stocks, traded broadly flat.\nWorries about lofty valuations and massive spending, alongside fears of coming interest-rate hikes, have prompted a wave of profit-taking in high-flying AI-linked stocks.\nMicron's earnings are due after the bell on Wednesday, and the results will be closely watched as Wall Street assesses just how much faith to put in AI. Its shares have been on a tear this year, rising more than 250%, but they sank 13% on Tuesday amid the tech rout.\nLate Tuesday, Cerebras (CBRS) posted its first earnings report since going public in May. Shares of the AI chipmaker dropped over 8% at the opening bell after it forecast profit margins would lag those from rivals such as Nvidia (NVDA).\nMeanwhile, uncertainty persists over US-Iran talks and where key issues might ultimately land. While President Trump had pledged the Strait of Hormuz would remain free of tolls, Iran and Oman have started discussing a system to charge fees for ships to cross the key supply-flow waterway.\nFedEx (FDX) cited rising transportation costs and the impacts of shifting trade policy for shrinking operating margins in its after-hours earnings report. Shares in the delivery company, seen as a bellwether for the broader economy, slid before the bell.",
+    "text_blocks": [
+      "Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus",
+      "US stocks steadied on Wednesday after a second bruising day for techs, with Wall Street looking to Micron's (MU) earnings later for a health check on AI demand.",
+      "The tech-heavy Nasdaq Composite (^IXIC) and S&P 500 (^GSPC) both rose around 0.4%, following steep losses for the indexes on Tuesday as AI-focused names took a hit. The Dow Jones Industrial Average (^DJI) which includes fewer tech stocks, traded broadly flat.",
+      "Worries about lofty valuations and massive spending, alongside fears of coming interest-rate hikes, have prompted a wave of profit-taking in high-flying AI-linked stocks.",
+      "Micron's earnings are due after the bell on Wednesday, and the results will be closely watched as Wall Street assesses just how much faith to put in AI. Its shares have been on a tear this year, rising more than 250%, but they sank 13% on Tuesday amid the tech rout.",
+      "Late Tuesday, Cerebras (CBRS) posted its first earnings report since going public in May. Shares of the AI chipmaker dropped over 8% at the opening bell after it forecast profit margins would lag those from rivals such as Nvidia (NVDA).",
+      "Meanwhile, uncertainty persists over US-Iran talks and where key issues might ultimately land. While President Trump had pledged the Strait of Hormuz would remain free of tolls, Iran and Oman have started discussing a system to charge fees for ships to cross the key supply-flow waterway.",
+      "FedEx (FDX) cited rising transportation costs and the impacts of shifting trade policy for shrinking operating margins in its after-hours earnings report. Shares in the delivery company, seen as a bellwether for the broader economy, slid before the bell."
+    ],
+    "html": null
+  }
+}

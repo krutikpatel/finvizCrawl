@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-directed-meta-create-165547245.html",
+    "fetched_at": "2026-06-24T07:00:40.962820-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 23 (Reuters) - Meta CEO Mark Zuckerberg recently dispatched a small team at his company to create a smartphone app similar to Polymarket and Kalshi, the New York Times reported on Tuesday, citing two employees with knowledge of the matter.\nThe app will probably rely on a video game-like points system instead of users wagering money, though the company has not ruled out betting real money eventually, according to the report.\nThe company did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.\nPrediction markets surged in popularity during the 2024 U.S. presidential election and have evolved into an asset class that lets investors wager on a variety of events, from monetary policy to sports tournaments. Trading platforms such as Robinhood and Interactive Brokers have rolled out event contracts.\nThe Times report said the app is internally referred to as \"Arena\" by Meta that would function independently from its social networking apps including Facebook, Instagram, WhatsApp and Messenger.\nArena is one of several applications Meta is testing. Another of these standalone apps, Meta Photos, is designed to generate new forms of media, the report said.\nMeta aims to grow the app by leveraging its large social networking audiences and directing them toward using it, according to the report. In April, the company reported 3.56 billion daily active people, a metric it uses to track unique users who open any one of its apps in a day.\nPrediction markets could balloon to $1 trillion in annual trading volumes by decade-end, Bernstein said in April. But they have also drawn increasing scrutiny as well-timed trades ahead of U.S. President Donald Trump's major policy surprises have potentially led to millions of dollars in profits for unknown traders.\n(Reporting by Jaspreet Singh in Bengaluru; Editing by Joyjeet Das)",
+    "text_blocks": [
+      "June 23 (Reuters) - Meta CEO Mark Zuckerberg recently dispatched a small team at his company to create a smartphone app similar to Polymarket and Kalshi, the New York Times reported on Tuesday, citing two employees with knowledge of the matter.",
+      "The app will probably rely on a video game-like points system instead of users wagering money, though the company has not ruled out betting real money eventually, according to the report.",
+      "The company did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
+      "Prediction markets surged in popularity during the 2024 U.S. presidential election and have evolved into an asset class that lets investors wager on a variety of events, from monetary policy to sports tournaments. Trading platforms such as Robinhood and Interactive Brokers have rolled out event contracts.",
+      "The Times report said the app is internally referred to as \"Arena\" by Meta that would function independently from its social networking apps including Facebook, Instagram, WhatsApp and Messenger.",
+      "Arena is one of several applications Meta is testing. Another of these standalone apps, Meta Photos, is designed to generate new forms of media, the report said.",
+      "Meta aims to grow the app by leveraging its large social networking audiences and directing them toward using it, according to the report. In April, the company reported 3.56 billion daily active people, a metric it uses to track unique users who open any one of its apps in a day.",
+      "Prediction markets could balloon to $1 trillion in annual trading volumes by decade-end, Bernstein said in April. But they have also drawn increasing scrutiny as well-timed trades ahead of U.S. President Donald Trump's major policy surprises have potentially led to millions of dollars in profits for unknown traders.",
+      "(Reporting by Jaspreet Singh in Bengaluru; Editing by Joyjeet Das)"
+    ],
+    "html": null
+  }
+}

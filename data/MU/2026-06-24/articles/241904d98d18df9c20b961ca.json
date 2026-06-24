@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-subdued-tech-steadies-133909010.html",
+    "fetched_at": "2026-06-24T07:00:30.669949-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St subdued as tech steadies, Micron earnings in focus",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 24 (Reuters) - Wall Street's main indexes were muted on Wednesday, after two straight sessions of declines, as technology shares steadied after a sharp sell-off this week and investors awaited Micron's earnings.\nThe Dow Jones Industrial Average fell 6.1 points, or 0.01%, at the open to 51,660.75. The S&P 500 rose 5.4 points, or 0.07%, at the open to 7,370.88, while the Nasdaq Composite dropped 8.4 points, or 0.03%, to 25,578.624 at the opening bell.\n(Reporting by Twesha Dikshit; Editing by Devika Syamnath)",
+    "text_blocks": [
+      "June 24 (Reuters) - Wall Street's main indexes were muted on Wednesday, after two straight sessions of declines, as technology shares steadied after a sharp sell-off this week and investors awaited Micron's earnings.",
+      "The Dow Jones Industrial Average fell 6.1 points, or 0.01%, at the open to 51,660.75. The S&P 500 rose 5.4 points, or 0.07%, at the open to 7,370.88, while the Nasdaq Composite dropped 8.4 points, or 0.03%, to 25,578.624 at the opening bell.",
+      "(Reporting by Twesha Dikshit; Editing by Devika Syamnath)"
+    ],
+    "html": null
+  }
+}

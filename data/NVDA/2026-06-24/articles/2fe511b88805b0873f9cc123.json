@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-buy-ai-startup-modular-120736810.html",
+    "fetched_at": "2026-06-24T07:01:14.750351-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm to buy AI startup Modular for $4 billion in AI software push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 24 (Reuters) - Qualcomm said on Wednesday it would buy AI startup Modular in an all-stock deal valued at nearly $4 billion, gaining access to software that runs AI models across chips without having to write code for each processor.\nBuying Modular pits Qualcomm against CUDA, the software platform that has helped underpin Nvidia's AI dominance by tying millions of developers to the $5 trillion company's chips.\nAs part of the deal, Qualcomm expects to issue up to 19.2 million shares of its common stock to Modular's equity holders.\nThe transaction is valued at $3.92 billion, according to a Reuters calculation based on Qualcomm's last closing price.\nQualcomm has been seeking a larger foothold in the data-center market as demand for generative AI surges, and is already targeting the market with processors for data centers and other AI chips with shipments planned by the end of the year.\nModular's software is primarily used to run, or \"infer\", AI models, a market that has emerged as the latest battleground for chipmakers as Nvidia looks to ward off competitors that are selling custom chips developed for in-house use.\nThe startup has positioned itself as a neutral software layer for AI computing, supporting chips from Nvidia, AMD and other vendors.\n\"We believe the future belongs to developer-friendly, horizontal platforms that can run across diverse compute environments and give customers real choice in how and where they deploy AI,\" Qualcomm CEO Cristiano Amon said.\nThe deal, expected to close in the second half of this year, comes as Qualcomm pushes deeper into AI and data-center markets to reduce its reliance on smartphone chips, which generate the bulk of its revenue.\nAs part of its efforts to branch out, the smartphone chipmaker is also in talks to buy AI chip startup Tenstorrent for $8 billion to $10 billion, The Information reported last week.\n(Reporting by Anhata Rooprai and Harshita Mary Varghese in Bengaluru; Editing by Devika Syamnath)",
+    "text_blocks": [
+      "June 24 (Reuters) - Qualcomm said on Wednesday it would buy AI startup Modular in an all-stock deal valued at nearly $4 billion, gaining access to software that runs AI models across chips without having to write code for each processor.",
+      "Buying Modular pits Qualcomm against CUDA, the software platform that has helped underpin Nvidia's AI dominance by tying millions of developers to the $5 trillion company's chips.",
+      "As part of the deal, Qualcomm expects to issue up to 19.2 million shares of its common stock to Modular's equity holders.",
+      "The transaction is valued at $3.92 billion, according to a Reuters calculation based on Qualcomm's last closing price.",
+      "Qualcomm has been seeking a larger foothold in the data-center market as demand for generative AI surges, and is already targeting the market with processors for data centers and other AI chips with shipments planned by the end of the year.",
+      "Modular's software is primarily used to run, or \"infer\", AI models, a market that has emerged as the latest battleground for chipmakers as Nvidia looks to ward off competitors that are selling custom chips developed for in-house use.",
+      "The startup has positioned itself as a neutral software layer for AI computing, supporting chips from Nvidia, AMD and other vendors.",
+      "\"We believe the future belongs to developer-friendly, horizontal platforms that can run across diverse compute environments and give customers real choice in how and where they deploy AI,\" Qualcomm CEO Cristiano Amon said.",
+      "The deal, expected to close in the second half of this year, comes as Qualcomm pushes deeper into AI and data-center markets to reduce its reliance on smartphone chips, which generate the bulk of its revenue.",
+      "As part of its efforts to branch out, the smartphone chipmaker is also in talks to buy AI chip startup Tenstorrent for $8 billion to $10 billion, The Information reported last week.",
+      "(Reporting by Anhata Rooprai and Harshita Mary Varghese in Bengaluru; Editing by Devika Syamnath)"
+    ],
+    "html": null
+  }
+}

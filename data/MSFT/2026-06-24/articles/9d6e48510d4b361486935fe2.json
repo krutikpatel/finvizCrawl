@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9e8dafbe-1c28-34d2-87bc-040692340e2a/engram-raises-%2498m-to-cut.html",
+    "fetched_at": "2026-06-24T07:00:57.024494-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Engram raises $98M to cut enterprise AI token costs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Engram, an eight-month-old artificial intelligence startup, emerged from stealth Monday with $98 million in funding and early partnerships with Microsoft, Notion, and legal AI startup Harvey. The company says its technology can dramatically reduce the cost of running AI at enterprise scale.\nThe funding round was led by General Catalyst, Kleiner Perkins, and Sequoia Capital, with participation from Factory, Modern, Amplify Partners, and Neo. Notable angel investors include Andrej Karpathy, a co-founder of OpenAI, and Assaf Rappaport, co-founder and CEO of Wiz, the company said.\nEngram's core argument is that enterprise AI wastes enormous computing resources by reprocessing the same organizational information on every query. Rather than treating each interaction as a fresh start, the company trains models to study an organization's documents, workflows, and institutional knowledge in advance, compressing that material into what it calls a \"learned memory\" layer that can be reused across queries. Token consumption, Engram says, could fall by as much as a factor of 100 compared with leading frontier systems — a significant reduction given that tokens are the unit by which AI queries are measured and charged.\n\"Whatever the AI knows about you is improvised on the spot — a sticky note about your past, a document pulled mid-conversation,\" Dan Biderman, Engram's CEO and co-founder, said in a statement. \"If we can anticipate your interactions, we can prepare memories ahead of time instead of pasting them on the fly.\"\nThe company's co-founders all have academic backgrounds at leading AI research institutions. Sabri Eyuboglu, Engram's CTO, earned a PhD at Stanford and developed a method for compressing large document collections into compact, reusable model memories. Co-founders Jessy Lin, a Berkeley PhD, and Jack Morris, a Cornell PhD, both conducted research at Meta's FAIR lab. Chris Ré, a Stanford professor and prominent machine learning researcher, is also a co-founder.\nEngram's partnership with Microsoft includes testing its models inside Microsoft 365, along with a commitment to GPU capacity across Microsoft's Dapple and Azure infrastructure. The work explores how a learned memory layer could help make AI agents more efficient for knowledge workers.\nThe funding announcement arrives as large companies including Uber, Microsoft, and Meta have moved to cap or scrutinize AI spending after finding that high token consumption did not reliably translate into measurable productivity gains. Quartz has tracked the shift away from open-ended AI budgets as enterprises confront the gap between AI activity and actual output. A separate report on the tokenmaxxing hangover found that token usage leaderboards at companies including Meta and Amazon ultimately measured consumption rather than value.\nHeadcount currently stands at 13, and the company is based in San Francisco. Proceeds from the raise will go toward expanding its computing capacity and bringing on new employees.",
+    "text_blocks": [
+      "Engram, an eight-month-old artificial intelligence startup, emerged from stealth Monday with $98 million in funding and early partnerships with Microsoft, Notion, and legal AI startup Harvey. The company says its technology can dramatically reduce the cost of running AI at enterprise scale.",
+      "The funding round was led by General Catalyst, Kleiner Perkins, and Sequoia Capital, with participation from Factory, Modern, Amplify Partners, and Neo. Notable angel investors include Andrej Karpathy, a co-founder of OpenAI, and Assaf Rappaport, co-founder and CEO of Wiz, the company said.",
+      "Engram's core argument is that enterprise AI wastes enormous computing resources by reprocessing the same organizational information on every query. Rather than treating each interaction as a fresh start, the company trains models to study an organization's documents, workflows, and institutional knowledge in advance, compressing that material into what it calls a \"learned memory\" layer that can be reused across queries. Token consumption, Engram says, could fall by as much as a factor of 100 compared with leading frontier systems — a significant reduction given that tokens are the unit by which AI queries are measured and charged.",
+      "\"Whatever the AI knows about you is improvised on the spot — a sticky note about your past, a document pulled mid-conversation,\" Dan Biderman, Engram's CEO and co-founder, said in a statement. \"If we can anticipate your interactions, we can prepare memories ahead of time instead of pasting them on the fly.\"",
+      "The company's co-founders all have academic backgrounds at leading AI research institutions. Sabri Eyuboglu, Engram's CTO, earned a PhD at Stanford and developed a method for compressing large document collections into compact, reusable model memories. Co-founders Jessy Lin, a Berkeley PhD, and Jack Morris, a Cornell PhD, both conducted research at Meta's FAIR lab. Chris Ré, a Stanford professor and prominent machine learning researcher, is also a co-founder.",
+      "Engram's partnership with Microsoft includes testing its models inside Microsoft 365, along with a commitment to GPU capacity across Microsoft's Dapple and Azure infrastructure. The work explores how a learned memory layer could help make AI agents more efficient for knowledge workers.",
+      "The funding announcement arrives as large companies including Uber, Microsoft, and Meta have moved to cap or scrutinize AI spending after finding that high token consumption did not reliably translate into measurable productivity gains. Quartz has tracked the shift away from open-ended AI budgets as enterprises confront the gap between AI activity and actual output. A separate report on the tokenmaxxing hangover found that token usage leaderboards at companies including Meta and Amazon ultimately measured consumption rather than value.",
+      "Headcount currently stands at 13, and the company is based in San Francisco. Proceeds from the raise will go toward expanding its computing capacity and bringing on new employees."
+    ],
+    "html": null
+  }
+}

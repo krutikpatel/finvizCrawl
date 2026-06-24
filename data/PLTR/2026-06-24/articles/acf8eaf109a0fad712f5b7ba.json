@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-stock-rises-major-ai-172202116.html",
+    "fetched_at": "2026-06-24T07:01:10.363558-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stock Rises on Major AI Infrastructure Pact With Zeta",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) moved higher about 1% Tuesday morning after the company agreed to work with Zeta Global Holdings (ZETA) on a joint artificial intelligence infrastructure effort aimed at enterprise data integration.\nThe collaboration is designed to connect operational systems, customer intelligence tools and marketing execution into a unified AI-driven framework. The arrangement centers on rebuilding Zeta's data cloud using Palantir Foundry as the underlying platform.\nPalantir Technologies (NASDAQ:PLTR) will also support Zeta's Athena system, an AI layer designed to convert large-scale enterprise datasets into automated decision outputs. The integration is expected to expand Athena's access to broader corporate information sources through Foundry.\nZeta Global Holdings (ZETA) said the combined setup may improve how companies manage and apply marketing and business intelligence data across workflows. Palantir Technologies shares rose about 1% in Tuesday trading following the update.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) moved higher about 1% Tuesday morning after the company agreed to work with Zeta Global Holdings (ZETA) on a joint artificial intelligence infrastructure effort aimed at enterprise data integration.",
+      "The collaboration is designed to connect operational systems, customer intelligence tools and marketing execution into a unified AI-driven framework. The arrangement centers on rebuilding Zeta's data cloud using Palantir Foundry as the underlying platform.",
+      "Palantir Technologies (NASDAQ:PLTR) will also support Zeta's Athena system, an AI layer designed to convert large-scale enterprise datasets into automated decision outputs. The integration is expected to expand Athena's access to broader corporate information sources through Foundry.",
+      "Zeta Global Holdings (ZETA) said the combined setup may improve how companies manage and apply marketing and business intelligence data across workflows. Palantir Technologies shares rose about 1% in Tuesday trading following the update."
+    ],
+    "html": null
+  }
+}

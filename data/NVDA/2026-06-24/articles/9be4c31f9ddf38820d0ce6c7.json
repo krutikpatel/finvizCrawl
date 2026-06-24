@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-revenue-nearly-doubles-margin-132812966.html",
+    "fetched_at": "2026-06-24T07:01:12.935545-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cerebras Revenue Nearly Doubles but Margin Outlook Sends Shares Down",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCerebras Systems (NASDAQ:CBRS) fell 13.09% in premarket after reporting Q1 2026 revenue of $193.4 million, up 94% year-over-year, with core revenue of $191.3 million, up 92%. Hardware revenue grew 59% to $110.6 million while cloud and other services jumped 178% to $82.8 million. The core net loss narrowed to $2.5 million, well below analyst estimates of a $36.75 million loss, and Q2 revenue guidance of $194 million came in above estimates of $174.34 million. Full-year core revenue guidance is $855 million to $865 million, up 69% year-over-year at the midpoint.\nCerebras forecast full-year 2026 core gross margins of 38% to 41%, down from the 47% posted in Q1, and Q2 core gross margins of 36% to 38%. They fall well short of Nvidia's (NASDAQ:NVDA) mid-70% gross margins and Advanced Micro Devices' (NASDAQ:AMD) mid-50% range. Part of the pressure comes from Cerebras temporarily renting back its own systems from an existing client to meet near-term demand while it builds out data center capacity, a cost CFO Bob Komin said would depress margins temporarily, with a long-term target of 60%.\nCerebras raised $6.4 billion in its IPO last month and has anchored its growth strategy to a $20 billion multi-year deal with OpenAI for 750 megawatts of inference compute. The company also launched a multi-year partnership with Amazon to bring fast inference to AWS.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Cerebras Systems (NASDAQ:CBRS) fell 13.09% in premarket after reporting Q1 2026 revenue of $193.4 million, up 94% year-over-year, with core revenue of $191.3 million, up 92%. Hardware revenue grew 59% to $110.6 million while cloud and other services jumped 178% to $82.8 million. The core net loss narrowed to $2.5 million, well below analyst estimates of a $36.75 million loss, and Q2 revenue guidance of $194 million came in above estimates of $174.34 million. Full-year core revenue guidance is $855 million to $865 million, up 69% year-over-year at the midpoint.",
+      "Cerebras forecast full-year 2026 core gross margins of 38% to 41%, down from the 47% posted in Q1, and Q2 core gross margins of 36% to 38%. They fall well short of Nvidia's (NASDAQ:NVDA) mid-70% gross margins and Advanced Micro Devices' (NASDAQ:AMD) mid-50% range. Part of the pressure comes from Cerebras temporarily renting back its own systems from an existing client to meet near-term demand while it builds out data center capacity, a cost CFO Bob Komin said would depress margins temporarily, with a long-term target of 60%.",
+      "Cerebras raised $6.4 billion in its IPO last month and has anchored its growth strategy to a $20 billion multi-year deal with OpenAI for 750 megawatts of inference compute. The company also launched a multi-year partnership with Amazon to bring fast inference to AWS."
+    ],
+    "html": null
+  }
+}

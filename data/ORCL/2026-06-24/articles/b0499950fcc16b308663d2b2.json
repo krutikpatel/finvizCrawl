@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-reveals-21-000-job-190222035.html",
+    "fetched_at": "2026-06-24T07:00:43.482104-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Reveals 21,000 Job Cuts as AI Adoption Reshapes Workforce",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) has disclosed a sharper workforce reduction than investors previously knew, with its employee base falling by 21,000 over the past 12 months as the company continues to absorb the impact of artificial intelligence across its operations. In its annual regulatory filing Monday, Oracle said the adoption and deployment of AI technologies have resulted, and may continue to result, in workforce reductions.\nThe company ended its fiscal year on May 31 with 141,000 full-time employees, down from 162,000 a year earlier, representing a 13% decline in headcount. Those cuts came with about $1.8 billion in restructuring costs, while Oracle's workforce now includes roughly 49,000 employees in the US and 92,000 internationally.\nThe broader context for investors could be Oracle's expensive AI data-center buildout, including work for customers such as OpenAI, which has added pressure on the company's finances. Oracle's headcount is now slightly below where it stood before the company bought Cerner for $28 billion in 2022, a deal that added thousands of employees, many of them around Cerner's Kansas City-area headquarters.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) has disclosed a sharper workforce reduction than investors previously knew, with its employee base falling by 21,000 over the past 12 months as the company continues to absorb the impact of artificial intelligence across its operations. In its annual regulatory filing Monday, Oracle said the adoption and deployment of AI technologies have resulted, and may continue to result, in workforce reductions.",
+      "The company ended its fiscal year on May 31 with 141,000 full-time employees, down from 162,000 a year earlier, representing a 13% decline in headcount. Those cuts came with about $1.8 billion in restructuring costs, while Oracle's workforce now includes roughly 49,000 employees in the US and 92,000 internationally.",
+      "The broader context for investors could be Oracle's expensive AI data-center buildout, including work for customers such as OpenAI, which has added pressure on the company's finances. Oracle's headcount is now slightly below where it stood before the company bought Cerner for $28 billion in 2022, a deal that added thousands of employees, many of them around Cerner's Kansas City-area headquarters."
+    ],
+    "html": null
+  }
+}

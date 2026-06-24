@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/a-major-chip-index-has-doubled-this-year-despite-nvidia-ranking-dead-last-f049eb5e?mod=mw_FV",
+    "fetched_at": "2026-06-24T07:01:40.118995-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A major chip index has doubled this year despite Nvidia ranking dead last - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nA major chip index has doubled this year despite Nvidia ranking dead last\n‘Nvidia has gotten so large that its ability to beat expectations has gotten much smaller,’ an analyst says\nThe PHLX Semiconductor Index has now doubled this year, without much help from two of its biggest players.\nNvidia NVDA ranks dead last on a year-to-date basis within the 30-stock index, according to Dow Jones Market Data. Its stock has risen only 14% so far this year, while fellow chip giant Broadcom AVGO ranks second-to-last with its 15% gain.",
+    "text_blocks": [
+      "Tech Stocks",
+      "A major chip index has doubled this year despite Nvidia ranking dead last",
+      "‘Nvidia has gotten so large that its ability to beat expectations has gotten much smaller,’ an analyst says",
+      "The PHLX Semiconductor Index has now doubled this year, without much help from two of its biggest players.",
+      "Nvidia NVDA ranks dead last on a year-to-date basis within the 30-stock index, according to Dow Jones Market Data. Its stock has risen only 14% so far this year, while fellow chip giant Broadcom AVGO ranks second-to-last with its 15% gain."
+    ],
+    "html": null
+  }
+}

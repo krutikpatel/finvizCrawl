@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/intel-micron-among-winners-bofa-172016994.html",
+    "fetched_at": "2026-06-24T07:01:39.557572-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel, Micron Among Winners as BofA Supercharges Semiconductor Outlook",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBank of America raised its outlook for several semiconductor companies, including Intel (NASDAQ:INTC), Arm Holdings (NASDAQ:ARM) and Micron Technology (NASDAQ:MU), after concluding that demand tied to artificial intelligence infrastructure may remain visible through at least 2028.\nThe firm increased its projections for global wafer fabrication equipment spending, which covers tools used to manufacture semiconductors. Bank of America now forecasts the market will reach $190 billion in 2027 and expand to $250 billion in 2028, reflecting a stronger trajectory than previously expected.\nAccording to Bank of America, the revised outlook is supported by additional cleanroom capacity coming online, longer-duration agreements in the memory market and ongoing technology transitions that could increase equipment requirements for chip production. The firm also pointed to operational and capacity developments at Intel and Samsung as factors that may support advanced manufacturing activity in coming years.\nSeparately, Bank of America lifted its estimate for the semiconductor industry's total addressable market to $2.7 trillion, up from a prior forecast of $2.3 trillion. The brokerage said memory products and data-center infrastructure are expected to account for much of that expansion, while automotive and industrial end markets could provide an additional source of growth as those segments continue to recover.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Bank of America raised its outlook for several semiconductor companies, including Intel (NASDAQ:INTC), Arm Holdings (NASDAQ:ARM) and Micron Technology (NASDAQ:MU), after concluding that demand tied to artificial intelligence infrastructure may remain visible through at least 2028.",
+      "The firm increased its projections for global wafer fabrication equipment spending, which covers tools used to manufacture semiconductors. Bank of America now forecasts the market will reach $190 billion in 2027 and expand to $250 billion in 2028, reflecting a stronger trajectory than previously expected.",
+      "According to Bank of America, the revised outlook is supported by additional cleanroom capacity coming online, longer-duration agreements in the memory market and ongoing technology transitions that could increase equipment requirements for chip production. The firm also pointed to operational and capacity developments at Intel and Samsung as factors that may support advanced manufacturing activity in coming years.",
+      "Separately, Bank of America lifted its estimate for the semiconductor industry's total addressable market to $2.7 trillion, up from a prior forecast of $2.3 trillion. The brokerage said memory products and data-center infrastructure are expected to account for much of that expansion, while automotive and industrial end markets could provide an additional source of growth as those segments continue to recover."
+    ],
+    "html": null
+  }
+}

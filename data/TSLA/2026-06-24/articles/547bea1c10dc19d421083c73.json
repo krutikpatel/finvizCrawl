@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_FV",
+    "fetched_at": "2026-06-24T07:00:09.689666-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Opinion: Tesla and Waymo are chasing the robotaxi dream — but the company spending the most to win builds no cars at all - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Your Digital Self\nOpinion: Tesla and Waymo are chasing the robotaxi dream — but the company spending the most to win builds no cars at all\nUber is quietly writing $500 million checks to lock in robotaxis as Waymo threatens to leave it behind\nIf you own Tesla stock, much of what you are paying for above the value of a carmaker is a bet on autonomy and artificial intelligence that has barely reached the income statement: full self-driving software, the Optimus robot and a robotaxi network.\nThe robotaxi is the nearest-term and most testable piece of that bet, and this spring it amounted to about 20 driverless Tesla Model Y vehicles in Austin, Dallas and Houston. Value the car business the way investors price any other automaker, and it accounts for only a fraction of the stock; the rest is the market’s bid on that future, a premium no ordinary carmaker could carry. What is new is that the bet is finally testable against operating data rather than projections.",
+    "text_blocks": [
+      "Your Digital Self",
+      "Opinion: Tesla and Waymo are chasing the robotaxi dream — but the company spending the most to win builds no cars at all",
+      "Uber is quietly writing $500 million checks to lock in robotaxis as Waymo threatens to leave it behind",
+      "If you own Tesla stock, much of what you are paying for above the value of a carmaker is a bet on autonomy and artificial intelligence that has barely reached the income statement: full self-driving software, the Optimus robot and a robotaxi network.",
+      "The robotaxi is the nearest-term and most testable piece of that bet, and this spring it amounted to about 20 driverless Tesla Model Y vehicles in Austin, Dallas and Houston. Value the car business the way investors price any other automaker, and it accounts for only a fraction of the stock; the rest is the market’s bid on that future, a premium no ordinary carmaker could carry. What is new is that the bet is finally testable against operating data rather than projections."
+    ],
+    "html": null
+  }
+}

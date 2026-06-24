@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/cerebras-sinks-14-full-margin-110345180.html",
+    "fetched_at": "2026-06-24T07:01:24.276222-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cerebras sinks 14% as full-year margin forecast disappoints",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 24 (Reuters) - Cerebras shares tumbled about 14% before the bell on Wednesday after the chip designer warned that annual profit margins would undershoot first-quarter figures in its debut earnings following a blockbuster initial public offering.\nIf the losses hold through the open, the stock is expected to trade at its lowest level since listing more than a month ago and is on track to wipe out over $6 billion in market value.\nCerebras forecast adjusted gross margins of 38% to 41% for 2026, compared with the 47% it reported for the first quarter.\nThe projection is far below those of rivals such as Nvidia's mid-70% range and Advanced Micro Devices' mid-50%, even as it came above analysts' estimates of 29.58%.\nAnalysts have flagged that gross margins could be pressured by the company manufacturing relatively larger-sized chips, and as it rents back its own systems from an existing client to meet short-term demand while it builds out more data center capacity.\nCerebras' shares are down more than 27% from its market debut as enthusiasm around artificial intelligence stocks cools and investors fret over the massive spending to build the infrastructure for the new technology.\nStill, Morgan Stanley raised its price target on the stock to $273 from $250, while TD Cowen said deals signed with Amazon and OpenAI are key to Cerebras' long-term growth.\nThe California-based company has struck a $20 billion multi-year deal with OpenAI, and CEO Andrew Feldman said in a post-earnings call that the company's GPT 5.4 is running on Cerebras chips. The ChatGPT maker is set to deploy 750 megawatts of the company's semiconductors under the deal.\nFeldman also said Amazon Web Services will soon start using the company's chips in its data centers, with revenue flows expected in the next year.\n(Reporting by Johann M Cherian in Bengaluru; Editing by Sriraj Kalluvila)",
+    "text_blocks": [
+      "June 24 (Reuters) - Cerebras shares tumbled about 14% before the bell on Wednesday after the chip designer warned that annual profit margins would undershoot first-quarter figures in its debut earnings following a blockbuster initial public offering.",
+      "If the losses hold through the open, the stock is expected to trade at its lowest level since listing more than a month ago and is on track to wipe out over $6 billion in market value.",
+      "Cerebras forecast adjusted gross margins of 38% to 41% for 2026, compared with the 47% it reported for the first quarter.",
+      "The projection is far below those of rivals such as Nvidia's mid-70% range and Advanced Micro Devices' mid-50%, even as it came above analysts' estimates of 29.58%.",
+      "Analysts have flagged that gross margins could be pressured by the company manufacturing relatively larger-sized chips, and as it rents back its own systems from an existing client to meet short-term demand while it builds out more data center capacity.",
+      "Cerebras' shares are down more than 27% from its market debut as enthusiasm around artificial intelligence stocks cools and investors fret over the massive spending to build the infrastructure for the new technology.",
+      "Still, Morgan Stanley raised its price target on the stock to $273 from $250, while TD Cowen said deals signed with Amazon and OpenAI are key to Cerebras' long-term growth.",
+      "The California-based company has struck a $20 billion multi-year deal with OpenAI, and CEO Andrew Feldman said in a post-earnings call that the company's GPT 5.4 is running on Cerebras chips. The ChatGPT maker is set to deploy 750 megawatts of the company's semiconductors under the deal.",
+      "Feldman also said Amazon Web Services will soon start using the company's chips in its data centers, with revenue flows expected in the next year.",
+      "(Reporting by Johann M Cherian in Bengaluru; Editing by Sriraj Kalluvila)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-cuts-jobs-ai-reshapes-161327932.html",
+    "fetched_at": "2026-06-24T07:00:43.572031-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Cuts Jobs as AI Reshapes Operations",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (ORCL, Financials) has been shrinking its workforce as it leans harder into AI and looks for ways to run more efficiently.\nThe company reduced its workforce by about 21,000 employees over the past year, bringing global headcount down to 141,000, according to the report.\nThe move shows the tradeoff many large tech companies are making right now. They are spending heavily on AI, but they are also looking for places where work can be automated, combined or removed.\nFor Oracle, the cuts come as its cloud business becomes a bigger part of the story. Demand for AI computing has helped lift interest in the company, but investors still want to see stronger efficiency and better margins.\nThe risk is that cutting too deeply can slow execution. The upside is that a leaner company may have more room to invest in areas that are growing faster.\nNow investors will want to see whether the cuts make Oracle leaner without hurting its push for bigger cloud and AI deals.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (ORCL, Financials) has been shrinking its workforce as it leans harder into AI and looks for ways to run more efficiently.",
+      "The company reduced its workforce by about 21,000 employees over the past year, bringing global headcount down to 141,000, according to the report.",
+      "The move shows the tradeoff many large tech companies are making right now. They are spending heavily on AI, but they are also looking for places where work can be automated, combined or removed.",
+      "For Oracle, the cuts come as its cloud business becomes a bigger part of the story. Demand for AI computing has helped lift interest in the company, but investors still want to see stronger efficiency and better margins.",
+      "The risk is that cutting too deeply can slow execution. The upside is that a leaner company may have more room to invest in areas that are growing faster.",
+      "Now investors will want to see whether the cuts make Oracle leaner without hurting its push for bigger cloud and AI deals."
+    ],
+    "html": null
+  }
+}

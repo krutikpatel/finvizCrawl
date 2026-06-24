@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-rises-3-openai-custom-133831129.html",
+    "fetched_at": "2026-06-24T07:01:01.789053-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom rises 3% on OpenAI custom \"Jalapeño\" chip reveal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Broadcom (NASDAQ:AVGO) shares jumped 3.4% Wednesday morning following the unveiling of \"Jalapeño,\" a custom AI chip developed in partnership with OpenAI.\nBilled as OpenAI's first \"Intelligence Processor,\" the custom accelerator was designed specifically for large language model (LLM) inference and moved from design to production in just nine months. The chip marks OpenAI's official expansion into proprietary hardware as part of its full-stack infrastructure strategy.\nBuilt from scratch around OpenAI's specific model requirements, Jalapeño utilizes Broadcom and Celestica for implementation, rack integration, and networking. Engineering samples are already running active machine learning workloads—including OpenAI's GPT-5.3-Codex-Spark—at production-target frequencies and power levels in the lab.\nEarly lab testing indicates the architecture delivers a substantial performance-per-watt advantage over current market alternatives by minimizing data movement and optimizing the balance between compute, memory, and networking.\nOpenAI plans to deploy the chip at a gigawatt scale across data center partners like Microsoft beginning in 2026. The platform will leverage Broadcom's Tomahawk networking silicon for its large-scale deployment capabilities.\n\"Our collaboration with OpenAI represents a fundamental commitment to scaling the physical infrastructure required for the next decade of AI,\" said Hock Tan, President and CEO of Broadcom. \"This is just the beginning of a multi-generation roadmap.\"\nRelated articles\nBroadcom rises 3% on OpenAI custom \"Jalapeño\" chip reveal\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- Broadcom (NASDAQ:AVGO) shares jumped 3.4% Wednesday morning following the unveiling of \"Jalapeño,\" a custom AI chip developed in partnership with OpenAI.",
+      "Billed as OpenAI's first \"Intelligence Processor,\" the custom accelerator was designed specifically for large language model (LLM) inference and moved from design to production in just nine months. The chip marks OpenAI's official expansion into proprietary hardware as part of its full-stack infrastructure strategy.",
+      "Built from scratch around OpenAI's specific model requirements, Jalapeño utilizes Broadcom and Celestica for implementation, rack integration, and networking. Engineering samples are already running active machine learning workloads—including OpenAI's GPT-5.3-Codex-Spark—at production-target frequencies and power levels in the lab.",
+      "Early lab testing indicates the architecture delivers a substantial performance-per-watt advantage over current market alternatives by minimizing data movement and optimizing the balance between compute, memory, and networking.",
+      "OpenAI plans to deploy the chip at a gigawatt scale across data center partners like Microsoft beginning in 2026. The platform will leverage Broadcom's Tomahawk networking silicon for its large-scale deployment capabilities.",
+      "\"Our collaboration with OpenAI represents a fundamental commitment to scaling the physical infrastructure required for the next decade of AI,\" said Hock Tan, President and CEO of Broadcom. \"This is just the beginning of a multi-generation roadmap.\"",
+      "Related articles",
+      "Broadcom rises 3% on OpenAI custom \"Jalapeño\" chip reveal",
+      "These 2 stocks are best positioned to benefit from higher uranium prices: analyst",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

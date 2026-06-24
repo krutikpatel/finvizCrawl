@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/these-stocks-are-falling-the-most-on-tuesday-as-the-tech-sector-comes-under-pressure-33558ade?mod=mw_FV",
+    "fetched_at": "2026-06-24T07:01:45.146111-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "These stocks in the S&P 500 fell the most on Tuesday as the tech sector came under pressure - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Deep Dive\nThese stocks in the S&P 500 fell the most on Tuesday as the tech sector came under pressure\nMost of the day’s biggest losers were still up tremendously for 2026\nBroad U.S. stock indexes were all down on Tuesday, with tech-hardware stocks seeing especially sharp pullbacks.\nThe S&P 500 SPX declined 1.4%, while its information-technology sector XX:SP500.45 was down 3.7%.",
+    "text_blocks": [
+      "Deep Dive",
+      "These stocks in the S&P 500 fell the most on Tuesday as the tech sector came under pressure",
+      "Most of the day’s biggest losers were still up tremendously for 2026",
+      "Broad U.S. stock indexes were all down on Tuesday, with tech-hardware stocks seeing especially sharp pullbacks.",
+      "The S&P 500 SPX declined 1.4%, while its information-technology sector XX:SP500.45 was down 3.7%."
+    ],
+    "html": null
+  }
+}
