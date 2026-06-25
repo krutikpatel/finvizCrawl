@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/sunrun-stock-explodes-landmark-tesla-121849925.html",
+    "fetched_at": "2026-06-25T07:00:03.155640-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sunrun Stock Explodes After Landmark Tesla Energy Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSunrun (NASDAQ:RUN) shares surged Wednesday after the residential solar company partnered with Tesla (NASDAQ:TSLA) and Renew Home to develop a distributed energy network with more than 16 gigawatts of flexible power capacity aimed at supporting utilities and large data center operators.\nThe initiative combines capacity from hundreds of thousands of residential battery systems operated by Sunrun and Tesla with more than eight million smart thermostats and connected devices managed by Renew Home. The companies said the platform is designed to provide dispatchable electricity without requiring new transmission lines, land use, or additional water resources.\nSunrun said the network could become the largest distributed power plant in the United States as electricity demand from artificial intelligence infrastructure and hyperscale data centers continues to rise. The companies expect the aggregated resources to help relieve grid constraints and speed access to power in key markets.\nIn Virginia, a major U.S. data center hub, Sunrun said more than 300 megawatts of capacity is already available for deployment. That figure is expected to exceed 500 megawatts by 2030 as installations of home batteries and smart energy devices increase.\nSunrun shares jumped about 25% in Wednesday trading following the announcement.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Sunrun (NASDAQ:RUN) shares surged Wednesday after the residential solar company partnered with Tesla (NASDAQ:TSLA) and Renew Home to develop a distributed energy network with more than 16 gigawatts of flexible power capacity aimed at supporting utilities and large data center operators.",
+      "The initiative combines capacity from hundreds of thousands of residential battery systems operated by Sunrun and Tesla with more than eight million smart thermostats and connected devices managed by Renew Home. The companies said the platform is designed to provide dispatchable electricity without requiring new transmission lines, land use, or additional water resources.",
+      "Sunrun said the network could become the largest distributed power plant in the United States as electricity demand from artificial intelligence infrastructure and hyperscale data centers continues to rise. The companies expect the aggregated resources to help relieve grid constraints and speed access to power in key markets.",
+      "In Virginia, a major U.S. data center hub, Sunrun said more than 300 megawatts of capacity is already available for deployment. That figure is expected to exceed 500 megawatts by 2030 as installations of home batteries and smart energy devices increase.",
+      "Sunrun shares jumped about 25% in Wednesday trading following the announcement."
+    ],
+    "html": null
+  }
+}

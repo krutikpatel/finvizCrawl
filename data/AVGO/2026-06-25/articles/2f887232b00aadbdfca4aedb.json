@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/wedbush-issues-stark-warning-broadcom-132454836.html",
+    "fetched_at": "2026-06-25T07:00:39.578985-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wedbush Issues Stark Warning on Broadcom as Google AI Chip Threat Emerges",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO) shares are in focus on Thursday after Wedbush commented on a media report that MediaTek may take over Google (NASDAQ:GOOG) tensor processing unit work, a shift that could affect Broadcom's role in custom chip design\nBroadcom had fallen more than 3% on Tuesday before trimming losses in premarket trading. Wedbush analyst Matt Bryson said the report, if accurate, could weigh on the view that Broadcom holds a stronger position than peers in the custom ASIC market.\nThe Commercial Times reported that Google could move TPU design work to MediaTek in 2028 for its next v9 chip, also called Triggerfish. The report said Google had initially planned to work with Broadcom and use its 448G SERDES technology, but delays may have pushed the shift.\nBroadcom, Google and MediaTek did not immediately respond to requests for comment. Broadcom investors are also watching separate TPU-related reports that Google may use Samsung (SSNLF) to make memory input-output dies for a future chip, partly because of capacity limits at Taiwan Semiconductor Manufacturing (TSM).",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO) shares are in focus on Thursday after Wedbush commented on a media report that MediaTek may take over Google (NASDAQ:GOOG) tensor processing unit work, a shift that could affect Broadcom's role in custom chip design",
+      "Broadcom had fallen more than 3% on Tuesday before trimming losses in premarket trading. Wedbush analyst Matt Bryson said the report, if accurate, could weigh on the view that Broadcom holds a stronger position than peers in the custom ASIC market.",
+      "The Commercial Times reported that Google could move TPU design work to MediaTek in 2028 for its next v9 chip, also called Triggerfish. The report said Google had initially planned to work with Broadcom and use its 448G SERDES technology, but delays may have pushed the shift.",
+      "Broadcom, Google and MediaTek did not immediately respond to requests for comment. Broadcom investors are also watching separate TPU-related reports that Google may use Samsung (SSNLF) to make memory input-output dies for a future chip, partly because of capacity limits at Taiwan Semiconductor Manufacturing (TSM)."
+    ],
+    "html": null
+  }
+}

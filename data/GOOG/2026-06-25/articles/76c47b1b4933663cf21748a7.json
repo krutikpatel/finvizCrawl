@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/amazon-microsoft-cloud-computing-services-095037241.html",
+    "fetched_at": "2026-06-25T07:00:31.353131-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "EU targets Amazon, Microsoft cloud units for Big Tech “gatekeeper” rules",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Foo Yun Chee\nBRUSSELS, June 25 (Reuters) - EU antitrust regulators said Amazon and Microsoft's cloud computing services should be designated as \"gatekeepers\" under landmark tech rules, a step that would subject them to strict obligations aimed at curbing market power.\nThe designation under the Digital Markets Act would impose a set of obligations and bans on the world's two largest cloud providers, Amazon Web Services and Microsoft Azure, including limits on self-preferencing and requirements to ensure interoperability and data portability.\nSo far, EU regulators have targeted core platform services such as search, social media and app stores to rein in Big Tech. Extending the DMA to cloud infrastructure would mark a significant expansion into a sector seen as critical to AI.\nThe preliminary findings follow a seven-month long investigation.\n\"Cloud services have become a cornerstone of Europe's economy - and a prerequisite for AI - with over half of EU businesses now relying on them, combined with record investment in public cloud infrastructure,\" EU tech chief Henna Virkkunen said in a statement.\n\"Given their central role in Europe's digital future, these services must operate in fair, open and competitive markets that foster trust and secure Europe's tech sovereignty.\"\nAmazon said the assessment disregards the breadth of cloud services available to European customers and risks deterring European investment and innovation.\n\"The EU already has comprehensive cloud regulation through the Data Act, and adding another heavy layer of overlapping regulation under the DMA undermines European competitiveness and access to cutting-edge information technology,\" an AWS spokesperson said.\nMicrosoft pointed to its rival Google's growing power.\n\"We remain concerned that ignoring the growing power of Google Cloud and Gemini will tilt the market in a harmful way,\" a Microsoft spokesperson said.\nThe Commission singled out AWS and Microsoft Azure's significant turnover, bigger operational capacity and investments than rivals, vast and entrenched user bases and lock-in effects and high switching costs.\nThe EU competition enforcer also cited the two services' AI tools and partnerships as a decisive factor in cloud procurement.\nAmazon and Microsoft can now seek to counter the Commission's preliminary findings before the regulator issues a final decision in the coming months.\n(Reporting by Foo Yun Chee;Editing by Sudip Kar-Gupta and Elaine Hardcastle)",
+    "text_blocks": [
+      "By Foo Yun Chee",
+      "BRUSSELS, June 25 (Reuters) - EU antitrust regulators said Amazon and Microsoft's cloud computing services should be designated as \"gatekeepers\" under landmark tech rules, a step that would subject them to strict obligations aimed at curbing market power.",
+      "The designation under the Digital Markets Act would impose a set of obligations and bans on the world's two largest cloud providers, Amazon Web Services and Microsoft Azure, including limits on self-preferencing and requirements to ensure interoperability and data portability.",
+      "So far, EU regulators have targeted core platform services such as search, social media and app stores to rein in Big Tech. Extending the DMA to cloud infrastructure would mark a significant expansion into a sector seen as critical to AI.",
+      "The preliminary findings follow a seven-month long investigation.",
+      "\"Cloud services have become a cornerstone of Europe's economy - and a prerequisite for AI - with over half of EU businesses now relying on them, combined with record investment in public cloud infrastructure,\" EU tech chief Henna Virkkunen said in a statement.",
+      "\"Given their central role in Europe's digital future, these services must operate in fair, open and competitive markets that foster trust and secure Europe's tech sovereignty.\"",
+      "Amazon said the assessment disregards the breadth of cloud services available to European customers and risks deterring European investment and innovation.",
+      "\"The EU already has comprehensive cloud regulation through the Data Act, and adding another heavy layer of overlapping regulation under the DMA undermines European competitiveness and access to cutting-edge information technology,\" an AWS spokesperson said.",
+      "Microsoft pointed to its rival Google's growing power.",
+      "\"We remain concerned that ignoring the growing power of Google Cloud and Gemini will tilt the market in a harmful way,\" a Microsoft spokesperson said.",
+      "The Commission singled out AWS and Microsoft Azure's significant turnover, bigger operational capacity and investments than rivals, vast and entrenched user bases and lock-in effects and high switching costs.",
+      "The EU competition enforcer also cited the two services' AI tools and partnerships as a decisive factor in cloud procurement.",
+      "Amazon and Microsoft can now seek to counter the Commission's preliminary findings before the regulator issues a final decision in the coming months.",
+      "(Reporting by Foo Yun Chee;Editing by Sudip Kar-Gupta and Elaine Hardcastle)"
+    ],
+    "html": null
+  }
+}

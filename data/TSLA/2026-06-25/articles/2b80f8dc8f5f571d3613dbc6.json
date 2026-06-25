@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/sunrun-tesla-tap-16-gw-173950495.html",
+    "fetched_at": "2026-06-25T07:00:04.864830-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sunrun and Tesla Tap 16 GW of Homes to Power Data Centers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSunrun (NASDAQ:RUN) rose 17.72% in premarket after the solar company announced a framework agreement with Tesla (NASDAQ:TSLA) and Renew Home to aggregate more than 16 gigawatts of flexible energy capacity from residential devices for hyperscalers and utilities. The capacity combines hundreds of thousands of home battery systems operated by Sunrun and Tesla with more than 8 million smart thermostats and devices managed by Renew Home, across multiple states and without requiring additional hardware, software, interconnection, water, or land. Tesla shares were up 0.13% in premarket.\nIn Virginia, the companies said more than 300 megawatts are available for immediate deployment, with a target of at least 500 megawatts by 2030. The three companies have also committed capacity to PJM's proposed Reliability Backstop Process, which if accepted would unlock more than a gigawatt for peak shaving, locational grid relief, and ancillary services.\n\"The grid of the 1800s cannot power the innovation of 2026,\" said Sunrun CEO Mary Powell. The framework is designed to help hyperscalers secure power for data centers while reducing costs for residential customers through energy shifting during peak demand.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Sunrun (NASDAQ:RUN) rose 17.72% in premarket after the solar company announced a framework agreement with Tesla (NASDAQ:TSLA) and Renew Home to aggregate more than 16 gigawatts of flexible energy capacity from residential devices for hyperscalers and utilities. The capacity combines hundreds of thousands of home battery systems operated by Sunrun and Tesla with more than 8 million smart thermostats and devices managed by Renew Home, across multiple states and without requiring additional hardware, software, interconnection, water, or land. Tesla shares were up 0.13% in premarket.",
+      "In Virginia, the companies said more than 300 megawatts are available for immediate deployment, with a target of at least 500 megawatts by 2030. The three companies have also committed capacity to PJM's proposed Reliability Backstop Process, which if accepted would unlock more than a gigawatt for peak shaving, locational grid relief, and ancillary services.",
+      "\"The grid of the 1800s cannot power the innovation of 2026,\" said Sunrun CEO Mary Powell. The framework is designed to help hyperscalers secure power for data centers while reducing costs for residential customers through energy shifting during peak demand."
+    ],
+    "html": null
+  }
+}

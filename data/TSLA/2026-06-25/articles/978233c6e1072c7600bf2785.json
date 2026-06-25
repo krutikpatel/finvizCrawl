@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/this-solar-stock-is-surging-on-the-heels-of-a-new-tesla-deal-efd2747d?mod=mw_FV",
+    "fetched_at": "2026-06-25T07:00:04.495513-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This solar stock is surging on the heels of a new Tesla deal - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "This solar stock is surging on the heels of a new Tesla deal\nSunrun, a provider of home battery storage, is working with Tesla to meet the energy needs of AI data centers\nShares of Sunrun, the home solar-panel and battery-storage provider, are surging as investors consider the company’s ability to play a more substantial role in the expensive artificial-intelligence buildout.\nSunrun RUN on Wednesday said it would work with Elon Musk’s Tesla TSLA and the energy-management platform Renew Home to deliver more than 16 gigawatts of flexible energy capacity to hyperscalers and utilities.",
+    "text_blocks": [
+      "This solar stock is surging on the heels of a new Tesla deal",
+      "Sunrun, a provider of home battery storage, is working with Tesla to meet the energy needs of AI data centers",
+      "Shares of Sunrun, the home solar-panel and battery-storage provider, are surging as investors consider the company’s ability to play a more substantial role in the expensive artificial-intelligence buildout.",
+      "Sunrun RUN on Wednesday said it would work with Elon Musk’s Tesla TSLA and the energy-management platform Renew Home to deliver more than 16 gigawatts of flexible energy capacity to hyperscalers and utilities."
+    ],
+    "html": null
+  }
+}

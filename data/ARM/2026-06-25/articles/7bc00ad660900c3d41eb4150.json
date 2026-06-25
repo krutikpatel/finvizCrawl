@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ubs-flags-2-stocks-key-174448909.html",
+    "fetched_at": "2026-06-25T07:01:07.590572-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "UBS flags these 2 stocks as key beneficiaries of standalone CPU",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- UBS raised price targets on two chip stocks in a note on Wednesday, identifying both as key beneficiaries of accelerating demand for standalone CPU deployments in agentic AI infrastructure, while pushing back against what it sees as overly aggressive market size expectations.\nAnalyst Timothy Arcuri lifted the bank's AMD price target to $670 from $455 and the Arm target to $470 from $260, based on an unchanged 35x multiple for AMD and a 108x multiple for Arm.\nHe cautioned that while investor enthusiasm around the CPU total addressable market has pushed some estimates toward $300 billion by 2030, UBS steers \"such bullish outcomes to a long thesis on MU because we believe DRAM will remain too constrained to enable a TAM that large by 2030.\"\nOn AMD, Arcuri said the company has \"a distinct advantage\" in standalone agentic AI racks, which are \"more core and throughput-driven.\"\nUBS now assumes a 60/40 split between x86 and Arm architectures in the standalone segment and expects AMD to capture an outsized share of incremental demand given Intel's roadmap and supply challenges.\nAMD CPU server revenues are now forecast at $23 billion in 2027 and $29 billion in 2028, rising to $50 billion in 2030.\nOn Arm, UBS maintained its view that Arm architectures will represent approximately 70% share of a roughly 20 million unit head-node market by 2030.\nArcuri raised his estimate for Arm's internal CPU revenue to approximately $14 billion in 2030, reflecting an approximately 8% share of UBS's $170 billion TAM estimate, though he noted current core count limitations will constrain Arm's standalone rack prospects until future product generations.\nRelated articles\nUBS flags these 2 stocks as key beneficiaries of standalone CPU\nGoldman expects lower but still attractive stock market returns in 2026\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- UBS raised price targets on two chip stocks in a note on Wednesday, identifying both as key beneficiaries of accelerating demand for standalone CPU deployments in agentic AI infrastructure, while pushing back against what it sees as overly aggressive market size expectations.",
+      "Analyst Timothy Arcuri lifted the bank's AMD price target to $670 from $455 and the Arm target to $470 from $260, based on an unchanged 35x multiple for AMD and a 108x multiple for Arm.",
+      "He cautioned that while investor enthusiasm around the CPU total addressable market has pushed some estimates toward $300 billion by 2030, UBS steers \"such bullish outcomes to a long thesis on MU because we believe DRAM will remain too constrained to enable a TAM that large by 2030.\"",
+      "On AMD, Arcuri said the company has \"a distinct advantage\" in standalone agentic AI racks, which are \"more core and throughput-driven.\"",
+      "UBS now assumes a 60/40 split between x86 and Arm architectures in the standalone segment and expects AMD to capture an outsized share of incremental demand given Intel's roadmap and supply challenges.",
+      "AMD CPU server revenues are now forecast at $23 billion in 2027 and $29 billion in 2028, rising to $50 billion in 2030.",
+      "On Arm, UBS maintained its view that Arm architectures will represent approximately 70% share of a roughly 20 million unit head-node market by 2030.",
+      "Arcuri raised his estimate for Arm's internal CPU revenue to approximately $14 billion in 2030, reflecting an approximately 8% share of UBS's $170 billion TAM estimate, though he noted current core count limitations will constrain Arm's standalone rack prospects until future product generations.",
+      "Related articles",
+      "UBS flags these 2 stocks as key beneficiaries of standalone CPU",
+      "Goldman expects lower but still attractive stock market returns in 2026",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/qualcomm-signs-meta-first-data-132247465.html",
+    "fetched_at": "2026-06-25T07:00:12.427229-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm Signs Meta as Its First Data Center Customer",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nQualcomm (NASDAQ:QCOM) rose 11.63% in premarket after the chipmaker announced a strategic multi-generation agreement with Meta Platforms (NASDAQ:META) to supply data center CPUs for Meta's next-generation server fleet. The Dragonfly C1000 is Qualcomm's first data center CPU, targeting power efficiency at scale, with production beginning in H2 2028. Financial terms were not disclosed. Meta shares were down 0.15% in premarket.\nThe deal covers multiple chip generations beyond the C1000, locking in a longer-term supply relationship rather than a single product win. Amon called it a validation of the Dragonfly's power efficiency credentials and an expansion of the Qualcomm-Meta relationship from devices into infrastructure. Zuckerberg framed it as part of Meta's broader push to build compute capacity for what he described as personal superintelligence.\nThe Meta deal was one of several announcements at Qualcomm's Investor Day 2026 in New York. The company raised its fiscal 2029 non-handset revenue target to $40 billion, roughly double its prior target, with data center revenues targeted at more than $15 billion. Qualcomm also announced it will acquire AI software startup Modular in an all-stock deal valued at approximately $4 billion, expected to close in H2 2026. Modular's software allows AI models to run across different chips without processor-specific code, a direct challenge to Nvidia's (NVDA) CUDA platform.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Qualcomm (NASDAQ:QCOM) rose 11.63% in premarket after the chipmaker announced a strategic multi-generation agreement with Meta Platforms (NASDAQ:META) to supply data center CPUs for Meta's next-generation server fleet. The Dragonfly C1000 is Qualcomm's first data center CPU, targeting power efficiency at scale, with production beginning in H2 2028. Financial terms were not disclosed. Meta shares were down 0.15% in premarket.",
+      "The deal covers multiple chip generations beyond the C1000, locking in a longer-term supply relationship rather than a single product win. Amon called it a validation of the Dragonfly's power efficiency credentials and an expansion of the Qualcomm-Meta relationship from devices into infrastructure. Zuckerberg framed it as part of Meta's broader push to build compute capacity for what he described as personal superintelligence.",
+      "The Meta deal was one of several announcements at Qualcomm's Investor Day 2026 in New York. The company raised its fiscal 2029 non-handset revenue target to $40 billion, roughly double its prior target, with data center revenues targeted at more than $15 billion. Qualcomm also announced it will acquire AI software startup Modular in an all-stock deal valued at approximately $4 billion, expected to close in H2 2026. Modular's software allows AI models to run across different chips without processor-specific code, a direct challenge to Nvidia's (NVDA) CUDA platform."
+    ],
+    "html": null
+  }
+}

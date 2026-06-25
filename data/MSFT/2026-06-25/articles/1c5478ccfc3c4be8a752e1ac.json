@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-microsoft-face-eu-gatekeeper-132656278.html",
+    "fetched_at": "2026-06-25T07:00:35.335407-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon, Microsoft Face EU Gatekeeper Push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nEuropean Union antitrust regulators have said Amazon (NASDAQ:AMZN) and Microsoft (NASDAQ:MSFT) cloud divisions should be designated as tech gatekeepers under the bloc's rules, putting AWS and Azure under sharper regulatory scrutiny as AI demand continues to reshape cloud computing. In preliminary findings, the EU said Azure and AWS are the largest and second-largest cloud computing services in the EU, with significant turnover and operational capacity that appears to have outpaced competitors.\nFor investors, the concern is that Europe could possibly tighten oversight on two of the most important cloud platforms behind the AI infrastructure boom. Regulators said AI tools and partnerships have become a decisive factor in cloud procurement, while AWS and Azure appear to retain a large share of rising cloud demand inside their own ecosystems as AI drives more usage.\nAmazon pushed back, saying the EU's preliminary assessment disregards the breadth of cloud services available to European customers and could risk deterring investment and innovation in Europe. Microsoft also challenged the framing by pointing to Google's (NASDAQ:GOOG) growing power, warning that ignoring Google Cloud and Gemini could tilt the market in a harmful way.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "European Union antitrust regulators have said Amazon (NASDAQ:AMZN) and Microsoft (NASDAQ:MSFT) cloud divisions should be designated as tech gatekeepers under the bloc's rules, putting AWS and Azure under sharper regulatory scrutiny as AI demand continues to reshape cloud computing. In preliminary findings, the EU said Azure and AWS are the largest and second-largest cloud computing services in the EU, with significant turnover and operational capacity that appears to have outpaced competitors.",
+      "For investors, the concern is that Europe could possibly tighten oversight on two of the most important cloud platforms behind the AI infrastructure boom. Regulators said AI tools and partnerships have become a decisive factor in cloud procurement, while AWS and Azure appear to retain a large share of rising cloud demand inside their own ecosystems as AI drives more usage.",
+      "Amazon pushed back, saying the EU's preliminary assessment disregards the breadth of cloud services available to European customers and could risk deterring investment and innovation in Europe. Microsoft also challenged the framing by pointing to Google's (NASDAQ:GOOG) growing power, warning that ignoring Google Cloud and Gemini could tilt the market in a harmful way."
+    ],
+    "html": null
+  }
+}

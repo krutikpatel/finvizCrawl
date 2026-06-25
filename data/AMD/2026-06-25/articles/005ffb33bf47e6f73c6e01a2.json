@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/qualcomm-jumps-as-it-looks-beyond-smartphones-to-cash-in-on-the-ai-boom-225301932.html",
+    "fetched_at": "2026-06-25T07:01:00.303209-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Qualcomm (QCOM) stock jumped over 12% in premarket trading on Thursday, after the company said it raised its non-handset revenue target to $40 billion by fiscal 2029, twice its previous goal. The figure includes an anticipated $15 billion in new data center revenue.\nThe announcement came during the company's investor day event in New York on Wednesday, where it outlined plans for a variety of data center products, including chips, servers, software, and custom processors.\nQualcomm is entering a space dominated by Nvidia (NVDA). AMD (AMD) is also poised to gain ground in the data center market with its own server rack, while a slew of upstart chip makers are looking to grab their share of the global AI build-out.\nStill, Qualcomm CEO Cristiano Amon told members of the media that the sheer demand for AI processors means companies are eager for more competition in the space.\n\"I have not met a single one of those cloud and AI companies that have not said to me how excited they are,\" he said, adding that business leaders even exclaim, 'Hey, Qualcomm is going to bring competition to data centers!'\"\nAmon also noted that the company is looking to bring its AI offerings to China as well.\n\"Everything that we're building for the data center, you should assume that China is going to be a target market.\"\nThe US government has vacillated between allowing the sale of AI chips to China and barring them over security concerns. More recently, the Trump administration has said it will allow sales of certain Nvidia AI processors, though the Chinese government hasn't approved them for import.\nQualcomm's data center products are part of its broader transformation away from smartphone sales. The company is pushing deeper into the automotive space, which it says will bring in $10 billion in fiscal 2029. It's also competing with Intel (INTC) and AMD (AMD) in the PC chips space.\nThe news comes after Qualcomm announced it is acquiring AI software company Modular. The move gives Qualcomm access to a software platform that rivals Nvidia's CUDA, enabling users to develop AI programs and services that take full advantage of the chip giant's graphics processing units (GPUs).\nAI stocks took a breather earlier this week amid growth concerns, but jumped following Qualcomm's announcement as well as Micron's (MU) blowout quarterly earnings after the bell Wednesday.",
+    "text_blocks": [
+      "Qualcomm (QCOM) stock jumped over 12% in premarket trading on Thursday, after the company said it raised its non-handset revenue target to $40 billion by fiscal 2029, twice its previous goal. The figure includes an anticipated $15 billion in new data center revenue.",
+      "The announcement came during the company's investor day event in New York on Wednesday, where it outlined plans for a variety of data center products, including chips, servers, software, and custom processors.",
+      "Qualcomm is entering a space dominated by Nvidia (NVDA). AMD (AMD) is also poised to gain ground in the data center market with its own server rack, while a slew of upstart chip makers are looking to grab their share of the global AI build-out.",
+      "Still, Qualcomm CEO Cristiano Amon told members of the media that the sheer demand for AI processors means companies are eager for more competition in the space.",
+      "\"I have not met a single one of those cloud and AI companies that have not said to me how excited they are,\" he said, adding that business leaders even exclaim, 'Hey, Qualcomm is going to bring competition to data centers!'\"",
+      "Amon also noted that the company is looking to bring its AI offerings to China as well.",
+      "\"Everything that we're building for the data center, you should assume that China is going to be a target market.\"",
+      "The US government has vacillated between allowing the sale of AI chips to China and barring them over security concerns. More recently, the Trump administration has said it will allow sales of certain Nvidia AI processors, though the Chinese government hasn't approved them for import.",
+      "Qualcomm's data center products are part of its broader transformation away from smartphone sales. The company is pushing deeper into the automotive space, which it says will bring in $10 billion in fiscal 2029. It's also competing with Intel (INTC) and AMD (AMD) in the PC chips space.",
+      "The news comes after Qualcomm announced it is acquiring AI software company Modular. The move gives Qualcomm access to a software platform that rivals Nvidia's CUDA, enabling users to develop AI programs and services that take full advantage of the chip giant's graphics processing units (GPUs).",
+      "AI stocks took a breather earlier this week amid growth concerns, but jumped following Qualcomm's announcement as well as Micron's (MU) blowout quarterly earnings after the bell Wednesday."
+    ],
+    "html": null
+  }
+}

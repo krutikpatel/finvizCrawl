@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/micron-earnings-stock-results-memory-guidance/card/micron-s-commentary-is-a-mixed-bag-for-hardware-companies-like-apple-FV1uPUmTvpEGAwQqVLiR?mod=mw_FV",
+    "fetched_at": "2026-06-25T07:00:08.940243-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron's commentary is a mixed bag for hardware companies like Apple - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "15 hours ago\nMicron's commentary is a mixed bag for hardware companies like Apple\nEvercore ISI analyst Amit Daryanani deemed Micron's commentary to be \"mixed but broadly constructive\" for hardware companies including Apple, Dell and HP.\n\"Persistent\" high memory prices could nag at margins for original equipment manufacturers, he noted, \"as AI-enabled devices drive higher memory content.\"\nMore positively, however, Micron signaled optimism about the growth potential of its personal-computer and smartphone businesses thanks to AI-fueled demand.",
+    "text_blocks": [
+      "15 hours ago",
+      "Micron's commentary is a mixed bag for hardware companies like Apple",
+      "Evercore ISI analyst Amit Daryanani deemed Micron's commentary to be \"mixed but broadly constructive\" for hardware companies including Apple, Dell and HP.",
+      "\"Persistent\" high memory prices could nag at margins for original equipment manufacturers, he noted, \"as AI-enabled devices drive higher memory content.\"",
+      "More positively, however, Micron signaled optimism about the growth potential of its personal-computer and smartphone businesses thanks to AI-fueled demand."
+    ],
+    "html": null
+  }
+}

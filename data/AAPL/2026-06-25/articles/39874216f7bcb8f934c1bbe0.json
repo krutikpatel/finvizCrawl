@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/memory-chip-crunch-paying-off-213055742.html",
+    "fetched_at": "2026-06-25T07:00:09.852856-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The memory chip crunch is paying off for this US company",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The AI boom has fueled dozens of new startups and minted a new class of billionaires. It has also produced a serious shortage of memory chips — a critical component for compute-hungry AI models — which some predict could persist through 2027.\nThis era of RAMageddon isn't just a corporate problem. As demand spikes and squeezes supply, prices are rising and trickling down to consumers. Apple CEO Tim Cook warned just a week ago that price increases for its products are unavoidable.\nBut amid this Mad Max-esque fight for memory chips, some companies are coming out ahead. Micron, the largest U.S. computer-memory chip maker — with a market cap of $1.2 trillion — is one of them. That hasn't always been the case. The company's shares were trading around $83 in early 2024 (with a market cap of about $91 billion) and closed today at $1,048.51.\nThe company reported third-quarter earnings after markets closed Wednesday, and the results sent shares soaring more than 13%. Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.\nThe Idaho-based company also gave investors a positive outlook, forecasting fourth-quarter revenue of between $49 billion and $51 billion.\nThe strong results arrive the same week Micron inked a deal to supply AI lab Anthropic with memory and storage chips. Micron also disclosed that it participated in Anthropic's Series H funding round, though it didn't disclose how much it invested.",
+    "text_blocks": [
+      "The AI boom has fueled dozens of new startups and minted a new class of billionaires. It has also produced a serious shortage of memory chips — a critical component for compute-hungry AI models — which some predict could persist through 2027.",
+      "This era of RAMageddon isn't just a corporate problem. As demand spikes and squeezes supply, prices are rising and trickling down to consumers. Apple CEO Tim Cook warned just a week ago that price increases for its products are unavoidable.",
+      "But amid this Mad Max-esque fight for memory chips, some companies are coming out ahead. Micron, the largest U.S. computer-memory chip maker — with a market cap of $1.2 trillion — is one of them. That hasn't always been the case. The company's shares were trading around $83 in early 2024 (with a market cap of about $91 billion) and closed today at $1,048.51.",
+      "The company reported third-quarter earnings after markets closed Wednesday, and the results sent shares soaring more than 13%. Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "The Idaho-based company also gave investors a positive outlook, forecasting fourth-quarter revenue of between $49 billion and $51 billion.",
+      "The strong results arrive the same week Micron inked a deal to supply AI lab Anthropic with memory and storage chips. Micron also disclosed that it participated in Anthropic's Series H funding round, though it didn't disclose how much it invested."
+    ],
+    "html": null
+  }
+}

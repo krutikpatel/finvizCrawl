@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/96ed0fd5-e71e-3e7d-af99-df5ff523fedb/openai-gets-its-first-custom.html",
+    "fetched_at": "2026-06-25T07:00:41.048939-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI Gets its First Custom Chip, in Jalapeño Flavor",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "THE GIST\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\nOpenAI unveiled Jalapeño, its first custom-designed AI chip with Broadcom. Jalapeño isn't yet in commercial deployment as the initial rollout is expected by the end of this year. But according to Broadcom CEO Hock Tan, early tests show roughly 50% cost savings versus standard AI graphics processing units.\nWHAT HAPPENED\nBuilt specifically for inference — the process of running AI models to serve users — Jalapeño went from initial design to a production-ready blueprint in nine months, which the companies describe as the fastest development cycle ever achieved in high-performance semiconductors.\nOpenAI designed the chip from scratch based on its understanding of large language model fundamentals, while Broadcom contributed silicon implementation and networking technology.\nJalapeño is built for inference, not training. That distinction matters: Training a frontier AI model requires massive parallel compute for weeks or months and is dominated by Nvidia's H100 and B200 GPUs. Inference, by contrast — serving responses to millions of ChatGPT users every day — is a different, more repetitive workload that can be optimized around a company's specific model architecture. That's exactly what OpenAI did here.\nWHY IT MATTERS\nOne stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.\nThe announcement includes a commitment to deploy 10 gigawatts of OpenAI-designed accelerators with Microsoft through 2029 — a scale that dwarfs data-center deployments. In other words, this isn't a prototype project. It's a full infrastructure strategy.\nIf even a portion of OpenAI's inference workload shifts to Jalapeño at a 50% cost reduction, the impact on data-center revenues could be significant. And the signal to the rest of the industry —that the largest AI lab successfully designed its own chip in nine months — will accelerate every other hyperscaler's custom-silicon timeline.\nFor Broadcom, this is unambiguously positive. Broadcom shares have multiplied nearly sevenfold since the end of 2022, driven largely by its custom AI chip business for hyperscalers. Jalapeño adds OpenAI to a client roster that already includes Google and Meta.\nWHAT'S NEXT\nDeployment is the first hard test. Jalapeño must move from lab samples to data-center racks at scale, where custom chip programs have historically stumbled. But OpenAI has backups: It has signed chip supply agreements with AMD, Cerebras, and Amazon's Trainium platform—a multi-supplier strategy that reduces dependence on any single vendor.",
+    "text_blocks": [
+      "THE GIST",
+      "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.",
+      "OpenAI unveiled Jalapeño, its first custom-designed AI chip with Broadcom. Jalapeño isn't yet in commercial deployment as the initial rollout is expected by the end of this year. But according to Broadcom CEO Hock Tan, early tests show roughly 50% cost savings versus standard AI graphics processing units.",
+      "WHAT HAPPENED",
+      "Built specifically for inference — the process of running AI models to serve users — Jalapeño went from initial design to a production-ready blueprint in nine months, which the companies describe as the fastest development cycle ever achieved in high-performance semiconductors.",
+      "OpenAI designed the chip from scratch based on its understanding of large language model fundamentals, while Broadcom contributed silicon implementation and networking technology.",
+      "Jalapeño is built for inference, not training. That distinction matters: Training a frontier AI model requires massive parallel compute for weeks or months and is dominated by Nvidia's H100 and B200 GPUs. Inference, by contrast — serving responses to millions of ChatGPT users every day — is a different, more repetitive workload that can be optimized around a company's specific model architecture. That's exactly what OpenAI did here.",
+      "WHY IT MATTERS",
+      "One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.",
+      "The announcement includes a commitment to deploy 10 gigawatts of OpenAI-designed accelerators with Microsoft through 2029 — a scale that dwarfs data-center deployments. In other words, this isn't a prototype project. It's a full infrastructure strategy.",
+      "If even a portion of OpenAI's inference workload shifts to Jalapeño at a 50% cost reduction, the impact on data-center revenues could be significant. And the signal to the rest of the industry —that the largest AI lab successfully designed its own chip in nine months — will accelerate every other hyperscaler's custom-silicon timeline.",
+      "For Broadcom, this is unambiguously positive. Broadcom shares have multiplied nearly sevenfold since the end of 2022, driven largely by its custom AI chip business for hyperscalers. Jalapeño adds OpenAI to a client roster that already includes Google and Meta.",
+      "WHAT'S NEXT",
+      "Deployment is the first hard test. Jalapeño must move from lab samples to data-center racks at scale, where custom chip programs have historically stumbled. But OpenAI has backups: It has signed chip supply agreements with AMD, Cerebras, and Amazon's Trainium platform—a multi-supplier strategy that reduces dependence on any single vendor."
+    ],
+    "html": null
+  }
+}

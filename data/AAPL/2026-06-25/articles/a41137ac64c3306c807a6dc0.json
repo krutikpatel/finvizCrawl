@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7fffa7ef-766e-33f0-9736-03637be98f05/apple-raises-macbook-and-ipad.html",
+    "fetched_at": "2026-06-25T07:00:07.426676-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple raises MacBook and iPad prices as AI costs take hold",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple raised prices Thursday across its MacBook and iPad lineups, passing along higher memory and storage costs to consumers for the first time as artificial intelligence-driven demand strains component supply.\nFive products are getting more expensive, according to CNBC. On the Mac side, the entry-level MacBook Neo jumps $100 to $699, the MacBook Air 512GB model adds $200 to reach $1,299, and the MacBook Pro 1TB edition moves up $300 to $1,999. Two iPad models follow suit: the iPad Air 128GB goes from $599 to $749, and the iPad Pro Wi-Fi 256GB increases from $999 to $1,199. Apple's online store went down briefly Thursday morning before returning with the updated prices.\nIn a statement, Apple pointed to surging AI infrastructure buildout as the driver of the crunch, quoting directly: \"The rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage. We have never seen a component price increase this much, this quickly.\" The company also acknowledged that it has \"reached a point where we need to begin raising prices on a number of products,\" a formulation that suggests additional hikes could follow.\nCEO Tim Cook had signaled the move was coming. \"This is a hundred-year flood,\" Cook said last week. \"I've never seen anything like it in any area in over 40 years.\"\nPrices for memory and storage components have risen fourfold over the last three quarters, according to the outlet, as chip suppliers have been shifting output to serve the high-bandwidth memory needs of AI server farms.\nThursday's announcement was not Apple's first move in response to the component crunch. That pattern showed up earlier with the Mac mini: Apple quietly pulled its $599, 256GB model from sale in May, leaving the $799 version as the cheapest option available. Apple has also relied on storage upgrade pricing as a long-running tool to lift average transaction values.\nThe pressure extends beyond computers and tablets. Tarun Pathak, research director at Counterpoint Research, said that the cost burden from dearer components could reach about $200 per iPhone, with retail price adjustments in the $150 to $200 range most likely to hit premium, high-memory models harder than entry-level ones. IDC analysts anticipate every iPhone model in the next release cycle will ship with 12GB of RAM, a threshold Apple apparently views as necessary for its full Apple Intelligence feature set to function on new hardware.",
+    "text_blocks": [
+      "Apple raised prices Thursday across its MacBook and iPad lineups, passing along higher memory and storage costs to consumers for the first time as artificial intelligence-driven demand strains component supply.",
+      "Five products are getting more expensive, according to CNBC. On the Mac side, the entry-level MacBook Neo jumps $100 to $699, the MacBook Air 512GB model adds $200 to reach $1,299, and the MacBook Pro 1TB edition moves up $300 to $1,999. Two iPad models follow suit: the iPad Air 128GB goes from $599 to $749, and the iPad Pro Wi-Fi 256GB increases from $999 to $1,199. Apple's online store went down briefly Thursday morning before returning with the updated prices.",
+      "In a statement, Apple pointed to surging AI infrastructure buildout as the driver of the crunch, quoting directly: \"The rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage. We have never seen a component price increase this much, this quickly.\" The company also acknowledged that it has \"reached a point where we need to begin raising prices on a number of products,\" a formulation that suggests additional hikes could follow.",
+      "CEO Tim Cook had signaled the move was coming. \"This is a hundred-year flood,\" Cook said last week. \"I've never seen anything like it in any area in over 40 years.\"",
+      "Prices for memory and storage components have risen fourfold over the last three quarters, according to the outlet, as chip suppliers have been shifting output to serve the high-bandwidth memory needs of AI server farms.",
+      "Thursday's announcement was not Apple's first move in response to the component crunch. That pattern showed up earlier with the Mac mini: Apple quietly pulled its $599, 256GB model from sale in May, leaving the $799 version as the cheapest option available. Apple has also relied on storage upgrade pricing as a long-running tool to lift average transaction values.",
+      "The pressure extends beyond computers and tablets. Tarun Pathak, research director at Counterpoint Research, said that the cost burden from dearer components could reach about $200 per iPhone, with retail price adjustments in the $150 to $200 range most likely to hit premium, high-memory models harder than entry-level ones. IDC analysts anticipate every iPhone model in the next release cycle will ship with 12GB of RAM, a threshold Apple apparently views as necessary for its full Apple Intelligence feature set to function on new hardware."
+    ],
+    "html": null
+  }
+}

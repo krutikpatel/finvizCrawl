@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/these-s-p-500-stocks-are-expected-to-make-double-digit-comebacks-8696a849?mod=mw_FV",
+    "fetched_at": "2026-06-25T07:00:35.168445-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "These S&P 500 stocks are expected to make double-digit comebacks - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Deep Dive\nThese S&P 500 stocks are expected to make double-digit comebacks\nA list of 20 highly rated stocks favored by analysts for gains over the next year includes only one that has risen this year: Nvidia\nAs stocks of specialized hardware makers such as Micron, Sandisk and Western Digital have shot up this year as part of the AI hardware trade, many large players in the information-technology space have taken it on the chin. But a screen of the S&P 500 based on analysts’ sentiment shows confidence that Microsoft, Oracle and other big names will come bounce back over the next year.\nStock screens are often based on valuation metrics, such as this one highlighting growth stocks priced as value stocks. But for the following screen, we focused on analysts’ ratings and price targets.",
+    "text_blocks": [
+      "Deep Dive",
+      "These S&P 500 stocks are expected to make double-digit comebacks",
+      "A list of 20 highly rated stocks favored by analysts for gains over the next year includes only one that has risen this year: Nvidia",
+      "As stocks of specialized hardware makers such as Micron, Sandisk and Western Digital have shot up this year as part of the AI hardware trade, many large players in the information-technology space have taken it on the chin. But a screen of the S&P 500 based on analysts’ sentiment shows confidence that Microsoft, Oracle and other big names will come bounce back over the next year.",
+      "Stock screens are often based on valuation metrics, such as this one highlighting growth stocks priced as value stocks. But for the following screen, we focused on analysts’ ratings and price targets."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/trending-openai-broadcom-target-nvidias-194722853.html",
+    "fetched_at": "2026-06-25T07:00:40.918817-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance; Wendy's sees meme stock boost",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "00:02 Speaker A\nTime to cover some of today's trending tickers brought to you by CBO.\n00:06 Speaker A\nToday we're watching Broadcom, Cerebras and Wendy's. First up, OpenAI and Broadcom are teaming up to develop their first custom AI chip called Jalapeno, a move that could challenge Nvidia's dominance in the AI hardware market.\n00:19 Speaker A\nInvestors are watching closely as tech giants look for ways to reduce their reliance on Nvidia's high-demand GPUs.\n00:27 Speaker A\nOpenAI's president saying in a statement quote, by designing more of the stack ourselves, we can serve more intelligence with greater efficiency and keep pushing advanced AI towards broader access.\n00:39 Speaker A\nAnd Cerebras' shares, they're under pressure after the AI chip maker reported its first earnings since going public. Investors appear concerned about the company's path to profitability despite strong interest in its AI computing platform.\n00:53 Speaker A\nThe sell off highlights the high expectations facing newly public AI companies as markets demand both rapid growth and clear financial results.\n01:03 Speaker A\nFinally, Wendy's soaring here. That's after a viral Reddit post helped spark retail trader interest in the fast food chain's shares.\n01:11 Speaker A\nUsers on R/Wall Street Bets citing Wendy's new management, store closures, China expansion plans and a potential buyout as potential catalysts for that stock.\n01:23 Speaker A\nThis comes after Wendy's announced on Tuesday that it's getting a new CFO.",
+    "text_blocks": [
+      "00:02 Speaker A",
+      "Time to cover some of today's trending tickers brought to you by CBO.",
+      "00:06 Speaker A",
+      "Today we're watching Broadcom, Cerebras and Wendy's. First up, OpenAI and Broadcom are teaming up to develop their first custom AI chip called Jalapeno, a move that could challenge Nvidia's dominance in the AI hardware market.",
+      "00:19 Speaker A",
+      "Investors are watching closely as tech giants look for ways to reduce their reliance on Nvidia's high-demand GPUs.",
+      "00:27 Speaker A",
+      "OpenAI's president saying in a statement quote, by designing more of the stack ourselves, we can serve more intelligence with greater efficiency and keep pushing advanced AI towards broader access.",
+      "00:39 Speaker A",
+      "And Cerebras' shares, they're under pressure after the AI chip maker reported its first earnings since going public. Investors appear concerned about the company's path to profitability despite strong interest in its AI computing platform.",
+      "00:53 Speaker A",
+      "The sell off highlights the high expectations facing newly public AI companies as markets demand both rapid growth and clear financial results.",
+      "01:03 Speaker A",
+      "Finally, Wendy's soaring here. That's after a viral Reddit post helped spark retail trader interest in the fast food chain's shares.",
+      "01:11 Speaker A",
+      "Users on R/Wall Street Bets citing Wendy's new management, store closures, China expansion plans and a potential buyout as potential catalysts for that stock.",
+      "01:23 Speaker A",
+      "This comes after Wendy's announced on Tuesday that it's getting a new CFO."
+    ],
+    "html": null
+  }
+}

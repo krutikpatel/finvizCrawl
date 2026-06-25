@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-sued-over-texas-crash-193159307.html",
+    "fetched_at": "2026-06-25T07:00:04.982191-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Sued Over Texas Crash",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (TSLA, Financials) is facing a wrongful death lawsuit after a fatal crash in Texas. The family of 76-year-old Martha Avila says a Tesla crashed into her home and that the company's Autopilot and Full Self-Driving systems failed to prevent the accident.\nTesla is blaming driver error. The company says the driver overrode the system by pressing the accelerator all the way down in a residential area. The vehicle reportedly reached 73 mph before impact.\nPolice found no mechanical failure and no sign of driver impairment, according to the report. Tesla argues the crash points to pedal misapplication, meaning the driver hit the gas instead of the brake.\nThe lawsuit raises a familiar question for Tesla: how much responsibility does the company carry when driver-assistance software is active but a human is still behind the wheel?\nFor investors, the case adds another legal risk as Tesla tries to build more of its future around FSD and robotaxis.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (TSLA, Financials) is facing a wrongful death lawsuit after a fatal crash in Texas. The family of 76-year-old Martha Avila says a Tesla crashed into her home and that the company's Autopilot and Full Self-Driving systems failed to prevent the accident.",
+      "Tesla is blaming driver error. The company says the driver overrode the system by pressing the accelerator all the way down in a residential area. The vehicle reportedly reached 73 mph before impact.",
+      "Police found no mechanical failure and no sign of driver impairment, according to the report. Tesla argues the crash points to pedal misapplication, meaning the driver hit the gas instead of the brake.",
+      "The lawsuit raises a familiar question for Tesla: how much responsibility does the company carry when driver-assistance software is active but a human is still behind the wheel?",
+      "For investors, the case adds another legal risk as Tesla tries to build more of its future around FSD and robotaxis."
+    ],
+    "html": null
+  }
+}

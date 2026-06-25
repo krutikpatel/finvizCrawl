@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-overtakes-meta-market-value-134026985.html",
+    "fetched_at": "2026-06-25T07:00:12.391199-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 25 (Reuters) - Micron Technology edged past the market valuation of Meta Platforms and briefly Tesla's for the first time on Thursday, after the memory chipmaker's solid forecast helped extend its AI-driven ascent.\nThe company's shares were last up 18.4% at $1,236, giving it a market capitalization of $1.398 trillion, compared with Meta's $1.392 trillion. Tesla had a market value stood of $1.4 trillion.\nMicron's fourth-quarter revenue and profit forecasts on Wednesday helped shares reverse a recent slump, with the company disclosing its customers had committed $22 billion to lock in supplies of memory chips.\nThe chip company topped $1 trillion in market value on May 26, following the entry of South Korea's Samsung Electronics into the club, as memory chipmakers benefit from investor appetite for beneficiaries of Big Tech's mega AI spending plans.\n(Reporting by Purvi Agarwal in Bengaluru; Editing by Sriraj Kalluvila)",
+    "text_blocks": [
+      "June 25 (Reuters) - Micron Technology edged past the market valuation of Meta Platforms and briefly Tesla's for the first time on Thursday, after the memory chipmaker's solid forecast helped extend its AI-driven ascent.",
+      "The company's shares were last up 18.4% at $1,236, giving it a market capitalization of $1.398 trillion, compared with Meta's $1.392 trillion. Tesla had a market value stood of $1.4 trillion.",
+      "Micron's fourth-quarter revenue and profit forecasts on Wednesday helped shares reverse a recent slump, with the company disclosing its customers had committed $22 billion to lock in supplies of memory chips.",
+      "The chip company topped $1 trillion in market value on May 26, following the entry of South Korea's Samsung Electronics into the club, as memory chipmakers benefit from investor appetite for beneficiaries of Big Tech's mega AI spending plans.",
+      "(Reporting by Purvi Agarwal in Bengaluru; Editing by Sriraj Kalluvila)"
+    ],
+    "html": null
+  }
+}

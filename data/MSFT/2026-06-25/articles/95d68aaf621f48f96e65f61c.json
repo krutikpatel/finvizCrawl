@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/tech/amazon-microsofts-cloud-services-should-fall-under-dma-eu-says-5c480ab8?mod=wsj_FV",
+    "fetched_at": "2026-06-25T07:00:36.531359-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon, Microsoft’s Cloud Services Should Fall Under DMA, EU Says - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "The European Union said Amazon AMZN 0.07%increase; up pointing triangle.com and Microsoft MSFT -2.27%decrease; down pointing triangle should be treated as gatekeepers for their cloud computing services under the bloc’s Digital Markets Act, a designation that requires companies to take extra steps to ensure they aren’t stifling competition.\nThe European Commission, the EU’s executive arm, classified Amazon, Microsoft and other tech giants as gatekeepers for some services years ago, but the bloc said Thursday that it might expand that designation to include their cloud services—Amazon Web Services and Microsoft Azure.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "The European Union said Amazon AMZN 0.07%increase; up pointing triangle.com and Microsoft MSFT -2.27%decrease; down pointing triangle should be treated as gatekeepers for their cloud computing services under the bloc’s Digital Markets Act, a designation that requires companies to take extra steps to ensure they aren’t stifling competition.",
+      "The European Commission, the EU’s executive arm, classified Amazon, Microsoft and other tech giants as gatekeepers for some services years ago, but the bloc said Thursday that it might expand that designation to include their cloud services—Amazon Web Services and Microsoft Azure.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

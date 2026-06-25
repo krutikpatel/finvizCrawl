@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-gets-big-agentic-ai-174742934.html",
+    "fetched_at": "2026-06-25T07:01:07.631759-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Gets a Big Agentic AI Boost",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAMD (NASDAQ:AMD) and Arm (NASDAQ:ARM) could benefit as agentic AI drives more demand for standalone CPU racks, according to UBS.\nUBS raised its AMD price target to $670 from $455, saying the company is well positioned because of its core count, multithreading strength and the x86 software ecosystem. The firm now expects AMD's CPU revenue to reach $23 billion in 2027 and $29 billion in 2028, up from prior estimates of $21 bilion and $27 billion.\nThe firm said standalone CPU racks could split 60% x86 and 40% Arm, with AMD likely to capture an outsized share given Intel's roadmap and supply challenges. Intel can still participate, but UBS said mid-term upside depends on improving high core-count performance.\nUBS also lifted its Arm price target to $470 from $260. The firm expects Arm architectures to hold about 70% of a 20 million-unit head-node market by 2030, supported by latency, efficiency and rising royalty rates.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AMD (NASDAQ:AMD) and Arm (NASDAQ:ARM) could benefit as agentic AI drives more demand for standalone CPU racks, according to UBS.",
+      "UBS raised its AMD price target to $670 from $455, saying the company is well positioned because of its core count, multithreading strength and the x86 software ecosystem. The firm now expects AMD's CPU revenue to reach $23 billion in 2027 and $29 billion in 2028, up from prior estimates of $21 bilion and $27 billion.",
+      "The firm said standalone CPU racks could split 60% x86 and 40% Arm, with AMD likely to capture an outsized share given Intel's roadmap and supply challenges. Intel can still participate, but UBS said mid-term upside depends on improving high core-count performance.",
+      "UBS also lifted its Arm price target to $470 from $260. The firm expects Arm architectures to hold about 70% of a 20 million-unit head-node market by 2030, supported by latency, efficiency and rising royalty rates."
+    ],
+    "html": null
+  }
+}

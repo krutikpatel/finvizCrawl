@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-automates-more-content-review-135155046.html",
+    "fetched_at": "2026-06-25T07:00:12.618485-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Automates More Content Review",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta (NASDAQ:META) has reportedly automated about 50% of human content-review requests this year using large language models, marking another major step in the company's push to cut costs and scale AI across operations.\nThe Financial Times reported that Meta wants to push automation even further by year-end, reducing human review needs by more than 90% for certain types of content. The company is also using AI to automate internal work such as coding, moderation and customer support.\nMeta recently told staff to use its new Muse Spark model for most moderation and customer support tasks. The company told the FT the goal is to improve enforcement and said it is deploying more advanced AI systems only when they consistently perform better than current content-enforcement methods.\nthe story highlights the practical side of Meta's AI spending. The company is not only building AI products for users and advertisers, but also using AI to lower operating costs.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta (NASDAQ:META) has reportedly automated about 50% of human content-review requests this year using large language models, marking another major step in the company's push to cut costs and scale AI across operations.",
+      "The Financial Times reported that Meta wants to push automation even further by year-end, reducing human review needs by more than 90% for certain types of content. The company is also using AI to automate internal work such as coding, moderation and customer support.",
+      "Meta recently told staff to use its new Muse Spark model for most moderation and customer support tasks. The company told the FT the goal is to improve enforcement and said it is deploying more advanced AI systems only when they consistently perform better than current content-enforcement methods.",
+      "the story highlights the practical side of Meta's AI spending. The company is not only building AI products for users and advertisers, but also using AI to lower operating costs."
+    ],
+    "html": null
+  }
+}

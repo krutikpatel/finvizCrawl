@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bernstein-flags-structural-beneficiaries-cpu-120149951.html",
+    "fetched_at": "2026-06-25T07:01:09.454299-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bernstein flags structural beneficiaries of the CPU renaissance",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Agentic artificial intelligence is triggering a fundamental shift in data center hardware demand, with server CPUs emerging as a major structural growth market, according to Bernstein in a note on Wednesday.\nAnalyst David Dai raised his server CPU total addressable market estimate to $223 billion, up from a prior forecast of $137 billion, which he now treats as the bear case.\nThe upgrade reflects the transition from generative AI's chatbot phase to agentic AI, which Dai said \"involves heavily autonomous task orchestration and execution, which boosts the CPU workload vs. GPU.\"\nAs a result, the CPU-to-GPU ratio in AI data centers is surging \"from 1:4 or 1:8 to 1:1 or higher.\"\nBernstein's base case assumes $3.5 trillion in AI data center capital expenditure and a 1:1 CPU-to-GPU pairing ratio for inference, implying a TAM of $137 billion by 2030, roughly six times the 2025 TAM of $37 billion. The upside scenario puts the figure at $330 billion.\nBernstein sees Arm Holdings as \"the structural beneficiary of the renaissance of CPUs for agentic AI.\"\nDai raised his price target on Arm to $500 from a prior level, implying 21% upside, citing the company's power-efficient architecture as \"suitable for agentic AI workload.\" Bernstein now forecasts Arm reaching $22 billion in revenue by 2030, above the company's own $15 billion target.\nAMD and Intel also received price target increases to $600 and $100, respectively, as Bernstein incorporated stronger and more sustained server CPU demand assumptions into both models. AMD retains an Outperform rating; Intel is rated Market Perform.\nRelated articles\nBernstein flags structural beneficiaries of the CPU renaissance\nCiti pushes back Fed rate cuts to May after blowout January jobs report",
+    "text_blocks": [
+      "Investing.com -- Agentic artificial intelligence is triggering a fundamental shift in data center hardware demand, with server CPUs emerging as a major structural growth market, according to Bernstein in a note on Wednesday.",
+      "Analyst David Dai raised his server CPU total addressable market estimate to $223 billion, up from a prior forecast of $137 billion, which he now treats as the bear case.",
+      "The upgrade reflects the transition from generative AI's chatbot phase to agentic AI, which Dai said \"involves heavily autonomous task orchestration and execution, which boosts the CPU workload vs. GPU.\"",
+      "As a result, the CPU-to-GPU ratio in AI data centers is surging \"from 1:4 or 1:8 to 1:1 or higher.\"",
+      "Bernstein's base case assumes $3.5 trillion in AI data center capital expenditure and a 1:1 CPU-to-GPU pairing ratio for inference, implying a TAM of $137 billion by 2030, roughly six times the 2025 TAM of $37 billion. The upside scenario puts the figure at $330 billion.",
+      "Bernstein sees Arm Holdings as \"the structural beneficiary of the renaissance of CPUs for agentic AI.\"",
+      "Dai raised his price target on Arm to $500 from a prior level, implying 21% upside, citing the company's power-efficient architecture as \"suitable for agentic AI workload.\" Bernstein now forecasts Arm reaching $22 billion in revenue by 2030, above the company's own $15 billion target.",
+      "AMD and Intel also received price target increases to $600 and $100, respectively, as Bernstein incorporated stronger and more sustained server CPU demand assumptions into both models. AMD retains an Outperform rating; Intel is rated Market Perform.",
+      "Related articles",
+      "Bernstein flags structural beneficiaries of the CPU renaissance",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report"
+    ],
+    "html": null
+  }
+}

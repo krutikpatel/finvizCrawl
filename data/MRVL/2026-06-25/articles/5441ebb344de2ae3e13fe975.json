@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/stock-futures-slide-as-technology-selloff-spreads-79833610?mod=wsj_FV",
+    "fetched_at": "2026-06-25T07:01:13.594808-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Spending Jitters Weigh on Tech Stocks - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "The selloff in tech shares picked up steam Tuesday, with the Nasdaq composite off over 2%.\nStocks opened sharply lower, steadied a bit and then tested their lows on the day in afternoon trading. Intel, Nvidia, Oracle and Tesla remain down 3% or more on the day, following steep losses in big tech stocks yesterday. Chip maker Micron Technology was recently down about 13%, near session lows, helping pull the S&P 500 lower.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "The selloff in tech shares picked up steam Tuesday, with the Nasdaq composite off over 2%.",
+      "Stocks opened sharply lower, steadied a bit and then tested their lows on the day in afternoon trading. Intel, Nvidia, Oracle and Tesla remain down 3% or more on the day, following steep losses in big tech stocks yesterday. Chip maker Micron Technology was recently down about 13%, near session lows, helping pull the S&P 500 lower.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

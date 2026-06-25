@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-ceo-says-investors-misunderstood-180104795.html",
+    "fetched_at": "2026-06-25T07:01:00.529041-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cerebras CEO says investors misunderstood margin guidance",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Cerebras Systems CEO Andrew Feldman said Wednesday that investors \"misunderstood\" the artificial intelligence chipmaker's margin guidance after shares fell more than 17% following the company's first earnings report since going public.\n\"It is misunderstood,\" Feldman said on CNBC's Squawk on the Street. \"You know, we laid out a plan at the start of '26. We shared that plan as we went public a few months ago, and we're beating that plan.\"\nThe stock dropped over 17% on Wednesday touching the low of $185.23, its lowest level since the company listed on the Nasdaq last month. Cerebras forecast adjusted gross margins of 38% to 41% for 2026, compared with the 47% it reported for the first quarter. The projection falls below competitors such as Nvidia's mid-70% range and Advanced Micro Devices' mid-50%.\nFeldman said management made clear that Cerebras will need to rent back some equipment from one of its largest clients. \"I think it's not going to be a straight line,\" he said.\nInvestors are also dealing with a staggered timeline for lock-up restrictions on Cerebras insiders. About 28 million Class A Cerebras shares can be traded by directors, officers and non-employee shareholders on the second trading day after Tuesday's earnings announcement, according to the company's prospectus. Feldman said the goal was to smooth out the schedule, which typically comes after a set number of months after an initial public offering. \"Whether that's a success or not, we'll have to see,\" he told CNBC's Carl Quintanilla and Leslie Picker.\nDuring the post-earnings call, Feldman highlighted that OpenAI's GPT 5.4 runs on Cerebras chips. The ChatGPT maker will deploy 750 megawatts of the company's semiconductors as part of the agreement. Feldman also said Amazon Web Services would soon start using the company's chips in its data centers, with revenue flows expected in the next year.\nFeldman noted that while competitors such as Nvidia face supply shortages in high-bandwidth memory and a cutting-edge process from Taiwan Semiconductor Manufacturing Co., Cerebras does not need either of those. The company does face pressure to open more data centers, as do cloud infrastructure providers, while public opposition mounts and permitting processes can drag on. \"We're trying to move at the speed of AI, and data centers move with the speed of real estate,\" Feldman said.\nRelated articles\nCerebras CEO says investors misunderstood margin guidance\nCiti pushes back Fed rate cuts to May after blowout January jobs report\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- Cerebras Systems CEO Andrew Feldman said Wednesday that investors \"misunderstood\" the artificial intelligence chipmaker's margin guidance after shares fell more than 17% following the company's first earnings report since going public.",
+      "\"It is misunderstood,\" Feldman said on CNBC's Squawk on the Street. \"You know, we laid out a plan at the start of '26. We shared that plan as we went public a few months ago, and we're beating that plan.\"",
+      "The stock dropped over 17% on Wednesday touching the low of $185.23, its lowest level since the company listed on the Nasdaq last month. Cerebras forecast adjusted gross margins of 38% to 41% for 2026, compared with the 47% it reported for the first quarter. The projection falls below competitors such as Nvidia's mid-70% range and Advanced Micro Devices' mid-50%.",
+      "Feldman said management made clear that Cerebras will need to rent back some equipment from one of its largest clients. \"I think it's not going to be a straight line,\" he said.",
+      "Investors are also dealing with a staggered timeline for lock-up restrictions on Cerebras insiders. About 28 million Class A Cerebras shares can be traded by directors, officers and non-employee shareholders on the second trading day after Tuesday's earnings announcement, according to the company's prospectus. Feldman said the goal was to smooth out the schedule, which typically comes after a set number of months after an initial public offering. \"Whether that's a success or not, we'll have to see,\" he told CNBC's Carl Quintanilla and Leslie Picker.",
+      "During the post-earnings call, Feldman highlighted that OpenAI's GPT 5.4 runs on Cerebras chips. The ChatGPT maker will deploy 750 megawatts of the company's semiconductors as part of the agreement. Feldman also said Amazon Web Services would soon start using the company's chips in its data centers, with revenue flows expected in the next year.",
+      "Feldman noted that while competitors such as Nvidia face supply shortages in high-bandwidth memory and a cutting-edge process from Taiwan Semiconductor Manufacturing Co., Cerebras does not need either of those. The company does face pressure to open more data centers, as do cloud infrastructure providers, while public opposition mounts and permitting processes can drag on. \"We're trying to move at the speed of AI, and data centers move with the speed of real estate,\" Feldman said.",
+      "Related articles",
+      "Cerebras CEO says investors misunderstood margin guidance",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

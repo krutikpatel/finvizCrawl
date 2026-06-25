@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-demand-begins-justify-massive-110000106.html",
+    "fetched_at": "2026-06-25T07:00:14.557436-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Demand Begins to Justify Massive Cost of Data-Center Buildout",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Revenue from artificial intelligence has reached a tipping point, showing that the hundreds of billions of dollars tech companies are spending on it may be economically sustainable, according to a report from research firm Exponential View.\nMost Read from Bloomberg\n-\nInvestor Who Scored 900% Win in 2008 Crisis Has New Big Short Bet\n-\nStocks Slide as Wall Street Gets AI Wake-Up Call: Markets Wrap\n-\nStocks Climb Late After Micron's Blowout Outlook: Markets Wrap\n-\nOracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles\nGlobal AI sales, excluding China, reached $25 billion in the first quarter of 2026, exceeding the industry's estimated $21 billion in depreciation costs tied to investments in data centers and chips for the second consecutive quarter. While the milestone suggests that AI companies are beginning to cover the cost of their capital spending, the margins are thin. Depreciation charges still consume more than two thirds of revenue, leaving a small buffer to cover other costs such as power, labor and financing.\n\"For now, the economics are holding,\" the report, published Thursday, states. \"But the margin for error is narrow,\" it adds, with more financing risk shifting into capital markets through leases, debt and equity, especially among the so-called neoclouds.\nThe findings speak to one of the central questions hanging over the AI boom: Whether customer demand is large enough to justify the hundreds of billions of dollars being poured into chips and data centers. The biggest US tech companies, including Meta Platforms Inc., Alphabet Inc., Microsoft Corp. and Amazon.com Inc. plan to spend as much as $725 billion this year on capital expenditures, much of it on AI infrastructure, in one of history's largest corporate spending sprees.\n\"It just about clears the depreciation hurdle, and roughly speaking, it's improving over time,\" Azeem Azhar, founder of Exponential View and investor in dozens of startups, told Bloomberg News. \"At this stage of an investment in any kind of capital expenditure, you wouldn't expect to have dramatically jumped over that hurdle because if you had, you were probably leaving something on the table.\"\nMuch of the AI boom has been measured from the supply side, through disclosures from public semiconductor companies like Nvidia Corp. and hyperscalers like Alphabet. Demand has been harder to quantify because many of the most important AI labs, including OpenAI and Anthropic, remain private.",
+    "text_blocks": [
+      "(Bloomberg) -- Revenue from artificial intelligence has reached a tipping point, showing that the hundreds of billions of dollars tech companies are spending on it may be economically sustainable, according to a report from research firm Exponential View.",
+      "Most Read from Bloomberg",
+      "-",
+      "Investor Who Scored 900% Win in 2008 Crisis Has New Big Short Bet",
+      "-",
+      "Stocks Slide as Wall Street Gets AI Wake-Up Call: Markets Wrap",
+      "-",
+      "Stocks Climb Late After Micron's Blowout Outlook: Markets Wrap",
+      "-",
+      "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
+      "Global AI sales, excluding China, reached $25 billion in the first quarter of 2026, exceeding the industry's estimated $21 billion in depreciation costs tied to investments in data centers and chips for the second consecutive quarter. While the milestone suggests that AI companies are beginning to cover the cost of their capital spending, the margins are thin. Depreciation charges still consume more than two thirds of revenue, leaving a small buffer to cover other costs such as power, labor and financing.",
+      "\"For now, the economics are holding,\" the report, published Thursday, states. \"But the margin for error is narrow,\" it adds, with more financing risk shifting into capital markets through leases, debt and equity, especially among the so-called neoclouds.",
+      "The findings speak to one of the central questions hanging over the AI boom: Whether customer demand is large enough to justify the hundreds of billions of dollars being poured into chips and data centers. The biggest US tech companies, including Meta Platforms Inc., Alphabet Inc., Microsoft Corp. and Amazon.com Inc. plan to spend as much as $725 billion this year on capital expenditures, much of it on AI infrastructure, in one of history's largest corporate spending sprees.",
+      "\"It just about clears the depreciation hurdle, and roughly speaking, it's improving over time,\" Azeem Azhar, founder of Exponential View and investor in dozens of startups, told Bloomberg News. \"At this stage of an investment in any kind of capital expenditure, you wouldn't expect to have dramatically jumped over that hurdle because if you had, you were probably leaving something on the table.\"",
+      "Much of the AI boom has been measured from the supply side, through disclosures from public semiconductor companies like Nvidia Corp. and hyperscalers like Alphabet. Demand has been harder to quantify because many of the most important AI labs, including OpenAI and Anthropic, remain private."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://ca.finance.yahoo.com/news/apple-raises-prices-macbooks-ipads-124211944.html",
+    "fetched_at": "2026-06-25T07:00:07.591140-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple raises prices of MacBooks, iPads as memory costs skyrocket",
+    "byline": null,
+    "published_at": null,
+    "site_name": "ca.finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Stephen Nellis and Aditya Soni\nSAN FRANCISCO, June 25 (Reuters) - Apple raised iPad and MacBook prices on Thursday, saying it could no longer shield customers from soaring memory and storage chip costs driven by the AI industry's datacenter buildout.\nThe move does not affect Apple's main cash cow, the iPhone. But it would take starting price of the Neo - its lowest priced laptop aimed at winning marketshare from affordable Windows and Chromebook laptops - from $599 to $699 months after launch.\nThe increase shows even the world's most valuable consumer electronics company with supply chain relationships that are the envy of the industry is not immune to a memory price surge that has dulled the outlook for smartphone and PC sales.\nMemory makers such as Micron have in recent months prioritized orders from AI chipmakers like Nvidia, helping them earn record profit but leaving little supply for electronics makers that have been forced to increase prices.\n\"We have never seen a component price increase this much, this quickly,\" Apple said in a statement. \"We have shielded our customers from these increases so far, but we have now reached a point where we need to begin raising prices on a number of products, including today's increases for iPad and Mac.\"\nApple hiked the price of MacBook Air with 512 gigabytes of storage rose to $1,299 from $1,099, while the MacBook Pro with 1 terabyte of storage rose to $1,999 from $1,699, according to updated prices on its website. The iPad Air with 128 gigabytes of storage rose from $599 to $749, among other changes.\nApple also raised prices for both versions of its HomePod smart speaker and Apple TV set-top box. Shares of the company were down 2.8% in early trading.\nApple said in April existing inventories had helped it keep its gross margins above Wall Street expectations but that rising memory costs would start to catch up by the end of this month, with profitability expected to fall slightly.\n\"We expect significantly higher memory costs,\" CEO Tim Cook said on a conference call with analysts in late April.\n\"Where we don't give color beyond June, I can tell you that beyond the June quarter, we believe memory costs will drive an increasing impact on our business,\" Cook had said.\nMEMORY SURGE ADDS PRESSURE ON ELECTRONICS MAKERS\nApple has not disclosed what steps besides price hike it has taken to address rising memory costs. The company said on Thursday, \"We know this is not welcome news, and we are working tirelessly to find solutions.\"",
+    "text_blocks": [
+      "By Stephen Nellis and Aditya Soni",
+      "SAN FRANCISCO, June 25 (Reuters) - Apple raised iPad and MacBook prices on Thursday, saying it could no longer shield customers from soaring memory and storage chip costs driven by the AI industry's datacenter buildout.",
+      "The move does not affect Apple's main cash cow, the iPhone. But it would take starting price of the Neo - its lowest priced laptop aimed at winning marketshare from affordable Windows and Chromebook laptops - from $599 to $699 months after launch.",
+      "The increase shows even the world's most valuable consumer electronics company with supply chain relationships that are the envy of the industry is not immune to a memory price surge that has dulled the outlook for smartphone and PC sales.",
+      "Memory makers such as Micron have in recent months prioritized orders from AI chipmakers like Nvidia, helping them earn record profit but leaving little supply for electronics makers that have been forced to increase prices.",
+      "\"We have never seen a component price increase this much, this quickly,\" Apple said in a statement. \"We have shielded our customers from these increases so far, but we have now reached a point where we need to begin raising prices on a number of products, including today's increases for iPad and Mac.\"",
+      "Apple hiked the price of MacBook Air with 512 gigabytes of storage rose to $1,299 from $1,099, while the MacBook Pro with 1 terabyte of storage rose to $1,999 from $1,699, according to updated prices on its website. The iPad Air with 128 gigabytes of storage rose from $599 to $749, among other changes.",
+      "Apple also raised prices for both versions of its HomePod smart speaker and Apple TV set-top box. Shares of the company were down 2.8% in early trading.",
+      "Apple said in April existing inventories had helped it keep its gross margins above Wall Street expectations but that rising memory costs would start to catch up by the end of this month, with profitability expected to fall slightly.",
+      "\"We expect significantly higher memory costs,\" CEO Tim Cook said on a conference call with analysts in late April.",
+      "\"Where we don't give color beyond June, I can tell you that beyond the June quarter, we believe memory costs will drive an increasing impact on our business,\" Cook had said.",
+      "MEMORY SURGE ADDS PRESSURE ON ELECTRONICS MAKERS",
+      "Apple has not disclosed what steps besides price hike it has taken to address rising memory costs. The company said on Thursday, \"We know this is not welcome news, and we are working tirelessly to find solutions.\""
+    ],
+    "html": null
+  }
+}

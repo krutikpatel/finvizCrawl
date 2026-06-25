@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-invest-additional-13-billion-081919896.html",
+    "fetched_at": "2026-06-25T07:00:56.544914-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon to invest additional $13 billion in India cloud, AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 25 (Reuters) - Amazon said on Thursday it will invest an additional $13 billion by 2030 in India to expand its AI and cloud infrastructure.\nThe new investment is in addition to its planned $35 billion funding announced last year, taking the e-commerce firm's investment in the country to $48 billion through 2030.\nThe announcement follows a meeting between Amazon CEO Andy Jassy and Indian Prime Minister Narendra Modi on Thursday in New Delhi.\n\"Shared that we're investing $48 billion over the coming five years, including $21+ billion in AI and cloud infrastructure,\" Jassy said in a post on social media platform X.\nThe $13 billion investment will support AI and cloud infrastructure across the Mumbai and Hyderabad regions, the company said in a statement.\nMajor U.S. tech firms have invested billions of dollars in India, underscoring the country's emergence as a strategic hub for cloud, AI and deep‑tech growth.\nMicrosoft has pledged a $17.5 billion investment in India for AI and cloud infrastructure, while Google has committed $15 billion over the next five years to build AI data centers.\n(Reporting by Abinaya V and Akanksha Khushi in Bengaluru; Editing by Saumyadeb Chakrabarty)",
+    "text_blocks": [
+      "June 25 (Reuters) - Amazon said on Thursday it will invest an additional $13 billion by 2030 in India to expand its AI and cloud infrastructure.",
+      "The new investment is in addition to its planned $35 billion funding announced last year, taking the e-commerce firm's investment in the country to $48 billion through 2030.",
+      "The announcement follows a meeting between Amazon CEO Andy Jassy and Indian Prime Minister Narendra Modi on Thursday in New Delhi.",
+      "\"Shared that we're investing $48 billion over the coming five years, including $21+ billion in AI and cloud infrastructure,\" Jassy said in a post on social media platform X.",
+      "The $13 billion investment will support AI and cloud infrastructure across the Mumbai and Hyderabad regions, the company said in a statement.",
+      "Major U.S. tech firms have invested billions of dollars in India, underscoring the country's emergence as a strategic hub for cloud, AI and deep‑tech growth.",
+      "Microsoft has pledged a $17.5 billion investment in India for AI and cloud infrastructure, while Google has committed $15 billion over the next five years to build AI data centers.",
+      "(Reporting by Abinaya V and Akanksha Khushi in Bengaluru; Editing by Saumyadeb Chakrabarty)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/qualcomm-stock-price-mystery-big-tech-customer-meta-b8a1e776?mod=bar_FV",
+    "fetched_at": "2026-06-25T07:00:35.227454-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm Stock: Mystery Big Tech Customer Revealed<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Qualcomm Just Revealed Its Mystery Big Tech Customer—and Its Stock Is Soaring\nQualcomm stock was soaring Thursday after the chip maker raised its non-handset sales target and revealed that Facebook parent Meta Platforms would be using a new data-center chip.",
+    "text_blocks": [
+      "Qualcomm Just Revealed Its Mystery Big Tech Customer—and Its Stock Is Soaring",
+      "Qualcomm stock was soaring Thursday after the chip maker raised its non-handset sales target and revealed that Facebook parent Meta Platforms would be using a new data-center chip."
+    ],
+    "html": null
+  }
+}

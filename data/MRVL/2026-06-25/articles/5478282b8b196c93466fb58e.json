@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_FV",
+    "fetched_at": "2026-06-25T07:01:13.260274-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Space Watch\nSpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq\nThe stock hits a new low before recovering to close in positive territory\nAfter setting a record intraday low early in Tuesday’s trading day, SpaceX shares have recovered and climbed back into positive territory.\nShortly after Tuesday’s session began, SpaceX’s stock fell below its opening price on the Nasdaq after its initial public offering on June 11. SpaceX shares SPCX traded as low as $147.11 in early Tuesday action, below that $150 level from the first trading day, though they rebounded to end Tuesday up 1%, to about $156.",
+    "text_blocks": [
+      "Space Watch",
+      "SpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq",
+      "The stock hits a new low before recovering to close in positive territory",
+      "After setting a record intraday low early in Tuesday’s trading day, SpaceX shares have recovered and climbed back into positive territory.",
+      "Shortly after Tuesday’s session began, SpaceX’s stock fell below its opening price on the Nasdaq after its initial public offering on June 11. SpaceX shares SPCX traded as low as $147.11 in early Tuesday action, below that $150 level from the first trading day, though they rebounded to end Tuesday up 1%, to about $156."
+    ],
+    "html": null
+  }
+}

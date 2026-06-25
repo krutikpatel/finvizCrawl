@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/broadcom-faces-tpu-shakeup-3-132408693.html",
+    "fetched_at": "2026-06-25T07:00:30.827753-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Faces TPU Shakeup After 3% Drop",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO) came back into focus after Wedbush Securities responded to a media report suggesting MediaTek could potentially become Google's (NASDAQ:GOOG) leading supplier of tensor processing units, replacing Broadcom. Shares were little changed in premarket trading after falling more than 3% on Tuesday, suggesting investors were still weighing how serious the possible supplier shift could be.\nWedbush analyst Matt Bryson said the firm does not have a view on whether the Commercial Times report is accurate. However, he noted that if the report proves correct, the impact could be meaningful for the semiconductor space. Bryson said such a move could possibly pressure the market's view that Broadcom holds a superior position in the custom ASIC market versus peers, while also creating potential upside for MediaTek's 2028 estimates if its ramp into Google accelerates.\nThe Commercial Times reported that Google could shift TPU design work to MediaTek in 2028 for its upcoming v9 TPU, known as Triggerfish. The report said Google had initially planned to work with Broadcom and use its 448G SERDES technology, but delays may have contributed to the possible switch. Separately, Google may use Samsung (SSNLF) to manufacture the memory input-output die for its upcoming 10th-generation TPU, partly due to constraints at Taiwan Semiconductor (NYSE:TSM).",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO) came back into focus after Wedbush Securities responded to a media report suggesting MediaTek could potentially become Google's (NASDAQ:GOOG) leading supplier of tensor processing units, replacing Broadcom. Shares were little changed in premarket trading after falling more than 3% on Tuesday, suggesting investors were still weighing how serious the possible supplier shift could be.",
+      "Wedbush analyst Matt Bryson said the firm does not have a view on whether the Commercial Times report is accurate. However, he noted that if the report proves correct, the impact could be meaningful for the semiconductor space. Bryson said such a move could possibly pressure the market's view that Broadcom holds a superior position in the custom ASIC market versus peers, while also creating potential upside for MediaTek's 2028 estimates if its ramp into Google accelerates.",
+      "The Commercial Times reported that Google could shift TPU design work to MediaTek in 2028 for its upcoming v9 TPU, known as Triggerfish. The report said Google had initially planned to work with Broadcom and use its 448G SERDES technology, but delays may have contributed to the possible switch. Separately, Google may use Samsung (SSNLF) to manufacture the memory input-output die for its upcoming 10th-generation TPU, partly due to constraints at Taiwan Semiconductor (NYSE:TSM)."
+    ],
+    "html": null
+  }
+}

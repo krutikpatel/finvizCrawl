@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-bets-ai-chips-break-181112616.html",
+    "fetched_at": "2026-06-25T07:01:07.528490-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm forecasts $15 billion data center chip sales by 2029, shares soar",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Anhata Rooprai and Stephen Nellis\nJune 24 (Reuters) - Qualcomm said it expects to generate $15 billion in sales from its data center business by 2029 as it moves beyond its core smartphone chips, sending shares more than 12% higher in after-hours trading on Wednesday.\nChief Financial Officer Akash Palkhiwala said at an investor presentation that the data center business will bring in $5 billion for fiscal 2027, with $1 billion coming from the new custom-chip customers.\nQualcomm also said it expects $40 billion in revenue from chips outside its smartphone stronghold by 2029, up from previous estimates of $22 billion, and with handsets only making up a third of its chip revenue by then.\n\"We will be truly diversified,\" Palkhiwala said.\nArm Holdings, which supplies underlying technology for many Qualcomm chips, also rose 5% after the forecast.\nBank of America analysts had earlier said they expect modest revenue of roughly $2 billion to $5 billion annually from Qualcomm's data center push by fiscal 2027-2028.\nMETA, MICROSOFT AMONG CUSTOMERS\nEarlier in the day, Qualcomm said Microsoft and Meta Platforms will use its new AI chips and that it will make custom chips for two other unnamed \"hyperscalers.\"\nQualcomm's shift to AI chips reflects mounting pressure in the smartphone market, which has been squeezed by a memory chip shortage driven by surging demand for AI infrastructure, and major customers such as Apple and Samsung developing chips in-house.\nThe chipmaker on Wednesday said Microsoft will use its new category of chips that relies on cheap memory chips used in smartphones and laptops, instead of the pricey high-bandwidth chips used by Nvidia and SRAM memory used by Cerebras Systems.\nThe company calls the new category \"High Bandwidth Compute\" or HBC.\n\"That is a tremendous value that we deliver to the industry in terms of performance per cost advantage,\" said Tony Pialis, Qualcomm's data center chief.\nQualcomm said Meta will use its new CPU called Dragonfly C1000 that it has designed specifically for AI data centers, entering a market where both Arm Holdings and Nvidia are courting customers.\nPialis also said Qualcomm has won two major customers — called \"hyperscalers\" in the computing industry — for whom it will make custom chips, with revenue starting before the end of this calendar year.\n\"I have not had to push my way into hyperscale customers; they've been pulling us in,\" Pialis said, without naming the customers.\nCROWDED DATA CENTER CHIP MARKET\nQualcomm, which has attempted to boost its data-center business multiple times, is re-entering a fast-growing, but hyper-competitive AI market full of large incumbents such as Nvidia , the newly minted Cerebras and other custom chip options including Amazon's Graviton and Google's Axion, Bank of America analysts warned in a client note on Tuesday.",
+    "text_blocks": [
+      "By Anhata Rooprai and Stephen Nellis",
+      "June 24 (Reuters) - Qualcomm said it expects to generate $15 billion in sales from its data center business by 2029 as it moves beyond its core smartphone chips, sending shares more than 12% higher in after-hours trading on Wednesday.",
+      "Chief Financial Officer Akash Palkhiwala said at an investor presentation that the data center business will bring in $5 billion for fiscal 2027, with $1 billion coming from the new custom-chip customers.",
+      "Qualcomm also said it expects $40 billion in revenue from chips outside its smartphone stronghold by 2029, up from previous estimates of $22 billion, and with handsets only making up a third of its chip revenue by then.",
+      "\"We will be truly diversified,\" Palkhiwala said.",
+      "Arm Holdings, which supplies underlying technology for many Qualcomm chips, also rose 5% after the forecast.",
+      "Bank of America analysts had earlier said they expect modest revenue of roughly $2 billion to $5 billion annually from Qualcomm's data center push by fiscal 2027-2028.",
+      "META, MICROSOFT AMONG CUSTOMERS",
+      "Earlier in the day, Qualcomm said Microsoft and Meta Platforms will use its new AI chips and that it will make custom chips for two other unnamed \"hyperscalers.\"",
+      "Qualcomm's shift to AI chips reflects mounting pressure in the smartphone market, which has been squeezed by a memory chip shortage driven by surging demand for AI infrastructure, and major customers such as Apple and Samsung developing chips in-house.",
+      "The chipmaker on Wednesday said Microsoft will use its new category of chips that relies on cheap memory chips used in smartphones and laptops, instead of the pricey high-bandwidth chips used by Nvidia and SRAM memory used by Cerebras Systems.",
+      "The company calls the new category \"High Bandwidth Compute\" or HBC.",
+      "\"That is a tremendous value that we deliver to the industry in terms of performance per cost advantage,\" said Tony Pialis, Qualcomm's data center chief.",
+      "Qualcomm said Meta will use its new CPU called Dragonfly C1000 that it has designed specifically for AI data centers, entering a market where both Arm Holdings and Nvidia are courting customers.",
+      "Pialis also said Qualcomm has won two major customers — called \"hyperscalers\" in the computing industry — for whom it will make custom chips, with revenue starting before the end of this calendar year.",
+      "\"I have not had to push my way into hyperscale customers; they've been pulling us in,\" Pialis said, without naming the customers.",
+      "CROWDED DATA CENTER CHIP MARKET",
+      "Qualcomm, which has attempted to boost its data-center business multiple times, is re-entering a fast-growing, but hyper-competitive AI market full of large incumbents such as Nvidia , the newly minted Cerebras and other custom chip options including Amazon's Graviton and Google's Axion, Bank of America analysts warned in a client note on Tuesday."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-arm-emerge-key-winners-173053631.html",
+    "fetched_at": "2026-06-25T07:01:08.885674-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD and Arm Get Stunning Wall Street Endorsement as New AI Infrastructure Wave Emerges",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAMD (NASDAQ:AMD) and Arm Holdings (NASDAQ:ARM) could see stronger demand from the next phase of artificial intelligence infrastructure as enterprises increasingly deploy standalone CPU racks to support agentic AI workloads, according to a Wednesday analyst note from UBS. The bank raised its outlook on both companies, according to a Wednesday investor report.\nAMD may be positioned to capture a larger share of that market due to its strengths in core density, multithreading capabilities and the long-established x86 software ecosystem. UBS said demand for traditional computing workloads is becoming more important as agentic AI applications expand, while Intel (INTC) could benefit as well if it improves its product roadmap and supply execution.\nAMD received a higher price target of $670, up from $455. UBS also lifted its CPU revenue forecasts, projecting about $23 billion in 2027 and $29 billion in 2028, compared with prior estimates of $21 billion and $27 billion, respectively.\nArm Holdings also received a higher target price of $470 from $260. UBS expects Arm-based architectures to account for roughly 70% of head-node deployments by 2030 and increased its estimate for Arm's standalone CPU revenue opportunity. The firm added that Arm Holdings could also benefit from higher royalty rates as processor core counts continue to rise.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AMD (NASDAQ:AMD) and Arm Holdings (NASDAQ:ARM) could see stronger demand from the next phase of artificial intelligence infrastructure as enterprises increasingly deploy standalone CPU racks to support agentic AI workloads, according to a Wednesday analyst note from UBS. The bank raised its outlook on both companies, according to a Wednesday investor report.",
+      "AMD may be positioned to capture a larger share of that market due to its strengths in core density, multithreading capabilities and the long-established x86 software ecosystem. UBS said demand for traditional computing workloads is becoming more important as agentic AI applications expand, while Intel (INTC) could benefit as well if it improves its product roadmap and supply execution.",
+      "AMD received a higher price target of $670, up from $455. UBS also lifted its CPU revenue forecasts, projecting about $23 billion in 2027 and $29 billion in 2028, compared with prior estimates of $21 billion and $27 billion, respectively.",
+      "Arm Holdings also received a higher target price of $470 from $260. UBS expects Arm-based architectures to account for roughly 70% of head-node deployments by 2030 and increased its estimate for Arm's standalone CPU revenue opportunity. The firm added that Arm Holdings could also benefit from higher royalty rates as processor core counts continue to rise."
+    ],
+    "html": null
+  }
+}
