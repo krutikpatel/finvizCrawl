@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/lululemon-stock-08bb07d8?mod=bar_FV",
+    "fetched_at": "2026-06-26T07:06:27.935260-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Lululemon Went From Darling Stock to Disaster. How to Fix It.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Lululemon Went From Darling Stock to Disaster. How to Fix It.\nNo downward dog jokes, please: Yoga tights pioneer Lululemon Athletica is one of the stock market’s worst performers. It has fallen 45% year to date and 60% over the past five years, good for ninth and 12th worst, respectively, among S&P 500 companies.",
+    "text_blocks": [
+      "Lululemon Went From Darling Stock to Disaster. How to Fix It.",
+      "No downward dog jokes, please: Yoga tights pioneer Lululemon Athletica is one of the stock market’s worst performers. It has fallen 45% year to date and 60% over the past five years, good for ninth and 12th worst, respectively, among S&P 500 companies."
+    ],
+    "html": null
+  }
+}

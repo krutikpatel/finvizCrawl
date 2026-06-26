@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7a280c39-69f3-3474-81b1-797ba34d6589/forget-gpus%3A-amd%2C-nvda%2C-intc%2C.html",
+    "fetched_at": "2026-06-26T07:06:42.762251-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Forget GPUs: AMD, NVDA, INTC, ARM Are Chasing AI's Next Big Prize — The $120B CPU Market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nKindig's thesis hinges on the rise of agentic AI, which differs from traditional chatbot applications in that it handles multiple tasks autonomously and coordinates interactions across tools, APIs, and software systems.\n-\nCiting research from Intel and Georgia Tech, Kindig noted that agentic AI workloads can become heavily constrained by CPUs, with processors accounting for up to 88% of end-to-end latency.\n-\nAs AI models become more capable and GPU performance improves, the bottleneck could increasingly shift toward CPUs, she added.\nThe next big AI opportunity may not belong to GPUs alone, as IO Fund analyst Beth Kindig argues that agentic AI is driving a surge in CPU demand.\nThis could potentially create a server CPU market worth more than $120 billion by 2030, she said, kicking off a race between Advanced Micro Devices Inc. (AMD), Nvidia Corp. (NVDA), Intel Corp. (INTC), and Arm Holdings (ARM).\nNvidia shares were down more than 3% in Friday's opening trade, while AMD shares were down more than 5%. Intel shares fell nearly 6%, while ARM shares were down about 8% at the time of writing.\nThe Shifting AI Narrative\nWhile GPUs remain the engines powering AI inference, Kindig argues that CPUs are becoming the traffic controllers of the AI era.\nAs autonomous agents handle more tasks and interact with more tools, demand for CPU resources could surge, prompting companies from AMD and Intel to Nvidia and Arm to compete for a rapidly expanding market.\n\"It would be a mistake to think the AI trade begins and ends with Nvidia's GPUs. Although GPUs are still the heart of AI compute, agentic AI is placing additional emphasis on making sure those accelerators do not sit idle while the rest of the system catches up,\" Kindig said.\nWhy Agentic AI Could Be A Game-Changer For CPUs\nKindig's thesis hinges on the rise of agentic AI, which differs from traditional chatbot applications by handling multiple tasks autonomously and coordinating interactions across tools, APIs, and software systems.\nCiting research from Intel and Georgia Tech, Kindig noted that agentic AI workloads can become heavily constrained by CPUs, with processors accounting for up to 88% of end-to-end latency. As AI models become more capable and GPU performance improves, the bottleneck could increasingly shift toward CPUs, she added.\nThe $120B Race\nAMD recently doubled its estimate for the server CPU market, projecting it will exceed $120 billion by 2030.",
+    "text_blocks": [
+      "-",
+      "Kindig's thesis hinges on the rise of agentic AI, which differs from traditional chatbot applications in that it handles multiple tasks autonomously and coordinates interactions across tools, APIs, and software systems.",
+      "-",
+      "Citing research from Intel and Georgia Tech, Kindig noted that agentic AI workloads can become heavily constrained by CPUs, with processors accounting for up to 88% of end-to-end latency.",
+      "-",
+      "As AI models become more capable and GPU performance improves, the bottleneck could increasingly shift toward CPUs, she added.",
+      "The next big AI opportunity may not belong to GPUs alone, as IO Fund analyst Beth Kindig argues that agentic AI is driving a surge in CPU demand.",
+      "This could potentially create a server CPU market worth more than $120 billion by 2030, she said, kicking off a race between Advanced Micro Devices Inc. (AMD), Nvidia Corp. (NVDA), Intel Corp. (INTC), and Arm Holdings (ARM).",
+      "Nvidia shares were down more than 3% in Friday's opening trade, while AMD shares were down more than 5%. Intel shares fell nearly 6%, while ARM shares were down about 8% at the time of writing.",
+      "The Shifting AI Narrative",
+      "While GPUs remain the engines powering AI inference, Kindig argues that CPUs are becoming the traffic controllers of the AI era.",
+      "As autonomous agents handle more tasks and interact with more tools, demand for CPU resources could surge, prompting companies from AMD and Intel to Nvidia and Arm to compete for a rapidly expanding market.",
+      "\"It would be a mistake to think the AI trade begins and ends with Nvidia's GPUs. Although GPUs are still the heart of AI compute, agentic AI is placing additional emphasis on making sure those accelerators do not sit idle while the rest of the system catches up,\" Kindig said.",
+      "Why Agentic AI Could Be A Game-Changer For CPUs",
+      "Kindig's thesis hinges on the rise of agentic AI, which differs from traditional chatbot applications by handling multiple tasks autonomously and coordinating interactions across tools, APIs, and software systems.",
+      "Citing research from Intel and Georgia Tech, Kindig noted that agentic AI workloads can become heavily constrained by CPUs, with processors accounting for up to 88% of end-to-end latency. As AI models become more capable and GPU performance improves, the bottleneck could increasingly shift toward CPUs, she added.",
+      "The $120B Race",
+      "AMD recently doubled its estimate for the server CPU market, projecting it will exceed $120 billion by 2030."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-gets-hammered-worst-184524476.html",
+    "fetched_at": "2026-06-26T07:06:17.319067-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stock Gets Hammered as Worst Month in Years Takes Shape",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) shares fell 4% on Thursday as investors shifted away from high-growth software names toward semiconductor stocks, sending the stock to a fresh 52-week low.\nSentiment was further pressured by legal challenges in Switzerland and the loss of a French intelligence contract, raising concerns over overseas government exposure.\nPalantir Technologies (NASDAQ:PLTR) still benefits from strong profitability, solid cash generation, and long-term contracts that support ongoing investment capacity, analysts say. However, Palantir faces uneven growth history and reliance on U.S. revenue, while cost pressures could weigh on margins if execution weakens or contract renewals slow.\nPalantir Technologies valuation concerns persist as investors question its premium multiple amid shifting sector flows. Dependence on government contracts and a heavy U.S. revenue mix add sensitivity to policy changes and procurement cycles, leaving Palantir exposed to volatility if deal momentum slows further.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) shares fell 4% on Thursday as investors shifted away from high-growth software names toward semiconductor stocks, sending the stock to a fresh 52-week low.",
+      "Sentiment was further pressured by legal challenges in Switzerland and the loss of a French intelligence contract, raising concerns over overseas government exposure.",
+      "Palantir Technologies (NASDAQ:PLTR) still benefits from strong profitability, solid cash generation, and long-term contracts that support ongoing investment capacity, analysts say. However, Palantir faces uneven growth history and reliance on U.S. revenue, while cost pressures could weigh on margins if execution weakens or contract renewals slow.",
+      "Palantir Technologies valuation concerns persist as investors question its premium multiple amid shifting sector flows. Dependence on government contracts and a heavy U.S. revenue mix add sensitivity to policy changes and procurement cycles, leaving Palantir exposed to volatility if deal momentum slows further."
+    ],
+    "html": null
+  }
+}

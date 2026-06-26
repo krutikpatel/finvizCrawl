@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-faces-italy-probe-over-112300967.html",
+    "fetched_at": "2026-06-26T07:06:08.640811-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Faces Italy Probe Over AI Pricing",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) is facing a new antitrust probe in Italy over whether it properly informed consumers about Microsoft 365 price increases tied to Copilot and Designer integration.\nItaly's competition authority said it is investigating Microsoft Ireland Operations and Microsoft over alleged unfair commercial practices. The regulator said consumers may not have been clearly told that Microsoft 365 had been integrated with AI services, including Copilot and Designer, before prices increased.\nThe watchdog also said customers appeared to be moved by default to a higher-priced subscription plan unless they exercised their right to withdraw. That could raise consumer-protection concerns if users were not given enough information to properly assess the changes before renewal.\nMicrosoft did not immediately respond to a request for comment. the probe adds another European regulatory headache for Microsoft as it pushes AI deeper into core productivity products. The next thing to watch is whether Italy's investigation leads to fines, required subscription changes or broader EU scrutiny.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) is facing a new antitrust probe in Italy over whether it properly informed consumers about Microsoft 365 price increases tied to Copilot and Designer integration.",
+      "Italy's competition authority said it is investigating Microsoft Ireland Operations and Microsoft over alleged unfair commercial practices. The regulator said consumers may not have been clearly told that Microsoft 365 had been integrated with AI services, including Copilot and Designer, before prices increased.",
+      "The watchdog also said customers appeared to be moved by default to a higher-priced subscription plan unless they exercised their right to withdraw. That could raise consumer-protection concerns if users were not given enough information to properly assess the changes before renewal.",
+      "Microsoft did not immediately respond to a request for comment. the probe adds another European regulatory headache for Microsoft as it pushes AI deeper into core productivity products. The next thing to watch is whether Italy's investigation leads to fines, required subscription changes or broader EU scrutiny."
+    ],
+    "html": null
+  }
+}

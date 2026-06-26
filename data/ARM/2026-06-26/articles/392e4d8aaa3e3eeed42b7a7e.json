@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-amd-intel-lead-chip-175651551.html",
+    "fetched_at": "2026-06-26T07:06:41.022990-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, AMD, Intel Lead Chip Stocks Rally as BofA Calls 'Agentic AI' Game-Changer",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSemiconductor stocks rose on Thursday after Bank of America said agentic AI could open a market worth more than $170 billion for server CPUs by 2030, lifting outlooks for Nvidia (NASDAQ:NVDA), Advanced Micro Devices (NASDAQ:AMD), Intel (NASDAQ:INTC) and Arm Holdings (NASDAQ:ARM), according to a Wednesday research note.\nAMD jumped about 3%, Intel climbed more than 4% and Arm gained over 3% in morning trading, while Nvidia edged up about 1%. The brokerage said CPUs may take on a larger share of AI work as systems move beyond simple prompt responses.\nBank of America raised AMD's target to $560 from $500 and Arm's target to $335 from $245. It also upgraded Intel to Buy and set a $135 target, saying Nvidia remains its top semiconductor pick because of its full-stack AI position.\nThe firm kept Qualcomm (QCOM) at Underperform, even with an expected AI CPU update at its June 24 AI Day. Investors also watched Nvidia's participation in a funding round for German robotics start-up Neura Robotics, which wants to scale production to several million robots a year by 2030.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Semiconductor stocks rose on Thursday after Bank of America said agentic AI could open a market worth more than $170 billion for server CPUs by 2030, lifting outlooks for Nvidia (NASDAQ:NVDA), Advanced Micro Devices (NASDAQ:AMD), Intel (NASDAQ:INTC) and Arm Holdings (NASDAQ:ARM), according to a Wednesday research note.",
+      "AMD jumped about 3%, Intel climbed more than 4% and Arm gained over 3% in morning trading, while Nvidia edged up about 1%. The brokerage said CPUs may take on a larger share of AI work as systems move beyond simple prompt responses.",
+      "Bank of America raised AMD's target to $560 from $500 and Arm's target to $335 from $245. It also upgraded Intel to Buy and set a $135 target, saying Nvidia remains its top semiconductor pick because of its full-stack AI position.",
+      "The firm kept Qualcomm (QCOM) at Underperform, even with an expected AI CPU update at its June 24 AI Day. Investors also watched Nvidia's participation in a funding round for German robotics start-up Neura Robotics, which wants to scale production to several million robots a year by 2030."
+    ],
+    "html": null
+  }
+}

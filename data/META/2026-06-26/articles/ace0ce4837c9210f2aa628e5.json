@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/57c4532c-ceaf-3ccc-9fcc-5a9cb4ee4f9c/meta-stock-drops-for-fourth.html",
+    "fetched_at": "2026-06-26T07:05:41.008332-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "META Stock Drops For Fourth Session: Meta Recruits Cybersecurity Experts To Fortify AI Agents",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nMeta is bringing the three co-founders of AI safety pioneer Virtue AI—Bo Li, Dawn Song, and Sanmi Koyejo—into its Fundamental AI Research (FAIR) Lab.\n-\nThe mass hire targets \"agentic AI\" safety.\n-\nThe talent absorption comes on the heels of major industry disruption, sparked by the Trump administration ordering Anthropic to withdraw or restrict its latest models over national security vulnerabilities.\nMeta Platforms Inc. (META) is absorbing the core founding team of artificial intelligence safety startup Virtue AI, to fortify the company's independent digital \"agents\" against emerging security threats.\nVirtue AI co-founders Bo Li, Dawn Song, and Sanmi Koyejo will join Meta's highly regarded Fundamental AI Research (FAIR) Lab, according to an internal company memorandum obtained by Axios. The prominent AI safety researchers are moving to Meta alongside several other team members from the startup.\nThe hiring spree marks an escalating arms race in Silicon Valley to secure specialized cybersecurity talent capable of defending autonomous systems. Unlike traditional chatbots, next-generation \"agentic\" AI systems can perform complex multi-step tasks across the internet without human intervention, exposing them to unprecedented hacking vulnerabilities.\n\"As we ship AI products to billions of people and build increasingly capable agents, keeping those systems safe, reliable, and trustworthy is foundational,\" Meta stated in the internal communication, Axios reported on Thursday.\nThe financial terms of the arrangement were not disclosed, nor was it immediately clear if Virtue AI would continue to operate as an independent entity or if the move constituted a formal \"acqui-hire\" of its engineering core.\nWashington's AI Security Crackdown\nThe sudden recruitment of Virtue AI's leadership comes at a tumultuous period for frontier artificial intelligence labs, which are caught between rapid technological pivots and an increasingly assertive federal government.\nTech giants are shifting focus away from large language models that simply generate text, moving instead toward agentic AI, which is completely autonomous and works with little human oversight. This has pushed federal regulators to demand higher scrutiny of these agents.\nThe regulatory environment has intensified significantly following actions by the Trump administration. Earlier this month, the U.S. Commerce Department's Bureau of Industry and Security issued an emergency directive ordering Anthropic to restrict foreign national access to its advanced Fable 5 and Mythos 5 models.",
+    "text_blocks": [
+      "-",
+      "Meta is bringing the three co-founders of AI safety pioneer Virtue AI—Bo Li, Dawn Song, and Sanmi Koyejo—into its Fundamental AI Research (FAIR) Lab.",
+      "-",
+      "The mass hire targets \"agentic AI\" safety.",
+      "-",
+      "The talent absorption comes on the heels of major industry disruption, sparked by the Trump administration ordering Anthropic to withdraw or restrict its latest models over national security vulnerabilities.",
+      "Meta Platforms Inc. (META) is absorbing the core founding team of artificial intelligence safety startup Virtue AI, to fortify the company's independent digital \"agents\" against emerging security threats.",
+      "Virtue AI co-founders Bo Li, Dawn Song, and Sanmi Koyejo will join Meta's highly regarded Fundamental AI Research (FAIR) Lab, according to an internal company memorandum obtained by Axios. The prominent AI safety researchers are moving to Meta alongside several other team members from the startup.",
+      "The hiring spree marks an escalating arms race in Silicon Valley to secure specialized cybersecurity talent capable of defending autonomous systems. Unlike traditional chatbots, next-generation \"agentic\" AI systems can perform complex multi-step tasks across the internet without human intervention, exposing them to unprecedented hacking vulnerabilities.",
+      "\"As we ship AI products to billions of people and build increasingly capable agents, keeping those systems safe, reliable, and trustworthy is foundational,\" Meta stated in the internal communication, Axios reported on Thursday.",
+      "The financial terms of the arrangement were not disclosed, nor was it immediately clear if Virtue AI would continue to operate as an independent entity or if the move constituted a formal \"acqui-hire\" of its engineering core.",
+      "Washington's AI Security Crackdown",
+      "The sudden recruitment of Virtue AI's leadership comes at a tumultuous period for frontier artificial intelligence labs, which are caught between rapid technological pivots and an increasingly assertive federal government.",
+      "Tech giants are shifting focus away from large language models that simply generate text, moving instead toward agentic AI, which is completely autonomous and works with little human oversight. This has pushed federal regulators to demand higher scrutiny of these agents.",
+      "The regulatory environment has intensified significantly following actions by the Trump administration. Earlier this month, the U.S. Commerce Department's Bureau of Industry and Security issued an emergency directive ordering Anthropic to restrict foreign national access to its advanced Fable 5 and Mythos 5 models."
+    ],
+    "html": null
+  }
+}

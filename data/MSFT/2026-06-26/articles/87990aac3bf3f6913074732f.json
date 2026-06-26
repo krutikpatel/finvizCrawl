@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/veteran-bank-cuts-microsoft-stock-113755772.html",
+    "fetched_at": "2026-06-26T07:06:08.484571-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Veteran Bank Cuts Microsoft Stock Price Target on AI Spending Concerns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) could face increasing pressure on profitability as artificial intelligence-related infrastructure spending continues to rise, according to a research note issued by Stifel on Wednesday.\nStifel analyst Brad Reback lowered his price target on Microsoft to $400, citing concerns that current Wall Street forecasts may not fully account for the financial impact of expanding AI and cloud infrastructure investments, according to a Wednesday research note.\nThe analyst said Microsoft is likely to experience margin pressure as it scales Azure and other AI services. Reback projects fiscal 2027 gross margin of about 63%, below the broader analyst consensus estimate of 66.5%. He attributed the gap largely to higher capital expenditures and depreciation costs tied to building and operating AI-focused data centers.\nStifel also said consensus earnings estimates for fiscal 2027 may be too high. The firm pointed to rising finance lease obligations, continued operating expense growth, and ongoing infrastructure investments as factors that could weigh on future earnings performance.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) could face increasing pressure on profitability as artificial intelligence-related infrastructure spending continues to rise, according to a research note issued by Stifel on Wednesday.",
+      "Stifel analyst Brad Reback lowered his price target on Microsoft to $400, citing concerns that current Wall Street forecasts may not fully account for the financial impact of expanding AI and cloud infrastructure investments, according to a Wednesday research note.",
+      "The analyst said Microsoft is likely to experience margin pressure as it scales Azure and other AI services. Reback projects fiscal 2027 gross margin of about 63%, below the broader analyst consensus estimate of 66.5%. He attributed the gap largely to higher capital expenditures and depreciation costs tied to building and operating AI-focused data centers.",
+      "Stifel also said consensus earnings estimates for fiscal 2027 may be too high. The firm pointed to rising finance lease obligations, continued operating expense growth, and ongoing infrastructure investments as factors that could weigh on future earnings performance."
+    ],
+    "html": null
+  }
+}

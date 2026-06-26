@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/samsung-sk-hynix-slide-9-124450516.html",
+    "fetched_at": "2026-06-26T07:05:36.085040-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Samsung, SK Hynix Slide 9% Before $646 Billion Investment Update",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSamsung Electronics (SSNLF) and SK Hynix (HXSCL) could be preparing one of South Korea's biggest investment announcements yet, as local media reported Samsung Group may unveil a 1,000 trillion won, or $646 billion, spending plan over the next decade. The expected announcement is set to come during a Monday presidential briefing hosted by President Lee Jae Myung, where senior leaders from Samsung and SK Hynix are expected to join discussions around semiconductors, AI data centers, and physical AI.\nThe timing may matter for investors because both chipmakers just suffered a sharp pullback. Samsung and SK Hynix each dropped more than 9% on Friday during a broader semiconductor selloff, with Apple price hikes and a report about a possible OpenAI listing delay weighing on the sector. Lombard Odier strategist Homin Lee pushed back against the idea that the upcoming capex announcements drove the decline, arguing that capacity expansion could support market share leadership and long-term demand stability.\nSK Hynix has already pointed to plans to expand production capacity as AI and broader tech demand continue to drive appetite for memory chips. Chairman Chey Tae-won has said he wants to double capacity over the next half decade, while Samsung has reported record sales and profits in recent quarters on booming memory demand. Samsung Executive Chairman Jay Y. Lee is also expected to unveil a data center investment plan in Asan on July 2, according to Maeil, potentially adding another signal that South Korea's chip giants are leaning harder into the AI supply chain.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Samsung Electronics (SSNLF) and SK Hynix (HXSCL) could be preparing one of South Korea's biggest investment announcements yet, as local media reported Samsung Group may unveil a 1,000 trillion won, or $646 billion, spending plan over the next decade. The expected announcement is set to come during a Monday presidential briefing hosted by President Lee Jae Myung, where senior leaders from Samsung and SK Hynix are expected to join discussions around semiconductors, AI data centers, and physical AI.",
+      "The timing may matter for investors because both chipmakers just suffered a sharp pullback. Samsung and SK Hynix each dropped more than 9% on Friday during a broader semiconductor selloff, with Apple price hikes and a report about a possible OpenAI listing delay weighing on the sector. Lombard Odier strategist Homin Lee pushed back against the idea that the upcoming capex announcements drove the decline, arguing that capacity expansion could support market share leadership and long-term demand stability.",
+      "SK Hynix has already pointed to plans to expand production capacity as AI and broader tech demand continue to drive appetite for memory chips. Chairman Chey Tae-won has said he wants to double capacity over the next half decade, while Samsung has reported record sales and profits in recent quarters on booming memory demand. Samsung Executive Chairman Jay Y. Lee is also expected to unveil a data center investment plan in Asan on July 2, according to Maeil, potentially adding another signal that South Korea's chip giants are leaning harder into the AI supply chain."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6b4f2f53-a3ff-3c9e-9537-33e2a05696c2/micron-beats-meta-in-market.html",
+    "fetched_at": "2026-06-26T07:05:40.713594-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Technology briefly overtook Meta Platforms and nearly matched Tesla's market value on Thursday, June 25, after a fiscal third-quarter earnings report showed revenue climbing 346% year over year to $41.5 billion.\nThe result sent shares up 18.4% to $1,236, giving Micron a market capitalization of $1.398 trillion. Meta sat at $1.392 trillion. Tesla held just above at $1.4 trillion. It was the first time in Micron's history that it had topped either company.\nMemory's Nvidia Moment\nMicron's ascent is drawing similar comparisons to Nvidia's trajectory after it became the defining hardware name of the AI computing era. Where Nvidia's graphics processing units became the essential compute layer for training AI models, memory chips have emerged as the next critical bottleneck. Without high-bandwidth memory (HBM), even the most powerful AI processors cannot function at scale.\nThe comparison to Nvidia's rise has gained traction on Wall Street, where at least six banks raised price targets ahead of earnings, each citing the same thesis: AI memory demand is structurally outrunning supply well into 2028.\nThe numbers behind these targets justify that confidence. Adjusted gross margins reached 84.9% in the May quarter, up from 39% a year earlier. For context, Micron posted margins of roughly negative 33% just three years ago. The company now forecasts margins of 86% in the current quarter.\n$22 Billion in Locked Supply\nThe company disclosed that customers have committed $22 billion in upfront deposits to secure memory chip supply across contracts running three to five years.\nThat model breaks sharply from memory's historical boom-and-bust dynamic, where prices would crater whenever capacity builds hit the market faster than demand arrived. AI data center operators are now paying premiums to guarantee access, a behavior more typical of commodity scarcity than cyclical chip markets.\nMicron is the only US-based manufacturer of HBM chips used alongside Nvidia's AI processors. Samsung and South Korea's SK Hynix are its only peers at scale globally. As BeInCrypto reported, SK Hynix recently overtook Samsung as South Korea's most valuable listed company, itself propelled by the same AI memory wave.\nThe four largest US technology companies, Amazon, Meta, Microsoft, and Alphabet, are set to spend a combined $725 billion on AI infrastructure this year. Every server in those build-outs depends on the memory Micron and its rivals produce.\nRipple Effects Beyond Chips\nThe tightening supply has consequences beyond Wall Street rankings. Apple's share price fell nearly 6% on Thursday. This comes after the company raised prices across its Mac and iPad lines, attributing the increases directly to the memory shortage Micron is helping create.",
+    "text_blocks": [
+      "Micron Technology briefly overtook Meta Platforms and nearly matched Tesla's market value on Thursday, June 25, after a fiscal third-quarter earnings report showed revenue climbing 346% year over year to $41.5 billion.",
+      "The result sent shares up 18.4% to $1,236, giving Micron a market capitalization of $1.398 trillion. Meta sat at $1.392 trillion. Tesla held just above at $1.4 trillion. It was the first time in Micron's history that it had topped either company.",
+      "Memory's Nvidia Moment",
+      "Micron's ascent is drawing similar comparisons to Nvidia's trajectory after it became the defining hardware name of the AI computing era. Where Nvidia's graphics processing units became the essential compute layer for training AI models, memory chips have emerged as the next critical bottleneck. Without high-bandwidth memory (HBM), even the most powerful AI processors cannot function at scale.",
+      "The comparison to Nvidia's rise has gained traction on Wall Street, where at least six banks raised price targets ahead of earnings, each citing the same thesis: AI memory demand is structurally outrunning supply well into 2028.",
+      "The numbers behind these targets justify that confidence. Adjusted gross margins reached 84.9% in the May quarter, up from 39% a year earlier. For context, Micron posted margins of roughly negative 33% just three years ago. The company now forecasts margins of 86% in the current quarter.",
+      "$22 Billion in Locked Supply",
+      "The company disclosed that customers have committed $22 billion in upfront deposits to secure memory chip supply across contracts running three to five years.",
+      "That model breaks sharply from memory's historical boom-and-bust dynamic, where prices would crater whenever capacity builds hit the market faster than demand arrived. AI data center operators are now paying premiums to guarantee access, a behavior more typical of commodity scarcity than cyclical chip markets.",
+      "Micron is the only US-based manufacturer of HBM chips used alongside Nvidia's AI processors. Samsung and South Korea's SK Hynix are its only peers at scale globally. As BeInCrypto reported, SK Hynix recently overtook Samsung as South Korea's most valuable listed company, itself propelled by the same AI memory wave.",
+      "The four largest US technology companies, Amazon, Meta, Microsoft, and Alphabet, are set to spend a combined $725 billion on AI infrastructure this year. Every server in those build-outs depends on the memory Micron and its rivals produce.",
+      "Ripple Effects Beyond Chips",
+      "The tightening supply has consequences beyond Wall Street rankings. Apple's share price fell nearly 6% on Thursday. This comes after the company raised prices across its Mac and iPad lines, attributing the increases directly to the memory shortage Micron is helping create."
+    ],
+    "html": null
+  }
+}

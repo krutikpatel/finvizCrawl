@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-goldman-cautious-outperforming-intel-153414830.html",
+    "fetched_at": "2026-06-26T07:06:13.001449-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Goldman is cautious on outperforming Intel stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Goldman Sachs initiated coverage of Intel with a Neutral rating and a 12-month price target of $150, acknowledging clear tailwinds in server CPUs and foundry optionality but arguing that the stock's recent run has already priced in much of the upside.\nAnalyst James Schneider said in a note to clients that the bank expects Intel to benefit from rising server demand driven by agentic AI, and sees meaningful upside potential in its foundry business, with advanced packaging revenue forecast to reach $10 billion by 2030 and external wafer revenue inflecting higher by 2028.\nHowever, the bank cautioned that \"Intel's closest peers with better revenue visibility are trading in-line or well below the stock on 2030 price-to-earnings,\" pointing to Nvidia, Broadcom and AMD as more compelling opportunities.\nGoldman said agentic AI could drive GPU-to-CPU attach rates down from 2x to 1.1 to 1.4x over time, benefiting Intel, given the stickiness of its x86 architecture in enterprise environments.\nHowever, the bank still expects AMD to gain share \"given a stronger medium-term product roadmap.\"\nOn valuation, Goldman described risk/reward as \"relatively balanced at current levels,\" with its bull/bear analysis showing a skew of just 1.1 to 1 in favor of upside.\nThe bank said Buy-rated peers Nvidia, Broadcom and AMD offer \"better revenue visibility\" at comparable or lower multiples, leaving Intel with little relative appeal despite an otherwise constructive fundamental backdrop.\nRelated articles\nWhy Goldman is cautious on outperforming Intel stock\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- Goldman Sachs initiated coverage of Intel with a Neutral rating and a 12-month price target of $150, acknowledging clear tailwinds in server CPUs and foundry optionality but arguing that the stock's recent run has already priced in much of the upside.",
+      "Analyst James Schneider said in a note to clients that the bank expects Intel to benefit from rising server demand driven by agentic AI, and sees meaningful upside potential in its foundry business, with advanced packaging revenue forecast to reach $10 billion by 2030 and external wafer revenue inflecting higher by 2028.",
+      "However, the bank cautioned that \"Intel's closest peers with better revenue visibility are trading in-line or well below the stock on 2030 price-to-earnings,\" pointing to Nvidia, Broadcom and AMD as more compelling opportunities.",
+      "Goldman said agentic AI could drive GPU-to-CPU attach rates down from 2x to 1.1 to 1.4x over time, benefiting Intel, given the stickiness of its x86 architecture in enterprise environments.",
+      "However, the bank still expects AMD to gain share \"given a stronger medium-term product roadmap.\"",
+      "On valuation, Goldman described risk/reward as \"relatively balanced at current levels,\" with its bull/bear analysis showing a skew of just 1.1 to 1 in favor of upside.",
+      "The bank said Buy-rated peers Nvidia, Broadcom and AMD offer \"better revenue visibility\" at comparable or lower multiples, leaving Intel with little relative appeal despite an otherwise constructive fundamental backdrop.",
+      "Related articles",
+      "Why Goldman is cautious on outperforming Intel stock",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

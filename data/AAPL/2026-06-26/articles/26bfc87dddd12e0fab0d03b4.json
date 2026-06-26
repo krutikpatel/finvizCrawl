@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/apple-stock-mac-price-hikes-iphone-prices-0efc0839?mod=bar_FV",
+    "fetched_at": "2026-06-26T07:05:34.410952-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Can Get Away With Mac Price Hikes, but iPhone Is the Real Test<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple Can Get Away With Mac Price Hikes, but iPhone Is the Real Test\nApple stock was finding its footing on Friday after a sharp drop triggered by price increases for its Macs and iPads. But the true test is likely to come when the company raises what it charges for an iPhone, analysts say.",
+    "text_blocks": [
+      "Apple Can Get Away With Mac Price Hikes, but iPhone Is the Real Test",
+      "Apple stock was finding its footing on Friday after a sharp drop triggered by price increases for its Macs and iPads. But the true test is likely to come when the company raises what it charges for an iPhone, analysts say."
+    ],
+    "html": null
+  }
+}

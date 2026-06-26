@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/solar-power-stock-bright-future-69125145?mod=bar_FV",
+    "fetched_at": "2026-06-26T07:05:29.795725-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This Solar Power Stock Still Has a Bright Future<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This Solar Power Stock Still Has a Bright Future\nFor years, solar energy companies have benefited from tax breaks worth at least 30% of the value of their projects—a perk that convinced hundreds of thousands of people to install panels on their roofs and drove utilities to set up solar arrays in fields all over the country.",
+    "text_blocks": [
+      "This Solar Power Stock Still Has a Bright Future",
+      "For years, solar energy companies have benefited from tax breaks worth at least 30% of the value of their projects—a perk that convinced hundreds of thousands of people to install panels on their roofs and drove utilities to set up solar arrays in fields all over the country."
+    ],
+    "html": null
+  }
+}

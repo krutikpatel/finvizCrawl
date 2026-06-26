@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/exclusive-apple-supplier-tata-tightens-103525535.html",
+    "fetched_at": "2026-06-26T07:05:28.542195-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Exclusive-Apple supplier Tata tightens internal controls after data breach, sources say",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Munsif Vengattil and Aditya Kalra\nNEW DELHI, June 26 (Reuters) - Tata Electronics, a key Indian supplier to Apple, has restricted internal access to sensitive systems as it investigates a leak of thousands of secret client files on the dark web, a Tata source and two industry officials said.\nTata has also hired a global consultant to conduct a forensic audit and has reported the incident to the Indian government and its clients, said the Tata source, declining to be named given the sensitivity of the matter.\nReuters reported this week that ransomware group World Leaks posted more than 200,000 files to the dark web, including purported component design papers from Apple and Tesla, both of which are Tata clients. Reuters could not verify the authenticity of the data.\nTata has said it had identified a \"cybersecurity incident\" and there was no impact on operations, without providing additional details.\nReuters found that the leak also contains at least 16 files and folders of purported documents from Taiwan Semiconductor Manufacturing Co (TSMC) and 23 from Qualcomm, both of which make parts used in iPhones.\nAfter it detected the breach, Tata Electronics tightened internal security protocols at all its facilities and offices to restrict remote access to sensitive internal tools, such as those used to place purchase orders, only to select employees, said the Tata source and two people briefed on the matter.\nEarlier, access to such internal tools was more liberal, the Tata source said, adding that while work-from-home is still allowed, \"only select people have remote access\" to such tools. The changes apply to Tata Electronics broadly and are not restricted to a few factories.\n\"Tata Electronics has hardened access to its sensitive internal systems,\" the Tata source said. \"The investigation is ongoing.\"\nTata Electronics, Apple, TSMC and Qualcomm did not respond to Reuters queries. All sources cited in this article declined to be named given the sensitivity of the matter.\nThe Indian Computer Emergency Response Team, a unit under India's IT ministry that received the Tata incident report, also did not respond.\nAPPLE WORKING WITH TATA\nOne of the industry officials added that tighter controls included making Tata's official network access more strictly regulated when employees access it from outside the company's facilities.\nApple's security team is working closely with Tata on near- and long-term measures following the incident, the person added.\nReuters is first to report details on the internal process changes and the forensic investigation at Tata Electronics.",
+    "text_blocks": [
+      "By Munsif Vengattil and Aditya Kalra",
+      "NEW DELHI, June 26 (Reuters) - Tata Electronics, a key Indian supplier to Apple, has restricted internal access to sensitive systems as it investigates a leak of thousands of secret client files on the dark web, a Tata source and two industry officials said.",
+      "Tata has also hired a global consultant to conduct a forensic audit and has reported the incident to the Indian government and its clients, said the Tata source, declining to be named given the sensitivity of the matter.",
+      "Reuters reported this week that ransomware group World Leaks posted more than 200,000 files to the dark web, including purported component design papers from Apple and Tesla, both of which are Tata clients. Reuters could not verify the authenticity of the data.",
+      "Tata has said it had identified a \"cybersecurity incident\" and there was no impact on operations, without providing additional details.",
+      "Reuters found that the leak also contains at least 16 files and folders of purported documents from Taiwan Semiconductor Manufacturing Co (TSMC) and 23 from Qualcomm, both of which make parts used in iPhones.",
+      "After it detected the breach, Tata Electronics tightened internal security protocols at all its facilities and offices to restrict remote access to sensitive internal tools, such as those used to place purchase orders, only to select employees, said the Tata source and two people briefed on the matter.",
+      "Earlier, access to such internal tools was more liberal, the Tata source said, adding that while work-from-home is still allowed, \"only select people have remote access\" to such tools. The changes apply to Tata Electronics broadly and are not restricted to a few factories.",
+      "\"Tata Electronics has hardened access to its sensitive internal systems,\" the Tata source said. \"The investigation is ongoing.\"",
+      "Tata Electronics, Apple, TSMC and Qualcomm did not respond to Reuters queries. All sources cited in this article declined to be named given the sensitivity of the matter.",
+      "The Indian Computer Emergency Response Team, a unit under India's IT ministry that received the Tata incident report, also did not respond.",
+      "APPLE WORKING WITH TATA",
+      "One of the industry officials added that tighter controls included making Tata's official network access more strictly regulated when employees access it from outside the company's facilities.",
+      "Apple's security team is working closely with Tata on near- and long-term measures following the incident, the person added.",
+      "Reuters is first to report details on the internal process changes and the forensic investigation at Tata Electronics."
+    ],
+    "html": null
+  }
+}

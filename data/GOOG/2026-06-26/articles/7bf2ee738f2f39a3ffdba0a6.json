@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/meta-snap-face-australia-youth-111822579.html",
+    "fetched_at": "2026-06-26T07:06:01.921960-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta and Snap Face Australia Youth Crackdown",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META), Snap (NYSE:SNAP), Alphabet (NASDAQ:GOOG) and other social media companies face tougher scrutiny in Australia as Prime Minister Anthony Albanese moves to strengthen the country's under-16 social media ban.\nAlbanese told the Australian Broadcasting Corporation that the government wants the law to be as strong as possible and able to withstand legal challenges. He said the ban is aimed at pushing back against the power of global platforms and addressing the real human consequences of children's social media use.\nThe review comes amid doubts over enforcement. Australia's eSafety Commissioner Julie Inman Grant has said the law was drafted quickly and lacks strong enough tools. In March, her office said most children still retained social media accounts, while a BMJ study found more than 85% of under-16 participants continued using platforms despite the ban.\nCompanies face fines of up to A$49.5 million for non-compliance, but none have been issued so far. the risk is that youth-safety rules keep tightening globally. The next thing to watch is whether Australia gives regulators stronger enforcement powers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META), Snap (NYSE:SNAP), Alphabet (NASDAQ:GOOG) and other social media companies face tougher scrutiny in Australia as Prime Minister Anthony Albanese moves to strengthen the country's under-16 social media ban.",
+      "Albanese told the Australian Broadcasting Corporation that the government wants the law to be as strong as possible and able to withstand legal challenges. He said the ban is aimed at pushing back against the power of global platforms and addressing the real human consequences of children's social media use.",
+      "The review comes amid doubts over enforcement. Australia's eSafety Commissioner Julie Inman Grant has said the law was drafted quickly and lacks strong enough tools. In March, her office said most children still retained social media accounts, while a BMJ study found more than 85% of under-16 participants continued using platforms despite the ban.",
+      "Companies face fines of up to A$49.5 million for non-compliance, but none have been issued so far. the risk is that youth-safety rules keep tightening globally. The next thing to watch is whether Australia gives regulators stronger enforcement powers."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/three-reasons-palo-alto-networks-stock-is-falling-in-the-face-of-upbeat-earnings-7ded9f15?mod=mw_FV",
+    "fetched_at": "2026-06-26T07:06:37.864935-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "3 reasons why Palo Alto Networks’ stock fell despite upbeat earnings - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\n3 reasons why Palo Alto Networks’ stock fell despite upbeat earnings\nAnalysts attribute the stock drop to profit-taking, the timing of AI contributions and changes to reporting conventions\nPalo Alto Networks posted better-than-expected results for the latest quarter on Tuesday. So did shares of the cybersecurity company fall on Wednesday?\nAnalysts have a few theories, one of which simply relates to recent stock momentum ahead of earnings.",
+    "text_blocks": [
+      "Tech Stocks",
+      "3 reasons why Palo Alto Networks’ stock fell despite upbeat earnings",
+      "Analysts attribute the stock drop to profit-taking, the timing of AI contributions and changes to reporting conventions",
+      "Palo Alto Networks posted better-than-expected results for the latest quarter on Tuesday. So did shares of the cybersecurity company fall on Wednesday?",
+      "Analysts have a few theories, one of which simply relates to recent stock momentum ahead of earnings."
+    ],
+    "html": null
+  }
+}

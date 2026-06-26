@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/aws-raising-gpu-instance-prices-134420295.html",
+    "fetched_at": "2026-06-26T07:06:20.669114-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AWS raising GPU instance prices 20% on July 1",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Amazon's (NASDAQ:AMZN) AWS will raise prices on its EC2 Capacity Block reservations for machine-learning GPU instances by approximately 20% effective July 1, 2026, citing supply and demand dynamics in a posting to its official documentation page.\nThe new hourly rates per accelerator span AWS's most powerful Nvidia-powered instance families: the P6-B300 will be billed at $14.04, the P6-B200 at $12.355, the P5 (US regions) at $5.191, the P5 (non-US) at $4.72, the P5e at $5.97, the P5en (US) at $6.865, the P5en (non-US) at $6.241, and the P4de (US) at $2.214. All other EC2 prices remain unchanged, according to the AWS documentation.\n\"Amazon EC2 Capacity Blocks for ML reservation prices are updated periodically based on supply and demand,\" the company said on its pricing page.\nThe hike lands at a moment of sustained, surging enterprise appetite for GPU compute. AWS revenue climbed 28% year-over-year to $37.6 billion in the first quarter of 2026, the cloud unit's fastest growth rate in more than three years, a pace that gave AWS considerable pricing leverage with customers locked into AI training and inference workloads. Amazon has committed roughly $200 billion in capital expenditure in 2026 to AI infrastructure, and Reuters reported in March 2026 that Amazon is set to receive 1 million Nvidia GPU chips by end-2027 under a cloud supply agreement — a deal that underscores just how supply-constrained the high-end GPU market remains.\nCapacity Blocks for ML are a reserved-capacity product that lets enterprises secure scarce GPU instances on a future date for time-bound workloads, typically large-scale model training. Because the product is reservation-based, customers have been willing to pay a premium over spot-market rates for the guarantee of availability; the new rates represent a significant step-up in that premium. For context, P6-B200 on-demand rates for an eight-GPU node were already running at roughly $14.24 per hour for the full node ahead of this change, per pricing analysis from Spheron Network published on June 20.\nFor Nvidia, the pricing action is a dual-edged signal. The tight supply of P5 and P6 instances, which are built on Nvidia's Blackwell (B200, B300) and Hopper (H100) GPU architectures, confirms robust end-market demand for Nvidia silicon. Yet rising reservation costs could prompt some AWS customers to evaluate alternatives, including Nvidia-powered offerings on rival clouds or Google Cloud's TPU-based instances, which Alphabet has been actively marketing as a cost-competitive option.",
+    "text_blocks": [
+      "Investing.com -- Amazon's (NASDAQ:AMZN) AWS will raise prices on its EC2 Capacity Block reservations for machine-learning GPU instances by approximately 20% effective July 1, 2026, citing supply and demand dynamics in a posting to its official documentation page.",
+      "The new hourly rates per accelerator span AWS's most powerful Nvidia-powered instance families: the P6-B300 will be billed at $14.04, the P6-B200 at $12.355, the P5 (US regions) at $5.191, the P5 (non-US) at $4.72, the P5e at $5.97, the P5en (US) at $6.865, the P5en (non-US) at $6.241, and the P4de (US) at $2.214. All other EC2 prices remain unchanged, according to the AWS documentation.",
+      "\"Amazon EC2 Capacity Blocks for ML reservation prices are updated periodically based on supply and demand,\" the company said on its pricing page.",
+      "The hike lands at a moment of sustained, surging enterprise appetite for GPU compute. AWS revenue climbed 28% year-over-year to $37.6 billion in the first quarter of 2026, the cloud unit's fastest growth rate in more than three years, a pace that gave AWS considerable pricing leverage with customers locked into AI training and inference workloads. Amazon has committed roughly $200 billion in capital expenditure in 2026 to AI infrastructure, and Reuters reported in March 2026 that Amazon is set to receive 1 million Nvidia GPU chips by end-2027 under a cloud supply agreement — a deal that underscores just how supply-constrained the high-end GPU market remains.",
+      "Capacity Blocks for ML are a reserved-capacity product that lets enterprises secure scarce GPU instances on a future date for time-bound workloads, typically large-scale model training. Because the product is reservation-based, customers have been willing to pay a premium over spot-market rates for the guarantee of availability; the new rates represent a significant step-up in that premium. For context, P6-B200 on-demand rates for an eight-GPU node were already running at roughly $14.24 per hour for the full node ahead of this change, per pricing analysis from Spheron Network published on June 20.",
+      "For Nvidia, the pricing action is a dual-edged signal. The tight supply of P5 and P6 instances, which are built on Nvidia's Blackwell (B200, B300) and Hopper (H100) GPU architectures, confirms robust end-market demand for Nvidia silicon. Yet rising reservation costs could prompt some AWS customers to evaluate alternatives, including Nvidia-powered offerings on rival clouds or Google Cloud's TPU-based instances, which Alphabet has been actively marketing as a cost-competitive option."
+    ],
+    "html": null
+  }
+}

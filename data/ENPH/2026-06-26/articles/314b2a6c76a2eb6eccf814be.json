@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+    "fetched_at": "2026-06-26T07:05:49.964599-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/20991379-e31b-34a5-a750-593d47e5719e/analyst-report%3A-enphase.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

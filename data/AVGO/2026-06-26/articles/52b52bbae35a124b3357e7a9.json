@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-once-explored-100b-chip-100000719.html",
+    "fetched_at": "2026-06-26T07:06:11.303042-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia once explored a $100B chip deal with OpenAI. Now OpenAI is building its own chips from scratch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia once explored a $100B chip deal with OpenAI. Now OpenAI is building its own chips from scratch\nOpenAI is now a chipmaker. That could cause headaches for Nvidia, another major chipmaking firm that cultivated close ties with OpenAI as a top chip supplier.\nOn Wednesday, the AI start-up and Broadcom jointly announced the development of a custom AI chip called Jalapeño. The companies said the chip was built from scratch for inference, which is the ability for large-language models to handle user requests or questions in products like OpenAI's ChatGPT.\nMust Read\n-\nRobert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this 'explosion'\n-\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — here are 5 ways to build wealth like a landlord without actually being one\n-\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\nIt was the latest move for OpenAI in its effort to build a homegrown stack to support its growing range of AI models, products and hardware. It could also reduce OpenAI's dependence on semiconductors from Nvidia, as more tech companies peel off to design their own chips that challenge the dominance of the most valuable publicly-traded company.\nOpenAI President and co-founder Greg Brockman said the Jalapeño chip would pave the way for quicker deployment of reliable AI that's more affordable for consumers and businesses.\n\"By designing more of the stack ourselves, we can serve more intelligence with greater efficiency and keep pushing advanced AI toward broader access,\" Brockman said in a news release. (1)\nLast October, OpenAI inked a deal (2) with the California-based Broadcom chipmaker to partner in developing in-house chips that could power its slate of products like ChatGPT. OpenAI said at the time it planned to use enough homegrown chips to consume ten gigawatts of electricity, enough energy to power millions of homes. To better understand the scale of energy consumption in play: Each nuclear reactor, for example, produces roughly one gigawatt of electricity, per the Department of Energy. (3)\nBroadcom President and CEO Hock Tan said the partnership with OpenAI would be a critical piece in building out the physical infrastructure to sustain AI for the next decade.\n\"By co-developing our industry-leading silicon directly with OpenAI, we are enabling the deployment of gigawatt scale data centers with Microsoft and other partners beginning in 2026,\" Tan said. The announcement didn't list a release date for the Jalapeño chip.",
+    "text_blocks": [
+      "Nvidia once explored a $100B chip deal with OpenAI. Now OpenAI is building its own chips from scratch",
+      "OpenAI is now a chipmaker. That could cause headaches for Nvidia, another major chipmaking firm that cultivated close ties with OpenAI as a top chip supplier.",
+      "On Wednesday, the AI start-up and Broadcom jointly announced the development of a custom AI chip called Jalapeño. The companies said the chip was built from scratch for inference, which is the ability for large-language models to handle user requests or questions in products like OpenAI's ChatGPT.",
+      "Must Read",
+      "-",
+      "Robert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this 'explosion'",
+      "-",
+      "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — here are 5 ways to build wealth like a landlord without actually being one",
+      "-",
+      "Millionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going",
+      "It was the latest move for OpenAI in its effort to build a homegrown stack to support its growing range of AI models, products and hardware. It could also reduce OpenAI's dependence on semiconductors from Nvidia, as more tech companies peel off to design their own chips that challenge the dominance of the most valuable publicly-traded company.",
+      "OpenAI President and co-founder Greg Brockman said the Jalapeño chip would pave the way for quicker deployment of reliable AI that's more affordable for consumers and businesses.",
+      "\"By designing more of the stack ourselves, we can serve more intelligence with greater efficiency and keep pushing advanced AI toward broader access,\" Brockman said in a news release. (1)",
+      "Last October, OpenAI inked a deal (2) with the California-based Broadcom chipmaker to partner in developing in-house chips that could power its slate of products like ChatGPT. OpenAI said at the time it planned to use enough homegrown chips to consume ten gigawatts of electricity, enough energy to power millions of homes. To better understand the scale of energy consumption in play: Each nuclear reactor, for example, produces roughly one gigawatt of electricity, per the Department of Energy. (3)",
+      "Broadcom President and CEO Hock Tan said the partnership with OpenAI would be a critical piece in building out the physical infrastructure to sustain AI for the next decade.",
+      "\"By co-developing our industry-leading silicon directly with OpenAI, we are enabling the deployment of gigawatt scale data centers with Microsoft and other partners beginning in 2026,\" Tan said. The announcement didn't list a release date for the Jalapeño chip."
+    ],
+    "html": null
+  }
+}

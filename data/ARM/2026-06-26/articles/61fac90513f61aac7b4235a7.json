@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/heres-why-shares-in-softbank-no-longer-japans-most-valuable-have-fallen-by-a-fifth-in-the-last-week-e38d5812?mod=mw_FV",
+    "fetched_at": "2026-06-26T07:06:41.746797-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last week - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last week\nSoftBank’s creditors appear reluctant to lend against its holdings in OpenAI.\nAfter an emphatically bullish start to 2026, Japan’s largest stock by market capitalization until last week has suddenly reversed course.\nSoftBank shares have declined by more than a fifth in the last five trading sessions as speculation about its difficulty in raising a loan coincides with some stuttering in the overall narrative forAI-related technology stocks.",
+    "text_blocks": [
+      "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last week",
+      "SoftBank’s creditors appear reluctant to lend against its holdings in OpenAI.",
+      "After an emphatically bullish start to 2026, Japan’s largest stock by market capitalization until last week has suddenly reversed course.",
+      "SoftBank shares have declined by more than a fifth in the last five trading sessions as speculation about its difficulty in raising a loan coincides with some stuttering in the overall narrative forAI-related technology stocks."
+    ],
+    "html": null
+  }
+}

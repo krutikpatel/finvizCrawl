@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026/card/stocks-to-watch-on-semiconductor-apple-zalando-HXVpEfOkkyL0ye8xKqqr?mod=wsj_FV",
+    "fetched_at": "2026-06-26T07:05:43.375991-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: ON Semiconductor, Apple, Zalando",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 16 min ago\nStocks to Watch: ON Semiconductor, Apple, Zalando\n↘️ ON Semiconductor (ON): The chip maker agreed to acquire Synaptics (SYNA) in a roughly $7 billion all-stock transaction, as it seeks to push into physical AI. Shares of ON Semiconductor tumbled 19%, while Synaptics’ stock fell 2%.\n↘️ Micron Technology (MU), Sandisk (SNDK), Seagate Technology (STX): Chip stocks and memory makers lost ground, putting them on track to give up gains made yesterday after Micron reported blockbuster quarterly results.\n↗️ Apple (AAPL): Shares of the iPhone maker ticked higher. The stock slid more than 6% yesterday after the company raised the prices of its Macs and iPads.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 16 min ago",
+      "Stocks to Watch: ON Semiconductor, Apple, Zalando",
+      "↘️ ON Semiconductor (ON): The chip maker agreed to acquire Synaptics (SYNA) in a roughly $7 billion all-stock transaction, as it seeks to push into physical AI. Shares of ON Semiconductor tumbled 19%, while Synaptics’ stock fell 2%.",
+      "↘️ Micron Technology (MU), Sandisk (SNDK), Seagate Technology (STX): Chip stocks and memory makers lost ground, putting them on track to give up gains made yesterday after Micron reported blockbuster quarterly results.",
+      "↗️ Apple (AAPL): Shares of the iPhone maker ticked higher. The stock slid more than 6% yesterday after the company raised the prices of its Macs and iPads."
+    ],
+    "html": null
+  }
+}

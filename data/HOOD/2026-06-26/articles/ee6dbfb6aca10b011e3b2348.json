@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashes-below-60-000-165954362.html",
+    "fetched_at": "2026-06-26T07:05:53.055789-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bitcoin Crashes Below $60,000 as Crypto Stocks Enter Free Fall",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBitcoin extended its selloff on Wednesday, dropping more than 5% in 24 hours to about $59,360, a move that left the token down roughly 10% over the past week and nearly 23% over the past month. The slide put fresh pressure on Bitcoin-related shares.\nBitcoin weakneswas tied in part to continued withdrawals from spot ETFs and heavier institutional selling. Reuters said investors have also been shifting money toward AI-linked stocks and upcoming megacap listings, which has made Bitcoin less attractive in the near term.\nCrypto stocks moved lower with Bitcoin, with Strategy (NASDAQ:MSTR), Applied Digital (NASDAQ:APLD), IREN (NASDAQ:IREN), Cipher Mining (CIFR), CleanSpark (CLSK), BitMine Immersion Technologies (NYSE:BMNR), Coinbase Global (NASDAQ:COIN), Robinhood Markets (HOOD) and Circle Internet Group (CRCL) all under pressure. The selloff showed how quickly Bitcoin can drag related equities lower when sentiment turns.\nBitcoin's decline also comes as the broader crypto trade loses momentum after a strong run into late 2025. Reuters said Bitcoin has lost about a third of its value so far in 2026, while capital has continued flowing into semiconductors and AI infrastructure names.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Bitcoin extended its selloff on Wednesday, dropping more than 5% in 24 hours to about $59,360, a move that left the token down roughly 10% over the past week and nearly 23% over the past month. The slide put fresh pressure on Bitcoin-related shares.",
+      "Bitcoin weakneswas tied in part to continued withdrawals from spot ETFs and heavier institutional selling. Reuters said investors have also been shifting money toward AI-linked stocks and upcoming megacap listings, which has made Bitcoin less attractive in the near term.",
+      "Crypto stocks moved lower with Bitcoin, with Strategy (NASDAQ:MSTR), Applied Digital (NASDAQ:APLD), IREN (NASDAQ:IREN), Cipher Mining (CIFR), CleanSpark (CLSK), BitMine Immersion Technologies (NYSE:BMNR), Coinbase Global (NASDAQ:COIN), Robinhood Markets (HOOD) and Circle Internet Group (CRCL) all under pressure. The selloff showed how quickly Bitcoin can drag related equities lower when sentiment turns.",
+      "Bitcoin's decline also comes as the broader crypto trade loses momentum after a strong run into late 2025. Reuters said Bitcoin has lost about a third of its value so far in 2026, while capital has continued flowing into semiconductors and AI infrastructure names."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
+    "fetched_at": "2026-06-26T07:05:36.521637-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Iain Withers and Stella Qiu\nLONDON/SYDNEY, June 26 (Reuters) - Global stocks slipped on Friday after Apple price hikes fuelled wider concerns over the inflationary impact of spending by tech giants, while oil prices dropped towards their lowest in four months despite difficulties reopening the Strait of Hormuz.\nApple said Thursday it could no longer shield customers from soaring memory and storage chip costs, and while its shares were steadier in premarket trading on Friday, that came after Thursday's 6% fall. A media report that OpenAI was considering delaying its IPO until next year also dampened the stock market mood.\nOil futures fell more than 3% and were heading for steep weekly losses as more stranded tankers exited the Strait of Hormuz, even though a cargo vessel was hit near Oman on Thursday. Saudi Aramco resumed loadings on Friday at its Ras Tanura terminal in the Gulf after a near four-month halt, in a further likely boost to supply. [O/R]\nEuropean stocks were down nearly 1%, with a near 2% fall in tech while Wall Street futures pointed to falls of 0.5% to 1.1%.\nSteep declines in Asia were led by tech stocks, with MSCI's index of Asian stocks outside Japan down 3%. South Korea's KOSPI was down as much as 9% at one point, triggering a circuit breaker.\n\"There's a bit of concern in the market about the spenders, the hyperscalers... and what's going to happen to the return on invested capital from all this expenditure,\" said Nutshell Asset Management CIO Mark Ellis, adding that while the short-term impact was inflationary, he believed prices should come down in the long run due to improved efficiencies.\nApple's price increases tempered investor enthusiasm about a blowout earnings report from chipmaker Micron this week.\nAnalysts also said month-end and quarter-end rebalancing flows might have contributed to choppy prices in big tech stocks, which have outperformed for much of the second quarter.\nYEN WEAK\nThe yen teetered near its weakest level against the dollar in 40 years at 161.62, beyond the 160 level that many see as a line in the sand for Japanese authorities.\nIt found little relief even as a U.S. inflation reading met forecasts and traders trimmed bets for a Federal Reserve rate hike in September.\nSeparate data also showed the U.S. economy grew faster than previously estimated in the first quarter thanks to a downward revision to imports, but consumer spending almost stalled, casting doubt on growth momentum in the second quarter.\nThe dollar index, which measures its strength against a basket of six major peers, slipped 0.3% to 101.2, but remained not far from its strongest level since May 2025.",
+    "text_blocks": [
+      "By Iain Withers and Stella Qiu",
+      "LONDON/SYDNEY, June 26 (Reuters) - Global stocks slipped on Friday after Apple price hikes fuelled wider concerns over the inflationary impact of spending by tech giants, while oil prices dropped towards their lowest in four months despite difficulties reopening the Strait of Hormuz.",
+      "Apple said Thursday it could no longer shield customers from soaring memory and storage chip costs, and while its shares were steadier in premarket trading on Friday, that came after Thursday's 6% fall. A media report that OpenAI was considering delaying its IPO until next year also dampened the stock market mood.",
+      "Oil futures fell more than 3% and were heading for steep weekly losses as more stranded tankers exited the Strait of Hormuz, even though a cargo vessel was hit near Oman on Thursday. Saudi Aramco resumed loadings on Friday at its Ras Tanura terminal in the Gulf after a near four-month halt, in a further likely boost to supply. [O/R]",
+      "European stocks were down nearly 1%, with a near 2% fall in tech while Wall Street futures pointed to falls of 0.5% to 1.1%.",
+      "Steep declines in Asia were led by tech stocks, with MSCI's index of Asian stocks outside Japan down 3%. South Korea's KOSPI was down as much as 9% at one point, triggering a circuit breaker.",
+      "\"There's a bit of concern in the market about the spenders, the hyperscalers... and what's going to happen to the return on invested capital from all this expenditure,\" said Nutshell Asset Management CIO Mark Ellis, adding that while the short-term impact was inflationary, he believed prices should come down in the long run due to improved efficiencies.",
+      "Apple's price increases tempered investor enthusiasm about a blowout earnings report from chipmaker Micron this week.",
+      "Analysts also said month-end and quarter-end rebalancing flows might have contributed to choppy prices in big tech stocks, which have outperformed for much of the second quarter.",
+      "YEN WEAK",
+      "The yen teetered near its weakest level against the dollar in 40 years at 161.62, beyond the 160 level that many see as a line in the sand for Japanese authorities.",
+      "It found little relief even as a U.S. inflation reading met forecasts and traders trimmed bets for a Federal Reserve rate hike in September.",
+      "Separate data also showed the U.S. economy grew faster than previously estimated in the first quarter thanks to a downward revision to imports, but consumer spending almost stalled, casting doubt on growth momentum in the second quarter.",
+      "The dollar index, which measures its strength against a basket of six major peers, slipped 0.3% to 101.2, but remained not far from its strongest level since May 2025."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/bofa-lifts-targets-amd-arm-120912826.html",
+    "fetched_at": "2026-06-26T07:06:40.986343-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BofA lifts targets on AMD and ARM, raises CPU TAM to $170bn",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Bank of America has raised its 2030 server CPU total addressable market estimate to more than $170 billion from $125 billion, arguing that agentic AI is driving a near-fivefold expansion in CPU demand and lifting price objectives across several semiconductor names.\nAnalyst Vivek Arya said in a note on Thursday that the emergence of agentic AI represents \"a powerful demand accelerant that expands the CPU opportunity and lifts both x86 incumbents and ARM challengers,\" implying a 37% compound annual growth rate over 2025 to 2030.\nAMD's price target was raised to $560 from $500 on higher CPU and GPU estimates, while ARM's target was lifted to $335 from $245 on greater long-term chiplet potential.\nIntel received a double upgrade to Buy with a $135 price target, reflecting both near-term CPU and long-term foundry upsides.\nBofA said agentic AI differs from traditional generative AI by shifting from a single prompt-response workflow to a multi-step system that plans, reasons, retrieves information, and executes code simultaneously.\nWhile accelerators remain critical for inference, Arya noted that orchestration and decision-making functions are \"latency-sensitive, sequential, and I/O-intensive — making them better suited for CPUs.\"\nAMD was named BofA's top CPU pick on incumbency, pipeline strength, and an upcoming AI day featuring the Venice launch.\nNvidia remains the firm's top overall sector pick \"on full-stack AI leadership.\" Qualcomm was kept at Underperform despite an expected AI CPU announcement at its June 24 AI Day, with BofA citing \"tough competition and limited SAM.\"\nRelated articles\nBofA lifts targets on AMD and ARM, raises CPU TAM to $170bn\nWolfe Research outlines eight risks that could spark stock declines in 2026\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- Bank of America has raised its 2030 server CPU total addressable market estimate to more than $170 billion from $125 billion, arguing that agentic AI is driving a near-fivefold expansion in CPU demand and lifting price objectives across several semiconductor names.",
+      "Analyst Vivek Arya said in a note on Thursday that the emergence of agentic AI represents \"a powerful demand accelerant that expands the CPU opportunity and lifts both x86 incumbents and ARM challengers,\" implying a 37% compound annual growth rate over 2025 to 2030.",
+      "AMD's price target was raised to $560 from $500 on higher CPU and GPU estimates, while ARM's target was lifted to $335 from $245 on greater long-term chiplet potential.",
+      "Intel received a double upgrade to Buy with a $135 price target, reflecting both near-term CPU and long-term foundry upsides.",
+      "BofA said agentic AI differs from traditional generative AI by shifting from a single prompt-response workflow to a multi-step system that plans, reasons, retrieves information, and executes code simultaneously.",
+      "While accelerators remain critical for inference, Arya noted that orchestration and decision-making functions are \"latency-sensitive, sequential, and I/O-intensive — making them better suited for CPUs.\"",
+      "AMD was named BofA's top CPU pick on incumbency, pipeline strength, and an upcoming AI day featuring the Venice launch.",
+      "Nvidia remains the firm's top overall sector pick \"on full-stack AI leadership.\" Qualcomm was kept at Underperform despite an expected AI CPU announcement at its June 24 AI Day, with BofA citing \"tough competition and limited SAM.\"",
+      "Related articles",
+      "BofA lifts targets on AMD and ARM, raises CPU TAM to $170bn",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

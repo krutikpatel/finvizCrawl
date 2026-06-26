@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/the-ai-boom-now-has-a-price-tag--and-micron-just-sent-the-bill-chart-of-the-day-100000526.html",
+    "fetched_at": "2026-06-26T07:06:01.929796-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI boom now has a price tag — and Micron just sent the bill: Chart of the Day",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron's blowout earnings did not just revive the AI trade. They showed how expensive it is becoming.\nThe memory chipmaker is getting paid first because AI demand is running into a supply bottleneck. The harder question is who pays next: Big Tech, device buyers, cloud customers, AI users, or the broader economy.\nThat question is why Micron (MU) stock can surge and still look cheap on Wall Street's profit forecasts.\nA price-to-earnings ratio, or P/E, compares a stock's price with a company's profits. Lower P/E ratios mean investors are paying less for each dollar of profit.\nMicron trades at about 9 times Wall Street's expected profits over the next 12 months, according to Bloomberg and Yahoo Finance data. That is below Nvidia (NVDA), below the S&P 500 (^GSPC), and below Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (META) in the chart above.\nThe reason is simple. Analysts expect Micron's profits to explode.\nMicron guided for roughly $50 billion in quarterly revenue and about $31 in adjusted earnings per share for its fiscal fourth quarter, both well above Wall Street expectations. The company also posted gross margin of 84.9% and said margins could rise to roughly 86% next quarter as the memory bottleneck gets tighter.\nBut Micron's profit boom is not created in a vacuum.\nIt is Apple's component cost. It is Nvidia customers' build-out cost. It is Big Tech's cloud and AI infrastructure cost. The AI trade works if those companies can push that bill into higher device prices, higher software revenue, better ads, or real productivity gains.\nApple is already showing one version of that pressure. The stock fell 6% Thursday — the most in over a year — after the company raised prices on some Macs and iPads, which makes Micron's pricing power great for suppliers and uncomfortable for buyers.\nFor Microsoft, Amazon, and Alphabet, the bill travels through a different channel.\nThey are spending heavily on AI infrastructure, then trying to recover that cost through cloud usage, enterprise software, subscriptions, ads, and AI tools. If customers pay up, the spending can turn into growth. If they push back, the cost shows up in margins and depreciation.\nThe broader tape is already asking that question. The Magnificent Seven fell Thursday after Micron's report and is back near levels first reached roughly nine months ago — a long stall for a group that still carries the AI trade.\nIn an ideal world, the final payer has to be productivity itself.\nIf AI helps companies automate more, sell more, and defend margins, today's hardware bill can be absorbed. But if the payoff is delayed or overstated, the cycle can still break the old way: Customers slow orders, supply catches up, and pricing power rolls over.",
+    "text_blocks": [
+      "Micron's blowout earnings did not just revive the AI trade. They showed how expensive it is becoming.",
+      "The memory chipmaker is getting paid first because AI demand is running into a supply bottleneck. The harder question is who pays next: Big Tech, device buyers, cloud customers, AI users, or the broader economy.",
+      "That question is why Micron (MU) stock can surge and still look cheap on Wall Street's profit forecasts.",
+      "A price-to-earnings ratio, or P/E, compares a stock's price with a company's profits. Lower P/E ratios mean investors are paying less for each dollar of profit.",
+      "Micron trades at about 9 times Wall Street's expected profits over the next 12 months, according to Bloomberg and Yahoo Finance data. That is below Nvidia (NVDA), below the S&P 500 (^GSPC), and below Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (META) in the chart above.",
+      "The reason is simple. Analysts expect Micron's profits to explode.",
+      "Micron guided for roughly $50 billion in quarterly revenue and about $31 in adjusted earnings per share for its fiscal fourth quarter, both well above Wall Street expectations. The company also posted gross margin of 84.9% and said margins could rise to roughly 86% next quarter as the memory bottleneck gets tighter.",
+      "But Micron's profit boom is not created in a vacuum.",
+      "It is Apple's component cost. It is Nvidia customers' build-out cost. It is Big Tech's cloud and AI infrastructure cost. The AI trade works if those companies can push that bill into higher device prices, higher software revenue, better ads, or real productivity gains.",
+      "Apple is already showing one version of that pressure. The stock fell 6% Thursday — the most in over a year — after the company raised prices on some Macs and iPads, which makes Micron's pricing power great for suppliers and uncomfortable for buyers.",
+      "For Microsoft, Amazon, and Alphabet, the bill travels through a different channel.",
+      "They are spending heavily on AI infrastructure, then trying to recover that cost through cloud usage, enterprise software, subscriptions, ads, and AI tools. If customers pay up, the spending can turn into growth. If they push back, the cost shows up in margins and depreciation.",
+      "The broader tape is already asking that question. The Magnificent Seven fell Thursday after Micron's report and is back near levels first reached roughly nine months ago — a long stall for a group that still carries the AI trade.",
+      "In an ideal world, the final payer has to be productivity itself.",
+      "If AI helps companies automate more, sell more, and defend margins, today's hardware bill can be absorbed. But if the payoff is delayed or overstated, the cycle can still break the old way: Customers slow orders, supply catches up, and pricing power rolls over."
+    ],
+    "html": null
+  }
+}

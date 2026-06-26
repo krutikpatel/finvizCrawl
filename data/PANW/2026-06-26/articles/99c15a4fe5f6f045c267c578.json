@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b7beef4c-6103-3fbe-8268-7fcfd56bd021/palo-alto-networks-just-had-a.html",
+    "fetched_at": "2026-06-26T07:06:38.135641-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks Just Had a Monster Quarter. So Why Is Wall Street Nervous?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The cybersecurity giant is riding the AI wave for all its worth, but the real question is whether this is a new growth era or just a temporary hardware high.\nPalo Alto Networks (PANW) just dropped the kind of quarter that should have investors cheering. Revenue hit $3 billion, earnings per share of $0.85 beat estimates, and the company raised its full-year guidance. Yet, the stock slipped in pre-market trading. What gives?\nThe hesitation stems from the nature of the boom itself. Palo Alto proved the AI-driven security boom is very real, but investors are now weighing whether this spectacular, hardware-fueled growth can transition into a sustainable software-led future.\nImage by Cliff Hang from Pixabay\nThe AI Boom Has a Sound: Racking Servers\nLet's be clear, the good news was spectacular. The company reported its \"strongest hardware performance in a decade,\" with bookings for its next-generation firewalls jumping nearly 40% year-over-year. This surge goes beyond a typical refresh cycle. Management pointed directly to demand from AI data center build-outs, a completely new and hungry class of buyers. As the CEO noted, the explosion of data centers for training AI models is creating a \"multiyear tailwind\" for the kind of high-speed traffic inspection that is Palo Alto's bread and butter.\nIt's Not Just The Boxes\nBut selling more physical appliances was only part of the story. The company's newer, software-based offerings are also firing. Next-Generation Security ARR, a key metric for recurring revenue, grew an eye-watering 60% year over year to $8.1 billion. Prisma AIRS, a product for securing AI applications that didn't exist a year ago, is now the company's \"fastest-growing product ever,\" tripling its customer count to over 300 in the quarter. This is the evidence that the company's big bet on becoming a unified security platform - and moving beyond its origins as a firewall vendor - is gaining traction.\nThe Morning After\nSo, with all that momentum, why the long face from the market? Because growth this fast, especially when fueled by major acquisitions like CyberArk and Chronosphere, comes with a hefty price tag and significant execution risk. While adjusted profits looked good, the company posted a GAAP operating loss of $183 million. Integrating massive new businesses is hard work, and management admitted they still have to \"toil through migrating our Prisma Cloud customers to Cortex Cloud.\" This is the messy part of a big strategic pivot, and it creates uncertainty.",
+    "text_blocks": [
+      "The cybersecurity giant is riding the AI wave for all its worth, but the real question is whether this is a new growth era or just a temporary hardware high.",
+      "Palo Alto Networks (PANW) just dropped the kind of quarter that should have investors cheering. Revenue hit $3 billion, earnings per share of $0.85 beat estimates, and the company raised its full-year guidance. Yet, the stock slipped in pre-market trading. What gives?",
+      "The hesitation stems from the nature of the boom itself. Palo Alto proved the AI-driven security boom is very real, but investors are now weighing whether this spectacular, hardware-fueled growth can transition into a sustainable software-led future.",
+      "Image by Cliff Hang from Pixabay",
+      "The AI Boom Has a Sound: Racking Servers",
+      "Let's be clear, the good news was spectacular. The company reported its \"strongest hardware performance in a decade,\" with bookings for its next-generation firewalls jumping nearly 40% year-over-year. This surge goes beyond a typical refresh cycle. Management pointed directly to demand from AI data center build-outs, a completely new and hungry class of buyers. As the CEO noted, the explosion of data centers for training AI models is creating a \"multiyear tailwind\" for the kind of high-speed traffic inspection that is Palo Alto's bread and butter.",
+      "It's Not Just The Boxes",
+      "But selling more physical appliances was only part of the story. The company's newer, software-based offerings are also firing. Next-Generation Security ARR, a key metric for recurring revenue, grew an eye-watering 60% year over year to $8.1 billion. Prisma AIRS, a product for securing AI applications that didn't exist a year ago, is now the company's \"fastest-growing product ever,\" tripling its customer count to over 300 in the quarter. This is the evidence that the company's big bet on becoming a unified security platform - and moving beyond its origins as a firewall vendor - is gaining traction.",
+      "The Morning After",
+      "So, with all that momentum, why the long face from the market? Because growth this fast, especially when fueled by major acquisitions like CyberArk and Chronosphere, comes with a hefty price tag and significant execution risk. While adjusted profits looked good, the company posted a GAAP operating loss of $183 million. Integrating massive new businesses is hard work, and management admitted they still have to \"toil through migrating our Prisma Cloud customers to Cortex Cloud.\" This is the messy part of a big strategic pivot, and it creates uncertainty."
+    ],
+    "html": null
+  }
+}

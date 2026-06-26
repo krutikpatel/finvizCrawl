@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/3754dbc6-8433-3683-aa51-5e9a258113b1/broadcom-built-openai%E2%80%99s-first.html",
+    "fetched_at": "2026-06-26T07:06:12.980720-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Broadcom (AVGO) and OpenAI have unveiled Jalapeño, OpenAI's first custom AI chip, and the launch gives the Broadcom-OpenAI partnership a central seat in the AI infrastructure race.\nYet positioning data tells a more cautious story, because money flow and relative strength show large investors quietly favoring rivals like Micron and AMD, even as the headlines belong to Broadcom.\nJalapeño Validates Broadcom's Whole AI Strategy\nOpenAI designed Jalapeño from scratch for large-language-model inference, and Broadcom built it. The chip went from design to manufacturing tape-out in just nine months, which the companies call the fastest such cycle ever in advanced semiconductors. OpenAI's own models helped speed up the design.\nThat speed matters because it proves the bet Broadcom has made in its AI business. Broadcom does not sell ready-made AI chips like Nvidia (NVDA). Instead, it co-designs custom chips, known as ASICs, for a single customer and earns design and manufacturing fees.\nJalapeño shows that the model can deliver a frontier chip fast. Every major AI lab now has a reason to design its own chip with Broadcom rather than only buy Nvidia GPUs.\nBroadcom CEO Hock Tan said that the launch \"validates very well the business model\" that every \"model maker\" and \"frontier model developer\" will eventually design and build their own silicon, simply because \"they can do it much better.\"\nThe numbers behind it are large. Early testing shows performance per watt \"substantially better\" than the current state of the art, and the platform is set for gigawatt-scale deployment with Microsoft and other partners starting late 2026.\nSo the catalyst is real, and the Broadcom stock narrative is strong. The flow data, however, does not fully agree.\nMoney Flow Favors Micron and AMD, Not Broadcom\nDespite the headline, AVGO is lagging its own sector. Its relative strength, measured against the chip benchmark SOXX at 100, is 53.6, so the stock is underperforming the group even on its big news day.\nThe reason sits in the flow data. Chaikin Money Flow (CMF), a proxy for institutional buying and selling pressure, reads -0.006 for AVGO. A negative number signals distribution, meaning more money is leaving the stock than entering it.\nThe contrast with peers is the real tell. CMF reads +0.169 for AMD and +0.076 for Micron (MU), both firmly in accumulation. The Micron stock might be getting all the post-earnings beat attention.\nBig money is rotating into the chipmakers tied to the memory and GPU build-out, not into Broadcom.",
+    "text_blocks": [
+      "Broadcom (AVGO) and OpenAI have unveiled Jalapeño, OpenAI's first custom AI chip, and the launch gives the Broadcom-OpenAI partnership a central seat in the AI infrastructure race.",
+      "Yet positioning data tells a more cautious story, because money flow and relative strength show large investors quietly favoring rivals like Micron and AMD, even as the headlines belong to Broadcom.",
+      "Jalapeño Validates Broadcom's Whole AI Strategy",
+      "OpenAI designed Jalapeño from scratch for large-language-model inference, and Broadcom built it. The chip went from design to manufacturing tape-out in just nine months, which the companies call the fastest such cycle ever in advanced semiconductors. OpenAI's own models helped speed up the design.",
+      "That speed matters because it proves the bet Broadcom has made in its AI business. Broadcom does not sell ready-made AI chips like Nvidia (NVDA). Instead, it co-designs custom chips, known as ASICs, for a single customer and earns design and manufacturing fees.",
+      "Jalapeño shows that the model can deliver a frontier chip fast. Every major AI lab now has a reason to design its own chip with Broadcom rather than only buy Nvidia GPUs.",
+      "Broadcom CEO Hock Tan said that the launch \"validates very well the business model\" that every \"model maker\" and \"frontier model developer\" will eventually design and build their own silicon, simply because \"they can do it much better.\"",
+      "The numbers behind it are large. Early testing shows performance per watt \"substantially better\" than the current state of the art, and the platform is set for gigawatt-scale deployment with Microsoft and other partners starting late 2026.",
+      "So the catalyst is real, and the Broadcom stock narrative is strong. The flow data, however, does not fully agree.",
+      "Money Flow Favors Micron and AMD, Not Broadcom",
+      "Despite the headline, AVGO is lagging its own sector. Its relative strength, measured against the chip benchmark SOXX at 100, is 53.6, so the stock is underperforming the group even on its big news day.",
+      "The reason sits in the flow data. Chaikin Money Flow (CMF), a proxy for institutional buying and selling pressure, reads -0.006 for AVGO. A negative number signals distribution, meaning more money is leaving the stock than entering it.",
+      "The contrast with peers is the real tell. CMF reads +0.169 for AMD and +0.076 for Micron (MU), both firmly in accumulation. The Micron stock might be getting all the post-earnings beat attention.",
+      "Big money is rotating into the chipmakers tied to the memory and GPU build-out, not into Broadcom."
+    ],
+    "html": null
+  }
+}

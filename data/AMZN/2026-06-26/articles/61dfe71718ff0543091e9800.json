@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/alphabet-stock-dow-verizon-cfbae7ab?mod=bar_FV",
+    "fetched_at": "2026-06-26T07:06:28.070421-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Joined the Dow—and It Didn’t Help. What to Do With the Stock Now.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Alphabet Joined the Dow—and It Didn’t Help. What to Do With the Stock Now.\nThere is little or no boost from being added to the Dow. Often, the opposite happens.\nAlphabet has gone from AI loser to winner and back again, and its addition to the Dow Jones Industrial Average this past week has only seemed to make things worse. But there are plenty of reasons to be patient with the suddenly out-of-favor stock.",
+    "text_blocks": [
+      "Alphabet Joined the Dow—and It Didn’t Help. What to Do With the Stock Now.",
+      "There is little or no boost from being added to the Dow. Often, the opposite happens.",
+      "Alphabet has gone from AI loser to winner and back again, and its addition to the Dow Jones Industrial Average this past week has only seemed to make things worse. But there are plenty of reasons to be patient with the suddenly out-of-favor stock."
+    ],
+    "html": null
+  }
+}
