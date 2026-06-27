@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-tops-oversold-mega-cap-154248214.html",
+    "fetched_at": "2026-06-27T07:00:23.820423-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Tops Oversold Mega Cap Tech List",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir (NASDAQ:PLTR) is topping a list of oversold mega-cap tech stocks after a broader risk-off move hit global growth names and dragged down some of the market's biggest technology leaders, as per Seeking Alpha.\nThe stock posted a Relative Strength Index reading of 27, the lowest among the group.\nAn RSI below 30 is usually viewed as a technical signal that a stock may be oversold and could be due for a rebound, though it does not guarantee a turn. Microsoft (NASDAQ:MSFT) followed with an RSI of 29, while Oracle (ORCL) and Apple (NASDAQ:AAPL) came in at 31 and 32. Nvidia (NASDAQ:NVDA) rounded out the top five with an RSI of 40.\nThe setup matters because Palantir has been one of the market's most closely watched AI stocks, making it more sensitive to shifts in growth appetite and valuation concerns. When investors pull back from high-multiple tech names, strong AI narratives can move sharply.\nPalantir's RSI suggests selling pressure has become stretched, but the next test is whether buyers step in as risk appetite stabilizes.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir (NASDAQ:PLTR) is topping a list of oversold mega-cap tech stocks after a broader risk-off move hit global growth names and dragged down some of the market's biggest technology leaders, as per Seeking Alpha.",
+      "The stock posted a Relative Strength Index reading of 27, the lowest among the group.",
+      "An RSI below 30 is usually viewed as a technical signal that a stock may be oversold and could be due for a rebound, though it does not guarantee a turn. Microsoft (NASDAQ:MSFT) followed with an RSI of 29, while Oracle (ORCL) and Apple (NASDAQ:AAPL) came in at 31 and 32. Nvidia (NASDAQ:NVDA) rounded out the top five with an RSI of 40.",
+      "The setup matters because Palantir has been one of the market's most closely watched AI stocks, making it more sensitive to shifts in growth appetite and valuation concerns. When investors pull back from high-multiple tech names, strong AI narratives can move sharply.",
+      "Palantir's RSI suggests selling pressure has become stretched, but the next test is whether buyers step in as risk appetite stabilizes."
+    ],
+    "html": null
+  }
+}

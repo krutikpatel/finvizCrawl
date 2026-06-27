@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apple-seeks-approval-buy-chips-032619573.html",
+    "fetched_at": "2026-06-27T07:00:09.290809-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 26 (Reuters) - Apple is lobbying the Trump administration for clearance to buy memory chips from ChangXin Memory Technologies, a Chinese company the Pentagon has put on a blacklist, the Financial Times reported on Friday.\nThe iPhone maker has lobbied the White House for approval aimed at easing financial pressure on the company from rising memory chip prices, the newspaper said, citing unnamed sources.\nThe White House, Apple and CXMT did not respond to requests for comment from Reuters outside business hours.\nThe lobbying push underscores the bind facing major U.S. technology companies as soaring memory chip costs collide with Washington's national security restrictions on Chinese chipmakers.\nApple approached the Commerce Department more than a month ago and also engaged other administration officials and allies in Washington, one person told the FT.\nCXMT, China's top memory chipmaker, was designated as a Chinese military company by the Defense Department under the Biden administration. The company, among others, was approved by an interagency committee last year for addition to the Commerce Department's Entity List.\nU.S. companies cannot ship goods, software and technology to companies on the list without a license, which is likely to be denied.\nApple raised iPad and MacBook prices on Thursday, saying it could no longer shield customers from soaring memory and storage chip costs driven by the AI industry's data center buildout.\n(Reporting by Disha Mishra in Bengaluru; Editing by Jacqueline Wong and William Mallard)",
+    "text_blocks": [
+      "June 26 (Reuters) - Apple is lobbying the Trump administration for clearance to buy memory chips from ChangXin Memory Technologies, a Chinese company the Pentagon has put on a blacklist, the Financial Times reported on Friday.",
+      "The iPhone maker has lobbied the White House for approval aimed at easing financial pressure on the company from rising memory chip prices, the newspaper said, citing unnamed sources.",
+      "The White House, Apple and CXMT did not respond to requests for comment from Reuters outside business hours.",
+      "The lobbying push underscores the bind facing major U.S. technology companies as soaring memory chip costs collide with Washington's national security restrictions on Chinese chipmakers.",
+      "Apple approached the Commerce Department more than a month ago and also engaged other administration officials and allies in Washington, one person told the FT.",
+      "CXMT, China's top memory chipmaker, was designated as a Chinese military company by the Defense Department under the Biden administration. The company, among others, was approved by an interagency committee last year for addition to the Commerce Department's Entity List.",
+      "U.S. companies cannot ship goods, software and technology to companies on the list without a license, which is likely to be denied.",
+      "Apple raised iPad and MacBook prices on Thursday, saying it could no longer shield customers from soaring memory and storage chip costs driven by the AI industry's data center buildout.",
+      "(Reporting by Disha Mishra in Bengaluru; Editing by Jacqueline Wong and William Mallard)"
+    ],
+    "html": null
+  }
+}

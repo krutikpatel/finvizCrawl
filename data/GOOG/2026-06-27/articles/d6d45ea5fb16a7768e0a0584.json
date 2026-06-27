@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/ftc-gives-musk-ok-acquire-003834597.html",
+    "fetched_at": "2026-06-27T07:00:26.267936-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Elon Musk is eyeing an acquisition of Mesh Optical Technologies, a startup founded by three former SpaceX engineers last year developing hardware for fast data center communications.\nThe potential acquisition, which was revealed in a Federal Trade Commission filing and first reported by Bloomberg, confirmed the agency expedited its antitrust review.\nMesh Optical came out of stealth in February when it announced that it raised a $50 million Series A led by Thrive Capital.\nBefore founding Mesh Optical, the startup's co-founders, Travis Brashears, Cameron Ramos, and Serena Grown-Haeberli, developed the optical communication links that keep thousands of SpaceX's Starlink satellites interconnected.\nThe Mesh co-founders saw an opportunity to develop optical transceivers for terrestrial data centers, as light-based hardware is faster and more energy-efficient than traditional electrical-based systems.\nSpaceX has recently entered into agreements with Anthropic, Google, and the open-source AI developer Reflection AI to provide them with compute capacity at its data centers, generating a substantial new revenue stream for the newly public company. Acquiring Mesh could eventually allow SpaceX to improve the efficiency of its data centers, whether they are located on Earth or, in the future, in space.",
+    "text_blocks": [
+      "Elon Musk is eyeing an acquisition of Mesh Optical Technologies, a startup founded by three former SpaceX engineers last year developing hardware for fast data center communications.",
+      "The potential acquisition, which was revealed in a Federal Trade Commission filing and first reported by Bloomberg, confirmed the agency expedited its antitrust review.",
+      "Mesh Optical came out of stealth in February when it announced that it raised a $50 million Series A led by Thrive Capital.",
+      "Before founding Mesh Optical, the startup's co-founders, Travis Brashears, Cameron Ramos, and Serena Grown-Haeberli, developed the optical communication links that keep thousands of SpaceX's Starlink satellites interconnected.",
+      "The Mesh co-founders saw an opportunity to develop optical transceivers for terrestrial data centers, as light-based hardware is faster and more energy-efficient than traditional electrical-based systems.",
+      "SpaceX has recently entered into agreements with Anthropic, Google, and the open-source AI developer Reflection AI to provide them with compute capacity at its data centers, generating a substantial new revenue stream for the newly public company. Acquiring Mesh could eventually allow SpaceX to improve the efficiency of its data centers, whether they are located on Earth or, in the future, in space."
+    ],
+    "html": null
+  }
+}

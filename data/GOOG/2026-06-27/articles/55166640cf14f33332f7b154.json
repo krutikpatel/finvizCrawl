@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/spacexs-new-11-billion-saving-grace-comes-with-a-big-catch-9270c6ae?mod=mw_FV",
+    "fetched_at": "2026-06-27T07:00:26.092917-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX’s new $11 billion ‘saving grace’ comes with a big catch - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nSpaceX’s new $11 billion ‘saving grace’ comes with a big catch\nThe company’s pivot toward offering hardware access to rivals could hamstring its own AI goals\nSpaceX’s latest point of pride is its pivot toward becoming a provider of artificial-intelligence compute. But this new twist comes with its own slew of risks.\nOver the last two months, SpaceX has notched deals with AI startups Reflection and Anthropic, as well as with Google parent Alphabet GOOG GOOGL. In return for some badly needed cash, SpaceX is giving those companies access to its expensive AI hardware.",
+    "text_blocks": [
+      "Tech Stocks",
+      "SpaceX’s new $11 billion ‘saving grace’ comes with a big catch",
+      "The company’s pivot toward offering hardware access to rivals could hamstring its own AI goals",
+      "SpaceX’s latest point of pride is its pivot toward becoming a provider of artificial-intelligence compute. But this new twist comes with its own slew of risks.",
+      "Over the last two months, SpaceX has notched deals with AI startups Reflection and Anthropic, as well as with Google parent Alphabet GOOG GOOGL. In return for some badly needed cash, SpaceX is giving those companies access to its expensive AI hardware."
+    ],
+    "html": null
+  }
+}

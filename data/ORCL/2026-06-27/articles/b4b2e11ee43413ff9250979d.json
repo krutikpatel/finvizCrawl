@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/51d02833-14ec-3a86-89d1-8c7d31ee194e/the-hidden-turbulence-priced.html",
+    "fetched_at": "2026-06-27T07:00:23.534309-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Hidden Turbulence Priced Into Microsoft Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "If you hold Microsoft shares, the options market says you are already carrying exposure to a notably wide range of outcomes over the next year.\nThe options market is pricing two very different futures for Microsoft (MSFT). In one, the stock finishes the next year somewhere near $240. In the other, it's trading closer to $509. If you own the shares, you own the risk of that entire spread, a quiet volatility baked into a stock that, on any given day, might not seem so turbulent.\nThis isn't a prediction. It's a price. The options market provides one analytical lens for assessing market-implied risk, and it is pricing an implied volatility of 37.1% for Microsoft over the coming year. That number translates directly into that wide 68% probability band, from a floor about 32.0% below today's price to a ceiling roughly 44.4% above it. You are exposed to that full, two-sided swing.\nWhy the Market Is Pricing More Risk Than Usual\nThat 37.1% volatility figure is not business as usual. It's running at 1.41 times the stock's actual, realized volatility of 26.3% over the past year. In simple terms, the market is pricing in significantly more uncertainty than the stock has recently delivered. This isn't just noise; it's a price tag on a very specific and unresolved debate about the company's future.\nThe $190 Billion Question Driving This Uncertainty\nThe source of this tension is clear from the company's own plans. On one side, you have rapid growth. Management recently highlighted that its \"AI business surpassed $37 billion ARR, up 123%,\" and that Microsoft Cloud revenue exceeded $54 billion, up 29% year-over-year. The company now has \"over 20 million Microsoft 365 Copilot paid seats.\" This is the story that could send the stock toward the top of that price range. In a brief side note on sentiment, options traders are currently paying more for upside calls than for downside puts.\nBut that growth comes at a high cost. The other side of the debate is the capital required to fuel it. Management stated on its latest call that for calendar year 2026, \"we expect to invest roughly $190 billion in capital expenditures.\" That figure has created what one analyst called a \"disconnect that makes investors a bit nervous between how fast they're seeing CapEx growing and how fast they're seeing revenue growing.\" The fundamental question is whether the returns from AI can justify that level of spending, especially when, as another analyst noted, \"overall IT spending expectations aren't increasing.\"",
+    "text_blocks": [
+      "If you hold Microsoft shares, the options market says you are already carrying exposure to a notably wide range of outcomes over the next year.",
+      "The options market is pricing two very different futures for Microsoft (MSFT). In one, the stock finishes the next year somewhere near $240. In the other, it's trading closer to $509. If you own the shares, you own the risk of that entire spread, a quiet volatility baked into a stock that, on any given day, might not seem so turbulent.",
+      "This isn't a prediction. It's a price. The options market provides one analytical lens for assessing market-implied risk, and it is pricing an implied volatility of 37.1% for Microsoft over the coming year. That number translates directly into that wide 68% probability band, from a floor about 32.0% below today's price to a ceiling roughly 44.4% above it. You are exposed to that full, two-sided swing.",
+      "Why the Market Is Pricing More Risk Than Usual",
+      "That 37.1% volatility figure is not business as usual. It's running at 1.41 times the stock's actual, realized volatility of 26.3% over the past year. In simple terms, the market is pricing in significantly more uncertainty than the stock has recently delivered. This isn't just noise; it's a price tag on a very specific and unresolved debate about the company's future.",
+      "The $190 Billion Question Driving This Uncertainty",
+      "The source of this tension is clear from the company's own plans. On one side, you have rapid growth. Management recently highlighted that its \"AI business surpassed $37 billion ARR, up 123%,\" and that Microsoft Cloud revenue exceeded $54 billion, up 29% year-over-year. The company now has \"over 20 million Microsoft 365 Copilot paid seats.\" This is the story that could send the stock toward the top of that price range. In a brief side note on sentiment, options traders are currently paying more for upside calls than for downside puts.",
+      "But that growth comes at a high cost. The other side of the debate is the capital required to fuel it. Management stated on its latest call that for calendar year 2026, \"we expect to invest roughly $190 billion in capital expenditures.\" That figure has created what one analyst called a \"disconnect that makes investors a bit nervous between how fast they're seeing CapEx growing and how fast they're seeing revenue growing.\" The fundamental question is whether the returns from AI can justify that level of spending, especially when, as another analyst noted, \"overall IT spending expectations aren't increasing.\""
+    ],
+    "html": null
+  }
+}

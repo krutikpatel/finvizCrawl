@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-tesla-supplier-jumps-15-162428282.html",
+    "fetched_at": "2026-06-27T07:00:05.218762-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple, Tesla Supplier Jumps 15.9% After $1.06 Billion Hong Kong IPO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nLingyi iTech Guangdong rose in its Hong Kong debut after the Apple (NASDAQ:AAPL) and Tesla (NASDAQ:TSLA) supplier raised HK$8.3 billion, or $1.06 billion, in a share sale. The stock climbed as much as 15.9% to HK$11.80 from its HK$10.18 listing price before paring gains, giving the company a market value of more than $19 billion. Its Shenzhen-listed shares moved the other way, falling as much as 7.6% to 16.53 yuan.\nThe listing came as Hong Kong's IPO market appears to be gaining momentum, with maiden share sales expected to raise more than $5 billion this month. More than 20 companies are coming to market in June before they would need to update financial statements. Lingyi's offering, the city's biggest since April, drew cornerstone investors including GF Fund Management, Qube Research & Technologies and Value Partners Group (Trades, Portfolio), while Bloomberg Intelligence expects Hong Kong listing proceeds could top $43 billion this year, potentially marking a six-year high.\nLingyi is trying to position itself beyond smartphone components and deeper into AI hardware, data centers and humanoid robotics. Chairman Zeng Fangqin said the shift from consumer electronics toward AI data centers could continue rising for at least the next five years. The company plans to use part of the listing proceeds to expand manufacturing in AI computing servers, humanoid robot hardware and assembly, while aiming for AI-related business to surpass its core smartphone component business in two years.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Lingyi iTech Guangdong rose in its Hong Kong debut after the Apple (NASDAQ:AAPL) and Tesla (NASDAQ:TSLA) supplier raised HK$8.3 billion, or $1.06 billion, in a share sale. The stock climbed as much as 15.9% to HK$11.80 from its HK$10.18 listing price before paring gains, giving the company a market value of more than $19 billion. Its Shenzhen-listed shares moved the other way, falling as much as 7.6% to 16.53 yuan.",
+      "The listing came as Hong Kong's IPO market appears to be gaining momentum, with maiden share sales expected to raise more than $5 billion this month. More than 20 companies are coming to market in June before they would need to update financial statements. Lingyi's offering, the city's biggest since April, drew cornerstone investors including GF Fund Management, Qube Research & Technologies and Value Partners Group (Trades, Portfolio), while Bloomberg Intelligence expects Hong Kong listing proceeds could top $43 billion this year, potentially marking a six-year high.",
+      "Lingyi is trying to position itself beyond smartphone components and deeper into AI hardware, data centers and humanoid robotics. Chairman Zeng Fangqin said the shift from consumer electronics toward AI data centers could continue rising for at least the next five years. The company plans to use part of the listing proceeds to expand manufacturing in AI computing servers, humanoid robot hardware and assembly, while aiming for AI-related business to surpass its core smartphone component business in two years."
+    ],
+    "html": null
+  }
+}

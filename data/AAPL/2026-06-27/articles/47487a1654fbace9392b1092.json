@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html",
+    "fetched_at": "2026-06-27T07:00:09.034166-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Apple Inc. is pressing the White House for approval to purchase memory chips from a blacklisted Chinese company as it grapples to rein in chip costs, the Financial Times reported on Saturday.\nMost Read from Bloomberg\n-\nLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll Revenue\n-\nOman Tells Allies Ships Going Through Hormuz May Have to Pay\n-\nUS Strikes Iran in Response to Drone Attack in Strait of Hormuz\nThe US tech giant has been lobbying officials in the commerce department and other parts of the Trump administration for a green light to buy chips from ChangXin Memory Technologies Inc., which is on the Pentagon's 1260H list of companies with alleged connections to the Chinese military, the newspaper reported, citing six people familiar with the matter.\nWhile Apple isn't barred from using CXMT as a supplier, the iPhone maker is seeking guarantees CXMT won't be added to the US's so-called Entity List that would impose stiff licensing restrictions as Washington and Beijing play hardball over trade and rare earths, the FT said. Apple declined to comment to the newspaper while the White House didn't respond to the FT's request for comment.\nApple took the extreme measure this week of raising prices for all Macs, iPads, home devices and its Vision Pro augmented reality headset as the company tries to offset cost hikes caused by an unprecedented shortage of memory chips and storage. The company warned last month that memory shortages would worsen over the course of the year. A memory crunch has rippled through the tech industry, forcing companies to boost prices and reduce output.\nApple's move contributed to a selloff in global tech stocks this week, stoking concern that rising component costs will curb demand for devices and eventually slow the memory chip rally that has powered much of the AI trade.\nThe Pentagon, which had previously removed CXMT and Yangtze Memory Technologies Co. from the 1260H list, restored the two memory chipmakers in its newest version.\nWhile the list carries few immediate legal repercussions, it's widely considered a red flag to investors that can precede more punitive trade restrictions.\nMost Read from Bloomberg Businessweek\n©2026 Bloomberg L.P.",
+    "text_blocks": [
+      "(Bloomberg) -- Apple Inc. is pressing the White House for approval to purchase memory chips from a blacklisted Chinese company as it grapples to rein in chip costs, the Financial Times reported on Saturday.",
+      "Most Read from Bloomberg",
+      "-",
+      "Lutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll Revenue",
+      "-",
+      "Oman Tells Allies Ships Going Through Hormuz May Have to Pay",
+      "-",
+      "US Strikes Iran in Response to Drone Attack in Strait of Hormuz",
+      "The US tech giant has been lobbying officials in the commerce department and other parts of the Trump administration for a green light to buy chips from ChangXin Memory Technologies Inc., which is on the Pentagon's 1260H list of companies with alleged connections to the Chinese military, the newspaper reported, citing six people familiar with the matter.",
+      "While Apple isn't barred from using CXMT as a supplier, the iPhone maker is seeking guarantees CXMT won't be added to the US's so-called Entity List that would impose stiff licensing restrictions as Washington and Beijing play hardball over trade and rare earths, the FT said. Apple declined to comment to the newspaper while the White House didn't respond to the FT's request for comment.",
+      "Apple took the extreme measure this week of raising prices for all Macs, iPads, home devices and its Vision Pro augmented reality headset as the company tries to offset cost hikes caused by an unprecedented shortage of memory chips and storage. The company warned last month that memory shortages would worsen over the course of the year. A memory crunch has rippled through the tech industry, forcing companies to boost prices and reduce output.",
+      "Apple's move contributed to a selloff in global tech stocks this week, stoking concern that rising component costs will curb demand for devices and eventually slow the memory chip rally that has powered much of the AI trade.",
+      "The Pentagon, which had previously removed CXMT and Yangtze Memory Technologies Co. from the 1260H list, restored the two memory chipmakers in its newest version.",
+      "While the list carries few immediate legal repercussions, it's widely considered a red flag to investors that can precede more punitive trade restrictions.",
+      "Most Read from Bloomberg Businessweek",
+      "©2026 Bloomberg L.P."
+    ],
+    "html": null
+  }
+}

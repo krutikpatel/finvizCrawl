@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-becomes-most-oversold-mega-172113416.html",
+    "fetched_at": "2026-06-27T07:00:23.649785-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Becomes Most Oversold Mega-Cap Tech Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) ranked as the most oversold mega-cap technology stock following a broad retreat in growth shares.\nPalantir posted a Relative Strength Index reading of 27, placing it below several major technology names. The Relative Strength Index, or RSI, is a momentum indicator that measures the pace of recent price movements. Readings below 30 are often viewed by traders as a sign a stock may be nearing oversold territory.\nMicrosoft (NASDAQ:MSFT) followed with an RSI of 29, while Oracle (ORCL) registered 31. Apple (NASDAQ:AAPL) and Nvidia (NVDA) rounded out the list with readings of 32 and 40, respectively.\nThe rankings come as technology stocks face renewed selling pressure amid a broader risk-off environment across equity markets. The weakness has affected both software and semiconductor companies, with investors rotating away from higher-growth names.\nPalantir has been among the market's strongest performers over the past year, but recent volatility has weighed on momentum indicators. Similar trends have emerged across other large-cap technology stocks as traders assess valuations and the outlook for artificial intelligence-related spending.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) ranked as the most oversold mega-cap technology stock following a broad retreat in growth shares.",
+      "Palantir posted a Relative Strength Index reading of 27, placing it below several major technology names. The Relative Strength Index, or RSI, is a momentum indicator that measures the pace of recent price movements. Readings below 30 are often viewed by traders as a sign a stock may be nearing oversold territory.",
+      "Microsoft (NASDAQ:MSFT) followed with an RSI of 29, while Oracle (ORCL) registered 31. Apple (NASDAQ:AAPL) and Nvidia (NVDA) rounded out the list with readings of 32 and 40, respectively.",
+      "The rankings come as technology stocks face renewed selling pressure amid a broader risk-off environment across equity markets. The weakness has affected both software and semiconductor companies, with investors rotating away from higher-growth names.",
+      "Palantir has been among the market's strongest performers over the past year, but recent volatility has weighed on momentum indicators. Similar trends have emerged across other large-cap technology stocks as traders assess valuations and the outlook for artificial intelligence-related spending."
+    ],
+    "html": null
+  }
+}

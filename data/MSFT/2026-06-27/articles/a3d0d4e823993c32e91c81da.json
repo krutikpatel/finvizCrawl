@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2a2bcae0-3177-3c04-91de-d6d419b90ee6/gadget-prices-have-fallen-for.html",
+    "fetched_at": "2026-06-27T07:00:28.835747-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Gadget prices have fallen for decades. Then AI happened.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "After decades of declining costs, consumer electronics ranging from computers to video game consoles are jumping in price as the artificial intelligence boom drives a global shortage of memory and storage chips.\n\"The vast majority of the chips are going to the AI buildout and the data center revolution we're seeing,\" Wedbush Securities analyst Dan Ives told CBS News. \"That's [fewer] chips for these regular consumer devices. That just further drives up prices.\"\nOn Thursday, Apple and Microsoft each said they were hiking prices on core products, including iPads, certain MacBook models and Xbox consoles, as strong demand for chips drives up the cost of electronic device components. Apple could also raise iPhone prices to offset rising manufacturing costs, according to analysts at market researcher International Data Corporation (IDC).\nIDC analyst Nabila Popal said Apple's price hikes were higher than she had expected. That suggests any iPhone price increases may also be higher than expected, perhaps as much as $200 for the iPhone Pro and Pro Max models.\n\"I think the days of $50 price increases are over,\" she said.\nThe rise in gadget prices is unusual, as the cost of personal computers and other personal electronics has generally fallen since the 1980s. The latest government inflation data show that prices for computer software and accessories have surged by more than 14% over the last year. Personal computers, such as tablets, home assistants and computer hardware, are up 1.3%.\nWhat's behind the chip shortage?\nThe three biggest memory chip manufacturers — Micron Technology, Samsung Electronics and SK Hynix — have historically produced semiconductors for devices such as smartphones and for other consumer products such as cars.\nBut those chipmakers are now racing to meet surging demand from Alphabet, Amazon, Meta, Oracle and other tech giants — dubbed \"hyperscalers\" — that need memory chips for the thousands of data centers they are building to provide a range of AI services.\n\"Basically, we ended up with a situation where those companies, the hyperscalers, started buying the entire capacity from those suppliers\" at premium prices, Francisco Jeronimo, vice president for data and analytics at IDC, told CBS News.\nHistorically, most of Micron, SK and Samsung's chip production focused on churning out so-called DRAM and NAND semiconductors, the standard memory chips used in smartphones, PCs and other electronics. But semiconductor manufacturers are now devoting more resources to producing so-called high bandwidth memory (HBM) chips used to provide memory for data centers.",
+    "text_blocks": [
+      "After decades of declining costs, consumer electronics ranging from computers to video game consoles are jumping in price as the artificial intelligence boom drives a global shortage of memory and storage chips.",
+      "\"The vast majority of the chips are going to the AI buildout and the data center revolution we're seeing,\" Wedbush Securities analyst Dan Ives told CBS News. \"That's [fewer] chips for these regular consumer devices. That just further drives up prices.\"",
+      "On Thursday, Apple and Microsoft each said they were hiking prices on core products, including iPads, certain MacBook models and Xbox consoles, as strong demand for chips drives up the cost of electronic device components. Apple could also raise iPhone prices to offset rising manufacturing costs, according to analysts at market researcher International Data Corporation (IDC).",
+      "IDC analyst Nabila Popal said Apple's price hikes were higher than she had expected. That suggests any iPhone price increases may also be higher than expected, perhaps as much as $200 for the iPhone Pro and Pro Max models.",
+      "\"I think the days of $50 price increases are over,\" she said.",
+      "The rise in gadget prices is unusual, as the cost of personal computers and other personal electronics has generally fallen since the 1980s. The latest government inflation data show that prices for computer software and accessories have surged by more than 14% over the last year. Personal computers, such as tablets, home assistants and computer hardware, are up 1.3%.",
+      "What's behind the chip shortage?",
+      "The three biggest memory chip manufacturers — Micron Technology, Samsung Electronics and SK Hynix — have historically produced semiconductors for devices such as smartphones and for other consumer products such as cars.",
+      "But those chipmakers are now racing to meet surging demand from Alphabet, Amazon, Meta, Oracle and other tech giants — dubbed \"hyperscalers\" — that need memory chips for the thousands of data centers they are building to provide a range of AI services.",
+      "\"Basically, we ended up with a situation where those companies, the hyperscalers, started buying the entire capacity from those suppliers\" at premium prices, Francisco Jeronimo, vice president for data and analytics at IDC, told CBS News.",
+      "Historically, most of Micron, SK and Samsung's chip production focused on churning out so-called DRAM and NAND semiconductors, the standard memory chips used in smartphones, PCs and other electronics. But semiconductor manufacturers are now devoting more resources to producing so-called high bandwidth memory (HBM) chips used to provide memory for data centers."
+    ],
+    "html": null
+  }
+}

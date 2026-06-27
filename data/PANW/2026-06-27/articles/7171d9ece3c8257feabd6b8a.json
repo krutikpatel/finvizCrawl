@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/microsoft-amazon-lead-tech-spending-175004951.html",
+    "fetched_at": "2026-06-27T07:00:44.493693-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft and Amazon Lead Tech Spending Survey",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) and Amazon (NASDAQ:AMZN) screened well in a Jefferies survey showing stronger 2026 spending intentions for software, cloud and AI.\nJefferies surveyed 40 IT executives and found expected software budget growth of 6.2% in 2026, up from 4.8% in 2025. Cloud spending is expected to grow 10.1%, while cybersecurity budgets are projected to rise 6.2%. AI also remains a major priority, with 68% of CIOs now having dedicated AI budgets.\nMicrosoft stood out, with 85% of CIOs expecting to spend more in 2026 and none planning to spend less. AWS also screened positively, with 56% expecting higher spending. Palo Alto Networks (NASDAQ:PANW) and ServiceNow (NYSE:NOW) also ranked well, while Adobe (NASDAQ:ADBE) was the weak spot, with a negative spending score.\nJefferies said AI and security remain top priorities, and token and API spending is already running above plan for many companies.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) and Amazon (NASDAQ:AMZN) screened well in a Jefferies survey showing stronger 2026 spending intentions for software, cloud and AI.",
+      "Jefferies surveyed 40 IT executives and found expected software budget growth of 6.2% in 2026, up from 4.8% in 2025. Cloud spending is expected to grow 10.1%, while cybersecurity budgets are projected to rise 6.2%. AI also remains a major priority, with 68% of CIOs now having dedicated AI budgets.",
+      "Microsoft stood out, with 85% of CIOs expecting to spend more in 2026 and none planning to spend less. AWS also screened positively, with 56% expecting higher spending. Palo Alto Networks (NASDAQ:PANW) and ServiceNow (NYSE:NOW) also ranked well, while Adobe (NASDAQ:ADBE) was the weak spot, with a negative spending score.",
+      "Jefferies said AI and security remain top priorities, and token and API spending is already running above plan for many companies."
+    ],
+    "html": null
+  }
+}

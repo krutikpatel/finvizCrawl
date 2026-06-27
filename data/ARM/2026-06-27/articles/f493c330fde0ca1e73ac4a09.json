@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-shares-plunge-10-amid-165103018.html",
+    "fetched_at": "2026-06-27T07:00:48.031169-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SoftBank Shares Plunge 10% Amid Global AI Sector Selloff",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSoftBank Group (SFTBY) fell about 10% on Thursday, leading declines on the Tokyo market as investors sold technology and artificial intelligence shares after weakness in U.S. markets spread across Asia.\nThe move came as traders reassessed stretched valuations in AI-linked names.\nSoftBank, which has backed Arm Holdings (NASDAQ:ARM) and OpenAI, has been one of the biggest winners in the AI trade. But the stock has also become highly sensitive to changes in market sentiment.\nEven after Thursday's decline, SoftBank's U.S.-listed shares were still up about 85% year to date. The latest setback follows a sharp run for the company as investors piled into names tied to chips and AI infrastructure.\nChief Executive Masayoshi Son told CNBC he expects the AI boom to dwarf the dot-com era. He said corrections may still come, but argued they could also create buying opportunities for patient investors.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SoftBank Group (SFTBY) fell about 10% on Thursday, leading declines on the Tokyo market as investors sold technology and artificial intelligence shares after weakness in U.S. markets spread across Asia.",
+      "The move came as traders reassessed stretched valuations in AI-linked names.",
+      "SoftBank, which has backed Arm Holdings (NASDAQ:ARM) and OpenAI, has been one of the biggest winners in the AI trade. But the stock has also become highly sensitive to changes in market sentiment.",
+      "Even after Thursday's decline, SoftBank's U.S.-listed shares were still up about 85% year to date. The latest setback follows a sharp run for the company as investors piled into names tied to chips and AI infrastructure.",
+      "Chief Executive Masayoshi Son told CNBC he expects the AI boom to dwarf the dot-com era. He said corrections may still come, but argued they could also create buying opportunities for patient investors."
+    ],
+    "html": null
+  }
+}

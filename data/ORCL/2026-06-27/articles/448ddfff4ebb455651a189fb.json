@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/did-hyperscalers-1q26-042810607.html",
+    "fetched_at": "2026-06-27T07:00:23.556810-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How did the hyperscalers do in 1Q26?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Bernstein said Google Cloud has emerged as the leading AI cloud platform after a strong first quarter, with accelerating cloud growth and rising profitability helping it pull ahead of rivals in incremental cloud revenue despite continued heavy spending on AI infrastructure.\nGoogle Cloud posted 63% year-over-year revenue growth in the quarter, outpacing Amazon Web Services, Microsoft Azure, and Oracle Cloud. The business also generated the largest increase in incremental cloud revenue, supported by strong demand for Gemini models, AI services, and enterprise cloud workloads.\nOperating margins expanded to about 33%, with improving profitability helping Google gain ground as enterprises increased spending on AI infrastructure and cloud services.\nMicrosoft remained one of the strongest long-term AI beneficiaries, with Azure growing about 40% and annualized AI revenue surpassing $37 billion. Demand for Copilot, GitHub, and Azure AI services continued to drive growth, although capacity constraints remain a challenge.\nAmazon Web Services continued to post solid momentum, with cloud revenue rising 28% and backlog expanding to $364 billion. Triple-digit AI demand, Trainium chip adoption, and enterprise workloads continued to support growth despite supply constraints.\nOracle remained the fastest-growing major cloud provider, with Oracle Cloud Infrastructure revenue climbing 93% year over year. Remaining performance obligations rose to $638 billion as AI infrastructure demand accelerated.\nAcross the sector, AI infrastructure investment continues to rise sharply. Combined capital spending by the largest hyperscale providers is projected to exceed $620 billion this year as companies race to expand data center capacity and meet surging AI demand.\nThe report said capacity constraints have shifted from GPU availability to powered data center capacity, making deployment speed and infrastructure availability increasingly important competitive advantages in the AI race.\nRelated articles\nHow did the hyperscalers do in 1Q26?\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+    "text_blocks": [
+      "Investing.com -- Bernstein said Google Cloud has emerged as the leading AI cloud platform after a strong first quarter, with accelerating cloud growth and rising profitability helping it pull ahead of rivals in incremental cloud revenue despite continued heavy spending on AI infrastructure.",
+      "Google Cloud posted 63% year-over-year revenue growth in the quarter, outpacing Amazon Web Services, Microsoft Azure, and Oracle Cloud. The business also generated the largest increase in incremental cloud revenue, supported by strong demand for Gemini models, AI services, and enterprise cloud workloads.",
+      "Operating margins expanded to about 33%, with improving profitability helping Google gain ground as enterprises increased spending on AI infrastructure and cloud services.",
+      "Microsoft remained one of the strongest long-term AI beneficiaries, with Azure growing about 40% and annualized AI revenue surpassing $37 billion. Demand for Copilot, GitHub, and Azure AI services continued to drive growth, although capacity constraints remain a challenge.",
+      "Amazon Web Services continued to post solid momentum, with cloud revenue rising 28% and backlog expanding to $364 billion. Triple-digit AI demand, Trainium chip adoption, and enterprise workloads continued to support growth despite supply constraints.",
+      "Oracle remained the fastest-growing major cloud provider, with Oracle Cloud Infrastructure revenue climbing 93% year over year. Remaining performance obligations rose to $638 billion as AI infrastructure demand accelerated.",
+      "Across the sector, AI infrastructure investment continues to rise sharply. Combined capital spending by the largest hyperscale providers is projected to exceed $620 billion this year as companies race to expand data center capacity and meet surging AI demand.",
+      "The report said capacity constraints have shifted from GPU availability to powered data center capacity, making deployment speed and infrastructure availability increasingly important competitive advantages in the AI race.",
+      "Related articles",
+      "How did the hyperscalers do in 1Q26?",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity"
+    ],
+    "html": null
+  }
+}

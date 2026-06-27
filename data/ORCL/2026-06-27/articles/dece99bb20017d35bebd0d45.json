@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_FV",
+    "fetched_at": "2026-06-27T07:00:23.218510-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens\nOracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business\nNumerous software stocks were standout performers on Friday, as investors dumped chip stocks and assessed the implications of OpenAI’s reported struggles.\nOn Thursday, the New York Times reported that OpenAI may hold off on an initial public offering until next year, partly due to financial challenges. The report offered a sign that artificial intelligence might not be the death sentence for software that it’s been feared by some to be.",
+    "text_blocks": [
+      "Tech Stocks",
+      "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
+      "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business",
+      "Numerous software stocks were standout performers on Friday, as investors dumped chip stocks and assessed the implications of OpenAI’s reported struggles.",
+      "On Thursday, the New York Times reported that OpenAI may hold off on an initial public offering until next year, partly due to financial challenges. The report offered a sign that artificial intelligence might not be the death sentence for software that it’s been feared by some to be."
+    ],
+    "html": null
+  }
+}

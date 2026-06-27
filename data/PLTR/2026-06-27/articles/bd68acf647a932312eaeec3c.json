@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_FV",
+    "fetched_at": "2026-06-27T07:00:33.690388-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Market Extra\nTech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.\nThe stock market is still unable to make new records without the ‘Magnificent Seven’ cohort\nMarkets haven’t had many weeks in 2026 like this one.\nThe Nasdaq Composite and the S&P 500 bled steadily throughout the week, with memory-chip stocks and the “Magnificent Seven” getting hit as investors grew increasingly skeptical about the massive bets technology companies are making on artificial intelligence.",
+    "text_blocks": [
+      "Market Extra",
+      "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
+      "The stock market is still unable to make new records without the ‘Magnificent Seven’ cohort",
+      "Markets haven’t had many weeks in 2026 like this one.",
+      "The Nasdaq Composite and the S&P 500 bled steadily throughout the week, with memory-chip stocks and the “Magnificent Seven” getting hit as investors grew increasingly skeptical about the massive bets technology companies are making on artificial intelligence."
+    ],
+    "html": null
+  }
+}
