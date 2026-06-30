@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/86bd6f0e-41b1-34be-9065-dc663db427ea/google-brings-personalized.html",
+    "fetched_at": "2026-06-30T07:00:45.037247-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/m/86bd6f0e-41b1-34be-9065-dc663db427ea/google-brings-personalized.html",
+      "context": {
+        "url": "https://finance.yahoo.com/m/86bd6f0e-41b1-34be-9065-dc663db427ea/google-brings-personalized.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-intel-stocks-extend-selloff-171110811.html",
+    "fetched_at": "2026-06-30T07:01:37.384837-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron, Intel Stocks Extend Selloff as $200 Billion Chip Sector Wipes Out",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) and Intel (NASDAQ:INTC) led semiconductor stocks lower on Monday as the sector continued its downward trend following last week's selloff.\nThe broader market indices traded higher by mid-morning, supported by de-escalation in U.S.-Iran tensions. However, chip stocks remained under pressure, with the Philadelphia Semiconductor Index sliding about 1.2% in early trading.\nMicron shares fell more than 3% in morning action, extending losses after a volatile week for memory chipmakers. Intel declined roughly 2%, while other chip names including Advanced Micro Devices (NASDAQ:AMD) and Marvell Technology (NASDAQ:MRVL) also traded in the red.\nThe weakness in semiconductor stocks comes despite easing geopolitical concerns that had weighed on markets in recent sessions. Investors appeared to rotate out of chip names following a strong run in the sector, with some analysts suggesting profit-taking may be driving the pullback.\nMicron's decline followed a sharp drop on Friday after the company reported earnings that failed to impress investors. The memory chipmaker has been under pressure amid concerns about oversupply in the DRAM market and softening demand from PC and smartphone manufacturers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) and Intel (NASDAQ:INTC) led semiconductor stocks lower on Monday as the sector continued its downward trend following last week's selloff.",
+      "The broader market indices traded higher by mid-morning, supported by de-escalation in U.S.-Iran tensions. However, chip stocks remained under pressure, with the Philadelphia Semiconductor Index sliding about 1.2% in early trading.",
+      "Micron shares fell more than 3% in morning action, extending losses after a volatile week for memory chipmakers. Intel declined roughly 2%, while other chip names including Advanced Micro Devices (NASDAQ:AMD) and Marvell Technology (NASDAQ:MRVL) also traded in the red.",
+      "The weakness in semiconductor stocks comes despite easing geopolitical concerns that had weighed on markets in recent sessions. Investors appeared to rotate out of chip names following a strong run in the sector, with some analysts suggesting profit-taking may be driving the pullback.",
+      "Micron's decline followed a sharp drop on Friday after the company reported earnings that failed to impress investors. The memory chipmaker has been under pressure amid concerns about oversupply in the DRAM market and softening demand from PC and smartphone manufacturers."
+    ],
+    "html": null
+  }
+}

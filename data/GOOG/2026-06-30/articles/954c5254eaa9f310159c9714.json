@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/u-approach-regulation-ai-problematic-131023261.html",
+    "fetched_at": "2026-06-30T07:00:46.020190-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "U.S. approach to regulation of AI is problematic, Sixth Street's Chavez says",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "LONDON, June 30 (Reuters) - The United States' regulation of artificial intelligence is problematic and inconsistent, Martin Chavez, vice chairman at investment firm Sixth Street, told Reuters on Tuesday.\nSpeaking at the Reuters Momentum AI London event, Chavez criticised the current U.S. approach of regulating each new AI model's release individually, citing a lack of transparency on how decisions are made and who is making them.\nThe outspoken remarks from a technology and financial industry veteran, who is also a member of the board of Google owner Alphabet Inc, echoed growing concerns about how the lack of a level playing field in AI regulation could increase risks.\n• \"The right regulation always happens after the fact,\" Chavez said, referring back to the financial crisis. \"We tend not to do anything until something bad has already happened, and then we regulate.\"\n• The boom in AI is raising fears about job losses, supply bottlenecks and the intense over-investment that has led to heavy losses seen in previous boom-bust cycles, the Bank for International Settlements warned on Sunday.\n• Anthropic said on June 12 it would disable its most advanced AI models for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, citing national security concerns.\n• OpenAI likewise said on June 26 it was delaying a full public launch of GPT-5.6 at the U.S. government's request, limiting the AI model's initial access to a small group of vetted partners whose details were shared with the authorities.\n• AI needs regulation similar to the post-crisis rule that mandated annual stress testing for the financial system, increasing safety, Chavez said.\n(Reporting by Axel Threfall, additional reporting by Aditya Soni, Writing by Lawrence White; Editing by Louise Heavens)",
+    "text_blocks": [
+      "LONDON, June 30 (Reuters) - The United States' regulation of artificial intelligence is problematic and inconsistent, Martin Chavez, vice chairman at investment firm Sixth Street, told Reuters on Tuesday.",
+      "Speaking at the Reuters Momentum AI London event, Chavez criticised the current U.S. approach of regulating each new AI model's release individually, citing a lack of transparency on how decisions are made and who is making them.",
+      "The outspoken remarks from a technology and financial industry veteran, who is also a member of the board of Google owner Alphabet Inc, echoed growing concerns about how the lack of a level playing field in AI regulation could increase risks.",
+      "• \"The right regulation always happens after the fact,\" Chavez said, referring back to the financial crisis. \"We tend not to do anything until something bad has already happened, and then we regulate.\"",
+      "• The boom in AI is raising fears about job losses, supply bottlenecks and the intense over-investment that has led to heavy losses seen in previous boom-bust cycles, the Bank for International Settlements warned on Sunday.",
+      "• Anthropic said on June 12 it would disable its most advanced AI models for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, citing national security concerns.",
+      "• OpenAI likewise said on June 26 it was delaying a full public launch of GPT-5.6 at the U.S. government's request, limiting the AI model's initial access to a small group of vetted partners whose details were shared with the authorities.",
+      "• AI needs regulation similar to the post-crisis rule that mandated annual stress testing for the financial system, increasing safety, Chavez said.",
+      "(Reporting by Axel Threfall, additional reporting by Aditya Soni, Writing by Lawrence White; Editing by Louise Heavens)"
+    ],
+    "html": null
+  }
+}

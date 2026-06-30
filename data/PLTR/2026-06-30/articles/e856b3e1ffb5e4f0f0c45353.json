@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c4937ac9-ff3a-3fe1-8172-3dd4db687755/pltr-stock%3A-what-does-its.html",
+    "fetched_at": "2026-06-30T07:01:02.608602-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "PLTR Stock: What Does Its Valuation Imply?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This is a supply-constrained year for Palantir Technologies. The company's core is its Artificial Intelligence Platform, embedded in government programs like the Maven Smart System and a fast-growing commercial base.\nSurging U.S. growth has created a capacity problem, with management stating they cannot meet current demand. In response, leadership explicitly prioritizes work for U.S. warfighters over other opportunities.\nAlthough Palantir is fundamentally a software company, its enterprise-grade AI platforms require highly skilled forward-deployed engineers to implement, limiting how quickly they can scale.\nThat's the story the market is currently paying 118.5x trailing earnings for. Has it taken the multiple too far, or is the growth implied by today's price reasonable? Let's unpack below.\nBefore we get into the math behind that valuation, PLTR's current numbers are worth keeping in mind as a reference point:\nLTM refers to last twelve months.\nWhat The Price Is Asking For\nTo defend PLTR's $270.3B market cap over the next 7 years, three things have to play out. The multiple settles from today's 118.5x toward 28.8x, the multiple a mature, scaled software franchise typically settles into. Margins land near 27.3%, set near the midpoint of the company's own margin cycle, since its peak clears mature peers but its through-cycle average sits well below that peak. And revenue compounds from $5.2B today to $34.4B at maturity, supporting $9.4B of annual net income. That last line works out to a required revenue CAGR of 30.9%, below the 67.7% the business is currently running.\nIs This Realistic?\nGrowth is fueled by the company's AIP platform displacing legacy enterprise software. This is most visible in the U.S. commercial segment, which is expanding rapidly with customers like GE Aerospace.\nThe current hyper-growth exists at a cyclical peak, with margins far above their historical average. A slowdown is a key risk, particularly in the government segment, which faces potential budget delays from an extended continuing resolution.\nToday's price needs less growth than the business is currently delivering. But that current pace is a cyclical peak, not a sustainable rate. In a normal year, the bar is meaningfully higher.\nPalantir's core challenge is converting a cyclical demand peak into durable growth before federal budget uncertainty bites.",
+    "text_blocks": [
+      "This is a supply-constrained year for Palantir Technologies. The company's core is its Artificial Intelligence Platform, embedded in government programs like the Maven Smart System and a fast-growing commercial base.",
+      "Surging U.S. growth has created a capacity problem, with management stating they cannot meet current demand. In response, leadership explicitly prioritizes work for U.S. warfighters over other opportunities.",
+      "Although Palantir is fundamentally a software company, its enterprise-grade AI platforms require highly skilled forward-deployed engineers to implement, limiting how quickly they can scale.",
+      "That's the story the market is currently paying 118.5x trailing earnings for. Has it taken the multiple too far, or is the growth implied by today's price reasonable? Let's unpack below.",
+      "Before we get into the math behind that valuation, PLTR's current numbers are worth keeping in mind as a reference point:",
+      "LTM refers to last twelve months.",
+      "What The Price Is Asking For",
+      "To defend PLTR's $270.3B market cap over the next 7 years, three things have to play out. The multiple settles from today's 118.5x toward 28.8x, the multiple a mature, scaled software franchise typically settles into. Margins land near 27.3%, set near the midpoint of the company's own margin cycle, since its peak clears mature peers but its through-cycle average sits well below that peak. And revenue compounds from $5.2B today to $34.4B at maturity, supporting $9.4B of annual net income. That last line works out to a required revenue CAGR of 30.9%, below the 67.7% the business is currently running.",
+      "Is This Realistic?",
+      "Growth is fueled by the company's AIP platform displacing legacy enterprise software. This is most visible in the U.S. commercial segment, which is expanding rapidly with customers like GE Aerospace.",
+      "The current hyper-growth exists at a cyclical peak, with margins far above their historical average. A slowdown is a key risk, particularly in the government segment, which faces potential budget delays from an extended continuing resolution.",
+      "Today's price needs less growth than the business is currently delivering. But that current pace is a cyclical peak, not a sustainable rate. In a normal year, the bar is meaningfully higher.",
+      "Palantir's core challenge is converting a cyclical demand peak into durable growth before federal budget uncertainty bites."
+    ],
+    "html": null
+  }
+}

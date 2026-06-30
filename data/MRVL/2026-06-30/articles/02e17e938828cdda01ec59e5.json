@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-cxl-outlook-brightens-120824153.html",
+    "fetched_at": "2026-06-30T07:01:37.404495-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell's CXL Outlook Brightens",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (MRVL, Financials) is getting a fresh boost from UBS as investors look for the next leg of data center growth.\nUBS kept its Buy rating on the stock and raised its price target to $340 from $230, pointing to Marvell's position in Compute Express Link, or CXL.\nCXL is a data center technology that helps chips and memory work together more efficiently. That matters as AI systems become larger and harder to manage inside server racks.\nUBS expects the CXL market to reach $4.5 billion in 2027 and $7 billion to $10 billion by 2030. The firm sees Marvell generating about $1 billion in CXL revenue in 2027 and about $2 billion in 2028.\nMuch of that growth is tied to XPU-attached designs, where Marvell is working on programs with two major U.S. hyperscalers. UBS also raised its full-year revenue estimate for Marvell to $16.8 billion in 2027 and $23.9 billion in 2028.\nFor investors, the appeal is simple: Marvell may have another major growth lane beyond its existing data center business. The risk is whether those design wins turn into revenue on the timeline UBS expects.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (MRVL, Financials) is getting a fresh boost from UBS as investors look for the next leg of data center growth.",
+      "UBS kept its Buy rating on the stock and raised its price target to $340 from $230, pointing to Marvell's position in Compute Express Link, or CXL.",
+      "CXL is a data center technology that helps chips and memory work together more efficiently. That matters as AI systems become larger and harder to manage inside server racks.",
+      "UBS expects the CXL market to reach $4.5 billion in 2027 and $7 billion to $10 billion by 2030. The firm sees Marvell generating about $1 billion in CXL revenue in 2027 and about $2 billion in 2028.",
+      "Much of that growth is tied to XPU-attached designs, where Marvell is working on programs with two major U.S. hyperscalers. UBS also raised its full-year revenue estimate for Marvell to $16.8 billion in 2027 and $23.9 billion in 2028.",
+      "For investors, the appeal is simple: Marvell may have another major growth lane beyond its existing data center business. The risk is whether those design wins turn into revenue on the timeline UBS expects."
+    ],
+    "html": null
+  }
+}

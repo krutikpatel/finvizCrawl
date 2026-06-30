@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1c733c30-c648-3755-86cd-4690069cb904/the-margin-squeeze.html",
+    "fetched_at": "2026-06-30T07:00:57.046955-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Margin Squeeze Threatening Intel Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "If you hold Intel (INTC) stock, you've had a strong year. The shares have posted a 478% gain over the last 12 months, and the narrative has shifted in the company's favor. Management now sees \"clear signs that the CPU is reinserting itself as the indispensable foundation of the AI era.\" The market has bought into this comeback story, with the stock trading near 91% of its 52-week high.\nBut after such a run, the bar for success is set high. A key risk for Intel today is that its AI growth story, while valid, could prove less profitable than investors are currently pricing in. The primary risks now concern not the revenue line, but the company's margins.\nThe High Cost Of A Turnaround\nIntel's future hinges on its ambitious manufacturing roadmap, particularly the ramp-up of its next-generation Intel 18A process. While critical for long-term competitiveness, this transition comes with a near-term cost. Management has been direct about this, stating that \"18A is going to be a pretty decent headwind to our gross margins.\"\nThe mechanism here is straightforward. Ramping up a new, complex manufacturing node is expensive. Initial production runs typically have lower yields and higher costs. As revenue from these new products grows, their lower initial profitability can drag down the company's overall margin profile, even as total sales are climbing. This matters because the stock's valuation already reflects high expectations. Its price-to-sales multiple now sits at 12.1, in contrast to its 10-year high of 4.2. A valuation at this level assumes highly profitable growth in addition to strong growth. Any margin pressure could challenge that assumption.\nSqueezed From Both Sides\nThe pressure on profitability extends beyond the factory floor. Management has flagged potential headwinds from two areas in the second half of the year. On one side, they see \"rising input costs, especially in memory, present growing headwinds.\" On the other, they are \"prudently planning for PC demand to weaken.\"\nThis creates a squeeze. Higher costs for essential components directly eat into gross margins. At the same time, a slowdown in the PC market could temper a major source of revenue and limit pricing power. The company's Client Computing Group (CCG) is a large division, booking $7.7 billion in revenue last quarter alone. A slowdown in that segment, combined with rising costs across the business, could make it difficult to deliver the kind of earnings growth the stock's recent performance implies.",
+    "text_blocks": [
+      "If you hold Intel (INTC) stock, you've had a strong year. The shares have posted a 478% gain over the last 12 months, and the narrative has shifted in the company's favor. Management now sees \"clear signs that the CPU is reinserting itself as the indispensable foundation of the AI era.\" The market has bought into this comeback story, with the stock trading near 91% of its 52-week high.",
+      "But after such a run, the bar for success is set high. A key risk for Intel today is that its AI growth story, while valid, could prove less profitable than investors are currently pricing in. The primary risks now concern not the revenue line, but the company's margins.",
+      "The High Cost Of A Turnaround",
+      "Intel's future hinges on its ambitious manufacturing roadmap, particularly the ramp-up of its next-generation Intel 18A process. While critical for long-term competitiveness, this transition comes with a near-term cost. Management has been direct about this, stating that \"18A is going to be a pretty decent headwind to our gross margins.\"",
+      "The mechanism here is straightforward. Ramping up a new, complex manufacturing node is expensive. Initial production runs typically have lower yields and higher costs. As revenue from these new products grows, their lower initial profitability can drag down the company's overall margin profile, even as total sales are climbing. This matters because the stock's valuation already reflects high expectations. Its price-to-sales multiple now sits at 12.1, in contrast to its 10-year high of 4.2. A valuation at this level assumes highly profitable growth in addition to strong growth. Any margin pressure could challenge that assumption.",
+      "Squeezed From Both Sides",
+      "The pressure on profitability extends beyond the factory floor. Management has flagged potential headwinds from two areas in the second half of the year. On one side, they see \"rising input costs, especially in memory, present growing headwinds.\" On the other, they are \"prudently planning for PC demand to weaken.\"",
+      "This creates a squeeze. Higher costs for essential components directly eat into gross margins. At the same time, a slowdown in the PC market could temper a major source of revenue and limit pricing power. The company's Client Computing Group (CCG) is a large division, booking $7.7 billion in revenue last quarter alone. A slowdown in that segment, combined with rising costs across the business, could make it difficult to deliver the kind of earnings growth the stock's recent performance implies."
+    ],
+    "html": null
+  }
+}

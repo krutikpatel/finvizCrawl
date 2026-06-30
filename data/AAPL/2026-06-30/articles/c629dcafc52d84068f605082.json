@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/f8cbd65d-5e36-3292-95b8-ff50f37b5216/magnificent-seven-shed-%242.3.html",
+    "fetched_at": "2026-06-30T07:00:11.288028-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Magnificent Seven shed $2.3 trillion in June as AI spending comes under closer scrutiny (MSFT)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investor sentiment shifts toward infrastructure costs\nThe so-called \"Magnificent Seven\" technology stocks have collectively lost around $2.3 trillion in market value during June as investors reassessed the scale of artificial intelligence infrastructure spending by the sector's largest companies.\nThe group comprises Microsoft Corporation (NASDAQ:MSFT), Nvidia Corporation (NASDAQ:NVDA), Alphabet Inc. (NASDAQ:GOOG), Apple Inc. (NASDAQ:AAPL), Meta Platforms Inc. (NASDAQ:META), Tesla Inc. (NASDAQ:TSLA) and Amazon.com Inc. (NASDAQ:AMZN).\nAmazon, Microsoft, Alphabet and Meta are investing hundreds of billions of dollars in semiconductors and data centre capacity to expand their AI capabilities, with part of that spending financed through debt.\nDuring June, Microsoft shares fell 20%, Nvidia declined about 13%, while Apple and Amazon each dropped roughly 8%.\nMarkets await proof that AI investment will deliver returns\nInvestors have become increasingly cautious as technology giants commit record sums to AI infrastructure, with many now looking to the upcoming second-quarter earnings season for evidence that those investments are translating into stronger financial performance.\nThe reporting season, which begins in July, is expected to provide greater insight into whether the industry's heavy capital expenditure is generating meaningful returns.\nChipmakers continue to outperform\nWhile the largest technology companies have come under pressure, semiconductor stocks have continued to outperform.\nThe Philadelphia Semiconductor Index advanced around 6% during June and has climbed more than 90% this year, compared with a 3.4% decline for the Magnificent Seven over the same period.\nDemand from major technology companies has continued to benefit semiconductor manufacturers, including Taiwan Semiconductor Manufacturing Co., Micron Technology Inc. and ASML Holding NV, with strong chip orders creating supply shortages throughout the industry.\nThe resulting shortage of memory components has also driven prices higher, adding to supply chain constraints across the semiconductor market.\nMicrosoft stock price\nNvidia stock price\nAlphabet stock price\nApple stock price\nMeta stock price\nTesla stock price\nAmazon stock price",
+    "text_blocks": [
+      "Investor sentiment shifts toward infrastructure costs",
+      "The so-called \"Magnificent Seven\" technology stocks have collectively lost around $2.3 trillion in market value during June as investors reassessed the scale of artificial intelligence infrastructure spending by the sector's largest companies.",
+      "The group comprises Microsoft Corporation (NASDAQ:MSFT), Nvidia Corporation (NASDAQ:NVDA), Alphabet Inc. (NASDAQ:GOOG), Apple Inc. (NASDAQ:AAPL), Meta Platforms Inc. (NASDAQ:META), Tesla Inc. (NASDAQ:TSLA) and Amazon.com Inc. (NASDAQ:AMZN).",
+      "Amazon, Microsoft, Alphabet and Meta are investing hundreds of billions of dollars in semiconductors and data centre capacity to expand their AI capabilities, with part of that spending financed through debt.",
+      "During June, Microsoft shares fell 20%, Nvidia declined about 13%, while Apple and Amazon each dropped roughly 8%.",
+      "Markets await proof that AI investment will deliver returns",
+      "Investors have become increasingly cautious as technology giants commit record sums to AI infrastructure, with many now looking to the upcoming second-quarter earnings season for evidence that those investments are translating into stronger financial performance.",
+      "The reporting season, which begins in July, is expected to provide greater insight into whether the industry's heavy capital expenditure is generating meaningful returns.",
+      "Chipmakers continue to outperform",
+      "While the largest technology companies have come under pressure, semiconductor stocks have continued to outperform.",
+      "The Philadelphia Semiconductor Index advanced around 6% during June and has climbed more than 90% this year, compared with a 3.4% decline for the Magnificent Seven over the same period.",
+      "Demand from major technology companies has continued to benefit semiconductor manufacturers, including Taiwan Semiconductor Manufacturing Co., Micron Technology Inc. and ASML Holding NV, with strong chip orders creating supply shortages throughout the industry.",
+      "The resulting shortage of memory components has also driven prices higher, adding to supply chain constraints across the semiconductor market.",
+      "Microsoft stock price",
+      "Nvidia stock price",
+      "Alphabet stock price",
+      "Apple stock price",
+      "Meta stock price",
+      "Tesla stock price",
+      "Amazon stock price"
+    ],
+    "html": null
+  }
+}

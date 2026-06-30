@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/palo-alto-says-ai-cyber-120047669.html",
+    "fetched_at": "2026-06-30T07:01:25.566417-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Says AI Cyber Threat Is Redefining the Industry After Q3 Beat",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalo Alto Networks (NASDAQ:PANW) dropped 4.43% in premarket trading after reporting Q3 FY2026 adjusted EPS of $0.85, beating the $0.79 Wall Street consensus, on revenue of $3.00 billion, up 31% year-over-year and ahead of the $2.94 billion Wall Street expected. The result includes $388 million in revenue contribution from the CyberArk and Chronosphere acquisitions. On a GAAP basis, the company reported a net loss of $177 million, or $0.22 per share, compared with net income of $262 million a year ago, reflecting acquisition-related costs. Next-Generation Security ARR came in at $8.1 billion, representing 60% year-over-year growth, above the $7.94$7.96 billion guidance midpoint. Adjusted free cash flow reached $910 million for the quarter, up from $578 million a year ago, with trailing 12-month adjusted free cash flow margin of 38.5%, up 430 basis points year-over-year.\nFor the next quarter, management guided revenue of $3.345$3.355 billion versus a $3.28 billion estimate, and full-year guidance was raised to $11.412$11.425 billion.\nCEO Nikesh Arora said more than 1,200 customers have reached out following the emergence of Anthropic's Mythos model, with the company holding 800 meetings over the last six weeks to address rising AI cyber threats. \"The latest advancements at the AI frontier have increased the level of urgency around cybersecurity, and redefined the shape of the industry for the coming years,\" Arora said. He also declared the feared \"SaaSpocalypse\" for cyber dead, pushing back on concerns that AI would disrupt the sector.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palo Alto Networks (NASDAQ:PANW) dropped 4.43% in premarket trading after reporting Q3 FY2026 adjusted EPS of $0.85, beating the $0.79 Wall Street consensus, on revenue of $3.00 billion, up 31% year-over-year and ahead of the $2.94 billion Wall Street expected. The result includes $388 million in revenue contribution from the CyberArk and Chronosphere acquisitions. On a GAAP basis, the company reported a net loss of $177 million, or $0.22 per share, compared with net income of $262 million a year ago, reflecting acquisition-related costs. Next-Generation Security ARR came in at $8.1 billion, representing 60% year-over-year growth, above the $7.94$7.96 billion guidance midpoint. Adjusted free cash flow reached $910 million for the quarter, up from $578 million a year ago, with trailing 12-month adjusted free cash flow margin of 38.5%, up 430 basis points year-over-year.",
+      "For the next quarter, management guided revenue of $3.345$3.355 billion versus a $3.28 billion estimate, and full-year guidance was raised to $11.412$11.425 billion.",
+      "CEO Nikesh Arora said more than 1,200 customers have reached out following the emergence of Anthropic's Mythos model, with the company holding 800 meetings over the last six weeks to address rising AI cyber threats. \"The latest advancements at the AI frontier have increased the level of urgency around cybersecurity, and redefined the shape of the industry for the coming years,\" Arora said. He also declared the feared \"SaaSpocalypse\" for cyber dead, pushing back on concerns that AI would disrupt the sector."
+    ],
+    "html": null
+  }
+}

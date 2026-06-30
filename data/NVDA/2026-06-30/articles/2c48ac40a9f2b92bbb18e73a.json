@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-hit-record-19-124240551.html",
+    "fetched_at": "2026-06-30T07:01:08.134289-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip stocks hit record 19.7% of S&P 500, quadrupling since 2020",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Semiconductor companies now represent 19.7% of the S&P 500, a record high that is nearly four times their roughly 5% weighting in June 2020, according to Citadel Securities' Scott Rubner. For context, chips accounted for just over 8% of the index before the dotcom crash — less than half their current share, making today's concentration a phenomenon without historical precedent.\nNvidia sits at the center of this story as the single largest driver of the sector's index weight expansion over the past few years amid the AI boom. However, the broadening of the semiconductor trade to include Broadcom, TSCM, ASML, AMD, and more recently memory stocks like Micron and SanDisk has pushed the index higher and higher.\nThe concentration dynamic is self-reinforcing, and Rubner's note underscores the mechanism: strong performance raises a stock's index weight, higher weights compel passive funds to buy more of the same shares, and that additional buying pressure pushes prices — and weights, still higher. That flywheel has been spinning hard.\nETF inflows have exceeded $1 trillion year-to-date as of late June 2026, running roughly 45% ahead of last year's record pace, according to Rubner's analysis, amplifying the link between index concentration and capital allocation at every rebalancing cycle.\nThe valuation warnings are now stacking up. Bank of America's proprietary Bubble Risk Indicator, scored on a zero-to-one scale where one signals extreme bubble-like price action, registered 0.91 for the PHLX Semiconductor Sector and 0.82 for the Technology Select Sector, Reuters reported on June 30. The S&P 500's price-to-sales ratio sits at 3.22, well above its long-term historical average of 1.84, according to Tajinder Dhillon, head of earnings research at LSEG. The Buffett Indicator, total U.S. stock market capitalization relative to GDP, currently stands at 231.8%, which signals the market is \"significantly overvalued.\"\nNot everyone frames the concentration as purely a bubble risk. JJ Kinahan, head of retail expansion and alternative investment products at Cboe Global Markets, drew a distinction between the chip suppliers and their customers: \"The folks selling the picks and shovels are in incredibly good stead. Those buying them still have to prove that the billions and billions of dollars they're spending is worth it.\" That question, whether hyperscaler AI capital expenditure ultimately generates returns that justify current semiconductor valuations, is increasingly the pivotal debate on Wall Street.",
+    "text_blocks": [
+      "Investing.com -- Semiconductor companies now represent 19.7% of the S&P 500, a record high that is nearly four times their roughly 5% weighting in June 2020, according to Citadel Securities' Scott Rubner. For context, chips accounted for just over 8% of the index before the dotcom crash — less than half their current share, making today's concentration a phenomenon without historical precedent.",
+      "Nvidia sits at the center of this story as the single largest driver of the sector's index weight expansion over the past few years amid the AI boom. However, the broadening of the semiconductor trade to include Broadcom, TSCM, ASML, AMD, and more recently memory stocks like Micron and SanDisk has pushed the index higher and higher.",
+      "The concentration dynamic is self-reinforcing, and Rubner's note underscores the mechanism: strong performance raises a stock's index weight, higher weights compel passive funds to buy more of the same shares, and that additional buying pressure pushes prices — and weights, still higher. That flywheel has been spinning hard.",
+      "ETF inflows have exceeded $1 trillion year-to-date as of late June 2026, running roughly 45% ahead of last year's record pace, according to Rubner's analysis, amplifying the link between index concentration and capital allocation at every rebalancing cycle.",
+      "The valuation warnings are now stacking up. Bank of America's proprietary Bubble Risk Indicator, scored on a zero-to-one scale where one signals extreme bubble-like price action, registered 0.91 for the PHLX Semiconductor Sector and 0.82 for the Technology Select Sector, Reuters reported on June 30. The S&P 500's price-to-sales ratio sits at 3.22, well above its long-term historical average of 1.84, according to Tajinder Dhillon, head of earnings research at LSEG. The Buffett Indicator, total U.S. stock market capitalization relative to GDP, currently stands at 231.8%, which signals the market is \"significantly overvalued.\"",
+      "Not everyone frames the concentration as purely a bubble risk. JJ Kinahan, head of retail expansion and alternative investment products at Cboe Global Markets, drew a distinction between the chip suppliers and their customers: \"The folks selling the picks and shovels are in incredibly good stead. Those buying them still have to prove that the billions and billions of dollars they're spending is worth it.\" That question, whether hyperscaler AI capital expenditure ultimately generates returns that justify current semiconductor valuations, is increasingly the pivotal debate on Wall Street."
+    ],
+    "html": null
+  }
+}

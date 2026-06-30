@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e04814c2-dfa0-3376-a1d5-4fa63429968f/meta-opens-whatsapp-usernames.html",
+    "fetched_at": "2026-06-30T07:00:16.817825-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Opens WhatsApp Usernames to 3 Billion Users",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) is pushing WhatsApp deeper into privacy-focused messaging as the app prepares to let its 3 billion global users reserve unique usernames. Starting Monday, users can claim a username, with the feature planned to go live later this year. The change could make it easier for people to connect on WhatsApp without handing over their phone number, especially when meeting new contacts, joining group chats, or speaking with people they may not know well.\nWhatsApp's username system appears designed less like a social profile and more like a privacy layer. Unlike some social platforms, users will not be able to browse a public username directory, and people must know the exact username before starting a conversation. That approach could help Meta position the update as a controlled privacy tool rather than a discovery feature, while bringing WhatsApp closer to rival messaging apps such as Signal, which already allows username-based conversations.\nMeta is also putting safeguards around the rollout to reduce possible impersonation and scam risks. WhatsApp said existing Facebook and Instagram usernames will be reserved for their current owners during the reservation period, while certain high-profile names tied to public figures, celebrities, and government entities will remain permanently protected. WhatsApp head of product Alice Newton-Rex said the goal is to give users another way to keep phone numbers private and feel more confident connecting with new people.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) is pushing WhatsApp deeper into privacy-focused messaging as the app prepares to let its 3 billion global users reserve unique usernames. Starting Monday, users can claim a username, with the feature planned to go live later this year. The change could make it easier for people to connect on WhatsApp without handing over their phone number, especially when meeting new contacts, joining group chats, or speaking with people they may not know well.",
+      "WhatsApp's username system appears designed less like a social profile and more like a privacy layer. Unlike some social platforms, users will not be able to browse a public username directory, and people must know the exact username before starting a conversation. That approach could help Meta position the update as a controlled privacy tool rather than a discovery feature, while bringing WhatsApp closer to rival messaging apps such as Signal, which already allows username-based conversations.",
+      "Meta is also putting safeguards around the rollout to reduce possible impersonation and scam risks. WhatsApp said existing Facebook and Instagram usernames will be reserved for their current owners during the reservation period, while certain high-profile names tied to public figures, celebrities, and government entities will remain permanently protected. WhatsApp head of product Alice Newton-Rex said the goal is to give users another way to keep phone numbers private and feel more confident connecting with new people."
+    ],
+    "html": null
+  }
+}

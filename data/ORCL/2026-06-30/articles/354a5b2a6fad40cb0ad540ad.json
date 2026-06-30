@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-ai-supply-chain-175512818.html",
+    "fetched_at": "2026-06-30T07:00:39.960038-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Adds AI Supply Chain Apps",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (ORCL, Financials) is adding more AI tools to its cloud supply chain platform. The company launched four Fusion Agentic Applications for Oracle Fusion Cloud Supply Chain & Manufacturing. The new tools cover inventory planning, supplier qualification, production readiness and Kanban administration.\nThe idea is to handle routine supply chain work faster while sending exceptions to people when review is needed.\nOracle also added inventory optimization features, including network visualization and an advisor agent that recommends safety stock levels based on demand and lead-time changes.\nThe launch comes as supply chain teams deal with higher costs, disruptions and pressure to improve service levels.\nFor Oracle, the update keeps AI tied directly to business software customers already use. The next question is whether these tools can help drive more adoption of Oracle Cloud SCM.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (ORCL, Financials) is adding more AI tools to its cloud supply chain platform. The company launched four Fusion Agentic Applications for Oracle Fusion Cloud Supply Chain & Manufacturing. The new tools cover inventory planning, supplier qualification, production readiness and Kanban administration.",
+      "The idea is to handle routine supply chain work faster while sending exceptions to people when review is needed.",
+      "Oracle also added inventory optimization features, including network visualization and an advisor agent that recommends safety stock levels based on demand and lead-time changes.",
+      "The launch comes as supply chain teams deal with higher costs, disruptions and pressure to improve service levels.",
+      "For Oracle, the update keeps AI tied directly to business software customers already use. The next question is whether these tools can help drive more adoption of Oracle Cloud SCM."
+    ],
+    "html": null
+  }
+}

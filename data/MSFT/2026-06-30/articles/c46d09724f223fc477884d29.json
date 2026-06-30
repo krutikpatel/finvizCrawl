@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tesla-faces-autonomy-challenger-121947795.html",
+    "fetched_at": "2026-06-30T07:00:51.382279-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Faces New Autonomy Challenger",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) faces another autonomy challenger as Wayve builds momentum with automakers, ride-hailing partners and major tech investors.\nWayve recently signed a deal with Stellantis (NYSE:STLA) and Uber (NYSE:UBER) to explore Level 4 robotaxi deployments globally. It also signed an earlier agreement with Uber and Nissan to develop robotaxis using the Nissan Leaf, with a pilot planned in Tokyo in late 2026 through the Uber app.\nThe company's pitch is different from Tesla's. Wayve co-founder Alex Kendall told The Wall Street Journal that not everyone wants to buy a Tesla, adding that Wayve wants to bring autonomy software to other automakers. The company also expects to launch supervised autonomy software in consumer vehicles in 2027.\nFounded in 2017, Wayve focuses on end-to-end deep learning and embodied intelligence, which helps its AI adapt to new environments. Investors include SoftBank (SFTBY), Microsoft (NASDAQ:MSFT), Nvidia (NASDAQ:NVDA), Uber, Stellantis, Mercedes-Benz (MBGAF), Nissan (NSANY), AMD (NASDAQ:AMD), Arm (NASDAQ:ARM) and Qualcomm (NASDAQ:QCOM).",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) faces another autonomy challenger as Wayve builds momentum with automakers, ride-hailing partners and major tech investors.",
+      "Wayve recently signed a deal with Stellantis (NYSE:STLA) and Uber (NYSE:UBER) to explore Level 4 robotaxi deployments globally. It also signed an earlier agreement with Uber and Nissan to develop robotaxis using the Nissan Leaf, with a pilot planned in Tokyo in late 2026 through the Uber app.",
+      "The company's pitch is different from Tesla's. Wayve co-founder Alex Kendall told The Wall Street Journal that not everyone wants to buy a Tesla, adding that Wayve wants to bring autonomy software to other automakers. The company also expects to launch supervised autonomy software in consumer vehicles in 2027.",
+      "Founded in 2017, Wayve focuses on end-to-end deep learning and embodied intelligence, which helps its AI adapt to new environments. Investors include SoftBank (SFTBY), Microsoft (NASDAQ:MSFT), Nvidia (NASDAQ:NVDA), Uber, Stellantis, Mercedes-Benz (MBGAF), Nissan (NSANY), AMD (NASDAQ:AMD), Arm (NASDAQ:ARM) and Qualcomm (NASDAQ:QCOM)."
+    ],
+    "html": null
+  }
+}

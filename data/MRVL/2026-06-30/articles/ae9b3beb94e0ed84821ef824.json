@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/micron-intel-lead-chip-selloff-192501898.html",
+    "fetched_at": "2026-06-30T07:01:36.911393-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron and Intel Lead Chip Selloff",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron (NASDAQ:MU) and Intel (NASDAQ:INTC) led chip stocks lower Monday even as the broader market moved higher on easing U.S.-Iran tensions.\nMicron fell 6% after a class-action lawsuit filed in California accused Micron, Samsung and SK Hynix of coordinating to restrict DRAM supply and push prices higher during the AI boom. Sandisk dropped 8%, while Western Digital rose 2.7%, Seagate gained 0.7% and Everpure edged up 1.6%.\nThe weakness spread beyond memory. Intel dropped 5%, Marvell fell 4% and AMD (NASDAQ:AMD) slipped 3%, while the Philadelphia Semiconductor Index declined 0.4%. That stood in contrast to gains of 0.5% for the Dow, 0.6% for the S&P 500 and 1% for the Nasdaq.\nAI software stocks held up better. Palantir gained 4.7% after new deals with Surf Air Mobility and Nvidia, while Nvidia rose 0.7% and the iShares Expanded Tech-Software ETF gained 2.5%. the split shows chip sentiment remains fragile even as AI software demand stays strong.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron (NASDAQ:MU) and Intel (NASDAQ:INTC) led chip stocks lower Monday even as the broader market moved higher on easing U.S.-Iran tensions.",
+      "Micron fell 6% after a class-action lawsuit filed in California accused Micron, Samsung and SK Hynix of coordinating to restrict DRAM supply and push prices higher during the AI boom. Sandisk dropped 8%, while Western Digital rose 2.7%, Seagate gained 0.7% and Everpure edged up 1.6%.",
+      "The weakness spread beyond memory. Intel dropped 5%, Marvell fell 4% and AMD (NASDAQ:AMD) slipped 3%, while the Philadelphia Semiconductor Index declined 0.4%. That stood in contrast to gains of 0.5% for the Dow, 0.6% for the S&P 500 and 1% for the Nasdaq.",
+      "AI software stocks held up better. Palantir gained 4.7% after new deals with Surf Air Mobility and Nvidia, while Nvidia rose 0.7% and the iShares Expanded Tech-Software ETF gained 2.5%. the split shows chip sentiment remains fragile even as AI software demand stays strong."
+    ],
+    "html": null
+  }
+}

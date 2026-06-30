@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/economy/articles/wolfe-sees-higher-memory-prices-125032671.html",
+    "fetched_at": "2026-06-30T07:00:11.209137-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wolfe sees higher memory prices adding to U.S. inflation pressures",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Wolfe Research said surging memory chip prices driven by the artificial intelligence buildout have already added meaningfully to core inflation, with further upside likely as costs continue to filter through the consumer electronics supply chain.\nAnalyst Stephanie Roth told clients in a note that the firm estimates higher memory prices have added roughly 30 basis points to core PCE inflation, noting that \"AI was supposed to make everything cheaper. Instead, one of the first places it's showing up is in higher prices.\"\nRoth pointed to surging demand for DRAM and NAND flash memory as hyperscalers expand AI infrastructure, which she said has pushed memory prices up two to six times.\nComputer prices, long a reliable source of disinflation, are now \"rising at their fastest pace in decades,\" according to Wolfe.\nApple's recent price increases have drawn particular attention to the trend. Wolfe estimates the company's planned increases for the MacBook, iPad and iPhone alone could add roughly 5 basis points to core PCE inflation.\nCiting TechInsights estimates via the Wall Street Journal, the firm noted that higher memory and storage costs could raise the iPhone's estimated bill of materials by roughly 25%, implying a retail price increase of more than $200 if fully passed through.\nWolfe also flagged an offsetting measurement change. Starting in September, the BEA will alter how it calculates the computer software component of core PCE, a shift Wolfe estimates could trim roughly 10 basis points from the inflation measure based on a hypothetical equal weighting of the three price indexes involved.\nRelated articles\nWolfe sees higher memory prices adding to U.S. inflation pressures\nCiti pushes back Fed rate cuts to May after blowout January jobs report\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- Wolfe Research said surging memory chip prices driven by the artificial intelligence buildout have already added meaningfully to core inflation, with further upside likely as costs continue to filter through the consumer electronics supply chain.",
+      "Analyst Stephanie Roth told clients in a note that the firm estimates higher memory prices have added roughly 30 basis points to core PCE inflation, noting that \"AI was supposed to make everything cheaper. Instead, one of the first places it's showing up is in higher prices.\"",
+      "Roth pointed to surging demand for DRAM and NAND flash memory as hyperscalers expand AI infrastructure, which she said has pushed memory prices up two to six times.",
+      "Computer prices, long a reliable source of disinflation, are now \"rising at their fastest pace in decades,\" according to Wolfe.",
+      "Apple's recent price increases have drawn particular attention to the trend. Wolfe estimates the company's planned increases for the MacBook, iPad and iPhone alone could add roughly 5 basis points to core PCE inflation.",
+      "Citing TechInsights estimates via the Wall Street Journal, the firm noted that higher memory and storage costs could raise the iPhone's estimated bill of materials by roughly 25%, implying a retail price increase of more than $200 if fully passed through.",
+      "Wolfe also flagged an offsetting measurement change. Starting in September, the BEA will alter how it calculates the computer software component of core PCE, a shift Wolfe estimates could trim roughly 10 basis points from the inflation measure based on a hypothetical equal weighting of the three price indexes involved.",
+      "Related articles",
+      "Wolfe sees higher memory prices adding to U.S. inflation pressures",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

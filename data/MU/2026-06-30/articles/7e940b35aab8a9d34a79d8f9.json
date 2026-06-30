@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-target-lifted-bernstein-124643331.html",
+    "fetched_at": "2026-06-30T07:00:22.669904-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SanDisk stock target lifted at Bernstein to $3000 on new memory LTAs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Bernstein raised its price target on SanDisk to $3,000 from $1,700, a move driven by a fundamental shift in how memory makers are structuring long-term supply agreements (LTAs) with customers, which the broker says materially reduces the risk of severe earnings swings during industry downturns.\nAnalyst Mark Newman said the new generation of memory long-term agreements (LTAs) differs significantly from older contracts, which had been \"extremely lopsided in favor of the customer.\"\nThe new agreements feature fixed or range-bound pricing, upfront financial commitments designed to lock in customers and protect suppliers' downside, and contract terms stretching three to five years.\nBernstein estimates SanDisk's floor price under its recently signed LTAs at $0.29 per gigabyte, in line with the firm's second-quarter 2026 average selling price estimate. That compares with a floor price for rival Micron that Bernstein estimates is meaningfully below current market levels, though Micron's contracts tend to run closer to five years versus SanDisk's three-to-five-year average.\nA key part of Newman's argument concerns how the upfront financial guarantees actually work. The analyst argues the Street misunderstands these commitments, which he says are often mistakenly viewed as a static percentage of contract value.\n\"In reality, this ratio is dynamic,\" he wrote, since the same guarantee covers a shrinking remaining obligation as revenue is recognized over time, meaning protection strengthens in the later years of a contract, when a downturn is more likely to hit.\nModeling a worst-case scenario in which customers walk away from contracts whenever doing so saves them money, Bernstein estimates that with 60% of volumes covered by LTAs, SanDisk's fiscal 2030 earnings per share would still reach $214 even under a 72% peak-to-trough price decline, versus $81 without any LTA protection.\nThe firm also raised its base-case EPS estimates for SanDisk to $243 for fiscal 2027 and $272 for fiscal 2028, with bull-case estimates of $350 and $400, respectively, reflecting expectations of a stronger and longer pricing upcycle alongside reduced downside risk in a future downturn.\nThe $3,000 target is based on 11 times Bernstein's fiscal 2028 EPS estimate, or 14 times its fiscal 2026-2030 average \"through-cycle\" EPS. The broker maintains an Outperform rating on the stock, arguing that lower earnings volatility from the LTA structure \"is not being factored in to current multiples.\"\nRelated articles\nSanDisk stock target lifted at Bernstein to $3000 on new memory LTAs\nCiti pushes back Fed rate cuts to May after blowout January jobs report\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- Bernstein raised its price target on SanDisk to $3,000 from $1,700, a move driven by a fundamental shift in how memory makers are structuring long-term supply agreements (LTAs) with customers, which the broker says materially reduces the risk of severe earnings swings during industry downturns.",
+      "Analyst Mark Newman said the new generation of memory long-term agreements (LTAs) differs significantly from older contracts, which had been \"extremely lopsided in favor of the customer.\"",
+      "The new agreements feature fixed or range-bound pricing, upfront financial commitments designed to lock in customers and protect suppliers' downside, and contract terms stretching three to five years.",
+      "Bernstein estimates SanDisk's floor price under its recently signed LTAs at $0.29 per gigabyte, in line with the firm's second-quarter 2026 average selling price estimate. That compares with a floor price for rival Micron that Bernstein estimates is meaningfully below current market levels, though Micron's contracts tend to run closer to five years versus SanDisk's three-to-five-year average.",
+      "A key part of Newman's argument concerns how the upfront financial guarantees actually work. The analyst argues the Street misunderstands these commitments, which he says are often mistakenly viewed as a static percentage of contract value.",
+      "\"In reality, this ratio is dynamic,\" he wrote, since the same guarantee covers a shrinking remaining obligation as revenue is recognized over time, meaning protection strengthens in the later years of a contract, when a downturn is more likely to hit.",
+      "Modeling a worst-case scenario in which customers walk away from contracts whenever doing so saves them money, Bernstein estimates that with 60% of volumes covered by LTAs, SanDisk's fiscal 2030 earnings per share would still reach $214 even under a 72% peak-to-trough price decline, versus $81 without any LTA protection.",
+      "The firm also raised its base-case EPS estimates for SanDisk to $243 for fiscal 2027 and $272 for fiscal 2028, with bull-case estimates of $350 and $400, respectively, reflecting expectations of a stronger and longer pricing upcycle alongside reduced downside risk in a future downturn.",
+      "The $3,000 target is based on 11 times Bernstein's fiscal 2028 EPS estimate, or 14 times its fiscal 2026-2030 average \"through-cycle\" EPS. The broker maintains an Outperform rating on the stock, arguing that lower earnings volatility from the LTA structure \"is not being factored in to current multiples.\"",
+      "Related articles",
+      "SanDisk stock target lifted at Bernstein to $3000 on new memory LTAs",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

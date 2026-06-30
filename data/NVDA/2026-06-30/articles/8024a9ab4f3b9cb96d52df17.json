@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-falls-taiwan-probe-123804304.html",
+    "fetched_at": "2026-06-30T07:01:08.183836-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Super Micro Falls on Taiwan Probe",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSuper Micro Computer (SMCI, Financials) came under pressure after Taiwanese authorities reportedly searched company offices as part of a widening chip export investigation.\nThe probe centers on allegations that Nvidia chips may have been shipped to China through servers, according to a Bloomberg report cited by Investing.com.\nSuper Micro shares fell as much as 9% after the news before recovering some losses.\nTaiwanese prosecutors also searched homes and offices tied to several individuals and affiliated companies. Super Micro previously said it is cooperating with authorities.\nThe case matters because advanced AI chips remain under tight U.S. export controls. Washington has restricted shipments to China over national security concerns, and Taiwan is now weighing tougher rules of its own.\nFor investors, the risk is clear. Super Micro has benefited from strong AI server demand, but any export-control issue could bring legal costs, delays and reputational pressure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Super Micro Computer (SMCI, Financials) came under pressure after Taiwanese authorities reportedly searched company offices as part of a widening chip export investigation.",
+      "The probe centers on allegations that Nvidia chips may have been shipped to China through servers, according to a Bloomberg report cited by Investing.com.",
+      "Super Micro shares fell as much as 9% after the news before recovering some losses.",
+      "Taiwanese prosecutors also searched homes and offices tied to several individuals and affiliated companies. Super Micro previously said it is cooperating with authorities.",
+      "The case matters because advanced AI chips remain under tight U.S. export controls. Washington has restricted shipments to China over national security concerns, and Taiwan is now weighing tougher rules of its own.",
+      "For investors, the risk is clear. Super Micro has benefited from strong AI server demand, but any export-control issue could bring legal costs, delays and reputational pressure."
+    ],
+    "html": null
+  }
+}

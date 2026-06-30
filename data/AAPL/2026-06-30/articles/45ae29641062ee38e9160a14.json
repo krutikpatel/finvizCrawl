@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-stocks-lose-2-122836497.html",
+    "fetched_at": "2026-06-30T07:00:11.509823-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Magnificent 7 stocks lose $2.3 trillion in June",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- The \"Magnificent 7\" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutiny of large infrastructure spending by these firms.\nThe group includes Microsoft Corporation, Nvidia Corporation, Alphabet Inc, Apple Inc, Meta Platforms Inc, Tesla Inc, and Amazon.com Inc.\nAmazon, Microsoft, Alphabet, and Meta are spending hundreds of billions of dollars on chip purchases and data center construction to support their artificial intelligence services. A portion of this investment is funded through debt.\nMicrosoft fell 20% in June, while Nvidia declined approximately 13%. Apple and Amazon each lost roughly 8% during the month.\nInvestors are turning increasngly cautious amid the massive spending plans and are awaiting to see actual results, with attention focused on the second quarter earnings season beginning in July.\nThe Philadelphia Semiconductor Index rose about 6% this month. The index, which includes Taiwan Semiconductor Manufacturing Co, Micron Technology Inc, and ASML Holding NV, gained more than 90% this year compared to a 3.4% decline for the Magnificent 7.\nSemiconductor companies benefited from purchasing activity by large technology firms, which created supply shortages. The supply chain from component suppliers to manufacturers saw positive effects from this demand.\nMemory components face a supply shortage that pushed prices higher, creating a bottleneck in the market.\nRelated articles\nMagnificent 7 stocks lose $2.3 trillion in June\nCiti pushes back Fed rate cuts to May after blowout January jobs report\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- The \"Magnificent 7\" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutiny of large infrastructure spending by these firms.",
+      "The group includes Microsoft Corporation, Nvidia Corporation, Alphabet Inc, Apple Inc, Meta Platforms Inc, Tesla Inc, and Amazon.com Inc.",
+      "Amazon, Microsoft, Alphabet, and Meta are spending hundreds of billions of dollars on chip purchases and data center construction to support their artificial intelligence services. A portion of this investment is funded through debt.",
+      "Microsoft fell 20% in June, while Nvidia declined approximately 13%. Apple and Amazon each lost roughly 8% during the month.",
+      "Investors are turning increasngly cautious amid the massive spending plans and are awaiting to see actual results, with attention focused on the second quarter earnings season beginning in July.",
+      "The Philadelphia Semiconductor Index rose about 6% this month. The index, which includes Taiwan Semiconductor Manufacturing Co, Micron Technology Inc, and ASML Holding NV, gained more than 90% this year compared to a 3.4% decline for the Magnificent 7.",
+      "Semiconductor companies benefited from purchasing activity by large technology firms, which created supply shortages. The supply chain from component suppliers to manufacturers saw positive effects from this demand.",
+      "Memory components face a supply shortage that pushed prices higher, creating a bottleneck in the market.",
+      "Related articles",
+      "Magnificent 7 stocks lose $2.3 trillion in June",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

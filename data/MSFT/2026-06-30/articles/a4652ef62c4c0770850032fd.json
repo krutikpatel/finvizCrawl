@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/alphabet-google-stock-dow-apple-nvidia-db865af5?mod=bar_FV",
+    "fetched_at": "2026-06-30T07:00:50.758160-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Hot New AI Stock That’s Really Behind the Dow’s Gains—It’s Not Alphabet<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Hot New AI Stock That’s Really Behind the Dow’s Gains—and It’s Not Alphabet\nIf the Dow’s ascent to 52,000 were a World Cup match, then Alphabet involvement was akin to a soccer player being substituted on in the final moments and scoring the fourth goal in a 4-0 win.",
+    "text_blocks": [
+      "The Hot New AI Stock That’s Really Behind the Dow’s Gains—and It’s Not Alphabet",
+      "If the Dow’s ascent to 52,000 were a World Cup match, then Alphabet involvement was akin to a soccer player being substituted on in the final moments and scoring the fourth goal in a 4-0 win."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/000b2db2-2b52-3556-b99b-240342632952/taiwan-raids-super-micro-in.html",
+    "fetched_at": "2026-06-30T07:01:07.865936-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Taiwan raids Super Micro in Nvidia AI chip smuggling probe",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Taiwan's Keelung District Prosecutors Office raided the Taiwan offices of Super Micro Computer and two other firms Monday as part of an expanded investigation into the alleged smuggling of Nvidia AI chips to China, with the number of people under investigation growing from three to nine.\nHuang Sheng, the Keelung head prosecutor, told AFP that Monday's operation spanned 12 locations — among them six private residences and the offices of three companies: Nasdaq-listed Super Micro Computer and Taiwan-listed firms Albatron Technology and Chief Telecom. All three companies said they are cooperating with prosecutors.\nInvestigators allege the suspects falsified paperwork to facilitate the unauthorized shipment of approximately 50 Super Micro servers loaded with advanced Nvidia chips to China, circumventing U.S. export controls. At least a portion of those servers passed through Taiwan customs inspection before being routed to China by way of Japan, according to Bloomberg. The investigation dates to May, when prosecutors announced they were looking into exports of premium AI servers destined for China, Macau, and Hong Kong.\nSuper Micro Computer stock fell 8% in U.S. trading. Shares of Albatron Technology and Chief Telecom plunged 10% and more than 2%, respectively, in Taipei.\nIn a statement, Super Micro said it remains committed to ensuring its technology reaches only lawful end users, adding that its products have repeatedly been \"continued to be targeted in these matters\" and that the company is working with authorities in Taiwan and elsewhere.\nMonday's sweep deepens what has become Taiwan's first openly acknowledged effort to halt the illicit flow of AI chips, an initiative that Washington has long pushed the island to undertake. Because Taiwanese law contains no provision specifically criminalizing AI chip sales to China, authorities have had to piece together cases using other statutes not designed for that purpose. To close that gap, DPP legislator Chung Chia-pin — affiliated with President Lai Ching-te's ruling party — is drafting a Foreign Trade Act amendment that would establish a dedicated \"mainland China semiconductor chip clause\" banning such shipments outright.\nAt a Taipei forum earlier this month, Chris McGuire — a Council on Foreign Relations specialist on China and AI who served on the National Security Council — described the diversion of chips through Taiwan and Southeast Asia as a \"really significant problem.\" \"It's not a criminal violation in Taiwan to export AI chips to China, obviously it is under US law, but it's not under Taiwanese law. That needs to change, right?\" he said.",
+    "text_blocks": [
+      "Taiwan's Keelung District Prosecutors Office raided the Taiwan offices of Super Micro Computer and two other firms Monday as part of an expanded investigation into the alleged smuggling of Nvidia AI chips to China, with the number of people under investigation growing from three to nine.",
+      "Huang Sheng, the Keelung head prosecutor, told AFP that Monday's operation spanned 12 locations — among them six private residences and the offices of three companies: Nasdaq-listed Super Micro Computer and Taiwan-listed firms Albatron Technology and Chief Telecom. All three companies said they are cooperating with prosecutors.",
+      "Investigators allege the suspects falsified paperwork to facilitate the unauthorized shipment of approximately 50 Super Micro servers loaded with advanced Nvidia chips to China, circumventing U.S. export controls. At least a portion of those servers passed through Taiwan customs inspection before being routed to China by way of Japan, according to Bloomberg. The investigation dates to May, when prosecutors announced they were looking into exports of premium AI servers destined for China, Macau, and Hong Kong.",
+      "Super Micro Computer stock fell 8% in U.S. trading. Shares of Albatron Technology and Chief Telecom plunged 10% and more than 2%, respectively, in Taipei.",
+      "In a statement, Super Micro said it remains committed to ensuring its technology reaches only lawful end users, adding that its products have repeatedly been \"continued to be targeted in these matters\" and that the company is working with authorities in Taiwan and elsewhere.",
+      "Monday's sweep deepens what has become Taiwan's first openly acknowledged effort to halt the illicit flow of AI chips, an initiative that Washington has long pushed the island to undertake. Because Taiwanese law contains no provision specifically criminalizing AI chip sales to China, authorities have had to piece together cases using other statutes not designed for that purpose. To close that gap, DPP legislator Chung Chia-pin — affiliated with President Lai Ching-te's ruling party — is drafting a Foreign Trade Act amendment that would establish a dedicated \"mainland China semiconductor chip clause\" banning such shipments outright.",
+      "At a Taipei forum earlier this month, Chris McGuire — a Council on Foreign Relations specialist on China and AI who served on the National Security Council — described the diversion of chips through Taiwan and Southeast Asia as a \"really significant problem.\" \"It's not a criminal violation in Taiwan to export AI chips to China, obviously it is under US law, but it's not under Taiwanese law. That needs to change, right?\" he said."
+    ],
+    "html": null
+  }
+}

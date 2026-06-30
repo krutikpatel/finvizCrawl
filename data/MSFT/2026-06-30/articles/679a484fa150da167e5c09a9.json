@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/microsoft-heads-for-biggest-monthly-loss-since-dot-com-burst-RDly3zMSyUNlgvRcH5Su?mod=wsj_FV",
+    "fetched_at": "2026-06-30T07:00:50.754639-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Heads for Biggest Monthly Loss Since Dot-Com Burst",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n36 min ago\nMicrosoft Heads for Biggest Monthly Loss Since Dot-Com Burst\n18%\nThat's how much Microsoft shares have fallen this month as investors retreat from Mag 7 stocks. It's put the tech behemoth on track for its worst month since December 2000, when stocks were in the midst of the dot-com bubble burst.\nLosses like this are quite rare for Microsoft. Aside from this month, it has only suffered monthly losses of this magnitude during big market selloffs. That includes the late-2000s financial crisis and the downturn triggered by the 1987 \"Black Monday\" crash.",
+    "text_blocks": [
+      "LIVE",
+      "36 min ago",
+      "Microsoft Heads for Biggest Monthly Loss Since Dot-Com Burst",
+      "18%",
+      "That's how much Microsoft shares have fallen this month as investors retreat from Mag 7 stocks. It's put the tech behemoth on track for its worst month since December 2000, when stocks were in the midst of the dot-com bubble burst.",
+      "Losses like this are quite rare for Microsoft. Aside from this month, it has only suffered monthly losses of this magnitude during big market selloffs. That includes the late-2000s financial crisis and the downturn triggered by the 1987 \"Black Monday\" crash."
+    ],
+    "html": null
+  }
+}

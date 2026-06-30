@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/viasat-stock-price-taleover-target-iridium-spacex-2bfece81?mod=bar_FV",
+    "fetched_at": "2026-06-30T07:01:12.702008-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Viasat Stock Could Be a Takeover Target After Rocket Lab, Iridium Deal<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This Space Stock Could Be a Takeover Target After Rocket Lab, Iridium Deal\nRocket Lab deal to buy Iridium Communications is a reminder that companies with existing satellite assets are hot property in the new space race. ViaSat might be the next takeover target.",
+    "text_blocks": [
+      "This Space Stock Could Be a Takeover Target After Rocket Lab, Iridium Deal",
+      "Rocket Lab deal to buy Iridium Communications is a reminder that companies with existing satellite assets are hot property in the new space race. ViaSat might be the next takeover target."
+    ],
+    "html": null
+  }
+}

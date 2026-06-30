@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-faces-legal-heat-u-122722284.html",
+    "fetched_at": "2026-06-30T07:01:13.610573-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Faces Legal Heat in U.S. and Australia",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon.com (AMZN, Financials) is facing fresh legal pressure in two markets. The company agreed to pay $2.25 million to settle U.S. claims that it failed to give identity theft victims records tied to fraudulent purchases made in their names.\nThe settlement follows an FTC investigation into whether Amazon provided customers with information required under the Fair Credit Reporting Act.\nAmazon is also being sued in Australia. The country's competition regulator said Amazon Australia used unfair contract terms when it added ads to Prime Video in 2024.\nThe regulator said more than 1 million annual Prime subscribers had to accept ads or pay an extra AU$2.99 a month for an ad-free option, with no refund if they canceled.\nThe legal news comes shortly after Amazon shares rose on reports of strong Prime Day demand.\nFor investors, the cases are not large enough to change Amazon's financial outlook. Still, they show regulators are watching how the company handles subscriptions, customer records and consumer rights.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon.com (AMZN, Financials) is facing fresh legal pressure in two markets. The company agreed to pay $2.25 million to settle U.S. claims that it failed to give identity theft victims records tied to fraudulent purchases made in their names.",
+      "The settlement follows an FTC investigation into whether Amazon provided customers with information required under the Fair Credit Reporting Act.",
+      "Amazon is also being sued in Australia. The country's competition regulator said Amazon Australia used unfair contract terms when it added ads to Prime Video in 2024.",
+      "The regulator said more than 1 million annual Prime subscribers had to accept ads or pay an extra AU$2.99 a month for an ad-free option, with no refund if they canceled.",
+      "The legal news comes shortly after Amazon shares rose on reports of strong Prime Day demand.",
+      "For investors, the cases are not large enough to change Amazon's financial outlook. Still, they show regulators are watching how the company handles subscriptions, customer records and consumer rights."
+    ],
+    "html": null
+  }
+}

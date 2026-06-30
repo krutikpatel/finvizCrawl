@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/12faea39-11a3-3a2e-a110-b54847df729b/the-real-engine-behind.html",
+    "fetched_at": "2026-06-30T07:00:39.649947-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Real Engine Behind Snowflake Stock's Reacceleration",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A new AI tool is seeing the fastest adoption in the company's history, and it might be the key to unlocking a whole new phase of growth.\nSnowflake (SNOW) stock has a knack for sudden bursts of speed. It's jumped more than 30% in under two months on 10 separate occasions since 2020. After its most recent 53% three-month surge, you'd be right to ask what, exactly, could be left in the tank.\nThe answer goes beyond another quarter of solid growth to reveal a genuine, measurable acceleration. And it appears to be coming from one specific place.\nWhat Just Lit a Fire Under Growth?\nLook at the latest numbers. Product revenue growth just quickened to 34% year-over-year, a notable step up from 30% last quarter and 26% a year ago. Management called it the company's \"strongest sequential dollar growth in company history.\" That kind of inflection doesn't happen by accident. The company was confident enough to raise its full-year growth outlook from 27% to 31%.\nThe primary driver, according to executives, is a \"meaningful uplift from AI capabilities.\" Specifically, a new coding assistant called Cortex Code, or \"CoCo.\" This tool, along with its sibling Snowflake Intelligence, is seeing the \"fastest adoption of any new products in our history,\" with CoCo now in use at more than 7,100 accounts. The CFO was even more direct, stating that CoCo was the \"largest driver to the increase in our forecast.\"\nWhy Is A Coding Tool Such A Big Deal?\nBecause it functions as more than another product to sell. Management argues CoCo acts as a powerful accelerant for its entire multi-billion-dollar platform. The pitch is simple: CoCo makes developers dramatically more productive. One executive described how a partner used it to build a complex customer application in just 5 hours. Another noted that difficult data migrations that used to take nearly 2 years can now be done in a couple of quarters.\nThis is the flywheel. When it's suddenly 10 times faster to build data pipelines, create AI agents, or move old workloads onto Snowflake, customers are more likely to do more of it. In addition to generating its own revenue, the tool \"drives more consumption on the core data platform.\" It's effectively pouring fuel on the main engine.\nBut Can Customers Afford This Speed?\nThis is the critical question. When a powerful new tool makes it easy to consume more, there's always a risk customers will eventually tap the brakes to control spending. It's a concern analysts have raised directly. Management's response is twofold: the value is so significant, making a company's most expensive resource, its developers, far more effective, that the return on investment is clear. Second, they are building in cost-governance tools to give clients predictability.",
+    "text_blocks": [
+      "A new AI tool is seeing the fastest adoption in the company's history, and it might be the key to unlocking a whole new phase of growth.",
+      "Snowflake (SNOW) stock has a knack for sudden bursts of speed. It's jumped more than 30% in under two months on 10 separate occasions since 2020. After its most recent 53% three-month surge, you'd be right to ask what, exactly, could be left in the tank.",
+      "The answer goes beyond another quarter of solid growth to reveal a genuine, measurable acceleration. And it appears to be coming from one specific place.",
+      "What Just Lit a Fire Under Growth?",
+      "Look at the latest numbers. Product revenue growth just quickened to 34% year-over-year, a notable step up from 30% last quarter and 26% a year ago. Management called it the company's \"strongest sequential dollar growth in company history.\" That kind of inflection doesn't happen by accident. The company was confident enough to raise its full-year growth outlook from 27% to 31%.",
+      "The primary driver, according to executives, is a \"meaningful uplift from AI capabilities.\" Specifically, a new coding assistant called Cortex Code, or \"CoCo.\" This tool, along with its sibling Snowflake Intelligence, is seeing the \"fastest adoption of any new products in our history,\" with CoCo now in use at more than 7,100 accounts. The CFO was even more direct, stating that CoCo was the \"largest driver to the increase in our forecast.\"",
+      "Why Is A Coding Tool Such A Big Deal?",
+      "Because it functions as more than another product to sell. Management argues CoCo acts as a powerful accelerant for its entire multi-billion-dollar platform. The pitch is simple: CoCo makes developers dramatically more productive. One executive described how a partner used it to build a complex customer application in just 5 hours. Another noted that difficult data migrations that used to take nearly 2 years can now be done in a couple of quarters.",
+      "This is the flywheel. When it's suddenly 10 times faster to build data pipelines, create AI agents, or move old workloads onto Snowflake, customers are more likely to do more of it. In addition to generating its own revenue, the tool \"drives more consumption on the core data platform.\" It's effectively pouring fuel on the main engine.",
+      "But Can Customers Afford This Speed?",
+      "This is the critical question. When a powerful new tool makes it easy to consume more, there's always a risk customers will eventually tap the brakes to control spending. It's a concern analysts have raised directly. Management's response is twofold: the value is so significant, making a company's most expensive resource, its developers, far more effective, that the return on investment is clear. Second, they are building in cost-governance tools to give clients predictability."
+    ],
+    "html": null
+  }
+}
