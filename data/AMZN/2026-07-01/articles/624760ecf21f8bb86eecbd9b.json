@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/microsoft-plans-cut-5-500-130524724.html",
+    "fetched_at": "2026-07-01T07:00:43.633480-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Plans to Cut 5,500 Jobs in Latest Cost-Cutting Round",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) is planning to cut thousands of roles covering less than 2.5% of its workforce, with an announcement expected as early as next week. Microsoft had over 220,000 full-time employees, putting the potential cuts at roughly 5,500 roles. The reductions are expected to affect sales, consulting, and the Xbox gaming division. Microsoft declined to comment. Microsoft shares rose 1.58% in premarket.\nThe planned cuts follow a 2025 round in which Microsoft eliminated approximately 15,000 employees. Xbox has been a particular focus, with major layoffs at the unit earlier this month alongside price increases on gaming consoles worldwide and Microsoft considering options for the division including a potential spinoff.\nThe moves fit a broader pattern across the technology sector. Meta (NASDAQ:META) cut 10% of its workforce this year and Amazon (NASDAQ:AMZN) eliminated approximately 16,000 jobs globally, as companies trim headcount while simultaneously investing heavily in AI infrastructure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) is planning to cut thousands of roles covering less than 2.5% of its workforce, with an announcement expected as early as next week. Microsoft had over 220,000 full-time employees, putting the potential cuts at roughly 5,500 roles. The reductions are expected to affect sales, consulting, and the Xbox gaming division. Microsoft declined to comment. Microsoft shares rose 1.58% in premarket.",
+      "The planned cuts follow a 2025 round in which Microsoft eliminated approximately 15,000 employees. Xbox has been a particular focus, with major layoffs at the unit earlier this month alongside price increases on gaming consoles worldwide and Microsoft considering options for the division including a potential spinoff.",
+      "The moves fit a broader pattern across the technology sector. Meta (NASDAQ:META) cut 10% of its workforce this year and Amazon (NASDAQ:AMZN) eliminated approximately 16,000 jobs globally, as companies trim headcount while simultaneously investing heavily in AI infrastructure."
+    ],
+    "html": null
+  }
+}

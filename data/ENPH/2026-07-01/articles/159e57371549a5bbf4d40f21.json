@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/northland-capital-names-enphase-preferred-171948233.html",
+    "fetched_at": "2026-07-01T07:00:20.602967-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Northland Capital Names Enphase a Preferred Pick",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nEnphase Energy (NASDAQ:ENPH) rose 15.83% in premarket after Northland Capital named the company a preferred pick on rising electricity costs and El Nino-driven heat, both tailwinds for solar and battery storage demand in the U.S. and Europe. The firm pegs the average U.S. summer electricity bill at $778 a month this season, up about 8.5% from last year. That kind of jump tends to push more homeowners toward rooftop solar and battery backup.\nThere's also a longer game here. TD Cowen and Barclays have flagged Enphase's IQ Solid-State Transformer platform, a distributed power setup built for AI data centers, as a real growth avenue. The U.S. addressable market could top 11 GW by the early 2030s.\nShares have climbed more than 50% year to date.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Enphase Energy (NASDAQ:ENPH) rose 15.83% in premarket after Northland Capital named the company a preferred pick on rising electricity costs and El Nino-driven heat, both tailwinds for solar and battery storage demand in the U.S. and Europe. The firm pegs the average U.S. summer electricity bill at $778 a month this season, up about 8.5% from last year. That kind of jump tends to push more homeowners toward rooftop solar and battery backup.",
+      "There's also a longer game here. TD Cowen and Barclays have flagged Enphase's IQ Solid-State Transformer platform, a distributed power setup built for AI data centers, as a real growth avenue. The U.S. addressable market could top 11 GW by the early 2030s.",
+      "Shares have climbed more than 50% year to date."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-deliveries-report-77421883?mod=bar_FV",
+    "fetched_at": "2026-07-01T07:00:08.493163-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Rides a 10% Weekly Gain Into a High-Stakes Delivery Report<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Stock Rides a 10% Weekly Gain Into a High-Stakes Delivery Report\nTesla is set to report deliveries over a period that included a war, soaring oil prices, and the ongoing effects of U.S. electric-vehicle policy changes.\nTesla is set to report deliveries over a period that included a war, soaring oil prices, and the ongoing effects of U.S. electric-vehicle policy changes.",
+    "text_blocks": [
+      "Tesla Stock Rides a 10% Weekly Gain Into a High-Stakes Delivery Report",
+      "Tesla is set to report deliveries over a period that included a war, soaring oil prices, and the ongoing effects of U.S. electric-vehicle policy changes.",
+      "Tesla is set to report deliveries over a period that included a war, soaring oil prices, and the ongoing effects of U.S. electric-vehicle policy changes."
+    ],
+    "html": null
+  }
+}

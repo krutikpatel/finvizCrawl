@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/ab3642e0-699e-3afe-8645-621dc5297a96/meta-shares-jump-on-plans-to.html",
+    "fetched_at": "2026-07-01T07:00:32.262439-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta shares jump on plans to commercialise excess AI computing capacity",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Report says Meta is preparing a move into cloud infrastructure\nShares of Meta Platforms (NASDAQ:META) climbed as much as 8% on Wednesday after a Bloomberg report said the company is preparing to enter the cloud infrastructure market by offering customers access to surplus artificial intelligence computing resources.\nIf launched, the initiative would place Meta in direct competition with leading cloud providers including Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP), while reshaping the competitive landscape for AI infrastructure.\nMeta Compute to spearhead cloud ambitions\nAccording to people familiar with the matter, the project is being developed through an internal division known as Meta Compute.\nThe report said Meta is evaluating two complementary ways to generate revenue from the billions of dollars it has invested in AI infrastructure.\nTwo-pronged strategy targets developers and enterprise customers\nOne element of the strategy involves a Model-as-a-Service offering, allowing customers to access AI models hosted on Meta's infrastructure, including the company's Muse Spark models.\nUnder this model, Meta would manage the underlying data centres and semiconductor hardware while charging developers for access, in a similar approach to Amazon Web Services' Bedrock platform.\nThe second initiative would offer customers direct access to bare-metal computing resources, positioning Meta as a competitor to emerging cloud infrastructure specialists such as CoreWeave.\nCloud expansion reshapes AI competition\nThe report boosted investor sentiment toward Meta, sending its shares sharply higher in early trading.\nHowever, the news weighed on other cloud infrastructure providers and neocloud companies as investors assessed the impact of a major new entrant into the AI computing market.\nMeta stock price",
+    "text_blocks": [
+      "Report says Meta is preparing a move into cloud infrastructure",
+      "Shares of Meta Platforms (NASDAQ:META) climbed as much as 8% on Wednesday after a Bloomberg report said the company is preparing to enter the cloud infrastructure market by offering customers access to surplus artificial intelligence computing resources.",
+      "If launched, the initiative would place Meta in direct competition with leading cloud providers including Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP), while reshaping the competitive landscape for AI infrastructure.",
+      "Meta Compute to spearhead cloud ambitions",
+      "According to people familiar with the matter, the project is being developed through an internal division known as Meta Compute.",
+      "The report said Meta is evaluating two complementary ways to generate revenue from the billions of dollars it has invested in AI infrastructure.",
+      "Two-pronged strategy targets developers and enterprise customers",
+      "One element of the strategy involves a Model-as-a-Service offering, allowing customers to access AI models hosted on Meta's infrastructure, including the company's Muse Spark models.",
+      "Under this model, Meta would manage the underlying data centres and semiconductor hardware while charging developers for access, in a similar approach to Amazon Web Services' Bedrock platform.",
+      "The second initiative would offer customers direct access to bare-metal computing resources, positioning Meta as a competitor to emerging cloud infrastructure specialists such as CoreWeave.",
+      "Cloud expansion reshapes AI competition",
+      "The report boosted investor sentiment toward Meta, sending its shares sharply higher in early trading.",
+      "However, the news weighed on other cloud infrastructure providers and neocloud companies as investors assessed the impact of a major new entrant into the AI computing market.",
+      "Meta stock price"
+    ],
+    "html": null
+  }
+}

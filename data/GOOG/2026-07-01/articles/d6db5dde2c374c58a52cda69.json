@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/google-faces-south-korea-antitrust-130406467.html",
+    "fetched_at": "2026-07-01T07:00:29.684306-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Faces South Korea Antitrust Pressure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOG) is facing fresh antitrust pressure in South Korea after the country's competition regulator accused the company of using its dominance in Android app distribution to limit competition.\nThe Korea Fair Trade Commission said Google's alleged conduct affected about 14.16 trillion won, or roughly $9.1 billion, in revenue. If the allegations are upheld, Google could face a fine of as much as 6% of that amount under South Korean competition law.\nAccording to the regulator, Google's Games/Google Velocity Program, internally known as Project Hug, provided financial support to game developers in exchange for launching games on Google Play under terms at least as favorable as rival app stores.\nThe watchdog argues that the arrangement encouraged developers to prioritize Google Play while making it harder for competing platforms, including South Korea's OneStore, to attract content and compete effectively.\nGoogle did not immediately comment on the allegations. the case adds to growing global regulatory scrutiny of Google's app store practices. The next thing to watch is whether South Korean regulators impose penalties or force changes to Google's developer programs.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOG) is facing fresh antitrust pressure in South Korea after the country's competition regulator accused the company of using its dominance in Android app distribution to limit competition.",
+      "The Korea Fair Trade Commission said Google's alleged conduct affected about 14.16 trillion won, or roughly $9.1 billion, in revenue. If the allegations are upheld, Google could face a fine of as much as 6% of that amount under South Korean competition law.",
+      "According to the regulator, Google's Games/Google Velocity Program, internally known as Project Hug, provided financial support to game developers in exchange for launching games on Google Play under terms at least as favorable as rival app stores.",
+      "The watchdog argues that the arrangement encouraged developers to prioritize Google Play while making it harder for competing platforms, including South Korea's OneStore, to attract content and compete effectively.",
+      "Google did not immediately comment on the allegations. the case adds to growing global regulatory scrutiny of Google's app store practices. The next thing to watch is whether South Korean regulators impose penalties or force changes to Google's developer programs."
+    ],
+    "html": null
+  }
+}

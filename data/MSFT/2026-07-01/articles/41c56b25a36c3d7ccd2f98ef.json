@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9b6d791c-2b60-38e7-ba01-431ad909675f/meta-building-cloud-business.html",
+    "fetched_at": "2026-07-01T07:00:32.293671-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta building cloud business to sell excess AI computing capacity",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "According to Bloomberg, Meta Platforms has been drawing up plans for a new cloud infrastructure venture aimed at offering outside customers access to AI models and computing capacity. The plans would put Meta in direct competition with Amazon Web Services, Microsoft Azure, and Google Cloud.\nAn internal organization called Meta Compute sits at the center of these efforts, Bloomberg reported, citing people who asked not to be named because the details are not public; the group was created to oversee the buildout and operation of the company's AI infrastructure. Meta Compute is led by Santosh Janardhan, Meta's head of infrastructure; Daniel Gross, a leader inside the Meta Superintelligence Labs AI unit; and Meta President Dina Powell McCormick.\nAmong the options under consideration is a service that would let outside developers pay to run queries against AI models — including Meta's own Muse Spark — on infrastructure that Meta owns and operates, drawing a comparison to how AWS structures its Bedrock product. A separate avenue would involve renting out raw GPU capacity directly to customers, a business model associated with neocloud firms such as CoreWeave.\nWednesday's premarket session saw Meta's share price climb as high as 8.6% before giving back some of the gain. The company did not offer comment through a spokesperson, and the initiative has not been finalized.\nMeta CEO Mark Zuckerberg has signaled openness to such a move. Speaking to shareholders in May, Zuckerberg said the idea of selling computing access was something the company had been actively fielding. \"It's definitely on the table,\" he said. \"Almost every week there are different companies that come to us from the outside asking us to both stand up an API service or asking if we have compute that they could buy from us at some premium to what we've bought it at.\"\nHe went on to explain that no outside deals had been struck because internal demand had so far absorbed the available capacity — but that overbuilding, should it occur, would make external sales a natural outlet.\nPursuing AI superintelligence has become a defining priority for Meta, and the company has poured hundreds of billions of dollars into the infrastructure required to pursue it — signing major capacity agreements with CoreWeave, Google, and Oracle in the process, Bloomberg noted. Investors have grown uneasy about when and how that enormous outlay will translate into revenue.\nThe cloud business would offer one avenue to do so. The compute supply constraints that have shaped Meta's AI strategy came into focus earlier this year, when Google restricted Meta's access to its Gemini AI models after being unable to meet Meta's demand. The shortfall delayed some of Meta's internal AI efforts and prompted the company to ask employees to limit their AI token consumption.\nMuse Spark, Meta's newer proprietary model, has since taken on a larger share of the work previously handled by Gemini, as the company works to bring more of its AI capabilities in-house.",
+    "text_blocks": [
+      "According to Bloomberg, Meta Platforms has been drawing up plans for a new cloud infrastructure venture aimed at offering outside customers access to AI models and computing capacity. The plans would put Meta in direct competition with Amazon Web Services, Microsoft Azure, and Google Cloud.",
+      "An internal organization called Meta Compute sits at the center of these efforts, Bloomberg reported, citing people who asked not to be named because the details are not public; the group was created to oversee the buildout and operation of the company's AI infrastructure. Meta Compute is led by Santosh Janardhan, Meta's head of infrastructure; Daniel Gross, a leader inside the Meta Superintelligence Labs AI unit; and Meta President Dina Powell McCormick.",
+      "Among the options under consideration is a service that would let outside developers pay to run queries against AI models — including Meta's own Muse Spark — on infrastructure that Meta owns and operates, drawing a comparison to how AWS structures its Bedrock product. A separate avenue would involve renting out raw GPU capacity directly to customers, a business model associated with neocloud firms such as CoreWeave.",
+      "Wednesday's premarket session saw Meta's share price climb as high as 8.6% before giving back some of the gain. The company did not offer comment through a spokesperson, and the initiative has not been finalized.",
+      "Meta CEO Mark Zuckerberg has signaled openness to such a move. Speaking to shareholders in May, Zuckerberg said the idea of selling computing access was something the company had been actively fielding. \"It's definitely on the table,\" he said. \"Almost every week there are different companies that come to us from the outside asking us to both stand up an API service or asking if we have compute that they could buy from us at some premium to what we've bought it at.\"",
+      "He went on to explain that no outside deals had been struck because internal demand had so far absorbed the available capacity — but that overbuilding, should it occur, would make external sales a natural outlet.",
+      "Pursuing AI superintelligence has become a defining priority for Meta, and the company has poured hundreds of billions of dollars into the infrastructure required to pursue it — signing major capacity agreements with CoreWeave, Google, and Oracle in the process, Bloomberg noted. Investors have grown uneasy about when and how that enormous outlay will translate into revenue.",
+      "The cloud business would offer one avenue to do so. The compute supply constraints that have shaped Meta's AI strategy came into focus earlier this year, when Google restricted Meta's access to its Gemini AI models after being unable to meet Meta's demand. The shortfall delayed some of Meta's internal AI efforts and prompted the company to ask employees to limit their AI token consumption.",
+      "Muse Spark, Meta's newer proprietary model, has since taken on a larger share of the work previously handled by Gemini, as the company works to bring more of its AI capabilities in-house."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/d5812604-7b06-336c-ae8b-c27d843034a0/meta-turns-its-ai-spending.html",
+    "fetched_at": "2026-07-01T07:00:14.907954-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta turns its AI spending spree into a business of its own",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta Platforms Inc's (NASDAQ:META, XETRA:FB2A, SIX:FB) plan to sell spare computing power is less a bold expansion than an admission, that the company has built so much AI capacity it now needs somewhere to put the surplus.\nThe Facebook and Instagram owner has spent heavily on data centres and chips to chase its artificial intelligence ambitions, a spree that has repeatedly unsettled investors worried about where the returns will come from.\nSelling access to that infrastructure reframes the question.\nExcess compute that would otherwise sit idle becomes a revenue line, and the capital budget that spooked the market starts to look less like a bet and more like a hedge.\nIt also drops Meta into direct competition with Amazon Web Services, Microsoft Azure and Google Cloud, the three companies that dominate cloud infrastructure and treat it as a core profit engine rather than an afterthought.\nThat is the awkward part of the strategy.\nMeta would be entering a mature, margin-sensitive market as the newest and least proven vendor, pitching capacity to customers who may also be rivals or wary of feeding a social media giant their AI workloads.\nThe move borrows directly from Amazon's origin story, where internal infrastructure built for the retail business was rented out and became the industry's most profitable cloud operation.\nWhether Meta can repeat that trick is unproven because renting compute is a service business with support, reliability and enterprise sales demands that differ sharply from running social networks.\nStill, the logic is hard to fault.\nIf the AI arms race forces hyperscalers to over-build to avoid being caught short, monetising the overhang is the rational response, and it gives Meta a partial answer to the capex critics.\nThe signal to watch is pricing, because a company sitting on surplus capacity has every incentive to undercut, and that could squeeze the incumbents' fattest margins.",
+    "text_blocks": [
+      "Meta Platforms Inc's (NASDAQ:META, XETRA:FB2A, SIX:FB) plan to sell spare computing power is less a bold expansion than an admission, that the company has built so much AI capacity it now needs somewhere to put the surplus.",
+      "The Facebook and Instagram owner has spent heavily on data centres and chips to chase its artificial intelligence ambitions, a spree that has repeatedly unsettled investors worried about where the returns will come from.",
+      "Selling access to that infrastructure reframes the question.",
+      "Excess compute that would otherwise sit idle becomes a revenue line, and the capital budget that spooked the market starts to look less like a bet and more like a hedge.",
+      "It also drops Meta into direct competition with Amazon Web Services, Microsoft Azure and Google Cloud, the three companies that dominate cloud infrastructure and treat it as a core profit engine rather than an afterthought.",
+      "That is the awkward part of the strategy.",
+      "Meta would be entering a mature, margin-sensitive market as the newest and least proven vendor, pitching capacity to customers who may also be rivals or wary of feeding a social media giant their AI workloads.",
+      "The move borrows directly from Amazon's origin story, where internal infrastructure built for the retail business was rented out and became the industry's most profitable cloud operation.",
+      "Whether Meta can repeat that trick is unproven because renting compute is a service business with support, reliability and enterprise sales demands that differ sharply from running social networks.",
+      "Still, the logic is hard to fault.",
+      "If the AI arms race forces hyperscalers to over-build to avoid being caught short, monetising the overhang is the rational response, and it gives Meta a partial answer to the capex critics.",
+      "The signal to watch is pricing, because a company sitting on surplus capacity has every incentive to undercut, and that could squeeze the incumbents' fattest margins."
+    ],
+    "html": null
+  }
+}

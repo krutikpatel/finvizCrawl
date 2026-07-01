@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_FV",
+    "fetched_at": "2026-07-01T07:00:54.051681-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The 20 best-performing stocks in the S&P 500 for the first half of 2026 - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Deep Dive\nThe 20 best-performing stocks in the S&P 500 for the first half of 2026\nThe list is dominated by semiconductor and computer-hardware manufacturers\n(Updated with closing prices on June 30.)\nWith half of 2026 having already flown by, it is time to summarize which stocks have performed best so far this year.",
+    "text_blocks": [
+      "Deep Dive",
+      "The 20 best-performing stocks in the S&P 500 for the first half of 2026",
+      "The list is dominated by semiconductor and computer-hardware manufacturers",
+      "(Updated with closing prices on June 30.)",
+      "With half of 2026 having already flown by, it is time to summarize which stocks have performed best so far this year."
+    ],
+    "html": null
+  }
+}

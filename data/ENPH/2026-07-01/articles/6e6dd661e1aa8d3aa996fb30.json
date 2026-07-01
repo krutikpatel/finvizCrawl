@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/solar-stocks-get-their-moment-under-the-sun-fEcxVeDEQrVZBc8VLok2?mod=wsj_FV",
+    "fetched_at": "2026-07-01T07:00:20.297409-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Solar Stocks Get Their Moment Under the Sun",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "14 hours ago\nSolar Stocks Get Their Moment Under the Sun\nThings are looking bright for solar stocks.\nThe race to build artificial-intelligence data centers—and the expected rise in demand for power—has helped drive a rally in solar stocks.\nBelow are some of the big gainers as of this morning:",
+    "text_blocks": [
+      "14 hours ago",
+      "Solar Stocks Get Their Moment Under the Sun",
+      "Things are looking bright for solar stocks.",
+      "The race to build artificial-intelligence data centers—and the expected rise in demand for power—has helped drive a rally in solar stocks.",
+      "Below are some of the big gainers as of this morning:"
+    ],
+    "html": null
+  }
+}

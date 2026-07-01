@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=AVGO",
+    "fetched_at": "2026-07-01T07:00:33.545815-07:00"
+  },
+  "company": {
+    "name": "Broadcom Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 371.11,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "1765.61B",
+    "Enterprise Value": "1810.89B",
+    "Income": "29.32B",
+    "Sales": "75.47B",
+    "Book/sh": "18.43",
+    "Cash/sh": "4.13",
+    "Dividend Est.": "2.62 (0.71%)",
+    "Dividend TTM": "2.54 (0.68%)",
+    "Dividend Ex-Date": "Jun 22, 2026",
+    "Dividend Gr. 3/5Y": "12.90% 12.67%",
+    "Payout": "49.52%",
+    "Employees": "33000",
+    "IPO": "Aug 06, 2009"
+  },
+  "raw": null
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/micron-gm-sign-semiconductor-supply-124046109.html",
+    "fetched_at": "2026-07-01T07:00:17.795959-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron, GM sign semiconductor supply agreement for vehicles",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 1 (Reuters) - Micron Technology and General Motors have signed a supply agreement for memory and storage platforms used in vehicle production, the companies said on Wednesday.\nThe agreement comes at a time when automakers are looking to bolster their semiconductor supply chains to help with growing computing needs on modern vehicles.\nThe chipmaker said the agreement would be supported by its expanding U.S. manufacturing footprint, including its recently modernized memory chip plant in Virginia.\nMicron said GM's deal is one of 16 strategic customer agreements that it outlined during its third quarter.\n(Reporting by Nathan Gomes in Bengaluru; Editing by Devika Syamnath)",
+    "text_blocks": [
+      "July 1 (Reuters) - Micron Technology and General Motors have signed a supply agreement for memory and storage platforms used in vehicle production, the companies said on Wednesday.",
+      "The agreement comes at a time when automakers are looking to bolster their semiconductor supply chains to help with growing computing needs on modern vehicles.",
+      "The chipmaker said the agreement would be supported by its expanding U.S. manufacturing footprint, including its recently modernized memory chip plant in Virginia.",
+      "Micron said GM's deal is one of 16 strategic customer agreements that it outlined during its third quarter.",
+      "(Reporting by Nathan Gomes in Bengaluru; Editing by Devika Syamnath)"
+    ],
+    "html": null
+  }
+}

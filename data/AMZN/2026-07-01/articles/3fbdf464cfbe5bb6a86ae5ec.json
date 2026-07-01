@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amazon-stock-broadcom-anthropic-fable-mythos-0edab4a7?mod=bar_FV",
+    "fetched_at": "2026-07-01T07:00:43.279251-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Stock, Broadcom Are Big Winners as U.S. Lifts Ban on Anthropic AI Model<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon, 1 Other Big Winner as U.S. Lifts Ban on Anthropic’s Powerful AI Model\nAnthropic has reached an agreement with the Trump administration to restore access to its latest artificial-intelligence model. That’s good news for the AI company’s partners Amazon.com and Broadcom.",
+    "text_blocks": [
+      "Amazon, 1 Other Big Winner as U.S. Lifts Ban on Anthropic’s Powerful AI Model",
+      "Anthropic has reached an agreement with the Trump administration to restore access to its latest artificial-intelligence model. That’s good news for the AI company’s partners Amazon.com and Broadcom."
+    ],
+    "html": null
+  }
+}

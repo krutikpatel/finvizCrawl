@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/softbank-just-got-reminder-ais-123203484.html",
+    "fetched_at": "2026-07-01T07:00:51.463581-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SoftBank just got a reminder of AI's biggest risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSoftBank Group (SFTBY) got hit hard in Tokyo on Thursday, falling about 11% as investors backed away from some of the market's biggest AI linked winners.\nThe move came as weakness in U.S. tech stocks spilled into Asia, putting pressure on names with heavy exposure to artificial intelligence. SoftBank has been a major beneficiary of that trade because of its stake in Arm Holdings (NASDAQ:ARM) and its backing of OpenAI. Even after the drop, its U.S. listed shares are still up around 85% year to date, so some investors may have seen the selloff as a chance to lock in gains.\nThe bigger issue is whether AI enthusiasm has moved too far, too fast. CEO Masayoshi Son remains very bullish, telling CNBC he expects the AI revolution to be about 50 times bigger than the dot com boom.\nthis drop is a reminder that SoftBank's upside is tied closely to AI sentiment. When that mood cools, the stock can move fast in the other direction.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SoftBank Group (SFTBY) got hit hard in Tokyo on Thursday, falling about 11% as investors backed away from some of the market's biggest AI linked winners.",
+      "The move came as weakness in U.S. tech stocks spilled into Asia, putting pressure on names with heavy exposure to artificial intelligence. SoftBank has been a major beneficiary of that trade because of its stake in Arm Holdings (NASDAQ:ARM) and its backing of OpenAI. Even after the drop, its U.S. listed shares are still up around 85% year to date, so some investors may have seen the selloff as a chance to lock in gains.",
+      "The bigger issue is whether AI enthusiasm has moved too far, too fast. CEO Masayoshi Son remains very bullish, telling CNBC he expects the AI revolution to be about 50 times bigger than the dot com boom.",
+      "this drop is a reminder that SoftBank's upside is tied closely to AI sentiment. When that mood cools, the stock can move fast in the other direction."
+    ],
+    "html": null
+  }
+}

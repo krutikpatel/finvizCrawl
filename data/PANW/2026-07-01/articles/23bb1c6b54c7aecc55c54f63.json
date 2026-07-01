@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/-money-quote-palo-alto-networks-ceo-SOsRiDnWh4nwC1hS3cEo?mod=wsj_FV",
+    "fetched_at": "2026-07-01T07:00:48.518832-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "📜 Money Quote: Palo Alto Networks CEO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 3, 2026 7:19am ET\n📜 Money Quote: Palo Alto Networks CEO\n📣 \"Six months ago, cybersecurity stocks were doomed because AI was going to protect every one of us and we were all out of a job, right? And suddenly, we're hiring more people. AI is not taking jobs away...We officially declare the SaaS-Pocalypse for cybersecurity dead.\"\n—Palo Alto Networks CEO Nikesh Arora, on an earnings call last night. Shares in Palo Alto have nearly doubled since April.",
+    "text_blocks": [
+      "June 3, 2026 7:19am ET",
+      "📜 Money Quote: Palo Alto Networks CEO",
+      "📣 \"Six months ago, cybersecurity stocks were doomed because AI was going to protect every one of us and we were all out of a job, right? And suddenly, we're hiring more people. AI is not taking jobs away...We officially declare the SaaS-Pocalypse for cybersecurity dead.\"",
+      "—Palo Alto Networks CEO Nikesh Arora, on an earnings call last night. Shares in Palo Alto have nearly doubled since April."
+    ],
+    "html": null
+  }
+}

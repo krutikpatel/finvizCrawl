@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-arm-marvell-emerge-key-201240464.html",
+    "fetched_at": "2026-07-01T07:00:51.836294-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, Arm and Marvell emerge as key Computex winners",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA), Arm (NASDAQ:ARM) and Marvell (NASDAQ:MRVL) came out of Computex looking like the big AI hardware names to watch, according to Bank of America.\nFor Nvidia, the firm thinks investors may still be underestimating the CPU opportunity. BofA said agentic AI could force PCs and other devices to be redesigned so they can handle both local and cloud based AI work. That makes Nvidia's Vera CPU more important, especially if CPU volumes start moving closer to GPU volumes as AI adoption spreads.\nMarvell also got attention because of its optics business. BofA said the company's portfolio can help connect separate compute and memory systems, which matters as AI infrastructure becomes more complex. Marvell is also bringing 2nm based 1.6 trillion solutions this year and announced a 102.4TB/s Ethernet switch built for AI.\nArm used Computex to push its AGI CPU case, saying it offers 2X performance per rack compared with x86 systems from Intel (NASDAQ:INTC) and AMD (NASDAQ:AMD). Investors will now watch Qualcomm's (NASDAQ:QCOM) June 24 investor day for its AI data center update.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA), Arm (NASDAQ:ARM) and Marvell (NASDAQ:MRVL) came out of Computex looking like the big AI hardware names to watch, according to Bank of America.",
+      "For Nvidia, the firm thinks investors may still be underestimating the CPU opportunity. BofA said agentic AI could force PCs and other devices to be redesigned so they can handle both local and cloud based AI work. That makes Nvidia's Vera CPU more important, especially if CPU volumes start moving closer to GPU volumes as AI adoption spreads.",
+      "Marvell also got attention because of its optics business. BofA said the company's portfolio can help connect separate compute and memory systems, which matters as AI infrastructure becomes more complex. Marvell is also bringing 2nm based 1.6 trillion solutions this year and announced a 102.4TB/s Ethernet switch built for AI.",
+      "Arm used Computex to push its AGI CPU case, saying it offers 2X performance per rack compared with x86 systems from Intel (NASDAQ:INTC) and AMD (NASDAQ:AMD). Investors will now watch Qualcomm's (NASDAQ:QCOM) June 24 investor day for its AI data center update."
+    ],
+    "html": null
+  }
+}

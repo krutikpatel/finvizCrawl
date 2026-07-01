@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b0f4bb71-ba36-3992-b66c-65f7397dc253/president-trump-reveals.html",
+    "fetched_at": "2026-07-01T07:00:12.009013-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "President Trump Reveals Million-Dollar Apple and Palantir Stakes",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPresident Donald Trump's latest financial disclosure shows multimillion-dollar investments in Apple (NASDAQ:AAPL) and Palantir Technologies (NASDAQ:PLTR), alongside hundreds of other publicly traded assets, according to a Tuesday filing released by the U.S. Office of Government Ethics.\nThe disclosure indicates Trump holds at least $5 million each in Apple and Nvidia (NASDAQ:NVDA), as well as at least $1 million in Palantir. The filing also lists 418 publicly traded holdings, in addition to income from hotels, golf properties and cryptocurrency-related businesses.\nPalantir shares have faced pressure this year as investors reassessed AI-sector valuations and weighed reports of potential risks to certain U.K. government contracts. Despite those concerns, the company has continued to report demand for its Artificial Intelligence Platform, while maintaining profitability, a debt-free balance sheet and solid free cash flow.\nWall Street remains cautiously optimistic on Palantir's longer-term outlook. Analyst recommendations are mixed, with the stock carrying a Moderate Buy consensus rating, reflecting expectations that continued AI adoption could support future growth despite ongoing valuation and contract-related concerns.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "President Donald Trump's latest financial disclosure shows multimillion-dollar investments in Apple (NASDAQ:AAPL) and Palantir Technologies (NASDAQ:PLTR), alongside hundreds of other publicly traded assets, according to a Tuesday filing released by the U.S. Office of Government Ethics.",
+      "The disclosure indicates Trump holds at least $5 million each in Apple and Nvidia (NASDAQ:NVDA), as well as at least $1 million in Palantir. The filing also lists 418 publicly traded holdings, in addition to income from hotels, golf properties and cryptocurrency-related businesses.",
+      "Palantir shares have faced pressure this year as investors reassessed AI-sector valuations and weighed reports of potential risks to certain U.K. government contracts. Despite those concerns, the company has continued to report demand for its Artificial Intelligence Platform, while maintaining profitability, a debt-free balance sheet and solid free cash flow.",
+      "Wall Street remains cautiously optimistic on Palantir's longer-term outlook. Analyst recommendations are mixed, with the stock carrying a Moderate Buy consensus rating, reflecting expectations that continued AI adoption could support future growth despite ongoing valuation and contract-related concerns."
+    ],
+    "html": null
+  }
+}
