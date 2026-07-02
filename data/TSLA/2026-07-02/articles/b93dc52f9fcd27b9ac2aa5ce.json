@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/june-jobs-report-stock-market-07-02-2026/card/tesla-sales-jump-ZP21Ndr3FysX55OapsVd?mod=wsj_FV",
+    "fetched_at": "2026-07-02T07:00:02.745395-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Sales Jump",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n21 min ago\nTesla Sales Jump\nTesla sold 480,126 electric vehicles globally in the second quarter, up 24.9% from the same period last year, the company said.\nIts shares advanced about 1% ahead of the bell.\n21 min ago\nTesla sold 480,126 electric vehicles globally in the second quarter, up 24.9% from the same period last year, the company said.\nIts shares advanced about 1% ahead of the bell.",
+    "text_blocks": [
+      "LIVE",
+      "21 min ago",
+      "Tesla Sales Jump",
+      "Tesla sold 480,126 electric vehicles globally in the second quarter, up 24.9% from the same period last year, the company said.",
+      "Its shares advanced about 1% ahead of the bell.",
+      "21 min ago",
+      "Tesla sold 480,126 electric vehicles globally in the second quarter, up 24.9% from the same period last year, the company said.",
+      "Its shares advanced about 1% ahead of the bell."
+    ],
+    "html": null
+  }
+}

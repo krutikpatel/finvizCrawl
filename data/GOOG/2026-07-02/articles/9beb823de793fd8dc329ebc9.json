@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/italys-intesa-shifts-core-banking-130554353.html",
+    "fetched_at": "2026-07-02T07:00:21.495998-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Italy's Intesa shifts core IT banking systems to Google's cloud technology",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "MILAN, July 2 (Reuters) - Italy's biggest bank Intesa Sanpaolo on Thursday said it had completed the cloud migration of its core IT systems, joining a handful of European banks that have managed to move away from legacy technology.\n• Replacing existing core IT infrastructure, known as mainframes, with cloud technology poses a major challenge to traditional banks.\n• Legacy systems, often comprising multiple software stacks accumulated over time due to mergers, put high-street banks at a disadvantage versus cloud-native, challenger banks.\n• Under a multi-billion-euro cloud transition project, Intesa launched cloud-based digital bank Isybank in 2023, partnering with British tech firm Thought Machine. By migrating millions of customers, it used Isybank as a testing ground for a full cloud shift.\n• The move places Intesa among a small number of European banks that have pursued large-scale cloud migration: Denmark's Danske Bank, Britain's Lloyds, HSBC, and, within the euro zone, Spain's Santander and BBVA.\n• Intesa, Google Cloud and TIM said in a joint statement the shift had relied on the two Italian Google Cloud regions in Turin and Milan, hosted by TIM's data centres.\n• \"More than 800 applications were successfully migrated to Google Cloud infrastructure, and an equal number were decommissioned within the bank's physical headquarters,\" the companies said.\n• \"Massive\" amounts of data were transferred with \"high security standards, speed, and minimum latency between cloud environments and legacy systems,\" they said.\n• \"The cloud infrastructure successfully absorbed massive workload volumes, ensuring business continuity without recording any major incidents during the migration phases.\"\n• Euro zone banks' IT capabilities are a key focus for European Central Bank supervisors, who have repeatedly warned that weaknesses in legacy systems can increase operational and cyber risks.\n(Reporting by Valentina ZaEditing by Keith Weir)",
+    "text_blocks": [
+      "MILAN, July 2 (Reuters) - Italy's biggest bank Intesa Sanpaolo on Thursday said it had completed the cloud migration of its core IT systems, joining a handful of European banks that have managed to move away from legacy technology.",
+      "• Replacing existing core IT infrastructure, known as mainframes, with cloud technology poses a major challenge to traditional banks.",
+      "• Legacy systems, often comprising multiple software stacks accumulated over time due to mergers, put high-street banks at a disadvantage versus cloud-native, challenger banks.",
+      "• Under a multi-billion-euro cloud transition project, Intesa launched cloud-based digital bank Isybank in 2023, partnering with British tech firm Thought Machine. By migrating millions of customers, it used Isybank as a testing ground for a full cloud shift.",
+      "• The move places Intesa among a small number of European banks that have pursued large-scale cloud migration: Denmark's Danske Bank, Britain's Lloyds, HSBC, and, within the euro zone, Spain's Santander and BBVA.",
+      "• Intesa, Google Cloud and TIM said in a joint statement the shift had relied on the two Italian Google Cloud regions in Turin and Milan, hosted by TIM's data centres.",
+      "• \"More than 800 applications were successfully migrated to Google Cloud infrastructure, and an equal number were decommissioned within the bank's physical headquarters,\" the companies said.",
+      "• \"Massive\" amounts of data were transferred with \"high security standards, speed, and minimum latency between cloud environments and legacy systems,\" they said.",
+      "• \"The cloud infrastructure successfully absorbed massive workload volumes, ensuring business continuity without recording any major incidents during the migration phases.\"",
+      "• Euro zone banks' IT capabilities are a key focus for European Central Bank supervisors, who have repeatedly warned that weaknesses in legacy systems can increase operational and cyber risks.",
+      "(Reporting by Valentina ZaEditing by Keith Weir)"
+    ],
+    "html": null
+  }
+}

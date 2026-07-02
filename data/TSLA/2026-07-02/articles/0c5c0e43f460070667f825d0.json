@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-q2-deliveries-crush-forecasts-134240884.html",
+    "fetched_at": "2026-07-02T07:00:02.969225-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Q2 deliveries crush forecasts at 480,126, erasing backlog concerns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Tesla (NASDAQ: TSLA) has shattered expectations for its second-quarter performance, releasing official production and delivery metrics that comfortably outpaced the tracking consensus figures meant to clarify the gap in market projections.\nPrior to the report, market participants were monitoring a conservative Bloomberg consensus of 396,465.95 vehicles and Tesla's own company-compiled investor relations (IR) consensus of 406,024 deliveries (with a median of 408,609). Actual results flew past even the most bullish sell-side forecasts, including Goldman Sachs (420,000), Barclays (418,000), and Morgan Stanley (~413,000).\nTesla reported a total of 451,758 vehicles produced and 480,126 vehicles delivered for the quarter, reflecting robust demand and an efficient operational unwind of its vehicle backlog.\nThe print accomplishes a critical dual objective for Tesla: achieving notable sequential growth and definitively clearing the massive inventory overhang left behind from the first quarter.\nTesla entered Q2 carrying approximately 50,363 unsold units from Q1 (having produced 408,386 vehicles but delivered only 358,023). Because Q2 deliveries (480,126) outpaced production (451,758) by 28,368 units, Tesla successfully drew down its backlog, reversing a trend where it was building cars faster than demand was absorbing them.\nThe final delivery number represents 25% year-over-year growth relative to Q2 2025's 384,122 deliveries (a quarter that had fallen 14% below Q2 2024). This marks back-to-back quarters of year-over-year growth, effectively halting a two-year stretch of consecutive annual declines. The massive beat also reshapes the narrative for the full-year 2026 analyst consensus of 1,654,808, which implied barely 1% annual growth and had been cut by roughly 35,000 units since March.\nBecause Tesla does not detail regional deliveries, the exact geographic performance split remains unconfirmed. However, the aggregate blowout suggests that global tailwinds completely overwhelmed domestic challenges.\nAhead of the release, Cox Automotive had projected a steep 20% year-over-year decline in Tesla's domestic Q2 sales, shrinking its U.S. market share to roughly 2.9% following the expiration of the federal $7,500 EV tax credit at the end of Q3 2025.\nThe gap was likely mitigated by robust demand for new and used electric vehicles across Europe, boosted in large part by rising fuel prices driven by the Iran war.",
+    "text_blocks": [
+      "Investing.com -- Tesla (NASDAQ: TSLA) has shattered expectations for its second-quarter performance, releasing official production and delivery metrics that comfortably outpaced the tracking consensus figures meant to clarify the gap in market projections.",
+      "Prior to the report, market participants were monitoring a conservative Bloomberg consensus of 396,465.95 vehicles and Tesla's own company-compiled investor relations (IR) consensus of 406,024 deliveries (with a median of 408,609). Actual results flew past even the most bullish sell-side forecasts, including Goldman Sachs (420,000), Barclays (418,000), and Morgan Stanley (~413,000).",
+      "Tesla reported a total of 451,758 vehicles produced and 480,126 vehicles delivered for the quarter, reflecting robust demand and an efficient operational unwind of its vehicle backlog.",
+      "The print accomplishes a critical dual objective for Tesla: achieving notable sequential growth and definitively clearing the massive inventory overhang left behind from the first quarter.",
+      "Tesla entered Q2 carrying approximately 50,363 unsold units from Q1 (having produced 408,386 vehicles but delivered only 358,023). Because Q2 deliveries (480,126) outpaced production (451,758) by 28,368 units, Tesla successfully drew down its backlog, reversing a trend where it was building cars faster than demand was absorbing them.",
+      "The final delivery number represents 25% year-over-year growth relative to Q2 2025's 384,122 deliveries (a quarter that had fallen 14% below Q2 2024). This marks back-to-back quarters of year-over-year growth, effectively halting a two-year stretch of consecutive annual declines. The massive beat also reshapes the narrative for the full-year 2026 analyst consensus of 1,654,808, which implied barely 1% annual growth and had been cut by roughly 35,000 units since March.",
+      "Because Tesla does not detail regional deliveries, the exact geographic performance split remains unconfirmed. However, the aggregate blowout suggests that global tailwinds completely overwhelmed domestic challenges.",
+      "Ahead of the release, Cox Automotive had projected a steep 20% year-over-year decline in Tesla's domestic Q2 sales, shrinking its U.S. market share to roughly 2.9% following the expiration of the federal $7,500 EV tax credit at the end of Q3 2025.",
+      "The gap was likely mitigated by robust demand for new and used electric vehicles across Europe, boosted in large part by rising fuel prices driven by the Iran war."
+    ],
+    "html": null
+  }
+}

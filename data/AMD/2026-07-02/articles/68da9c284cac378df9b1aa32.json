@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/chip-stocks-selloff-extends-valuation-090937419.html",
+    "fetched_at": "2026-07-02T07:00:59.548068-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip stocks selloff extends on valuation, Meta’s pivot fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- The Wednesday selloff in U.S. chip shares extended into Thursday's premarket trading as lofty valuations and heavy AI spending by tech companies weigh on investor sentiment.\nShares in Micron and Western Digital fell about 2.1% each by 04:42 ET. Coherent and Marvell Technology shed about 2% and 1.8%, respectively, while AMD, Intel and Microchip Technology also edged about 1% lower.\nThe moves followed a session in which U.S. stocks finished slightly lower on Wednesday as technology shares fell, though gains in Meta Platforms limited the decline in the S&P 500 and Nasdaq.\nChipmakers were among the biggest drags on both indexes, with an index of semiconductors ending 6.3% lower and technology leading declines among S&P 500 sectors. Micron fell as much as 10.6% on Wednesday, while Applied Materials, Lam Research, Allegro MicroSystems and Intel each dropped more than 9%.\n\"The strong and almost steady outperformance since last September of semiconductor stocks (i.e. AI chip and memory makers) vs. hyperscalers (i.e. AI cloud providers) appears somewhat unsustainable in the long run,\" said JPMorgan analyst Nikolaos Panigirtzoglou.\nMeta Platforms was an outlier, with its shares rallying 8.8% after Bloomberg News reported that the company is building a cloud business to sell excess AI computing capacity. According to Bloomberg, Meta is debating whether to offer access to AI models hosted on its infrastructure or to sell access to raw computing power.\nModel developers, including Meta, have been racing to secure computing power since OpenAI kickstarted the AI boom with the launch of ChatGPT in 2022, and demand has far outpaced supply.\nMeta told investors in April that it plans to spend as much as $145 billion on capital expenditures this year as it continues developing data centers and securing the graphics processing units needed to train AI models and run large workloads.\nBy standing up a cloud business, Meta could generate revenue on capacity it isn't using, a welcome signal for investors who have been uneasy about the company's spending plans. The new business would also put Meta into a competitive market currently dominated by Amazon, Microsoft, Google and CoreWeave, among others.\nThe latest bout of market volatility comes ahead of the key monthly U.S. jobs report, which is due out Thursday, with markets closed Friday ahead of the Fourth of July holiday.\nRelated articles\nChip stocks selloff extends on valuation, Meta's pivot fears\nNvidia's new Alpamayo project: What it means for Tesla?\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- The Wednesday selloff in U.S. chip shares extended into Thursday's premarket trading as lofty valuations and heavy AI spending by tech companies weigh on investor sentiment.",
+      "Shares in Micron and Western Digital fell about 2.1% each by 04:42 ET. Coherent and Marvell Technology shed about 2% and 1.8%, respectively, while AMD, Intel and Microchip Technology also edged about 1% lower.",
+      "The moves followed a session in which U.S. stocks finished slightly lower on Wednesday as technology shares fell, though gains in Meta Platforms limited the decline in the S&P 500 and Nasdaq.",
+      "Chipmakers were among the biggest drags on both indexes, with an index of semiconductors ending 6.3% lower and technology leading declines among S&P 500 sectors. Micron fell as much as 10.6% on Wednesday, while Applied Materials, Lam Research, Allegro MicroSystems and Intel each dropped more than 9%.",
+      "\"The strong and almost steady outperformance since last September of semiconductor stocks (i.e. AI chip and memory makers) vs. hyperscalers (i.e. AI cloud providers) appears somewhat unsustainable in the long run,\" said JPMorgan analyst Nikolaos Panigirtzoglou.",
+      "Meta Platforms was an outlier, with its shares rallying 8.8% after Bloomberg News reported that the company is building a cloud business to sell excess AI computing capacity. According to Bloomberg, Meta is debating whether to offer access to AI models hosted on its infrastructure or to sell access to raw computing power.",
+      "Model developers, including Meta, have been racing to secure computing power since OpenAI kickstarted the AI boom with the launch of ChatGPT in 2022, and demand has far outpaced supply.",
+      "Meta told investors in April that it plans to spend as much as $145 billion on capital expenditures this year as it continues developing data centers and securing the graphics processing units needed to train AI models and run large workloads.",
+      "By standing up a cloud business, Meta could generate revenue on capacity it isn't using, a welcome signal for investors who have been uneasy about the company's spending plans. The new business would also put Meta into a competitive market currently dominated by Amazon, Microsoft, Google and CoreWeave, among others.",
+      "The latest bout of market volatility comes ahead of the key monthly U.S. jobs report, which is due out Thursday, with markets closed Friday ahead of the Fourth of July holiday.",
+      "Related articles",
+      "Chip stocks selloff extends on valuation, Meta's pivot fears",
+      "Nvidia's new Alpamayo project: What it means for Tesla?",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

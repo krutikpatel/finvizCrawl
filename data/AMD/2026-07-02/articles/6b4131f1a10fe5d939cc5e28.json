@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/bd8509db-f8b1-3fe7-b6a9-5f683f920778/meta-compute-launch-sends-ai.html",
+    "fetched_at": "2026-07-02T07:00:59.514585-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Compute Launch Sends AI Compute Stocks Tumbling Globally",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta's plan to sell surplus computing power hit chip stocks hard on Wall Street. Meta's own shares climbed nearly 9% on the news.\nThe announcement flipped years of assumed AI compute scarcity into a supply warning. It erased billions in semiconductor and neocloud value in a single session.\nA Supply Signal Rattles Wall Street\nMeta is building a business called Meta Compute. The unit will lease idle data center capacity to outside clients. The approach mirrors SpaceX's model. SpaceX has rented spare capacity to firms including Anthropic.\nFor years, investors rewarded chip suppliers on one premise. They believed AI demand always outstripped supply. Meta's admission of excess capacity broke that premise. Recent Nvidia institutional money flow data already show large investors pulling back.\nMicron sank more than 10% on July 1. SanDisk, Intel and AMD each lost between 6.9% and 10.6%. Nvidia slipped just 1.25%, a modest decline that stood out against the broader rout.\nNeoclouds and Big Tech Diverge\nCoreWeave and Nebius rent GPU capacity to AI developers and saw their stocks fall 14% and 17% respectively on fears that Meta will undercut their pricing.\nMeta has paid for similar cloud services before, but its shift into the same business now puts it in direct competition with its own vendors.\nOther Magnificent 7 members gained ground. Apple, Microsoft, Amazon, Alphabet and Tesla all closed higher as some strategists link the split to AI spending cycle winners rotating away from pure hardware plays.\nSouth Korea Feels the Spillover\nThe sell-off spread to Asia as Samsung and SK Hynix memory stocks fell more than 7% and 9% respectively in early trading and the KOSPI triggered another trading halt. The move extended a pattern from a prior Big Tech selloff spillover that hit Asian chipmakers earlier this year.\nRead the Original story Meta Compute Launch Sends AI Compute Stocks Tumbling Globally by Darryn Pollock at beincrypto.com",
+    "text_blocks": [
+      "Meta's plan to sell surplus computing power hit chip stocks hard on Wall Street. Meta's own shares climbed nearly 9% on the news.",
+      "The announcement flipped years of assumed AI compute scarcity into a supply warning. It erased billions in semiconductor and neocloud value in a single session.",
+      "A Supply Signal Rattles Wall Street",
+      "Meta is building a business called Meta Compute. The unit will lease idle data center capacity to outside clients. The approach mirrors SpaceX's model. SpaceX has rented spare capacity to firms including Anthropic.",
+      "For years, investors rewarded chip suppliers on one premise. They believed AI demand always outstripped supply. Meta's admission of excess capacity broke that premise. Recent Nvidia institutional money flow data already show large investors pulling back.",
+      "Micron sank more than 10% on July 1. SanDisk, Intel and AMD each lost between 6.9% and 10.6%. Nvidia slipped just 1.25%, a modest decline that stood out against the broader rout.",
+      "Neoclouds and Big Tech Diverge",
+      "CoreWeave and Nebius rent GPU capacity to AI developers and saw their stocks fall 14% and 17% respectively on fears that Meta will undercut their pricing.",
+      "Meta has paid for similar cloud services before, but its shift into the same business now puts it in direct competition with its own vendors.",
+      "Other Magnificent 7 members gained ground. Apple, Microsoft, Amazon, Alphabet and Tesla all closed higher as some strategists link the split to AI spending cycle winners rotating away from pure hardware plays.",
+      "South Korea Feels the Spillover",
+      "The sell-off spread to Asia as Samsung and SK Hynix memory stocks fell more than 7% and 9% respectively in early trading and the KOSPI triggered another trading halt. The move extended a pattern from a prior Big Tech selloff spillover that hit Asian chipmakers earlier this year.",
+      "Read the Original story Meta Compute Launch Sends AI Compute Stocks Tumbling Globally by Darryn Pollock at beincrypto.com"
+    ],
+    "html": null
+  }
+}

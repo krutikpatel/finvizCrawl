@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/top-eu-court-dismisses-google-122043661.html",
+    "fetched_at": "2026-07-02T07:00:05.324433-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Top EU court dismisses Google appeal of $4.5 billion antitrust fine",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "BRUSSELS (AP) — Judges at the European Union's top court dismissed an appeal by Google over a landmark, 4.1 billion euro ($4.5 billion) antitrust fine imposed for throttling competition and reducing consumer choice through the dominance of its mobile Android operating system.\nThe case has been tangled up in courts since the European Commission announced the fine in 2018. But the European Court of Justice dismissal on Thursday marks the end of that process.\n\"The appeal brought by Google and its parent company Alphabet against the judgment of the General Court is dismissed, thereby confirming the penalty imposed for Google Search's abuse of a dominant position in the context of the Android operating system,\" the Luxembourg-based judges wrote in their ruling.\nGoogle previously argued free and open-source Android has resulted in low-cost phones and driven competition with its chief rival, Apple. Android is the most popular mobile operating system, beating even Apple's iOS.\nThe fine is one of three antitrust penalties totaling more than $8 billion that the European Commission slapped on Google between 2017 and 2019, putting the 27-nation bloc at the forefront of the global push to rein in tech giants.\nSince then, the commission has widened its crackdown on digital giants with more antitrust investigations targeting Amazon, Apple and Facebook and sweeping new rules aimed at clamping down on the biggest digital companies.\nAgustín Reyna, director general of the European Consumer Organization, welcomed the court's ruling and said the EU needs more regulation akin to the Digital Markets Act to \"nip unfair practices in the bud\" and protect consumers.\n\"Today's judgment sends a very clear message: dominant companies cannot use their power to shut out competition and limit consumer choice,\" Reyna said. \"Today is a big win for Europe.\"",
+    "text_blocks": [
+      "BRUSSELS (AP) — Judges at the European Union's top court dismissed an appeal by Google over a landmark, 4.1 billion euro ($4.5 billion) antitrust fine imposed for throttling competition and reducing consumer choice through the dominance of its mobile Android operating system.",
+      "The case has been tangled up in courts since the European Commission announced the fine in 2018. But the European Court of Justice dismissal on Thursday marks the end of that process.",
+      "\"The appeal brought by Google and its parent company Alphabet against the judgment of the General Court is dismissed, thereby confirming the penalty imposed for Google Search's abuse of a dominant position in the context of the Android operating system,\" the Luxembourg-based judges wrote in their ruling.",
+      "Google previously argued free and open-source Android has resulted in low-cost phones and driven competition with its chief rival, Apple. Android is the most popular mobile operating system, beating even Apple's iOS.",
+      "The fine is one of three antitrust penalties totaling more than $8 billion that the European Commission slapped on Google between 2017 and 2019, putting the 27-nation bloc at the forefront of the global push to rein in tech giants.",
+      "Since then, the commission has widened its crackdown on digital giants with more antitrust investigations targeting Amazon, Apple and Facebook and sweeping new rules aimed at clamping down on the biggest digital companies.",
+      "Agustín Reyna, director general of the European Consumer Organization, welcomed the court's ruling and said the EU needs more regulation akin to the Digital Markets Act to \"nip unfair practices in the bud\" and protect consumers.",
+      "\"Today's judgment sends a very clear message: dominant companies cannot use their power to shut out competition and limit consumer choice,\" Reyna said. \"Today is a big win for Europe.\""
+    ],
+    "html": null
+  }
+}

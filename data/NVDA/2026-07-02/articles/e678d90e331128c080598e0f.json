@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9080ad72-c03f-34f7-96b1-0d03e1dafd38/nvidia-launches.html",
+    "fetched_at": "2026-07-02T07:00:31.672197-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia launches revenue-sharing model for AI startups",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia announced a revenue-sharing program on Wednesday designed to give AI startups, model builders, and enterprises access to its computing infrastructure without requiring them to finance hardware buildouts themselves.\nRevenue from both product sales and cloud operations flows back to Nvidia under the arrangement, as AI cloud companies provide Nvidia-powered services to their end customers. Kress, writing in a blog post, called the resulting income a \"recurring, usage-linked earnings stream\" for Nvidia; on the customer side, she said the model removes the need to navigate site selection, power procurement, construction, and hardware bring-up before accessing large-scale compute.\nToken credits are also part of the offering, giving startups a way to access compute resources without upfront capital outlays.\nNvidia named two initial partners. Sharon AI will deploy up to 40,000 Nvidia Grace Blackwell GB300 GPUs. A campus being developed by Firmus Technologies in Batam, Indonesia is planned at a capacity of up to 170,000 Nvidia GPUs and 360 megawatts of power. The company said AI-native firms including Baseten, Fireworks AI, and Together AI represent the kind of customers the program is designed to serve.\n\"This strategic collaboration with Nvidia marks a pivotal moment in Sharon AI's mission to deliver sovereign, large-scale AI compute infrastructure,\" said James Manning, cofounder and CEO of Sharon AI, in a statement.\n\"AI-native companies need access to scalable, energy- and cost-efficient compute infrastructure to compete globally,\" Tim Rosenfield, co-CEO of Firmus Technologies, said in a statement.\nNvidia framed the program as a response to a structural shift in AI demand, from model development toward production inference workloads that require continuously operating infrastructure at scale. The company said emerging AI companies have historically had limited access to capital-intensive compute resources, with even long-term commitments insufficient to unlock financing.\nThe move comes as Nvidia contends with growing competition from custom AI chips developed by large cloud providers. Companies including Alphabet and Amazon have been offering access to their own processors, putting pressure on Nvidia to build a broader customer base beyond its largest buyers. Nvidia stock was down 0.5% in premarket trading Thursday.\nThe new model represents a deeper level of engagement than the equity stakes Nvidia has taken in neocloud operators like CoreWeave and Nebius.",
+    "text_blocks": [
+      "Nvidia announced a revenue-sharing program on Wednesday designed to give AI startups, model builders, and enterprises access to its computing infrastructure without requiring them to finance hardware buildouts themselves.",
+      "Revenue from both product sales and cloud operations flows back to Nvidia under the arrangement, as AI cloud companies provide Nvidia-powered services to their end customers. Kress, writing in a blog post, called the resulting income a \"recurring, usage-linked earnings stream\" for Nvidia; on the customer side, she said the model removes the need to navigate site selection, power procurement, construction, and hardware bring-up before accessing large-scale compute.",
+      "Token credits are also part of the offering, giving startups a way to access compute resources without upfront capital outlays.",
+      "Nvidia named two initial partners. Sharon AI will deploy up to 40,000 Nvidia Grace Blackwell GB300 GPUs. A campus being developed by Firmus Technologies in Batam, Indonesia is planned at a capacity of up to 170,000 Nvidia GPUs and 360 megawatts of power. The company said AI-native firms including Baseten, Fireworks AI, and Together AI represent the kind of customers the program is designed to serve.",
+      "\"This strategic collaboration with Nvidia marks a pivotal moment in Sharon AI's mission to deliver sovereign, large-scale AI compute infrastructure,\" said James Manning, cofounder and CEO of Sharon AI, in a statement.",
+      "\"AI-native companies need access to scalable, energy- and cost-efficient compute infrastructure to compete globally,\" Tim Rosenfield, co-CEO of Firmus Technologies, said in a statement.",
+      "Nvidia framed the program as a response to a structural shift in AI demand, from model development toward production inference workloads that require continuously operating infrastructure at scale. The company said emerging AI companies have historically had limited access to capital-intensive compute resources, with even long-term commitments insufficient to unlock financing.",
+      "The move comes as Nvidia contends with growing competition from custom AI chips developed by large cloud providers. Companies including Alphabet and Amazon have been offering access to their own processors, putting pressure on Nvidia to build a broader customer base beyond its largest buyers. Nvidia stock was down 0.5% in premarket trading Thursday.",
+      "The new model represents a deeper level of engagement than the equity stakes Nvidia has taken in neocloud operators like CoreWeave and Nebius."
+    ],
+    "html": null
+  }
+}

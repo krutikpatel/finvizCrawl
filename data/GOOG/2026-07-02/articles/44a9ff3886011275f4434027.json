@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://ca.finance.yahoo.com/news/factbox-european-regulators-crack-down-130836278.html",
+    "fetched_at": "2026-07-02T07:00:21.479005-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Factbox-European regulators step up scrutiny of Big Tech",
+    "byline": null,
+    "published_at": null,
+    "site_name": "ca.finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 2 (Reuters) - European regulators have launched a series of antitrust, privacy and online safety investigations into major technology companies in recent years.\nBelow are some of the major probes:\nALPHABET\nEurope's top court on July 2 dismissed Google's challenge against a €4.1 billion ($4.8 billion) EU antitrust fine over Android, largely upholding regulators' findings that the company used its mobile operating system to shut out rivals.\nThe European Commission originally imposed a €4.3 billion penalty in 2018, which a lower tribunal reduced in 2022. Google has accumulated almost €11 billion in EU antitrust fines over the past decade.\nThe Commission in December opened an antitrust investigation into whether Google is breaching competition rules through its use of publishers' online content and YouTube material for artificial intelligence purposes.\nGoogle won its challenge in September 2024 against a €1.49 billion fine linked to online search advertising but lost a separate appeal against a €2.42 billion fine over its comparison shopping service.\nBritain's Competition and Markets Authority (CMA) in June ordered Google to increase transparency around search rankings and allow publishers to opt out of having content used for AI features.\nAMAZON.COM\nItaly's privacy watchdog in February ordered an Amazon.com unit to stop using personal data from more than 1,800 warehouse workers near Rome.\nGermany's cartel office in the same month barred Amazon from imposing price caps on retailers selling through its German marketplace and sought recovery of profits it said were generated through anti-competitive conduct.\nThe EU General Court in November rejected Amazon's bid to overturn its designation as a platform subject to stricter obligations under the Digital Services Act (DSA).\nAPPLE\nItaly's competition authority fined Apple and two subsidiaries €98.6 million in December over alleged abuse of a dominant position in the mobile apps market.\nThe European Commission fined Apple €500 million in April 2025 under the Digital Markets Act (DMA), while Germany's Federal Court of Justice upheld a regulatory designation subjecting the company to tighter competition controls.\nBritain's CMA designated Apple and Google as companies with \"strategic market status\" in October 2025, giving it powers to impose conduct requirements.\nIn September 2024, Europe's top court upheld an order requiring Apple to pay €13 billion in back taxes to Ireland.\nApple also agreed in July 2024 to open its tap-and-go mobile payments technology to rivals to settle an EU antitrust probe. Earlier that year, Brussels fined the company €1.84 billion over restrictions affecting music-streaming competitors.",
+    "text_blocks": [
+      "July 2 (Reuters) - European regulators have launched a series of antitrust, privacy and online safety investigations into major technology companies in recent years.",
+      "Below are some of the major probes:",
+      "ALPHABET",
+      "Europe's top court on July 2 dismissed Google's challenge against a €4.1 billion ($4.8 billion) EU antitrust fine over Android, largely upholding regulators' findings that the company used its mobile operating system to shut out rivals.",
+      "The European Commission originally imposed a €4.3 billion penalty in 2018, which a lower tribunal reduced in 2022. Google has accumulated almost €11 billion in EU antitrust fines over the past decade.",
+      "The Commission in December opened an antitrust investigation into whether Google is breaching competition rules through its use of publishers' online content and YouTube material for artificial intelligence purposes.",
+      "Google won its challenge in September 2024 against a €1.49 billion fine linked to online search advertising but lost a separate appeal against a €2.42 billion fine over its comparison shopping service.",
+      "Britain's Competition and Markets Authority (CMA) in June ordered Google to increase transparency around search rankings and allow publishers to opt out of having content used for AI features.",
+      "AMAZON.COM",
+      "Italy's privacy watchdog in February ordered an Amazon.com unit to stop using personal data from more than 1,800 warehouse workers near Rome.",
+      "Germany's cartel office in the same month barred Amazon from imposing price caps on retailers selling through its German marketplace and sought recovery of profits it said were generated through anti-competitive conduct.",
+      "The EU General Court in November rejected Amazon's bid to overturn its designation as a platform subject to stricter obligations under the Digital Services Act (DSA).",
+      "APPLE",
+      "Italy's competition authority fined Apple and two subsidiaries €98.6 million in December over alleged abuse of a dominant position in the mobile apps market.",
+      "The European Commission fined Apple €500 million in April 2025 under the Digital Markets Act (DMA), while Germany's Federal Court of Justice upheld a regulatory designation subjecting the company to tighter competition controls.",
+      "Britain's CMA designated Apple and Google as companies with \"strategic market status\" in October 2025, giving it powers to impose conduct requirements.",
+      "In September 2024, Europe's top court upheld an order requiring Apple to pay €13 billion in back taxes to Ireland.",
+      "Apple also agreed in July 2024 to open its tap-and-go mobile payments technology to rivals to settle an EU antitrust probe. Earlier that year, Brussels fined the company €1.84 billion over restrictions affecting music-streaming competitors."
+    ],
+    "html": null
+  }
+}

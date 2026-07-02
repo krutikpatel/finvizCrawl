@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-cloud-report-hits-ai-200237116.html",
+    "fetched_at": "2026-07-02T07:01:06.227638-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Cloud Report Hits AI Infrastructure Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI infrastructure and semiconductor stocks sold off Wednesday after reports that Meta Platforms (NASDAQ:META) is exploring a cloud business that would sell excess AI computing capacity and models to outside customers.\nThe report lifted Meta shares about 8%, but it pressured companies already competing in the AI infrastructure market. AI cloud providers were among the hardest hit, with Nebius (NASDAQ:NBIS) falling nearly 12%, CoreWeave (NASDAQ:CRWV) dropping about 10%, and Super Micro Computer (NASDAQ:SMCI) declining roughly 4%.\nChip stocks also came under pressure. Nvidia (NVDA) fell around 2%, AMD (NASDAQ:AMD) dropped nearly 3%, while Intel (NASDAQ:INTC), Arm (NASDAQ:ARM), Taiwan Semiconductor (NYSE:TSM) and GlobalFoundries (NASDAQ:GFS) each lost about 4%. Micron (MU) slid 7% despite announcing a new long-term supply agreement with General Motors.\nNetworking and optical names were broadly weaker as well. Corning (NYSE:GLW) plunged about 10%, while Ciena (NYSE:CIEN), Coherent (NYSE:COHR) and Celestica (NYSE:CLS) each fell around 3%.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI infrastructure and semiconductor stocks sold off Wednesday after reports that Meta Platforms (NASDAQ:META) is exploring a cloud business that would sell excess AI computing capacity and models to outside customers.",
+      "The report lifted Meta shares about 8%, but it pressured companies already competing in the AI infrastructure market. AI cloud providers were among the hardest hit, with Nebius (NASDAQ:NBIS) falling nearly 12%, CoreWeave (NASDAQ:CRWV) dropping about 10%, and Super Micro Computer (NASDAQ:SMCI) declining roughly 4%.",
+      "Chip stocks also came under pressure. Nvidia (NVDA) fell around 2%, AMD (NASDAQ:AMD) dropped nearly 3%, while Intel (NASDAQ:INTC), Arm (NASDAQ:ARM), Taiwan Semiconductor (NYSE:TSM) and GlobalFoundries (NASDAQ:GFS) each lost about 4%. Micron (MU) slid 7% despite announcing a new long-term supply agreement with General Motors.",
+      "Networking and optical names were broadly weaker as well. Corning (NYSE:GLW) plunged about 10%, while Ciena (NYSE:CIEN), Coherent (NYSE:COHR) and Celestica (NYSE:CLS) each fell around 3%."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-key-unemployment-jobs-data-june?mod=mw_FV",
+    "fetched_at": "2026-07-02T07:01:08.658077-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock Market Today: Dow jumps 400 points, S&P 500 and Nasdaq open higher as jobs data eases rate worries - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nJuly 2, 2026 at 9:50am ET\nStock Market Today: Dow jumps 400 points, S&P 500 and Nasdaq open higher as jobs data eases rate worries\nDow heads for 20th record close of year after jobs growth was less than expected in June, and ahead of the long Independence Day holiday weekend. The U.S. bond market closes early today at 2 p.m. Eastern.\nLatest Updates\nThursday's top reads\nHere are the top stories to read Thursday:",
+    "text_blocks": [
+      "LIVE",
+      "July 2, 2026 at 9:50am ET",
+      "Stock Market Today: Dow jumps 400 points, S&P 500 and Nasdaq open higher as jobs data eases rate worries",
+      "Dow heads for 20th record close of year after jobs growth was less than expected in June, and ahead of the long Independence Day holiday weekend. The U.S. bond market closes early today at 2 p.m. Eastern.",
+      "Latest Updates",
+      "Thursday's top reads",
+      "Here are the top stories to read Thursday:"
+    ],
+    "html": null
+  }
+}

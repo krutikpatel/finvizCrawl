@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-jumps-9-3-plans-125126968.html",
+    "fetched_at": "2026-07-02T07:00:08.187057-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Jumps 9.3% on Plans for AI Cloud Infrastructure Business",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) is developing plans for a cloud infrastructure business that could sell access to AI computing power and hosted AI models, opening a possible new revenue stream as the company pushes deeper into artificial intelligence. The move could place Meta in a more direct competitive lane with Amazon Web Services, Microsoft Azure and Google Cloud, while also giving investors a fresh way to think about returns from its heavy AI infrastructure spending.\nThe planned business could include access to AI models running on Meta's existing infrastructure, including its Muse Spark models, in a setup similar to AWS's Bedrock offering. Meta is also considering selling raw computing capacity, closer to the model used by neocloud providers such as CoreWeave. The effort sits inside Meta Compute, an internal initiative led by Santosh Janardhan, Daniel Gross and Meta President Dina Powell McCormick.\nThe strategy is still in development and could change, but the market reaction was immediate. Meta shares jumped 9.3% to $615.55 in New York on Wednesday, marking the biggest intraday gain since April, while CoreWeave (NASDAQ:CRWV) fell as much as 14% and Nebius Group NV (NASDAQ:NBIS) dropped as much as 17%. For investors, the key point is that Meta may be looking to turn its massive AI buildout into a business line of its own, especially if it ends up with more computing capacity than it needs internally.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) is developing plans for a cloud infrastructure business that could sell access to AI computing power and hosted AI models, opening a possible new revenue stream as the company pushes deeper into artificial intelligence. The move could place Meta in a more direct competitive lane with Amazon Web Services, Microsoft Azure and Google Cloud, while also giving investors a fresh way to think about returns from its heavy AI infrastructure spending.",
+      "The planned business could include access to AI models running on Meta's existing infrastructure, including its Muse Spark models, in a setup similar to AWS's Bedrock offering. Meta is also considering selling raw computing capacity, closer to the model used by neocloud providers such as CoreWeave. The effort sits inside Meta Compute, an internal initiative led by Santosh Janardhan, Daniel Gross and Meta President Dina Powell McCormick.",
+      "The strategy is still in development and could change, but the market reaction was immediate. Meta shares jumped 9.3% to $615.55 in New York on Wednesday, marking the biggest intraday gain since April, while CoreWeave (NASDAQ:CRWV) fell as much as 14% and Nebius Group NV (NASDAQ:NBIS) dropped as much as 17%. For investors, the key point is that Meta may be looking to turn its massive AI buildout into a business line of its own, especially if it ends up with more computing capacity than it needs internally."
+    ],
+    "html": null
+  }
+}

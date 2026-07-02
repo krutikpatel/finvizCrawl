@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/14be5d84-243e-33b4-a930-29f85c23cf86/google-loses-final-e.u..html",
+    "fetched_at": "2026-07-02T07:00:21.311688-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google loses final E.U. appeal over €4.1 billion Android fine",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google lost its final appeal Thursday against a €4.1 billion ($4.7 billion) European Union antitrust fine, as the European Court of Justice dismissed the challenge brought by Alphabet Inc. and its Google subsidiary. The company has no further right to appeal.\n\"The appeal brought by Google and its parent company Alphabet against the judgment of the General Court is dismissed, thereby confirming the penalty imposed for Google Search's abuse of a dominant position in the context of the Android operating system,\" the court said.\nWhen regulators first brought the case in 2018, they determined that Google had violated competition rules by tying access to its Play Store app marketplace to manufacturers' agreement to pre-install both Google Search and the Chrome browser on their devices. Beyond those pre-installation requirements, the commission identified two additional violations: certain manufacturers received financial incentives from Google only if they agreed to carry Google Search exclusively, and any manufacturer that wanted to offer a non-Google-certified version of Android was blocked from doing so.\nIn September 2022, the E.U.'s General Court lowered the penalty to €4.1 billion from the original €4.34 billion. The judges agreed with most of the commission's case but found there was not enough evidence for some specific charges. Google then appealed to the Court of Justice of the European Union, which on Thursday ruled in favor of the regulators.\nGoogle responded by saying the decision ignored the company's \"significant investment to ensure Android remains open, interoperable and free.\" The company also said it had updated its contracts to meet the 2018 ruling and would keep focusing on innovation for users and partners.\nAlphabet stock was about 1% lower in premarket trading following the ruling, CNBC reported.\nThe ruling closes out one of the E.U.'s most prominent antitrust actions against a major technology company. Across a range of antitrust enforcement actions spanning the past decade, Google's total E.U. financial penalties have approached €11 billion, according to Reuters. Separate proceedings under the E.U.'s Digital Markets Act could result in additional fines, with regulators alleging that Google gives preferential treatment to its own products in search and that app developers are improperly prevented from pointing users toward purchasing options beyond the Play Store, according to Bloomberg.\nThe commission is now focusing more on the Digital Markets Act and Digital Services Act to regulate large technology platforms. This shift has also brought companies like Apple and Meta under closer scrutiny.",
+    "text_blocks": [
+      "Google lost its final appeal Thursday against a €4.1 billion ($4.7 billion) European Union antitrust fine, as the European Court of Justice dismissed the challenge brought by Alphabet Inc. and its Google subsidiary. The company has no further right to appeal.",
+      "\"The appeal brought by Google and its parent company Alphabet against the judgment of the General Court is dismissed, thereby confirming the penalty imposed for Google Search's abuse of a dominant position in the context of the Android operating system,\" the court said.",
+      "When regulators first brought the case in 2018, they determined that Google had violated competition rules by tying access to its Play Store app marketplace to manufacturers' agreement to pre-install both Google Search and the Chrome browser on their devices. Beyond those pre-installation requirements, the commission identified two additional violations: certain manufacturers received financial incentives from Google only if they agreed to carry Google Search exclusively, and any manufacturer that wanted to offer a non-Google-certified version of Android was blocked from doing so.",
+      "In September 2022, the E.U.'s General Court lowered the penalty to €4.1 billion from the original €4.34 billion. The judges agreed with most of the commission's case but found there was not enough evidence for some specific charges. Google then appealed to the Court of Justice of the European Union, which on Thursday ruled in favor of the regulators.",
+      "Google responded by saying the decision ignored the company's \"significant investment to ensure Android remains open, interoperable and free.\" The company also said it had updated its contracts to meet the 2018 ruling and would keep focusing on innovation for users and partners.",
+      "Alphabet stock was about 1% lower in premarket trading following the ruling, CNBC reported.",
+      "The ruling closes out one of the E.U.'s most prominent antitrust actions against a major technology company. Across a range of antitrust enforcement actions spanning the past decade, Google's total E.U. financial penalties have approached €11 billion, according to Reuters. Separate proceedings under the E.U.'s Digital Markets Act could result in additional fines, with regulators alleging that Google gives preferential treatment to its own products in search and that app developers are improperly prevented from pointing users toward purchasing options beyond the Play Store, according to Bloomberg.",
+      "The commission is now focusing more on the Digital Markets Act and Digital Services Act to regulate large technology platforms. This shift has also brought companies like Apple and Meta under closer scrutiny."
+    ],
+    "html": null
+  }
+}

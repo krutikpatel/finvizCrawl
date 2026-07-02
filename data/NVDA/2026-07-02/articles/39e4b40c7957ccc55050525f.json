@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-slides-nearly-7-burry-125745939.html",
+    "fetched_at": "2026-07-02T07:00:31.693517-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Caterpillar Slides Nearly 7% After Burry Opens First Short",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCaterpillar (NYSE:CAT) shares pulled back nearly 7% Wednesday after Michael Burry (Trades, Portfolio) said he had opened his first short position in the industrial giant. The stock had just closed at an all-time high of $1,064.90, with Burry announcing a short position at $1,060.98. The move came after Caterpillar rallied more than 150% over the past 12 months, partly as investors linked its power equipment business to the AI data-center buildout.\nBurry's warning also extended beyond Caterpillar, as he disclosed short positions in Nvidia (NASDAQ:NVDA), Applied Materials (NASDAQ:AMAT), the iShares Semiconductor ETF (NASDAQ:SOXX), and Tesla (NASDAQ:TSLA). With the exception of Tesla, those securities declined Wednesday. Applied Materials dropped more than 11% after gaining nearly 150% this year, SOXX fell more than 6% after doubling this year, and Nvidia slid 3.3% before trimming losses.\nThe broader concern is that AI-linked stocks could be running ahead of fundamentals after chip shares posted a sharp rally. The Philadelphia Semiconductor Index rose 88% in the second quarter and 101% in the first half, putting it on pace for what could be its strongest year. Burry called SOXX a rare form of index overvaluation and pointed to the chip index's unusually high extension above its 200-day moving average, while his Tesla short appears to build on earlier concerns around valuation and potential shareholder dilution.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Caterpillar (NYSE:CAT) shares pulled back nearly 7% Wednesday after Michael Burry (Trades, Portfolio) said he had opened his first short position in the industrial giant. The stock had just closed at an all-time high of $1,064.90, with Burry announcing a short position at $1,060.98. The move came after Caterpillar rallied more than 150% over the past 12 months, partly as investors linked its power equipment business to the AI data-center buildout.",
+      "Burry's warning also extended beyond Caterpillar, as he disclosed short positions in Nvidia (NASDAQ:NVDA), Applied Materials (NASDAQ:AMAT), the iShares Semiconductor ETF (NASDAQ:SOXX), and Tesla (NASDAQ:TSLA). With the exception of Tesla, those securities declined Wednesday. Applied Materials dropped more than 11% after gaining nearly 150% this year, SOXX fell more than 6% after doubling this year, and Nvidia slid 3.3% before trimming losses.",
+      "The broader concern is that AI-linked stocks could be running ahead of fundamentals after chip shares posted a sharp rally. The Philadelphia Semiconductor Index rose 88% in the second quarter and 101% in the first half, putting it on pace for what could be its strongest year. Burry called SOXX a rare form of index overvaluation and pointed to the chip index's unusually high extension above its 200-day moving average, while his Tesla short appears to build on earlier concerns around valuation and potential shareholder dilution."
+    ],
+    "html": null
+  }
+}

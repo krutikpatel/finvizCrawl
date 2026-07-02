@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-efficiency-gains-hammer-chip-162740042.html",
+    "fetched_at": "2026-07-02T07:00:26.561381-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI efficiency gains, Meta cloud move hammer chip stocks; SOX slides 6%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Chip stocks were hit hard Wednesday following a report from The Information that OpenAI engineers have unlocked software optimizations capable of slashing inference costs in half. These breakthrough efficiencies reportedly slashed the number of Nvidia GPUs required to support non-logged-in ChatGPT visitors, triggering immediate Wall Street anxieties over a potential slowdown in AI hardware demand.\nAdding to the pressure, Bloomberg reported that Meta Platforms Inc (NASDAQ:META) is planning to launch a cloud business to sell AI computing power to outside customers. The move could potentially signal a slowdown in Meta's own chip procurement, as excess capacity redirected to third parties may reduce the urgency of continued aggressive hardware purchases.\nAdvanced Micro Devices Inc (NASDAQ:AMD) closed down 6.9%, Intel Corporation (NASDAQ:INTC) fell 9%, and NVIDIA Corporation (NASDAQ:NVDA) dropped 1.3% % as investors work through the implications of a report that, at its core, raises a pointed question: if AI labs can squeeze dramatically more output from the chips they already own, how much new silicon do they actually need to buy?\nElsewhere, semiconductor equipment makers like Applied Materials and Lam Research, and memory makers like Micron and SanDisk, fell 10% or more.\nThe Philadelphia Semiconductor Index lost 6.3% during the session, a sharp reversal after the sector recorded its best quarter ever in Q2 2026, adding a combined $2 trillion in market capitalization across Micron, Intel, and AMD alone as investors rotated into hardware names beyond Nvidia. Semiconductor companies had reached a record 19.7% weighting in the S&P 500 as of late June, nearly four times their roughly 5% share in June 2020, which means any demand-erosion narrative lands on an index that is unusually exposed to chip sentiment.\nBroadcom Inc (NASDAQ:AVGO) presents a more complicated picture. The company is OpenAI's partner on \"Jalapeño,\" a custom AI inference chip designed from scratch for large language model workloads and targeted for initial data center deployment in late 2026. That relationship gives Broadcom a potential hedge against pure GPU demand-erosion fears that are weighing on rivals.\nThe report from The Information, published Tuesday, describes OpenAI engineers telling colleagues they had found a way to more than halve inference costs through newly discovered optimizations. When applied specifically to ChatGPT traffic from visitors without a free or paid account, the techniques reduced the number of Nvidia GPUs needed at one point to just a couple hundred, a figure the outlet called \"shockingly small.\" The exact methods remain undisclosed, though The Information noted possibilities including quantization, key-value caching, batch processing, and model routing.",
+    "text_blocks": [
+      "Investing.com -- Chip stocks were hit hard Wednesday following a report from The Information that OpenAI engineers have unlocked software optimizations capable of slashing inference costs in half. These breakthrough efficiencies reportedly slashed the number of Nvidia GPUs required to support non-logged-in ChatGPT visitors, triggering immediate Wall Street anxieties over a potential slowdown in AI hardware demand.",
+      "Adding to the pressure, Bloomberg reported that Meta Platforms Inc (NASDAQ:META) is planning to launch a cloud business to sell AI computing power to outside customers. The move could potentially signal a slowdown in Meta's own chip procurement, as excess capacity redirected to third parties may reduce the urgency of continued aggressive hardware purchases.",
+      "Advanced Micro Devices Inc (NASDAQ:AMD) closed down 6.9%, Intel Corporation (NASDAQ:INTC) fell 9%, and NVIDIA Corporation (NASDAQ:NVDA) dropped 1.3% % as investors work through the implications of a report that, at its core, raises a pointed question: if AI labs can squeeze dramatically more output from the chips they already own, how much new silicon do they actually need to buy?",
+      "Elsewhere, semiconductor equipment makers like Applied Materials and Lam Research, and memory makers like Micron and SanDisk, fell 10% or more.",
+      "The Philadelphia Semiconductor Index lost 6.3% during the session, a sharp reversal after the sector recorded its best quarter ever in Q2 2026, adding a combined $2 trillion in market capitalization across Micron, Intel, and AMD alone as investors rotated into hardware names beyond Nvidia. Semiconductor companies had reached a record 19.7% weighting in the S&P 500 as of late June, nearly four times their roughly 5% share in June 2020, which means any demand-erosion narrative lands on an index that is unusually exposed to chip sentiment.",
+      "Broadcom Inc (NASDAQ:AVGO) presents a more complicated picture. The company is OpenAI's partner on \"Jalapeño,\" a custom AI inference chip designed from scratch for large language model workloads and targeted for initial data center deployment in late 2026. That relationship gives Broadcom a potential hedge against pure GPU demand-erosion fears that are weighing on rivals.",
+      "The report from The Information, published Tuesday, describes OpenAI engineers telling colleagues they had found a way to more than halve inference costs through newly discovered optimizations. When applied specifically to ChatGPT traffic from visitors without a free or paid account, the techniques reduced the number of Nvidia GPUs needed at one point to just a couple hundred, a figure the outlet called \"shockingly small.\" The exact methods remain undisclosed, though The Information noted possibilities including quantization, key-value caching, batch processing, and model routing."
+    ],
+    "html": null
+  }
+}

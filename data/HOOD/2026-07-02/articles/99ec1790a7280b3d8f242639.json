@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6e6e9088-d3af-3897-9c45-2afd5b0e4937/morning-minute%3A-robinhood.html",
+    "fetched_at": "2026-07-02T07:00:16.176717-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show covering all of the top stories in 5 minutes, downloadable on Apple Pod or Spotify.\nGM!\nToday's top news:\n-\nCrypto majors are very green as SOL jumps 10%; BTC +5% to $61.3k\n-\nVenice AI announces $65M raise at $1B valuation, creating crypto's newest unicorn\n-\nRobinhood launches Robinhood Chain with tokenized stocks focus, Lighter perps\n-\nLighter's LIT jumps 15% to new local highs on back of Robinhood launch\n-\nCircle CEO Jeremy Allaire responds to OUSD, says consortium stablecoins have a poor track record\n🏦 Robinhood Launches an 'AI-Native' Ethereum Layer-2 With Tokenized Stocks\nRobinhood launched the public mainnet of Robinhood Chain, an Arbitrum-powered Ethereum layer-2. The company touts its new chain as \"AI-native,\" meaning it supports trading by AI agents directly onchain.\nThe network opened with integrations from BitGo and Chainlink and partnerships with Uniswap and Pleiades for market-making, and it's designed to bridge Robinhood's traditional brokerage with its crypto stack.\nThe centerpiece is Stock Tokens, onchain versions of shares in companies like Nvidia and Apple. On Robinhood Chain, users can drop those tokenized shares into lending pools and use them as collateral in DeFi. That turns a stock position into composable on-chain capital, the kind of thing that's impossible inside a normal brokerage. Robinhood also opened perps trading directly in its wallet through the decentralized erp dex Lighter, and switched on Robinhood Earn for eligible US users, letting them lend the USDG stablecoin for around 7% APY.\nHOOD shares closed up more than 8% to $108.65, up nearly 20% on the month, though still well off their highs. Lighter's LIT token jumped 15% to $2.14 and fresh local highs on the back of their integration.\n💸 Venice AI Hits $1 Billion Valuation as Voorhees Bets on Private AI\nErik Voorhees' privacy-focused AI platform Venice AI raised $65 million at a $1 billion valuation, its first outside funding round and enough to make it a unicorn barely two years after launch. The round was led by crypto VC Dragonfly, with Coinbase Ventures and North Island Ventures joining.\nVoorhees said the raise validates Venice's mission to build a private, uncensored alternative to mainstream AI like ChatGPT. For those unfamiliar, Venice gives users access to more than 200 open and closed AI models across text, image, video, and code, while storing nothing on its own servers. Prompts are encrypted client-side and routed through an external proxy.",
+    "text_blocks": [
+      "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show covering all of the top stories in 5 minutes, downloadable on Apple Pod or Spotify.",
+      "GM!",
+      "Today's top news:",
+      "-",
+      "Crypto majors are very green as SOL jumps 10%; BTC +5% to $61.3k",
+      "-",
+      "Venice AI announces $65M raise at $1B valuation, creating crypto's newest unicorn",
+      "-",
+      "Robinhood launches Robinhood Chain with tokenized stocks focus, Lighter perps",
+      "-",
+      "Lighter's LIT jumps 15% to new local highs on back of Robinhood launch",
+      "-",
+      "Circle CEO Jeremy Allaire responds to OUSD, says consortium stablecoins have a poor track record",
+      "🏦 Robinhood Launches an 'AI-Native' Ethereum Layer-2 With Tokenized Stocks",
+      "Robinhood launched the public mainnet of Robinhood Chain, an Arbitrum-powered Ethereum layer-2. The company touts its new chain as \"AI-native,\" meaning it supports trading by AI agents directly onchain.",
+      "The network opened with integrations from BitGo and Chainlink and partnerships with Uniswap and Pleiades for market-making, and it's designed to bridge Robinhood's traditional brokerage with its crypto stack.",
+      "The centerpiece is Stock Tokens, onchain versions of shares in companies like Nvidia and Apple. On Robinhood Chain, users can drop those tokenized shares into lending pools and use them as collateral in DeFi. That turns a stock position into composable on-chain capital, the kind of thing that's impossible inside a normal brokerage. Robinhood also opened perps trading directly in its wallet through the decentralized erp dex Lighter, and switched on Robinhood Earn for eligible US users, letting them lend the USDG stablecoin for around 7% APY.",
+      "HOOD shares closed up more than 8% to $108.65, up nearly 20% on the month, though still well off their highs. Lighter's LIT token jumped 15% to $2.14 and fresh local highs on the back of their integration.",
+      "💸 Venice AI Hits $1 Billion Valuation as Voorhees Bets on Private AI",
+      "Erik Voorhees' privacy-focused AI platform Venice AI raised $65 million at a $1 billion valuation, its first outside funding round and enough to make it a unicorn barely two years after launch. The round was led by crypto VC Dragonfly, with Coinbase Ventures and North Island Ventures joining.",
+      "Voorhees said the raise validates Venice's mission to build a private, uncensored alternative to mainstream AI like ChatGPT. For those unfamiliar, Venice gives users access to more than 200 open and closed AI models across text, image, video, and code, while storing nothing on its own servers. Prompts are encrypted client-side and routed through an external proxy."
+    ],
+    "html": null
+  }
+}

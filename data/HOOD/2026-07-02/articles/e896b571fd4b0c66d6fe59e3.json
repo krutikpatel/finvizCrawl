@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/d42bd7e9-9190-3c42-bf11-b69e24abd7b8/hood-climbs-8%25-on-robinhood.html",
+    "fetched_at": "2026-07-02T07:00:16.073832-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HOOD Climbs 8% on Robinhood Chain Launch and an AI Guinness Record",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood launched the public mainnet of Robinhood Chain, moving its Arbitrum-based Layer-2 network live during a keynote in London. HOOD shares gained more than 8% after the event.\nThe company also set a Guinness World Record on stage. An AI agent used a virtual Agentic Credit Card to complete the most purchases within three minutes.\nRobinhood Chain Mainnet Builds on Arbitrum\nThe launch arrives roughly five months after the broker opened a public testnet in February. According to the official announcement, the permissionless network targets financial services and tokenized real-world assets.\nRobinhood Chain runs on the Arbitrum technology stack. The network processes transactions off-chain and settles them on Ethereum, an approach the company says lowers fees.\nThe chain skips having its proprietary token. Instead, it uses Ethereum (ETH) to cover gas and transaction costs.\nIn addition, Robinhood claims roughly 100-millisecond block times. Meanwhile, Chainlink said it now serves as the network's data and cross-chain oracle, supporting Stock Tokens from launch.\nRobinhood joins a wider corporate move onto Arbitrum. LG Electronics recently built a blockchain ad network on the same infrastructure.\nRobinhood Stock Tokens and DeFi Lending Go Live\nStock Tokens form the core of the release. Eligible users in more than 120 countries can now trade tokenized equities around the clock through Robinhood Wallet, although availability varies by jurisdiction.\nUniswap joined as a day-one partner and deploys a dedicated liquidity protocol on the chain. Meanwhile, Robinhood Earn lets eligible US users lend the USDG stablecoin at an estimated 7% APY, extending the firm's new Crypto Earn push built on Morpho.\nRivals want the same ground. Binance and OKX are also exploring tokenized US stocks, therefore competition in the segment keeps building.\nAI Record Lifts Wall Street Sentiment\nThe Guinness stunt showcased Robinhood's agentic ambitions. The AI agent sourced, selected, and ordered gifts for attendees, and an on-site adjudicator certified the record.\nThe company plans to extend Agentic Accounts from equities and options to US crypto trading. Robinhood's own disclosures warn that AI agents can act on outdated data, behave unexpectedly, and prove difficult to stop in real time.\nInvestors still responded quickly. HOOD climbed 8.4% to around $108.\nHowever, the rally contrasts with earlier caution. In February, analysts warned that weak crypto activity could pressure the Robinhood stock price this year.",
+    "text_blocks": [
+      "Robinhood launched the public mainnet of Robinhood Chain, moving its Arbitrum-based Layer-2 network live during a keynote in London. HOOD shares gained more than 8% after the event.",
+      "The company also set a Guinness World Record on stage. An AI agent used a virtual Agentic Credit Card to complete the most purchases within three minutes.",
+      "Robinhood Chain Mainnet Builds on Arbitrum",
+      "The launch arrives roughly five months after the broker opened a public testnet in February. According to the official announcement, the permissionless network targets financial services and tokenized real-world assets.",
+      "Robinhood Chain runs on the Arbitrum technology stack. The network processes transactions off-chain and settles them on Ethereum, an approach the company says lowers fees.",
+      "The chain skips having its proprietary token. Instead, it uses Ethereum (ETH) to cover gas and transaction costs.",
+      "In addition, Robinhood claims roughly 100-millisecond block times. Meanwhile, Chainlink said it now serves as the network's data and cross-chain oracle, supporting Stock Tokens from launch.",
+      "Robinhood joins a wider corporate move onto Arbitrum. LG Electronics recently built a blockchain ad network on the same infrastructure.",
+      "Robinhood Stock Tokens and DeFi Lending Go Live",
+      "Stock Tokens form the core of the release. Eligible users in more than 120 countries can now trade tokenized equities around the clock through Robinhood Wallet, although availability varies by jurisdiction.",
+      "Uniswap joined as a day-one partner and deploys a dedicated liquidity protocol on the chain. Meanwhile, Robinhood Earn lets eligible US users lend the USDG stablecoin at an estimated 7% APY, extending the firm's new Crypto Earn push built on Morpho.",
+      "Rivals want the same ground. Binance and OKX are also exploring tokenized US stocks, therefore competition in the segment keeps building.",
+      "AI Record Lifts Wall Street Sentiment",
+      "The Guinness stunt showcased Robinhood's agentic ambitions. The AI agent sourced, selected, and ordered gifts for attendees, and an on-site adjudicator certified the record.",
+      "The company plans to extend Agentic Accounts from equities and options to US crypto trading. Robinhood's own disclosures warn that AI agents can act on outdated data, behave unexpectedly, and prove difficult to stop in real time.",
+      "Investors still responded quickly. HOOD climbed 8.4% to around $108.",
+      "However, the rally contrasts with earlier caution. In February, analysts warned that weak crypto activity could pressure the Robinhood stock price this year."
+    ],
+    "html": null
+  }
+}

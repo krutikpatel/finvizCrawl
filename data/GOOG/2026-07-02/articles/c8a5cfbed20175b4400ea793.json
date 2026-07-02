@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/google-ordered-pay-nearly-2-124207467.html",
+    "fetched_at": "2026-07-02T07:00:21.415517-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Ordered to Pay Nearly $2 Billion as Klarna Wins Swedish Case",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet's Google (NASDAQ:GOOG) has been ordered by a Swedish court to pay almost $2 billion to Klarna's (NYSE:KLAR) Pricerunner unit after a long-running dispute over Google's position in the comparison shopping market. The Patent and Market Court in Stockholm dismissed most of Pricerunner's original 80 billion Swedish kronor ($8.2 billion) claim, but Judge Linda Kullberg described the award as the largest claim ordered in a Swedish competition case. Klarna shares rose 5.3% in premarket trading after the ruling, suggesting investors may view the decision as a meaningful legal win for the fintech group.\nPricerunner argued that Google abused its dominant search position for more than a decade by favoring its own comparison shopping service over competing platforms. Klarna said the award compensates for lost revenue caused by Google's preferential treatment of its own service, which it said also raises costs for consumers. Google disagreed with the ruling and said it will consider its legal options, while pointing to platform changes made in 2017 that it said are working and supporting hundreds of comparison shopping services across more than 1,500 websites in Europe.\nThe case is tied to the European Commission's 2017 decision to fine Google 2.4 billion for illegally using its search dominance to give its own shopping service an advantage. The EU's top tribunal confirmed two years ago that Google violated antitrust laws, which means EU-based plaintiffs no longer need to prove that point in court. A Berlin court last year ordered Google to pay 573 million to two German price-comparison websites, a decision Google appealed, while similar cases remain pending across Europe.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet's Google (NASDAQ:GOOG) has been ordered by a Swedish court to pay almost $2 billion to Klarna's (NYSE:KLAR) Pricerunner unit after a long-running dispute over Google's position in the comparison shopping market. The Patent and Market Court in Stockholm dismissed most of Pricerunner's original 80 billion Swedish kronor ($8.2 billion) claim, but Judge Linda Kullberg described the award as the largest claim ordered in a Swedish competition case. Klarna shares rose 5.3% in premarket trading after the ruling, suggesting investors may view the decision as a meaningful legal win for the fintech group.",
+      "Pricerunner argued that Google abused its dominant search position for more than a decade by favoring its own comparison shopping service over competing platforms. Klarna said the award compensates for lost revenue caused by Google's preferential treatment of its own service, which it said also raises costs for consumers. Google disagreed with the ruling and said it will consider its legal options, while pointing to platform changes made in 2017 that it said are working and supporting hundreds of comparison shopping services across more than 1,500 websites in Europe.",
+      "The case is tied to the European Commission's 2017 decision to fine Google 2.4 billion for illegally using its search dominance to give its own shopping service an advantage. The EU's top tribunal confirmed two years ago that Google violated antitrust laws, which means EU-based plaintiffs no longer need to prove that point in court. A Berlin court last year ordered Google to pay 573 million to two German price-comparison websites, a decision Google appealed, while similar cases remain pending across Europe."
+    ],
+    "html": null
+  }
+}

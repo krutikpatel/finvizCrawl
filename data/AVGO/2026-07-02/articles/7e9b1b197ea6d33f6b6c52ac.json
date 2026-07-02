@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-ai-cloud-push-sends-200314853.html",
+    "fetched_at": "2026-07-02T07:00:26.527247-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nShares of AI infrastructure and semiconductor companies declined Wednesday after a report said Meta Platforms (META) is exploring a cloud infrastructure business that would offer external customers access to AI computing power and models.\nThe report sparked broad selling across AI-related names. Nvidia (NASDAQ:NVDA) fell about 2%, while Advanced Micro Devices (NASDAQ:AMD) lost nearly 3%, Broadcom (NASDAQ:AVGO) slipped around 2%, and Intel (NASDAQ:INTC) dropped about 4%. Infrastructure providers also came under pressure, with Nebius (NASDAQ:NBIS) falling nearly 12%, CoreWeave (NASDAQ:CRWV) losing about 10%, and Super Micro Computer (SMCI) declining around 4%.\nStorage and networking stocks also weakened. Micron Technology (MU) dropped about 7% despite disclosing a long-term supply agreement with General Motors (GM), while Sandisk (SNDK) fell about 8%, Seagate Technology (STX) lost around 4%, and Western Digital (WDC) declined nearly 5%. Chip-equipment makers also traded lower, with KLA (KLAC), Lam Research (LRCX), Applied Materials (AMAT) and ASML Holding (ASML) posting losses.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Shares of AI infrastructure and semiconductor companies declined Wednesday after a report said Meta Platforms (META) is exploring a cloud infrastructure business that would offer external customers access to AI computing power and models.",
+      "The report sparked broad selling across AI-related names. Nvidia (NASDAQ:NVDA) fell about 2%, while Advanced Micro Devices (NASDAQ:AMD) lost nearly 3%, Broadcom (NASDAQ:AVGO) slipped around 2%, and Intel (NASDAQ:INTC) dropped about 4%. Infrastructure providers also came under pressure, with Nebius (NASDAQ:NBIS) falling nearly 12%, CoreWeave (NASDAQ:CRWV) losing about 10%, and Super Micro Computer (SMCI) declining around 4%.",
+      "Storage and networking stocks also weakened. Micron Technology (MU) dropped about 7% despite disclosing a long-term supply agreement with General Motors (GM), while Sandisk (SNDK) fell about 8%, Seagate Technology (STX) lost around 4%, and Western Digital (WDC) declined nearly 5%. Chip-equipment makers also traded lower, with KLA (KLAC), Lam Research (LRCX), Applied Materials (AMAT) and ASML Holding (ASML) posting losses."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/robinhood-stock-price-top-picks-d23d6fb2?mod=bar_FV",
+    "fetched_at": "2026-07-02T07:00:18.479112-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood and 4 More Stocks That Were Just Added to This Firm’s ‘Top Picks’ List<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood and 4 More Stocks That Were Just Added to This Firm’s ‘Top Picks’ List\nRobinhood Markets has been added to Mizuho Securities’ “top picks” for July while Micron Technology is the firm’s top stock among the highflying chip names.\nRobinhood Markets has been added to Mizuho Securities’ “top picks” for July while Micron Technology is the firm’s top stock among the highflying chip names.",
+    "text_blocks": [
+      "Robinhood and 4 More Stocks That Were Just Added to This Firm’s ‘Top Picks’ List",
+      "Robinhood Markets has been added to Mizuho Securities’ “top picks” for July while Micron Technology is the firm’s top stock among the highflying chip names.",
+      "Robinhood Markets has been added to Mizuho Securities’ “top picks” for July while Micron Technology is the firm’s top stock among the highflying chip names."
+    ],
+    "html": null
+  }
+}

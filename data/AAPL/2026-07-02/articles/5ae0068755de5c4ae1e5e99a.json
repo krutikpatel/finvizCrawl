@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-eyes-10-million-foldable-135339191.html",
+    "fetched_at": "2026-07-02T07:00:05.404700-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Eyes 10 Million Foldable iPhones in Major Expansion Move",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) is preparing a broader iPhone launch schedule spanning the second half of 2026 and the first half of 2027, including a higher-than-expected production target for foldable iPhones.\nThe report said Apple has asked suppliers to get ready to manufacture about 10 million foldable iPhones this year, an increase from an earlier estimate of seven million to eight million units. The expanded production plan is part of a lineup expected to include at least five new iPhone models.\nApple's reported production increase comes as smartphone makers accelerate investments in foldable devices despite ongoing constraints in the global supply of key components. The premium foldable segment has been led by Samsung Electronics (SSNLF), while Chinese manufacturers, including Huawei, have also expanded their offerings.\nThe reported strategy suggests Apple is aiming to strengthen its position in the premium smartphone market by entering the foldable category at greater scale. Apple shares rose about 1.7% in the previous trading session, while the company has not publicly commented on the reported production plans.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) is preparing a broader iPhone launch schedule spanning the second half of 2026 and the first half of 2027, including a higher-than-expected production target for foldable iPhones.",
+      "The report said Apple has asked suppliers to get ready to manufacture about 10 million foldable iPhones this year, an increase from an earlier estimate of seven million to eight million units. The expanded production plan is part of a lineup expected to include at least five new iPhone models.",
+      "Apple's reported production increase comes as smartphone makers accelerate investments in foldable devices despite ongoing constraints in the global supply of key components. The premium foldable segment has been led by Samsung Electronics (SSNLF), while Chinese manufacturers, including Huawei, have also expanded their offerings.",
+      "The reported strategy suggests Apple is aiming to strengthen its position in the premium smartphone market by entering the foldable category at greater scale. Apple shares rose about 1.7% in the previous trading session, while the company has not publicly commented on the reported production plans."
+    ],
+    "html": null
+  }
+}

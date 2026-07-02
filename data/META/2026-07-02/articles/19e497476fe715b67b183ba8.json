@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-just-nosedived-125600983.html",
+    "fetched_at": "2026-07-02T07:00:08.208174-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why CoreWeave Stock Just Nosedived",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCoreWeave (NASDAQ:CRWV) shares fell nearly 14% on Wednesday after a report said Meta Platforms (META) is developing a cloud infrastructure business that could compete with providers offering artificial intelligence computing services.\nThe report said Meta is building a business that would sell excess AI computing capacity and provide outside customers access to AI models hosted on its infrastructure. The initiative could position the company as a competitor to emerging AI cloud providers, including CoreWeave.\nThe development drew investor attention because Meta is one of CoreWeave's largest customers. Earlier this year, the companies entered into a $21 billion AI infrastructure agreement, making Meta a key contributor to CoreWeave's customer base. Investors appeared concerned that Meta's expanded cloud ambitions could eventually reduce its reliance on third-party AI infrastructure providers.\nWhile Meta has not outlined a timeline for the reported cloud business, the move signals intensifying competition in the rapidly expanding AI infrastructure market as technology companies seek to monetize growing demand for computing capacity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "CoreWeave (NASDAQ:CRWV) shares fell nearly 14% on Wednesday after a report said Meta Platforms (META) is developing a cloud infrastructure business that could compete with providers offering artificial intelligence computing services.",
+      "The report said Meta is building a business that would sell excess AI computing capacity and provide outside customers access to AI models hosted on its infrastructure. The initiative could position the company as a competitor to emerging AI cloud providers, including CoreWeave.",
+      "The development drew investor attention because Meta is one of CoreWeave's largest customers. Earlier this year, the companies entered into a $21 billion AI infrastructure agreement, making Meta a key contributor to CoreWeave's customer base. Investors appeared concerned that Meta's expanded cloud ambitions could eventually reduce its reliance on third-party AI infrastructure providers.",
+      "While Meta has not outlined a timeline for the reported cloud business, the move signals intensifying competition in the rapidly expanding AI infrastructure market as technology companies seek to monetize growing demand for computing capacity."
+    ],
+    "html": null
+  }
+}

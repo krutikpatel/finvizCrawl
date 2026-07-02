@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/sony-ends-playstation-discs-2028-135259384.html",
+    "fetched_at": "2026-07-02T07:00:23.998421-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sony Ends PlayStation Discs in 2028 as Digital Shift Accelerates",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSony Group Corp. (NYSE:SONY) will stop producing physical discs for PlayStation consoles starting in January 2028, marking a major shift toward a fully digital gaming model as consumer demand continues to move away from physical media. The company said this transition reflects how most of its community now prefers to access and play games, with future titles expected to be downloaded through Sony's online storefront.\nGames scheduled for release before early 2028 will still be released on disc, meaning the near-term pipeline should not be affected. Sony's decision could make it the first major console maker to fully abandon physical media, even though both Sony and Microsoft have already sold lower-cost digital-only versions of recent consoles while keeping disc-compatible hardware available.\nThe move could sharpen investor focus on Sony's digital storefront strategy, but it also triggered backlash from gamers who have spent years building physical collections. Those concerns were possibly reinforced by Sony's separate announcement that it will close digital stores for the legacy PlayStation 3 and Vita, with Sony saying both products can no longer keep up with current e-commerce systems and payment standards.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Sony Group Corp. (NYSE:SONY) will stop producing physical discs for PlayStation consoles starting in January 2028, marking a major shift toward a fully digital gaming model as consumer demand continues to move away from physical media. The company said this transition reflects how most of its community now prefers to access and play games, with future titles expected to be downloaded through Sony's online storefront.",
+      "Games scheduled for release before early 2028 will still be released on disc, meaning the near-term pipeline should not be affected. Sony's decision could make it the first major console maker to fully abandon physical media, even though both Sony and Microsoft have already sold lower-cost digital-only versions of recent consoles while keeping disc-compatible hardware available.",
+      "The move could sharpen investor focus on Sony's digital storefront strategy, but it also triggered backlash from gamers who have spent years building physical collections. Those concerns were possibly reinforced by Sony's separate announcement that it will close digital stores for the legacy PlayStation 3 and Vita, with Sony saying both products can no longer keep up with current e-commerce systems and payment standards."
+    ],
+    "html": null
+  }
+}
