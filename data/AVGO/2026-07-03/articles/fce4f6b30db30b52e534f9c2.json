@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-explores-samsung-2nm-chip-144844786.html",
+    "fetched_at": "2026-07-03T07:00:27.917736-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic explores Samsung 2nm chip partnership - The Information",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Anthropic has begun early-stage work on a custom AI chip and held talks with Samsung Electronics Co Ltd (KS:005930) as a potential manufacturing partner, according to The Information, a development that sharpens competitive pressure on NVIDIA Corporation (NASDAQ:NVDA), which currently holds an estimated 74% share of the AI chip market.\nFor publicly traded chip stocks, the implications cut across multiple names. Broadcom Inc (NASDAQ:AVGO) already has skin in the custom-silicon game as OpenAI's chip design partner, while Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a direct competitive threat to its foundry dominance if Samsung wins a marquee AI client like Anthropic.\nThe Information reported that Anthropic is specifically considering Samsung's 2-nanometer manufacturing process and the Korean conglomerate's advanced packaging facilities. The project is still nascent, as no detailed design or manufacturing work has begun, and the company may not proceed, but The Information noted that Anthropic recently brought on Clive Chan, an early member of OpenAI's own custom chip team, as part of a deliberate engineering buildout.\nThe move mirrors a well-worn playbook among AI labs. OpenAI tapped Broadcom to design its own silicon in 2024 and unveiled the first product of that collaboration last month: an inference chip called Jalapeño, built to run large-language models more efficiently. Google, Amazon, Meta, and Microsoft have all taken similar steps to develop proprietary silicon and reduce their dependence on third-party suppliers. Nvidia, despite the competitive noise, has not surrendered ground. The Information's own estimates put the company's AI chip market share at 74%, higher than it was before the inference-chip arms race began.\nNVDA shares are 0.7% higher in morning trade. AVGO, which stands to be a direct read-through given its existing custom chip design revenue from OpenAI, is also up 0.7% in today's session. TSM, as the industry's gold standard for cutting-edge AI processors, faces a longer-term question about whether Samsung can credibly close the gap on advanced node yields, a concern analysts have repeatedly raised, given Samsung's historical struggles with leading-edge process ramp-ups relative to TSMC's N2 node. Investors seem unconcerned, however, as TSM stock has gained 3.5% in today's session.\nSamsung's foundry ambitions are getting support from multiple directions, according to The Information. Google is separately considering using Samsung for part of a future tensor processing unit, which would represent another significant win for Samsung's contract manufacturing business. The news comes after Samsung, SK Hynix, and Micron all participated in Anthropic's $65 billion May fundraising round.",
+    "text_blocks": [
+      "Investing.com -- Anthropic has begun early-stage work on a custom AI chip and held talks with Samsung Electronics Co Ltd (KS:005930) as a potential manufacturing partner, according to The Information, a development that sharpens competitive pressure on NVIDIA Corporation (NASDAQ:NVDA), which currently holds an estimated 74% share of the AI chip market.",
+      "For publicly traded chip stocks, the implications cut across multiple names. Broadcom Inc (NASDAQ:AVGO) already has skin in the custom-silicon game as OpenAI's chip design partner, while Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a direct competitive threat to its foundry dominance if Samsung wins a marquee AI client like Anthropic.",
+      "The Information reported that Anthropic is specifically considering Samsung's 2-nanometer manufacturing process and the Korean conglomerate's advanced packaging facilities. The project is still nascent, as no detailed design or manufacturing work has begun, and the company may not proceed, but The Information noted that Anthropic recently brought on Clive Chan, an early member of OpenAI's own custom chip team, as part of a deliberate engineering buildout.",
+      "The move mirrors a well-worn playbook among AI labs. OpenAI tapped Broadcom to design its own silicon in 2024 and unveiled the first product of that collaboration last month: an inference chip called Jalapeño, built to run large-language models more efficiently. Google, Amazon, Meta, and Microsoft have all taken similar steps to develop proprietary silicon and reduce their dependence on third-party suppliers. Nvidia, despite the competitive noise, has not surrendered ground. The Information's own estimates put the company's AI chip market share at 74%, higher than it was before the inference-chip arms race began.",
+      "NVDA shares are 0.7% higher in morning trade. AVGO, which stands to be a direct read-through given its existing custom chip design revenue from OpenAI, is also up 0.7% in today's session. TSM, as the industry's gold standard for cutting-edge AI processors, faces a longer-term question about whether Samsung can credibly close the gap on advanced node yields, a concern analysts have repeatedly raised, given Samsung's historical struggles with leading-edge process ramp-ups relative to TSMC's N2 node. Investors seem unconcerned, however, as TSM stock has gained 3.5% in today's session.",
+      "Samsung's foundry ambitions are getting support from multiple directions, according to The Information. Google is separately considering using Samsung for part of a future tensor processing unit, which would represent another significant win for Samsung's contract manufacturing business. The news comes after Samsung, SK Hynix, and Micron all participated in Anthropic's $65 billion May fundraising round."
+    ],
+    "html": null
+  }
+}

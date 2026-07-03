@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-massive-134827628.html",
+    "fetched_at": "2026-07-03T07:00:11.034133-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-massive-134827628.html",
+      "context": {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-massive-134827628.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

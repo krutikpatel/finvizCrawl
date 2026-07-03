@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6dcb7e96-873d-3caf-bff7-57dc358adc1d/the-wide-divide-priced-into.html",
+    "fetched_at": "2026-07-03T07:00:27.859216-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Wide Divide Priced Into Advanced Micro Devices Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "For anyone holding AMD shares, the market is pricing a future that could either double the stock or cut it in half, and you are exposed to that entire potential swing.\nThe options market sees two starkly different, yet plausible, futures for Advanced Micro Devices (AMD) a year from now. In one scenario, the stock, which trades around $580.91 as of Tuesday, is pushing toward $1188. In the other, it has fallen to near $280. If you own the shares, you own the full breadth of that uncertainty, whether you trade options or not.\nThat isn't a volatile guess; it's the risk priced directly into the market. The one-year options on AMD imply a 68% probability that the stock will land somewhere within that wide band. Reaching the ceiling would mean a gain of about 104%, while hitting the floor represents a drop of 51%. This is the potential volatility you are carrying in your portfolio right now.\nWhy The Market Sees This Volatility As Business As Usual\nIs the market bracing for a unique shock? Not exactly. The stock's implied volatility is currently 72.8%, which is only slightly higher than the 67.7% volatility it has actually delivered over the past year. This suggests options traders see the coming year's potential for large swings as being roughly in line with the stock's already turbulent character. In fact, this level of implied volatility sits in the 100th percentile of its own one-year range, meaning the market is pricing in the maximum amount of movement this typically volatile stock has seen.\nThe $120 Billion AI Question Driving The Uncertainty\nThis priced-in tension stems from a fundamental debate about AMD's future. The bull case is fueled by management's sharply expanded outlook for its server CPU business. On its latest earnings call, the company said it now expects the server CPU market to grow to \"over $120 billion by 2030,\" driven by the voracious computing needs of \"Agentic AI.\" This is a significant increase from a prior forecast and underpins guidance for server CPU revenue to grow by more than 70% year-over-year in the second quarter.\nThe potential for a sharp downturn, however, is just as real. Analysts on the same call pressed management on intensifying competition from both x86 and emerging ARM-based rivals. Furthermore, the company's own high-volume AI accelerators, like the upcoming MI450 series, are expected to ramp with gross margins that are \"below corporate average.\" Add to that the expectation that \"second half PC shipments will be lower due to higher memory and component costs,\" and you have a clear recipe for uncertainty. For what it's worth, traders are currently paying about 2.4 times as much for upside speculation as for downside protection, a mild lean into the bull case.",
+    "text_blocks": [
+      "For anyone holding AMD shares, the market is pricing a future that could either double the stock or cut it in half, and you are exposed to that entire potential swing.",
+      "The options market sees two starkly different, yet plausible, futures for Advanced Micro Devices (AMD) a year from now. In one scenario, the stock, which trades around $580.91 as of Tuesday, is pushing toward $1188. In the other, it has fallen to near $280. If you own the shares, you own the full breadth of that uncertainty, whether you trade options or not.",
+      "That isn't a volatile guess; it's the risk priced directly into the market. The one-year options on AMD imply a 68% probability that the stock will land somewhere within that wide band. Reaching the ceiling would mean a gain of about 104%, while hitting the floor represents a drop of 51%. This is the potential volatility you are carrying in your portfolio right now.",
+      "Why The Market Sees This Volatility As Business As Usual",
+      "Is the market bracing for a unique shock? Not exactly. The stock's implied volatility is currently 72.8%, which is only slightly higher than the 67.7% volatility it has actually delivered over the past year. This suggests options traders see the coming year's potential for large swings as being roughly in line with the stock's already turbulent character. In fact, this level of implied volatility sits in the 100th percentile of its own one-year range, meaning the market is pricing in the maximum amount of movement this typically volatile stock has seen.",
+      "The $120 Billion AI Question Driving The Uncertainty",
+      "This priced-in tension stems from a fundamental debate about AMD's future. The bull case is fueled by management's sharply expanded outlook for its server CPU business. On its latest earnings call, the company said it now expects the server CPU market to grow to \"over $120 billion by 2030,\" driven by the voracious computing needs of \"Agentic AI.\" This is a significant increase from a prior forecast and underpins guidance for server CPU revenue to grow by more than 70% year-over-year in the second quarter.",
+      "The potential for a sharp downturn, however, is just as real. Analysts on the same call pressed management on intensifying competition from both x86 and emerging ARM-based rivals. Furthermore, the company's own high-volume AI accelerators, like the upcoming MI450 series, are expected to ramp with gross margins that are \"below corporate average.\" Add to that the expectation that \"second half PC shipments will be lower due to higher memory and component costs,\" and you have a clear recipe for uncertainty. For what it's worth, traders are currently paying about 2.4 times as much for upside speculation as for downside protection, a mild lean into the bull case."
+    ],
+    "html": null
+  }
+}

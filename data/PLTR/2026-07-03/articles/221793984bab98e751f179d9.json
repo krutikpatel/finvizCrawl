@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-unveils-6-000-employee-193951787.html",
+    "fetched_at": "2026-07-03T07:00:30.344100-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Unveils 6,000-Employee AI Deployment Organization",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) is creating a new 6,000-employee organization to help companies move artificial intelligence from experimentation into real business deployment. The group will support customers across the technical and strategic work needed to use AI more effectively, bringing together employees with backgrounds in engineering, corporate training, management and industry-specific expertise.\nJudson Althoff, CEO of Microsoft's commercial business, said the skill sets needed for this kind of AI rollout are unique, with people who have spent decades in sectors such as banking, retail, energy and life sciences. By working more closely with customers, Microsoft could help businesses implement AI more efficiently while also using that feedback to guide its own product development decisions.\nThe move comes as software vendors increasingly step into hands-on AI implementation, an area historically left to consulting firms. Palantir helped popularize the model of placing engineers inside customer organizations, while Salesforce, OpenAI and Amazon's cloud unit have also moved in a similar direction. Althoff said the idea was partly driven by customer concerns over rising AI costs, with Microsoft possibly helping companies improve usage by replacing expensive models with cheaper alternatives.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) is creating a new 6,000-employee organization to help companies move artificial intelligence from experimentation into real business deployment. The group will support customers across the technical and strategic work needed to use AI more effectively, bringing together employees with backgrounds in engineering, corporate training, management and industry-specific expertise.",
+      "Judson Althoff, CEO of Microsoft's commercial business, said the skill sets needed for this kind of AI rollout are unique, with people who have spent decades in sectors such as banking, retail, energy and life sciences. By working more closely with customers, Microsoft could help businesses implement AI more efficiently while also using that feedback to guide its own product development decisions.",
+      "The move comes as software vendors increasingly step into hands-on AI implementation, an area historically left to consulting firms. Palantir helped popularize the model of placing engineers inside customer organizations, while Salesforce, OpenAI and Amazon's cloud unit have also moved in a similar direction. Althoff said the idea was partly driven by customer concerns over rising AI costs, with Microsoft possibly helping companies improve usage by replacing expensive models with cheaper alternatives."
+    ],
+    "html": null
+  }
+}

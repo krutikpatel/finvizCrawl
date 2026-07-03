@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/ai-chip-stocks-fall-asia-161034686.html",
+    "fetched_at": "2026-07-03T07:00:38.522225-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Chip Stocks Fall After Asia Selloff",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI and memory-related stocks traded lower Thursday after a sharp selloff in Asian semiconductor shares rattled investors.\nSouth Korea's Kospi Index dropped nearly 8%, weighed heavily by steep declines in memory giants SK Hynix (HXSCL) and Samsung Electronics (SSNLF). SK Hynix plunged almost 15%, while Samsung fell about 9%, despite both companies unveiling massive domestic investment plans tied to semiconductors and AI.\nSK Hynix said it plans to invest 100 trillion won, or roughly $64B, in new memory and packaging facilities. Samsung separately outlined plans to invest 140 trillion won, or about $90B, in displays, batteries and semiconductors in South Korea's Chungcheong region.\nThe weakness spilled into U.S. chip stocks. Micron (NASDAQ:MU) fell nearly 3% premarket, while Nvidia (NASDAQ:NVDA) slipped about 1% and AMD (NASDAQ:AMD) lost roughly 2%. Storage names Western Digital (NASDAQ:WDC), Seagate (NASDAQ:STX) and Sandisk (NASDAQ:SNDK) also traded lower.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI and memory-related stocks traded lower Thursday after a sharp selloff in Asian semiconductor shares rattled investors.",
+      "South Korea's Kospi Index dropped nearly 8%, weighed heavily by steep declines in memory giants SK Hynix (HXSCL) and Samsung Electronics (SSNLF). SK Hynix plunged almost 15%, while Samsung fell about 9%, despite both companies unveiling massive domestic investment plans tied to semiconductors and AI.",
+      "SK Hynix said it plans to invest 100 trillion won, or roughly $64B, in new memory and packaging facilities. Samsung separately outlined plans to invest 140 trillion won, or about $90B, in displays, batteries and semiconductors in South Korea's Chungcheong region.",
+      "The weakness spilled into U.S. chip stocks. Micron (NASDAQ:MU) fell nearly 3% premarket, while Nvidia (NASDAQ:NVDA) slipped about 1% and AMD (NASDAQ:AMD) lost roughly 2%. Storage names Western Digital (NASDAQ:WDC), Seagate (NASDAQ:STX) and Sandisk (NASDAQ:SNDK) also traded lower."
+    ],
+    "html": null
+  }
+}

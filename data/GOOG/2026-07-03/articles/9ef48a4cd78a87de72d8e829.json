@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/alphabet-takes-aim-malicious-traffic-130248885.html",
+    "fetched_at": "2026-07-03T07:00:22.955316-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Takes Aim at Malicious Web Traffic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL) escalated its fight against malicious proxy networks Thursday, saying Google worked with the FBI, Lumen (NYSE:LUMN) and others to disrupt NetNut's residential proxy service and the Popa botnet.\nGoogle said the operation follows its January 2026 disruption of the IPIDEA proxy network and is part of a broader push to dismantle residential proxy systems used to hide and route malicious web traffic. The company said the coordinated action caused significant degradation to NetNut's proxy network and business operations, reducing the available device pool by millions.\nNetNut's parent, Israel-based Alarum Technologies (NASDAQ:ALAR), told Reuters it had been informed Thursday that the FBI seized some of its domains. Alarum said it takes the matter seriously and will cooperate with law enforcement to investigate any misuse of its infrastructure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL) escalated its fight against malicious proxy networks Thursday, saying Google worked with the FBI, Lumen (NYSE:LUMN) and others to disrupt NetNut's residential proxy service and the Popa botnet.",
+      "Google said the operation follows its January 2026 disruption of the IPIDEA proxy network and is part of a broader push to dismantle residential proxy systems used to hide and route malicious web traffic. The company said the coordinated action caused significant degradation to NetNut's proxy network and business operations, reducing the available device pool by millions.",
+      "NetNut's parent, Israel-based Alarum Technologies (NASDAQ:ALAR), told Reuters it had been informed Thursday that the FBI seized some of its domains. Alarum said it takes the matter seriously and will cooperate with law enforcement to investigate any misuse of its infrastructure."
+    ],
+    "html": null
+  }
+}

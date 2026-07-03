@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-talks-raise-3-billion-215816435.html",
+    "fetched_at": "2026-07-03T07:00:19.891747-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 2 (Reuters) - AI data center startup Crusoe is in talks to raise about $3 billion in a funding round that may triple its valuation, Bloomberg News reported on Thursday, citing people familiar with the situation.\nThe startup has contracts to supply AI computing power for the likes of Meta and Oracle, the report said, as technology giants spend billions of dollars on data centers to meet the massive computing requirements for GenAI.\nReuters could not independently verify the report and Crusoe did not immediately respond to a request for comment.\nThe startup is still in active talks on the round, and a final valuation has not been set, according to the report.\nInvestors, however, expect the value to fall within the $30 billion range, including the new investments, the report said.\nLast year, Crusoe raised $1.38 billion in a Series E round at more than a $10 billion valuation. The round was co-led by technology investors Valor Equity Partners and Mubadala Capital.\nLaunched in 2018 as a cryptocurrency business, Crusoe has pivoted to building AI infrastructure and is among the upcoming \"neoclouds\" that provide specialized AI cloud and data center services.\nCrusoe said in June that the company has contracts for 4.9 gigawatts of computing power and had more than 40 gigawatts in its total project pipeline.\nBloomberg reported last month that Meta is under contract to buy computing capacity from Crusoe at two data centers in Childress, Texas, and Warrenton, Missouri.\n(Reporting by Jaspreet Singh in Bengaluru; Editing by Maju Samuel)",
+    "text_blocks": [
+      "July 2 (Reuters) - AI data center startup Crusoe is in talks to raise about $3 billion in a funding round that may triple its valuation, Bloomberg News reported on Thursday, citing people familiar with the situation.",
+      "The startup has contracts to supply AI computing power for the likes of Meta and Oracle, the report said, as technology giants spend billions of dollars on data centers to meet the massive computing requirements for GenAI.",
+      "Reuters could not independently verify the report and Crusoe did not immediately respond to a request for comment.",
+      "The startup is still in active talks on the round, and a final valuation has not been set, according to the report.",
+      "Investors, however, expect the value to fall within the $30 billion range, including the new investments, the report said.",
+      "Last year, Crusoe raised $1.38 billion in a Series E round at more than a $10 billion valuation. The round was co-led by technology investors Valor Equity Partners and Mubadala Capital.",
+      "Launched in 2018 as a cryptocurrency business, Crusoe has pivoted to building AI infrastructure and is among the upcoming \"neoclouds\" that provide specialized AI cloud and data center services.",
+      "Crusoe said in June that the company has contracts for 4.9 gigawatts of computing power and had more than 40 gigawatts in its total project pipeline.",
+      "Bloomberg reported last month that Meta is under contract to buy computing capacity from Crusoe at two data centers in Childress, Texas, and Warrenton, Missouri.",
+      "(Reporting by Jaspreet Singh in Bengaluru; Editing by Maju Samuel)"
+    ],
+    "html": null
+  }
+}

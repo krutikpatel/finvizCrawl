@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/arms-15-billion-ai-chip-192143631.html",
+    "fetched_at": "2026-07-03T07:00:43.715571-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm's $15 Billion AI Chip Target May Arrive Early",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM) may reach its $15 billion sales target for its own chips sooner than expected, as demand from the AI boom continues to run ahead of the company's earlier assumptions. CEO Rene Haas told Bloomberg Television he remains very confident Arm can hit that target by the previously stated end-of-decade timeline, while also saying at Computex that stronger-than-anticipated demand could possibly pull the milestone forward. Haas said demand has been stronger than Arm anticipated and described customer interest as fantastic, reflecting the pressure across the tech industry to build more data centers and AI services.\nThe move is a major strategic shift for Arm, a company long known for licensing chip technology to semiconductor makers rather than selling its own components. In March, Arm announced plans to sell its own chips for the first time and laid out aggressive targets for the coming years, including the $15 billion sales projection. The company expects revenue from this new chip business to eventually surpass its current operations, which are centered on selling intellectual property.\nMeta Platforms (NASDAQ:META) will be the first major customer for Arm's AGI CPU, a chip expected to carry as many as 136 cores and draw 300 watts of electricity. Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) will produce the chip, which is designed to work alongside accelerators from companies such as Nvidia (NASDAQ:NVDA). For investors, the bigger story could be that Arm is moving beyond its licensing roots and into a more direct role in the AI infrastructure buildout, with Haas saying customers asked for the product and demand has been stronger than expected.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM) may reach its $15 billion sales target for its own chips sooner than expected, as demand from the AI boom continues to run ahead of the company's earlier assumptions. CEO Rene Haas told Bloomberg Television he remains very confident Arm can hit that target by the previously stated end-of-decade timeline, while also saying at Computex that stronger-than-anticipated demand could possibly pull the milestone forward. Haas said demand has been stronger than Arm anticipated and described customer interest as fantastic, reflecting the pressure across the tech industry to build more data centers and AI services.",
+      "The move is a major strategic shift for Arm, a company long known for licensing chip technology to semiconductor makers rather than selling its own components. In March, Arm announced plans to sell its own chips for the first time and laid out aggressive targets for the coming years, including the $15 billion sales projection. The company expects revenue from this new chip business to eventually surpass its current operations, which are centered on selling intellectual property.",
+      "Meta Platforms (NASDAQ:META) will be the first major customer for Arm's AGI CPU, a chip expected to carry as many as 136 cores and draw 300 watts of electricity. Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) will produce the chip, which is designed to work alongside accelerators from companies such as Nvidia (NASDAQ:NVDA). For investors, the bigger story could be that Arm is moving beyond its licensing roots and into a more direct role in the AI infrastructure buildout, with Haas saying customers asked for the product and demand has been stronger than expected."
+    ],
+    "html": null
+  }
+}

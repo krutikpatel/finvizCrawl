@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/31de4775-cec5-302b-826c-ae9e21acd2c3/etoro-leads-%2412.5m-round-for.html",
+    "fetched_at": "2026-07-03T07:00:16.179811-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "eToro Leads $12.5M Round for Onchain Perps Platform Extended",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Retail broker eToro led a $12.5 million funding round for Extended, an onchain perpetual futures platform founded by former Revolut employees, with plans to integrate it into the self-custodial wallet they acquired in April.\nWhat's the Scoop?\n-\nThe Zengo Integration: Similar to Robinhood's announcement yesterday, eToro will integrate Extended's perpetual futures engine directly into Zengo, the self-custody wallet it acquired for $70 million in April. Over time, eToro plans to bring broader DeFi products into its core platform.\n-\nEveryone Wants to be the Everything-Exchange: eToro is the latest contestant to enter the race to become the \"Everything-Exchange,\" a phrase increasingly synonymous with providing perpetuals. Yesterday, Robinhood announced its own perps offerings via Lighter. Coinbase has increasingly offered perpetuals for stocks while Kalshi and Polymarket release perpetuals of their own.",
+    "text_blocks": [
+      "Retail broker eToro led a $12.5 million funding round for Extended, an onchain perpetual futures platform founded by former Revolut employees, with plans to integrate it into the self-custodial wallet they acquired in April.",
+      "What's the Scoop?",
+      "-",
+      "The Zengo Integration: Similar to Robinhood's announcement yesterday, eToro will integrate Extended's perpetual futures engine directly into Zengo, the self-custody wallet it acquired for $70 million in April. Over time, eToro plans to bring broader DeFi products into its core platform.",
+      "-",
+      "Everyone Wants to be the Everything-Exchange: eToro is the latest contestant to enter the race to become the \"Everything-Exchange,\" a phrase increasingly synonymous with providing perpetuals. Yesterday, Robinhood announced its own perps offerings via Lighter. Coinbase has increasingly offered perpetuals for stocks while Kalshi and Polymarket release perpetuals of their own."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c034394d-5fdd-379d-9a38-75e46821b3eb/robinhood-shares-rise-on.html",
+    "fetched_at": "2026-07-03T07:00:16.201839-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood shares rise on launch of new blockchain network",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood Markets Inc (NASDAQ:HOOD) shares rose about 4% on Wednesday following the launch of Robinhood Chain, a new Ethereum-based layer-2 blockchain built using Arbitrum's Orbit technology and designed to support tokenized assets and onchain financial products.\nThe move marks a significant expansion of Robinhood's crypto strategy, with the company positioning the network as a foundation for bringing traditional investing products onchain.\nRobinhood Chain launches with Chainlink as its official oracle and cross-chain infrastructure provider, integrating Chainlink's Cross-Chain Interoperability Protocol (CCIP), Data Streams, and Data Feeds from day one.\nThe integration enables price data and interoperability services for tokenized real-world assets, including stock tokens such as Nvidia (NVDA), Alphabet (GOOG), and Apple (AAPL), while allowing assets to move across multiple blockchain networks.\nRobinhood said the blockchain is intended to provide users with access to a broader range of onchain financial products, supported by what it describes as institutional-grade infrastructure for security and data reliability.\nChainlink, which powers much of the decentralized finance ecosystem, said the partnership reflects growing adoption of its oracle standards by mainstream financial platforms. The company's infrastructure currently secures a large share of DeFi activity and has facilitated trillions of dollars in transaction value.\n\"Robinhood Crypto is building the foundation for the future of investing by delivering secure access to all of our financial products directly onchain, through Robinhood Chain,\" said Gaëtan Thabot, Director of Product at Robinhood Crypto.\n\"We chose Chainlink as the oracle provider for Robinhood Chain because its institutional-grade security and reliability are already trusted by the world's largest financial institutions to scale onchain ecosystems.\"",
+    "text_blocks": [
+      "Robinhood Markets Inc (NASDAQ:HOOD) shares rose about 4% on Wednesday following the launch of Robinhood Chain, a new Ethereum-based layer-2 blockchain built using Arbitrum's Orbit technology and designed to support tokenized assets and onchain financial products.",
+      "The move marks a significant expansion of Robinhood's crypto strategy, with the company positioning the network as a foundation for bringing traditional investing products onchain.",
+      "Robinhood Chain launches with Chainlink as its official oracle and cross-chain infrastructure provider, integrating Chainlink's Cross-Chain Interoperability Protocol (CCIP), Data Streams, and Data Feeds from day one.",
+      "The integration enables price data and interoperability services for tokenized real-world assets, including stock tokens such as Nvidia (NVDA), Alphabet (GOOG), and Apple (AAPL), while allowing assets to move across multiple blockchain networks.",
+      "Robinhood said the blockchain is intended to provide users with access to a broader range of onchain financial products, supported by what it describes as institutional-grade infrastructure for security and data reliability.",
+      "Chainlink, which powers much of the decentralized finance ecosystem, said the partnership reflects growing adoption of its oracle standards by mainstream financial platforms. The company's infrastructure currently secures a large share of DeFi activity and has facilitated trillions of dollars in transaction value.",
+      "\"Robinhood Crypto is building the foundation for the future of investing by delivering secure access to all of our financial products directly onchain, through Robinhood Chain,\" said Gaëtan Thabot, Director of Product at Robinhood Crypto.",
+      "\"We chose Chainlink as the oracle provider for Robinhood Chain because its institutional-grade security and reliability are already trusted by the world's largest financial institutions to scale onchain ecosystems.\""
+    ],
+    "html": null
+  }
+}

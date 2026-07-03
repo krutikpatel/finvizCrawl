@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-intel-lead-ai-193407390.html",
+    "fetched_at": "2026-07-03T07:00:46.556320-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI chip stocks rally as Nvidia, AMD and semiconductor equipment makers lift Wall Street\nArtificial intelligence traded higher Tuesday, helping push major U.S. indexes into positive territory as investors returned to technology shares following last week's pullback. The gains came as chipmakers and semiconductor equipment companies broadly advanced across the sector.\nThe tech-heavy Nasdaq Composite climbed about 0.9%, while the S&P 500 added roughly 0.3% and the Dow Jones Industrial Average edged up about 0.2%. Nvidia (NASDAQ:NVDA) rose about 2%, while Advanced Micro Devices (NASDAQ:AMD) jumped about 4%. Broadcom (NASDAQ:AVGO) also climbed around 2%, even after a report that Google selected MediaTek for work on its next-generation TPU chip.\nElsewhere, Intel (INTC) gained more than 6%, while Marvell Technology (NASDAQ:MRVL) advanced about 6%. Taiwan Semiconductor Manufacturing (TSM) and Arm Holdings (NASDAQ:ARM) each climbed about 3%, and Micron Technology (MU) added around 1% after saying it committed $250 million to support Trump Accounts, a tax-advantaged savings program for children.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI chip stocks rally as Nvidia, AMD and semiconductor equipment makers lift Wall Street",
+      "Artificial intelligence traded higher Tuesday, helping push major U.S. indexes into positive territory as investors returned to technology shares following last week's pullback. The gains came as chipmakers and semiconductor equipment companies broadly advanced across the sector.",
+      "The tech-heavy Nasdaq Composite climbed about 0.9%, while the S&P 500 added roughly 0.3% and the Dow Jones Industrial Average edged up about 0.2%. Nvidia (NASDAQ:NVDA) rose about 2%, while Advanced Micro Devices (NASDAQ:AMD) jumped about 4%. Broadcom (NASDAQ:AVGO) also climbed around 2%, even after a report that Google selected MediaTek for work on its next-generation TPU chip.",
+      "Elsewhere, Intel (INTC) gained more than 6%, while Marvell Technology (NASDAQ:MRVL) advanced about 6%. Taiwan Semiconductor Manufacturing (TSM) and Arm Holdings (NASDAQ:ARM) each climbed about 3%, and Micron Technology (MU) added around 1% after saying it committed $250 million to support Trump Accounts, a tax-advantaged savings program for children."
+    ],
+    "html": null
+  }
+}

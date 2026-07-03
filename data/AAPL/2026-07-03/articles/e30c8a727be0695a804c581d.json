@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-apple-market-value-47f12ca8?mod=bar_FV",
+    "fetched_at": "2026-07-03T07:00:05.612953-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Nvidia Must Be More Like Apple to Remain World’s Most Valuable Company<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.\nMeta's AI Cloud Play Raises More Questions For the Stock\n4Jul 1, 2026\nForensic Investigations Are Big Business, and Only Growing With AI. This Stock Offers a Way to Profit.\n0Jul 1, 2026\nVisa Stock Looks Ready for Its Next Leg Higher\n0Jun 30, 2026\nFirst American Financial Corp: Quantitative Stock of the Week\n0Jun 29, 2026",
+    "text_blocks": [
+      "This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.",
+      "Meta's AI Cloud Play Raises More Questions For the Stock",
+      "4Jul 1, 2026",
+      "Forensic Investigations Are Big Business, and Only Growing With AI. This Stock Offers a Way to Profit.",
+      "0Jul 1, 2026",
+      "Visa Stock Looks Ready for Its Next Leg Higher",
+      "0Jun 30, 2026",
+      "First American Financial Corp: Quantitative Stock of the Week",
+      "0Jun 29, 2026"
+    ],
+    "html": null
+  }
+}

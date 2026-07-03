@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/softbank-reportedly-reopens-talks-10bn-211430744.html",
+    "fetched_at": "2026-07-03T07:00:20.200983-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- SoftBank Group has reportedly resumed discussions with a group of lenders for a $10 billion loan secured by its ownership stake in OpenAI. The Japanese technology investor had previously attempted to arrange similar financing but faced resistance from banks concerned about the challenges of valuing private companies.\nSoftBank is now offering to guarantee repayment of the loan to address lender concerns. This structure would give banks recourse to SoftBank if the OpenAI shares used as collateral decline in value, according to a report from Reuters News.\nSoftBank has emerged as one of OpenAI's largest investors under founder Masayoshi Son's strategy to position the conglomerate as a leading force in artificial intelligence investment. SoftBank has committed over $60 billion to OpenAI and related AI infrastructure projects, including the Stargate data center venture announced with OpenAI and Oracle.\nThe financing takes the form of a margin loan, which operates as a line of credit. The lending consortium is expected to include Goldman Sachs Group Inc (NYSE:GS), JPMorgan Chase & Co (NYSE:JPM), and Mizuho Financial Group, the report said.\nSoftBank has used debt and asset-backed financing extensively to fund its investments. The company explored a $5 billion margin loan backed by shares in chip designer Arm Holdings, whose stock price has risen amid investor interest in AI.\nBanks initially rejected SoftBank's request for the loan to be backed only by its OpenAI stake. Under that structure, lenders would have no claim on SoftBank beyond the shares if the collateral lost value, and SoftBank would not have been required to repay the debt, the report said.\nThe negotiations reflect increased caution among lenders toward loans secured by stakes in private companies, whose valuations are more difficult to determine and whose shares are less liquid than publicly traded stock.\nRelated articles\nSoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- SoftBank Group has reportedly resumed discussions with a group of lenders for a $10 billion loan secured by its ownership stake in OpenAI. The Japanese technology investor had previously attempted to arrange similar financing but faced resistance from banks concerned about the challenges of valuing private companies.",
+      "SoftBank is now offering to guarantee repayment of the loan to address lender concerns. This structure would give banks recourse to SoftBank if the OpenAI shares used as collateral decline in value, according to a report from Reuters News.",
+      "SoftBank has emerged as one of OpenAI's largest investors under founder Masayoshi Son's strategy to position the conglomerate as a leading force in artificial intelligence investment. SoftBank has committed over $60 billion to OpenAI and related AI infrastructure projects, including the Stargate data center venture announced with OpenAI and Oracle.",
+      "The financing takes the form of a margin loan, which operates as a line of credit. The lending consortium is expected to include Goldman Sachs Group Inc (NYSE:GS), JPMorgan Chase & Co (NYSE:JPM), and Mizuho Financial Group, the report said.",
+      "SoftBank has used debt and asset-backed financing extensively to fund its investments. The company explored a $5 billion margin loan backed by shares in chip designer Arm Holdings, whose stock price has risen amid investor interest in AI.",
+      "Banks initially rejected SoftBank's request for the loan to be backed only by its OpenAI stake. Under that structure, lenders would have no claim on SoftBank beyond the shares if the collateral lost value, and SoftBank would not have been required to repay the debt, the report said.",
+      "The negotiations reflect increased caution among lenders toward loans secured by stakes in private companies, whose valuations are more difficult to determine and whose shares are less liquid than publicly traded stock.",
+      "Related articles",
+      "SoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

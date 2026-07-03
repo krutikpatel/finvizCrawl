@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-arm-pc-launch-unlikely-142852413.html",
+    "fetched_at": "2026-07-03T07:00:43.883900-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, Arm PC launch unlikely to move the needle for shares: analyst",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Wolfe Research is pushing back against the market's enthusiastic reaction to Nvidia's personal computer chip announcement at Computex, calling the combined $360 billion gain in market capitalization between Nvidia and Arm Holdings a significant overreaction to what the firm sees as a limited commercial opportunity.\nAnalyst Chris Caso said, \"We were frankly surprised by yesterday's market reaction to NVDA's PC chip announcement,\" noting that Nvidia's entry into the PC market had been widely speculated for roughly two years.\nThe RTX Spark chip, co-designed with MediaTek, pairs a consumer-class Blackwell GPU with a 20-core Arm-based Grace CPU, with several laptop brands announcing products for a Fall 2026 launch.\nThe expected price point, however, is above $2,500, a segment Wolfe Research described as a \"very limited unit opportunity.\" Nvidia's previously announced DGX Spark desktop, using the same chip family, retails for $4,700.\nThe firm also noted that Qualcomm has been selling its Arm-based Snapdragon X Elite chip in the $1,000 to $1,500 PC segment since 2024 with limited traction, raising further doubts about the addressable market.\nWolfe calculated that the combined market cap gain works out to \"$1.3 billion in market cap for every PC sold annually,\" calling the arithmetic difficult to justify.\n\"We don't think PCs are the reason to own either NVDA or ARM,\" Caso argued.\nIn a separate observation, Caso said Google's announcement of an $80 billion equity raise to fund AI capital expenditure was a meaningful signal that hyperscaler financing capacity remains intact for 2027 and beyond.\nRelated articles\nNvidia, Arm PC launch unlikely to move the needle for shares: analyst\nGoldman expects lower but still attractive stock market returns in 2026\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- Wolfe Research is pushing back against the market's enthusiastic reaction to Nvidia's personal computer chip announcement at Computex, calling the combined $360 billion gain in market capitalization between Nvidia and Arm Holdings a significant overreaction to what the firm sees as a limited commercial opportunity.",
+      "Analyst Chris Caso said, \"We were frankly surprised by yesterday's market reaction to NVDA's PC chip announcement,\" noting that Nvidia's entry into the PC market had been widely speculated for roughly two years.",
+      "The RTX Spark chip, co-designed with MediaTek, pairs a consumer-class Blackwell GPU with a 20-core Arm-based Grace CPU, with several laptop brands announcing products for a Fall 2026 launch.",
+      "The expected price point, however, is above $2,500, a segment Wolfe Research described as a \"very limited unit opportunity.\" Nvidia's previously announced DGX Spark desktop, using the same chip family, retails for $4,700.",
+      "The firm also noted that Qualcomm has been selling its Arm-based Snapdragon X Elite chip in the $1,000 to $1,500 PC segment since 2024 with limited traction, raising further doubts about the addressable market.",
+      "Wolfe calculated that the combined market cap gain works out to \"$1.3 billion in market cap for every PC sold annually,\" calling the arithmetic difficult to justify.",
+      "\"We don't think PCs are the reason to own either NVDA or ARM,\" Caso argued.",
+      "In a separate observation, Caso said Google's announcement of an $80 billion equity raise to fund AI capital expenditure was a meaningful signal that hyperscaler financing capacity remains intact for 2027 and beyond.",
+      "Related articles",
+      "Nvidia, Arm PC launch unlikely to move the needle for shares: analyst",
+      "Goldman expects lower but still attractive stock market returns in 2026",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-stark-message-openai-192518505.html",
+    "fetched_at": "2026-07-03T07:00:30.469947-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir CEO Has a Stark Message for OpenAI and Anthropic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) said its artificial intelligence strategy prioritizes customer control over token-based pricing models, with CEO Alex Karp criticizing the approach adopted by some frontier AI developers.\nKarp argued that pricing AI primarily by token consumption may encourage higher usage without delivering proportional business value. He said many enterprise customers increasingly want greater ownership of their computing infrastructure, data, and AI models rather than relying heavily on external providers.\nPalantir also pointed to its recently expanded collaboration with Nvidia (NASDAQ:NVDA), which integrates Nvidia's open-source Nemotron models to help government customers build customized AI systems while addressing security and data sovereignty concerns. The company said organizations are placing greater emphasis on controlling their AI infrastructure and intellectual property.\nSeparately, Palantir reiterated on social media that AI sovereignty is becoming an important consideration for enterprises as AI adoption accelerates. The company contends that value-based software deployment, rather than token consumption, better aligns with long-term customer interests.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) said its artificial intelligence strategy prioritizes customer control over token-based pricing models, with CEO Alex Karp criticizing the approach adopted by some frontier AI developers.",
+      "Karp argued that pricing AI primarily by token consumption may encourage higher usage without delivering proportional business value. He said many enterprise customers increasingly want greater ownership of their computing infrastructure, data, and AI models rather than relying heavily on external providers.",
+      "Palantir also pointed to its recently expanded collaboration with Nvidia (NASDAQ:NVDA), which integrates Nvidia's open-source Nemotron models to help government customers build customized AI systems while addressing security and data sovereignty concerns. The company said organizations are placing greater emphasis on controlling their AI infrastructure and intellectual property.",
+      "Separately, Palantir reiterated on social media that AI sovereignty is becoming an important consideration for enterprises as AI adoption accelerates. The company contends that value-based software deployment, rather than token consumption, better aligns with long-term customer interests."
+    ],
+    "html": null
+  }
+}
