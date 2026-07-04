@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-ai-fervor-meets-us-iran-uncertainty-224803935.html",
+    "fetched_at": "2026-07-04T07:00:43.936733-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq retreat from records as hopes fade for quick US-Iran deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "US stocks declined on Wednesday, retreating from record levels as Wall Street weighed fragile US-Iran negotiations against the promise of the AI trade.\nThe Dow Jones Industrial Average (^DJI) fell over 1%, or over 600 points, while the benchmark S&P 500 (^GSPC) slid by about 0.7%. The tech-heavy Nasdaq Composite (^IXIC) declined by 0.9% after stocks hit record highs on Tuesday amid AI fervor.\nWall Street continued to eye the US talks with Iran that have no clear end in sight. Earlier this week, amid concerns that US-Iran negotiations were on ice, President Trump took to social media to reassure that they were continuing \"at a rapid pace.\" Now, however, Israel's military campaign against Hezbollah in Lebanon has become a new hurdle to reaching a lasting deal to end the war and open the Strait of Hormuz.\nThe growing strains on the ceasefire sent oil prices upward on Wednesday, especially after reports of Iranian strikes against Kuwait and Bahrain and US strikes on Iran's Qeshm Island. US WTI crude (CL=F) traded above $96 a barrel, and Brent crude (BZ=F) approached $98.\nOn Wednesday, earnings season continues to wrap up, with Broadcom (AVGO) and CrowdStrike Holdings (CRWD) set to report.\nData released by the payroll provider ADP showed that the US added 122,000 private sector jobs in May, in another bullish sign ahead of Friday's marquee nonfarm payrolls report.",
+    "text_blocks": [
+      "US stocks declined on Wednesday, retreating from record levels as Wall Street weighed fragile US-Iran negotiations against the promise of the AI trade.",
+      "The Dow Jones Industrial Average (^DJI) fell over 1%, or over 600 points, while the benchmark S&P 500 (^GSPC) slid by about 0.7%. The tech-heavy Nasdaq Composite (^IXIC) declined by 0.9% after stocks hit record highs on Tuesday amid AI fervor.",
+      "Wall Street continued to eye the US talks with Iran that have no clear end in sight. Earlier this week, amid concerns that US-Iran negotiations were on ice, President Trump took to social media to reassure that they were continuing \"at a rapid pace.\" Now, however, Israel's military campaign against Hezbollah in Lebanon has become a new hurdle to reaching a lasting deal to end the war and open the Strait of Hormuz.",
+      "The growing strains on the ceasefire sent oil prices upward on Wednesday, especially after reports of Iranian strikes against Kuwait and Bahrain and US strikes on Iran's Qeshm Island. US WTI crude (CL=F) traded above $96 a barrel, and Brent crude (BZ=F) approached $98.",
+      "On Wednesday, earnings season continues to wrap up, with Broadcom (AVGO) and CrowdStrike Holdings (CRWD) set to report.",
+      "Data released by the payroll provider ADP showed that the US added 122,000 private sector jobs in May, in another bullish sign ahead of Friday's marquee nonfarm payrolls report."
+    ],
+    "html": null
+  }
+}

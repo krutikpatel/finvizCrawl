@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apples-foldable-iphone-push-gets-191639066.html",
+    "fetched_at": "2026-07-04T07:00:05.933361-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's Foldable iPhone Push Gets Bigger",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) is reportedly preparing a bigger iPhone launch cycle, with at least 5 new models planned through the second half of 2026 and first half of 2027.\nAccording to Nikkei Asia, Apple has asked suppliers to prepare production for about 10 million foldable iPhones this year, up from an earlier estimate of 7 million to 8 million units. That suggests the company may be more confident in demand for its first foldable device than previously expected.\nThe move comes as smartphone makers race to expand in foldables, a category currently led by Samsung Electronics and Chinese rivals such as Huawei. Apple's entry could reshape the segment if it brings its usual premium pricing, ecosystem strength and supply-chain scale.\nthe report matters because foldables could give Apple a new upgrade driver at a time when iPhone growth has become harder to sustain.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) is reportedly preparing a bigger iPhone launch cycle, with at least 5 new models planned through the second half of 2026 and first half of 2027.",
+      "According to Nikkei Asia, Apple has asked suppliers to prepare production for about 10 million foldable iPhones this year, up from an earlier estimate of 7 million to 8 million units. That suggests the company may be more confident in demand for its first foldable device than previously expected.",
+      "The move comes as smartphone makers race to expand in foldables, a category currently led by Samsung Electronics and Chinese rivals such as Huawei. Apple's entry could reshape the segment if it brings its usual premium pricing, ecosystem strength and supply-chain scale.",
+      "the report matters because foldables could give Apple a new upgrade driver at a time when iPhone growth has become harder to sustain."
+    ],
+    "html": null
+  }
+}

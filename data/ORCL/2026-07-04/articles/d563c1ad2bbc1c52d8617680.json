@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-climb-william-blair-183225197.html",
+    "fetched_at": "2026-07-04T07:00:20.543796-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Shares Climb After William Blair Names It Top AI Pick",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) was added to William Blair's July Analyst Conviction List, while Meta Platforms (NASDAQ:META) was removed as part of the firm's latest portfolio refresh.\nWilliam Blair said Oracle is positioned to benefit from growing artificial intelligence infrastructure spending as hyperscale cloud customers continue committing to capacity. The firm said those investments are supporting record remaining performance obligations and improving revenue visibility. The addition reflects William Blair's increasingly positive view of Oracle's AI-driven growth prospects.\nMeta Platforms was removed from the conviction list through the firm's automatic six-month rotation process rather than because of a change in its long-term investment thesis. William Blair periodically refreshes the list by removing holdings that have reached the end of their six-month recommendation window.\nOracle shares climbed about 1.5% in Wednesday premarket trading.\nWilliam Blair's Analyst Conviction List highlights stocks the firm believes offer attractive risk-reward opportunities over the coming months. The latest update increased the firm's exposure to companies tied to AI infrastructure while reducing positions that completed their scheduled review period.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) was added to William Blair's July Analyst Conviction List, while Meta Platforms (NASDAQ:META) was removed as part of the firm's latest portfolio refresh.",
+      "William Blair said Oracle is positioned to benefit from growing artificial intelligence infrastructure spending as hyperscale cloud customers continue committing to capacity. The firm said those investments are supporting record remaining performance obligations and improving revenue visibility. The addition reflects William Blair's increasingly positive view of Oracle's AI-driven growth prospects.",
+      "Meta Platforms was removed from the conviction list through the firm's automatic six-month rotation process rather than because of a change in its long-term investment thesis. William Blair periodically refreshes the list by removing holdings that have reached the end of their six-month recommendation window.",
+      "Oracle shares climbed about 1.5% in Wednesday premarket trading.",
+      "William Blair's Analyst Conviction List highlights stocks the firm believes offer attractive risk-reward opportunities over the coming months. The latest update increased the firm's exposure to companies tied to AI infrastructure while reducing positions that completed their scheduled review period."
+    ],
+    "html": null
+  }
+}

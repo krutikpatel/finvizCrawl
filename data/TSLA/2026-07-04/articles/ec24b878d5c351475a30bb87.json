@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-news-today-66ddb6c2?mod=bar_FV",
+    "fetched_at": "2026-07-04T07:00:02.850443-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.\nTesla stock had a volatile start to 2026. Shares traded as high as $458.34 and as low as $337.24 in the first half of 2026. Shares ended the second quarter at $420.60, down about 6% year to date. (Loic VENANCE / AFP via Getty Images)\nTesla investors need to brace for some big manufacturing news in the coming days.",
+    "text_blocks": [
+      "This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.",
+      "Tesla stock had a volatile start to 2026. Shares traded as high as $458.34 and as low as $337.24 in the first half of 2026. Shares ended the second quarter at $420.60, down about 6% year to date. (Loic VENANCE / AFP via Getty Images)",
+      "Tesla investors need to brace for some big manufacturing news in the coming days."
+    ],
+    "html": null
+  }
+}

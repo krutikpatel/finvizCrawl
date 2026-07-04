@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-next-big-bet-isn-080000418.html",
+    "fetched_at": "2026-07-04T07:00:25.888011-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft’s next big bet isn’t on a model but on becoming the Swiss Army knife of enterprise AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft is making a big bet on the adoption of its enterprise AI tools.\nThe tech giant announced on Thursday that it is investing $2.5 billion in a new business unit, Microsoft Frontier, aimed at getting customers to better use its AI to transform their businesses and to address an area where many companies are struggling: delivering measurable outcomes and demonstrating a return on their AI investments.\nIn a blog post, Judson Althoff, head of the company's commercial business, called Frontier \"the largest, most capable, outcome-driven engineering organization in the industry.\" The unit will consist of 6,000 so-called forward-deployed engineers, or industry experts who will work directly with customers.\nMicrosoft's announcement comes days after Amazon said it would spend $1 billion on a similar FDE initiative and also follows OpenAI and Anthropic's own multibillion-dollar FDE investments.\nTech companies are keen to help enterprises figure out how to program AI services to fit their needs because of the amount of resources the tech firms are pouring into building out their AI products. In Microsoft's announcement, Althoff wrote that Microsoft's commitment goes beyond typical FDE programs because of the size and scope of the initiative. Microsoft said it recently partnered with the London Stock Exchange Group to aid its finance department with asking its AI complex questions and getting back answers across \"structured and unstructured financial content.\"\nMicrosoft's platform lets companies choose their preferred model for each use case—from providers like OpenAI, Anthropic, or open‑source models, while avoiding dependence on any single one, according to Althoff. A customer's proprietary intelligence stays protected, he said: Their data, IP, and competitive edge are not used to train models in ways that would commoditize what sets them apart in their industry.\nThe ambition for Frontier is to help enterprises build their own AI capabilities and to create an ecosystem where organizations can turn their knowledge, workflows, and expertise into AI systems that continuously improve, Microsoft Chief Executive Satya Nadella wrote in a LinkedIn post on Thursday.\nMicrosoft and others have much riding on AI adoption. Microsoft is pushing for greater use of its Copilot AI product, which is far from becoming ubiquitous in the business world, and the company has spent billions building out data centers that host AI models and accomplish other critical computing services.\nAmazon, Google, and other tech companies have similarly spent a record amount on AI infrastructure, betting that customer demand will keep up while AI costs will get lower. For Microsoft, the push for greater adoption has come as its investors have become worried about Anthropic, OpenAI, and other AI competitors eating away at its more traditional software services. Microsoft shares are down about 20% in the past year.",
+    "text_blocks": [
+      "Microsoft is making a big bet on the adoption of its enterprise AI tools.",
+      "The tech giant announced on Thursday that it is investing $2.5 billion in a new business unit, Microsoft Frontier, aimed at getting customers to better use its AI to transform their businesses and to address an area where many companies are struggling: delivering measurable outcomes and demonstrating a return on their AI investments.",
+      "In a blog post, Judson Althoff, head of the company's commercial business, called Frontier \"the largest, most capable, outcome-driven engineering organization in the industry.\" The unit will consist of 6,000 so-called forward-deployed engineers, or industry experts who will work directly with customers.",
+      "Microsoft's announcement comes days after Amazon said it would spend $1 billion on a similar FDE initiative and also follows OpenAI and Anthropic's own multibillion-dollar FDE investments.",
+      "Tech companies are keen to help enterprises figure out how to program AI services to fit their needs because of the amount of resources the tech firms are pouring into building out their AI products. In Microsoft's announcement, Althoff wrote that Microsoft's commitment goes beyond typical FDE programs because of the size and scope of the initiative. Microsoft said it recently partnered with the London Stock Exchange Group to aid its finance department with asking its AI complex questions and getting back answers across \"structured and unstructured financial content.\"",
+      "Microsoft's platform lets companies choose their preferred model for each use case—from providers like OpenAI, Anthropic, or open‑source models, while avoiding dependence on any single one, according to Althoff. A customer's proprietary intelligence stays protected, he said: Their data, IP, and competitive edge are not used to train models in ways that would commoditize what sets them apart in their industry.",
+      "The ambition for Frontier is to help enterprises build their own AI capabilities and to create an ecosystem where organizations can turn their knowledge, workflows, and expertise into AI systems that continuously improve, Microsoft Chief Executive Satya Nadella wrote in a LinkedIn post on Thursday.",
+      "Microsoft and others have much riding on AI adoption. Microsoft is pushing for greater use of its Copilot AI product, which is far from becoming ubiquitous in the business world, and the company has spent billions building out data centers that host AI models and accomplish other critical computing services.",
+      "Amazon, Google, and other tech companies have similarly spent a record amount on AI infrastructure, betting that customer demand will keep up while AI costs will get lower. For Microsoft, the push for greater adoption has come as its investors have become worried about Anthropic, OpenAI, and other AI competitors eating away at its more traditional software services. Microsoft shares are down about 20% in the past year."
+    ],
+    "html": null
+  }
+}

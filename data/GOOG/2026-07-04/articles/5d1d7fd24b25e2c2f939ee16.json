@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/3e65bff3-2eec-3344-91d7-2934311e4174/eu%E2%80%99s-top-court-confirms.html",
+    "fetched_at": "2026-07-04T07:00:23.082407-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "EU’s top court confirms Google’s $4.7bn Android antitrust fine",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Court of Justice of the European Union (EU) has upheld a €4.1bn ($4.69bn) fine against Google and its parent company, Alphabet, for breaching EU antitrust laws in relation to the Android mobile operating system.\nThe judgment ends a lengthy legal battle that began when the European Commission (EC) levied the original penalty in 2018, ruling that Google had abused its dominant position in the market.\nThe European Commission's 2018 decision found that Google had compelled mobile phone manufacturers to pre-install Google Search, the Chrome browser, and the Google Play store on Android devices. It also found that Google prevented these manufacturers from using non-Google versions of Android.\nThe Commission judged this to be a breach of EU competition rules designed to promote fair access to digital markets.\nA General Court decision in 2022 partially annulled the Commission's original findings related to certain revenue-sharing agreements and reduced the fine from €4.34bn to €4.125bn. However, it upheld the core finding of a single and continuous infringement by Google in leveraging pre-installation agreements and app licensing conditions to give preferential treatment to its own services.\nAlphabet was found jointly liable for a share of the penalty.\nGoogle subsequently appealed this ruling to the Luxembourg-based Court of Justice, the EU's highest judicial authority. The company argued that the General Court had erred in its legal assessment of the anti-competitive effects of its agreements with Android device manufacturers.\nThe Court of Justice dismissed Google and Alphabet's appeal, confirming the revised €4.1bn fine and the Commission's assessment of the tech giant's practices.\nThe court stated: \"The General Court was entitled to find that there was a status quo bias in favour of pre-installed apps and that Google and Alphabet had not demonstrated that user preferences or the alleged quality of their services alone accounted for the behaviours observed.\"\nThe ruling also supported the General Court's handling of the legal standard for abuse of a dominant position and its analysis of Google's anti-fragmentation agreements, which were judged to restrict competition by limiting manufacturers' ability to use alternate versions of Android.\nThe court stated: \"The General Court was entitled to conclude that those practices were liable to restrict competition and strengthen barriers to entry without applying that test.\"\nFurthermore, the Court of Justice noted that the General Court could dismiss Google's claimed objective justifications for their anti-fragmentation measures and upheld the classification of Google's practices as a \"single and continuous infringement.\"",
+    "text_blocks": [
+      "The Court of Justice of the European Union (EU) has upheld a €4.1bn ($4.69bn) fine against Google and its parent company, Alphabet, for breaching EU antitrust laws in relation to the Android mobile operating system.",
+      "The judgment ends a lengthy legal battle that began when the European Commission (EC) levied the original penalty in 2018, ruling that Google had abused its dominant position in the market.",
+      "The European Commission's 2018 decision found that Google had compelled mobile phone manufacturers to pre-install Google Search, the Chrome browser, and the Google Play store on Android devices. It also found that Google prevented these manufacturers from using non-Google versions of Android.",
+      "The Commission judged this to be a breach of EU competition rules designed to promote fair access to digital markets.",
+      "A General Court decision in 2022 partially annulled the Commission's original findings related to certain revenue-sharing agreements and reduced the fine from €4.34bn to €4.125bn. However, it upheld the core finding of a single and continuous infringement by Google in leveraging pre-installation agreements and app licensing conditions to give preferential treatment to its own services.",
+      "Alphabet was found jointly liable for a share of the penalty.",
+      "Google subsequently appealed this ruling to the Luxembourg-based Court of Justice, the EU's highest judicial authority. The company argued that the General Court had erred in its legal assessment of the anti-competitive effects of its agreements with Android device manufacturers.",
+      "The Court of Justice dismissed Google and Alphabet's appeal, confirming the revised €4.1bn fine and the Commission's assessment of the tech giant's practices.",
+      "The court stated: \"The General Court was entitled to find that there was a status quo bias in favour of pre-installed apps and that Google and Alphabet had not demonstrated that user preferences or the alleged quality of their services alone accounted for the behaviours observed.\"",
+      "The ruling also supported the General Court's handling of the legal standard for abuse of a dominant position and its analysis of Google's anti-fragmentation agreements, which were judged to restrict competition by limiting manufacturers' ability to use alternate versions of Android.",
+      "The court stated: \"The General Court was entitled to conclude that those practices were liable to restrict competition and strengthen barriers to entry without applying that test.\"",
+      "Furthermore, the Court of Justice noted that the General Court could dismiss Google's claimed objective justifications for their anti-fragmentation measures and upheld the classification of Google's practices as a \"single and continuous infringement.\""
+    ],
+    "html": null
+  }
+}

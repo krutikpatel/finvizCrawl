@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/hsbc-delivers-bullish-ai-verdict-165850655.html",
+    "fetched_at": "2026-07-04T07:00:11.475577-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HSBC Delivers Bullish AI Verdict After Micron Earnings Surprise",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) remained in focus after HSBC said the chipmaker's latest quarterly results reinforce that artificial intelligence spending continues to support demand across the semiconductor industry, despite recent concerns about the broader AI trade.\nHSBC said Micron's earnings provided fundamental evidence that AI-related investment remains resilient, countering market narratives that recent weakness in technology shares reflected a slowdown in AI demand. The bank noted that concerns surrounding Federal Reserve policy and leveraged exchange-traded products had weighed on sentiment, even as Micron delivered record financial results and a strong outlook.\nThe firm added that market narratives can temporarily overshadow fundamentals, pointing to last year's semiconductor pullback before AI infrastructure demand regained momentum. HSBC said investor positioning currently appears neutral rather than excessively optimistic, reducing concerns about overheating in the sector.\nLooking ahead, HSBC said continued strength in the AI trade remains one of several potential market surprises for the second half of 2026, while more accommodative U.S. monetary policy expectations could provide additional support for equities.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) remained in focus after HSBC said the chipmaker's latest quarterly results reinforce that artificial intelligence spending continues to support demand across the semiconductor industry, despite recent concerns about the broader AI trade.",
+      "HSBC said Micron's earnings provided fundamental evidence that AI-related investment remains resilient, countering market narratives that recent weakness in technology shares reflected a slowdown in AI demand. The bank noted that concerns surrounding Federal Reserve policy and leveraged exchange-traded products had weighed on sentiment, even as Micron delivered record financial results and a strong outlook.",
+      "The firm added that market narratives can temporarily overshadow fundamentals, pointing to last year's semiconductor pullback before AI infrastructure demand regained momentum. HSBC said investor positioning currently appears neutral rather than excessively optimistic, reducing concerns about overheating in the sector.",
+      "Looking ahead, HSBC said continued strength in the AI trade remains one of several potential market surprises for the second half of 2026, while more accommodative U.S. monetary policy expectations could provide additional support for equities."
+    ],
+    "html": null
+  }
+}

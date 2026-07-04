@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/arm-holdings-ceo-says-us-094857037.html",
+    "fetched_at": "2026-07-04T07:00:46.929068-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Holdings CEO says US would have difficulty banning AI CPU chip exports to China",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Max A. Cherney\nTAIPEI, June 2 (Reuters) - Arm Holdings CEO Rene Haas said on Tuesday that it would be challenging to block the export to China of central processing units (CPUs) that are useful for artificial intelligence because of their widespread use and the difficulty in singling out those intended for the purpose.\nThe U.S. has stepped up efforts to starve Chinese firms of advanced semiconductors and the supercomputing equipment needed to develop critical AI capabilities, citing national security concerns. It has also taken steps to halt Nvidia AI chip shipments to Chinese companies outside of China, Reuters reported.\nBanning artificial intelligence CPUs would be nearly impossible because of the challenge of establishing specific performance thresholds and memory bandwidth limits as is possible with the graphics processing units made by Nvidia, Haas told Reuters in an interview on the sidelines of the annual Computex trade show in Taipei.\n\"They would have to limit everything,\" he said, adding that the U.S. could attempt to do so but it was a harder area to control than AI chips.\nWhile GPUs made by the likes of Nvidia have dominated the AI boom, CPU demand has been increasing sharply in recent months thanks to the industry's rapid shift toward \"inference\", where AI models are deployed to perform agentic tasks.\nBritain-based Arm on Tuesday announced two new customers - Chinese tech company ByteDance and U.S. data centre firm Oracle - for its AGI CPU, unveiled in March, with Haas saying demand was stronger than it was eight weeks ago.\nArm last month doubled its guidance for demand for the new CPU to $2 billion across its 2027 and 2028 fiscal years, while it sees it generating $15 billion in annual revenue in about five years.\nIntel and Advanced Micro Devices have also seen a surge in demand because of AI applications that involve agents, or autonomous pieces of software that can interact with the internet and other software without user input.\nThe increased demand is causing bottlenecks in the production of advanced chips, and asked how Arm planned to secure enough wafer supply from contract chip manufacturer TSMC, Haas said he met with the Taiwanese firm's CEO on Monday.\nArm is also working with Socionext, a Japanese company that helps other companies design custom chips.\nSocionext is \"able to get wafers, they're able to get packaging\", he said.\nArm is also working with its customers such as Oracle and Microsoft to ensure it has enough of a standard form of memory chips needed to make its AGI CPU.\n(Reporting by Max A. Cherney in Taipei; Editing by Bernadette Baum and Kate Mayberry, Kirsten Donovan)",
+    "text_blocks": [
+      "By Max A. Cherney",
+      "TAIPEI, June 2 (Reuters) - Arm Holdings CEO Rene Haas said on Tuesday that it would be challenging to block the export to China of central processing units (CPUs) that are useful for artificial intelligence because of their widespread use and the difficulty in singling out those intended for the purpose.",
+      "The U.S. has stepped up efforts to starve Chinese firms of advanced semiconductors and the supercomputing equipment needed to develop critical AI capabilities, citing national security concerns. It has also taken steps to halt Nvidia AI chip shipments to Chinese companies outside of China, Reuters reported.",
+      "Banning artificial intelligence CPUs would be nearly impossible because of the challenge of establishing specific performance thresholds and memory bandwidth limits as is possible with the graphics processing units made by Nvidia, Haas told Reuters in an interview on the sidelines of the annual Computex trade show in Taipei.",
+      "\"They would have to limit everything,\" he said, adding that the U.S. could attempt to do so but it was a harder area to control than AI chips.",
+      "While GPUs made by the likes of Nvidia have dominated the AI boom, CPU demand has been increasing sharply in recent months thanks to the industry's rapid shift toward \"inference\", where AI models are deployed to perform agentic tasks.",
+      "Britain-based Arm on Tuesday announced two new customers - Chinese tech company ByteDance and U.S. data centre firm Oracle - for its AGI CPU, unveiled in March, with Haas saying demand was stronger than it was eight weeks ago.",
+      "Arm last month doubled its guidance for demand for the new CPU to $2 billion across its 2027 and 2028 fiscal years, while it sees it generating $15 billion in annual revenue in about five years.",
+      "Intel and Advanced Micro Devices have also seen a surge in demand because of AI applications that involve agents, or autonomous pieces of software that can interact with the internet and other software without user input.",
+      "The increased demand is causing bottlenecks in the production of advanced chips, and asked how Arm planned to secure enough wafer supply from contract chip manufacturer TSMC, Haas said he met with the Taiwanese firm's CEO on Monday.",
+      "Arm is also working with Socionext, a Japanese company that helps other companies design custom chips.",
+      "Socionext is \"able to get wafers, they're able to get packaging\", he said.",
+      "Arm is also working with its customers such as Oracle and Microsoft to ensure it has enough of a standard form of memory chips needed to make its AGI CPU.",
+      "(Reporting by Max A. Cherney in Taipei; Editing by Bernadette Baum and Kate Mayberry, Kirsten Donovan)"
+    ],
+    "html": null
+  }
+}

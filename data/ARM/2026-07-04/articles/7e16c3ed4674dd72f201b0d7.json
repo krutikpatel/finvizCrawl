@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/77d8f717-825d-3771-9716-938141b40632/arm-ceo-warns-ai-processor.html",
+    "fetched_at": "2026-07-04T07:00:46.680193-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm CEO Warns AI Processor Export Restrictions to China Would Be Difficult to Enforce (ARM)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Arm Holdings (NASDAQ:ARM) Chief Executive Rene Haas said on Tuesday that restricting exports of processors used in artificial intelligence applications to China would be challenging because of the broad range of uses for modern computing chips.\nHis comments highlight the complexities policymakers face as governments seek to limit access to advanced technologies while maintaining the flow of products that serve a wide variety of commercial and industrial functions.\nCPUs Serve a Vast Range of Applications\nSpeaking to Reuters, Haas emphasized that central processing units are fundamental components used across countless technology products and industries.\n\"CPUs are kind of like oil relative to the application space,\" Haas told Reuters. \"That's a pretty hardcore cut.\"\nThe comparison underscores the central role processors play throughout the global technology ecosystem, where they are used in everything from personal computers and smartphones to cloud infrastructure and industrial systems.\nDistinguishing AI Chips from General-Purpose Processors Remains Difficult\nHaas explained that one of the main obstacles to imposing targeted export controls lies in determining which processors should be classified as AI-related products.\nMany modern CPUs are capable of supporting artificial intelligence workloads while also performing a broad range of conventional computing tasks.\nAs a result, separating chips intended specifically for AI applications from those designed for general-purpose computing is far from straightforward.\nBroad Industry Usage Complicates Export Controls\nAccording to Haas, the widespread adoption of processors across multiple sectors makes narrowly focused restrictions difficult to implement in practice.\nAny attempt to block exports of chips that could potentially be used for AI applications risks affecting a much broader set of technologies and customers.\nBecause processors are embedded throughout the digital economy, restrictions targeting AI-related hardware could have implications extending well beyond the artificial intelligence sector itself.\nOngoing Debate Over Technology Trade Restrictions\nThe comments come as governments around the world continue to evaluate measures designed to limit access to advanced semiconductor technologies.\nExport controls have increasingly become a focal point of technology policy, particularly as artificial intelligence grows in strategic importance.\nHowever, Haas suggested that the practical realities of the semiconductor industry may make it difficult to draw clear boundaries around which products should be restricted.\nHis remarks underscore the challenge of balancing national security objectives with the highly interconnected nature of the global chip market, where many technologies serve multiple purposes and industries simultaneously.\nArm Holdings stock price",
+    "text_blocks": [
+      "Arm Holdings (NASDAQ:ARM) Chief Executive Rene Haas said on Tuesday that restricting exports of processors used in artificial intelligence applications to China would be challenging because of the broad range of uses for modern computing chips.",
+      "His comments highlight the complexities policymakers face as governments seek to limit access to advanced technologies while maintaining the flow of products that serve a wide variety of commercial and industrial functions.",
+      "CPUs Serve a Vast Range of Applications",
+      "Speaking to Reuters, Haas emphasized that central processing units are fundamental components used across countless technology products and industries.",
+      "\"CPUs are kind of like oil relative to the application space,\" Haas told Reuters. \"That's a pretty hardcore cut.\"",
+      "The comparison underscores the central role processors play throughout the global technology ecosystem, where they are used in everything from personal computers and smartphones to cloud infrastructure and industrial systems.",
+      "Distinguishing AI Chips from General-Purpose Processors Remains Difficult",
+      "Haas explained that one of the main obstacles to imposing targeted export controls lies in determining which processors should be classified as AI-related products.",
+      "Many modern CPUs are capable of supporting artificial intelligence workloads while also performing a broad range of conventional computing tasks.",
+      "As a result, separating chips intended specifically for AI applications from those designed for general-purpose computing is far from straightforward.",
+      "Broad Industry Usage Complicates Export Controls",
+      "According to Haas, the widespread adoption of processors across multiple sectors makes narrowly focused restrictions difficult to implement in practice.",
+      "Any attempt to block exports of chips that could potentially be used for AI applications risks affecting a much broader set of technologies and customers.",
+      "Because processors are embedded throughout the digital economy, restrictions targeting AI-related hardware could have implications extending well beyond the artificial intelligence sector itself.",
+      "Ongoing Debate Over Technology Trade Restrictions",
+      "The comments come as governments around the world continue to evaluate measures designed to limit access to advanced semiconductor technologies.",
+      "Export controls have increasingly become a focal point of technology policy, particularly as artificial intelligence grows in strategic importance.",
+      "However, Haas suggested that the practical realities of the semiconductor industry may make it difficult to draw clear boundaries around which products should be restricted.",
+      "His remarks underscore the challenge of balancing national security objectives with the highly interconnected nature of the global chip market, where many technologies serve multiple purposes and industries simultaneously.",
+      "Arm Holdings stock price"
+    ],
+    "html": null
+  }
+}

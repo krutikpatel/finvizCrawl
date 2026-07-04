@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-upgrades-palantir-191801627.html",
+    "fetched_at": "2026-07-04T07:00:31.311707-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "DA Davidson Upgrades Palantir",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) rose 2.66% in premarket after DA Davidson upgraded the data analytics company to Buy from Neutral and raised its price target to $175 from $165, arguing Palantir has grown into its valuation as profits have expanded. The company posted revenue growth of 68% over the last twelve months to $5.2 billion, with an 84% gross profit margin.\nThe upgrade thesis centers on a shift in enterprise AI behavior. DA Davidson said customers increasingly recognize that an orchestration layer is essential infrastructure rather than optional tooling. The analyst pointed to the recent episode in which the U.S. government imposed export controls on Anthropic's models, forcing Anthropic to pull them from the market entirely. For companies built on Palantir's platform, that was a minor disruption. For companies that had bet directly on Anthropic or OpenAI to solve their core problems, it was a more serious one.\nCustomers are now reluctant to tie their AI strategy to a single model provider, given that today's state-of-the-art model could be displaced by a cheaper open-source alternative. Palantir's ability to swap models underneath its platform turns that uncertainty into a competitive advantage.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) rose 2.66% in premarket after DA Davidson upgraded the data analytics company to Buy from Neutral and raised its price target to $175 from $165, arguing Palantir has grown into its valuation as profits have expanded. The company posted revenue growth of 68% over the last twelve months to $5.2 billion, with an 84% gross profit margin.",
+      "The upgrade thesis centers on a shift in enterprise AI behavior. DA Davidson said customers increasingly recognize that an orchestration layer is essential infrastructure rather than optional tooling. The analyst pointed to the recent episode in which the U.S. government imposed export controls on Anthropic's models, forcing Anthropic to pull them from the market entirely. For companies built on Palantir's platform, that was a minor disruption. For companies that had bet directly on Anthropic or OpenAI to solve their core problems, it was a more serious one.",
+      "Customers are now reluctant to tie their AI strategy to a single model provider, given that today's state-of-the-art model could be displaced by a cheaper open-source alternative. Palantir's ability to swap models underneath its platform turns that uncertainty into a competitive advantage."
+    ],
+    "html": null
+  }
+}

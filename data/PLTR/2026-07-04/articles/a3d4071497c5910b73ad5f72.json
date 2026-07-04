@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_FV",
+    "fetched_at": "2026-07-04T07:00:31.041948-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nPalantir’s stock bounces back as analyst cheers company’s unique AI advantage\nThe software company’s shares have gotten off to a strong start this month following a weak run in June\nPalantir’s stock is charting a comeback from its worst month in over five years.\nThe latest catalyst is an upgrade from D.A. Davidson analyst Gil Luria, who wrote that Palantir PLTR has a number of advantages over all other software companies in the artificial-intelligence era.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+      "The software company’s shares have gotten off to a strong start this month following a weak run in June",
+      "Palantir’s stock is charting a comeback from its worst month in over five years.",
+      "The latest catalyst is an upgrade from D.A. Davidson analyst Gil Luria, who wrote that Palantir PLTR has a number of advantages over all other software companies in the artificial-intelligence era."
+    ],
+    "html": null
+  }
+}

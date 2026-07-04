@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tesla-rolls-robotaxi-miami-145913748.html",
+    "fetched_at": "2026-07-04T07:00:23.050041-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla rolls out robotaxi service in Miami",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 3 (Reuters) - Tesla said on Friday its robotaxi was available in Miami, as the electric vehicle maker looks to expand its autonomous ride-hailing operations.\nThe expansion highlights Tesla's efforts to increase adoption of its self-driving software, a version of which it uses in the robotaxis and a key part of CEO Elon Musk's shift from EVs to AI and robotics.\n\"Robotaxi now available in Miami,\" Tesla's official robotaxi account said in a post on X.\nTesla's move comes as the robotaxi sector gains momentum, with competitors such as Alphabet's Waymo and Amazon's Zoox accelerating their expansion efforts.\nTesla launched its unsupervised robotaxi service in Austin, Texas, in June, after announcing in April plans to expand the offering to Dallas and Houston.\nMusk said in May he expects fully self-driving cars without human safety monitors to become more widespread in the U.S. later this year.\nOn Thursday, Tesla posted record-setting second-quarter deliveries that beat Wall Street estimates, led by a rebound in Europe.\n(Reporting by Koyena Das in BengaluruEditing by Rod Nickel)",
+    "text_blocks": [
+      "July 3 (Reuters) - Tesla said on Friday its robotaxi was available in Miami, as the electric vehicle maker looks to expand its autonomous ride-hailing operations.",
+      "The expansion highlights Tesla's efforts to increase adoption of its self-driving software, a version of which it uses in the robotaxis and a key part of CEO Elon Musk's shift from EVs to AI and robotics.",
+      "\"Robotaxi now available in Miami,\" Tesla's official robotaxi account said in a post on X.",
+      "Tesla's move comes as the robotaxi sector gains momentum, with competitors such as Alphabet's Waymo and Amazon's Zoox accelerating their expansion efforts.",
+      "Tesla launched its unsupervised robotaxi service in Austin, Texas, in June, after announcing in April plans to expand the offering to Dallas and Houston.",
+      "Musk said in May he expects fully self-driving cars without human safety monitors to become more widespread in the U.S. later this year.",
+      "On Thursday, Tesla posted record-setting second-quarter deliveries that beat Wall Street estimates, led by a rebound in Europe.",
+      "(Reporting by Koyena Das in BengaluruEditing by Rod Nickel)"
+    ],
+    "html": null
+  }
+}

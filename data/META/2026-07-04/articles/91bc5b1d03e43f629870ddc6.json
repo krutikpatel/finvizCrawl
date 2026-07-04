@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-drops-zuckerberg-warning-161439435.html",
+    "fetched_at": "2026-07-04T07:00:08.742316-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Stock Drops. Zuckerberg Has a Warning About AI Agents",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) shares fell about 5% on Thursday after Chief Executive Mark Zuckerberg told employees the company's artificial intelligence agent development has not advanced as quickly as management had anticipated.\nDuring an internal town hall, Zuckerberg said recent organizational changes and workforce reductions had not delivered the results the company expected. He indicated the restructuring process had been less effective than planned as Meta continues reshaping its AI strategy.\nThe comments came days after Meta outlined plans to expand its AI infrastructure business by leasing excess computing capacity, a move that investors initially viewed as a potential new revenue opportunity. The report also noted that other AI infrastructure providers, including Elon Musk's xAI, have begun renting unused computing capacity, reflecting broader efforts across the industry to improve utilization of expensive AI assets.\nMeta has been increasing investment in AI while managing costs in other parts of the business. Zuckerberg previously said the company must balance spending on computing infrastructure with workforce expenses, leading to headcount reductions. He said capital allocation decisions require trade-offs as Meta continues prioritizing long-term AI development.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) shares fell about 5% on Thursday after Chief Executive Mark Zuckerberg told employees the company's artificial intelligence agent development has not advanced as quickly as management had anticipated.",
+      "During an internal town hall, Zuckerberg said recent organizational changes and workforce reductions had not delivered the results the company expected. He indicated the restructuring process had been less effective than planned as Meta continues reshaping its AI strategy.",
+      "The comments came days after Meta outlined plans to expand its AI infrastructure business by leasing excess computing capacity, a move that investors initially viewed as a potential new revenue opportunity. The report also noted that other AI infrastructure providers, including Elon Musk's xAI, have begun renting unused computing capacity, reflecting broader efforts across the industry to improve utilization of expensive AI assets.",
+      "Meta has been increasing investment in AI while managing costs in other parts of the business. Zuckerberg previously said the company must balance spending on computing infrastructure with workforce expenses, leading to headcount reductions. He said capital allocation decisions require trade-offs as Meta continues prioritizing long-term AI development."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-payoff-timeline-looks-165818735.html",
+    "fetched_at": "2026-07-04T07:00:08.764263-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta's AI Payoff Timeline Looks Messier",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) slipped into a fresh AI reality check after CEO Mark Zuckerberg reportedly told employees that AI agent development has not accelerated in the way we expected over the past 4 months.\nAccording to Reuters, Zuckerberg made the comments during an internal town hall Thursday, adding that Meta's recent reorganization and job cuts were not as clean as he wanted. On May 20, Meta began cutting 10% of its global workforce and moved about 7,000 employees into new AI-related initiatives.\nThe remarks come as Meta is also reportedly exploring a cloud business to lease excess AI computing power, a move that helped lift the stock 10% Wednesday but raised questions about whether consumer AI demand is ramping fast enough.\nSpaceX (SPCX), after merging with xAI, has also reportedly leased underused AI capacity to Google (NASDAQ:GOOG) and Anthropic (ANTHRO).",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) slipped into a fresh AI reality check after CEO Mark Zuckerberg reportedly told employees that AI agent development has not accelerated in the way we expected over the past 4 months.",
+      "According to Reuters, Zuckerberg made the comments during an internal town hall Thursday, adding that Meta's recent reorganization and job cuts were not as clean as he wanted. On May 20, Meta began cutting 10% of its global workforce and moved about 7,000 employees into new AI-related initiatives.",
+      "The remarks come as Meta is also reportedly exploring a cloud business to lease excess AI computing power, a move that helped lift the stock 10% Wednesday but raised questions about whether consumer AI demand is ramping fast enough.",
+      "SpaceX (SPCX), after merging with xAI, has also reportedly leased underused AI capacity to Google (NASDAQ:GOOG) and Anthropic (ANTHRO)."
+    ],
+    "html": null
+  }
+}

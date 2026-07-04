@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/62ec819b-70c6-37ba-be87-cf6274c37177/googl-stock-dips-premarket.html",
+    "fetched_at": "2026-07-04T07:00:49.608339-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek\n-\nGOOGL stock was falling in premarket trading on Monday.\n-\nThe reported move not only cements MediaTek's position as one of Google's preferred partners for the TPU v9 but also underscores the Taiwanese company's increasing business ties with U.S. Big Tech firms.\n-\nBroadcom and Marvell remain dominant in the custom AI silicon market.\nAlphabet, Inc. is reportedly developing an upgraded version of its TPU v9 AI chip, codenamed Triggerfish, and has once again selected Taiwan's MediaTek as its exclusive development partner, according to noted supply chain analyst Ming-Chi Kuo.\nThe new chip is expected to build on Google's existing TPU v9 platform, known internally as Humufish, but with significantly stronger inference capabilities to support next-gen AI workloads such as AI agents and reinforcement learning (RL), Kuo said in an X post.\nGOOGL stock was down 1% in early premarket trading on Monday, following a breakout week that saw gains of 2.3%, snapping a five-week slide.\nThe reported move not only cements MediaTek's position as one of Google's preferred partners for the TPU v9, it underscores the Taiwanese company's increasing business ties with U.S. Big Tech firms.\nOver the past year, MediaTek has moved beyond its traditional smartphone roots and emerged as a strategic silicon partner for several major U.S. technology companies building custom AI hardware.\nThe company deepened its partnership with Nvidia recently, for the latter's GB10 Grace Blackwell Superchip and Nvidia's broader AI computing initiatives. Meanwhile, MediaTek and Microsoft have expanded cooperation around edge AI, with the companies showcasing cloud-to-device AI workflows using Microsoft's Phi models on MediaTek silicon.\nWhile Broadcom and Marvell remain dominant in custom AI silicon market, MediaTek's growing role with Google, Nvidia and Microsoft indicates it is becoming a credible challenger in the custom AI chips market.\nGoogle's 'Triggerfish' Chip\nAccording to Kuo, Triggerfish will feature a substantial memory upgrade, including SRAM capacity that is two to three times larger than Humufish and support for next-generation HBM4E memory, compared with HBM4 in the current design.\nThe analyst said the larger SRAM capacity would allow more active workloads to remain on-chip, reducing data movement and improving efficiency during inference.\nSuch improvements could help Google address growing bottlenecks in AI computing, often referred to as the \"CPU wall\" and \"memory wall.\"",
+    "text_blocks": [
+      "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+      "-",
+      "GOOGL stock was falling in premarket trading on Monday.",
+      "-",
+      "The reported move not only cements MediaTek's position as one of Google's preferred partners for the TPU v9 but also underscores the Taiwanese company's increasing business ties with U.S. Big Tech firms.",
+      "-",
+      "Broadcom and Marvell remain dominant in the custom AI silicon market.",
+      "Alphabet, Inc. is reportedly developing an upgraded version of its TPU v9 AI chip, codenamed Triggerfish, and has once again selected Taiwan's MediaTek as its exclusive development partner, according to noted supply chain analyst Ming-Chi Kuo.",
+      "The new chip is expected to build on Google's existing TPU v9 platform, known internally as Humufish, but with significantly stronger inference capabilities to support next-gen AI workloads such as AI agents and reinforcement learning (RL), Kuo said in an X post.",
+      "GOOGL stock was down 1% in early premarket trading on Monday, following a breakout week that saw gains of 2.3%, snapping a five-week slide.",
+      "The reported move not only cements MediaTek's position as one of Google's preferred partners for the TPU v9, it underscores the Taiwanese company's increasing business ties with U.S. Big Tech firms.",
+      "Over the past year, MediaTek has moved beyond its traditional smartphone roots and emerged as a strategic silicon partner for several major U.S. technology companies building custom AI hardware.",
+      "The company deepened its partnership with Nvidia recently, for the latter's GB10 Grace Blackwell Superchip and Nvidia's broader AI computing initiatives. Meanwhile, MediaTek and Microsoft have expanded cooperation around edge AI, with the companies showcasing cloud-to-device AI workflows using Microsoft's Phi models on MediaTek silicon.",
+      "While Broadcom and Marvell remain dominant in custom AI silicon market, MediaTek's growing role with Google, Nvidia and Microsoft indicates it is becoming a credible challenger in the custom AI chips market.",
+      "Google's 'Triggerfish' Chip",
+      "According to Kuo, Triggerfish will feature a substantial memory upgrade, including SRAM capacity that is two to three times larger than Humufish and support for next-generation HBM4E memory, compared with HBM4 in the current design.",
+      "The analyst said the larger SRAM capacity would allow more active workloads to remain on-chip, reducing data movement and improving efficiency during inference.",
+      "Such improvements could help Google address growing bottlenecks in AI computing, often referred to as the \"CPU wall\" and \"memory wall.\""
+    ],
+    "html": null
+  }
+}

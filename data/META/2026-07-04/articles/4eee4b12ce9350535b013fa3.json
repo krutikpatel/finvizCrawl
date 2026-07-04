@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-eyes-6-5-billion-155124125.html",
+    "fetched_at": "2026-07-04T07:00:08.668610-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Eyes $6.5 Billion Samsung AI Chip Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms Inc. (META, Financials) may be preparing a major change in its AI chip strategy. The company is reportedly in talks with Samsung Electronics over a deal worth more than $6.5 billion to develop and manufacture its next-generation MTIA AI chips. South Korean financial publication Sedaily said the chips could use Samsung's 2-nanometer process.\nThat would be a notable change for Meta. TSMC produced the first two generations of the company's in-house AI accelerators, but Meta's growing computing needs appear to be pushing it toward a wider group of chip partners.\nMeta is targeting 5 gigawatts of data center capacity by 2030 and is moving quickly on its own silicon. The company reportedly wants to introduce a new AI chip every six months, with third- and fifth-generation products targeted for next year.\nFor Meta, custom chips offer another way to manage the rising cost of AI infrastructure and reduce reliance on outside processors. For Samsung, landing a large Meta order could give its foundry business an important boost as it tries to win more AI customers.\nThe talks are still reported and no final agreement has been announced. Investors will now be watching for confirmation from Meta or Samsung and further details on the MTIA chip roadmap.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms Inc. (META, Financials) may be preparing a major change in its AI chip strategy. The company is reportedly in talks with Samsung Electronics over a deal worth more than $6.5 billion to develop and manufacture its next-generation MTIA AI chips. South Korean financial publication Sedaily said the chips could use Samsung's 2-nanometer process.",
+      "That would be a notable change for Meta. TSMC produced the first two generations of the company's in-house AI accelerators, but Meta's growing computing needs appear to be pushing it toward a wider group of chip partners.",
+      "Meta is targeting 5 gigawatts of data center capacity by 2030 and is moving quickly on its own silicon. The company reportedly wants to introduce a new AI chip every six months, with third- and fifth-generation products targeted for next year.",
+      "For Meta, custom chips offer another way to manage the rising cost of AI infrastructure and reduce reliance on outside processors. For Samsung, landing a large Meta order could give its foundry business an important boost as it tries to win more AI customers.",
+      "The talks are still reported and no final agreement has been announced. Investors will now be watching for confirmation from Meta or Samsung and further details on the MTIA chip roadmap."
+    ],
+    "html": null
+  }
+}

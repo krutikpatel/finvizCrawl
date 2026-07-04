@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-exuberance-warning-hits-investors-160002940.html",
+    "fetched_at": "2026-07-04T07:00:25.557792-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Exuberance Warning Hits Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAllianz Chief Economist Ludovic Subran has warned that artificial intelligence could have a less even economic impact than market enthusiasm currently suggests. Speaking to Bloomberg Television, Subran said markets may already be pricing in optimistic productivity gains even though the adoption path and real-economy impact remain uncertain.\nSubran described AI as a renaissance-like moment that could reshape the service economy, but said some investment behavior now looks unusual. He pointed to a debt-expansion loop linked to skyrocketing US capital investment, while noting that companies such as Apple (NASDAQ:AAPL) and Microsoft (NASDAQ:MSFT) appear to be doing less in AI as others may be doing too much.\nData centers could be the key area of concern for investors. Subran warned about possible obsolescence risk and questioned debt-funded shareholder payouts, saying bond markets still appear cautious while equity investors may be assuming that the sky is the limit for AI an outcome he said is not the case.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Allianz Chief Economist Ludovic Subran has warned that artificial intelligence could have a less even economic impact than market enthusiasm currently suggests. Speaking to Bloomberg Television, Subran said markets may already be pricing in optimistic productivity gains even though the adoption path and real-economy impact remain uncertain.",
+      "Subran described AI as a renaissance-like moment that could reshape the service economy, but said some investment behavior now looks unusual. He pointed to a debt-expansion loop linked to skyrocketing US capital investment, while noting that companies such as Apple (NASDAQ:AAPL) and Microsoft (NASDAQ:MSFT) appear to be doing less in AI as others may be doing too much.",
+      "Data centers could be the key area of concern for investors. Subran warned about possible obsolescence risk and questioned debt-funded shareholder payouts, saying bond markets still appear cautious while equity investors may be assuming that the sky is the limit for AI an outcome he said is not the case."
+    ],
+    "html": null
+  }
+}

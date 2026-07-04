@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/tech/why-nvidia-inside-can-work-in-the-pc-market-c5ab3111?mod=wsj_FV",
+    "fetched_at": "2026-07-04T07:00:46.443826-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why ‘Nvidia Inside’ Can Work in the PC Market - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "The “Intel Inside” marketing campaign made Intel a household name and a ubiquitous personal-computer chip supplier in the 1990s.\nThese days, “Nvidia Inside” has a lot more selling power.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "The “Intel Inside” marketing campaign made Intel a household name and a ubiquitous personal-computer chip supplier in the 1990s.",
+      "These days, “Nvidia Inside” has a lot more selling power.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

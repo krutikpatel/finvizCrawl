@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tesla-caps-staff-ai-spending-162150424.html",
+    "fetched_at": "2026-07-04T07:00:03.046185-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Caps Staff AI Spending",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (TSLA, Financials) is putting a tighter lid on internal AI spending after employee use of AI tools grew quickly.\nThe company told workers it will set a $200 weekly cap on AI tool spending starting July 6, according to The Information. Employees who need to spend more will require approval. The limit does not apply to beta versions of xAI products.\nTesla has been watching usage closely. Internal dashboards reportedly ranked employees by token consumption, as some software engineers were using thousands of dollars in AI tokens each week.\nThe cap shows the balance Tesla is trying to strike. The company wants employees to use AI more often, but it also wants to avoid unchecked costs.\nTesla last year introduced Bottle Rocket, an internal platform that gives employees access to models from OpenAI, Anthropic, xAI and Cursor. Before that, some workers used personal accounts for AI tools.\nThe move also comes during a busy stretch for Tesla. The company reported 480,126 second-quarter deliveries, launched a six-seat Model Y L and saw U.S. regulators close a long-running braking probe.\nInvestors will now watch whether Tesla can keep AI spending disciplined while advancing work on FSD, robotaxis and Optimus.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (TSLA, Financials) is putting a tighter lid on internal AI spending after employee use of AI tools grew quickly.",
+      "The company told workers it will set a $200 weekly cap on AI tool spending starting July 6, according to The Information. Employees who need to spend more will require approval. The limit does not apply to beta versions of xAI products.",
+      "Tesla has been watching usage closely. Internal dashboards reportedly ranked employees by token consumption, as some software engineers were using thousands of dollars in AI tokens each week.",
+      "The cap shows the balance Tesla is trying to strike. The company wants employees to use AI more often, but it also wants to avoid unchecked costs.",
+      "Tesla last year introduced Bottle Rocket, an internal platform that gives employees access to models from OpenAI, Anthropic, xAI and Cursor. Before that, some workers used personal accounts for AI tools.",
+      "The move also comes during a busy stretch for Tesla. The company reported 480,126 second-quarter deliveries, launched a six-seat Model Y L and saw U.S. regulators close a long-running braking probe.",
+      "Investors will now watch whether Tesla can keep AI spending disciplined while advancing work on FSD, robotaxis and Optimus."
+    ],
+    "html": null
+  }
+}

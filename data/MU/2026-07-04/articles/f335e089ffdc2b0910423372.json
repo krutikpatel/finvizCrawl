@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-really-hit-2-212120295.html",
+    "fetched_at": "2026-07-04T07:00:11.492162-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Can Micron Stock Really Hit $2,000? Here's What Wall Street Thinks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nThree factors could support further gains in Micron Technology (NASDAQ:MU), according to analysts, including sustained AI-driven memory demand, long-term customer agreements and a valuation that some on Wall Street still views as attractive despite the stock's recent rally.\nMicron continues to benefit from favorable supply-demand dynamics across the memory market, with demand for high-bandwidth memory (HBM), DRAM and NAND products expected to outpace supply through 2027. The company recently reported record fiscal third-quarter DRAM and NAND revenue, supported by higher pricing and strong AI infrastructure demand.\nAnother key catalyst is Micron's long-term strategic customer agreements. The company has signed 16 contracts covering production through 2030, including 14 agreements representing about $100 billion in minimum committed revenue. Management said the arrangements provide greater demand visibility while supporting pricing and margins.\nAnalysts also point to Micron's valuation as a potential driver of further upside. Despite its recent gains, the company is expected to deliver strong earnings growth over the next two fiscal years, backed by continued AI investment, disciplined memory supply and long-term customer commitments. Wall Street maintains a \"Strong Buy\" consensus rating, with the highest published price target at $2,000.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Three factors could support further gains in Micron Technology (NASDAQ:MU), according to analysts, including sustained AI-driven memory demand, long-term customer agreements and a valuation that some on Wall Street still views as attractive despite the stock's recent rally.",
+      "Micron continues to benefit from favorable supply-demand dynamics across the memory market, with demand for high-bandwidth memory (HBM), DRAM and NAND products expected to outpace supply through 2027. The company recently reported record fiscal third-quarter DRAM and NAND revenue, supported by higher pricing and strong AI infrastructure demand.",
+      "Another key catalyst is Micron's long-term strategic customer agreements. The company has signed 16 contracts covering production through 2030, including 14 agreements representing about $100 billion in minimum committed revenue. Management said the arrangements provide greater demand visibility while supporting pricing and margins.",
+      "Analysts also point to Micron's valuation as a potential driver of further upside. Despite its recent gains, the company is expected to deliver strong earnings growth over the next two fiscal years, backed by continued AI investment, disciplined memory supply and long-term customer commitments. Wall Street maintains a \"Strong Buy\" consensus rating, with the highest published price target at $2,000."
+    ],
+    "html": null
+  }
+}

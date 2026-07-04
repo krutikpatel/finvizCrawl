@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/retailer-deliver-order-fastest-001103156.html",
+    "fetched_at": "2026-07-04T07:00:37.344313-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Which Retailer Can Deliver My Order the Fastest?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Delivery speed is emerging as a key competitive advantage for retailers as AI-powered shopping assistants become more common, with Morgan Stanley's latest analysis finding Walmart offers the strongest overall fulfillment model. At the same time, Amazon Now leads on raw delivery speed.\nThe report argues that purchase decisions are becoming increasingly convenience-driven, a trend expected to accelerate as AI agents begin making more automated shopping decisions based on factors such as delivery time, price and product availability. As a result, retailers that can consistently deliver products quickly while maintaining broad assortments could gain market share.\nAmazon Now ranked as the fastest service in the analysis, averaging about 25 minutes for deliveries. The offering is optimized for immediate-need purchases, although its assortment is narrower and availability remains limited to selected urban markets.\nWalmart emerged as the most complete delivery platform, averaging roughly 48 minutes while combining rapid fulfillment with a broad assortment across groceries and general merchandise. Its nationwide store network allows it to use more than 3,500 locations as local fulfillment hubs, supporting fast delivery across much of the U.S.\nAmong grocery chains, Kroger and Albertsons were also among the strongest performers, averaging about 40 to 50 minutes in their core markets. Dollar General's partnership with DoorDash produced a consistent 60-minute delivery offering, although the report noted that product availability can vary by market.\nTarget averaged around 126 minutes, making it slower than the leading grocery and mass retailers but still fast enough to remain competitive for many same-day shopping occasions. Amazon Prime's same-day service averaged roughly three hours, reflecting a broader product selection rather than a focus on immediate fulfillment.\nSpecialty retailers generally trailed the larger mass merchants, with delivery times ranging from several hours to multiple days depending on the category. The report said the next phase of retail competition is likely to center on balancing delivery speed, product assortment and pricing as AI-assisted shopping becomes more widely adopted.\nRelated articles\nWhich Retailer Can Deliver My Order the Fastest?\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- Delivery speed is emerging as a key competitive advantage for retailers as AI-powered shopping assistants become more common, with Morgan Stanley's latest analysis finding Walmart offers the strongest overall fulfillment model. At the same time, Amazon Now leads on raw delivery speed.",
+      "The report argues that purchase decisions are becoming increasingly convenience-driven, a trend expected to accelerate as AI agents begin making more automated shopping decisions based on factors such as delivery time, price and product availability. As a result, retailers that can consistently deliver products quickly while maintaining broad assortments could gain market share.",
+      "Amazon Now ranked as the fastest service in the analysis, averaging about 25 minutes for deliveries. The offering is optimized for immediate-need purchases, although its assortment is narrower and availability remains limited to selected urban markets.",
+      "Walmart emerged as the most complete delivery platform, averaging roughly 48 minutes while combining rapid fulfillment with a broad assortment across groceries and general merchandise. Its nationwide store network allows it to use more than 3,500 locations as local fulfillment hubs, supporting fast delivery across much of the U.S.",
+      "Among grocery chains, Kroger and Albertsons were also among the strongest performers, averaging about 40 to 50 minutes in their core markets. Dollar General's partnership with DoorDash produced a consistent 60-minute delivery offering, although the report noted that product availability can vary by market.",
+      "Target averaged around 126 minutes, making it slower than the leading grocery and mass retailers but still fast enough to remain competitive for many same-day shopping occasions. Amazon Prime's same-day service averaged roughly three hours, reflecting a broader product selection rather than a focus on immediate fulfillment.",
+      "Specialty retailers generally trailed the larger mass merchants, with delivery times ranging from several hours to multiple days depending on the category. The report said the next phase of retail competition is likely to center on balancing delivery speed, product assortment and pricing as AI-assisted shopping becomes more widely adopted.",
+      "Related articles",
+      "Which Retailer Can Deliver My Order the Fastest?",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

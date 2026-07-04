@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2a350e63-705c-3867-87d6-aa7c27e5d8f9/karp-unleashes-on-frontier-ai.html",
+    "fetched_at": "2026-07-04T07:00:31.290206-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Karp unleashes on frontier AI labs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "For 20 minutes on CNBC Wednesday, Palantir CEO Alex Karp unloaded on frontier AI labs, arguing they've become so obsessed with building ever-more-powerful models that they're failing their biggest enterprise customers.\nThe big picture: Karp put his finger on a trend: U.S. companies are increasingly turning to cheaper Chinese AI models just as the Trump administration is blocking access to some of the best American AI tools — a double whammy for domestic AI labs.\nWhat they're saying: Karp said CEOs are telling him privately that they're getting \"no value\" out of enterprise AI tools, which they're \"tired of.\" He added that AI labs are charging too much.\n-\nDavid Sacks, former White House AI czar, agreed with Karp. \"Legacy media types\" calling the interview a \"crash-out\" is \"your first clue that he is actually saying something extremely insightful,\" Sacks wrote on X.\nZoom in: The cost part of the problem has driven a slew of companies to start using Chinese AI models to cut their IT bills.\n-\nMicrosoft is weighing using the Chinese AI model DeepSeek. Coinbase kept its AI costs flat by using Chinese open-weight models. And U.S. startup Cursor built its latest model on top of Kimi 2.5, a model from Moonshot AI, backed by Chinese e-commerce giant Alibaba.\n-\nChinese AI model usage is skyrocketing, per OpenRouter, as enterprises look for ways to lower their AI bills.\nFriction point: The switch isn't just about saving money. Karp said the models were \"irresponsibly\" described as \"dangerous for everyone\" without clarity on how enterprise IP will be protected if that's the case.\n-\nThe critique comes amid rising regulatory scrutiny, with the White House asking both Anthropic and OpenAI to limit or delay the release of their most powerful models.\n-\nDevelopers are blaming Anthropic CEO Dario Amodei for Washington's response, saying he was too vocal about the potential risks of his company's technology.\n-\nOne developer told Axios they are using Anthropic's tools less, in part due to Amodei's warnings.\nBetween the lines: Whether it's about money or regulation, the net result is the same: U.S. AI labs are receiving pushback from some of their biggest customers.\nYes, but: Karp also called Amodei a \"historic figure\" and said he's never seen anything like Anthropic's success as one of the fastest-growing companies in American history.\n-\nThe AI race has also been defined by constant leapfrogging, so it's hard to imagine any one lab or set of labs being the underdogs for too long before rebounding.\n-\nKarp, for his part, is both competing and cooperating with the frontier AI labs he's criticizing. Palantir doesn't train frontier models, but it increasingly competes with OpenAI and Anthropic to become the platform through which enterprises and governments deploy AI.\nThe bottom line: After years of hype and seeming invincibility, U.S. AI labs are no longer viewed as untouchable.\nAI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.",
+    "text_blocks": [
+      "For 20 minutes on CNBC Wednesday, Palantir CEO Alex Karp unloaded on frontier AI labs, arguing they've become so obsessed with building ever-more-powerful models that they're failing their biggest enterprise customers.",
+      "The big picture: Karp put his finger on a trend: U.S. companies are increasingly turning to cheaper Chinese AI models just as the Trump administration is blocking access to some of the best American AI tools — a double whammy for domestic AI labs.",
+      "What they're saying: Karp said CEOs are telling him privately that they're getting \"no value\" out of enterprise AI tools, which they're \"tired of.\" He added that AI labs are charging too much.",
+      "-",
+      "David Sacks, former White House AI czar, agreed with Karp. \"Legacy media types\" calling the interview a \"crash-out\" is \"your first clue that he is actually saying something extremely insightful,\" Sacks wrote on X.",
+      "Zoom in: The cost part of the problem has driven a slew of companies to start using Chinese AI models to cut their IT bills.",
+      "-",
+      "Microsoft is weighing using the Chinese AI model DeepSeek. Coinbase kept its AI costs flat by using Chinese open-weight models. And U.S. startup Cursor built its latest model on top of Kimi 2.5, a model from Moonshot AI, backed by Chinese e-commerce giant Alibaba.",
+      "-",
+      "Chinese AI model usage is skyrocketing, per OpenRouter, as enterprises look for ways to lower their AI bills.",
+      "Friction point: The switch isn't just about saving money. Karp said the models were \"irresponsibly\" described as \"dangerous for everyone\" without clarity on how enterprise IP will be protected if that's the case.",
+      "-",
+      "The critique comes amid rising regulatory scrutiny, with the White House asking both Anthropic and OpenAI to limit or delay the release of their most powerful models.",
+      "-",
+      "Developers are blaming Anthropic CEO Dario Amodei for Washington's response, saying he was too vocal about the potential risks of his company's technology.",
+      "-",
+      "One developer told Axios they are using Anthropic's tools less, in part due to Amodei's warnings.",
+      "Between the lines: Whether it's about money or regulation, the net result is the same: U.S. AI labs are receiving pushback from some of their biggest customers.",
+      "Yes, but: Karp also called Amodei a \"historic figure\" and said he's never seen anything like Anthropic's success as one of the fastest-growing companies in American history.",
+      "-",
+      "The AI race has also been defined by constant leapfrogging, so it's hard to imagine any one lab or set of labs being the underdogs for too long before rebounding.",
+      "-",
+      "Karp, for his part, is both competing and cooperating with the frontier AI labs he's criticizing. Palantir doesn't train frontier models, but it increasingly competes with OpenAI and Anthropic to become the platform through which enterprises and governments deploy AI.",
+      "The bottom line: After years of hype and seeming invincibility, U.S. AI labs are no longer viewed as untouchable.",
+      "AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com."
+    ],
+    "html": null
+  }
+}

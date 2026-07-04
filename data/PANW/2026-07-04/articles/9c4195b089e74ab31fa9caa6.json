@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-raises-annual-forecasts-205221784.html",
+    "fetched_at": "2026-07-04T07:00:43.817392-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 2 (Reuters) - Palo Alto Networks raised its annual revenue and profit forecast on Tuesday, as enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending shares up 7.4% in extended trading.\nHere are some details on the results:\n• Santa Clara, California-based Palo Alto expects revenue of $11.415 billion to $11.425 billion for fiscal 2026, above its prior projection of $11.28 billion to $11.31 billion.\n• AI has emerged as a major growth driver for the company, with rising AI-driven cyber threats expected to accelerate enterprise cybersecurity spending and strengthen demand for platform-based vendors such as Palo Alto Networks.\n• The company provides integrated network, cloud, identity and AI security solutions.\n• Palo Alto expects adjusted profit per share of $3.77 to $3.79 for fiscal 2026, up from its prior forecast of $3.65 to $3.70.\n• Revenue for the third quarter grew 31% to $3 billion, above estimates of $2.94 billion, according to data compiled by LSEG.\n(Reporting by Harshita Mary Varghese in Bengaluru; Editing by Shreya Biswas)",
+    "text_blocks": [
+      "June 2 (Reuters) - Palo Alto Networks raised its annual revenue and profit forecast on Tuesday, as enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending shares up 7.4% in extended trading.",
+      "Here are some details on the results:",
+      "• Santa Clara, California-based Palo Alto expects revenue of $11.415 billion to $11.425 billion for fiscal 2026, above its prior projection of $11.28 billion to $11.31 billion.",
+      "• AI has emerged as a major growth driver for the company, with rising AI-driven cyber threats expected to accelerate enterprise cybersecurity spending and strengthen demand for platform-based vendors such as Palo Alto Networks.",
+      "• The company provides integrated network, cloud, identity and AI security solutions.",
+      "• Palo Alto expects adjusted profit per share of $3.77 to $3.79 for fiscal 2026, up from its prior forecast of $3.65 to $3.70.",
+      "• Revenue for the third quarter grew 31% to $3 billion, above estimates of $2.94 billion, according to data compiled by LSEG.",
+      "(Reporting by Harshita Mary Varghese in Bengaluru; Editing by Shreya Biswas)"
+    ],
+    "html": null
+  }
+}

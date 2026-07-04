@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-is-rising-as-earnings-show-ai-is-a-friend-not-a-foe-0f6b289a?mod=mw_FV",
+    "fetched_at": "2026-07-04T07:00:43.456263-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks’ earnings show AI brings new urgency to cybersecurity, but stock still dips - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Earnings Results\nPalo Alto Networks’ earnings show AI brings new urgency to cybersecurity, but stock still dips\nSoftware company posts earnings beat, raises revenue outlook\nPalo Alto Networks says customers are showing heightened interest in cybersecurity offerings because of the complexities brought on by artificial intelligence — and that seems to be giving a lift to the company’s financials.\nHowever, the company’s stock PANW fell 3% in extended trading Tuesday after Palo Alto Networks beat expectations with its latest results and offered rosy guidance.",
+    "text_blocks": [
+      "Earnings Results",
+      "Palo Alto Networks’ earnings show AI brings new urgency to cybersecurity, but stock still dips",
+      "Software company posts earnings beat, raises revenue outlook",
+      "Palo Alto Networks says customers are showing heightened interest in cybersecurity offerings because of the complexities brought on by artificial intelligence — and that seems to be giving a lift to the company’s financials.",
+      "However, the company’s stock PANW fell 3% in extended trading Tuesday after Palo Alto Networks beat expectations with its latest results and offered rosy guidance."
+    ],
+    "html": null
+  }
+}

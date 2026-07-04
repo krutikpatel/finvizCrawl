@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/ebf9f5a4-0241-327c-a7cd-5ce35ec06cd0/africa%27s-largest-centralized.html",
+    "fetched_at": "2026-07-04T07:00:31.407050-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Africa's Largest Centralized Exchange Integrates Hyperliquid Perps",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "VALR, Africa's largest crypto exchange by volume, is launching over 200 Hyperliquid-powered perpetuals markets, marking the first major regulated exchange to integrate the chain to expand its own offerings.\nWhat's the Scoop?\n-\nThe Launch: Starting July 6th, users will be able to go long or short markets directly through VALR's web app, with mobile to follow. The product builds on the exchange's existing derivatives infrastructure, which launched its first perpetuals in 2023.\n-\nAvailable Markets: At launch, coverage will include pre-IPO and listed equities (SpaceX, NVIDIA, Tesla, Apple, Samsung, Palantir), global indices like the S&P 500, energy and metals (Brent, WTI, natural gas, gold, silver, copper), major forex pairs (EUR/USD, GBP/USD, USD/JPY), and a broad crypto selection.\n-\nThe Reach: VALR serves over 1.9 million registered users and 1,900 institutional clients, licensed by South Africa's FSCA with a provisional Cayman license.",
+    "text_blocks": [
+      "VALR, Africa's largest crypto exchange by volume, is launching over 200 Hyperliquid-powered perpetuals markets, marking the first major regulated exchange to integrate the chain to expand its own offerings.",
+      "What's the Scoop?",
+      "-",
+      "The Launch: Starting July 6th, users will be able to go long or short markets directly through VALR's web app, with mobile to follow. The product builds on the exchange's existing derivatives infrastructure, which launched its first perpetuals in 2023.",
+      "-",
+      "Available Markets: At launch, coverage will include pre-IPO and listed equities (SpaceX, NVIDIA, Tesla, Apple, Samsung, Palantir), global indices like the S&P 500, energy and metals (Brent, WTI, natural gas, gold, silver, copper), major forex pairs (EUR/USD, GBP/USD, USD/JPY), and a broad crypto selection.",
+      "-",
+      "The Reach: VALR serves over 1.9 million registered users and 1,900 institutional clients, licensed by South Africa's FSCA with a provisional Cayman license."
+    ],
+    "html": null
+  }
+}

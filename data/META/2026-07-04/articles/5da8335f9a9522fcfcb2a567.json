@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-could-hand-samsung-biggest-165853956.html",
+    "fetched_at": "2026-07-04T07:00:08.765612-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Could Hand Samsung Its Biggest AI Chip Order Yet in $6.5 Billion Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) is discussing a potential agreement with Samsung Electronics' foundry business to design and manufacture next-generation MTIA artificial intelligence chips worth more than $6.5 billion.\nThe report said the chips would be produced using Samsung's 2-nanometer process technology, which would mark a shift from Taiwan Semiconductor Manufacturing, the manufacturer of Meta's earlier generations of in-house AI accelerators.\nMeta is expanding its proprietary AI chip program as it targets five gigawatts of data center capacity by 2030 and accelerates its chip development cycle. The company is reportedly aiming to introduce new AI chips every six months and is working with Samsung's System LSI division on development efforts.\nThe potential deal could strengthen Samsung's position in the AI semiconductor market by adding another large custom-chip customer. Industry estimates cited in the report suggest Samsung's foundry order backlog could approach 50 trillion won over the medium to long term.\nThe report also said other AI companies, including Anthropic, are considering Samsung's advanced manufacturing processes as they seek alternatives to third-party AI hardware providers such as Nvidia and Google's TPU platform.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) is discussing a potential agreement with Samsung Electronics' foundry business to design and manufacture next-generation MTIA artificial intelligence chips worth more than $6.5 billion.",
+      "The report said the chips would be produced using Samsung's 2-nanometer process technology, which would mark a shift from Taiwan Semiconductor Manufacturing, the manufacturer of Meta's earlier generations of in-house AI accelerators.",
+      "Meta is expanding its proprietary AI chip program as it targets five gigawatts of data center capacity by 2030 and accelerates its chip development cycle. The company is reportedly aiming to introduce new AI chips every six months and is working with Samsung's System LSI division on development efforts.",
+      "The potential deal could strengthen Samsung's position in the AI semiconductor market by adding another large custom-chip customer. Industry estimates cited in the report suggest Samsung's foundry order backlog could approach 50 trillion won over the medium to long term.",
+      "The report also said other AI companies, including Anthropic, are considering Samsung's advanced manufacturing processes as they seek alternatives to third-party AI hardware providers such as Nvidia and Google's TPU platform."
+    ],
+    "html": null
+  }
+}

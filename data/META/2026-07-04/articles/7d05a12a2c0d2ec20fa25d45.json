@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-chip-roadmap-may-155249563.html",
+    "fetched_at": "2026-07-04T07:00:08.645481-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta's AI Chip Roadmap May Shift",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) is reportedly weighing a $6.5 billion AI chip deal with Samsung Foundry, a move that could shift part of its MTIA roadmap away from Taiwan Semiconductor (NYSE:TSM).\nSedaily reported that Meta is in talks with Samsung Electronics (SSNLF) to design and produce next-generation MTIA AI chips using Samsung's 2nm process.\nThe deal would be worth more than 10 trillion won and would mark a major win for Samsung after TSMC produced Meta's first 2 generations of in-house AI accelerators.\nMeta is trying to scale its AI infrastructure quickly, targeting 5GW of data center capacity by 2030 and reportedly planning new AI chip releases every 6 months. The company is also working with Samsung's System LSI division on chip development, according to the report.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) is reportedly weighing a $6.5 billion AI chip deal with Samsung Foundry, a move that could shift part of its MTIA roadmap away from Taiwan Semiconductor (NYSE:TSM).",
+      "Sedaily reported that Meta is in talks with Samsung Electronics (SSNLF) to design and produce next-generation MTIA AI chips using Samsung's 2nm process.",
+      "The deal would be worth more than 10 trillion won and would mark a major win for Samsung after TSMC produced Meta's first 2 generations of in-house AI accelerators.",
+      "Meta is trying to scale its AI infrastructure quickly, targeting 5GW of data center capacity by 2030 and reportedly planning new AI chip releases every 6 months. The company is also working with Samsung's System LSI division on chip development, according to the report."
+    ],
+    "html": null
+  }
+}
