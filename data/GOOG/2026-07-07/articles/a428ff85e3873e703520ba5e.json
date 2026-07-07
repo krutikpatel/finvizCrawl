@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/google-backs-fusion-startup-proxima-132400712.html",
+    "fetched_at": "2026-07-07T07:00:24.461897-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Backs Fusion Startup Proxima",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (GOOGL) is backing Germany-based Proxima Fusion in a 411 million, or $468 million, funding round as Google deepens its bet on nuclear fusion as a potential source of abundant carbon-free energy.\nThe round was led by XTX Ventures and East X Ventures, with Google and German utility RWE joining as strategic investors. The financing values Proxima at 2.4 billion, or about $2.7 billion, and will support construction of Alpha, the startup's net-energy stellarator demonstrator near Munich.\nProxima is developing the project alongside the state of Bavaria, the Max Planck Institute for Plasma Physics and RWE. The company aims to use Alpha to validate critical technologies before pursuing what it hopes will become Europe's first commercial fusion power plant later in the decade.\nGoogle's participation highlights how Big Tech is looking beyond traditional renewables to secure future power sources as AI data centers drive electricity demand higher. The next test is whether Proxima can turn its stellarator design into net-energy validation and eventually commercial-scale power.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (GOOGL) is backing Germany-based Proxima Fusion in a 411 million, or $468 million, funding round as Google deepens its bet on nuclear fusion as a potential source of abundant carbon-free energy.",
+      "The round was led by XTX Ventures and East X Ventures, with Google and German utility RWE joining as strategic investors. The financing values Proxima at 2.4 billion, or about $2.7 billion, and will support construction of Alpha, the startup's net-energy stellarator demonstrator near Munich.",
+      "Proxima is developing the project alongside the state of Bavaria, the Max Planck Institute for Plasma Physics and RWE. The company aims to use Alpha to validate critical technologies before pursuing what it hopes will become Europe's first commercial fusion power plant later in the decade.",
+      "Google's participation highlights how Big Tech is looking beyond traditional renewables to secure future power sources as AI data centers drive electricity demand higher. The next test is whether Proxima can turn its stellarator design into net-energy validation and eventually commercial-scale power."
+    ],
+    "html": null
+  }
+}

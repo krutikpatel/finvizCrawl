@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/samsung-earnings-stock-price-27b6be7c?mod=bar_FV",
+    "fetched_at": "2026-07-07T07:00:12.908645-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Samsung’s Huge Earnings Beat Wasn’t Enough for the Stock<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Why Samsung’s Huge Earnings Beat Wasn’t Enough for the Stock\nSamsung Electronics stock dropped Tuesday despite forecasting a huge surge in profit. South Korean investors look to be locking in some of the huge gains made on memory-chip stocks and that’s having a global impact.",
+    "text_blocks": [
+      "Why Samsung’s Huge Earnings Beat Wasn’t Enough for the Stock",
+      "Samsung Electronics stock dropped Tuesday despite forecasting a huge surge in profit. South Korean investors look to be locking in some of the huge gains made on memory-chip stocks and that’s having a global impact."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-ai-optimism-nvidia-new-pc-superchip/card/u-s-stocks-set-to-decline-following-fresh-highs-ZYf83yVyFBMvO5hTYR5U?mod=mw_FV",
+    "fetched_at": "2026-07-07T07:00:45.984524-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "U.S. stocks set to decline following fresh highs - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "June 2, 3:44am ET\nU.S. stocks set to decline following fresh highs\nHow stock-index futures are trading:\nS&P 500 futures are down 0.1%.\nDow Jones Industrial Average futures are down 0.2%.\nNasdaq 100 futures are down 0.1%.\nU.S. stocks are set to move lower after reaching record highs at the close on Monday driven by optimism over artificial intelligence.",
+    "text_blocks": [
+      "June 2, 3:44am ET",
+      "U.S. stocks set to decline following fresh highs",
+      "How stock-index futures are trading:",
+      "S&P 500 futures are down 0.1%.",
+      "Dow Jones Industrial Average futures are down 0.2%.",
+      "Nasdaq 100 futures are down 0.1%.",
+      "U.S. stocks are set to move lower after reaching record highs at the close on Monday driven by optimism over artificial intelligence."
+    ],
+    "html": null
+  }
+}

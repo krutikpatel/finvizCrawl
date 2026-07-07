@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c25752df-5363-35af-97c9-2c2aceac1c49/rbc-raises-tesla-price-target.html",
+    "fetched_at": "2026-07-07T07:00:04.449315-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "RBC raises Tesla price target on potential SpaceX deal speculation (TSLA)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "RBC increases target to $500\nRBC Capital has raised its price target for Tesla (NASDAQ:TSLA) to $500 from $475, reflecting both a revised standalone valuation and an additional premium linked to a potential merger with SpaceX (NASDAQ:SPCX).\nAnalyst Tom Narayan said the updated target incorporates \"a 25-30% premium to current trading levels (and a 15% premium to the stock's intrinsic value) owing to a potential SpaceX acquisition scenario based on unconfirmed media reports.\"\nPotential merger could unlock operational synergies\nAccording to RBC, the most likely transaction structure would involve an all-share acquisition, with SpaceX purchasing Tesla at a premium of between 20% and 30%.\nThe broker believes the strategic rationale would centre on operational synergies, including proprietary semiconductor manufacturing, Megapack energy storage systems for data centres, and closer collaboration on artificial intelligence training and fleet management technologies.\nRBC also noted that existing Tesla shareholders would likely require a premium because Elon Musk \"would control 50%+ of a combined entity, well above the ~20% stake he currently holds in Tesla.\"\nRobotaxi opportunity offsets lower valuations elsewhere\nExcluding any potential SpaceX transaction, RBC estimates Tesla's intrinsic value at $435 per share.\nWithin that valuation, the broker increased the value assigned to Tesla's robotaxi business by 20%, supported by a larger projected global fleet and describing it as \"currently Tesla's most robust opportunity\" within an estimated total addressable market of $4.2 trillion.\nHowever, RBC reduced its valuation of Tesla's humanoid robotics business by around 40%, reflecting a revised assumption that the company will capture a 20% share of the US market rather than the previous estimate of 50%.\nThe bank also lowered its valuation for Tesla's energy storage division by 30%, citing a smaller projected global market and intensifying competitive pressures.\nTesla stock price\nSpaceX stock price",
+    "text_blocks": [
+      "RBC increases target to $500",
+      "RBC Capital has raised its price target for Tesla (NASDAQ:TSLA) to $500 from $475, reflecting both a revised standalone valuation and an additional premium linked to a potential merger with SpaceX (NASDAQ:SPCX).",
+      "Analyst Tom Narayan said the updated target incorporates \"a 25-30% premium to current trading levels (and a 15% premium to the stock's intrinsic value) owing to a potential SpaceX acquisition scenario based on unconfirmed media reports.\"",
+      "Potential merger could unlock operational synergies",
+      "According to RBC, the most likely transaction structure would involve an all-share acquisition, with SpaceX purchasing Tesla at a premium of between 20% and 30%.",
+      "The broker believes the strategic rationale would centre on operational synergies, including proprietary semiconductor manufacturing, Megapack energy storage systems for data centres, and closer collaboration on artificial intelligence training and fleet management technologies.",
+      "RBC also noted that existing Tesla shareholders would likely require a premium because Elon Musk \"would control 50%+ of a combined entity, well above the ~20% stake he currently holds in Tesla.\"",
+      "Robotaxi opportunity offsets lower valuations elsewhere",
+      "Excluding any potential SpaceX transaction, RBC estimates Tesla's intrinsic value at $435 per share.",
+      "Within that valuation, the broker increased the value assigned to Tesla's robotaxi business by 20%, supported by a larger projected global fleet and describing it as \"currently Tesla's most robust opportunity\" within an estimated total addressable market of $4.2 trillion.",
+      "However, RBC reduced its valuation of Tesla's humanoid robotics business by around 40%, reflecting a revised assumption that the company will capture a 20% share of the US market rather than the previous estimate of 50%.",
+      "The bank also lowered its valuation for Tesla's energy storage division by 30%, citing a smaller projected global market and intensifying competitive pressures.",
+      "Tesla stock price",
+      "SpaceX stock price"
+    ],
+    "html": null
+  }
+}

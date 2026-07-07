@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantirs-ai-position-wins-support-113237950.html",
+    "fetched_at": "2026-07-07T07:00:32.513476-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir's AI Position Wins New Support From Analysts",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies Inc. (PLTR, Financials) attracted fresh buying interest after DA Davidson upgraded the software company to Buy, saying its role in enterprise artificial intelligence is becoming more important as businesses move beyond experimenting with AI.\nThe brokerage raised its price target to $175 from $165, helping lift Palantir shares about 3.5% before the opening bell.\nAnalyst Gil Luria believes companies are starting to realize they need more than just access to powerful AI models. They also need software that lets them manage those models, switch between providers when necessary and keep their operations running without disruption.\nThat view has gained attention after recent challenges faced by some AI model developers. Businesses that rely on a single provider could face unexpected interruptions, while platforms like Palantir are designed to make those transitions less disruptive.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies Inc. (PLTR, Financials) attracted fresh buying interest after DA Davidson upgraded the software company to Buy, saying its role in enterprise artificial intelligence is becoming more important as businesses move beyond experimenting with AI.",
+      "The brokerage raised its price target to $175 from $165, helping lift Palantir shares about 3.5% before the opening bell.",
+      "Analyst Gil Luria believes companies are starting to realize they need more than just access to powerful AI models. They also need software that lets them manage those models, switch between providers when necessary and keep their operations running without disruption.",
+      "That view has gained attention after recent challenges faced by some AI model developers. Businesses that rely on a single provider could face unexpected interruptions, while platforms like Palantir are designed to make those transitions less disruptive."
+    ],
+    "html": null
+  }
+}

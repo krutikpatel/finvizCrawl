@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7679b583-a6bb-3a58-b100-26b8a29e151d/robinhood-embracing-defi.html",
+    "fetched_at": "2026-07-07T07:00:18.510647-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Embracing DeFi Proves Crypto Is Booming, Says 1inch CFO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The lines between crypto and TradFi are continuing to blur, with Robinhood delivering the latest case in point by announcing the launch of tokenized stock trading on its newly launched Robinhood chain.\nAs part of the accelerated push, Robinhood is turning to DeFi partners like Uniswap and 1inch to enable more efficient trading options to more users around the world. But for 1inch, the more important question is not whether users will be able to trade tokenized equities around the clock. It is whether those trades can actually execute well once traditional assets start moving onchain.\n1inch's role is to help make that market tradable from day one by routing orders, aggregating liquidity, and supporting swaps of Robinhood's Stock Tokens and exchange-traded products through its dApp, Wallet, and Swap API.\nBefore the announcement, 1inch CFO Chae Ho Shin discussed DeFi's next phase in an interview with Coinage, arguing that it's more evolved form now becomes one less defined by speculative token prices and more defined by the infrastructure needed to make onchain markets usable at scale.\n\"I think we are at the brink of, you know, really experiencing next-generation DeFi,\" Shin told Coinage, pointing to 1inch's work on shared liquidity as an attempt to solve what he called \"the problems of capital inefficiency in DeFi space.\"\nRead More from Coinage:\nThat problem becomes even more important when the assets are no longer just crypto tokens. Real-world assets bring their own fragmentation. A tokenized stock can trade across different issuers, venues, chains, wrappers, and pools. Liquidity can be split across platforms. Pricing can vary. Traders can end up paying worse rates simply because the best route is not obvious.\nThat is the exact problem aggregators were built to solve in crypto. 1inch made its name scanning decentralized exchanges for better swap routes, splitting orders across venues, and giving users improved execution without forcing them to manually hunt across liquidity pools. Now the company is applying that same model to tokenized stocks and real-world assets.\nThrough the Robinhood Chain integration, 1inch says it will support both Classic Swap and Fusion execution modes from day one. That matters because tokenized asset trading is not just about listing assets onchain. It is about whether the market around them can behave more like a functioning financial system than a collection of isolated experiments.",
+    "text_blocks": [
+      "The lines between crypto and TradFi are continuing to blur, with Robinhood delivering the latest case in point by announcing the launch of tokenized stock trading on its newly launched Robinhood chain.",
+      "As part of the accelerated push, Robinhood is turning to DeFi partners like Uniswap and 1inch to enable more efficient trading options to more users around the world. But for 1inch, the more important question is not whether users will be able to trade tokenized equities around the clock. It is whether those trades can actually execute well once traditional assets start moving onchain.",
+      "1inch's role is to help make that market tradable from day one by routing orders, aggregating liquidity, and supporting swaps of Robinhood's Stock Tokens and exchange-traded products through its dApp, Wallet, and Swap API.",
+      "Before the announcement, 1inch CFO Chae Ho Shin discussed DeFi's next phase in an interview with Coinage, arguing that it's more evolved form now becomes one less defined by speculative token prices and more defined by the infrastructure needed to make onchain markets usable at scale.",
+      "\"I think we are at the brink of, you know, really experiencing next-generation DeFi,\" Shin told Coinage, pointing to 1inch's work on shared liquidity as an attempt to solve what he called \"the problems of capital inefficiency in DeFi space.\"",
+      "Read More from Coinage:",
+      "That problem becomes even more important when the assets are no longer just crypto tokens. Real-world assets bring their own fragmentation. A tokenized stock can trade across different issuers, venues, chains, wrappers, and pools. Liquidity can be split across platforms. Pricing can vary. Traders can end up paying worse rates simply because the best route is not obvious.",
+      "That is the exact problem aggregators were built to solve in crypto. 1inch made its name scanning decentralized exchanges for better swap routes, splitting orders across venues, and giving users improved execution without forcing them to manually hunt across liquidity pools. Now the company is applying that same model to tokenized stocks and real-world assets.",
+      "Through the Robinhood Chain integration, 1inch says it will support both Classic Swap and Fusion execution modes from day one. That matters because tokenized asset trading is not just about listing assets onchain. It is about whether the market around them can behave more like a functioning financial system than a collection of isolated experiments."
+    ],
+    "html": null
+  }
+}

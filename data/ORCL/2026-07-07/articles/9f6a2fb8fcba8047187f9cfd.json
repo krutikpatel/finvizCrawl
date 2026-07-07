@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-linked-bond-sales-hit-113525774.html",
+    "fetched_at": "2026-07-07T07:00:21.180689-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI-Linked Bond Sales Hit $220 Billion as Credit Risk Concerns Grow",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nThe US investment-grade bond market appears to be getting safer on paper as major technology companies such as Amazon.com (NASDAQ:AMZN), Meta Platforms (NASDAQ:META), Alphabet (NASDAQ:GOOGL), Nvidia (NASDAQ:NVDA), Oracle (NYSE:ORCL), and SpaceX continue selling debt to fund the AI buildout. According to Barclays' analysis through the end of June, AA and A rated bonds now represent 52% of Bloomberg's US investment-grade bond index, up from about 46% in 2021. Meanwhile, BBB exposure has declined to 41% from 46% over the same period. This shift toward higher-rated borrowers has helped keep high-grade corporate bond risk premiums relatively tight, with spreads standing at just 0.74 percentage point on July 1, close to multi-decade lows.\nHowever, investors are becoming increasingly cautious that the apparent safety of the market could prove fragile if AI spending does not generate the returns companies expect. Bank of America noted that companies have sold around $220 billion of AI-linked bonds this year across currencies, up 62% from all of 2025. About $107 billion of that supply came in US dollars from just four hyperscalers: Amazon, Meta, Alphabet, and Oracle. In June, Nvidia and SpaceX each sold $25 billion of bonds, helping push monthly high-grade sales to a fresh record. The borrowing wave is expected to continue, as the six largest US hyperscalers are preparing to spend almost 80% more on AI in 2026 than expected at this time last year.\nThe key risk is that AI returns may fall short of the ambitious assumptions now supporting this debt cycle. Bain found that AI cost savings have broadly missed targets, while an MIT initiative reported that 95% of organizations are getting zero return from generative AI projects. Oracle also warned in its annual financial report that data center spending may not pay off, citing risks such as construction cost overruns, delays, and major customers failing to pay bills or renew contracts. If demand for hyperscaler debt becomes more fragile, spreads could widen, existing bondholders could face paper losses relative to Treasuries, and today's high-rated issuers could possibly accept lower credit grades later as they take on more debt to compete in the AI race.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "The US investment-grade bond market appears to be getting safer on paper as major technology companies such as Amazon.com (NASDAQ:AMZN), Meta Platforms (NASDAQ:META), Alphabet (NASDAQ:GOOGL), Nvidia (NASDAQ:NVDA), Oracle (NYSE:ORCL), and SpaceX continue selling debt to fund the AI buildout. According to Barclays' analysis through the end of June, AA and A rated bonds now represent 52% of Bloomberg's US investment-grade bond index, up from about 46% in 2021. Meanwhile, BBB exposure has declined to 41% from 46% over the same period. This shift toward higher-rated borrowers has helped keep high-grade corporate bond risk premiums relatively tight, with spreads standing at just 0.74 percentage point on July 1, close to multi-decade lows.",
+      "However, investors are becoming increasingly cautious that the apparent safety of the market could prove fragile if AI spending does not generate the returns companies expect. Bank of America noted that companies have sold around $220 billion of AI-linked bonds this year across currencies, up 62% from all of 2025. About $107 billion of that supply came in US dollars from just four hyperscalers: Amazon, Meta, Alphabet, and Oracle. In June, Nvidia and SpaceX each sold $25 billion of bonds, helping push monthly high-grade sales to a fresh record. The borrowing wave is expected to continue, as the six largest US hyperscalers are preparing to spend almost 80% more on AI in 2026 than expected at this time last year.",
+      "The key risk is that AI returns may fall short of the ambitious assumptions now supporting this debt cycle. Bain found that AI cost savings have broadly missed targets, while an MIT initiative reported that 95% of organizations are getting zero return from generative AI projects. Oracle also warned in its annual financial report that data center spending may not pay off, citing risks such as construction cost overruns, delays, and major customers failing to pay bills or renew contracts. If demand for hyperscaler debt becomes more fragile, spreads could widen, existing bondholders could face paper losses relative to Treasuries, and today's high-rated issuers could possibly accept lower credit grades later as they take on more debt to compete in the AI race."
+    ],
+    "html": null
+  }
+}

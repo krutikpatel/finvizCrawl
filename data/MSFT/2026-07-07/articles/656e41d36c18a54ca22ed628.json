@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-aims-raise-25-billion-124649623.html",
+    "fetched_at": "2026-07-07T07:00:27.188325-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon aims to raise $25 billion from bond sale, Bloomberg News reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 7 (Reuters) - Amazon.com is looking to raise at least $25 billion through a U.S. dollar bond sale, Bloomberg News reported on Tuesday, in the company's latest push to fund its hefty AI investments.\nTech companies have been tapping debt markets and launching equity sales to fund their costly AI infrastructure build-out. Big Tech, including Amazon, Alphabet, Microsoft and Meta, are expected to spend more than $700 billion on AI this year.\nThe size of Amazon's offering could increase depending on investor demand, Bloomberg said, citing people familiar with the matter. Amazon did not immediately respond to a Reuters request for comment.\nA regulatory filing by the tech giant from earlier in the day showed it has filed for an eight-part offering of floating and fixed-rate notes.\nTurning to debt and equity offerings for capital marks a shift for the Silicon Valley giants, who have typically relied on their cash reserves to fund their investments. The recent debt offerings have seen strong investor appetite.\nGoogle-parent Alphabet last month said it would raise some $85 billion in an upsized equity sale. Facebook-parent Meta earlier this year sold investment-grade bonds worth $25 billion, following a $30 billion bond sale in October, which was the company's biggest ever.\nAmazon said in its exchange filing that Barclays, Goldman Sachs, J.P. Morgan and Morgan Stanley are the joint book-running managers for the offering.\nThe company had in March targeted a $37 billion raise in a heavily oversubscribed 11-part bond sale.\n(Reporting by Deborah Sophia in Bengaluru; Editing by Shilpi Majumdar and Arun Koyyur)",
+    "text_blocks": [
+      "July 7 (Reuters) - Amazon.com is looking to raise at least $25 billion through a U.S. dollar bond sale, Bloomberg News reported on Tuesday, in the company's latest push to fund its hefty AI investments.",
+      "Tech companies have been tapping debt markets and launching equity sales to fund their costly AI infrastructure build-out. Big Tech, including Amazon, Alphabet, Microsoft and Meta, are expected to spend more than $700 billion on AI this year.",
+      "The size of Amazon's offering could increase depending on investor demand, Bloomberg said, citing people familiar with the matter. Amazon did not immediately respond to a Reuters request for comment.",
+      "A regulatory filing by the tech giant from earlier in the day showed it has filed for an eight-part offering of floating and fixed-rate notes.",
+      "Turning to debt and equity offerings for capital marks a shift for the Silicon Valley giants, who have typically relied on their cash reserves to fund their investments. The recent debt offerings have seen strong investor appetite.",
+      "Google-parent Alphabet last month said it would raise some $85 billion in an upsized equity sale. Facebook-parent Meta earlier this year sold investment-grade bonds worth $25 billion, following a $30 billion bond sale in October, which was the company's biggest ever.",
+      "Amazon said in its exchange filing that Barclays, Goldman Sachs, J.P. Morgan and Morgan Stanley are the joint book-running managers for the offering.",
+      "The company had in March targeted a $37 billion raise in a heavily oversubscribed 11-part bond sale.",
+      "(Reporting by Deborah Sophia in Bengaluru; Editing by Shilpi Majumdar and Arun Koyyur)"
+    ],
+    "html": null
+  }
+}

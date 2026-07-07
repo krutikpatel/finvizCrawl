@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/reddit-detects-25-000-daily-133820277.html",
+    "fetched_at": "2026-07-07T07:00:24.622115-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Reddit Detects 25,000 Daily Spam Posts as AI Marketing Battle Intensifies",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nReddit (NYSE:RDDT), the online discussion platform whose forums are used by AI chatbots as a source of internet information, is intensifying its fight against stealth marketing content designed to influence responses from tools such as ChatGPT and Gemini. OpenAI and Alphabet (NASDAQ:GOOG), the parent company behind Gemini, have content deals with Reddit that allow their AI tools to draw from the site's forums, where users often share direct views on products, services, and other topics. This has made Reddit a more important source for AI-generated recommendations, while also making the platform a target for marketers trying to plant posts and comments that may later appear in chatbot answers as authentic user opinion.\nReddit said Monday that stronger automated systems detected 25,000 spammy posts and comments per day during the first quarter, helping reduce user exposure by 20% from the same period a year earlier. The company said the higher number of detected spam posts reflected more effective tools rather than a major increase in spam across the platform. Reddit also said it is using large language models to identify subtle, coordinated fake behavior and artificial hype that older systems may have missed, suggesting the company is trying to protect the credibility of its forums as AI companies increasingly rely on user-generated content.\nFor investors, the development could matter because Reddit's value to AI companies appears tied to the trustworthiness and authenticity of its community discussions. The rise of generative engine optimization, or GEO, has created a new marketing battleground as brands try to gain visibility inside chatbot responses, with Cornell Tech researchers finding that user-generated content can manipulate AI research tools. The challenge may continue as firms such as ReachLLM, a startup that helps brands boost citations in AI responses, seek to place content on Reddit, while the platform removes spam, faces possible account suspensions, and relies heavily on community moderators, who handled more than 52% of post and comment removals from July 2025 to December 2025.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Reddit (NYSE:RDDT), the online discussion platform whose forums are used by AI chatbots as a source of internet information, is intensifying its fight against stealth marketing content designed to influence responses from tools such as ChatGPT and Gemini. OpenAI and Alphabet (NASDAQ:GOOG), the parent company behind Gemini, have content deals with Reddit that allow their AI tools to draw from the site's forums, where users often share direct views on products, services, and other topics. This has made Reddit a more important source for AI-generated recommendations, while also making the platform a target for marketers trying to plant posts and comments that may later appear in chatbot answers as authentic user opinion.",
+      "Reddit said Monday that stronger automated systems detected 25,000 spammy posts and comments per day during the first quarter, helping reduce user exposure by 20% from the same period a year earlier. The company said the higher number of detected spam posts reflected more effective tools rather than a major increase in spam across the platform. Reddit also said it is using large language models to identify subtle, coordinated fake behavior and artificial hype that older systems may have missed, suggesting the company is trying to protect the credibility of its forums as AI companies increasingly rely on user-generated content.",
+      "For investors, the development could matter because Reddit's value to AI companies appears tied to the trustworthiness and authenticity of its community discussions. The rise of generative engine optimization, or GEO, has created a new marketing battleground as brands try to gain visibility inside chatbot responses, with Cornell Tech researchers finding that user-generated content can manipulate AI research tools. The challenge may continue as firms such as ReachLLM, a startup that helps brands boost citations in AI responses, seek to place content on Reddit, while the platform removes spam, faces possible account suspensions, and relies heavily on community moderators, who handled more than 52% of post and comment removals from July 2025 to December 2025."
+    ],
+    "html": null
+  }
+}

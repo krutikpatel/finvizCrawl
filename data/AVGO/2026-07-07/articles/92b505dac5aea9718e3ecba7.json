@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-lags-chip-rally-rack-131204861.html",
+    "fetched_at": "2026-07-07T07:00:30.006141-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Lags Chip Rally on Rack Delay Worries",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NVDA, Financials), the semiconductor company best known for graphics processors and AI chips used in data centers, gaming and advanced computing, lagged a broader chip rally Monday as investors weighed reports of delays to its next-generation AI server systems.\nNvidia shares gained just 0.8%, while the Philadelphia Semiconductor Index rose 3.2%. AMD climbed 7.7%, and Broadcom added 4.4%.\nThe concern came from SemiAnalysis, which said Nvidia's Kyber NVL144 rack architecture could be delayed until 2028 because of manufacturing challenges involving its PCB midplane.\nNvidia pushed back on the report, saying its roadmap remains intact.\nThe report also raised questions about other future Rubin Ultra designs and whether manufacturing issues could slow Nvidia's ability to scale its next generation of AI hardware.\nStill, some analysts are not worried. Mizuho analyst Jordan Klein called the delay concerns \"more noise\" and pointed to continued strong AI demand from Nvidia suppliers.\nFor investors, the muted stock reaction shows how sensitive Nvidia has become to product roadmap headlines. The next focus will be the Vera Rubin launch and whether Nvidia can keep its next-generation systems on schedule.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NVDA, Financials), the semiconductor company best known for graphics processors and AI chips used in data centers, gaming and advanced computing, lagged a broader chip rally Monday as investors weighed reports of delays to its next-generation AI server systems.",
+      "Nvidia shares gained just 0.8%, while the Philadelphia Semiconductor Index rose 3.2%. AMD climbed 7.7%, and Broadcom added 4.4%.",
+      "The concern came from SemiAnalysis, which said Nvidia's Kyber NVL144 rack architecture could be delayed until 2028 because of manufacturing challenges involving its PCB midplane.",
+      "Nvidia pushed back on the report, saying its roadmap remains intact.",
+      "The report also raised questions about other future Rubin Ultra designs and whether manufacturing issues could slow Nvidia's ability to scale its next generation of AI hardware.",
+      "Still, some analysts are not worried. Mizuho analyst Jordan Klein called the delay concerns \"more noise\" and pointed to continued strong AI demand from Nvidia suppliers.",
+      "For investors, the muted stock reaction shows how sensitive Nvidia has become to product roadmap headlines. The next focus will be the Vera Rubin launch and whether Nvidia can keep its next-generation systems on schedule."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-launches-bond-sale-seeking-122524411.html",
+    "fetched_at": "2026-07-07T07:00:37.958659-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon launches bond sale seeking at least $25 billion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Amazon.com Inc (NASDAQ:AMZN) started an eight-part U.S. investment grade bond sale on Tuesday, aiming to raise at least $25 billion.\nThe offering includes multiple tranches with varying maturities ranging from three to 40 years, all maturing on July 9 of their respective years. The company is offering a three-year floating rate note maturing in 2029, priced at SOFR equivalent.\nThe fixed-rate bonds include a three-year note with initial price talk at 65 basis points over Treasuries, a five-year note at 80 basis points, and a seven-year note at 90 basis points. The 10-year tranche carries initial guidance at 100 basis points over Treasuries.\nFor longer-dated securities, Amazon set initial price guidance at 120 basis points for the 20-year bonds, 130 basis points for the 30-year notes, and 145 basis points for the 40-year bonds.\nThe size of the bond offering and expected pricing was first reported by Bloomberg News.\nThe bonds are expected to price on Tuesday. Amazon carries ratings of A1 from Moody's, AA from S&P, and AA- from Fitch.\nRelated articles\nAmazon launches bond sale seeking at least $25 billion\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- Amazon.com Inc (NASDAQ:AMZN) started an eight-part U.S. investment grade bond sale on Tuesday, aiming to raise at least $25 billion.",
+      "The offering includes multiple tranches with varying maturities ranging from three to 40 years, all maturing on July 9 of their respective years. The company is offering a three-year floating rate note maturing in 2029, priced at SOFR equivalent.",
+      "The fixed-rate bonds include a three-year note with initial price talk at 65 basis points over Treasuries, a five-year note at 80 basis points, and a seven-year note at 90 basis points. The 10-year tranche carries initial guidance at 100 basis points over Treasuries.",
+      "For longer-dated securities, Amazon set initial price guidance at 120 basis points for the 20-year bonds, 130 basis points for the 30-year notes, and 145 basis points for the 40-year bonds.",
+      "The size of the bond offering and expected pricing was first reported by Bloomberg News.",
+      "The bonds are expected to price on Tuesday. Amazon carries ratings of A1 from Moody's, AA from S&P, and AA- from Fitch.",
+      "Related articles",
+      "Amazon launches bond sale seeking at least $25 billion",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

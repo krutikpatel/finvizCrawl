@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-surges-fresh-tailwinds-133729329.html",
+    "fetched_at": "2026-07-07T07:00:40.522480-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Surges on Fresh Tailwinds",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices, Inc. (NASDAQ:AMD) rose 7.81% intraday after Goldman Sachs (NYSE:GS) raised its price target to $640 from $450 while maintaining a Buy rating, one of the most aggressive upward revisions among major Wall Street banks in the current cycle. The stock's rally followed a recent pullback from its 52-week high, with the upgrade effectively reframing the dip as a re-entry point rather than a deterioration in fundamentals.\nAdditional momentum came from Citi (NYSE:C), which placed AMD on its upside catalyst watch list, citing sustained AI demand strength. AMD Ventures also joined Japanese autonomous driving startup Turing's investor group, with the company shifting roughly 10% of its AI training workloads from Nvidia (NASDAQ:NVDA) hardware to AMD accelerators. The development adds incremental evidence of AMD's growing penetration in AI compute workloads.\nTogether, these catalysts helped boost sentiment at a time when the stock is already up over 150% year to date and more than 300% over the past twelve months.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices, Inc. (NASDAQ:AMD) rose 7.81% intraday after Goldman Sachs (NYSE:GS) raised its price target to $640 from $450 while maintaining a Buy rating, one of the most aggressive upward revisions among major Wall Street banks in the current cycle. The stock's rally followed a recent pullback from its 52-week high, with the upgrade effectively reframing the dip as a re-entry point rather than a deterioration in fundamentals.",
+      "Additional momentum came from Citi (NYSE:C), which placed AMD on its upside catalyst watch list, citing sustained AI demand strength. AMD Ventures also joined Japanese autonomous driving startup Turing's investor group, with the company shifting roughly 10% of its AI training workloads from Nvidia (NASDAQ:NVDA) hardware to AMD accelerators. The development adds incremental evidence of AMD's growing penetration in AI compute workloads.",
+      "Together, these catalysts helped boost sentiment at a time when the stock is already up over 150% year to date and more than 300% over the past twelve months."
+    ],
+    "html": null
+  }
+}

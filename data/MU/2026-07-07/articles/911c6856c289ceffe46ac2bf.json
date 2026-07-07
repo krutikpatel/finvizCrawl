@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/bofa-stays-bullish-micron-131714605.html",
+    "fetched_at": "2026-07-07T07:00:13.136712-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BofA Stays Bullish on Micron",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (MU, Financials), a semiconductor company that makes memory and storage chips used in data centers, computers, phones and AI systems, remains a Buy at Bank of America as the firm sees strong AI infrastructure spending keeping the chip cycle intact.\nBofA expects global cloud and AI infrastructure capital spending to approach $1.5 trillion by 2027, up 40% to 50% from a year earlier.\nThe firm said the recent pullback in semiconductor stocks looks more like a healthy reset than a sign of weaker AI demand.\nFor Micron, the key point is memory. BofA said memory now accounts for about 35% to 40% of cloud AI spending, much higher than historical levels.\nThe firm believes investors are still underestimating how important memory has become to AI infrastructure. It also expects longer-term supply agreements and more stable pricing to support Micron's valuation over time.\nBofA kept Micron as a top pick with a $1,550 price target.\nThe next test is whether hyperscalers keep spending aggressively on AI infrastructure as investors look for clearer returns from the buildout.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (MU, Financials), a semiconductor company that makes memory and storage chips used in data centers, computers, phones and AI systems, remains a Buy at Bank of America as the firm sees strong AI infrastructure spending keeping the chip cycle intact.",
+      "BofA expects global cloud and AI infrastructure capital spending to approach $1.5 trillion by 2027, up 40% to 50% from a year earlier.",
+      "The firm said the recent pullback in semiconductor stocks looks more like a healthy reset than a sign of weaker AI demand.",
+      "For Micron, the key point is memory. BofA said memory now accounts for about 35% to 40% of cloud AI spending, much higher than historical levels.",
+      "The firm believes investors are still underestimating how important memory has become to AI infrastructure. It also expects longer-term supply agreements and more stable pricing to support Micron's valuation over time.",
+      "BofA kept Micron as a top pick with a $1,550 price target.",
+      "The next test is whether hyperscalers keep spending aggressively on AI infrastructure as investors look for clearer returns from the buildout."
+    ],
+    "html": null
+  }
+}

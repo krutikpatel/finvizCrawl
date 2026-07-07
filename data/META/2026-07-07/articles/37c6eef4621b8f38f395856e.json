@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/5d5c14c0-e13e-32f7-ba8a-073826838ba0/rosenblatt-says-hpc-selloff.html",
+    "fetched_at": "2026-07-07T07:00:10.489575-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Rosenblatt says HPC selloff creates buying opportunity in Galaxy Digital and Cipher Digital",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Rosenblatt Securities analyst Chris Brendler thinks the recent selloff in HPC-linked stocks was overdone, nodding his head to two former Bitcoin miners making the pivot into AI Galaxy Digital (NASDAQ: GLXY) and Cipher Digital (NASDAQ: CIFR).\nGLXY had fallen 22% over the prior two weeks while CIFR dropped 13%, at time of the notes publication on July 2. As of press time, GLXY and CIFR are down on the day, trading hands at $25.14 and $20.98 respectively.\nThe selloff intensified after Bloomberg reported on July 1 that Meta Platforms was building a cloud operation aimed at outside customers, with AI compute capacity and models part of the plan. The move raised concern that Meta could become a competitor in the neocloud stack alongside its role as a customer. CoreWeave-linked names bore the brunt of the selling, with CoreWeave itself falling nearly 14% that day.\nBrendler dismissed the fear. \"We view this reaction as overdone,\" he wrote, adding that the firm does not view the Meta news \"as a negative demand signal.\" He pointed to Rosenblatt colleague John McPeake's assessment that the Meta story appeared company-specific, driven by the social media giant's need to justify large capital expenditure, with no indication of a shift in contracted demand.\nBrendler singled out GLXY because its direct exposure to CoreWeave made it vulnerable to read-throughs from the Meta headline. Galaxy's Helios data center campus expanded its CoreWeave partnership in 2025 by an additional 133 megawatts of critical IT load, leaving CoreWeave committed to the site's entire 800-megawatt gross-power approval. That concentration explains why hyperscaler headlines now move the stock almost as much as bitcoin-specific catalysts.\nOn CIFR, Brendler said the 13% pullback widened a \"persistent valuation disparity\" he had already identified in the name. The note framed the decline as a cheaper entry into the miner-to-HPC pivot theme and said it did not signal deteriorating fundamentals. CIFR shares were trading around $22.84 as of the note's publication.\nRosenblatt's disclosures state that the firm expects to receive investment banking revenue from Galaxy Digital in the next three months and co-managed a public offering for GLXY in the past 12 months. Rosenblatt has no investment banking relationship with Cipher Digital.",
+    "text_blocks": [
+      "Rosenblatt Securities analyst Chris Brendler thinks the recent selloff in HPC-linked stocks was overdone, nodding his head to two former Bitcoin miners making the pivot into AI Galaxy Digital (NASDAQ: GLXY) and Cipher Digital (NASDAQ: CIFR).",
+      "GLXY had fallen 22% over the prior two weeks while CIFR dropped 13%, at time of the notes publication on July 2. As of press time, GLXY and CIFR are down on the day, trading hands at $25.14 and $20.98 respectively.",
+      "The selloff intensified after Bloomberg reported on July 1 that Meta Platforms was building a cloud operation aimed at outside customers, with AI compute capacity and models part of the plan. The move raised concern that Meta could become a competitor in the neocloud stack alongside its role as a customer. CoreWeave-linked names bore the brunt of the selling, with CoreWeave itself falling nearly 14% that day.",
+      "Brendler dismissed the fear. \"We view this reaction as overdone,\" he wrote, adding that the firm does not view the Meta news \"as a negative demand signal.\" He pointed to Rosenblatt colleague John McPeake's assessment that the Meta story appeared company-specific, driven by the social media giant's need to justify large capital expenditure, with no indication of a shift in contracted demand.",
+      "Brendler singled out GLXY because its direct exposure to CoreWeave made it vulnerable to read-throughs from the Meta headline. Galaxy's Helios data center campus expanded its CoreWeave partnership in 2025 by an additional 133 megawatts of critical IT load, leaving CoreWeave committed to the site's entire 800-megawatt gross-power approval. That concentration explains why hyperscaler headlines now move the stock almost as much as bitcoin-specific catalysts.",
+      "On CIFR, Brendler said the 13% pullback widened a \"persistent valuation disparity\" he had already identified in the name. The note framed the decline as a cheaper entry into the miner-to-HPC pivot theme and said it did not signal deteriorating fundamentals. CIFR shares were trading around $22.84 as of the note's publication.",
+      "Rosenblatt's disclosures state that the firm expects to receive investment banking revenue from Galaxy Digital in the next three months and co-managed a public offering for GLXY in the past 12 months. Rosenblatt has no investment banking relationship with Cipher Digital."
+    ],
+    "html": null
+  }
+}
