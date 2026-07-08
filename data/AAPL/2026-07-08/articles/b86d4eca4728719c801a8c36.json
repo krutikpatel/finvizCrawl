@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1dcbb470-c6d5-3334-a518-d7ec328c4ba2/apple%27s-market-cap-closes-in.html",
+    "fetched_at": "2026-07-08T07:00:05.438983-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's market cap closes in on Nvidia for top spot",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple was within roughly $200 billion of overtaking Nvidia as the largest U.S. company by market capitalization.\nThe gap between the two companies stood at roughly $190 billion on Wednesday, or about 4%, with Nvidia at approximately $4.7 trillion in market capitalization and Apple trailing at about $4.5 trillion. Reports of an expanded iPhone lineup sent Apple shares up almost 5% on Wednesday, while Nvidia stock fell as selling pressure swept through the broader chip sector.\nBehind the shrinking divide are two countervailing storylines: Wall Street has grown less enthusiastic about Nvidia, while Apple has managed to hold its ground even as questions persist about its AI direction and the rising cost of components. Nvidia has held the title of largest U.S. company by market cap for over a year.\nAnalysts have been quick to point out that the pressure on chip stocks reflects a sentiment shift rather than any fundamental problem at Nvidia — the central worry being whether major cloud providers can keep absorbing the enormous price tag of expanding AI infrastructure. For its fiscal first quarter of 2027, Nvidia posted $81.6 billion in total revenue — an 85% increase from a year earlier — while its data center segment set a record at $75.2 billion.\nApple, by contrast, has a near-term company-specific catalyst. A July 30 earnings date gives Apple a concrete near-term catalyst, and the company heads into that report on solid footing: its fiscal second quarter saw revenue climb 17% to $111.2 billion, with iPhone sales surging 22%.\nInvestors are also treating Apple's comparatively lower capital expenditure on AI as an advantage, with the bull case being that Apple can benefit from consumer AI without spending at the scale of cloud infrastructure companies, according to CNBC.\nOn a valuation basis, the two companies present a notable contrast: At roughly 37 times earnings, Apple commands a premium over Nvidia's approximately 30 times earnings, even though Nvidia is expanding its top line at close to five times Apple's rate, according to The Motley Fool.",
+    "text_blocks": [
+      "Apple was within roughly $200 billion of overtaking Nvidia as the largest U.S. company by market capitalization.",
+      "The gap between the two companies stood at roughly $190 billion on Wednesday, or about 4%, with Nvidia at approximately $4.7 trillion in market capitalization and Apple trailing at about $4.5 trillion. Reports of an expanded iPhone lineup sent Apple shares up almost 5% on Wednesday, while Nvidia stock fell as selling pressure swept through the broader chip sector.",
+      "Behind the shrinking divide are two countervailing storylines: Wall Street has grown less enthusiastic about Nvidia, while Apple has managed to hold its ground even as questions persist about its AI direction and the rising cost of components. Nvidia has held the title of largest U.S. company by market cap for over a year.",
+      "Analysts have been quick to point out that the pressure on chip stocks reflects a sentiment shift rather than any fundamental problem at Nvidia — the central worry being whether major cloud providers can keep absorbing the enormous price tag of expanding AI infrastructure. For its fiscal first quarter of 2027, Nvidia posted $81.6 billion in total revenue — an 85% increase from a year earlier — while its data center segment set a record at $75.2 billion.",
+      "Apple, by contrast, has a near-term company-specific catalyst. A July 30 earnings date gives Apple a concrete near-term catalyst, and the company heads into that report on solid footing: its fiscal second quarter saw revenue climb 17% to $111.2 billion, with iPhone sales surging 22%.",
+      "Investors are also treating Apple's comparatively lower capital expenditure on AI as an advantage, with the bull case being that Apple can benefit from consumer AI without spending at the scale of cloud infrastructure companies, according to CNBC.",
+      "On a valuation basis, the two companies present a notable contrast: At roughly 37 times earnings, Apple commands a premium over Nvidia's approximately 30 times earnings, even though Nvidia is expanding its top line at close to five times Apple's rate, according to The Motley Fool."
+    ],
+    "html": null
+  }
+}

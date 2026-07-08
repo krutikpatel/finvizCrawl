@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-surges-14-nvidia-173757547.html",
+    "fetched_at": "2026-07-08T07:00:43.528595-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Holdings Surges 14% as Nvidia Bets Its Next Chips on Arm Silicon",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM) surged 14.35% intraday after Nvidia (NASDAQ:NVDA) unveiled the RTX Spark Superchip and the Vera data center processor at Computex in Taipei, both built on Arm architecture. RTX Spark, co-designed with MediaTek, targets premium Windows PCs with more than 30 laptop and desktop designs from Microsoft (NASDAQ:MSFT), Dell (NYSE:DELL), HP (NYSE:HPQ), Asus, Lenovo, and MSI launching this fall. Vera is set to ship in Q3 2026. Every chip sold adds to Arm's royalty stream.\nThe Computex announcements landed against a strong earnings backdrop. Arm reported Q4 FY2026 results on May 6, with revenue of $1.49 billion, up 20% year-over-year, and non-GAAP EPS of $0.60. Licensing revenue climbed 29% to $819 million, royalty revenue rose 11% to $671 million, and data center royalties more than doubled year-over-year. CEO Rene Haas disclosed that committed customer demand for Arm's AGI CPU had grown to over $2 billion across fiscal 2027 and 2028, double the figure cited at launch. Full-year FY2026 revenue reached $4.92 billion, up 23%.\nArm's royalty model means it collects on every chip shipped, so a broader Arm silicon footprint across PCs and data centers is a direct revenue tailwind. The company has set a target of $15 billion in AGI CPU revenue by FY2031, with the broader CPU market opportunity estimated at over $100 billion by 2030. Arm shares are up 240% in the last three months.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM) surged 14.35% intraday after Nvidia (NASDAQ:NVDA) unveiled the RTX Spark Superchip and the Vera data center processor at Computex in Taipei, both built on Arm architecture. RTX Spark, co-designed with MediaTek, targets premium Windows PCs with more than 30 laptop and desktop designs from Microsoft (NASDAQ:MSFT), Dell (NYSE:DELL), HP (NYSE:HPQ), Asus, Lenovo, and MSI launching this fall. Vera is set to ship in Q3 2026. Every chip sold adds to Arm's royalty stream.",
+      "The Computex announcements landed against a strong earnings backdrop. Arm reported Q4 FY2026 results on May 6, with revenue of $1.49 billion, up 20% year-over-year, and non-GAAP EPS of $0.60. Licensing revenue climbed 29% to $819 million, royalty revenue rose 11% to $671 million, and data center royalties more than doubled year-over-year. CEO Rene Haas disclosed that committed customer demand for Arm's AGI CPU had grown to over $2 billion across fiscal 2027 and 2028, double the figure cited at launch. Full-year FY2026 revenue reached $4.92 billion, up 23%.",
+      "Arm's royalty model means it collects on every chip shipped, so a broader Arm silicon footprint across PCs and data centers is a direct revenue tailwind. The company has set a target of $15 billion in AGI CPU revenue by FY2031, with the broader CPU market opportunity estimated at over $100 billion by 2030. Arm shares are up 240% in the last three months."
+    ],
+    "html": null
+  }
+}

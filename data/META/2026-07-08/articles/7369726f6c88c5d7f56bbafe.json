@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/former-openai-exec-kevin-weil-120000744.html",
+    "fetched_at": "2026-07-08T07:00:08.235837-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Kevin Weil, a veteran tech executive known for stints at Twitter, Meta, Planet Labs and OpenAI, has joined the board of Stoke Space, a well-funded Seattle startup building reusable rockets to compete with SpaceX.\n\"It's real simple for me,\" Stoke CEO Andy Lapsa told TechCrunch of meeting Weil when he cofounded Stoke in 2020 and soon after joined Y Combinator's winter batch. \"I came out of engineering, started a company, had no idea how to fundraise. I had no idea how Silicon Valley worked. I had no network. Kevin [an early investor in the company with his wife Elizabeth, through their fund Scribble Ventures] comes with all of that background and was able to help me think about fundraising and getting the company off the ground.\nThe two kept talking while Lapsa raised $1.34 billion — including a $510 million Series D funding round in 2025 — to build a rapidly reusable rocket that could fly this year. Now, the time is apparently right for Weil to join the board as a director to help continue scaling the company. Stoke declined to make Weil available for an interview, and he didn't respond to TechCrunch's outreach.\nWeil's past work has focused on digital products and platforms, which aren't obviously on Stoke's roadmap. He was most recently the head of OpenAI's efforts to accelerate scientific research, leaving the company after that program's work was spread more widely across the frontier lab in April. He had previously served as OpenAI's chief product officer from June 2024 until October 2025.\nWeil's last job raises one obvious question: OpenAI's Sam Altman was reportedly kicking the tires on Stoke last year, contemplating an investment in his own SpaceX competitor. Could Weil be the link between the frontier AI lab and a possible partner in space? Lapsa declined to comment on \"gossip and rumors\" about OpenAI, saying Weil's role was to focus on Stoke itself.\nStoke is building a rocket, Nova, that is intended to be completely reusable and can be flown again and again. No one has ever done that before, with the SpaceX coming the closest with its enormous Starship rocket. The technological challenges of reusing a rocket—particularly its ability to survive the extreme heat of reentering the Earth's atmosphere from space—deterred even space investors with the deepest pockets. Jeff Bezos' Blue Origin, where Lapsa once worked, has flirted with the approach, but hasn't prioritized it.\nNow, though, SpaceX's blockbuster stock market debut—with much of its value resting on Elon Musk's promises that Starship will be flying operational missions this year—has proven Lapsa's foresight. Despite many billions of dollars invested in new launch vehicles, there aren't enough rockets to go around, and the next company to get a reasonably-priced rocket flying regularly promises to make a killing.",
+    "text_blocks": [
+      "Kevin Weil, a veteran tech executive known for stints at Twitter, Meta, Planet Labs and OpenAI, has joined the board of Stoke Space, a well-funded Seattle startup building reusable rockets to compete with SpaceX.",
+      "\"It's real simple for me,\" Stoke CEO Andy Lapsa told TechCrunch of meeting Weil when he cofounded Stoke in 2020 and soon after joined Y Combinator's winter batch. \"I came out of engineering, started a company, had no idea how to fundraise. I had no idea how Silicon Valley worked. I had no network. Kevin [an early investor in the company with his wife Elizabeth, through their fund Scribble Ventures] comes with all of that background and was able to help me think about fundraising and getting the company off the ground.",
+      "The two kept talking while Lapsa raised $1.34 billion — including a $510 million Series D funding round in 2025 — to build a rapidly reusable rocket that could fly this year. Now, the time is apparently right for Weil to join the board as a director to help continue scaling the company. Stoke declined to make Weil available for an interview, and he didn't respond to TechCrunch's outreach.",
+      "Weil's past work has focused on digital products and platforms, which aren't obviously on Stoke's roadmap. He was most recently the head of OpenAI's efforts to accelerate scientific research, leaving the company after that program's work was spread more widely across the frontier lab in April. He had previously served as OpenAI's chief product officer from June 2024 until October 2025.",
+      "Weil's last job raises one obvious question: OpenAI's Sam Altman was reportedly kicking the tires on Stoke last year, contemplating an investment in his own SpaceX competitor. Could Weil be the link between the frontier AI lab and a possible partner in space? Lapsa declined to comment on \"gossip and rumors\" about OpenAI, saying Weil's role was to focus on Stoke itself.",
+      "Stoke is building a rocket, Nova, that is intended to be completely reusable and can be flown again and again. No one has ever done that before, with the SpaceX coming the closest with its enormous Starship rocket. The technological challenges of reusing a rocket—particularly its ability to survive the extreme heat of reentering the Earth's atmosphere from space—deterred even space investors with the deepest pockets. Jeff Bezos' Blue Origin, where Lapsa once worked, has flirted with the approach, but hasn't prioritized it.",
+      "Now, though, SpaceX's blockbuster stock market debut—with much of its value resting on Elon Musk's promises that Starship will be flying operational missions this year—has proven Lapsa's foresight. Despite many billions of dollars invested in new launch vehicles, there aren't enough rockets to go around, and the next company to get a reasonably-priced rocket flying regularly promises to make a killing."
+    ],
+    "html": null
+  }
+}

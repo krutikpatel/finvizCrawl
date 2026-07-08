@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/netflix-disney-eye-world-cup-131146929.html",
+    "fetched_at": "2026-07-08T07:00:21.521976-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Netflix and Disney Eye World Cup Rights",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNetflix (NASDAQ:NFLX), Disney (NYSE:DIS) and Alphabet's YouTube (GOOGL) are reportedly preparing to challenge Fox (NASDAQ:FOX) for U.S. broadcast rights to the 2030 and 2034 World Cup, setting up a potentially expensive sports media fight.\n-\nWarning! GuruFocus has detected 3 Warning Signs with NSE:TCS.\n-\nIs NFLX fairly valued? Test your thesis with our free DCF calculator.\nCNBC reported that Amazon (NASDAQ:AMZN) and Apple (NASDAQ:AAPL) could also enter the mix, with FIFA expected to begin discussions with potential media partners within the next 3 months. FIFA has reportedly signaled that English and Spanish U.S. rights may be sold together, unlike prior tournaments.\nThe numbers could be massive. Fox paid $485 million for English-language rights to the 2026 World Cup, while NBCUniversal's Telemundo reportedly paid $600 million for Spanish-language rights. Media executives are now budgeting between $1.5 billion and $2 billion for U.S. rights to each tournament across languages.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Netflix (NASDAQ:NFLX), Disney (NYSE:DIS) and Alphabet's YouTube (GOOGL) are reportedly preparing to challenge Fox (NASDAQ:FOX) for U.S. broadcast rights to the 2030 and 2034 World Cup, setting up a potentially expensive sports media fight.",
+      "-",
+      "Warning! GuruFocus has detected 3 Warning Signs with NSE:TCS.",
+      "-",
+      "Is NFLX fairly valued? Test your thesis with our free DCF calculator.",
+      "CNBC reported that Amazon (NASDAQ:AMZN) and Apple (NASDAQ:AAPL) could also enter the mix, with FIFA expected to begin discussions with potential media partners within the next 3 months. FIFA has reportedly signaled that English and Spanish U.S. rights may be sold together, unlike prior tournaments.",
+      "The numbers could be massive. Fox paid $485 million for English-language rights to the 2026 World Cup, while NBCUniversal's Telemundo reportedly paid $600 million for Spanish-language rights. Media executives are now budgeting between $1.5 billion and $2 billion for U.S. rights to each tournament across languages."
+    ],
+    "html": null
+  }
+}

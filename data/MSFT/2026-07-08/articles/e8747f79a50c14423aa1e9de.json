@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-trades-rare-discount-121700342.html",
+    "fetched_at": "2026-07-08T07:00:24.052708-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Trades at Rare Discount",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (MSFT, Financials), the software and cloud computing company behind Windows, Azure, Office, Copilot and Xbox, is trading at a rare discount after a weak start to the year.\nThe stock has fallen about 20% in 2026 as investors worry about the cost of Microsoft's aggressive artificial intelligence spending. The concern is not demand. Azure continues to grow strongly, with recent growth near 40%.\nThe problem is profitability. Microsoft Cloud gross margin has been falling as the company spends heavily on AI data centers and computing infrastructure. In the latest quarter, Intelligent Cloud revenue rose 30%, while cost of revenue grew 47%.\nCapital spending has also climbed sharply. Microsoft spent $30.9 billion on property and equipment in the third quarter, up from $16.7 billion a year earlier.\nFor investors, the stock's lower valuation suggests some of those concerns may already be priced in. The next test is whether Microsoft can stabilize cloud margins and show that AI spending is turning into stronger earnings growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (MSFT, Financials), the software and cloud computing company behind Windows, Azure, Office, Copilot and Xbox, is trading at a rare discount after a weak start to the year.",
+      "The stock has fallen about 20% in 2026 as investors worry about the cost of Microsoft's aggressive artificial intelligence spending. The concern is not demand. Azure continues to grow strongly, with recent growth near 40%.",
+      "The problem is profitability. Microsoft Cloud gross margin has been falling as the company spends heavily on AI data centers and computing infrastructure. In the latest quarter, Intelligent Cloud revenue rose 30%, while cost of revenue grew 47%.",
+      "Capital spending has also climbed sharply. Microsoft spent $30.9 billion on property and equipment in the third quarter, up from $16.7 billion a year earlier.",
+      "For investors, the stock's lower valuation suggests some of those concerns may already be priced in. The next test is whether Microsoft can stabilize cloud margins and show that AI spending is turning into stronger earnings growth."
+    ],
+    "html": null
+  }
+}

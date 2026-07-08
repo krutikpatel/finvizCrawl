@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-bets-30-billion-broadcom-120703272.html",
+    "fetched_at": "2026-07-08T07:00:27.037074-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Bets $30 Billion on Broadcom to Keep Its US Chip Promises",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) committed $30 billion to buy US-made chips from Broadcom (NASDAQ:AVGO) over five years, as part of Apple's $600 billion US spending commitment made during Donald Trump's presidency to avoid his tariffs on Apple products. The deal is expected to result in 15 billion chips produced domestically and will support a $1.5 billion investment in Broadcom's manufacturing facility in Fort Collins, Colorado. Apple shares were down 0.46% in premarket and Broadcom fell 0.48%. CEO Tim Cook said he was \"grateful to the president and his administration for supporting important projects like this.\"\nThe announcement follows Broadcom extending its Apple supplier contract to 2031, including a deal to develop custom chips for future Apple products. Broadcom has long supplied Apple with radio frequency, Bluetooth, and WiFi connectivity chips for iPhones, iPads, and MacBooks. Apple has focused its US spending on high-value chip commitments, previously including deals with TSMC (NYSE:TSM) in Arizona, Texas Instruments (NASDAQ:TXN) in Texas, and GlobalFoundries (NASDAQ:GFS) in New York.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) committed $30 billion to buy US-made chips from Broadcom (NASDAQ:AVGO) over five years, as part of Apple's $600 billion US spending commitment made during Donald Trump's presidency to avoid his tariffs on Apple products. The deal is expected to result in 15 billion chips produced domestically and will support a $1.5 billion investment in Broadcom's manufacturing facility in Fort Collins, Colorado. Apple shares were down 0.46% in premarket and Broadcom fell 0.48%. CEO Tim Cook said he was \"grateful to the president and his administration for supporting important projects like this.\"",
+      "The announcement follows Broadcom extending its Apple supplier contract to 2031, including a deal to develop custom chips for future Apple products. Broadcom has long supplied Apple with radio frequency, Bluetooth, and WiFi connectivity chips for iPhones, iPads, and MacBooks. Apple has focused its US spending on high-value chip commitments, previously including deals with TSMC (NYSE:TSM) in Arizona, Texas Instruments (NASDAQ:TXN) in Texas, and GlobalFoundries (NASDAQ:GFS) in New York."
+    ],
+    "html": null
+  }
+}

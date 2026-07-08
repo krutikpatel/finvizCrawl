@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/fe52d9fc-e3bc-39d1-9a8b-60d9350dbd08/the-ai-chip-rush-is-crowding.html",
+    "fetched_at": "2026-07-08T07:00:26.513383-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI chip rush is crowding the same narrow pipeline",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nearly every major AI company is either making or considering making homegrown chips to reduce their reliance on Nvidia and cut costs.\nYes, but: Designing a chip is one thing. Securing the manufacturing capacity, memory and packaging needed to produce it at scale is much harder.\nDriving the news: China's DeepSeek is the latest company reportedly working on its own AI chips, per Reuters.\n-\nMicrosoft, Google, Amazon and Meta all have custom-chip efforts, while OpenAI recently unveiled its first custom inference chip with Broadcom. Anthropic is said to be in talks with Samsung on its own chip, too.\n-\nApple already makes its own chips for phones, tablets and Macs and is reported by Bloomberg to be developing separate chips for AI servers.\nZoom in: Custom chips lower costs and help companies diversify their supply chains.\n-\n\"I want something in my pocket when I'm sitting across the table from Jensen negotiating,\" Stacy Rasgon, analyst at Bernstein, told Axios, referring to Nvidia CEO Jensen Huang.\n-\nCustom chips can also be tailored to specific workloads, potentially making them more efficient and less expensive to operate.\nZoom out: Designing chips is just the first step, and AI has made this easier. But turning design into a physical product requires access to a semiconductor supply chain that is already stretched thin.\n-\nTSMC handles the majority of cutting-edge chip manufacturing, and while it is investing tens of billions of dollars to expand capacity, executives have repeatedly said demand outpaces supply.\n-\nSamsung makes leading-edge chips for itself and others. Intel is also aiming to be a so-called foundry, but its manufacturing processes have lagged in recent years.\n-\nThose factories also depend on lithography machines from Dutch company ASML, which is the only company that makes the most advanced tools needed to manufacture AI chips.\nBetween the lines: Everyone is rushing to make chips while the supply chain needed to service that demand is limited, and shortages abound.\n-\nCompanies trying to reduce their reliance on Nvidia are still competing for many of the same scarce resources: leading-edge foundry capacity, advanced packaging, high-bandwidth memory and lithography equipment.\n-\nAnd the process moves slowly. \"If you're just starting to design a chip right now, you won't see silicon for three years,\" Rasgon said.\n-\nEven companies developing custom chips continue buying Nvidia GPUs for many workloads because Nvidia's hardware, networking and software ecosystem remain difficult to replicate.",
+    "text_blocks": [
+      "Nearly every major AI company is either making or considering making homegrown chips to reduce their reliance on Nvidia and cut costs.",
+      "Yes, but: Designing a chip is one thing. Securing the manufacturing capacity, memory and packaging needed to produce it at scale is much harder.",
+      "Driving the news: China's DeepSeek is the latest company reportedly working on its own AI chips, per Reuters.",
+      "-",
+      "Microsoft, Google, Amazon and Meta all have custom-chip efforts, while OpenAI recently unveiled its first custom inference chip with Broadcom. Anthropic is said to be in talks with Samsung on its own chip, too.",
+      "-",
+      "Apple already makes its own chips for phones, tablets and Macs and is reported by Bloomberg to be developing separate chips for AI servers.",
+      "Zoom in: Custom chips lower costs and help companies diversify their supply chains.",
+      "-",
+      "\"I want something in my pocket when I'm sitting across the table from Jensen negotiating,\" Stacy Rasgon, analyst at Bernstein, told Axios, referring to Nvidia CEO Jensen Huang.",
+      "-",
+      "Custom chips can also be tailored to specific workloads, potentially making them more efficient and less expensive to operate.",
+      "Zoom out: Designing chips is just the first step, and AI has made this easier. But turning design into a physical product requires access to a semiconductor supply chain that is already stretched thin.",
+      "-",
+      "TSMC handles the majority of cutting-edge chip manufacturing, and while it is investing tens of billions of dollars to expand capacity, executives have repeatedly said demand outpaces supply.",
+      "-",
+      "Samsung makes leading-edge chips for itself and others. Intel is also aiming to be a so-called foundry, but its manufacturing processes have lagged in recent years.",
+      "-",
+      "Those factories also depend on lithography machines from Dutch company ASML, which is the only company that makes the most advanced tools needed to manufacture AI chips.",
+      "Between the lines: Everyone is rushing to make chips while the supply chain needed to service that demand is limited, and shortages abound.",
+      "-",
+      "Companies trying to reduce their reliance on Nvidia are still competing for many of the same scarce resources: leading-edge foundry capacity, advanced packaging, high-bandwidth memory and lithography equipment.",
+      "-",
+      "And the process moves slowly. \"If you're just starting to design a chip right now, you won't see silicon for three years,\" Rasgon said.",
+      "-",
+      "Even companies developing custom chips continue buying Nvidia GPUs for many workloads because Nvidia's hardware, networking and software ecosystem remain difficult to replicate."
+    ],
+    "html": null
+  }
+}

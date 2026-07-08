@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-gains-ai-image-103035645.html",
+    "fetched_at": "2026-07-08T07:00:08.408586-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Stock Gains After New AI Image Launch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) shares climbed more than 2% on Tuesday after the company introduced its new Muse Image artificial intelligence model.\nMeta said Muse Image, developed by Meta Superintelligence Labs, is its first image-generation model. The AI system is designed to use advanced reasoning to transform multiple photos into high-quality images that users can share across Meta's platforms.\nMeta said the model will support creative features on Instagram and WhatsApp. The company also plans to roll it out to Facebook, Messenger, and Meta Advantage+ Creative for advertisers in the near future.\nThe launch follows the introduction of Muse Spark in April as Meta continues expanding its portfolio of generative AI products. Investors have been closely watching Meta's AI strategy as the company increases investment in artificial intelligence tools across its consumer apps and advertising business.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) shares climbed more than 2% on Tuesday after the company introduced its new Muse Image artificial intelligence model.",
+      "Meta said Muse Image, developed by Meta Superintelligence Labs, is its first image-generation model. The AI system is designed to use advanced reasoning to transform multiple photos into high-quality images that users can share across Meta's platforms.",
+      "Meta said the model will support creative features on Instagram and WhatsApp. The company also plans to roll it out to Facebook, Messenger, and Meta Advantage+ Creative for advertisers in the near future.",
+      "The launch follows the introduction of Muse Spark in April as Meta continues expanding its portfolio of generative AI products. Investors have been closely watching Meta's AI strategy as the company increases investment in artificial intelligence tools across its consumer apps and advertising business."
+    ],
+    "html": null
+  }
+}

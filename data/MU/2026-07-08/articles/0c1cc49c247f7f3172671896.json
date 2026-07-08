@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/kospi-bear-market-sk-hynix-stock-7487ef27?mod=bar_FV",
+    "fetched_at": "2026-07-08T07:00:10.904292-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "KOSPI Index Enters Bear Market as Samsung, SK Hynix Lead Memory-Chip Selloff<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The World’s Hottest Stock Market Just Fell Into a Bear Market. What History Says Happens Next.\nThe world’s hottest index has been dragged into a technical bear market as the memory-chip selloff gathered pace Wednesday. But there’s reason to believe it can recover and trade higher over the next 18 months.",
+    "text_blocks": [
+      "The World’s Hottest Stock Market Just Fell Into a Bear Market. What History Says Happens Next.",
+      "The world’s hottest index has been dragged into a technical bear market as the memory-chip selloff gathered pace Wednesday. But there’s reason to believe it can recover and trade higher over the next 18 months."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/938b801b-044d-32c3-bcea-9dd6a17cc317/ondo-unveils-perps-dex-with.html",
+    "fetched_at": "2026-07-08T07:00:16.060784-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Ondo Unveils Perps DEX With Tokenized Stocks as Collateral",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Ondo has switched on Ondo Perps, a perpetuals platform offering up to 20x leverage on equity, index, and commodity markets while also letting traders post tokenized stocks as margin, a first for the perps category.\nWhat's the Scoop?\n-\nThe launch: The platform debuted today with two dozen markets spanning megacap equities (Nvidia, Tesla, Apple, Microsoft), crypto-adjacent stocks (Coinbase, Circle, Strategy, Robinhood), commodities (gold, silver, oil), the US 100 and US 500 indices, and more. Markets run 24/7 with no expiries, or as Ondo put it, \"no closing bell.\"\n-\nThe collateral unlock: The headline feature is that Ondo's tokenized stocks can serve directly as margin, currently live for Pre-Alpha users. Rather than parking equities in one venue and stablecoins in another, traders can put their tokenized stocks to work backing leveraged positions, a step toward the onchain prime brokerage vision Ondo has been telegraphing.\n-\nIncentives on: Ondo is dangling up to $3M in total rewards, starting with $150k in USDC pools for the first week of trading activity, plus a referral program and a forthcoming Ondo Points scheme for perps traders.",
+    "text_blocks": [
+      "Ondo has switched on Ondo Perps, a perpetuals platform offering up to 20x leverage on equity, index, and commodity markets while also letting traders post tokenized stocks as margin, a first for the perps category.",
+      "What's the Scoop?",
+      "-",
+      "The launch: The platform debuted today with two dozen markets spanning megacap equities (Nvidia, Tesla, Apple, Microsoft), crypto-adjacent stocks (Coinbase, Circle, Strategy, Robinhood), commodities (gold, silver, oil), the US 100 and US 500 indices, and more. Markets run 24/7 with no expiries, or as Ondo put it, \"no closing bell.\"",
+      "-",
+      "The collateral unlock: The headline feature is that Ondo's tokenized stocks can serve directly as margin, currently live for Pre-Alpha users. Rather than parking equities in one venue and stablecoins in another, traders can put their tokenized stocks to work backing leveraged positions, a step toward the onchain prime brokerage vision Ondo has been telegraphing.",
+      "-",
+      "Incentives on: Ondo is dangling up to $3M in total rewards, starting with $150k in USDC pools for the first week of trading activity, plus a referral program and a forthcoming Ondo Points scheme for perps traders."
+    ],
+    "html": null
+  }
+}

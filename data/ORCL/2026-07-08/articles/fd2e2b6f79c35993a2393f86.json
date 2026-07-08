@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-issues-blunt-message-080818574.html",
+    "fetched_at": "2026-07-08T07:00:18.769735-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Piper Sandler Issues a Blunt Message for Oracle Stock Fans",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) could generate stronger-than-expected cloud infrastructure revenue in fiscal 2027 as planned capacity expansion supports additional sales growth, according to a research note from Piper Sandler.\nThe brokerage estimated Oracle could bring roughly 2,400 megawatts of new cloud capacity online during fiscal 2027 based on projected capital spending and infrastructure deployment. Using those assumptions, Piper Sandler said Oracle Cloud Infrastructure revenue could reach about $23.0 billion in new sales, exceeding its previous estimate of $20.8 billion.\nThe firm said the additional capacity could lift Oracle Cloud Infrastructure revenue to about $41.1 billion in fiscal 2027, representing roughly $2.2 billion in incremental revenue and providing an estimated 12% boost to annual OCI growth. The analysis drew on infrastructure disclosures from Crusoe and CoreWeave (CRWV) to model deployment costs and revenue generation.\nPiper Sandler maintained an Overweight rating on Oracle and reiterated its $225 price target. The brokerage said rising investment in AI infrastructure and cloud capacity could position Oracle to outperform current revenue expectations if planned data center expansion proceeds as anticipated.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) could generate stronger-than-expected cloud infrastructure revenue in fiscal 2027 as planned capacity expansion supports additional sales growth, according to a research note from Piper Sandler.",
+      "The brokerage estimated Oracle could bring roughly 2,400 megawatts of new cloud capacity online during fiscal 2027 based on projected capital spending and infrastructure deployment. Using those assumptions, Piper Sandler said Oracle Cloud Infrastructure revenue could reach about $23.0 billion in new sales, exceeding its previous estimate of $20.8 billion.",
+      "The firm said the additional capacity could lift Oracle Cloud Infrastructure revenue to about $41.1 billion in fiscal 2027, representing roughly $2.2 billion in incremental revenue and providing an estimated 12% boost to annual OCI growth. The analysis drew on infrastructure disclosures from Crusoe and CoreWeave (CRWV) to model deployment costs and revenue generation.",
+      "Piper Sandler maintained an Overweight rating on Oracle and reiterated its $225 price target. The brokerage said rising investment in AI infrastructure and cloud capacity could position Oracle to outperform current revenue expectations if planned data center expansion proceeds as anticipated."
+    ],
+    "html": null
+  }
+}

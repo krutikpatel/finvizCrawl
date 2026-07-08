@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/5bdcaeb1-7c48-39d6-8098-1b26505785e5/micron-stock%3A-a-different.html",
+    "fetched_at": "2026-07-08T07:00:37.449186-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock: A Different Cycle, For Better Or For Worse",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron (MU) stock has surged nearly 8x over the past year, pushing its market capitalization above $1 trillion. The rally has been fueled by high-bandwidth memory (HBM), which sits alongside the AI accelerators from Nvidia (NVDA) and AMD (AMD) that are at the heart of the AI infrastructure build-out.\nHistorically, memory has been one of the semiconductor industry's most cyclical businesses, with DRAM moving through boom-and-bust cycles every three to four years. Take a detailed look at how past memory cycles have played out for Micron\nThis time, however, several aspects of the market look different. AI customers are signing multi-year supply agreements, a handful of hyperscalers account for an outsized share of demand, and HBM is tightly integrated with AI accelerators rather than sold as a standalone commodity.\nThe obvious question is whether these structural shifts are enough to rewrite the industry's familiar playbook. That is what investors need to figure out.\nTighter Coupling, Fewer Customers\nHBM is no longer a commodity memory product. Unlike traditional DRAM, which plugs into separate memory slots, HBM is packaged directly alongside the AI accelerator using advanced chip packaging. It is co-designed and qualified for a specific GPU generation, with much longer qualification cycles than commodity DRAM. Since the HBM is inseparable from the GPU package, each new accelerator generation typically brings a new generation of HBM as well.\nThat changes Micron's customer mix. Instead of selling memory to hundreds of PC makers, server OEMs, and cloud providers, HBM demand is concentrated among Nvidia, AMD, and a handful of hyperscalers developing their own AI chips. The long qualification cycles work in Micron's favor. Once a memory supplier is qualified for a GPU platform, customers are reluctant to switch because validating a new supplier can take years, not quarters. That creates higher switching costs and greater revenue visibility.\nThe flip side is customer concentration. A slowdown in AI infrastructure spending by even one major GPU customer or hyperscaler could have an outsized impact on Micron's HBM revenue. In previous memory cycles, weakness in one end market was often offset by demand from others. With HBM, that cushion is much smaller.\nWhat's Genuinely New: Take-or-Pay Contracts\nThe strongest argument that this cycle could be different is something the DRAM industry has rarely had before: long-term take-or-pay agreements. Micron has signed 16 multi-year take-or-pay agreements. Once all planned agreements are finalized, the company expects more than half of its revenue to be backed by these contracts, with about 40% covered by fixed or ceiling pricing. See Micron growth and margins vs. peers",
+    "text_blocks": [
+      "Micron (MU) stock has surged nearly 8x over the past year, pushing its market capitalization above $1 trillion. The rally has been fueled by high-bandwidth memory (HBM), which sits alongside the AI accelerators from Nvidia (NVDA) and AMD (AMD) that are at the heart of the AI infrastructure build-out.",
+      "Historically, memory has been one of the semiconductor industry's most cyclical businesses, with DRAM moving through boom-and-bust cycles every three to four years. Take a detailed look at how past memory cycles have played out for Micron",
+      "This time, however, several aspects of the market look different. AI customers are signing multi-year supply agreements, a handful of hyperscalers account for an outsized share of demand, and HBM is tightly integrated with AI accelerators rather than sold as a standalone commodity.",
+      "The obvious question is whether these structural shifts are enough to rewrite the industry's familiar playbook. That is what investors need to figure out.",
+      "Tighter Coupling, Fewer Customers",
+      "HBM is no longer a commodity memory product. Unlike traditional DRAM, which plugs into separate memory slots, HBM is packaged directly alongside the AI accelerator using advanced chip packaging. It is co-designed and qualified for a specific GPU generation, with much longer qualification cycles than commodity DRAM. Since the HBM is inseparable from the GPU package, each new accelerator generation typically brings a new generation of HBM as well.",
+      "That changes Micron's customer mix. Instead of selling memory to hundreds of PC makers, server OEMs, and cloud providers, HBM demand is concentrated among Nvidia, AMD, and a handful of hyperscalers developing their own AI chips. The long qualification cycles work in Micron's favor. Once a memory supplier is qualified for a GPU platform, customers are reluctant to switch because validating a new supplier can take years, not quarters. That creates higher switching costs and greater revenue visibility.",
+      "The flip side is customer concentration. A slowdown in AI infrastructure spending by even one major GPU customer or hyperscaler could have an outsized impact on Micron's HBM revenue. In previous memory cycles, weakness in one end market was often offset by demand from others. With HBM, that cushion is much smaller.",
+      "What's Genuinely New: Take-or-Pay Contracts",
+      "The strongest argument that this cycle could be different is something the DRAM industry has rarely had before: long-term take-or-pay agreements. Micron has signed 16 multi-year take-or-pay agreements. Once all planned agreements are finalized, the company expects more than half of its revenue to be backed by these contracts, with about 40% covered by fixed or ceiling pricing. See Micron growth and margins vs. peers"
+    ],
+    "html": null
+  }
+}

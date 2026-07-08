@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-perplexity-deal-f4958fdc?mod=bar_FV",
+    "fetched_at": "2026-07-08T07:00:37.125372-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling\nNvidia has been working hard to persuade Wall Street that its stand-alone central-processing unit can be another major revenue generator. That looks to be a step closer after confirmation that artificial-intelligence startup Perplexity will use Nvidia’s Vera CPUs.",
+    "text_blocks": [
+      "Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling",
+      "Nvidia has been working hard to persuade Wall Street that its stand-alone central-processing unit can be another major revenue generator. That looks to be a step closer after confirmation that artificial-intelligence startup Perplexity will use Nvidia’s Vera CPUs."
+    ],
+    "html": null
+  }
+}

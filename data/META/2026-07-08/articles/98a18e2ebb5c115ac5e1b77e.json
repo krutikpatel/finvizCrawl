@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/apple-loses-challenges-against-eu-120238751.html",
+    "fetched_at": "2026-07-08T07:00:08.577591-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple loses challenges against EU rules to curb Big Tech",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple loses challenges against EU rules to curb Big Tech Reuters Videos Wed, July 8, 2026 at 5:02 AM PDT AAPL META View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info",
+    "text_blocks": [
+      "Apple loses challenges against EU rules to curb Big Tech Reuters Videos Wed, July 8, 2026 at 5:02 AM PDT AAPL META View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info"
+    ],
+    "html": null
+  }
+}

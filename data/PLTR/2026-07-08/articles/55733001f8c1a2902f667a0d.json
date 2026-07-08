@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-expands-mexico-insurance-deal-185123883.html",
+    "fetched_at": "2026-07-08T07:00:29.654918-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Expands Mexico Insurance Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) expanded its partnership with Mexico's largest insurer, GNP Seguros, as the software company pushes its AI platform deeper into insurance operations.\nGNP Seguros is expanding its use of Palantir's technology across claims fraud detection, underwriting, claims processing and efforts to broaden insurance coverage in Mexico. The insurer is using Palantir Foundry and its Artificial Intelligence Platform, or AIP, to support AI-driven decision-making and agentic workflows across the business.\nPalantir Vice President for Latin America Eduardo Esteve said the company's technology is becoming a core foundation for GNP Seguros' innovation strategy. He added that Foundry and AIP are helping teams serve millions of people more efficiently while improving insurance operations. Financial terms of the expanded agreement were not disclosed.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) expanded its partnership with Mexico's largest insurer, GNP Seguros, as the software company pushes its AI platform deeper into insurance operations.",
+      "GNP Seguros is expanding its use of Palantir's technology across claims fraud detection, underwriting, claims processing and efforts to broaden insurance coverage in Mexico. The insurer is using Palantir Foundry and its Artificial Intelligence Platform, or AIP, to support AI-driven decision-making and agentic workflows across the business.",
+      "Palantir Vice President for Latin America Eduardo Esteve said the company's technology is becoming a core foundation for GNP Seguros' innovation strategy. He added that Foundry and AIP are helping teams serve millions of people more efficiently while improving insurance operations. Financial terms of the expanded agreement were not disclosed."
+    ],
+    "html": null
+  }
+}

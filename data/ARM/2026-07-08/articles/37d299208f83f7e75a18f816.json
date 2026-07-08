@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-spark-pc-chip-dell-hp-windows-66ce2096?mod=bar_FV",
+    "fetched_at": "2026-07-08T07:00:43.298759-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Even Nvidia Will Struggle to Save the PC<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Even Nvidia Will Struggle to Save the PC\nNvidia’s announcement of a new PC chip set markets ablaze on Monday. Chip stocks, led by Intel and Qualcomm, fell sharply, while PC stocks, led by Dell Technologies and HP Inc. jumped. Everyone should take a deep breath.",
+    "text_blocks": [
+      "Even Nvidia Will Struggle to Save the PC",
+      "Nvidia’s announcement of a new PC chip set markets ablaze on Monday. Chip stocks, led by Intel and Qualcomm, fell sharply, while PC stocks, led by Dell Technologies and HP Inc. jumped. Everyone should take a deep breath."
+    ],
+    "html": null
+  }
+}
