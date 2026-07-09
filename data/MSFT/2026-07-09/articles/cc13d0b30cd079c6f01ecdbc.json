@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-bets-bigger-fallout-franchise-123058394.html",
+    "fetched_at": "2026-07-09T07:00:27.089788-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Bets Bigger on Fallout Franchise",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) is reportedly shifting Xbox studio Obsidian Entertainment toward a new Fallout game as the company restructures its gaming division around bigger franchises.\nBloomberg reported that Obsidian has canceled several projects, including a planned sequel to its 2025 role-playing game Avowed, and laid off about a quarter of its workforce. Design director John Sawyer, who directed Fallout: New Vegas in 2010, is expected to lead the new Fallout title, potentially in collaboration with Bethesda Game Studios.\nThe move follows Xbox Chief Asha Sharma's broader reset, including plans to cut 3,200 jobs and divest 5 studios. Microsoft is reportedly focusing more investment on major franchises such as Fallout, which gained fresh momentum after Amazon's TV adaptation.\nthe shift shows Microsoft is trying to make Xbox leaner while concentrating capital on proven intellectual property. The next thing to watch is whether a new Fallout project can revive gaming momentum after the restructuring.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) is reportedly shifting Xbox studio Obsidian Entertainment toward a new Fallout game as the company restructures its gaming division around bigger franchises.",
+      "Bloomberg reported that Obsidian has canceled several projects, including a planned sequel to its 2025 role-playing game Avowed, and laid off about a quarter of its workforce. Design director John Sawyer, who directed Fallout: New Vegas in 2010, is expected to lead the new Fallout title, potentially in collaboration with Bethesda Game Studios.",
+      "The move follows Xbox Chief Asha Sharma's broader reset, including plans to cut 3,200 jobs and divest 5 studios. Microsoft is reportedly focusing more investment on major franchises such as Fallout, which gained fresh momentum after Amazon's TV adaptation.",
+      "the shift shows Microsoft is trying to make Xbox leaner while concentrating capital on proven intellectual property. The next thing to watch is whether a new Fallout project can revive gaming momentum after the restructuring."
+    ],
+    "html": null
+  }
+}

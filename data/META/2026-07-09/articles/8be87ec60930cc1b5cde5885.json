@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2ba55a88-80a7-3884-8f34-58aa00daf161/meta-to-start-production-of.html",
+    "fetched_at": "2026-07-09T07:00:10.468729-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta to start production of Iris AI chip in September 2026",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta plans to begin manufacturing its in-house AI chip, code-named Iris, in September, according to an internal memo reviewed by Reuters. Falling under the umbrella of Meta's MTIA program — short for Meta Training and Inference Accelerators — Iris is one of four planned chip generations aimed at strengthening the AI systems running on Facebook and Instagram.\nAccording to the memo, the chip cleared its bug-testing phase in roughly six weeks without turning up any significant problems. Broadcom is serving as Meta's design partner on the chip, while Taiwan Semiconductor Manufacturing Co. has been tapped to handle its fabrication. By building its own silicon, Meta is seeking to cut spending on compute and loosen its reliance on third-party chip vendors including Nvidia and Advanced Micro Devices.\nMarch marked Iris's public debut, when Meta introduced it by its technical designation as part of a slate of four AI processors. That cadence — a new chip approximately every six months until 2027 — represents a significantly more aggressive schedule than the annual or slower release cycles common across the industry. Adopting the latest GPUs at Meta's scale \"has been a heavy lift, and it has cost us time,\" the memo said.\nThe Iris chip is intended to supplement — not replace — the large volumes of GPUs Meta buys from Nvidia and AMD.\nThe chip production announcement is tied to a broader infrastructure push. The memo also outlined a two-step infrastructure expansion: seven gigawatts of computing capacity coming online in 2026, growing to 14 gigawatts by 2027. Meta's projected AI infrastructure spending for the year reaches as high as $145 billion.\nUnderpinning the expansion, the memo revealed that Meta has locked in extended supply contracts across several hardware categories: memory chips from Samsung Electronics, flash storage from Sandisk, and fiber-optic equipment from Sumitomo Electric. None of the three suppliers provided comment; Sandisk explicitly declined, while Samsung Electronics and Sumitomo Electric had not responded by press time. Meta likewise declined to comment.\nThe Iris production timeline fits into a broader custom silicon strategy Meta formalized with Broadcom earlier this year, when the two companies agreed to expand their partnership on custom AI chips through 2029, covering multiple MTIA generations. That deal included a commitment to deploy more than one gigawatt of computing capacity as an opening installment in a planned multi-gigawatt buildout. Meta has also struck a multiyear agreement with AMD to deploy up to six gigawatts of AMD Instinct GPUs, part of an effort to diversify its compute supply away from a single vendor.",
+    "text_blocks": [
+      "Meta plans to begin manufacturing its in-house AI chip, code-named Iris, in September, according to an internal memo reviewed by Reuters. Falling under the umbrella of Meta's MTIA program — short for Meta Training and Inference Accelerators — Iris is one of four planned chip generations aimed at strengthening the AI systems running on Facebook and Instagram.",
+      "According to the memo, the chip cleared its bug-testing phase in roughly six weeks without turning up any significant problems. Broadcom is serving as Meta's design partner on the chip, while Taiwan Semiconductor Manufacturing Co. has been tapped to handle its fabrication. By building its own silicon, Meta is seeking to cut spending on compute and loosen its reliance on third-party chip vendors including Nvidia and Advanced Micro Devices.",
+      "March marked Iris's public debut, when Meta introduced it by its technical designation as part of a slate of four AI processors. That cadence — a new chip approximately every six months until 2027 — represents a significantly more aggressive schedule than the annual or slower release cycles common across the industry. Adopting the latest GPUs at Meta's scale \"has been a heavy lift, and it has cost us time,\" the memo said.",
+      "The Iris chip is intended to supplement — not replace — the large volumes of GPUs Meta buys from Nvidia and AMD.",
+      "The chip production announcement is tied to a broader infrastructure push. The memo also outlined a two-step infrastructure expansion: seven gigawatts of computing capacity coming online in 2026, growing to 14 gigawatts by 2027. Meta's projected AI infrastructure spending for the year reaches as high as $145 billion.",
+      "Underpinning the expansion, the memo revealed that Meta has locked in extended supply contracts across several hardware categories: memory chips from Samsung Electronics, flash storage from Sandisk, and fiber-optic equipment from Sumitomo Electric. None of the three suppliers provided comment; Sandisk explicitly declined, while Samsung Electronics and Sumitomo Electric had not responded by press time. Meta likewise declined to comment.",
+      "The Iris production timeline fits into a broader custom silicon strategy Meta formalized with Broadcom earlier this year, when the two companies agreed to expand their partnership on custom AI chips through 2029, covering multiple MTIA generations. That deal included a commitment to deploy more than one gigawatt of computing capacity as an opening installment in a planned multi-gigawatt buildout. Meta has also struck a multiyear agreement with AMD to deploy up to six gigawatts of AMD Instinct GPUs, part of an effort to diversify its compute supply away from a single vendor."
+    ],
+    "html": null
+  }
+}

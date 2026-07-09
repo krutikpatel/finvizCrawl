@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-25-billion-surprise-bond-192838890.html",
+    "fetched_at": "2026-07-09T07:00:20.957916-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon’s $25 billion ‘surprise’ bond sale dangled extra yield to lure in buyers—and flashed a warning sign about the AI boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon’s $25 billion ‘surprise’ bond sale dangled extra yield to lure in buyers—and flashed a warning sign about the AI boom\nBond investors haven't been rattled as they've watched AI giants rack up $270 billion in debt this year. But on Tuesday, Amazon gave them a shake.\nThe company plunked what Bank of America called a \"surprise\" $25 billion bond sale on the market on July 7, bringing the amount of debt issued by the tech giant to $92 billion this year—surpassing the amounts that Alphabet's Google, Meta, and Oracle have each issued this year.\nTo get the deal done, Amazon had to sweeten the terms, offering 18 to 21 basis points of extra yield on its longest bonds. Yet even with sugar on top, Amazon's debt offering drew the weakest demand with orders at just 2.5 times the bonds on offer, down from 3.2 times in March. According to BofA, Amazon's overall new-issue performance was the weakest for any hyperscaler since Meta's $30 billion bond sale in October 2025\n\"Investors are pushing back,\" BofA wrote in its note. \"The deal should also inject even more uncertainty into the hyperscaler/AI supply outlook.\"\nAmazon still had more buyers of its investment-grade debt (credit agency Moody's rates it AA, its third-highest rating; S&P rates it S1, its fifth highest) than it sold in Tuesday's deal. But the slowing level of demand could be a warning sign about the future of the AI boom.\nSo far this year, bonds related to AI are already almost double the debt value in the sector issued in 2025, which was $136 billion for the full year. Among the AI industry's $270 billion issued, BofA estimates $194 billion is from so-called hyperscalers, the tech giants who build and operate massive data centers to power their online services and rent cloud computing capacity to other businesses. Besides Amazon, the other hyperscalers including Alphabet, Meta, Microsoft, and Oracle have all announced plans for enormous capital expenditures to fund their AI-related ambitions. Alphabet even issued century-long bond when it raised $30 billion earlier this year.\nAmazon's cash grab will go to fund its rapidly growing cloud computing business, Amazon Web Services (AWS.) At the company's last earnings call in April, CEO Andy Jassy told analysts that the faster Amazon's cloud computing business grows, the more short-term capital expenditures Amazon will have. AWS has to pay cash for \"land, power, buildings, chips, servers, and networking gear\" in advance before it can profit six months to 2 years down the road, Jassy said during the call.\nAmazon's capex totaled $43.2 billion in the first quarter alone, chief financial officer Brian Olsavsky said on the same call, and he said it was directed toward both AWS and generative AI. The mega spending is hurting Amazon's cash flows, with its free cash flow over the trailing 12 months down to $1.2 billion, compared to $25.9 billion a year ago. The decline was driven by a year-over-year increase in property and equipment purchases of $59.3 billion, according to Amazon's Q1 2026 figures. However, Amazon still spun up $148.5 billion in operating cash flow, up 30% over last year.",
+    "text_blocks": [
+      "Amazon’s $25 billion ‘surprise’ bond sale dangled extra yield to lure in buyers—and flashed a warning sign about the AI boom",
+      "Bond investors haven't been rattled as they've watched AI giants rack up $270 billion in debt this year. But on Tuesday, Amazon gave them a shake.",
+      "The company plunked what Bank of America called a \"surprise\" $25 billion bond sale on the market on July 7, bringing the amount of debt issued by the tech giant to $92 billion this year—surpassing the amounts that Alphabet's Google, Meta, and Oracle have each issued this year.",
+      "To get the deal done, Amazon had to sweeten the terms, offering 18 to 21 basis points of extra yield on its longest bonds. Yet even with sugar on top, Amazon's debt offering drew the weakest demand with orders at just 2.5 times the bonds on offer, down from 3.2 times in March. According to BofA, Amazon's overall new-issue performance was the weakest for any hyperscaler since Meta's $30 billion bond sale in October 2025",
+      "\"Investors are pushing back,\" BofA wrote in its note. \"The deal should also inject even more uncertainty into the hyperscaler/AI supply outlook.\"",
+      "Amazon still had more buyers of its investment-grade debt (credit agency Moody's rates it AA, its third-highest rating; S&P rates it S1, its fifth highest) than it sold in Tuesday's deal. But the slowing level of demand could be a warning sign about the future of the AI boom.",
+      "So far this year, bonds related to AI are already almost double the debt value in the sector issued in 2025, which was $136 billion for the full year. Among the AI industry's $270 billion issued, BofA estimates $194 billion is from so-called hyperscalers, the tech giants who build and operate massive data centers to power their online services and rent cloud computing capacity to other businesses. Besides Amazon, the other hyperscalers including Alphabet, Meta, Microsoft, and Oracle have all announced plans for enormous capital expenditures to fund their AI-related ambitions. Alphabet even issued century-long bond when it raised $30 billion earlier this year.",
+      "Amazon's cash grab will go to fund its rapidly growing cloud computing business, Amazon Web Services (AWS.) At the company's last earnings call in April, CEO Andy Jassy told analysts that the faster Amazon's cloud computing business grows, the more short-term capital expenditures Amazon will have. AWS has to pay cash for \"land, power, buildings, chips, servers, and networking gear\" in advance before it can profit six months to 2 years down the road, Jassy said during the call.",
+      "Amazon's capex totaled $43.2 billion in the first quarter alone, chief financial officer Brian Olsavsky said on the same call, and he said it was directed toward both AWS and generative AI. The mega spending is hurting Amazon's cash flows, with its free cash flow over the trailing 12 months down to $1.2 billion, compared to $25.9 billion a year ago. The decline was driven by a year-over-year increase in property and equipment purchases of $59.3 billion, according to Amazon's Q1 2026 figures. However, Amazon still spun up $148.5 billion in operating cash flow, up 30% over last year."
+    ],
+    "html": null
+  }
+}

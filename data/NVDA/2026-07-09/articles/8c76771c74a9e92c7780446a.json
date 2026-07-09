@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/42bbb3df-f36e-3d37-a2bf-b0e64f020f6b/qualcomm-stock-to-2x-to-%24370%3F.html",
+    "fetched_at": "2026-07-09T07:00:35.357780-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm Stock To 2x To $370?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "For three years, the AI rally left Qualcomm behind.\nNvidia (NVDA) soared. AMD rallied. Data center chipmakers captured practically every dollar of AI-driven gains. Qualcomm (QCOM) stayed a smartphone company, tied to a slowing upgrade cycle and a shrinking Apple (AAPL) relationship.\nThat story could now be changing.\nQualcomm stock has risen roughly 50% since mid-April. The move signals a bigger shift. AI is moving out of the data center and onto the device itself. Power efficiency, connectivity, and low-latency compute, the exact things Qualcomm has spent decades perfecting, are becoming the new currency of AI. If this transition plays out, Qualcomm stock has a credible path to double toward $380.\nShift Toward Edge AI\nToday's AI ecosystem runs on centralized compute, with workloads concentrated in data centers powered by companies like Nvidia. That model doesn't scale to billions of devices. Routing every inference through the cloud is costly, slow, and power-hungry. The next phase is local inference, running AI directly on the device. It's faster, more private, and doesn't depend on a live connection.\nThis shift plays directly into Qualcomm's strengths.\nFor decades, Qualcomm has optimized for power efficiency and connectivity, the two constraints that define edge AI. Its Snapdragon platforms already sit inside smartphones, PCs, and a growing number of vehicles. Qualcomm's automotive business alone represents a $45 billion design-win pipeline. Newer platforms like Dragonwing, along with partnerships across ecosystems such as Arduino, extend that reach into robotics and industrial AI. Qualcomm is evolving from a handset component supplier into a broader compute platform for connected, intelligent devices.\nPower Efficiency\nQualcomm's strengths could extend beyond smartphones and into the data center itself. AI spending is shifting from training to inference, the process of running trained models in production. That shift is bigger than it sounds. Inference is projected to reach two-thirds of AI compute by 2029 and represent 80 to 90% of an AI system's lifetime cost. Agentic AI systems that execute tasks, interact with software, and make decisions autonomously will only add to demand for efficient inference hardware.\nQualcomm's chips are built for exactly this. Power efficiency and cost per query matter more than peak performance, and that focus is becoming more valuable as AI infrastructure runs into real power constraints. A large data center can be built in 12 to 24 months. Securing a high-capacity grid connection in key U.S. markets can take 36 to 84 months. Qualcomm's advantage comes from decades spent designing chips for smartphones, where every milliwatt counts. Those same design principles could lower the energy cost of running AI workloads at scale.",
+    "text_blocks": [
+      "For three years, the AI rally left Qualcomm behind.",
+      "Nvidia (NVDA) soared. AMD rallied. Data center chipmakers captured practically every dollar of AI-driven gains. Qualcomm (QCOM) stayed a smartphone company, tied to a slowing upgrade cycle and a shrinking Apple (AAPL) relationship.",
+      "That story could now be changing.",
+      "Qualcomm stock has risen roughly 50% since mid-April. The move signals a bigger shift. AI is moving out of the data center and onto the device itself. Power efficiency, connectivity, and low-latency compute, the exact things Qualcomm has spent decades perfecting, are becoming the new currency of AI. If this transition plays out, Qualcomm stock has a credible path to double toward $380.",
+      "Shift Toward Edge AI",
+      "Today's AI ecosystem runs on centralized compute, with workloads concentrated in data centers powered by companies like Nvidia. That model doesn't scale to billions of devices. Routing every inference through the cloud is costly, slow, and power-hungry. The next phase is local inference, running AI directly on the device. It's faster, more private, and doesn't depend on a live connection.",
+      "This shift plays directly into Qualcomm's strengths.",
+      "For decades, Qualcomm has optimized for power efficiency and connectivity, the two constraints that define edge AI. Its Snapdragon platforms already sit inside smartphones, PCs, and a growing number of vehicles. Qualcomm's automotive business alone represents a $45 billion design-win pipeline. Newer platforms like Dragonwing, along with partnerships across ecosystems such as Arduino, extend that reach into robotics and industrial AI. Qualcomm is evolving from a handset component supplier into a broader compute platform for connected, intelligent devices.",
+      "Power Efficiency",
+      "Qualcomm's strengths could extend beyond smartphones and into the data center itself. AI spending is shifting from training to inference, the process of running trained models in production. That shift is bigger than it sounds. Inference is projected to reach two-thirds of AI compute by 2029 and represent 80 to 90% of an AI system's lifetime cost. Agentic AI systems that execute tasks, interact with software, and make decisions autonomously will only add to demand for efficient inference hardware.",
+      "Qualcomm's chips are built for exactly this. Power efficiency and cost per query matter more than peak performance, and that focus is becoming more valuable as AI infrastructure runs into real power constraints. A large data center can be built in 12 to 24 months. Securing a high-capacity grid connection in key U.S. markets can take 36 to 84 months. Qualcomm's advantage comes from decades spent designing chips for smartphones, where every milliwatt counts. Those same design principles could lower the energy cost of running AI workloads at scale."
+    ],
+    "html": null
+  }
+}

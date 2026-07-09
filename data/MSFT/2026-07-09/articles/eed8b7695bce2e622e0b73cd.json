@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ibm-falls-coffee-chain-decides-122311927.html",
+    "fetched_at": "2026-07-09T07:00:27.163883-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IBM Falls as a Coffee Chain Decides to Build Its Own Software",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nInternational Business Machines (NYSE:IBM) fell 3.39% in premarket after Bloomberg News reported that Starbucks (NASDAQ:SBUX) is developing in-house AI tools to replace software it currently purchases from IBM and Microsoft (NASDAQ:MSFT), including an IBM tool that manages maintenance and a Microsoft system that tracks inventory. Microsoft shares were down 1.09% in premarket.\nThe internally developed replacements could roll out by end of next year pending testing results. Starbucks CTO Anand Varadarajan told workers earlier this year the company spends approximately $400 million annually on software alone, adding \"there's clear opportunities to reduce the spend in software.\"\nThe move is part of a broader Starbucks turnaround effort targeting $2 billion in cost cuts. Both IBM and Microsoft have trailed the S&P 500 this year amid growing investor concern that customers are increasingly using AI to build their own software rather than buying from established vendors.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "International Business Machines (NYSE:IBM) fell 3.39% in premarket after Bloomberg News reported that Starbucks (NASDAQ:SBUX) is developing in-house AI tools to replace software it currently purchases from IBM and Microsoft (NASDAQ:MSFT), including an IBM tool that manages maintenance and a Microsoft system that tracks inventory. Microsoft shares were down 1.09% in premarket.",
+      "The internally developed replacements could roll out by end of next year pending testing results. Starbucks CTO Anand Varadarajan told workers earlier this year the company spends approximately $400 million annually on software alone, adding \"there's clear opportunities to reduce the spend in software.\"",
+      "The move is part of a broader Starbucks turnaround effort targeting $2 billion in cost cuts. Both IBM and Microsoft have trailed the S&P 500 this year amid growing investor concern that customers are increasingly using AI to build their own software rather than buying from established vendors."
+    ],
+    "html": null
+  }
+}

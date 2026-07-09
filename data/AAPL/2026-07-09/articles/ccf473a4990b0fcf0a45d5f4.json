@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apple-signs-broadcom-chip-deal-125224468.html",
+    "fetched_at": "2026-07-09T07:00:07.315379-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Signs Broadcom Chip Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (AAPL, Financials), the consumer technology company behind the iPhone, Mac and App Store, plans to spend more than $30 billion under a multiyear chip supply deal with Broadcom.\nThe agreement covers radio-frequency chips used for wireless connectivity in Apple devices. The deal runs through 2031.\nBroadcom will invest $1.5 billion to expand its Fort Collins, Colorado, factory. Apple said the agreement will support production of at least 15 billion chips.\nThe move fits Apple's push to source more components from U.S. suppliers as Washington presses for more domestic chip manufacturing.\nFor investors, the deal gives Apple more supply-chain control while giving Broadcom a major long-term customer commitment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (AAPL, Financials), the consumer technology company behind the iPhone, Mac and App Store, plans to spend more than $30 billion under a multiyear chip supply deal with Broadcom.",
+      "The agreement covers radio-frequency chips used for wireless connectivity in Apple devices. The deal runs through 2031.",
+      "Broadcom will invest $1.5 billion to expand its Fort Collins, Colorado, factory. Apple said the agreement will support production of at least 15 billion chips.",
+      "The move fits Apple's push to source more components from U.S. suppliers as Washington presses for more domestic chip manufacturing.",
+      "For investors, the deal gives Apple more supply-chain control while giving Broadcom a major long-term customer commitment."
+    ],
+    "html": null
+  }
+}

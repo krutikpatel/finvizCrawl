@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/microstrategy-bitcoin-preferred-stock-risk-yield-47fbb285?mod=bar_FV",
+    "fetched_at": "2026-07-09T07:00:18.011632-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Strategy’s Preferred Shares Carry 10%-Plus Yields—and Lots of Risk<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "High Yields and Huge Risk From a Bitcoin Giant’s Preferred Shares\nBitcoin holder Strategy’s push into the preferred-stock market has backfired amid concerns about the company’s ability to maintain dividends on some $15 billion of high-yield preferred securities, given the declining prices of Bitcoin and the company once known as MicroStrategy’s common stock.",
+    "text_blocks": [
+      "High Yields and Huge Risk From a Bitcoin Giant’s Preferred Shares",
+      "Bitcoin holder Strategy’s push into the preferred-stock market has backfired amid concerns about the company’s ability to maintain dividends on some $15 billion of high-yield preferred securities, given the declining prices of Bitcoin and the company once known as MicroStrategy’s common stock."
+    ],
+    "html": null
+  }
+}

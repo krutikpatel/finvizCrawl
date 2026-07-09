@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/ba8841e4-a368-30dd-b7ae-8e50ae48f5ae/intel%2C-amd%2C-qualcomm-shares.html",
+    "fetched_at": "2026-07-09T07:00:46.643492-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel, AMD, Qualcomm shares slide as Nvidia crashes the PC chip market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Shares of Intel Corp (NASDAQ:INTC, XETRA:INL), Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) and Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) fell sharply on Monday after Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) unveiled a new personal computer chip at the Computex trade show in Taipei, marking a direct challenge to the incumbents of the Windows PC processor market.\nIntel shares fell about 3% while AMD declined a similar amount.\nQualcomm, the only other maker of Arm-based chips for Windows laptops, fell about 7%.\nNvidia CEO Jensen Huang announced at Computex that the company's new RTX Spark Superchip will debut in laptop and desktop computers from leading PC brands including Dell Technologies and Lenovo starting this fall.\nThe chip is based on Arm Holdings PLC (NASDAQ:ARM) architecture, the same type of technology used in Apple's M series chips and Qualcomm's Snapdragon processors.\nNvidia has sold consumer laptop and desktop GPUs for decades, but those systems had to use Intel or AMD CPUs. RTX Spark changes that because it uses Nvidia's own custom CPU, developed in collaboration with MediaTek.\nNvidia shares jumped 4% on the announcement. Arm Holdings soared more than 16% in US trading, while shares in PC makers set to build laptops powered by the new chip also jumped.\nNvidia said RTX Spark is a smaller version of the chips it uses in its AI supercomputers and that the chip can run personal AI agents locally, along with popular games and productivity software such as Adobe Photoshop.\nQualcomm faces additional headwinds beyond the Nvidia announcement. The company also contends with pressure from AMD's weak revenue guidance and reports that Arm Holdings may move to cancel a key license agreement.\nDespite Monday's volatility, AMD and Intel are each up sharply year to date, with AMD gaining about 130% and Intel up nearly 200%.",
+    "text_blocks": [
+      "Shares of Intel Corp (NASDAQ:INTC, XETRA:INL), Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) and Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) fell sharply on Monday after Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) unveiled a new personal computer chip at the Computex trade show in Taipei, marking a direct challenge to the incumbents of the Windows PC processor market.",
+      "Intel shares fell about 3% while AMD declined a similar amount.",
+      "Qualcomm, the only other maker of Arm-based chips for Windows laptops, fell about 7%.",
+      "Nvidia CEO Jensen Huang announced at Computex that the company's new RTX Spark Superchip will debut in laptop and desktop computers from leading PC brands including Dell Technologies and Lenovo starting this fall.",
+      "The chip is based on Arm Holdings PLC (NASDAQ:ARM) architecture, the same type of technology used in Apple's M series chips and Qualcomm's Snapdragon processors.",
+      "Nvidia has sold consumer laptop and desktop GPUs for decades, but those systems had to use Intel or AMD CPUs. RTX Spark changes that because it uses Nvidia's own custom CPU, developed in collaboration with MediaTek.",
+      "Nvidia shares jumped 4% on the announcement. Arm Holdings soared more than 16% in US trading, while shares in PC makers set to build laptops powered by the new chip also jumped.",
+      "Nvidia said RTX Spark is a smaller version of the chips it uses in its AI supercomputers and that the chip can run personal AI agents locally, along with popular games and productivity software such as Adobe Photoshop.",
+      "Qualcomm faces additional headwinds beyond the Nvidia announcement. The company also contends with pressure from AMD's weak revenue guidance and reports that Arm Holdings may move to cancel a key license agreement.",
+      "Despite Monday's volatility, AMD and Intel are each up sharply year to date, with AMD gaining about 130% and Intel up nearly 200%."
+    ],
+    "html": null
+  }
+}

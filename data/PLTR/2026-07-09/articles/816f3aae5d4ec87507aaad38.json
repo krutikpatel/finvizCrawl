@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/palantir-says-uk-police-contract-113826735.html",
+    "fetched_at": "2026-07-09T07:00:32.784352-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir says UK police contract wrongly blocked over perceived 'values'",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "LONDON, July 9 (Reuters) - U.S. tech firm Palantir is challenging a decision to block a contract with London police, arguing on Thursday that London mayor Sadiq Khan's office wrongly took into account the company's \"values and ethics\".\nPalantir had agreed a two-year, £50 million ($67.06 million) contract with the Metropolitan Police to use its artificial intelligence systems to automate certain tasks and for evidence analysis in criminal investigations.\nBut the mayor's office refused to approve the deal, telling the Met Police in May that the force had failed to have an open competition for the contract.\nReports also quoted a spokesperson for Khan citing concerns Palantir did not align with \"London's values\", which Palantir has criticised as \"putting politics above public safety\".\nPalantir's supply of software for the U.S. military and immigration services, plus billionaire co-founder Peter Thiel's political views, have drawn scrutiny as European governments grow increasingly wary about dependency on U.S. tech platforms.\nThe company is challenging the refusal at London's High Court, arguing the decision unlawfully took a view of Palantir's values and ethics into account, which Khan's office denies.\nPalantir's lawyer David Pannick said the Met \"desperately needed technology in order to save money\" and that the force argued the deal \"would enable them to protect frontline services\".\nThe Mayor's Office for Policing and Crime, however, said in court filings that the contract was not approved because the Met did not obtain approval for its procurement strategy and only spoke to one supplier.\nJudge Adam Constable said a trial of Palantir's case would take place in January, rejecting the company's request for an earlier hearing later this year.\nBritain is also conducting a review of a £330 million National Health Service contract with Palantir, while a parliamentary committee last month said the company had a \"clear mismatch with UK values\" and recommended using a break clause, a suggestion Palantir's British CEO Louis Mosley called \"irresponsible.\"\n($1 = 0.7456 pounds)\n(Reporting by Sam TobinEditing by Tomasz Janowski)",
+    "text_blocks": [
+      "LONDON, July 9 (Reuters) - U.S. tech firm Palantir is challenging a decision to block a contract with London police, arguing on Thursday that London mayor Sadiq Khan's office wrongly took into account the company's \"values and ethics\".",
+      "Palantir had agreed a two-year, £50 million ($67.06 million) contract with the Metropolitan Police to use its artificial intelligence systems to automate certain tasks and for evidence analysis in criminal investigations.",
+      "But the mayor's office refused to approve the deal, telling the Met Police in May that the force had failed to have an open competition for the contract.",
+      "Reports also quoted a spokesperson for Khan citing concerns Palantir did not align with \"London's values\", which Palantir has criticised as \"putting politics above public safety\".",
+      "Palantir's supply of software for the U.S. military and immigration services, plus billionaire co-founder Peter Thiel's political views, have drawn scrutiny as European governments grow increasingly wary about dependency on U.S. tech platforms.",
+      "The company is challenging the refusal at London's High Court, arguing the decision unlawfully took a view of Palantir's values and ethics into account, which Khan's office denies.",
+      "Palantir's lawyer David Pannick said the Met \"desperately needed technology in order to save money\" and that the force argued the deal \"would enable them to protect frontline services\".",
+      "The Mayor's Office for Policing and Crime, however, said in court filings that the contract was not approved because the Met did not obtain approval for its procurement strategy and only spoke to one supplier.",
+      "Judge Adam Constable said a trial of Palantir's case would take place in January, rejecting the company's request for an earlier hearing later this year.",
+      "Britain is also conducting a review of a £330 million National Health Service contract with Palantir, while a parliamentary committee last month said the company had a \"clear mismatch with UK values\" and recommended using a break clause, a suggestion Palantir's British CEO Louis Mosley called \"irresponsible.\"",
+      "($1 = 0.7456 pounds)",
+      "(Reporting by Sam TobinEditing by Tomasz Janowski)"
+    ],
+    "html": null
+  }
+}

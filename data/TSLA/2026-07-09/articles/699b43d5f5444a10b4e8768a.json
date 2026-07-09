@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/musk-wins-approval-sec-settlement-123803239.html",
+    "fetched_at": "2026-07-09T07:00:03.065013-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Musk Wins Approval for SEC Settlement",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) CEO Elon Musk won court approval for a $1.5 million SEC settlement over his delayed disclosure of Twitter stock purchases, though the judge openly questioned the deal.\nThe SEC accused Musk of waiting too long to disclose his initial Twitter share purchases in 2022, a delay regulators said saved him $150 million. Musk said the disclosure delay was inadvertent. Under the settlement, a trust in Musk's name will pay the fine to resolve the SEC's civil claims.\nDistrict Judge Sparkle Sooknanan approved the agreement but said she had significant misgivings and questioned why the SEC settled with Musk's trust instead of Musk directly. She also said the court could not reject the deal unless it failed minimum standards of fairness and reasonableness.\nthe settlement removes one legal overhang tied to Musk's $44 billion Twitter deal, but the judge's comments keep scrutiny on the SEC's handling of high-profile enforcement. Twitter was later renamed X and is now part of SpaceX (NASDAQ:SPCX).",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) CEO Elon Musk won court approval for a $1.5 million SEC settlement over his delayed disclosure of Twitter stock purchases, though the judge openly questioned the deal.",
+      "The SEC accused Musk of waiting too long to disclose his initial Twitter share purchases in 2022, a delay regulators said saved him $150 million. Musk said the disclosure delay was inadvertent. Under the settlement, a trust in Musk's name will pay the fine to resolve the SEC's civil claims.",
+      "District Judge Sparkle Sooknanan approved the agreement but said she had significant misgivings and questioned why the SEC settled with Musk's trust instead of Musk directly. She also said the court could not reject the deal unless it failed minimum standards of fairness and reasonableness.",
+      "the settlement removes one legal overhang tied to Musk's $44 billion Twitter deal, but the judge's comments keep scrutiny on the SEC's handling of high-profile enforcement. Twitter was later renamed X and is now part of SpaceX (NASDAQ:SPCX)."
+    ],
+    "html": null
+  }
+}

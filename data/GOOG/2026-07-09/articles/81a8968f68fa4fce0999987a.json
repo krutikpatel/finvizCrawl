@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/google-search-hits-time-usage-123249648.html",
+    "fetched_at": "2026-07-09T07:00:23.592489-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Search Hits All-Time Usage Record",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL) said Google Search hit an all-time usage record Tuesday after Argentina's dramatic World Cup knockout win drove a global spike in queries.\nNick Fox, head of Google's Knowledge and Information unit, said Search broke all prior usage records right after Argentina scored the winning goal. Google did not disclose specific traffic figures, but a spokesperson told CNBC the platform saw its highest queries per second immediately after the goal.\nThe surge came as fans searched for argentina vs egypt, argentina x colombia, how many world cup goals does messi have and whether it could be Lionel Messi's last World Cup. Google still controls roughly 90% of the search market, while Alphabet shares have more than doubled over the past year.\nthe record underscores how live global events still reinforce Google's central role in real-time information discovery. The next thing to watch is whether World Cup traffic helps sustain momentum in Search and advertising engagement.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL) said Google Search hit an all-time usage record Tuesday after Argentina's dramatic World Cup knockout win drove a global spike in queries.",
+      "Nick Fox, head of Google's Knowledge and Information unit, said Search broke all prior usage records right after Argentina scored the winning goal. Google did not disclose specific traffic figures, but a spokesperson told CNBC the platform saw its highest queries per second immediately after the goal.",
+      "The surge came as fans searched for argentina vs egypt, argentina x colombia, how many world cup goals does messi have and whether it could be Lionel Messi's last World Cup. Google still controls roughly 90% of the search market, while Alphabet shares have more than doubled over the past year.",
+      "the record underscores how live global events still reinforce Google's central role in real-time information discovery. The next thing to watch is whether World Cup traffic helps sustain momentum in Search and advertising engagement."
+    ],
+    "html": null
+  }
+}

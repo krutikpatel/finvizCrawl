@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-shares-rise-nemotron-3-122951667.html",
+    "fetched_at": "2026-07-09T07:00:35.534400-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Shares Rise as Nemotron 3 Ultra Challenges Closed AI Models",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) gained 4% Wednesday as new benchmark results suggested its open-source Nemotron 3 Ultra AI model could challenge closed models on both cost and enterprise performance.\nNvidia said LangChain's Deep Agents harness completed more tasks at higher throughput using Nemotron 3 Ultra while delivering inference costs per run that were 10 times lower than some leading closed models. On LangChain's Deep Agents benchmark, Nvidia said the model also reached business-task parity with the highest-scoring models.\nLangChain CEO Harrison Chase said enterprises can achieve strong performance with an open stack while retaining control over the agent systems they build. Nvidia also pointed to growing enterprise adoption, with Abridge, Amdocs and Box (NYSE:BOX) embedding specialized agents into their platforms, while EY expands its use of Nvidia capabilities around NemoClaw blueprints.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) gained 4% Wednesday as new benchmark results suggested its open-source Nemotron 3 Ultra AI model could challenge closed models on both cost and enterprise performance.",
+      "Nvidia said LangChain's Deep Agents harness completed more tasks at higher throughput using Nemotron 3 Ultra while delivering inference costs per run that were 10 times lower than some leading closed models. On LangChain's Deep Agents benchmark, Nvidia said the model also reached business-task parity with the highest-scoring models.",
+      "LangChain CEO Harrison Chase said enterprises can achieve strong performance with an open stack while retaining control over the agent systems they build. Nvidia also pointed to growing enterprise adoption, with Abridge, Amdocs and Box (NYSE:BOX) embedding specialized agents into their platforms, while EY expands its use of Nvidia capabilities around NemoClaw blueprints."
+    ],
+    "html": null
+  }
+}

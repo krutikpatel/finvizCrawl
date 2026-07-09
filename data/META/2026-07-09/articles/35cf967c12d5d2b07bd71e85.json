@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/meta-breaks-ground-c-13-125552346.html",
+    "fetched_at": "2026-07-09T07:00:10.438070-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Breaks Ground on a C$13 Billion Data Center",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) rose 0.34% in premarket after the company broke ground on its first Canadian data center in Sturgeon County, Alberta, a 1 GW facility scalable to 1.8 GW representing a total investment of C$13 billion ($9.17 billion). The project is Meta's 33rd data center globally and is optimized for AI workloads. Construction will support approximately 3,000 workers at peak and more than 300 permanent operational jobs. Meta will also invest C$60 million in local road and water infrastructure.\nThe facility will consume electricity equivalent to roughly 800,000 homes. Meta has a long-term tolling agreement with Pembina Pipeline (PPL) for power from the Greenlight Electricity Centre, a new natural gas-fired plant in Sturgeon County expected to be operational in late 2030. Until then, Capital Power (CPX) will supply 250 megawatts from its existing natural gas fleet. The project will require approximately 150 million cubic feet of natural gas per day. Meta said all electricity use will be matched with clean and renewable energy. The data center will use a closed-loop liquid cooling system with no operational water consumption.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) rose 0.34% in premarket after the company broke ground on its first Canadian data center in Sturgeon County, Alberta, a 1 GW facility scalable to 1.8 GW representing a total investment of C$13 billion ($9.17 billion). The project is Meta's 33rd data center globally and is optimized for AI workloads. Construction will support approximately 3,000 workers at peak and more than 300 permanent operational jobs. Meta will also invest C$60 million in local road and water infrastructure.",
+      "The facility will consume electricity equivalent to roughly 800,000 homes. Meta has a long-term tolling agreement with Pembina Pipeline (PPL) for power from the Greenlight Electricity Centre, a new natural gas-fired plant in Sturgeon County expected to be operational in late 2030. Until then, Capital Power (CPX) will supply 250 megawatts from its existing natural gas fleet. The project will require approximately 150 million cubic feet of natural gas per day. Meta said all electricity use will be matched with clean and renewable energy. The data center will use a closed-loop liquid cooling system with no operational water consumption."
+    ],
+    "html": null
+  }
+}

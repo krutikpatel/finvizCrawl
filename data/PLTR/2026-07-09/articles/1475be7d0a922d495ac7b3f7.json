@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-partnership-fails-save-rackspace-123915829.html",
+    "fetched_at": "2026-07-09T07:00:32.860088-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir partnership fails to save Rackspace stock after brutal guidance slash",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- A major AI team-up wasn't enough to cushion the blow for Rackspace Technology (NASDAQ:RXT). Shares plummeted over 10% Thursday after the cloud operator severely dialed back its fiscal 2026 revenue projections, completely overshadowing a high-profile strategic partnership with Palantir Technologies (NASDAQ:PLTR) announced earlier in the day.\nThe San Antonio-based enterprise AI infrastructure provider aggressively trimmed its fiscal 2026 revenue guidance to a range of $2.45 billion to $2.55 billion, down from its previous forecast of $2.6 billion to $2.7 billion. Profit outlooks took a parallel hit, with adjusted EBITDA expectations lowered to $285 million–$295 million, down from the prior $305 million–$315 million range.\nManagement attributed the steep $150 million top-line haircut to a deliberate retreat from low-margin businesses, coupled with broader industry shifts:\n-\nPublic Cloud Hemorrhage: The segment absorbed a heavy $125 million guidance cut. Rackspace is walking away from low-margin resale operations, a headwind amplified as hyperscalers increasingly bypass middlemen to migrate customers directly to internal contracts.\n-\nPrivate Cloud Retrenchment: Revenue expectations were shaved by $25 million as the company exits low-margin colocation and basic hosting services.\n-\nMacro Headwinds: Near-term delivery schedules are also feeling the squeeze from supply chain timing issues and geopolitical friction.\nThe immediate numbers only added to Wall Street's anxiety. For the second quarter of fiscal 2026, Rackspace expects revenue to land between $641 million and $649 million—falling short of the $657 million consensus estimate. On the bottom line, it anticipates an adjusted loss per share of $0.08 to $0.11, compared to the estimated $0.11 loss per share.\nPreliminary Q2 numbers break down as follows:\nThe bitter guidance pill spoiled what otherwise would have been a celebratory day. Rackspace announced a definitive pact to deploy Palantir's flagship Foundry and AIP platforms into mid-market, regulated, and sovereign environments. The technical integration is moving at a sprint: Rackspace has already secured roughly 400 Palantir certifications and closed its first joint deployment in under two months.\nRelated articles\nPalantir partnership fails to save Rackspace stock after brutal guidance slash\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- A major AI team-up wasn't enough to cushion the blow for Rackspace Technology (NASDAQ:RXT). Shares plummeted over 10% Thursday after the cloud operator severely dialed back its fiscal 2026 revenue projections, completely overshadowing a high-profile strategic partnership with Palantir Technologies (NASDAQ:PLTR) announced earlier in the day.",
+      "The San Antonio-based enterprise AI infrastructure provider aggressively trimmed its fiscal 2026 revenue guidance to a range of $2.45 billion to $2.55 billion, down from its previous forecast of $2.6 billion to $2.7 billion. Profit outlooks took a parallel hit, with adjusted EBITDA expectations lowered to $285 million–$295 million, down from the prior $305 million–$315 million range.",
+      "Management attributed the steep $150 million top-line haircut to a deliberate retreat from low-margin businesses, coupled with broader industry shifts:",
+      "-",
+      "Public Cloud Hemorrhage: The segment absorbed a heavy $125 million guidance cut. Rackspace is walking away from low-margin resale operations, a headwind amplified as hyperscalers increasingly bypass middlemen to migrate customers directly to internal contracts.",
+      "-",
+      "Private Cloud Retrenchment: Revenue expectations were shaved by $25 million as the company exits low-margin colocation and basic hosting services.",
+      "-",
+      "Macro Headwinds: Near-term delivery schedules are also feeling the squeeze from supply chain timing issues and geopolitical friction.",
+      "The immediate numbers only added to Wall Street's anxiety. For the second quarter of fiscal 2026, Rackspace expects revenue to land between $641 million and $649 million—falling short of the $657 million consensus estimate. On the bottom line, it anticipates an adjusted loss per share of $0.08 to $0.11, compared to the estimated $0.11 loss per share.",
+      "Preliminary Q2 numbers break down as follows:",
+      "The bitter guidance pill spoiled what otherwise would have been a celebratory day. Rackspace announced a definitive pact to deploy Palantir's flagship Foundry and AIP platforms into mid-market, regulated, and sovereign environments. The technical integration is moving at a sprint: Rackspace has already secured roughly 400 Palantir certifications and closed its first joint deployment in under two months.",
+      "Related articles",
+      "Palantir partnership fails to save Rackspace stock after brutal guidance slash",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

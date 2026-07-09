@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-earnings-season-test-c54355f5?mod=bar_FV",
+    "fetched_at": "2026-07-09T07:00:06.967481-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Stock Market Faces an Earnings Test It May Not Pass<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Stock Market Faces an Earnings Test It May Not Pass\nBaseball legend Tommy Lasorda, the former Los Angeles Dodgers manager who won two World Series, didn’t have much time for the idea of “pressure” in professional sports.\nBaseball legend Tommy Lasorda, the former Los Angeles Dodgers manager who won two World Series, didn’t have much time for the idea of “pressure” in professional sports.",
+    "text_blocks": [
+      "The Stock Market Faces an Earnings Test It May Not Pass",
+      "Baseball legend Tommy Lasorda, the former Los Angeles Dodgers manager who won two World Series, didn’t have much time for the idea of “pressure” in professional sports.",
+      "Baseball legend Tommy Lasorda, the former Los Angeles Dodgers manager who won two World Series, didn’t have much time for the idea of “pressure” in professional sports."
+    ],
+    "html": null
+  }
+}

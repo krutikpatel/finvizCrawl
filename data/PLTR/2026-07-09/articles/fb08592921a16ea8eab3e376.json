@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-09-2026/card/software-stocks-set-for-rough-day-d2MWbUUSPsXMorFwuW8C?mod=wsj_FV",
+    "fetched_at": "2026-07-09T07:00:32.457224-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Salesforce Downgrade Sparks Slide in Software Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 16 min ago\nSalesforce Downgrade Sparks Slide in Software Stocks\nShares in software companies are struggling after a downgrade of Software-as-a-Service giant Salesforce.\nKeyBanc analysts led by Jackson Ader downgraded their recommendation from Overweight to Sector Weight and wrote:\n\"We attend more Salesforce partner and customer events than any other company in our coverage, and feedback from those customers has been consistent in two ways: 1) customers' data is not in order to do meaningful AI work; and 2) Agentforce, as a product, just isn't there.\"",
+    "text_blocks": [
+      "LIVE",
+      "Updated 16 min ago",
+      "Salesforce Downgrade Sparks Slide in Software Stocks",
+      "Shares in software companies are struggling after a downgrade of Software-as-a-Service giant Salesforce.",
+      "KeyBanc analysts led by Jackson Ader downgraded their recommendation from Overweight to Sector Weight and wrote:",
+      "\"We attend more Salesforce partner and customer events than any other company in our coverage, and feedback from those customers has been consistent in two ways: 1) customers' data is not in order to do meaningful AI work; and 2) Agentforce, as a product, just isn't there.\""
+    ],
+    "html": null
+  }
+}
