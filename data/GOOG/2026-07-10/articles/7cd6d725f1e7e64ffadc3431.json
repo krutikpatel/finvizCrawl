@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/applovins-ai-ad-tools-working-123822326.html",
+    "fetched_at": "2026-07-10T07:00:24.102811-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AppLovin's AI Ad Tools Are Working",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAppLovin (NASDAQ:APP) rose 1.17% in premarket after a Jefferies survey of 30 e-commerce advertisers showed the company recorded the largest share gain among advertising networks in 2026, rising 169 basis points to 11% of total spend between Q4 2025 and full year 2026. AppLovin maintained a top-three position for both budget share and return on ad spend. TikTok was the second-largest gainer, rising 147 basis points to 10%. Meta (NASDAQ:META) and Alphabet's (NASDAQ:GOOGL) Google lost share, though Jefferies attributed the declines to advertiser diversification rather than budget cuts on those platforms.\nThe Q2 survey included more new AppLovin users than the Q1 version, with 23% of respondents having started using the platform in Q4 2025, up from 7% in the prior survey, and those advertisers increased spending throughout the year. Half of respondents tested AppLovin's generative AI end cards and AI video features, with six reporting ROAS improvements from the video tool and four from AI end cards.\nSurveyed advertisers raised their full-year DTC ad spend growth expectation to 15% year-on-year from 8% in the Q1 survey, with Q2 actual growth coming in at 12%. Seventy-three percent reported new customer revenue gains from prospecting campaigns, up from 60% in Q1.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AppLovin (NASDAQ:APP) rose 1.17% in premarket after a Jefferies survey of 30 e-commerce advertisers showed the company recorded the largest share gain among advertising networks in 2026, rising 169 basis points to 11% of total spend between Q4 2025 and full year 2026. AppLovin maintained a top-three position for both budget share and return on ad spend. TikTok was the second-largest gainer, rising 147 basis points to 10%. Meta (NASDAQ:META) and Alphabet's (NASDAQ:GOOGL) Google lost share, though Jefferies attributed the declines to advertiser diversification rather than budget cuts on those platforms.",
+      "The Q2 survey included more new AppLovin users than the Q1 version, with 23% of respondents having started using the platform in Q4 2025, up from 7% in the prior survey, and those advertisers increased spending throughout the year. Half of respondents tested AppLovin's generative AI end cards and AI video features, with six reporting ROAS improvements from the video tool and four from AI end cards.",
+      "Surveyed advertisers raised their full-year DTC ad spend growth expectation to 15% year-on-year from 8% in the Q1 survey, with Q2 actual growth coming in at 12%. Seventy-three percent reported new customer revenue gains from prospecting campaigns, up from 60% in Q1."
+    ],
+    "html": null
+  }
+}

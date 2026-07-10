@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e0a4c4c4-31ac-363a-9e8f-3ef6894ea132/palo-alto-networks-ceo-nikesh.html",
+    "fetched_at": "2026-07-10T07:00:41.847422-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks CEO Nikesh Arora: AI token costs must fall 90%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Token prices will need to come down by as much as 90% before large-scale enterprise AI deployment becomes viable, Palo Alto Networks CEO Nikesh Arora said Thursday, describing today's pricing environment as a practical obstacle for companies trying to roll out the technology.\nHis timeline for relief was specific: within a year, costs should shrink to roughly a fifth of where they stand today, and by the year after that, to just a tenth. The remarks came after OpenAI CEO Sam Altman announced that the company's newest model delivers 54% better token efficiency on agentic coding tasks — a figure Arora welcomed but treated as a floor rather than a ceiling. \"I think 54% is a good start,\" he said. \"I think we probably need another turn at it.\"\nEven so, Arora stopped short of pessimism about where things are headed. \"The demand continues to be infinite, and as long as you have an infinite demand curve that you're facing, I think all these things will rationalize over time,\" Arora said. He suggested that growing efficiency in the underlying models would eventually take pressure off corporate AI spending.\nHis concerns put him in company with a widening circle of corporate leaders who have grown vocal about what they see as prohibitive model pricing — costs high enough, in their view, to keep AI from moving beyond pilots into genuine enterprise-wide use. Palantir Technologies CEO Alex Karp made similar noise last week, going after the per-token approach that both Anthropic and OpenAI rely on and pointing to open-weight models as a more workable path for enterprise customers. \"Something has gone completely wrong,\" he told CNBC, while noting he was not singling out any particular vendor.\nThe numbers behind the frustration are striking and reflect a broader paradox in enterprise AI: The Next Web reports that headline per-token rates have dropped 98%, yet total enterprise AI spending has tripled over the same period, because agentic applications chain together model calls in ways that multiply consumption far faster than unit prices fall.\nThe strain is already changing corporate behavior. Companies including Uber and Microsoft have capped or restricted employee access to expensive AI coding tools after budgets blew past projections. Some firms have moved toward cheaper open-weight models, including Chinese alternatives that are closing the gap with American labs, according to CNBC.\nNone of this friction has slowed the broader buildout. SpaceX tapped debt markets for $25 billion last month, and Amazon followed this week with a $25 billion bond raise of its own, with both moves tied to the surging capital demands of AI infrastructure, according to CNBC.",
+    "text_blocks": [
+      "Token prices will need to come down by as much as 90% before large-scale enterprise AI deployment becomes viable, Palo Alto Networks CEO Nikesh Arora said Thursday, describing today's pricing environment as a practical obstacle for companies trying to roll out the technology.",
+      "His timeline for relief was specific: within a year, costs should shrink to roughly a fifth of where they stand today, and by the year after that, to just a tenth. The remarks came after OpenAI CEO Sam Altman announced that the company's newest model delivers 54% better token efficiency on agentic coding tasks — a figure Arora welcomed but treated as a floor rather than a ceiling. \"I think 54% is a good start,\" he said. \"I think we probably need another turn at it.\"",
+      "Even so, Arora stopped short of pessimism about where things are headed. \"The demand continues to be infinite, and as long as you have an infinite demand curve that you're facing, I think all these things will rationalize over time,\" Arora said. He suggested that growing efficiency in the underlying models would eventually take pressure off corporate AI spending.",
+      "His concerns put him in company with a widening circle of corporate leaders who have grown vocal about what they see as prohibitive model pricing — costs high enough, in their view, to keep AI from moving beyond pilots into genuine enterprise-wide use. Palantir Technologies CEO Alex Karp made similar noise last week, going after the per-token approach that both Anthropic and OpenAI rely on and pointing to open-weight models as a more workable path for enterprise customers. \"Something has gone completely wrong,\" he told CNBC, while noting he was not singling out any particular vendor.",
+      "The numbers behind the frustration are striking and reflect a broader paradox in enterprise AI: The Next Web reports that headline per-token rates have dropped 98%, yet total enterprise AI spending has tripled over the same period, because agentic applications chain together model calls in ways that multiply consumption far faster than unit prices fall.",
+      "The strain is already changing corporate behavior. Companies including Uber and Microsoft have capped or restricted employee access to expensive AI coding tools after budgets blew past projections. Some firms have moved toward cheaper open-weight models, including Chinese alternatives that are closing the gap with American labs, according to CNBC.",
+      "None of this friction has slowed the broader buildout. SpaceX tapped debt markets for $25 billion last month, and Amazon followed this week with a $25 billion bond raise of its own, with both moves tied to the surging capital demands of AI infrastructure, according to CNBC."
+    ],
+    "html": null
+  }
+}

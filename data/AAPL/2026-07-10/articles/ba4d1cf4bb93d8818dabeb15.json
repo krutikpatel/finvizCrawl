@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-23-downside-call-121138539.html",
+    "fetched_at": "2026-07-10T07:00:06.877968-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Faces 23% Downside Call",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (AAPL, Financials) is facing a more cautious Wall Street view after Hedgeye added the iPhone maker as a new short idea, pointing to a possible 23% decline in the stock.\nThe concern is not that Apple's business has suddenly weakened. Instead, Hedgeye believes investors may already be expecting too much from future growth.\nAnalyst Felix Wang said revenue expectations for fiscal 2026 and 2027 have moved sharply higher as investors embraced the possibility of an iPhone upgrade cycle. That advantage may now be largely reflected in analyst forecasts.\nChina is another concern. Apple continues to gain market share, but Hedgeye said the pace did not accelerate during the June quarter. The firm also questioned expectations for double-digit Greater China growth in fiscal 2027 and 2028 as competition from Huawei remains a risk.\nApple shares have gained about 15% this year and trade at roughly 34 times forward earnings.\nFor investors, the next test is whether iPhone demand can remain strong enough to support Apple's premium valuation and current growth expectations.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (AAPL, Financials) is facing a more cautious Wall Street view after Hedgeye added the iPhone maker as a new short idea, pointing to a possible 23% decline in the stock.",
+      "The concern is not that Apple's business has suddenly weakened. Instead, Hedgeye believes investors may already be expecting too much from future growth.",
+      "Analyst Felix Wang said revenue expectations for fiscal 2026 and 2027 have moved sharply higher as investors embraced the possibility of an iPhone upgrade cycle. That advantage may now be largely reflected in analyst forecasts.",
+      "China is another concern. Apple continues to gain market share, but Hedgeye said the pace did not accelerate during the June quarter. The firm also questioned expectations for double-digit Greater China growth in fiscal 2027 and 2028 as competition from Huawei remains a risk.",
+      "Apple shares have gained about 15% this year and trade at roughly 34 times forward earnings.",
+      "For investors, the next test is whether iPhone demand can remain strong enough to support Apple's premium valuation and current growth expectations."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/hbm-prices-could-double-2027-131159931.html",
+    "fetched_at": "2026-07-10T07:00:13.924000-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HBM prices could double by 2027 on surging AI demand, DigiTimes reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- High-bandwidth memory (HBM) pricing is on track to more than double by 2027, driven by a perfect storm of soaring artificial intelligence demand and structural capacity constraints. According to a DigiTimes report on Friday, industry sources indicate that next-generation HBM4 prices could surge to $4–$5 per gigabit or higher, up from approximately $2 in the second half of 2026.\nThe looming price shock reflects the extreme manufacturing complexities of HBM4, which requires a production cycle of four to six months alongside significantly lower initial yields. Furthermore, HBM production consumes roughly three times the wafer capacity of standard DDR5 DRAM, severely limiting the total volume memory makers can squeeze out of existing facilities.\nCompounding the squeeze, heavyweights like Samsung Electronics Co Ltd (KS:005930), SK Hynix Inc (KS:000660), and Micron Technology Inc (NASDAQ:MU) are locking up global supply via three- to five-year long-term agreements with tier-one AI clients. Between these dedicated contracts and surging HBM allocation, DigiTimes posited that roughly half of the world's total DRAM capacity will be entirely off the table for smaller buyers by 2027.\nWhile Nvidia's upcoming Rubin architecture aggressively accelerates the HBM4 pipeline, memory giants are also navigating an unexpected economic trade-off with standard server memory. Booming DDR5 profit margins, which have scaled past 80% for some suppliers this year, are forcing chipmakers to demand premium HBM pricing just to justify shifting lines away from conventional DRAM.\nOn Wall Street, this structural tight-supply narrative is expected to continue to act as a powerful catalyst for key memory equities as SK Hynix makes its historic U.S. trading debut today via an American Depositary Receipt (ADR) on the Nasdaq. The record-breaking $26.5 billion dollar offering, which commands a rare premium over its Seoul shares, signals a strong continuation of the AI memory mega-trade that has already vaulted Micron over 700% higher, flash supplier SanDisk over 3,800%, SK Hynix over 630%, and market heavyweight Samsung over 360%.\nDespite recent market jitters that tech giants might pare back infrastructure spending, supply chain channels cited by DigiTimes indicate that AI hardware remains fundamentally undersupplied heading into 2027. Consequently, suppliers are expected to maintain absolute pricing leverage during contract negotiations in late 2026, leaving uncontracted consumer electronics makers vulnerable to severe supply shortfalls.\nRelated articles\nHBM prices could double by 2027 on surging AI demand, DigiTimes reports\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- High-bandwidth memory (HBM) pricing is on track to more than double by 2027, driven by a perfect storm of soaring artificial intelligence demand and structural capacity constraints. According to a DigiTimes report on Friday, industry sources indicate that next-generation HBM4 prices could surge to $4–$5 per gigabit or higher, up from approximately $2 in the second half of 2026.",
+      "The looming price shock reflects the extreme manufacturing complexities of HBM4, which requires a production cycle of four to six months alongside significantly lower initial yields. Furthermore, HBM production consumes roughly three times the wafer capacity of standard DDR5 DRAM, severely limiting the total volume memory makers can squeeze out of existing facilities.",
+      "Compounding the squeeze, heavyweights like Samsung Electronics Co Ltd (KS:005930), SK Hynix Inc (KS:000660), and Micron Technology Inc (NASDAQ:MU) are locking up global supply via three- to five-year long-term agreements with tier-one AI clients. Between these dedicated contracts and surging HBM allocation, DigiTimes posited that roughly half of the world's total DRAM capacity will be entirely off the table for smaller buyers by 2027.",
+      "While Nvidia's upcoming Rubin architecture aggressively accelerates the HBM4 pipeline, memory giants are also navigating an unexpected economic trade-off with standard server memory. Booming DDR5 profit margins, which have scaled past 80% for some suppliers this year, are forcing chipmakers to demand premium HBM pricing just to justify shifting lines away from conventional DRAM.",
+      "On Wall Street, this structural tight-supply narrative is expected to continue to act as a powerful catalyst for key memory equities as SK Hynix makes its historic U.S. trading debut today via an American Depositary Receipt (ADR) on the Nasdaq. The record-breaking $26.5 billion dollar offering, which commands a rare premium over its Seoul shares, signals a strong continuation of the AI memory mega-trade that has already vaulted Micron over 700% higher, flash supplier SanDisk over 3,800%, SK Hynix over 630%, and market heavyweight Samsung over 360%.",
+      "Despite recent market jitters that tech giants might pare back infrastructure spending, supply chain channels cited by DigiTimes indicate that AI hardware remains fundamentally undersupplied heading into 2027. Consequently, suppliers are expected to maintain absolute pricing leverage during contract negotiations in late 2026, leaving uncontracted consumer electronics makers vulnerable to severe supply shortfalls.",
+      "Related articles",
+      "HBM prices could double by 2027 on surging AI demand, DigiTimes reports",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

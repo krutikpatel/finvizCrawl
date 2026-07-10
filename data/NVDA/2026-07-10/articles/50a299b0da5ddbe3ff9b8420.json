@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/nvidia-supplier-king-yuan-electronics-122806790.html",
+    "fetched_at": "2026-07-10T07:00:34.316290-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia supplier King Yuan Electronics to invest up to $1.4 billion in US facility",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Wen-Yee Lee\nTAIPEI, July 10 (Reuters) - Taiwanese chip-testing company King Yuan Electronics (KYEC) plans to invest up to $1.4 billion to establish a facility in the United States, the supplier to chipmaker Nvidia said on Friday.\nKing Yuan Electronics said the investment is intended to support operational growth and strengthen its position in the global supply chain.\nTaiwanese semiconductor and electronics companies have been expanding manufacturing in the United States since TSMC's multibillion-dollar investment in Arizona. Among them, Foxconn and Wistron are building AI server manufacturing capacity in Texas for Nvidia.\nKing Yuan Electronics did not say which customers the planned U.S. facility would serve and did not disclose its location or provide a construction timetable.\n(Reporting by Wen-Yee LeeEditing by David Goodman)",
+    "text_blocks": [
+      "By Wen-Yee Lee",
+      "TAIPEI, July 10 (Reuters) - Taiwanese chip-testing company King Yuan Electronics (KYEC) plans to invest up to $1.4 billion to establish a facility in the United States, the supplier to chipmaker Nvidia said on Friday.",
+      "King Yuan Electronics said the investment is intended to support operational growth and strengthen its position in the global supply chain.",
+      "Taiwanese semiconductor and electronics companies have been expanding manufacturing in the United States since TSMC's multibillion-dollar investment in Arizona. Among them, Foxconn and Wistron are building AI server manufacturing capacity in Texas for Nvidia.",
+      "King Yuan Electronics did not say which customers the planned U.S. facility would serve and did not disclose its location or provide a construction timetable.",
+      "(Reporting by Wen-Yee LeeEditing by David Goodman)"
+    ],
+    "html": null
+  }
+}

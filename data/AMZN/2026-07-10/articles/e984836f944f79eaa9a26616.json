@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-amazons-logistics-123340929.html",
+    "fetched_at": "2026-07-10T07:00:36.751548-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morgan Stanley Warns Amazon's Logistics Push Threatens UPS and FedEx",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nUnited Parcel Service (NYSE:UPS), a global package delivery company, and FedEx (NYSE:FDX), a major parcel transportation provider, faced renewed investor concern after Morgan Stanley warned that Amazon.com (NASDAQ:AMZN), an e-commerce company expanding its logistics services, is offering third-party customers delivery options that are both inexpensive and increasingly fast. Morgan Stanley analyst Ravi Shanker said Amazon does not yet offer the overnight delivery services that help distinguish traditional couriers, but suggested that such an option may not be far away. The warning adds to concerns that Amazon's growing delivery network could place further pressure on the two legacy shipping companies.\nUPS and FedEx have already faced challenges in recent months as Amazon has expanded logistics services that compete more directly with established carriers. Amazon's scale appears to be supporting parcel prices that are already at or below those charged by UPS and FedEx, according to a report from trade publication Supply Chain Dive. The report also indicated that Amazon may be pricing below the U.S. Postal Service, which has long been viewed as the lowest pricing benchmark in the parcel delivery market.\nInvestors may view Amazon's expansion as a broader threat because the competition could eventually move beyond standard e-commerce parcels into more profitable specialized areas, including healthcare delivery. That possibility may increase concern about future pricing pressure, parcel volumes, and market share at UPS and FedEx, although the source did not quantify the potential financial impact. Shares of both delivery companies erased earlier gains following the analyst warning and were little changed at 2:33 p.m. in New York.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "United Parcel Service (NYSE:UPS), a global package delivery company, and FedEx (NYSE:FDX), a major parcel transportation provider, faced renewed investor concern after Morgan Stanley warned that Amazon.com (NASDAQ:AMZN), an e-commerce company expanding its logistics services, is offering third-party customers delivery options that are both inexpensive and increasingly fast. Morgan Stanley analyst Ravi Shanker said Amazon does not yet offer the overnight delivery services that help distinguish traditional couriers, but suggested that such an option may not be far away. The warning adds to concerns that Amazon's growing delivery network could place further pressure on the two legacy shipping companies.",
+      "UPS and FedEx have already faced challenges in recent months as Amazon has expanded logistics services that compete more directly with established carriers. Amazon's scale appears to be supporting parcel prices that are already at or below those charged by UPS and FedEx, according to a report from trade publication Supply Chain Dive. The report also indicated that Amazon may be pricing below the U.S. Postal Service, which has long been viewed as the lowest pricing benchmark in the parcel delivery market.",
+      "Investors may view Amazon's expansion as a broader threat because the competition could eventually move beyond standard e-commerce parcels into more profitable specialized areas, including healthcare delivery. That possibility may increase concern about future pricing pressure, parcel volumes, and market share at UPS and FedEx, although the source did not quantify the potential financial impact. Shares of both delivery companies erased earlier gains following the analyst warning and were little changed at 2:33 p.m. in New York."
+    ],
+    "html": null
+  }
+}

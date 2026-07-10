@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-just-picked-favorite-124724659.html",
+    "fetched_at": "2026-07-10T07:00:13.883411-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bank of America Just Picked Its Favorite AI Chip Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) drew renewed support from Bank of America, which said the memory chipmaker offers a stronger investment case than Qualcomm (NASDAQ:QCOM) as artificial intelligence reshapes the semiconductor industry.\nThe brokerage said memory now represents roughly 35% to 40% of cloud AI capital spending, well above historical levels. Even so, Bank of America said memory stocks continue to trade at relatively modest valuations, reflecting investor concerns about pricing, future capacity additions and customer concentration.\nBank of America argued the market may be underestimating the industry's shift toward longer-term supply agreements and more stable pricing. The firm said that transition could support higher valuation multiples over time and maintained its Buy rating on Micron with a $1,550 price target.\nBank of America maintained its Underperform rating on Qualcomm despite making some positive strides in its automotive, data center and AI arms. The uncertainty about whether Qualcomm's custom silicon efforts will be successful, and the impact of business from China and future patent licensing deals with Apple (NASDAQ:AAPL), fall to a lesser degree, the firm said, though they may impact the value proposition.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) drew renewed support from Bank of America, which said the memory chipmaker offers a stronger investment case than Qualcomm (NASDAQ:QCOM) as artificial intelligence reshapes the semiconductor industry.",
+      "The brokerage said memory now represents roughly 35% to 40% of cloud AI capital spending, well above historical levels. Even so, Bank of America said memory stocks continue to trade at relatively modest valuations, reflecting investor concerns about pricing, future capacity additions and customer concentration.",
+      "Bank of America argued the market may be underestimating the industry's shift toward longer-term supply agreements and more stable pricing. The firm said that transition could support higher valuation multiples over time and maintained its Buy rating on Micron with a $1,550 price target.",
+      "Bank of America maintained its Underperform rating on Qualcomm despite making some positive strides in its automotive, data center and AI arms. The uncertainty about whether Qualcomm's custom silicon efforts will be successful, and the impact of business from China and future patent licensing deals with Apple (NASDAQ:AAPL), fall to a lesser degree, the firm said, though they may impact the value proposition."
+    ],
+    "html": null
+  }
+}

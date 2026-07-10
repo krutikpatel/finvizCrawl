@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-weighs-renting-ai-compute-125940095.html",
+    "fetched_at": "2026-07-10T07:00:09.647939-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Weighs Renting AI Compute as Cloud Business Takes Shape",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META), the technology company developing artificial intelligence products and infrastructure, is considering whether parts of its computing network could generate more value by being rented to outside customers. Chief Executive Officer Mark Zuckerberg said demand for AI computing power is so strong that some external offers may be more attractive than using the capacity exclusively for Meta's internal projects. However, Zuckerberg emphasized that Meta has not necessarily built more infrastructure than it needs, noting that the company is currently using all of its available computing power and still sees substantial internal demand. Investors may view the potential cloud expansion as an opportunity for Meta to generate direct revenue from the data centers, chips, and computing partnerships supporting its AI operations.\nMeta is developing several possible cloud offerings, including a service that would allow developers to access AI models running on the company's existing infrastructure. The structure could resemble Bedrock, a service offered by Amazon Web Services, Amazon's cloud-computing business, with Meta operating the data centers and chips while charging developers to use hosted models, including its own Muse Spark models. Zuckerberg did not confirm that Meta would host competing AI models, but said the possibility could make sense to evaluate. Meta is also considering selling access to raw computing capacity in a model similar to CoreWeave, a cloud-computing company, while Zuckerberg said long-term demand from customers could provide a backstop if Meta eventually has infrastructure it does not require for its own operations.\nZuckerberg also pointed to the strategy used by SpaceX (NASDAQ:SPCX), Elon Musk's space company, which is renting access to its Memphis data center to Anthropic, an artificial intelligence developer, and has reached a separate agreement with Google, a technology company offering computing services. He said short-term computing agreements carrying large premiums could be worth considering as Meta receives similar offers. Meta has already moved toward another form of paid AI access by announcing plans to offer Muse Spark 1.1 through an application programming interface, with developers charged according to the number of tokens they use. This approach could create an additional revenue channel for Meta, although Zuckerberg said the company continues to have significant internal uses for its computing capacity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META), the technology company developing artificial intelligence products and infrastructure, is considering whether parts of its computing network could generate more value by being rented to outside customers. Chief Executive Officer Mark Zuckerberg said demand for AI computing power is so strong that some external offers may be more attractive than using the capacity exclusively for Meta's internal projects. However, Zuckerberg emphasized that Meta has not necessarily built more infrastructure than it needs, noting that the company is currently using all of its available computing power and still sees substantial internal demand. Investors may view the potential cloud expansion as an opportunity for Meta to generate direct revenue from the data centers, chips, and computing partnerships supporting its AI operations.",
+      "Meta is developing several possible cloud offerings, including a service that would allow developers to access AI models running on the company's existing infrastructure. The structure could resemble Bedrock, a service offered by Amazon Web Services, Amazon's cloud-computing business, with Meta operating the data centers and chips while charging developers to use hosted models, including its own Muse Spark models. Zuckerberg did not confirm that Meta would host competing AI models, but said the possibility could make sense to evaluate. Meta is also considering selling access to raw computing capacity in a model similar to CoreWeave, a cloud-computing company, while Zuckerberg said long-term demand from customers could provide a backstop if Meta eventually has infrastructure it does not require for its own operations.",
+      "Zuckerberg also pointed to the strategy used by SpaceX (NASDAQ:SPCX), Elon Musk's space company, which is renting access to its Memphis data center to Anthropic, an artificial intelligence developer, and has reached a separate agreement with Google, a technology company offering computing services. He said short-term computing agreements carrying large premiums could be worth considering as Meta receives similar offers. Meta has already moved toward another form of paid AI access by announcing plans to offer Muse Spark 1.1 through an application programming interface, with developers charged according to the number of tokens they use. This approach could create an additional revenue channel for Meta, although Zuckerberg said the company continues to have significant internal uses for its computing capacity."
+    ],
+    "html": null
+  }
+}

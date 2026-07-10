@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/70a1de44-8a2c-3db2-82cc-b5fc6cb35140/wall-street-set-for-subdued.html",
+    "fetched_at": "2026-07-10T07:00:47.512056-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street set for subdued start as chip stocks slip as SK Hynix lands on the Nasdaq",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Ahead of the bell\nExpect a torpid start to the final trading day of the week. S&P 500 futures were flat on Friday, holding on to a week that has gone the index's way despite a wobble in semiconductors ahead of the opening bell.\nNasdaq 100 futures slipped 0.2%, while Dow Jones Industrial Average futures added 111 points, or 0.2%.\nThe S&P 500 is heading for a weekly gain of 0.8% and the Nasdaq Composite for 1.5%, though the Dow is on course to end the period down 0.8%.\nChipmakers were the soft spot, with traders eyeing the US debut of South Korea's SK Hynix, which is pricing its American depositary receipts at $149 each.\nThe worry is that the memory group, up sharply this year on demand for its chips, will pull investor money away from domestic names.\nMicron Technology, Marvell Technology and Lam Research each shed around 1% before the open, while Intel dropped 2%.\nNvidia, Broadcom and AMD also traded lower, dragging the iShares Semiconductor ETF down 1.1%.\nThursday's rally was helped by cooling oil prices after President Donald Trump said Iran had called to make a deal.\nQatar and Pakistan are working to bring Washington and Tehran back to the table, with technical talks continuing despite air attacks from both sides.",
+    "text_blocks": [
+      "Ahead of the bell",
+      "Expect a torpid start to the final trading day of the week. S&P 500 futures were flat on Friday, holding on to a week that has gone the index's way despite a wobble in semiconductors ahead of the opening bell.",
+      "Nasdaq 100 futures slipped 0.2%, while Dow Jones Industrial Average futures added 111 points, or 0.2%.",
+      "The S&P 500 is heading for a weekly gain of 0.8% and the Nasdaq Composite for 1.5%, though the Dow is on course to end the period down 0.8%.",
+      "Chipmakers were the soft spot, with traders eyeing the US debut of South Korea's SK Hynix, which is pricing its American depositary receipts at $149 each.",
+      "The worry is that the memory group, up sharply this year on demand for its chips, will pull investor money away from domestic names.",
+      "Micron Technology, Marvell Technology and Lam Research each shed around 1% before the open, while Intel dropped 2%.",
+      "Nvidia, Broadcom and AMD also traded lower, dragging the iShares Semiconductor ETF down 1.1%.",
+      "Thursday's rally was helped by cooling oil prices after President Donald Trump said Iran had called to make a deal.",
+      "Qatar and Pakistan are working to bring Washington and Tehran back to the table, with technical talks continuing despite air attacks from both sides."
+    ],
+    "html": null
+  }
+}

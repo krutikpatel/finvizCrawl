@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-reports-25-emissions-jump-130232136.html",
+    "fetched_at": "2026-07-10T07:00:26.795023-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Reports 25% Emissions Jump as AI Data Center Expansion Accelerates",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT), a major software company investing heavily in artificial intelligence infrastructure, reported that its carbon emissions increased 25% in 2025 as its rapid data-center expansion placed more pressure on its sustainability goals. The company emitted 20 million metric tons of carbon dioxide equivalent during the year, compared with 16 million metric tons in 2024. Microsoft said the increase was mainly driven by the construction of new data centers and its previously announced decision to pause purchases of certain renewable-energy credits.\nMicrosoft pledged six years ago to remove more carbon from the atmosphere than it produces by 2030, but its push to become a major force in artificial intelligence appears to be making that target more difficult to reach. The company said AI infrastructure is increasing demand for energy, water, land and construction materials, while sustainability solutions are not expanding quickly enough to keep pace. In June, Microsoft signed an agreement with Chevron (NYSE:CVX), an energy company, to purchase electricity from a large natural-gas-fired power plant planned for West Texas and use that power for a new data-center complex.\nMicrosoft has also pulled back from new carbon-banking agreements and considered shelving a target that would match its hourly data-center electricity consumption with renewable energy. The company said its emissions would have been lower without its decision last year to stop purchasing a controversial category of carbon credit that does not directly encourage the development of new carbon-free power. Microsoft President Brad Smith and Chief Sustainability Officer Melanie Nakagawa said the company plans to refine its approach as conditions, data and trade-offs evolve, while maintaining that it is not reducing its broader sustainability ambitions. Investors may view the report as a sign that Microsoft's aggressive AI infrastructure spending could continue to create significant energy and environmental challenges as the company works toward its 2030 target.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT), a major software company investing heavily in artificial intelligence infrastructure, reported that its carbon emissions increased 25% in 2025 as its rapid data-center expansion placed more pressure on its sustainability goals. The company emitted 20 million metric tons of carbon dioxide equivalent during the year, compared with 16 million metric tons in 2024. Microsoft said the increase was mainly driven by the construction of new data centers and its previously announced decision to pause purchases of certain renewable-energy credits.",
+      "Microsoft pledged six years ago to remove more carbon from the atmosphere than it produces by 2030, but its push to become a major force in artificial intelligence appears to be making that target more difficult to reach. The company said AI infrastructure is increasing demand for energy, water, land and construction materials, while sustainability solutions are not expanding quickly enough to keep pace. In June, Microsoft signed an agreement with Chevron (NYSE:CVX), an energy company, to purchase electricity from a large natural-gas-fired power plant planned for West Texas and use that power for a new data-center complex.",
+      "Microsoft has also pulled back from new carbon-banking agreements and considered shelving a target that would match its hourly data-center electricity consumption with renewable energy. The company said its emissions would have been lower without its decision last year to stop purchasing a controversial category of carbon credit that does not directly encourage the development of new carbon-free power. Microsoft President Brad Smith and Chief Sustainability Officer Melanie Nakagawa said the company plans to refine its approach as conditions, data and trade-offs evolve, while maintaining that it is not reducing its broader sustainability ambitions. Investors may view the report as a sign that Microsoft's aggressive AI infrastructure spending could continue to create significant energy and environmental challenges as the company works toward its 2030 target."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-valuation-d10a4184?mod=bar_FV",
+    "fetched_at": "2026-07-10T07:00:03.940310-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock: Why Its Valuation Is Weighing on It Like an Anchor<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Why Tesla Stock Can’t Get Out of Its Own Way\nIn Samuel Beckett’s Waiting for Godot, two characters, Vladimir and Estragon, spend most of the play waiting for a mysterious Godot, who doesn’t arrive.\nIn Samuel Beckett’s Waiting for Godot, two characters, Vladimir and Estragon, spend most of the play waiting for a mysterious Godot, who doesn’t arrive.",
+    "text_blocks": [
+      "Why Tesla Stock Can’t Get Out of Its Own Way",
+      "In Samuel Beckett’s Waiting for Godot, two characters, Vladimir and Estragon, spend most of the play waiting for a mysterious Godot, who doesn’t arrive.",
+      "In Samuel Beckett’s Waiting for Godot, two characters, Vladimir and Estragon, spend most of the play waiting for a mysterious Godot, who doesn’t arrive."
+    ],
+    "html": null
+  }
+}

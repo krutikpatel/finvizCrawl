@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-nvidia-vera-cpu-could-125234575.html",
+    "fetched_at": "2026-07-10T07:00:34.278042-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wedbush: Nvidia Vera CPU Could Supercharge Its Next Growth Wave",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) drew fresh attention after Wedbush said the company's upcoming Vera central processing unit, or CPU, could strengthen its position in the server processor market through a higher core count.\nWedbush said Vera is expected to outperform processors based on the x86 architecture, the chip design standard used by many servers and personal computers. The firm believes the performance improvements could help Nvidia compete more directly with established CPU suppliers while broadening its long-term market opportunity.\nNvidia has been expanding beyond graphics processors into AI infrastructure, combining CPUs, GPUs and networking products to support data center workloads. Wedbush said Vera could complement that strategy by giving customers a more integrated computing platform for artificial intelligence applications.\nThe research note suggested the new processor may increase Nvidia's total addressable market by allowing the company to pursue additional enterprise and cloud computing opportunities.\nNvidia has continued to invest in AI hardware as demand for high-performance computing systems remains strong across cloud providers, enterprises and other large-scale customers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) drew fresh attention after Wedbush said the company's upcoming Vera central processing unit, or CPU, could strengthen its position in the server processor market through a higher core count.",
+      "Wedbush said Vera is expected to outperform processors based on the x86 architecture, the chip design standard used by many servers and personal computers. The firm believes the performance improvements could help Nvidia compete more directly with established CPU suppliers while broadening its long-term market opportunity.",
+      "Nvidia has been expanding beyond graphics processors into AI infrastructure, combining CPUs, GPUs and networking products to support data center workloads. Wedbush said Vera could complement that strategy by giving customers a more integrated computing platform for artificial intelligence applications.",
+      "The research note suggested the new processor may increase Nvidia's total addressable market by allowing the company to pursue additional enterprise and cloud computing opportunities.",
+      "Nvidia has continued to invest in AI hardware as demand for high-performance computing systems remains strong across cloud providers, enterprises and other large-scale customers."
+    ],
+    "html": null
+  }
+}

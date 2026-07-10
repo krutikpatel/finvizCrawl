@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-shipping-push-124900135.html",
+    "fetched_at": "2026-07-10T07:00:36.767614-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Stock Rises on New Shipping Push. That's Bad News for UPS and FedEx",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN) shares climbed about 1.5% on Thursday after a report said the company's shipping business is offering discounted rates to attract customers from rivals United Parcel Service (NYSE:UPS) and FedEx (NYSE:FDX).\nThe report, citing industry experts, said Amazon Shipping is approaching businesses with simplified pricing, no residential delivery surcharges and shipping rates that could be as much as 30% below comparable offerings from UPS and FedEx. The strategy is aimed at expanding Amazon's presence in the commercial parcel delivery market.\nAmazon has gradually broadened its logistics operations beyond supporting its own marketplace. Earlier this year, the company launched Amazon Supply Chain Services, providing freight transportation, warehousing, fulfillment and parcel delivery through its network of trucks, aircraft and intermodal containers.\nWhile UPS and FedEx continue to dominate premium services such as overnight and same-day delivery, the report said Amazon's expanding logistics capabilities may increase pricing pressure across parts of the shipping industry. Amazon said businesses are increasingly adopting its supply chain offerings as it continues to build out its logistics platform.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN) shares climbed about 1.5% on Thursday after a report said the company's shipping business is offering discounted rates to attract customers from rivals United Parcel Service (NYSE:UPS) and FedEx (NYSE:FDX).",
+      "The report, citing industry experts, said Amazon Shipping is approaching businesses with simplified pricing, no residential delivery surcharges and shipping rates that could be as much as 30% below comparable offerings from UPS and FedEx. The strategy is aimed at expanding Amazon's presence in the commercial parcel delivery market.",
+      "Amazon has gradually broadened its logistics operations beyond supporting its own marketplace. Earlier this year, the company launched Amazon Supply Chain Services, providing freight transportation, warehousing, fulfillment and parcel delivery through its network of trucks, aircraft and intermodal containers.",
+      "While UPS and FedEx continue to dominate premium services such as overnight and same-day delivery, the report said Amazon's expanding logistics capabilities may increase pricing pressure across parts of the shipping industry. Amazon said businesses are increasingly adopting its supply chain offerings as it continues to build out its logistics platform."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-faces-ai-access-scrutiny-123527982.html",
+    "fetched_at": "2026-07-10T07:00:23.617457-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://finance.yahoo.com/technology/ai/articles/alphabet-faces-ai-access-scrutiny-123527982.html",
+      "context": {
+        "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-faces-ai-access-scrutiny-123527982.html"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

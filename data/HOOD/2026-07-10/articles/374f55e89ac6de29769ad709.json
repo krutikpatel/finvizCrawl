@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/ec1c43c9-14b2-34d8-9eab-f0d9d9105d77/trader-turns-%24800-into-%241.html",
+    "fetched_at": "2026-07-10T07:00:18.680483-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Trader turns $800 into $1 million",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood launched its blockchain on July 1 to move stocks onchain. Eight days later, the first breakout hit is a memecoin called CASHCAT, with one early buyer walking away with over $1 million between his sale and remaining tokens. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
+    "text_blocks": [
+      "Robinhood launched its blockchain on July 1 to move stocks onchain. Eight days later, the first breakout hit is a memecoin called CASHCAT, with one early buyer walking away with over $1 million between his sale and remaining tokens. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\""
+    ],
+    "html": null
+  }
+}

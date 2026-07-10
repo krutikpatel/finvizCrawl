@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b0166e44-3410-389e-87e8-e6a9270bceb0/amd-stock-looks-strong.-one.html",
+    "fetched_at": "2026-07-10T07:00:39.399865-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Looks Strong. One Supply Chain Bottleneck Could Change That",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Bottleneck Is Physical\nUnlike traditional CPUs, AI accelerators derive much of their performance from the tight integration of compute dies and high-bandwidth memory. Advanced packaging is what makes that integration possible. Advanced packaging, specifically TSMC's CoWoS technology, is the step that bonds chiplets together into a finished AI accelerator. Without it, the silicon sitting in a fab is worthless. And for leading-edge AI accelerators, no other manufacturer currently offers advanced packaging at anything close to TSMC's scale. TSMC's CEO told shareholders on June 4, 2026, that CoWoS capacity remains extremely tight and sold out through 2026, with lead times of 52 to 78 weeks.\nThis is not a temporary bottleneck. The tooling required to expand it takes years to procure and install, which means the constraint is largely fixed for the next few years.\nNow look at how that scarce capacity is divided. Nvidia holds roughly 60% of total CoWoS output, approximately 595,000 wafers, and has already booked more than half of TSMC's 2026-2027 expansion capacity. The top three customers combined account for over 85% of total supply. AMD sits at roughly 105,000 wafers, around 11% of total demand. Yet in AI, demand is no longer the scarce resource. Packaging capacity is.\nIntel has invested considerable amounts into building a foundry business, helping fuel the stock's rally. The bigger question is whether Intel's capacity is backed by committed external customers.\nAMD Is Fighting Itself for What Little It Has\nAMD's TSMC partnership spans both SoIC-X and CoWoS-L packaging across its entire data center portfolio, CPUs and GPUs alike. These are the advanced packaging technologies used to assemble AMD's most sophisticated server processors and AI accelerators. The Venice EPYC CPU, now ramping on 2nm, draws from the same constrained pool as the MI400 GPU. Every EPYC slot consumed cannot go to an Instinct GPU. AMD is rationing capacity between its two fastest-growing product lines simultaneously.\nNvidia does not face this. Its CoWoS allocation serves one product family. More importantly, packaging capacity is reserved years in advance, meaning AMD cannot simply buy additional capacity if MI400 demand exceeds expectations. AMD is the only major player scaling a server CPU franchise and an AI GPU franchise through the same bottleneck at the same time.\nThe Bottom Line\nAI investors spend most of their time debating chips, benchmarks, and customers. For AMD, the more important question may be whether it can secure enough advanced packaging capacity to translate that demand into shipments.",
+    "text_blocks": [
+      "The Bottleneck Is Physical",
+      "Unlike traditional CPUs, AI accelerators derive much of their performance from the tight integration of compute dies and high-bandwidth memory. Advanced packaging is what makes that integration possible. Advanced packaging, specifically TSMC's CoWoS technology, is the step that bonds chiplets together into a finished AI accelerator. Without it, the silicon sitting in a fab is worthless. And for leading-edge AI accelerators, no other manufacturer currently offers advanced packaging at anything close to TSMC's scale. TSMC's CEO told shareholders on June 4, 2026, that CoWoS capacity remains extremely tight and sold out through 2026, with lead times of 52 to 78 weeks.",
+      "This is not a temporary bottleneck. The tooling required to expand it takes years to procure and install, which means the constraint is largely fixed for the next few years.",
+      "Now look at how that scarce capacity is divided. Nvidia holds roughly 60% of total CoWoS output, approximately 595,000 wafers, and has already booked more than half of TSMC's 2026-2027 expansion capacity. The top three customers combined account for over 85% of total supply. AMD sits at roughly 105,000 wafers, around 11% of total demand. Yet in AI, demand is no longer the scarce resource. Packaging capacity is.",
+      "Intel has invested considerable amounts into building a foundry business, helping fuel the stock's rally. The bigger question is whether Intel's capacity is backed by committed external customers.",
+      "AMD Is Fighting Itself for What Little It Has",
+      "AMD's TSMC partnership spans both SoIC-X and CoWoS-L packaging across its entire data center portfolio, CPUs and GPUs alike. These are the advanced packaging technologies used to assemble AMD's most sophisticated server processors and AI accelerators. The Venice EPYC CPU, now ramping on 2nm, draws from the same constrained pool as the MI400 GPU. Every EPYC slot consumed cannot go to an Instinct GPU. AMD is rationing capacity between its two fastest-growing product lines simultaneously.",
+      "Nvidia does not face this. Its CoWoS allocation serves one product family. More importantly, packaging capacity is reserved years in advance, meaning AMD cannot simply buy additional capacity if MI400 demand exceeds expectations. AMD is the only major player scaling a server CPU franchise and an AI GPU franchise through the same bottleneck at the same time.",
+      "The Bottom Line",
+      "AI investors spend most of their time debating chips, benchmarks, and customers. For AMD, the more important question may be whether it can secure enough advanced packaging capacity to translate that demand into shipments."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/63ef0e11-c192-320b-b85a-f955d7b8d121/uk-places-major-cloud.html",
+    "fetched_at": "2026-07-10T07:00:26.535819-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "UK Places Major Cloud Providers Under Financial Sector Oversight (MSFT)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The UK government has formally classified major cloud computing providers, including Microsoft (NASDAQ:MSFT), Google (NASDAQ:GOOG), Amazon (NASDAQ:AMZN) and Oracle (NYSE:ORCL), as critical third-party suppliers to the country's financial services industry, subjecting them to direct regulatory supervision.\nThe decision is intended to strengthen the resilience of banks, insurers and financial market infrastructure by reducing the risks associated with cyber incidents, operational failures and technology outages.\nRegulators Increase Oversight of Cloud Infrastructure\nThe government said the growing dependence of financial institutions on cloud technology has made operational resilience an increasingly important priority.\n\"As banks, insurers and financial market infrastructures become increasingly reliant on cloud services, disruption at a major supplier could affect multiple firms at the same time, potentially impacting services customers depend on,\" the government said in a statement on Friday.\nUnder the new framework, Microsoft Ireland Operations Ltd, Google Cloud EMEA Ltd, Amazon Web Services EMEA SARL and Oracle Corporation UK Ltd will officially become designated critical third parties from July 13.\nNew Requirements for Technology Providers\nThe designated companies will be jointly supervised by the Bank of England, the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA).\nThe new regime will require providers to participate in resilience testing, carry out regular self-assessments and notify regulators of significant operational incidents that could affect the financial system.\nThe UK joins a growing number of jurisdictions introducing direct oversight of technology firms that provide essential infrastructure to financial markets. The European Union introduced a comparable framework in November, identifying 19 technology and service providers as critical entities.\nIndustry Welcomes the Framework\nGoogle Cloud said it supports the objectives of the new regulatory regime.\n\"With effective implementation and meaningful industry engagement, this new Critical Third Party framework can enhance the long-term resilience of the UK's financial ecosystem and increase understanding, transparency, and trust between all parties,\" a Google Cloud spokesperson said.\nMicrosoft stock price\nAlphabet stock price\nAmazon stock price\nOracle stock price",
+    "text_blocks": [
+      "The UK government has formally classified major cloud computing providers, including Microsoft (NASDAQ:MSFT), Google (NASDAQ:GOOG), Amazon (NASDAQ:AMZN) and Oracle (NYSE:ORCL), as critical third-party suppliers to the country's financial services industry, subjecting them to direct regulatory supervision.",
+      "The decision is intended to strengthen the resilience of banks, insurers and financial market infrastructure by reducing the risks associated with cyber incidents, operational failures and technology outages.",
+      "Regulators Increase Oversight of Cloud Infrastructure",
+      "The government said the growing dependence of financial institutions on cloud technology has made operational resilience an increasingly important priority.",
+      "\"As banks, insurers and financial market infrastructures become increasingly reliant on cloud services, disruption at a major supplier could affect multiple firms at the same time, potentially impacting services customers depend on,\" the government said in a statement on Friday.",
+      "Under the new framework, Microsoft Ireland Operations Ltd, Google Cloud EMEA Ltd, Amazon Web Services EMEA SARL and Oracle Corporation UK Ltd will officially become designated critical third parties from July 13.",
+      "New Requirements for Technology Providers",
+      "The designated companies will be jointly supervised by the Bank of England, the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA).",
+      "The new regime will require providers to participate in resilience testing, carry out regular self-assessments and notify regulators of significant operational incidents that could affect the financial system.",
+      "The UK joins a growing number of jurisdictions introducing direct oversight of technology firms that provide essential infrastructure to financial markets. The European Union introduced a comparable framework in November, identifying 19 technology and service providers as critical entities.",
+      "Industry Welcomes the Framework",
+      "Google Cloud said it supports the objectives of the new regulatory regime.",
+      "\"With effective implementation and meaningful industry engagement, this new Critical Third Party framework can enhance the long-term resilience of the UK's financial ecosystem and increase understanding, transparency, and trust between all parties,\" a Google Cloud spokesperson said.",
+      "Microsoft stock price",
+      "Alphabet stock price",
+      "Amazon stock price",
+      "Oracle stock price"
+    ],
+    "html": null
+  }
+}

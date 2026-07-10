@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-surges-hidden-ai-131256019.html",
+    "fetched_at": "2026-07-10T07:00:09.584006-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Stock Surges as Hidden AI Cost Breakthrough Stuns Wall Street",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) shares climbed about 3% early Friday after a BofA Securities analysis pointed to potentially lower AI infrastructure costs than Wall Street had expected.\nBofA analyst Justin Post reiterated a Buy rating and an $835 price target, saying an internal Meta memo reviewed by Reuters suggests the company could expand computing capacity more efficiently than previously estimated. Meta expects to deploy about 6.5 gigawatts of AI compute capacity during 2026, including 5.5 gigawatts in the second half of the year.\nMeta's projected capital spending of roughly $145 billion implies construction costs near $22 billion per gigawatt, compared with BofA's earlier estimate of about $45 billion per gigawatt. The analyst said the figures, if accurate, may ease investor concerns over the company's heavy AI investment program.\nSeparately, Reuters reported that Meta plans to begin manufacturing its custom AI chip, code-named Iris, with partners Broadcom (NASDAQ:AVGO) and Taiwan Semiconductor Manufacturing (NYSE:TSM) later this year.\nBofA said the chip initiative is unlikely to explain the 2026 cost improvements but could strengthen Meta's long-term AI strategy through a broader custom silicon roadmap extending into 2027.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) shares climbed about 3% early Friday after a BofA Securities analysis pointed to potentially lower AI infrastructure costs than Wall Street had expected.",
+      "BofA analyst Justin Post reiterated a Buy rating and an $835 price target, saying an internal Meta memo reviewed by Reuters suggests the company could expand computing capacity more efficiently than previously estimated. Meta expects to deploy about 6.5 gigawatts of AI compute capacity during 2026, including 5.5 gigawatts in the second half of the year.",
+      "Meta's projected capital spending of roughly $145 billion implies construction costs near $22 billion per gigawatt, compared with BofA's earlier estimate of about $45 billion per gigawatt. The analyst said the figures, if accurate, may ease investor concerns over the company's heavy AI investment program.",
+      "Separately, Reuters reported that Meta plans to begin manufacturing its custom AI chip, code-named Iris, with partners Broadcom (NASDAQ:AVGO) and Taiwan Semiconductor Manufacturing (NYSE:TSM) later this year.",
+      "BofA said the chip initiative is unlikely to explain the 2026 cost improvements but could strengthen Meta's long-term AI strategy through a broader custom silicon roadmap extending into 2027."
+    ],
+    "html": null
+  }
+}

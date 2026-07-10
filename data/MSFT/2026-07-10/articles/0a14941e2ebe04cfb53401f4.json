@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/233ba343-a7ed-31c1-8bdf-0d6189f09398/microsoft-carbon-emissions.html",
+    "fetched_at": "2026-07-10T07:00:26.593347-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft carbon emissions rose 25% in 2025 amid AI data center boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft reported Thursday that its total greenhouse gas emissions rose 25% in fiscal year 2025, driven by the rapid expansion of its data center infrastructure and a decision to stop purchasing certain types of renewable energy certificates.\nGross output reached 34 million metric tons of carbon dioxide equivalent for the year; once carbon removal credits were factored out, that figure fell to a net 20 million metric tons, compared with 16 million metric tons in the preceding fiscal year. Microsoft's total electricity consumption grew 24% over the same period, according to GeekWire.\nIn the report, Microsoft President Brad Smith and Chief Sustainability Officer Melanie Nakagawa warned that the pace of available sustainability solutions has failed to keep up with what AI infrastructure now requires, a tension they described as both real and productive. Reaching that 2030 carbon-negative pledge — made six years ago — now leaves the company with a four-year runway to reverse course.\nPart of the emissions increase stems from Microsoft's decision last year to halt purchases of unbundled, short-term renewable energy certificates, a move the company said would redirect investment toward initiatives that bring net new clean power to electrical grids. The company continues to prioritize a \"portfolio approach\" spanning carbon dioxide removal, carbon-free electricity, sustainable materials, and fuels. \"We continue to really be focused around carbon negativity by 2030,\" Nakagawa said.\nScope 2 emissions — those tied to purchased electricity — represented 13% of Microsoft's total footprint, up from roughly 2% the prior year, the company said, highlighting the growing role of energy systems across its supply chain.\nThe report also noted areas of progress. Microsoft said it matched 100% of its annual global electricity consumption with renewable energy and, for the first time, replenished more fresh water globally than it withdrew — more than 14 million cubic meters. The company also reported 92% reuse and recycling of decommissioned cloud servers for the second consecutive year and said it now holds 40 gigawatts of clean power purchase agreements across 26 countries, with 19 gigawatts online.\nMicrosoft is not alone among major technology companies facing pressure on emissions targets. Among peers, The Verge noted that Google disclosed a 25% jump in supply chain emissions in its own 2026 sustainability report, while Amazon logged a 16% rise.\nThe sustainability disclosures come as Microsoft has faced scrutiny over recent energy decisions. A deal disclosed in June pairs Microsoft with Chevron on a planned West Texas natural gas plant whose output would feed a dedicated data center campus, according to Bloomberg. Microsoft stock has shed more than 24% of its value so far in 2026, with investors growing impatient over the costs of its AI buildout even as the company's underlying business continues to grow.",
+    "text_blocks": [
+      "Microsoft reported Thursday that its total greenhouse gas emissions rose 25% in fiscal year 2025, driven by the rapid expansion of its data center infrastructure and a decision to stop purchasing certain types of renewable energy certificates.",
+      "Gross output reached 34 million metric tons of carbon dioxide equivalent for the year; once carbon removal credits were factored out, that figure fell to a net 20 million metric tons, compared with 16 million metric tons in the preceding fiscal year. Microsoft's total electricity consumption grew 24% over the same period, according to GeekWire.",
+      "In the report, Microsoft President Brad Smith and Chief Sustainability Officer Melanie Nakagawa warned that the pace of available sustainability solutions has failed to keep up with what AI infrastructure now requires, a tension they described as both real and productive. Reaching that 2030 carbon-negative pledge — made six years ago — now leaves the company with a four-year runway to reverse course.",
+      "Part of the emissions increase stems from Microsoft's decision last year to halt purchases of unbundled, short-term renewable energy certificates, a move the company said would redirect investment toward initiatives that bring net new clean power to electrical grids. The company continues to prioritize a \"portfolio approach\" spanning carbon dioxide removal, carbon-free electricity, sustainable materials, and fuels. \"We continue to really be focused around carbon negativity by 2030,\" Nakagawa said.",
+      "Scope 2 emissions — those tied to purchased electricity — represented 13% of Microsoft's total footprint, up from roughly 2% the prior year, the company said, highlighting the growing role of energy systems across its supply chain.",
+      "The report also noted areas of progress. Microsoft said it matched 100% of its annual global electricity consumption with renewable energy and, for the first time, replenished more fresh water globally than it withdrew — more than 14 million cubic meters. The company also reported 92% reuse and recycling of decommissioned cloud servers for the second consecutive year and said it now holds 40 gigawatts of clean power purchase agreements across 26 countries, with 19 gigawatts online.",
+      "Microsoft is not alone among major technology companies facing pressure on emissions targets. Among peers, The Verge noted that Google disclosed a 25% jump in supply chain emissions in its own 2026 sustainability report, while Amazon logged a 16% rise.",
+      "The sustainability disclosures come as Microsoft has faced scrutiny over recent energy decisions. A deal disclosed in June pairs Microsoft with Chevron on a planned West Texas natural gas plant whose output would feed a dedicated data center campus, according to Bloomberg. Microsoft stock has shed more than 24% of its value so far in 2026, with investors growing impatient over the costs of its AI buildout even as the company's underlying business continues to grow."
+    ],
+    "html": null
+  }
+}

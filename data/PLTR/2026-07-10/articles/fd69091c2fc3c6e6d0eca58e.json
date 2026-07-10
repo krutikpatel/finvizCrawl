@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rackspace-stock-offering-overshadows-ai-185704558.html",
+    "fetched_at": "2026-07-10T07:00:31.754645-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Rackspace Stock Offering Overshadows AI Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRackspace Technology (RXT) plunged about 25% Thursday after cutting its FY26 outlook and announcing plans for a $250 million stock offering, overshadowing an expanded AI partnership with Palantir (NASDAQ:PLTR).\nRackspace now expects FY26 revenue of $2.45 billion to $2.55 billion, down from $2.6 billion to $2.7 billion previously and below the $2.65 billion consensus estimate. Adjusted EBITDA guidance fell to $285 million to $295 million from $305 million to $315 million, reflecting supply constraints, industry trends and tighter resource prioritization.\nThe company still sees AI as a major growth engine. Rackspace targets 15 MW of enterprise AI capacity by 2027 and 30 MW by 2028, which it estimates could generate $450 million to $600 million in annual revenue with adjusted EBITDA margins above 50%. Its expanded Palantir framework targets regulated industries requiring tighter control over data and AI deployments.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Rackspace Technology (RXT) plunged about 25% Thursday after cutting its FY26 outlook and announcing plans for a $250 million stock offering, overshadowing an expanded AI partnership with Palantir (NASDAQ:PLTR).",
+      "Rackspace now expects FY26 revenue of $2.45 billion to $2.55 billion, down from $2.6 billion to $2.7 billion previously and below the $2.65 billion consensus estimate. Adjusted EBITDA guidance fell to $285 million to $295 million from $305 million to $315 million, reflecting supply constraints, industry trends and tighter resource prioritization.",
+      "The company still sees AI as a major growth engine. Rackspace targets 15 MW of enterprise AI capacity by 2027 and 30 MW by 2028, which it estimates could generate $450 million to $600 million in annual revenue with adjusted EBITDA margins above 50%. Its expanded Palantir framework targets regulated industries requiring tighter control over data and AI deployments."
+    ],
+    "html": null
+  }
+}

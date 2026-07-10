@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-meta-632e43fd?mod=bar_FV",
+    "fetched_at": "2026-07-10T07:00:36.539859-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Stock’s Falling. Blame Meta.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia Stock’s Falling. Blame Meta.\nNvidia was edging down early on Friday. The chip maker’s stock is still struggling as some of its biggest customers put more resources into in-house artificial-intelligence processors.\nNvidia was edging down early on Friday. The chip maker’s stock is still struggling as some of its biggest customers put more resources into in-house artificial-intelligence processors.",
+    "text_blocks": [
+      "Nvidia Stock’s Falling. Blame Meta.",
+      "Nvidia was edging down early on Friday. The chip maker’s stock is still struggling as some of its biggest customers put more resources into in-house artificial-intelligence processors.",
+      "Nvidia was edging down early on Friday. The chip maker’s stock is still struggling as some of its biggest customers put more resources into in-house artificial-intelligence processors."
+    ],
+    "html": null
+  }
+}
