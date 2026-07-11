@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-nvidia-stock-friday-200045889.html",
+    "fetched_at": "2026-07-11T07:00:37.249717-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What's Going On With Nvidia Stock Friday",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) shares rose about 2% on Friday afternoon as investors looked past reports that Meta Platforms (META) is advancing development of a new in-house artificial intelligence chip.\nReuters said Meta plans to begin manufacturing its custom AI processor, code-named Iris, in September after completing initial testing. The chip is being designed with Broadcom (AVGO) and manufactured by Taiwan Semiconductor Manufacturing (TSM). The report said the processor is intended to support Meta's AI infrastructure while complementing, rather than replacing, the large number of graphics processors the company continues to buy from Nvidia and Advanced Micro Devices (AMD).\nThe development reflects a broader industry trend of large technology companies designing custom chips to improve efficiency and manage computing costs. However, Nvidia continues to hold a leading position in AI training hardware, while many custom processors remain focused on inference workloads, which generate responses from trained AI models.\nAlso, Morgan Stanley and TD Cowen reaffirmed bullish ratings on Nvidia, citing sustained demand for AI infrastructure, expanding enterprise adoption and continued supply constraints that they expect to support long-term growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) shares rose about 2% on Friday afternoon as investors looked past reports that Meta Platforms (META) is advancing development of a new in-house artificial intelligence chip.",
+      "Reuters said Meta plans to begin manufacturing its custom AI processor, code-named Iris, in September after completing initial testing. The chip is being designed with Broadcom (AVGO) and manufactured by Taiwan Semiconductor Manufacturing (TSM). The report said the processor is intended to support Meta's AI infrastructure while complementing, rather than replacing, the large number of graphics processors the company continues to buy from Nvidia and Advanced Micro Devices (AMD).",
+      "The development reflects a broader industry trend of large technology companies designing custom chips to improve efficiency and manage computing costs. However, Nvidia continues to hold a leading position in AI training hardware, while many custom processors remain focused on inference workloads, which generate responses from trained AI models.",
+      "Also, Morgan Stanley and TD Cowen reaffirmed bullish ratings on Nvidia, citing sustained demand for AI infrastructure, expanding enterprise adoption and continued supply constraints that they expect to support long-term growth."
+    ],
+    "html": null
+  }
+}

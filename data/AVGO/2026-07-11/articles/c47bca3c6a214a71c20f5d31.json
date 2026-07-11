@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182339583.html",
+    "fetched_at": "2026-07-11T07:00:37.326604-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Investing.com’s stocks of the week",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- The AI arms race dominated headlines this week, with Meta unveiling a new frontier model and a chip supply deal between Apple and Broadcom.\nHere are Investing.com's stocks of the week:\nMeta Platforms\nMeta has gained 9.1% over the last week, including a 5.1% rise so far on Friday, after its specialized AI division, Meta Superintelligence Labs, released Muse Spark 1.1, a multimodal reasoning model built for autonomous agentic workflows, featuring a one-million-token context window and upgraded coding capabilities.\nThe company simultaneously launched a public preview of its Meta Model API, opening the architecture to outside developers and placing it in direct competition with paid offerings from Anthropic and OpenAI.\nResearch firm SemiAnalysis projects Meta will surpass both OpenAI and Anthropic in total AI compute by year-end through the construction of five gigawatt-scale data center clusters.\nThe report suggests Meta's AI division is positioned to challenge Google's standing in the frontier AI hierarchy within six months.\nBroadcom\nBroadcom has added 9.8% over the past week after Apple announced a multiyear agreement valued at more than $30 billion to design and produce custom silicon components and wireless connectivity technologies.\nThe deal, Apple's largest commitment under its American Manufacturing Program, will result in more than 15 billion U.S.-made chips and includes a $1.5 billion capital expenditure investment to expand Broadcom's Fort Collins, Colorado, facility.\nEvercore ISI analyst Amit Daryanani reiterated an Outperform rating and $365 price target on Apple, which also gained 6.9% on the week.\n\"We think the agreement is another example of Apple proactively locking up strategic parts of the BOM at a time when broader component availability and cost inflation remain a concern,\" Daryanani said.\nSK Hynix\nSouth Korean memory giant SK Hynix made its U.S. market debut on Friday, with its American Depositary Receipts commencing trading on the Nasdaq.\nThe stock is currently sitting around $171.35 apiece. The listing was marked by an opening bell ceremony in Times Square.\nSK Group Chairman Chey Tae-won, appearing on CNBC, said the company was open to further U.S. investment and that demand in the AI era was positioned for exponential growth, noting that more than 70% of chips produced at its China factories are exported, primarily to the United States.\nBloom Energy\nBloom Energy has declined 18% this week, with losses of more than 5% on Friday, after short seller Hunterbrook published a report alleging the company's fuel cells rely on Chinese-sourced scandium, contradicting statements from the CEO since early 2025 that the company has no China supply chain dependency.",
+    "text_blocks": [
+      "Investing.com -- The AI arms race dominated headlines this week, with Meta unveiling a new frontier model and a chip supply deal between Apple and Broadcom.",
+      "Here are Investing.com's stocks of the week:",
+      "Meta Platforms",
+      "Meta has gained 9.1% over the last week, including a 5.1% rise so far on Friday, after its specialized AI division, Meta Superintelligence Labs, released Muse Spark 1.1, a multimodal reasoning model built for autonomous agentic workflows, featuring a one-million-token context window and upgraded coding capabilities.",
+      "The company simultaneously launched a public preview of its Meta Model API, opening the architecture to outside developers and placing it in direct competition with paid offerings from Anthropic and OpenAI.",
+      "Research firm SemiAnalysis projects Meta will surpass both OpenAI and Anthropic in total AI compute by year-end through the construction of five gigawatt-scale data center clusters.",
+      "The report suggests Meta's AI division is positioned to challenge Google's standing in the frontier AI hierarchy within six months.",
+      "Broadcom",
+      "Broadcom has added 9.8% over the past week after Apple announced a multiyear agreement valued at more than $30 billion to design and produce custom silicon components and wireless connectivity technologies.",
+      "The deal, Apple's largest commitment under its American Manufacturing Program, will result in more than 15 billion U.S.-made chips and includes a $1.5 billion capital expenditure investment to expand Broadcom's Fort Collins, Colorado, facility.",
+      "Evercore ISI analyst Amit Daryanani reiterated an Outperform rating and $365 price target on Apple, which also gained 6.9% on the week.",
+      "\"We think the agreement is another example of Apple proactively locking up strategic parts of the BOM at a time when broader component availability and cost inflation remain a concern,\" Daryanani said.",
+      "SK Hynix",
+      "South Korean memory giant SK Hynix made its U.S. market debut on Friday, with its American Depositary Receipts commencing trading on the Nasdaq.",
+      "The stock is currently sitting around $171.35 apiece. The listing was marked by an opening bell ceremony in Times Square.",
+      "SK Group Chairman Chey Tae-won, appearing on CNBC, said the company was open to further U.S. investment and that demand in the AI era was positioned for exponential growth, noting that more than 70% of chips produced at its China factories are exported, primarily to the United States.",
+      "Bloom Energy",
+      "Bloom Energy has declined 18% this week, with losses of more than 5% on Friday, after short seller Hunterbrook published a report alleging the company's fuel cells rely on Chinese-sourced scandium, contradicting statements from the CEO since early 2025 that the company has no China supply chain dependency."
+    ],
+    "html": null
+  }
+}

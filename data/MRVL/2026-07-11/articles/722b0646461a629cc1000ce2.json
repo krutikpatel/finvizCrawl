@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/altera-returns-growth-ai-robotics-184232812.html",
+    "fetched_at": "2026-07-11T07:01:00.465683-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Max A. Cherney\nSAN FRANCISCO, July 10 (Reuters) - Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib Hussain told Reuters in an interview.\nAltera became fully independent last September after Intel agreed to sell a 51% stake to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion. Intel retains a 49% stake.\nHussain, a former Marvell Technology executive who took the top job when Intel spun out Altera, said the company grew more than 20% last year and expects mid-20% growth again this year, though as a private company it does not disclose specific figures.\n\"I believe in an engineer-to-engineer type of a discussion,\" Hussain said. \"We have brought engineering very close to the customers, so that actually already is showing up in our customer engagement.\"\nIntel had reported Altera revenue of $1.5 billion in 2024, which was down sharply from $2.9 billion in 2023. Altera's revenue decline happened partly because buyers shifted their attention toward buying GPU chips for AI in 2023 and partly due to losing market share to its largest competitor, AMD-owned Xilinx.\nHussain is positioning Altera for growth from artificial intelligence and robotics, using the \"field programmable gate array\" chips it makes, which are known as FPGAs in the industry, for connectivity, data pre-processing and sensor fusion alongside GPUs.\n\"If GPU is the brain, the FPGAs are the nervous system,\" Hussain said, projecting FPGA content of $100 to several hundred dollars per robot could create a market worth \"100 billion to several hundred billion dollars\" over a decade.\nOn execution, Hussain said the company produced working prototypes of six new chips last year and has cut down its dependence on transition service agreements from Intel from 125 agreements to 15.\nHe said Altera is the only programmable chip supplier in full production with a new type of memory called DDR5 for use in mid- to high-programmable chips and that Altera built a memory stockpile that is insulating it from current shortages.\nAltera manufactures its chips with both Intel Foundry and Taiwan Semiconductor Manufacturing Co and is developing products on TSMC's 2-nanometer and 3-nanometer technologies, Hussain said.\n(Reporting by Max Cherney and writing by Stephen Nellis in San Francisco; Editing by Nick Zieminski)",
+    "text_blocks": [
+      "By Max A. Cherney",
+      "SAN FRANCISCO, July 10 (Reuters) - Altera, a maker of programmable chips spun out of Intel, is growing roughly 20% a year and more than doubling operating income as it prepares for an eventual public listing, Chief Executive Raghib Hussain told Reuters in an interview.",
+      "Altera became fully independent last September after Intel agreed to sell a 51% stake to Silver Lake for $4.46 billion in a transaction valuing Altera at $8.75 billion. Intel retains a 49% stake.",
+      "Hussain, a former Marvell Technology executive who took the top job when Intel spun out Altera, said the company grew more than 20% last year and expects mid-20% growth again this year, though as a private company it does not disclose specific figures.",
+      "\"I believe in an engineer-to-engineer type of a discussion,\" Hussain said. \"We have brought engineering very close to the customers, so that actually already is showing up in our customer engagement.\"",
+      "Intel had reported Altera revenue of $1.5 billion in 2024, which was down sharply from $2.9 billion in 2023. Altera's revenue decline happened partly because buyers shifted their attention toward buying GPU chips for AI in 2023 and partly due to losing market share to its largest competitor, AMD-owned Xilinx.",
+      "Hussain is positioning Altera for growth from artificial intelligence and robotics, using the \"field programmable gate array\" chips it makes, which are known as FPGAs in the industry, for connectivity, data pre-processing and sensor fusion alongside GPUs.",
+      "\"If GPU is the brain, the FPGAs are the nervous system,\" Hussain said, projecting FPGA content of $100 to several hundred dollars per robot could create a market worth \"100 billion to several hundred billion dollars\" over a decade.",
+      "On execution, Hussain said the company produced working prototypes of six new chips last year and has cut down its dependence on transition service agreements from Intel from 125 agreements to 15.",
+      "He said Altera is the only programmable chip supplier in full production with a new type of memory called DDR5 for use in mid- to high-programmable chips and that Altera built a memory stockpile that is insulating it from current shortages.",
+      "Altera manufactures its chips with both Intel Foundry and Taiwan Semiconductor Manufacturing Co and is developing products on TSMC's 2-nanometer and 3-nanometer technologies, Hussain said.",
+      "(Reporting by Max Cherney and writing by Stephen Nellis in San Francisco; Editing by Nick Zieminski)"
+    ],
+    "html": null
+  }
+}

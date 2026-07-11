@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-jumps-chip-sentiment-improves-202514381.html",
+    "fetched_at": "2026-07-11T07:01:00.165864-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Jumps as Chip Sentiment Improves",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) led a broad semiconductor and optical stock rally Thursday as rising U.S. factory investment helped investors look past the sector's recent sell-off.\nMicron jumped 8% after raising its planned U.S. manufacturing and technology investment to more than $250 billion through 2035, up from $200 billion. Broadcom (NASDAQ:AVGO) gained 4% after announcing an Apple partnership expected to exceed $30 billion and produce more than 15 billion U.S.-made chips.\nMicron makes memory and storage products used in smartphones, computers, data centers and AI systems. Broadcom, AMD (NASDAQ:AMD) and Marvell supply chips and connectivity technology that help power cloud infrastructure and advanced computing.\nSandisk surged 11% after Wedbush lifted its quarterly revenue estimate to $8.89 billion from $8 billion and adjusted EPS forecast to $37.64 from $32.01. AMD climbed nearly 6%, Marvell rose 7%, while Lumentum jumped 12% as optical networking stocks joined the rebound.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) led a broad semiconductor and optical stock rally Thursday as rising U.S. factory investment helped investors look past the sector's recent sell-off.",
+      "Micron jumped 8% after raising its planned U.S. manufacturing and technology investment to more than $250 billion through 2035, up from $200 billion. Broadcom (NASDAQ:AVGO) gained 4% after announcing an Apple partnership expected to exceed $30 billion and produce more than 15 billion U.S.-made chips.",
+      "Micron makes memory and storage products used in smartphones, computers, data centers and AI systems. Broadcom, AMD (NASDAQ:AMD) and Marvell supply chips and connectivity technology that help power cloud infrastructure and advanced computing.",
+      "Sandisk surged 11% after Wedbush lifted its quarterly revenue estimate to $8.89 billion from $8 billion and adjusted EPS forecast to $37.64 from $32.01. AMD climbed nearly 6%, Marvell rose 7%, while Lumentum jumped 12% as optical networking stocks joined the rebound."
+    ],
+    "html": null
+  }
+}

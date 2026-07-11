@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_FV",
+    "fetched_at": "2026-07-11T07:00:07.837782-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’ - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’\nThe iPhone maker claims ‘misconduct is normalized and exemplified by leadership’ at OpenAI\nApple has sued OpenAI and one of its lead executives, alleging that the artificial-intelligence lab attempted to steal confidential information from the iPhone maker.\nThe lawsuit, filed in the U.S. District Court for the Northern District of California, names two former Apple AAPL employees, Chang Liu and Tang Yew Tan, as defendants alongside OpenAI. It accuses both of them of engaging in what Apple named a “pattern of thefts” of confidential information related to the company’s hardware.",
+    "text_blocks": [
+      "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
+      "The iPhone maker claims ‘misconduct is normalized and exemplified by leadership’ at OpenAI",
+      "Apple has sued OpenAI and one of its lead executives, alleging that the artificial-intelligence lab attempted to steal confidential information from the iPhone maker.",
+      "The lawsuit, filed in the U.S. District Court for the Northern District of California, names two former Apple AAPL employees, Chang Liu and Tang Yew Tan, as defendants alongside OpenAI. It accuses both of them of engaging in what Apple named a “pattern of thefts” of confidential information related to the company’s hardware."
+    ],
+    "html": null
+  }
+}

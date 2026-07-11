@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-accuses-openai-former-design-231936659.html",
+    "fetched_at": "2026-07-11T07:00:09.845044-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple accuses OpenAI, and former design star Jony Ive’s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple accuses OpenAI, and former design star Jony Ive’s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit\nApple sued OpenAI on Friday for allegedly stealing its trade secrets, an extraordinary move that pits the $4.6 trillion iPhone maker against the fast-growing AI startup as it prepares to release a new class of hardware products that have been shaped in large part by Apple's former design boss.\nIn the lawsuit, filed in the Northern District of California court, Apple accused two former employees now working at OpenAI of systematically stealing confidential data, including information about unreleased hardware products, technical specifications, and details about vendors and contractors in Apple's supply chain. The complaint also listed OpenAI as a defendant, as well as io Products, a hardware design firm acquired by OpenAI last year that was co-founded by Apple's former design boss, Jony Ive.\n\"At every level, from members of its Technical Staff to its Chief Hardware Officer, and in coordination with business partners, OpenAI has been stealing Apple's trade secrets and confidential information,\" Apple said in the 41-page complaint. \"OpenAI's nascent hardware business now rests on the shakiest of foundations, rotten to its core by its illegal reliance on misappropriated trade secrets.\"\nOpenAI told Fortune in a statement that \"we have no interest in other companies' trade secrets. We remain focused on building innovative technology that empowers people everywhere.\"\nThe lawsuit marks a dramatic escalation between two companies that were once working together to bring OpenAI's ChatGPT into Apple's software platforms and Apple's Siri digital assistant. The partnership between Apple and OpenAI faded over time, and in January Apple announced that it was turning to Google for its Apple Intelligence efforts.\nAn Apple spokeswoman added in a statement that the company's teams \"are constantly developing breakthrough technologies to create the best products and services in the world, and protecting their work and intellectual property is something we take very seriously.\"\nApple accuses Tang Tan, OpenAI's chief hardware officer and a former vice president at Apple, of systematically stealing secrets, including using confidential Apple codenames during OpenAI's recruiting process, encouraging interviewers to share secrets from the iPhone maker, and directing them to physically bring Apple hardware parts into interviews. Tan left Apple to join io Products in 2024 after roughly 24 years at the company, where he had risen from product designer to vice president over iPhone and Apple Watch product design.",
+    "text_blocks": [
+      "Apple accuses OpenAI, and former design star Jony Ive’s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+      "Apple sued OpenAI on Friday for allegedly stealing its trade secrets, an extraordinary move that pits the $4.6 trillion iPhone maker against the fast-growing AI startup as it prepares to release a new class of hardware products that have been shaped in large part by Apple's former design boss.",
+      "In the lawsuit, filed in the Northern District of California court, Apple accused two former employees now working at OpenAI of systematically stealing confidential data, including information about unreleased hardware products, technical specifications, and details about vendors and contractors in Apple's supply chain. The complaint also listed OpenAI as a defendant, as well as io Products, a hardware design firm acquired by OpenAI last year that was co-founded by Apple's former design boss, Jony Ive.",
+      "\"At every level, from members of its Technical Staff to its Chief Hardware Officer, and in coordination with business partners, OpenAI has been stealing Apple's trade secrets and confidential information,\" Apple said in the 41-page complaint. \"OpenAI's nascent hardware business now rests on the shakiest of foundations, rotten to its core by its illegal reliance on misappropriated trade secrets.\"",
+      "OpenAI told Fortune in a statement that \"we have no interest in other companies' trade secrets. We remain focused on building innovative technology that empowers people everywhere.\"",
+      "The lawsuit marks a dramatic escalation between two companies that were once working together to bring OpenAI's ChatGPT into Apple's software platforms and Apple's Siri digital assistant. The partnership between Apple and OpenAI faded over time, and in January Apple announced that it was turning to Google for its Apple Intelligence efforts.",
+      "An Apple spokeswoman added in a statement that the company's teams \"are constantly developing breakthrough technologies to create the best products and services in the world, and protecting their work and intellectual property is something we take very seriously.\"",
+      "Apple accuses Tang Tan, OpenAI's chief hardware officer and a former vice president at Apple, of systematically stealing secrets, including using confidential Apple codenames during OpenAI's recruiting process, encouraging interviewers to share secrets from the iPhone maker, and directing them to physically bring Apple hardware parts into interviews. Tan left Apple to join io Products in 2024 after roughly 24 years at the company, where he had risen from product designer to vice president over iPhone and Apple Watch product design."
+    ],
+    "html": null
+  }
+}

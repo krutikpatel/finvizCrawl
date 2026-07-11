@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6dfe8da6-5c28-39ea-86d3-775bccc8041f/kraken-rebuilds-app-around.html",
+    "fetched_at": "2026-07-11T07:00:23.707261-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Kraken Rebuilds App Around Embedded AI Intelligence",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Kraken announced it is rebuilding its mobile app from the ground up around embedded financial intelligence, joining Coinbase and Robinhood in wiring AI directly into the core trading experience rather than adding it as a bolt-on feature.\nWhat's the Scoop?\n-\nThe Redesign: Kraken says the new app will let users define their financial goals, whether a house, retirement, or a cash cushion, and then shape itself around those objectives, working continuously in the background to help users get there: hoping to bridge the gap between what most people want financially and the time or expertise required to manage a portfolio toward it.\n-\nNot a Bolted-On Assistant: Kraken explicitly distinguished its approach from the AI-copilot model, saying the intelligence will be \"built into the fabric of Kraken itself\" rather than layered onto the existing app as a separate chat assistant. Users retain full control over every decision; the app surfaces recommendations and reasoning but waits for user approval before acting.\n-\nThe Trend: The announcement lands following Coinbase launching Coinbase Advisor (an SEC-registered AI investment advisor) and Coinbase for Agents (which lets outside AI agents execute trades within user-defined limits), as well as Robinhood rolling out its own agent trading tools. Kraken and Gemini had both shipped earlier versions of agent-assisted trading features.",
+    "text_blocks": [
+      "Kraken announced it is rebuilding its mobile app from the ground up around embedded financial intelligence, joining Coinbase and Robinhood in wiring AI directly into the core trading experience rather than adding it as a bolt-on feature.",
+      "What's the Scoop?",
+      "-",
+      "The Redesign: Kraken says the new app will let users define their financial goals, whether a house, retirement, or a cash cushion, and then shape itself around those objectives, working continuously in the background to help users get there: hoping to bridge the gap between what most people want financially and the time or expertise required to manage a portfolio toward it.",
+      "-",
+      "Not a Bolted-On Assistant: Kraken explicitly distinguished its approach from the AI-copilot model, saying the intelligence will be \"built into the fabric of Kraken itself\" rather than layered onto the existing app as a separate chat assistant. Users retain full control over every decision; the app surfaces recommendations and reasoning but waits for user approval before acting.",
+      "-",
+      "The Trend: The announcement lands following Coinbase launching Coinbase Advisor (an SEC-registered AI investment advisor) and Coinbase for Agents (which lets outside AI agents execute trades within user-defined limits), as well as Robinhood rolling out its own agent trading tools. Kraken and Gemini had both shipped earlier versions of agent-assisted trading features."
+    ],
+    "html": null
+  }
+}

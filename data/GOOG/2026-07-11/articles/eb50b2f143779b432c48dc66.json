@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/big-tech-is-paying-for-the-ai-boom-and-chipmakers-are-cashing-in-chart-of-the-day-114043038.html",
+    "fetched_at": "2026-07-11T07:00:30.390445-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street knows Big Tech can spend on artificial intelligence. The harder question is how quickly that spending returns cash to those companies.\nThat is where the story changes. The AI boom is not just a growth story anymore; it is a money-in, money-out story.\nHyperscalers — Amazon (AMZN), Alphabet (GOOG, GOOGL), Meta (META), Microsoft (MSFT), and Oracle (ORCL) — are writing the checks for chips, data centers, and power. Chipmakers are getting paid first, and they are expected to keep more cash after their own bills are paid.\nBank of America Global Research calls it a \"generational transfer in free cash flow,\" and the chart below shows why.\nFree cash flow is the money a company has left after running the business and paying for major investments. In BofA's chart, that number is moving in opposite directions for Big Tech and chipmakers. For the hyperscaler basket, it is falling into negative territory, while the semiconductor basket — Nvidia (NVDA), Micron (MU), Broadcom (AVGO), and Applied Materials (AMAT) — keeps climbing.\nThat does not make the AI boom any less real. It makes the payoff harder to pin down.\nChip demand can remain strong while hyperscaler cash flow weakens because one side is selling the infrastructure and the other side is paying to build it. BofA said \"Magnificent Seven\" hyperscalers have spent $234 billion in capital expenditures this year, while their stocks are basically flat in 2026.\nApollo chief economist Torsten Sløk frames the question this way: \"But what if the payoff takes longer than consensus assumes?\" (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)\nHis answer starts with two pressure points. Token prices are still falling, which means AI usage can grow without producing as much revenue per unit of use. Chinese models are also gaining on the US's models, adding pressure on American platforms trying to turn AI adoption into high-margin revenue.\nThe risk is timing. The spending happens now. The cost of chips, servers, and data centers keeps showing up over time. But the revenue and cash flow may take longer to arrive.\nSløk's chart of Chinese vs. US model token usage sharpens the point.\nAmong the top 20 AI models, Chinese models handled more tokens than US models in both May and June, and the gap widened. Chinese model usage rose from 46 trillion tokens in May to 98 trillion in June, while US model usage rose from 37 trillion to 53 trillion.\nThere is still a clear upside case if AI usage keeps growing, customers pay for better tools, and Big Tech turns today's spending into higher revenue over time. In that scenario, the current cash-flow hit is the cost of building the next platform, not a warning sign.",
+    "text_blocks": [
+      "Wall Street knows Big Tech can spend on artificial intelligence. The harder question is how quickly that spending returns cash to those companies.",
+      "That is where the story changes. The AI boom is not just a growth story anymore; it is a money-in, money-out story.",
+      "Hyperscalers — Amazon (AMZN), Alphabet (GOOG, GOOGL), Meta (META), Microsoft (MSFT), and Oracle (ORCL) — are writing the checks for chips, data centers, and power. Chipmakers are getting paid first, and they are expected to keep more cash after their own bills are paid.",
+      "Bank of America Global Research calls it a \"generational transfer in free cash flow,\" and the chart below shows why.",
+      "Free cash flow is the money a company has left after running the business and paying for major investments. In BofA's chart, that number is moving in opposite directions for Big Tech and chipmakers. For the hyperscaler basket, it is falling into negative territory, while the semiconductor basket — Nvidia (NVDA), Micron (MU), Broadcom (AVGO), and Applied Materials (AMAT) — keeps climbing.",
+      "That does not make the AI boom any less real. It makes the payoff harder to pin down.",
+      "Chip demand can remain strong while hyperscaler cash flow weakens because one side is selling the infrastructure and the other side is paying to build it. BofA said \"Magnificent Seven\" hyperscalers have spent $234 billion in capital expenditures this year, while their stocks are basically flat in 2026.",
+      "Apollo chief economist Torsten Sløk frames the question this way: \"But what if the payoff takes longer than consensus assumes?\" (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)",
+      "His answer starts with two pressure points. Token prices are still falling, which means AI usage can grow without producing as much revenue per unit of use. Chinese models are also gaining on the US's models, adding pressure on American platforms trying to turn AI adoption into high-margin revenue.",
+      "The risk is timing. The spending happens now. The cost of chips, servers, and data centers keeps showing up over time. But the revenue and cash flow may take longer to arrive.",
+      "Sløk's chart of Chinese vs. US model token usage sharpens the point.",
+      "Among the top 20 AI models, Chinese models handled more tokens than US models in both May and June, and the gap widened. Chinese model usage rose from 46 trillion tokens in May to 98 trillion in June, while US model usage rose from 37 trillion to 53 trillion.",
+      "There is still a clear upside case if AI usage keeps growing, customers pay for better tools, and Big Tech turns today's spending into higher revenue over time. In that scenario, the current cash-flow hit is the cost of building the next platform, not a warning sign."
+    ],
+    "html": null
+  }
+}

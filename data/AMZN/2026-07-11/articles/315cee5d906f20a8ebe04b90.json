@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-meta-among-hsbc-201634977.html",
+    "fetched_at": "2026-07-11T07:00:47.785227-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nHSBC identified 10 Buy-rated stocks it believes are well positioned ahead of the second-quarter earnings season, citing favorable trends across technology, financial, consumer and industrial sectors.\nHSBC named Amazon (NASDAQ:AMZN), Microsoft (MSFT), Meta Platforms (NASDAQ:META), Alphabet (GOOGL), AbbVie (ABBV), Caterpillar (CAT), Marriott International (MAR), Vertiv (VRT), NextPower (NXT) and Wells Fargo (WFC) as its preferred earnings-season ideas. The firm said the selections reflect company-specific growth drivers rather than a single sector theme.\nHSBC expects Amazon to benefit from continued cloud computing demand and AI infrastructure investments, while Microsoft could see further momentum from Azure AI services. The brokerage also pointed to Meta's AI-powered advertising tools, Alphabet's cloud and search businesses, and Vertiv's exposure to expanding data center spending.\nOutside technology, HSBC said AbbVie's immunology portfolio, Caterpillar's exposure to AI-related power demand, Marriott's asset-light business model and Wells Fargo's improving earnings outlook could support results. The brokerage also highlighted NextPower's project backlog and expansion efforts as potential growth catalysts heading into the reporting season.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "HSBC identified 10 Buy-rated stocks it believes are well positioned ahead of the second-quarter earnings season, citing favorable trends across technology, financial, consumer and industrial sectors.",
+      "HSBC named Amazon (NASDAQ:AMZN), Microsoft (MSFT), Meta Platforms (NASDAQ:META), Alphabet (GOOGL), AbbVie (ABBV), Caterpillar (CAT), Marriott International (MAR), Vertiv (VRT), NextPower (NXT) and Wells Fargo (WFC) as its preferred earnings-season ideas. The firm said the selections reflect company-specific growth drivers rather than a single sector theme.",
+      "HSBC expects Amazon to benefit from continued cloud computing demand and AI infrastructure investments, while Microsoft could see further momentum from Azure AI services. The brokerage also pointed to Meta's AI-powered advertising tools, Alphabet's cloud and search businesses, and Vertiv's exposure to expanding data center spending.",
+      "Outside technology, HSBC said AbbVie's immunology portfolio, Caterpillar's exposure to AI-related power demand, Marriott's asset-light business model and Wells Fargo's improving earnings outlook could support results. The brokerage also highlighted NextPower's project backlog and expansion efforts as potential growth catalysts heading into the reporting season."
+    ],
+    "html": null
+  }
+}

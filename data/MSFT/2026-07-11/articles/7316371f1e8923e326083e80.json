@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/ibms-quantum-upside-meets-valuation-200301436.html",
+    "fetched_at": "2026-07-11T07:00:33.346980-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IBM's Quantum Upside Meets Valuation Risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nIBM (NYSE:IBM) drew a Neutral rating from Susquehanna as strength in quantum computing, Watsonx AI and software was offset by concerns around consulting disruption and a rich valuation.\nAnalyst James Friedman set a $303 price target and valued IBM's quantum opportunity at $65 per share. He also pointed to Watsonx AI bookings above $12.5 billion, durable double-digit software growth and $15.7 billion in free cash flow.\nIBM sells enterprise software, mainframe systems, consulting services and hybrid cloud tools. Its strategy centers on helping large companies run AI and workloads across private infrastructure and multiple public clouds.\nThe bullish case rests on IBM's leadership in quantum and its position as a governance and orchestration layer for regulated industries. Susquehanna said the company is not trying to become another hyperscaler like Amazon (NASDAQ:AMZN), Google (NASDAQ:GOOG) or Microsoft (NASDAQ:MSFT).\nThe concern is consulting, where automation and excess industry capacity could pressure demand. IBM shares also rallied about 25% in Q2 and now trade near record highs, at a premium to historical levels.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "IBM (NYSE:IBM) drew a Neutral rating from Susquehanna as strength in quantum computing, Watsonx AI and software was offset by concerns around consulting disruption and a rich valuation.",
+      "Analyst James Friedman set a $303 price target and valued IBM's quantum opportunity at $65 per share. He also pointed to Watsonx AI bookings above $12.5 billion, durable double-digit software growth and $15.7 billion in free cash flow.",
+      "IBM sells enterprise software, mainframe systems, consulting services and hybrid cloud tools. Its strategy centers on helping large companies run AI and workloads across private infrastructure and multiple public clouds.",
+      "The bullish case rests on IBM's leadership in quantum and its position as a governance and orchestration layer for regulated industries. Susquehanna said the company is not trying to become another hyperscaler like Amazon (NASDAQ:AMZN), Google (NASDAQ:GOOG) or Microsoft (NASDAQ:MSFT).",
+      "The concern is consulting, where automation and excess industry capacity could pressure demand. IBM shares also rallied about 25% in Q2 and now trade near record highs, at a premium to historical levels."
+    ],
+    "html": null
+  }
+}

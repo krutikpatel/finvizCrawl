@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/uk-brings-amazon-services-under-200831873.html",
+    "fetched_at": "2026-07-11T07:00:33.413463-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "UK Brings Amazon Web Services Under Direct Financial Oversight",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon Web Services is now a critical third party along with Microsoft (MSFT, Financials), Alphabet's (GOOGL, Financials) Google and Oracle (ORCL, Financials). The designation is effective July 13.\nThe classification is used by technology suppliers whose collapse might take out numerous banks, insurers or financial institutions.\nThe Bank of England, the Prudential Regulation Authority and the Financial Conduct Authority will oversee AWS.\nThe company is required to carry out resilience testing and to do regular assessments and report major operational issues.\nThe move comes as Amazon expands its UK presence. It invested more than 15 billion, or about $20 billion, in Britain in 2025.\nAmazon will also invest 40 billion in the UK through to the end of 2027.\nThe corporation has a UK workforce of over 75,000 and produced UK revenues of more than 30 billion last year.\nThe certification reassures investors of the importance of AWS to Britain's financial system.\nNext, monitor whether greater control raises prices or delays AWS's UK expansion.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon Web Services is now a critical third party along with Microsoft (MSFT, Financials), Alphabet's (GOOGL, Financials) Google and Oracle (ORCL, Financials). The designation is effective July 13.",
+      "The classification is used by technology suppliers whose collapse might take out numerous banks, insurers or financial institutions.",
+      "The Bank of England, the Prudential Regulation Authority and the Financial Conduct Authority will oversee AWS.",
+      "The company is required to carry out resilience testing and to do regular assessments and report major operational issues.",
+      "The move comes as Amazon expands its UK presence. It invested more than 15 billion, or about $20 billion, in Britain in 2025.",
+      "Amazon will also invest 40 billion in the UK through to the end of 2027.",
+      "The corporation has a UK workforce of over 75,000 and produced UK revenues of more than 30 billion last year.",
+      "The certification reassures investors of the importance of AWS to Britain's financial system.",
+      "Next, monitor whether greater control raises prices or delays AWS's UK expansion."
+    ],
+    "html": null
+  }
+}

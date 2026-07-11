@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/f2d7e5a0-1c06-33bc-9700-6f436ae62ddf/ai-is-multiplying-the.html",
+    "fetched_at": "2026-07-11T07:00:53.979278-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI is multiplying the cybersecurity threat, and Palo Alto Networks and CrowdStrike are the main beneficiaries",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AI is multiplying the cybersecurity threat, and Palo Alto Networks and CrowdStrike are the main beneficiaries\nTwo of the world's largest cybersecurity companies report earnings this week, and Wedbush Securities argues the structural backdrop has rarely been more compelling for the sector's dominant platform players.\nThe core argument is counterintuitive but increasingly accepted among security professionals: artificial intelligence does not reduce the attack surface enterprises need to defend, it expands it dramatically.\nThe proliferation of AI agents, autonomous workflows, large language model-powered applications, and cloud-native workloads creates entirely new attack vectors, more application programming interfaces, more machine identities, more lateral movement risk, and more points of failure than legacy point solutions were ever designed to address.\nWedbush contends this dynamic accelerates the shift towards platform consolidation rather than away from it, and that Palo Alto Networks Inc (NYSE:PANW, XETRA:5AP) and CrowdStrike Holdings Inc (NASDAQ:CRWD), with their scale, module breadth, and customer trust, are best positioned to capture that spending.\nWedbush carries outperform ratings on both stocks, with a $300 price target on Palo Alto Networks and a $700 target on CrowdStrike.\nOn Palo Alto Networks, the bank's channel work points to the company as the only vendor offering unified coverage across network, cloud, and identity security at scale, a combination described as a top budget priority among chief information security officers.\nCross-selling momentum from its CyberArk-derived acquisition is building, with approximately 75% of deals now involving cross-sell components, and its April acquisition of Koi has established a new agentic endpoint security capability integrated across its Prisma and Cortex platforms.\nThe Iran conflict has provided an additional near-term catalyst, with accelerated government and enterprise purchase orders pulling forward deals originally slated for the third quarter and beyond.\nOn CrowdStrike, Wedbush highlights Project Quiltworks, a partnership ecosystem spanning Anthropic, OpenAI and IBM, as a key driver of enterprise consolidation momentum.\nIts Charlotte AI platform and agentic security operations centre orchestration capabilities are positioned as a direct counter to increasingly sophisticated AI-powered threats.\nBoth companies' federal pipelines remain robust, with cyber budgets continuing to accelerate in the post-Iran conflict environment.",
+    "text_blocks": [
+      "AI is multiplying the cybersecurity threat, and Palo Alto Networks and CrowdStrike are the main beneficiaries",
+      "Two of the world's largest cybersecurity companies report earnings this week, and Wedbush Securities argues the structural backdrop has rarely been more compelling for the sector's dominant platform players.",
+      "The core argument is counterintuitive but increasingly accepted among security professionals: artificial intelligence does not reduce the attack surface enterprises need to defend, it expands it dramatically.",
+      "The proliferation of AI agents, autonomous workflows, large language model-powered applications, and cloud-native workloads creates entirely new attack vectors, more application programming interfaces, more machine identities, more lateral movement risk, and more points of failure than legacy point solutions were ever designed to address.",
+      "Wedbush contends this dynamic accelerates the shift towards platform consolidation rather than away from it, and that Palo Alto Networks Inc (NYSE:PANW, XETRA:5AP) and CrowdStrike Holdings Inc (NASDAQ:CRWD), with their scale, module breadth, and customer trust, are best positioned to capture that spending.",
+      "Wedbush carries outperform ratings on both stocks, with a $300 price target on Palo Alto Networks and a $700 target on CrowdStrike.",
+      "On Palo Alto Networks, the bank's channel work points to the company as the only vendor offering unified coverage across network, cloud, and identity security at scale, a combination described as a top budget priority among chief information security officers.",
+      "Cross-selling momentum from its CyberArk-derived acquisition is building, with approximately 75% of deals now involving cross-sell components, and its April acquisition of Koi has established a new agentic endpoint security capability integrated across its Prisma and Cortex platforms.",
+      "The Iran conflict has provided an additional near-term catalyst, with accelerated government and enterprise purchase orders pulling forward deals originally slated for the third quarter and beyond.",
+      "On CrowdStrike, Wedbush highlights Project Quiltworks, a partnership ecosystem spanning Anthropic, OpenAI and IBM, as a key driver of enterprise consolidation momentum.",
+      "Its Charlotte AI platform and agentic security operations centre orchestration capabilities are positioned as a direct counter to increasingly sophisticated AI-powered threats.",
+      "Both companies' federal pipelines remain robust, with cyber budgets continuing to accelerate in the post-Iran conflict environment."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b6354ec8-18f0-3111-b3cb-0ead8088147f/apple-sues-openai-alleging.html",
+    "fetched_at": "2026-07-11T07:00:08.159842-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple sues OpenAI alleging trade secret theft",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "In a classic \"Friday news dump,\" Apple filed a federal lawsuit in California against OpenAI, accusing its once-partner of stealing some of its trade secrets. Specifically, it's alleging that two of its former employees brought proprietary and confidential information about its hardware to OpenAI when they joined.\nThe lawsuit calls to mind Waymo's trade secret theft lawsuit against Uber, filed in 2017. Similarly, a well-established tech giant publicly accused a fast-ascending private company, locked into the frontier tech race of its time, of cheating.\nA decade ago, Waymo's star, Anthony Levandowski, left Google's self-driving car unit to start his own venture, which Uber quickly acquired to boost its autonomous driving ambitions. He also lured former colleagues to join him.\nProprietary files were downloaded. Files were sent to personal emails. Corporate security teams analyzed digital trails.\nWaymo and Uber spent a year in pre-trial hearings, only to cut their expected four-week trial after the fourth day with a settlement. As part of the deal, the former received a $245 million stake in the ride-hailing giant, then valued at $72 billion. On the bright side, they saved the jurors from having to truly focus on mind-numbing lessons about LiDAR design. Levandowsky pled guilty on federal criminal charges, but was later pardoned by President Trump.\nNow, Apple is telling a similar story. It alleges that Tang Tan, a VP of product design, followed former Apple design chief Jony Ive to his hardware startup, which OpenAI eventually acquired for $6.5 billion. Another Apple employee, Chang Liu, later also joined OpenAI and tried to entice other former colleagues. Apple claims that:\n-\nChang Liu allegedly exploited a bug to access Apple's network storage, downloading dozens of confidential files, and coached a still-employed colleague on evading security and preparing for her OpenAI interview using Apple materials.\n-\nTang Tan allegedly used interviews at OpenAI with Apple employees to extract more confidential information and instructed them to bring actual Apple hardware parts to show off. He is also said to have distributed internal Apple documents to new hires to help them avoid raising suspicions when they left.\n-\nOpenAI's interview process is alleged to be designed to obtain confidential Apple information by requiring technical presentations, CAD/design artifacts, and physical parts from Apple.\n-\nOpenAI coached departing employees on how to avoid scrutiny (hiding their next employer, refusing to sign exit paperwork) and never responded when Apple raised concerns in February.\n-\nOpenAI allegedly misled an Apple manufacturing partner into performing a proprietary metal-finishing technique, and a second supplier was approached using proprietary knowledge to obtain more information.",
+    "text_blocks": [
+      "In a classic \"Friday news dump,\" Apple filed a federal lawsuit in California against OpenAI, accusing its once-partner of stealing some of its trade secrets. Specifically, it's alleging that two of its former employees brought proprietary and confidential information about its hardware to OpenAI when they joined.",
+      "The lawsuit calls to mind Waymo's trade secret theft lawsuit against Uber, filed in 2017. Similarly, a well-established tech giant publicly accused a fast-ascending private company, locked into the frontier tech race of its time, of cheating.",
+      "A decade ago, Waymo's star, Anthony Levandowski, left Google's self-driving car unit to start his own venture, which Uber quickly acquired to boost its autonomous driving ambitions. He also lured former colleagues to join him.",
+      "Proprietary files were downloaded. Files were sent to personal emails. Corporate security teams analyzed digital trails.",
+      "Waymo and Uber spent a year in pre-trial hearings, only to cut their expected four-week trial after the fourth day with a settlement. As part of the deal, the former received a $245 million stake in the ride-hailing giant, then valued at $72 billion. On the bright side, they saved the jurors from having to truly focus on mind-numbing lessons about LiDAR design. Levandowsky pled guilty on federal criminal charges, but was later pardoned by President Trump.",
+      "Now, Apple is telling a similar story. It alleges that Tang Tan, a VP of product design, followed former Apple design chief Jony Ive to his hardware startup, which OpenAI eventually acquired for $6.5 billion. Another Apple employee, Chang Liu, later also joined OpenAI and tried to entice other former colleagues. Apple claims that:",
+      "-",
+      "Chang Liu allegedly exploited a bug to access Apple's network storage, downloading dozens of confidential files, and coached a still-employed colleague on evading security and preparing for her OpenAI interview using Apple materials.",
+      "-",
+      "Tang Tan allegedly used interviews at OpenAI with Apple employees to extract more confidential information and instructed them to bring actual Apple hardware parts to show off. He is also said to have distributed internal Apple documents to new hires to help them avoid raising suspicions when they left.",
+      "-",
+      "OpenAI's interview process is alleged to be designed to obtain confidential Apple information by requiring technical presentations, CAD/design artifacts, and physical parts from Apple.",
+      "-",
+      "OpenAI coached departing employees on how to avoid scrutiny (hiding their next employer, refusing to sign exit paperwork) and never responded when Apple raised concerns in February.",
+      "-",
+      "OpenAI allegedly misled an Apple manufacturing partner into performing a proprietary metal-finishing technique, and a second supplier was approached using proprietary knowledge to obtain more information."
+    ],
+    "html": null
+  }
+}

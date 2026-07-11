@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/openai-gpt-5-6-anthropic-google-spacex-7a511e79?mod=bar_FV",
+    "fetched_at": "2026-07-11T07:00:36.826048-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How OpenAI’s New GPT 5.6 Stacks Up Against SpaceX, Google, Anthropic<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "How OpenAI’s New GPT 5.6 Stacks Up Against SpaceX, Google, Anthropic\nOpenAI’s newest family of artificial-intelligence models could help put the company back in the lead of the AI race before its expected initial public offering.\nOpenAI’s newest family of artificial-intelligence models could help put the company back in the lead of the AI race before its expected initial public offering.",
+    "text_blocks": [
+      "How OpenAI’s New GPT 5.6 Stacks Up Against SpaceX, Google, Anthropic",
+      "OpenAI’s newest family of artificial-intelligence models could help put the company back in the lead of the AI race before its expected initial public offering.",
+      "OpenAI’s newest family of artificial-intelligence models could help put the company back in the lead of the AI race before its expected initial public offering."
+    ],
+    "html": null
+  }
+}

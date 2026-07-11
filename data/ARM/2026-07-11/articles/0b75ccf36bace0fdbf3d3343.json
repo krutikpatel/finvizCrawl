@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-unveils-rtx-spark-arm-142621570.html",
+    "fetched_at": "2026-07-11T07:00:57.341998-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Unveils RTX Spark as Arm Surges 14% on PC Push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) is making a direct move into the PC market with its new RTX Spark Superchip, a combined processor and graphics chip designed to bring more AI power into laptops and desktops. CEO Jensen Huang announced at Computex in Taipei that the chip will begin appearing this fall in premium PCs from Dell Technologies (NYSE:DELL), Lenovo Group, and other major brands. Built with help from MediaTek and designed to run Microsoft's Windows for Arm operating system, the product could become Nvidia's most serious attempt yet to challenge the long-standing grip of Intel (NASDAQ:INTC) and Advanced Micro Devices (NASDAQ:AMD) in personal computers.\nInvestors reacted quickly to the news. Intel fell about 7% in pre-market trading, while Nvidia rose about 2%. Arm Holdings (NASDAQ:ARM), whose technology could benefit from Nvidia's backing, surged more than 14%, while MediaTek gained more than 5% in Taipei. The RTX Spark Superchip will include a CPU with up to 20 computing cores and a Blackwell-generation graphics processor with 6,144 cores. Both components will share built-in memory and use Nvidia's NVLink interface, bringing part of Nvidia's data center architecture into the PC market. Taiwan Semiconductor Manufacturing Co. will manufacture the chip design using its 3N process technology.\nFor investors, the bigger message is that Nvidia is trying to push its AI franchise beyond data centers and into everyday computing devices. The first RTX Spark laptops will target thin, light, premium machines, with broader price points possibly coming in later versions. Nvidia said the new devices should be better suited for large AI models, high-end gaming, and AI-powered software such as Adobe Photoshop, while also giving users more secure local control over data and applications. The company did not provide performance comparisons against competing products, saying those details will come when the machines are closer to going on sale. Huang framed Spark as the beginning of a possible PC shakeup that may eventually rival the arrival of the smartphone.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) is making a direct move into the PC market with its new RTX Spark Superchip, a combined processor and graphics chip designed to bring more AI power into laptops and desktops. CEO Jensen Huang announced at Computex in Taipei that the chip will begin appearing this fall in premium PCs from Dell Technologies (NYSE:DELL), Lenovo Group, and other major brands. Built with help from MediaTek and designed to run Microsoft's Windows for Arm operating system, the product could become Nvidia's most serious attempt yet to challenge the long-standing grip of Intel (NASDAQ:INTC) and Advanced Micro Devices (NASDAQ:AMD) in personal computers.",
+      "Investors reacted quickly to the news. Intel fell about 7% in pre-market trading, while Nvidia rose about 2%. Arm Holdings (NASDAQ:ARM), whose technology could benefit from Nvidia's backing, surged more than 14%, while MediaTek gained more than 5% in Taipei. The RTX Spark Superchip will include a CPU with up to 20 computing cores and a Blackwell-generation graphics processor with 6,144 cores. Both components will share built-in memory and use Nvidia's NVLink interface, bringing part of Nvidia's data center architecture into the PC market. Taiwan Semiconductor Manufacturing Co. will manufacture the chip design using its 3N process technology.",
+      "For investors, the bigger message is that Nvidia is trying to push its AI franchise beyond data centers and into everyday computing devices. The first RTX Spark laptops will target thin, light, premium machines, with broader price points possibly coming in later versions. Nvidia said the new devices should be better suited for large AI models, high-end gaming, and AI-powered software such as Adobe Photoshop, while also giving users more secure local control over data and applications. The company did not provide performance comparisons against competing products, saying those details will come when the machines are closer to going on sale. Huang framed Spark as the beginning of a possible PC shakeup that may eventually rival the arrival of the smartphone."
+    ],
+    "html": null
+  }
+}

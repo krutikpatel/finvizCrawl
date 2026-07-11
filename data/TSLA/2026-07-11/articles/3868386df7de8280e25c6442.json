@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/business/autos/a-big-headache-for-police-getting-driverless-cars-to-obey-traffic-laws-d4a5efd2?mod=wsj_FV",
+    "fetched_at": "2026-07-11T07:00:03.401750-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A Big Headache for Police: Getting Driverless Cars to Obey Traffic Laws - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Austin Police Department Corporal Patrick Oborski was manning a busy downtown intersection in Texas when he saw one of Waymo’s robotaxis zoom ahead of traffic—on the wrong side of the road.\nAs any officer in his situation would do, Oborski sprinted toward the car.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Austin Police Department Corporal Patrick Oborski was manning a busy downtown intersection in Texas when he saw one of Waymo’s robotaxis zoom ahead of traffic—on the wrong side of the road.",
+      "As any officer in his situation would do, Oborski sprinted toward the car.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

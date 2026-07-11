@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026/card/softbank-rides-ai-wave-to-all-time-high-cementing-number-one-spot-in-japan-oe0pTR0IdixgtVXqdYPZ?mod=wsj_FV",
+    "fetched_at": "2026-07-11T07:00:56.871963-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SoftBank Stock Rides AI Wave to All-Time High",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Updated June 1, 2026 10:01am ET\nSoftBank Stock Rides AI Wave to All-Time High\nSoftBank, the global tech conglomerate riding high on AI, became Japan’s most valuable company today, as a jump in shares of 14% propelled it past long-dominant Toyota.\nSoftBank stock is at an all-time high: It has gained 57% in the past month and nearly 350% in the past year, taking its market capitalization to about $305 billion, or 48.8 trillion yen, compared with Toyota’s 46 trillion yen, according to data provider FactSet.\nThat ends the carmaker’s 23-year reign atop Japan’s league table. (Excluding so-called treasury shares at the companies, SoftBank surpassed Toyota on market cap last week.)",
+    "text_blocks": [
+      "Updated June 1, 2026 10:01am ET",
+      "SoftBank Stock Rides AI Wave to All-Time High",
+      "SoftBank, the global tech conglomerate riding high on AI, became Japan’s most valuable company today, as a jump in shares of 14% propelled it past long-dominant Toyota.",
+      "SoftBank stock is at an all-time high: It has gained 57% in the past month and nearly 350% in the past year, taking its market capitalization to about $305 billion, or 48.8 trillion yen, compared with Toyota’s 46 trillion yen, according to data provider FactSet.",
+      "That ends the carmaker’s 23-year reign atop Japan’s league table. (Excluding so-called treasury shares at the companies, SoftBank surpassed Toyota on market cap last week.)"
+    ],
+    "html": null
+  }
+}
