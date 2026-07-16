@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c507d92e-6eef-3620-9448-35f8913ec8a6/intel%2C-arm-face-near-term.html",
+    "fetched_at": "2026-07-16T07:00:48.235969-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel, ARM face near-term pain while AMD rides server boom: BofA",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "CPU makers Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD), Intel Corp (NASDAQ:INTC, XETRA:INL), Arm Holdings PLC (NASDAQ:ARM) and Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) are all reporting earnings in the coming weeks, and Bank of America says the results will tell very different stories depending on the business.\nPC and smartphone sales are still struggling, both down more than 10-15% year-over-year in 2026 estimates. But AI server chips are a different picture entirely. Demand keeps climbing as more companies adopt agentic AI and keep spending on data center buildout.\nBofA flagged a few big questions investors should watch this earnings season: how big the server CPU market really is (estimates range from $120 billion to $200 billion or more), whether recent price increases will stick, how much CPU power each new AI system actually needs, whether supply can keep up with demand, and how market share will shake out as more chip options hit the market.\nSpeed or scale?\nThere's also a real debate brewing over what makes a CPU good at AI. Some, including Nvidia, argue that faster individual cores matter most since they cut down latency on tool calls. AMD sees it differently, arguing that handling many tasks at once and overall rack performance matter more. BofA thinks both sides have a point, and either way, it points to stronger CPU demand ahead.\nAMD: expect a beat and raise\nBofA expects AMD to beat expectations and raise guidance, driven by continued market share gains, strong cloud demand and solid visibility into supply. The firm thinks AMD's next quarterly outlook will include news of the first shipment of its MI455X \"Helios\" rack, setting up a bigger ramp by Q4 that could hit $6-7 billion a quarter or more. AMD's new Venice server chip is also launching around the same time.\nManagement last pegged the server CPU market at $120 billion back in May, and BofA thinks that number could climb higher. The firm raised its price target on AMD to $620 from $550, pointing to the company's July 23 \"Advancing AI\" event as a potential catalyst.\nIntel: pricing should cushion the blow\nPC unit sales remain a drag for Intel, likely down 10-15% or more this year. But BofA expects better pricing on both PC and server chips, plus AI demand, to make up for it. Investors will likely be watching margins in Intel's Products segment, along with updates on its foundry business and next-gen 18A server chips. BofA currently sees Intel's server market share sliding to 24% by 2030, down from 41% last year.",
+    "text_blocks": [
+      "CPU makers Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD), Intel Corp (NASDAQ:INTC, XETRA:INL), Arm Holdings PLC (NASDAQ:ARM) and Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) are all reporting earnings in the coming weeks, and Bank of America says the results will tell very different stories depending on the business.",
+      "PC and smartphone sales are still struggling, both down more than 10-15% year-over-year in 2026 estimates. But AI server chips are a different picture entirely. Demand keeps climbing as more companies adopt agentic AI and keep spending on data center buildout.",
+      "BofA flagged a few big questions investors should watch this earnings season: how big the server CPU market really is (estimates range from $120 billion to $200 billion or more), whether recent price increases will stick, how much CPU power each new AI system actually needs, whether supply can keep up with demand, and how market share will shake out as more chip options hit the market.",
+      "Speed or scale?",
+      "There's also a real debate brewing over what makes a CPU good at AI. Some, including Nvidia, argue that faster individual cores matter most since they cut down latency on tool calls. AMD sees it differently, arguing that handling many tasks at once and overall rack performance matter more. BofA thinks both sides have a point, and either way, it points to stronger CPU demand ahead.",
+      "AMD: expect a beat and raise",
+      "BofA expects AMD to beat expectations and raise guidance, driven by continued market share gains, strong cloud demand and solid visibility into supply. The firm thinks AMD's next quarterly outlook will include news of the first shipment of its MI455X \"Helios\" rack, setting up a bigger ramp by Q4 that could hit $6-7 billion a quarter or more. AMD's new Venice server chip is also launching around the same time.",
+      "Management last pegged the server CPU market at $120 billion back in May, and BofA thinks that number could climb higher. The firm raised its price target on AMD to $620 from $550, pointing to the company's July 23 \"Advancing AI\" event as a potential catalyst.",
+      "Intel: pricing should cushion the blow",
+      "PC unit sales remain a drag for Intel, likely down 10-15% or more this year. But BofA expects better pricing on both PC and server chips, plus AI demand, to make up for it. Investors will likely be watching margins in Intel's Products segment, along with updates on its foundry business and next-gen 18A server chips. BofA currently sees Intel's server market share sliding to 24% by 2030, down from 41% last year."
+    ],
+    "html": null
+  }
+}

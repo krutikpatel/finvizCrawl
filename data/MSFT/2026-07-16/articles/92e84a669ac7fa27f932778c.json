@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/csquare-ipo-data-center-ai-stock-574e67b9?mod=bar_FV",
+    "fetched_at": "2026-07-16T07:00:27.713777-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This Data Center IPO Is Next the Big Test for the AI Stock Trade<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This Data Center IPO Is the Next Big Test for the AI Trade\nYou can’t use ChatGPT, Claude, or Gemini without data centers to provide the massive amounts of computing power necessary for these artificial-intelligence models. That’s a key reason why top data-center stocks Digital Realty Trust and Equinix have surged this year. Now, another data-center company is looking to test investors’ appetite for all things AI—as well as for initial public offerings. It’s not looking promising.",
+    "text_blocks": [
+      "This Data Center IPO Is the Next Big Test for the AI Trade",
+      "You can’t use ChatGPT, Claude, or Gemini without data centers to provide the massive amounts of computing power necessary for these artificial-intelligence models. That’s a key reason why top data-center stocks Digital Realty Trust and Equinix have surged this year. Now, another data-center company is looking to test investors’ appetite for all things AI—as well as for initial public offerings. It’s not looking promising."
+    ],
+    "html": null
+  }
+}

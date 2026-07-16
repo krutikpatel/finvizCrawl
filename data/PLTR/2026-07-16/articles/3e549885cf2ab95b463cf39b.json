@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/sold-last-company-palantir-now-120000137.html",
+    "fetched_at": "2026-07-16T07:00:34.107379-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "He sold his last company to Palantir. Now he’s betting $32 million that robots can fix construction’s labor crisis",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "He sold his last company to Palantir. Now he’s betting $32 million that robots can fix construction’s labor crisis\nSalar al Khafaji sold his last company, Silk, to Palantir in 2016. A week after he left, he knew he was going to build again. Al Khafaji landed on construction—an industry many in tech saw as a graveyard. \"Most people told me it's a really, really bad idea,\" he told Fortune.\nHis Amsterdam-based construction robotics company, Monumental raised a $32 million Series B led by Khosla Ventures, Fortune learned exclusively. The round follows a $25 million round in February 2024 co-led by Plural and Hummingbird. The new capital will fund a U.S. launch this year, scale its European robot fleet, and expand the range of tasks its machines can handle.\nAl Khafaji's nay-sayers weren't wrong to be skeptical about the construction space. Construction technology has burned through substantial venture capital in the past seven years and investment activity in the space has ultimately declined 33% year-on-year. Katerra—a SoftBank-backed startup that tried to overhaul the entire construction supply chain under one roof—raised over $1 billion and went bankrupt in 2021. Australia's FBR built a truck-mounted bricklaying robot arm that can lay up to 360 blocks per hour, but at nearly $6 million per machine it requires contractors to make a massive upfront bet on unproven technology. The pattern repeats: bold technology, wrong business model, contractor walks away.\nMonumental builds fleets of compact, electric, self-driving bricklaying robots that show up on construction sites and lay walls. The company works like a specialist subcontractor—the kind a general contractor hires to handle one specific job, like plumbing or electrical—except the crew is robots. Contractors get a quote in familiar terms (per brick, per square meter), and Monumental handles everything else. \"We're selling them a wall,\" al Khafaji explained.\nThe company uses whatever bricks and mortar a contractor already specifies, meaning regulators see nothing new to approve. Al Khafaji explained this as a deliberate workaround to the building-code fragmentation that killed many of its predecessors. The company currently has more than 150 robots on live European job sites.\nMonumental's latest round coincides with a greater shortage of construction labor. Global construction accounts for 13% of world GDP but has seen virtually no productivity gains in 50 years. In the U.S., the industry needs 349,000 net new workers in 2026 alone, and the housing shortfall sits at 3 to 4 million units. Al Khafaji is blunt about the scale: \"You could have 10,000 robots a day and we would literally have just touched a few percentage points of the shortage.\" That framing—filling a hole, not displacing workers—is also Monumental's political cover entering a union-heavy market where tightening immigration enforcement is already shrinking the informal labor pool that much of American construction quietly depends on.",
+    "text_blocks": [
+      "He sold his last company to Palantir. Now he’s betting $32 million that robots can fix construction’s labor crisis",
+      "Salar al Khafaji sold his last company, Silk, to Palantir in 2016. A week after he left, he knew he was going to build again. Al Khafaji landed on construction—an industry many in tech saw as a graveyard. \"Most people told me it's a really, really bad idea,\" he told Fortune.",
+      "His Amsterdam-based construction robotics company, Monumental raised a $32 million Series B led by Khosla Ventures, Fortune learned exclusively. The round follows a $25 million round in February 2024 co-led by Plural and Hummingbird. The new capital will fund a U.S. launch this year, scale its European robot fleet, and expand the range of tasks its machines can handle.",
+      "Al Khafaji's nay-sayers weren't wrong to be skeptical about the construction space. Construction technology has burned through substantial venture capital in the past seven years and investment activity in the space has ultimately declined 33% year-on-year. Katerra—a SoftBank-backed startup that tried to overhaul the entire construction supply chain under one roof—raised over $1 billion and went bankrupt in 2021. Australia's FBR built a truck-mounted bricklaying robot arm that can lay up to 360 blocks per hour, but at nearly $6 million per machine it requires contractors to make a massive upfront bet on unproven technology. The pattern repeats: bold technology, wrong business model, contractor walks away.",
+      "Monumental builds fleets of compact, electric, self-driving bricklaying robots that show up on construction sites and lay walls. The company works like a specialist subcontractor—the kind a general contractor hires to handle one specific job, like plumbing or electrical—except the crew is robots. Contractors get a quote in familiar terms (per brick, per square meter), and Monumental handles everything else. \"We're selling them a wall,\" al Khafaji explained.",
+      "The company uses whatever bricks and mortar a contractor already specifies, meaning regulators see nothing new to approve. Al Khafaji explained this as a deliberate workaround to the building-code fragmentation that killed many of its predecessors. The company currently has more than 150 robots on live European job sites.",
+      "Monumental's latest round coincides with a greater shortage of construction labor. Global construction accounts for 13% of world GDP but has seen virtually no productivity gains in 50 years. In the U.S., the industry needs 349,000 net new workers in 2026 alone, and the housing shortfall sits at 3 to 4 million units. Al Khafaji is blunt about the scale: \"You could have 10,000 robots a day and we would literally have just touched a few percentage points of the shortage.\" That framing—filling a hole, not displacing workers—is also Monumental's political cover entering a union-heavy market where tightening immigration enforcement is already shrinking the informal labor pool that much of American construction quietly depends on."
+    ],
+    "html": null
+  }
+}

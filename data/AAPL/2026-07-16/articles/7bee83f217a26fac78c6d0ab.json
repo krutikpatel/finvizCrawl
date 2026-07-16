@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/eu-orders-google-open-android-131301212.html",
+    "fetched_at": "2026-07-16T07:00:08.213889-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "EU orders Google to open Android, search data to OpenAI and AI rivals",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Alphabet's Google will be required to open key Android features and share certain search-related data with OpenAI and other artificial intelligence rivals under new European Union rules aimed at curbing the company's market dominance, EU regulators said on Thursday.\nThe European Commission outlined the measures six months after launching proceedings to clarify how Google should comply with the Digital Markets Act (DMA), the bloc's landmark legislation designed to rein in the power of major technology companies.\nThe move marks the latest step in the European Union's broader effort to curb the dominance of major technology \"gatekeepers.\" In recent months, Brussels has pushed Google to open Gemini-related services to rival AI firms and search engines, required Apple to improve interoperability with third-party devices, and ordered Meta to remove key engagement features, including infinite scrolling, that regulators say can foster addictive user behavior.\nUnder the new requirements, Google must provide competing AI developers with access to 11 Android system features, enabling their assistants to perform functions currently available to Google's Gemini AI. From July 2027, users will be able to set rival AI assistants as the default voice assistant and activate them through voice commands to carry out tasks such as booking rides or retrieving location information.\nThe Commission said the measures include safeguards to protect user privacy and device security, with access limited to developers that meet specified cybersecurity and data protection standards.\nSeparately, Google will be required to share anonymized search data used to improve its search engine with OpenAI and other AI chatbot providers that offer search capabilities. The rules, which take effect in January 2027, allow Google to assess whether applicants pose cybersecurity or privacy risks before granting access and include a pricing mechanism for the shared data.\n\"Thanks to these measures we hope to see emerging alternatives to Google Search and Google's AI services, such as Gemini, and that users in the EU can enjoy greater choice of services,\" EU tech chief Henna Virkkunen said.\nRelated articles\nEU orders Google to open Android, search data to OpenAI and AI rivals\nGoldman expects lower but still attractive stock market returns in 2026\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- Alphabet's Google will be required to open key Android features and share certain search-related data with OpenAI and other artificial intelligence rivals under new European Union rules aimed at curbing the company's market dominance, EU regulators said on Thursday.",
+      "The European Commission outlined the measures six months after launching proceedings to clarify how Google should comply with the Digital Markets Act (DMA), the bloc's landmark legislation designed to rein in the power of major technology companies.",
+      "The move marks the latest step in the European Union's broader effort to curb the dominance of major technology \"gatekeepers.\" In recent months, Brussels has pushed Google to open Gemini-related services to rival AI firms and search engines, required Apple to improve interoperability with third-party devices, and ordered Meta to remove key engagement features, including infinite scrolling, that regulators say can foster addictive user behavior.",
+      "Under the new requirements, Google must provide competing AI developers with access to 11 Android system features, enabling their assistants to perform functions currently available to Google's Gemini AI. From July 2027, users will be able to set rival AI assistants as the default voice assistant and activate them through voice commands to carry out tasks such as booking rides or retrieving location information.",
+      "The Commission said the measures include safeguards to protect user privacy and device security, with access limited to developers that meet specified cybersecurity and data protection standards.",
+      "Separately, Google will be required to share anonymized search data used to improve its search engine with OpenAI and other AI chatbot providers that offer search capabilities. The rules, which take effect in January 2027, allow Google to assess whether applicants pose cybersecurity or privacy risks before granting access and include a pricing mechanism for the shared data.",
+      "\"Thanks to these measures we hope to see emerging alternatives to Google Search and Google's AI services, such as Gemini, and that users in the EU can enjoy greater choice of services,\" EU tech chief Henna Virkkunen said.",
+      "Related articles",
+      "EU orders Google to open Android, search data to OpenAI and AI rivals",
+      "Goldman expects lower but still attractive stock market returns in 2026",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

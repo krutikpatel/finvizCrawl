@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-cto-sees-chinese-ai-172903924.html",
+    "fetched_at": "2026-07-16T07:00:34.080541-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir’s CTO Sees Chinese AI Models Posing Economic Risk to US",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Palantir Technologies Inc. Chief Technology Officer Shyam Sankar said that China has developed a new vanguard of artificial intelligence models through unauthorized use of work produced by Silicon Valley AI developers, posing an economic threat to the US.\nMost Read from Bloomberg\n-\nThailand Scraps Plan to End Visa-Free Entry for Indian Tourists\n-\nOpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion\n-\nUS Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge\n\"These Chinese open source models are really the result of distillation attacks,\" Sankar said Wednesday in a Bloomberg Television interview on the sidelines of a defense innovation conference in Pennsylvania. \"Most of this is just stolen American IP from frontier labs.\"\nSankar's comments highlighted growing concerns among top American AI companies that their Chinese rivals are improperly using a technique known as distillation, where developers train systems using results from another AI model to create similar capabilities in a new one at a far lower cost. He called on leading US labs to do more to protect their intellectual property, saying it's \"in their own economic interests.\"\nLast month, Anthropic accused Chinese technology giant Alibaba Group Holding Ltd. of waging a large-scale distillation campaign against its Claude model through thousands of fraudulent accounts. It marked the latest claim from a US-based AI lab that competitors in China, including AI startups DeepSeek and MiniMax, had resorted to the method to develop a rival generation of chatbots.\nSankar pointed to what he called an even bigger economic threat looming in the US from the backlash to AI, particularly in the growing nationwide opposition to the data centers needed to run the technology. He cited a newly enacted one-year moratorium on new data centers in New York ordered Tuesday by Governor Kathy Hochul.\n\"Turning our back on AI would be as consequential a mistake as turning our back on the atom in the '70s,\" he said.\nSeparately, Sankar said that he doesn't fault France for its decision last month to drop Palantir as a provider of data tools for its domestic intelligence agency in favor of a local alternative, saying that it was a decision by the government to spend its money on its own companies. The move came as France and other European countries seek to promote tech sovereignty and reduce their reliance on the US for advanced systems, including artificial intelligence.",
+    "text_blocks": [
+      "(Bloomberg) -- Palantir Technologies Inc. Chief Technology Officer Shyam Sankar said that China has developed a new vanguard of artificial intelligence models through unauthorized use of work produced by Silicon Valley AI developers, posing an economic threat to the US.",
+      "Most Read from Bloomberg",
+      "-",
+      "Thailand Scraps Plan to End Visa-Free Entry for Indian Tourists",
+      "-",
+      "OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion",
+      "-",
+      "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge",
+      "\"These Chinese open source models are really the result of distillation attacks,\" Sankar said Wednesday in a Bloomberg Television interview on the sidelines of a defense innovation conference in Pennsylvania. \"Most of this is just stolen American IP from frontier labs.\"",
+      "Sankar's comments highlighted growing concerns among top American AI companies that their Chinese rivals are improperly using a technique known as distillation, where developers train systems using results from another AI model to create similar capabilities in a new one at a far lower cost. He called on leading US labs to do more to protect their intellectual property, saying it's \"in their own economic interests.\"",
+      "Last month, Anthropic accused Chinese technology giant Alibaba Group Holding Ltd. of waging a large-scale distillation campaign against its Claude model through thousands of fraudulent accounts. It marked the latest claim from a US-based AI lab that competitors in China, including AI startups DeepSeek and MiniMax, had resorted to the method to develop a rival generation of chatbots.",
+      "Sankar pointed to what he called an even bigger economic threat looming in the US from the backlash to AI, particularly in the growing nationwide opposition to the data centers needed to run the technology. He cited a newly enacted one-year moratorium on new data centers in New York ordered Tuesday by Governor Kathy Hochul.",
+      "\"Turning our back on AI would be as consequential a mistake as turning our back on the atom in the '70s,\" he said.",
+      "Separately, Sankar said that he doesn't fault France for its decision last month to drop Palantir as a provider of data tools for its domestic intelligence agency in favor of a local alternative, saying that it was a decision by the government to spend its money on its own companies. The move came as France and other European countries seek to promote tech sovereignty and reduce their reliance on the US for advanced systems, including artificial intelligence."
+    ],
+    "html": null
+  }
+}

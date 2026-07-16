@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02?mod=bar_FV",
+    "fetched_at": "2026-07-16T07:00:04.171745-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.\nTesla stock dropped early Thursday, despite a preliminary report from the National Transportation Safety Board that essentially cleared Tesla’s Full Self Driving product of responsibility in a recent crash in Texas.",
+    "text_blocks": [
+      "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
+      "Tesla stock dropped early Thursday, despite a preliminary report from the National Transportation Safety Board that essentially cleared Tesla’s Full Self Driving product of responsibility in a recent crash in Texas."
+    ],
+    "html": null
+  }
+}

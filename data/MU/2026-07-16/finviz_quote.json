@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=MU",
+    "fetched_at": "2026-07-16T07:00:11.961999-07:00"
+  },
+  "company": {
+    "name": "Micron Technology Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 866.44,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "978.55B",
+    "Enterprise Value": "958.88B",
+    "Income": "50.47B",
+    "Sales": "90.27B",
+    "Book/sh": "89.22",
+    "Cash/sh": "23.06",
+    "Dividend Est.": "0.58 (0.07%)",
+    "Dividend TTM": "0.53 (0.06%)",
+    "Dividend Ex-Date": "Jul 06, 2026",
+    "Dividend Gr. 3/5Y": "2.27% -",
+    "Payout": "6.06%",
+    "Employees": "53000",
+    "IPO": "Jun 01, 1984"
+  },
+  "raw": null
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/retail-sales-get-boost-from-car-buyers-and-amazon-prime-day-economy-hasnt-lost-its-mojo-70fe8733?mod=mw_FV",
+    "fetched_at": "2026-07-16T07:00:39.480552-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Retail sales get boost from car buyers and Amazon Prime Day. Economy hasn’t lost its mojo. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Economic Report\nRetail sales get boost from car buyers and Amazon Prime Day. Economy hasn’t lost its mojo.\nIran war and high inflation have limited impact\nSales at retailers rose briskly in June as Americans bought more new cars and spent more online during Amazon’s annual summer sales event, signaling steady growth in the U.S. economy.\nSales at U.S. retailers increased 0.2% in June, the government said Thursday.",
+    "text_blocks": [
+      "Economic Report",
+      "Retail sales get boost from car buyers and Amazon Prime Day. Economy hasn’t lost its mojo.",
+      "Iran war and high inflation have limited impact",
+      "Sales at retailers rose briskly in June as Americans bought more new cars and spent more online during Amazon’s annual summer sales event, signaling steady growth in the U.S. economy.",
+      "Sales at U.S. retailers increased 0.2% in June, the government said Thursday."
+    ],
+    "html": null
+  }
+}

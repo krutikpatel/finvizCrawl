@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/tsmc-plans-bigger-u-chip-122652041.html",
+    "fetched_at": "2026-07-16T07:00:36.950814-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "TSMC Plans Bigger U.S. Chip Expansion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTaiwan Semiconductor Manufacturing (NYSE:TSM) reportedly plans to invest another $100 billion in U.S. chip production, lifting its total commitment to $265 billion as Washington pushes to strengthen domestic semiconductor capacity.\nThe new spending could fund 4 additional facilities producing advanced 2-nanometer logic chips, according to Bloomberg. That would bring TSMC's planned U.S. footprint to as many as 10 fabs and 2 advanced packaging plants, though the company may adjust the mix depending on market conditions.\nTSMC is the world's largest contract chipmaker, manufacturing processors designed by companies including Nvidia (NASDAQ:NVDA), Apple (NASDAQ:AAPL) and AMD (NASDAQ:AMD). Its advanced fabrication technology is central to AI, smartphones and high-performance computing.\nThe company's first Phoenix fab began producing 4-nanometer chips in late 2024, while a second plant is expected to start 3-nanometer production in the second half of 2027.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Taiwan Semiconductor Manufacturing (NYSE:TSM) reportedly plans to invest another $100 billion in U.S. chip production, lifting its total commitment to $265 billion as Washington pushes to strengthen domestic semiconductor capacity.",
+      "The new spending could fund 4 additional facilities producing advanced 2-nanometer logic chips, according to Bloomberg. That would bring TSMC's planned U.S. footprint to as many as 10 fabs and 2 advanced packaging plants, though the company may adjust the mix depending on market conditions.",
+      "TSMC is the world's largest contract chipmaker, manufacturing processors designed by companies including Nvidia (NASDAQ:NVDA), Apple (NASDAQ:AAPL) and AMD (NASDAQ:AMD). Its advanced fabrication technology is central to AI, smartphones and high-performance computing.",
+      "The company's first Phoenix fab began producing 4-nanometer chips in late 2024, while a second plant is expected to start 3-nanometer production in the second half of 2027."
+    ],
+    "html": null
+  }
+}

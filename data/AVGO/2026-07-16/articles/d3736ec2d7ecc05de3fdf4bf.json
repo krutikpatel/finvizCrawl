@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/us-probes-samsung-alleged-infringement-105613259.html",
+    "fetched_at": "2026-07-16T07:00:30.922814-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US probes Samsung for alleged infringement of Netlist's memory-chip patents",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 16 (Reuters) - U.S. trade regulators have launched a probe into Samsung Electronics' memory chips and products sold by Google, Nvidia, Broadcom and Super Micro Computer that use them following a complaint by Netlist alleging infringement of its patents.\nCalifornia-based Netlist has accused Samsung and its U.S. units of infringing its patents on dynamic random access memory, a type of chip that temporarily stores data for processors and is a critical component in the servers powering the AI boom, the U.S. International Trade Commission said on Wednesday.\nNetlist has asked the USITC to block imports of the disputed chips and products and order the companies to stop selling them in the U.S. An ITC judge will hold an evidentiary hearing and issue an initial ruling, subject to review by the commission.\nThe USITC will set a target date for wrapping up the probe within 45 days. Any order it issues takes effect immediately and becomes final after 60 days unless the U.S. Trade Representative overrides it on policy grounds.\nThe investigation is the latest escalation in a years-long patent fight between the companies over high-performance memory.\nA Texas jury had awarded Netlist $118 million from Samsung in 2024 over data-processing technology in memory products, following a $303 million verdict in a related case in 2023.\nDemand for memory chips has since surged as big U.S. technology companies race to build out data centers needed to power AI services, driving up prices of chips made by the likes of Samsung, SK Hynix and Micron.\nSamsung, Alphabet-owned Google, Nvidia, Broadcom and Super Micro Computer did not immediately respond to Reuters' requests for comment.\n(Reporting by Aditya Soni in Bengaluru; Editing by Shilpi Majumdar)",
+    "text_blocks": [
+      "July 16 (Reuters) - U.S. trade regulators have launched a probe into Samsung Electronics' memory chips and products sold by Google, Nvidia, Broadcom and Super Micro Computer that use them following a complaint by Netlist alleging infringement of its patents.",
+      "California-based Netlist has accused Samsung and its U.S. units of infringing its patents on dynamic random access memory, a type of chip that temporarily stores data for processors and is a critical component in the servers powering the AI boom, the U.S. International Trade Commission said on Wednesday.",
+      "Netlist has asked the USITC to block imports of the disputed chips and products and order the companies to stop selling them in the U.S. An ITC judge will hold an evidentiary hearing and issue an initial ruling, subject to review by the commission.",
+      "The USITC will set a target date for wrapping up the probe within 45 days. Any order it issues takes effect immediately and becomes final after 60 days unless the U.S. Trade Representative overrides it on policy grounds.",
+      "The investigation is the latest escalation in a years-long patent fight between the companies over high-performance memory.",
+      "A Texas jury had awarded Netlist $118 million from Samsung in 2024 over data-processing technology in memory products, following a $303 million verdict in a related case in 2023.",
+      "Demand for memory chips has since surged as big U.S. technology companies race to build out data centers needed to power AI services, driving up prices of chips made by the likes of Samsung, SK Hynix and Micron.",
+      "Samsung, Alphabet-owned Google, Nvidia, Broadcom and Super Micro Computer did not immediately respond to Reuters' requests for comment.",
+      "(Reporting by Aditya Soni in Bengaluru; Editing by Shilpi Majumdar)"
+    ],
+    "html": null
+  }
+}

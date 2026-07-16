@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/310d5d30-dff0-376d-a1b0-0e63ec8a4072/blackrock%2C-vanguard-and.html",
+    "fetched_at": "2026-07-16T07:00:28.057935-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BlackRock, Vanguard and JPMorgan Join DTCC's Tokenization Pilot: Which Crypto Could Benefit?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Takeaways\n-\nDTCC launched a live tokenization pilot with BlackRock, Vanguard, JPMorgan, and nearly 40 financial firms.\n-\nThe trial tokenizes Microsoft, SPY, QQQ, and US Treasuries ahead of an October rollout.\n-\nChainlink, Ethereum, XRP Ledger, and Stellar could benefit as institutional tokenization expands.\nWall Street's largest post-trade infrastructure provider has moved tokenization from controlled testing into live market activity.\nOn July 15, the Depository Trust & Clearing Corporation (DTCC) completed its first production trades using tokenized versions of traditional securities, bringing together nearly 40 financial institutions, including BlackRock, Vanguard, JPMorgan, Goldman Sachs, and the New York Stock Exchange.\nThe initiative is a precursor to DTCC's commercial Tokenization Service, scheduled to launch in October.\nThe pilot includes tokenized versions of Microsoft (MSFT) shares, the Invesco QQQ ETF, the SPDR S&P 500 ETF (SPY), the iShares 0–3 Month Treasury Bond ETF (SHV), US Treasuries, and other eligible assets.\nUnlike wrapped tokens issued on public blockchains, DTCC's digital assets remain fully backed by securities held in custody, giving holders identical legal ownership, dividend, and voting rights.\nWhy DTCC's Pilot Matters\nDTCC safeguards more than $114 trillion in securities and processes quadrillions of dollars in annual transactions, making it one of the most important pieces of global financial infrastructure.\nIts decision to tokenize real assets signals that blockchain is increasingly being viewed as an operational upgrade rather than an experimental technology.\nDuring the pilot, participants tested equity trades, Treasury transactions, repo operations, collateral pledges, and delivery-versus-payment settlement using tokenized assets.\nThe transactions were executed across DTCC's private Hyperledger Besu infrastructure and the Canton Network, allowing institutions to move collateral more efficiently while remaining inside existing regulatory frameworks.\nWhich Crypto Projects Could Benefit\nThe initiative does not directly involve public cryptocurrencies, but it strengthens the long-term investment case for blockchain infrastructure serving institutional finance.\nChainlink is one of the clearest beneficiaries, as its Cross-Chain Interoperability Protocol (CCIP) already connects multiple tokenization platforms and has previously worked with DTCC on tokenized asset demonstrations. As institutional assets move across different blockchains, interoperability becomes increasingly valuable.",
+    "text_blocks": [
+      "Key Takeaways",
+      "-",
+      "DTCC launched a live tokenization pilot with BlackRock, Vanguard, JPMorgan, and nearly 40 financial firms.",
+      "-",
+      "The trial tokenizes Microsoft, SPY, QQQ, and US Treasuries ahead of an October rollout.",
+      "-",
+      "Chainlink, Ethereum, XRP Ledger, and Stellar could benefit as institutional tokenization expands.",
+      "Wall Street's largest post-trade infrastructure provider has moved tokenization from controlled testing into live market activity.",
+      "On July 15, the Depository Trust & Clearing Corporation (DTCC) completed its first production trades using tokenized versions of traditional securities, bringing together nearly 40 financial institutions, including BlackRock, Vanguard, JPMorgan, Goldman Sachs, and the New York Stock Exchange.",
+      "The initiative is a precursor to DTCC's commercial Tokenization Service, scheduled to launch in October.",
+      "The pilot includes tokenized versions of Microsoft (MSFT) shares, the Invesco QQQ ETF, the SPDR S&P 500 ETF (SPY), the iShares 0–3 Month Treasury Bond ETF (SHV), US Treasuries, and other eligible assets.",
+      "Unlike wrapped tokens issued on public blockchains, DTCC's digital assets remain fully backed by securities held in custody, giving holders identical legal ownership, dividend, and voting rights.",
+      "Why DTCC's Pilot Matters",
+      "DTCC safeguards more than $114 trillion in securities and processes quadrillions of dollars in annual transactions, making it one of the most important pieces of global financial infrastructure.",
+      "Its decision to tokenize real assets signals that blockchain is increasingly being viewed as an operational upgrade rather than an experimental technology.",
+      "During the pilot, participants tested equity trades, Treasury transactions, repo operations, collateral pledges, and delivery-versus-payment settlement using tokenized assets.",
+      "The transactions were executed across DTCC's private Hyperledger Besu infrastructure and the Canton Network, allowing institutions to move collateral more efficiently while remaining inside existing regulatory frameworks.",
+      "Which Crypto Projects Could Benefit",
+      "The initiative does not directly involve public cryptocurrencies, but it strengthens the long-term investment case for blockchain infrastructure serving institutional finance.",
+      "Chainlink is one of the clearest beneficiaries, as its Cross-Chain Interoperability Protocol (CCIP) already connects multiple tokenization platforms and has previously worked with DTCC on tokenized asset demonstrations. As institutional assets move across different blockchains, interoperability becomes increasingly valuable."
+    ],
+    "html": null
+  }
+}

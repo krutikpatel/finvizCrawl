@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/micron-signs-deals-qualcomm-others-130233432.html",
+    "fetched_at": "2026-07-16T07:00:37.060347-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron signs deals with Qualcomm, others for AI-powered automobile chip components",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 16 (Reuters) - Micron Technology on Thursday signed long-term agreements with automotive suppliers, including chip designer Qualcomm and audio products maker Harman, to secure memory and storage components that powers AI-enabled vehicles.\nThe agreements come as the industry races to expand manufacturing capacity to meet the booming demand for memory chips due to the rapid adoption of AI tools.\nThese chips are used in data centers, consumer electronics and vehicles, where they support AI-enabled features such as ADAS and digital cockpits.\nMicron, the only U.S.-based manufacturer of high bandwidth memory chips used with Nvidia's AI processors, has also seen the extraordinary demand, allowing it and rivals SK Hynix and Samsung Electronics to charge premium prices.\nThe chipmaker's agreements, including those with auto parts suppliers Visteon, JOYNEXT, DENSO, Astemo, and Hyundai Mobis, aim to offer stable supply and pricing for better production planning and investments in future advanced vehicle platforms.\n\"As vehicles become increasingly software-defined, automakers need technology platforms that bring together high-performance compute, connectivity, memory and storage,\" said Cristiano Amon, president and CEO of Qualcomm.\nMicron CEO Sanjay Mehrotra said in June the company signed 16 strategic customer agreements, as he expects data center-driven growth will be increasingly complemented by AI-enabled features in smartphones, high-end PCs, automotive applications and robotics.\n(Reporting by Jaspreet Singh in Bengaluru; Editing by Leroy Leo)",
+    "text_blocks": [
+      "July 16 (Reuters) - Micron Technology on Thursday signed long-term agreements with automotive suppliers, including chip designer Qualcomm and audio products maker Harman, to secure memory and storage components that powers AI-enabled vehicles.",
+      "The agreements come as the industry races to expand manufacturing capacity to meet the booming demand for memory chips due to the rapid adoption of AI tools.",
+      "These chips are used in data centers, consumer electronics and vehicles, where they support AI-enabled features such as ADAS and digital cockpits.",
+      "Micron, the only U.S.-based manufacturer of high bandwidth memory chips used with Nvidia's AI processors, has also seen the extraordinary demand, allowing it and rivals SK Hynix and Samsung Electronics to charge premium prices.",
+      "The chipmaker's agreements, including those with auto parts suppliers Visteon, JOYNEXT, DENSO, Astemo, and Hyundai Mobis, aim to offer stable supply and pricing for better production planning and investments in future advanced vehicle platforms.",
+      "\"As vehicles become increasingly software-defined, automakers need technology platforms that bring together high-performance compute, connectivity, memory and storage,\" said Cristiano Amon, president and CEO of Qualcomm.",
+      "Micron CEO Sanjay Mehrotra said in June the company signed 16 strategic customer agreements, as he expects data center-driven growth will be increasingly complemented by AI-enabled features in smartphones, high-end PCs, automotive applications and robotics.",
+      "(Reporting by Jaspreet Singh in Bengaluru; Editing by Leroy Leo)"
+    ],
+    "html": null
+  }
+}

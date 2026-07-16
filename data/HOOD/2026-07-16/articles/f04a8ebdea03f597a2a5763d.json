@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/38ee5fab-5534-36e8-9ec9-ba806a15cc67/why-robinhood-could-see-a.html",
+    "fetched_at": "2026-07-16T07:00:18.233648-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Robinhood Could See a Prediction Markets Earnings Boost",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood's next earnings surprise may have little to do with stocks or crypto.\nHeading into its second-quarter report at the end of July, the trading platform is likely seeing a sharp acceleration in prediction-market activity, according to Fundstrat's Sean Farrell.\nIn a new interview with Coinage, Farrell estimated that the growth in the new trading arena may still be underestimated by investors more focused on dedicated prediction-market platforms like Kalshi and Polymarket.\n\"I think the market is overlooking this fact,\" Farrell said, pointing to growth estimates he'd put together using similar metrics seen on Polymarket. By his count, Robinhood likely saw a more than 40% surge in revenue related to event contracts relative to the first quarter.\nThe reason it matters is that prediction markets are no longer an experimental side product for Robinhood. In the first quarter, event contracts generated $104 million in revenue — up from just $3 million a year earlier — and accounted for 10% of Robinhood's total net revenue. Crypto trading, by comparison, generated $134 million after falling 47% year-over-year.\nIn other words, a product that barely contributed to Robinhood's business a year ago has already grown to nearly rival its crypto operation.\nThat makes the second quarter especially important. Even before June's World Cup-related surge, prediction-market volumes were already rising steadily. Farrell believes sports contracts would be a major driver of that acceleration.\nRead More from Coinage:\n\"They have demonstrated some very compelling traction in those event contracts,\" he said. \"Given the World Cup that we just had, which I think has been a huge catalyst for prediction market volumes, I think that they're probably going to post a pretty impressive June and July.\"\nRobinhood launched markets covering more than 100 World Cup matches in June, allowing customers to trade contracts on individual games, tournament winners, spreads, totals and player performance. The company also began routing some of those contracts through Rothera, the CFTC-licensed exchange and clearinghouse created through its joint venture with Susquehanna International Group.\nThat expansion illustrates why Robinhood may have an advantage over the prediction-market companies receiving most of the attention.\nPolymarket and Kalshi have had to build standalone destinations for event trading. Robinhood can place the same product directly in front of an existing base of more than 27 million funded customers alongside equities, options, crypto, futures and retirement accounts. A customer does not need to seek out a specialized prediction-market platform or fund an entirely new account. Event contracts are simply another trade available inside an app they already use.",
+    "text_blocks": [
+      "Robinhood's next earnings surprise may have little to do with stocks or crypto.",
+      "Heading into its second-quarter report at the end of July, the trading platform is likely seeing a sharp acceleration in prediction-market activity, according to Fundstrat's Sean Farrell.",
+      "In a new interview with Coinage, Farrell estimated that the growth in the new trading arena may still be underestimated by investors more focused on dedicated prediction-market platforms like Kalshi and Polymarket.",
+      "\"I think the market is overlooking this fact,\" Farrell said, pointing to growth estimates he'd put together using similar metrics seen on Polymarket. By his count, Robinhood likely saw a more than 40% surge in revenue related to event contracts relative to the first quarter.",
+      "The reason it matters is that prediction markets are no longer an experimental side product for Robinhood. In the first quarter, event contracts generated $104 million in revenue — up from just $3 million a year earlier — and accounted for 10% of Robinhood's total net revenue. Crypto trading, by comparison, generated $134 million after falling 47% year-over-year.",
+      "In other words, a product that barely contributed to Robinhood's business a year ago has already grown to nearly rival its crypto operation.",
+      "That makes the second quarter especially important. Even before June's World Cup-related surge, prediction-market volumes were already rising steadily. Farrell believes sports contracts would be a major driver of that acceleration.",
+      "Read More from Coinage:",
+      "\"They have demonstrated some very compelling traction in those event contracts,\" he said. \"Given the World Cup that we just had, which I think has been a huge catalyst for prediction market volumes, I think that they're probably going to post a pretty impressive June and July.\"",
+      "Robinhood launched markets covering more than 100 World Cup matches in June, allowing customers to trade contracts on individual games, tournament winners, spreads, totals and player performance. The company also began routing some of those contracts through Rothera, the CFTC-licensed exchange and clearinghouse created through its joint venture with Susquehanna International Group.",
+      "That expansion illustrates why Robinhood may have an advantage over the prediction-market companies receiving most of the attention.",
+      "Polymarket and Kalshi have had to build standalone destinations for event trading. Robinhood can place the same product directly in front of an existing base of more than 27 million funded customers alongside equities, options, crypto, futures and retirement accounts. A customer does not need to seek out a specialized prediction-market platform or fund an entirely new account. Event contracts are simply another trade available inside an app they already use."
+    ],
+    "html": null
+  }
+}

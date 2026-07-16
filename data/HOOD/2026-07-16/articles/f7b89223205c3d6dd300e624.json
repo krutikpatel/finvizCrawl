@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/cantor-fitzgerald-eyes-blockchain-based-131500866.html",
+    "fetched_at": "2026-07-16T07:00:18.397105-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cantor Fitzgerald eyes blockchain-based IPO shares in new tie-up with Securitize",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "There is a movement afoot to redesign the U.S. equities market by issuing shares in the form of digital tokens that can be traded around the clock, and where trades are cleared and settled instantly. The market for these tokenized shares is still nascent, but the technology got a boost on Wednesday when Wall Street giant Cantor Fitzgerald announced a partnership to help companies issue stock on the blockchain when they go public.\nCantor's partnership is with Securitize, a Miami-based firm that specializes in creating blockchain-native shares that, from a regulatory perspective, closely resemble traditional securities.\nThe tokenization model used by Securitize, as well as rival SuperState, is more technology intensive than the one used by Robinhood, Kraken and other firms that are rapidly adopting blockchain-based shares. The latter companies rely on a so-called wrapper model, which entails purchasing blocks of stock in order to hold them in a special purpose vehicle, and then issuing synthetic tokens that correspond to the value of the individual shares.\nThe wrapper model is controversial since it typically entails issuing blockchain versions of popular stocks like Tesla or Apple without the involvement of the companies. Under Securitize's blockchain native model, by contrast, companies participate in the process and have direct control over the tokenized shares they issue.\nCantor Fitzgerald's decision to partner with Securitize is notable since, so far, the vast majority of tokenized share trading has taken place under the wrapper model, with investors in markets like Brazil and South Africa using it to get exposure to stocks of popular U.S. firms. There has been far less trading of stocks issued natively on the blockchain since only a small handful of companies—including Galaxy, Figure and Securitize itself—have sought to issue shares this way.\nBen Boehmke, Head of Strategies for Equities at Cantor, says the firm chose to partner with Securitize in part because of its compliance-first approach. He added that he anticipates that, in time, more of the firms that turn to Cantor to help them go public will be led by crypto-native founders who will be willing to issue shares on the blockchain.\n\"We also see a thriving market where clients and issuers may be very interested in dipping a toe in the water and doing 5% to 10% of their offering in tokenized form,\" said Boehmke. \"You can easily see circumstances where hedge funds, in particular, that are digitally native, being able to offer a sleeve of your IPO in tokenized form.\"\nBoehmke added that Cantor is a natural fit for such offerings given its deep experience in crypto. That experience is reflected in the firm serving as a custodian for the reserves of Tether, the world's biggest stablecoin company, and operating funds that offer Bitcoin and tokenized gold.",
+    "text_blocks": [
+      "There is a movement afoot to redesign the U.S. equities market by issuing shares in the form of digital tokens that can be traded around the clock, and where trades are cleared and settled instantly. The market for these tokenized shares is still nascent, but the technology got a boost on Wednesday when Wall Street giant Cantor Fitzgerald announced a partnership to help companies issue stock on the blockchain when they go public.",
+      "Cantor's partnership is with Securitize, a Miami-based firm that specializes in creating blockchain-native shares that, from a regulatory perspective, closely resemble traditional securities.",
+      "The tokenization model used by Securitize, as well as rival SuperState, is more technology intensive than the one used by Robinhood, Kraken and other firms that are rapidly adopting blockchain-based shares. The latter companies rely on a so-called wrapper model, which entails purchasing blocks of stock in order to hold them in a special purpose vehicle, and then issuing synthetic tokens that correspond to the value of the individual shares.",
+      "The wrapper model is controversial since it typically entails issuing blockchain versions of popular stocks like Tesla or Apple without the involvement of the companies. Under Securitize's blockchain native model, by contrast, companies participate in the process and have direct control over the tokenized shares they issue.",
+      "Cantor Fitzgerald's decision to partner with Securitize is notable since, so far, the vast majority of tokenized share trading has taken place under the wrapper model, with investors in markets like Brazil and South Africa using it to get exposure to stocks of popular U.S. firms. There has been far less trading of stocks issued natively on the blockchain since only a small handful of companies—including Galaxy, Figure and Securitize itself—have sought to issue shares this way.",
+      "Ben Boehmke, Head of Strategies for Equities at Cantor, says the firm chose to partner with Securitize in part because of its compliance-first approach. He added that he anticipates that, in time, more of the firms that turn to Cantor to help them go public will be led by crypto-native founders who will be willing to issue shares on the blockchain.",
+      "\"We also see a thriving market where clients and issuers may be very interested in dipping a toe in the water and doing 5% to 10% of their offering in tokenized form,\" said Boehmke. \"You can easily see circumstances where hedge funds, in particular, that are digitally native, being able to offer a sleeve of your IPO in tokenized form.\"",
+      "Boehmke added that Cantor is a natural fit for such offerings given its deep experience in crypto. That experience is reflected in the firm serving as a custodian for the reserves of Tether, the world's biggest stablecoin company, and operating funds that offer Bitcoin and tokenized gold."
+    ],
+    "html": null
+  }
+}
