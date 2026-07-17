@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071626/card/most-stocks-gained-but-chip-selloff-drags-market-i0I4NTWo7q5InmwR6KFh?mod=bar_FV",
+    "fetched_at": "2026-07-17T07:00:36.704317-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Most Stocks Gained, but Chip Selloff Drags Market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "CONCLUDED\n49 min ago\nMost Stocks Gained, but Chip Selloff Drags Market\nThe Nasdaq, the S&P 500, and the Dow ended Thursday's session lower, but if you take a closer look, most of the market is actually holding up all right.\nThe tech-heavy Nasdaq saw the most dramatic declines since tech stocks led the selloff, down 1.5%. The S&P 500 fell 0.5% and the Dow dropped 0.2% or 105 points.\nChip stocks were the biggest drag on the indexes with heavy weights such as Nvidia and Broadcom dropping. But unlike Wednesday where the rest of the market worked to offset the losses and then some, the S&P 500 and the Dow's laggards were the dominant market forces.",
+    "text_blocks": [
+      "CONCLUDED",
+      "49 min ago",
+      "Most Stocks Gained, but Chip Selloff Drags Market",
+      "The Nasdaq, the S&P 500, and the Dow ended Thursday's session lower, but if you take a closer look, most of the market is actually holding up all right.",
+      "The tech-heavy Nasdaq saw the most dramatic declines since tech stocks led the selloff, down 1.5%. The S&P 500 fell 0.5% and the Dow dropped 0.2% or 105 points.",
+      "Chip stocks were the biggest drag on the indexes with heavy weights such as Nvidia and Broadcom dropping. But unlike Wednesday where the rest of the market worked to offset the losses and then some, the S&P 500 and the Dow's laggards were the dominant market forces."
+    ],
+    "html": null
+  }
+}

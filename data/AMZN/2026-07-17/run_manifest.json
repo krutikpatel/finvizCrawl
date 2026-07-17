@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "run_date": "2026-07-17",
+  "started_at": "2026-07-17T07:00:42.786797-07:00",
+  "finished_at": "2026-07-17T07:00:45.172850-07:00",
+  "timezone": "America/Los_Angeles",
+  "config": {
+    "project": {
+      "name": "finzwiz",
+      "schema_version": "1.0"
+    },
+    "output": {
+      "data_dir": "data",
+      "pretty_json": true
+    },
+    "dedup": {
+      "retention_days": 15,
+      "seen_urls_filename": "seen_urls.jsonl",
+      "compact_on_write": false
+    },
+    "scraping": {
+      "backend": "http",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "timeout_seconds": 30,
+      "retries": 2,
+      "delay_seconds": 1.0,
+      "max_concurrency": 5,
+      "playwright": {
+        "headless": true
+      }
+    },
+    "articles": {
+      "include_raw_html": false,
+      "max_text_chars": 0,
+      "max_articles_per_ticker": 5
+    },
+    "sentiment": {
+      "model": "claude-haiku-4-5-20251001",
+      "max_articles_per_batch": 20,
+      "log_filename": "sentiment_log.jsonl",
+      "summary_filename": "sentiment_summary.json"
+    }
+  },
+  "artifacts": {
+    "finviz_quote": "data/AMZN/2026-07-17/finviz_quote.json",
+    "finviz_news": "data/AMZN/2026-07-17/finviz_news.json",
+    "articles_dir": "data/AMZN/2026-07-17/articles",
+    "dedup_file": "data/AMZN/seen_urls.jsonl",
+    "run_manifest": "data/AMZN/2026-07-17/run_manifest.json"
+  },
+  "stats": {
+    "news_links_total": 100,
+    "news_links_new": 95,
+    "news_links_skipped_recent": 5,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 5,
+    "articles_failed": 0
+  },
+  "errors": []
+}

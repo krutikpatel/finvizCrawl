@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2caa1e94-0dcf-3660-ac2a-77e879397a25/paxos-labs-moves-nearly-%2430m.html",
+    "fetched_at": "2026-07-17T07:00:24.002511-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Paxos Labs Moves Nearly $30M Through Robinhood Chain",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Paxos Labs moved nearly $30 million between major stablecoins on Robinhood Chain (NASDAQ: $HOOD) in less than two weeks, giving the new network an early test of stablecoin infrastructure beyond trading activity.\nThe volume flowed through Amplify Transit, a conversion layer that went live July 1 and had processed almost $30 million by July 13. The product allows exchanges, wallets, fintechs, protocols and treasuries to move between USDC (CRYPTO: $USDC), USDG (CRYPTO: $USDG) and PYUSD (CRYPTO: $PYUSD) through a single API.\nTransit initially supports Ethereum and Robinhood Chain, with rates locked when a transaction is submitted and output amounts guaranteed before settlement. Platforms pay a fixed fee for each route regardless of transaction size, while conversions remain available through nights, weekends and holidays.\nMore From Cryptoprowl:\n-\nMajor U.S. Banks Join U.K. Government's Tokenization Taskforce\n-\nHyperliquid HIP-3 Volume Nears 50% as Onchain Stock Trading Accelerates\n-\nMEXC Reports 7.1 Billion USDT in SpaceX Futures Volume as Q2 Closes the Gap to Wall Street\nMorpho, Jumper, Across and Arcus have selected Transit as their integration route while building on Robinhood Chain. The group gives Paxos Labs an early distribution base across lending, bridging and onchain application infrastructure as Robinhood expands its blockchain beyond tokenized trading.\nPaxos Labs co-founder Bhau Kotecha said stablecoin adoption has reached a point where issuance is \"only the beginning.\" As platforms add more dollar-backed tokens across multiple chains, moving liquidity between those assets becomes a separate infrastructure problem.\nA payments company may settle in PYUSD, while a trading desk holds USDC and an exchange operates with USDG. Transit is designed to convert and consolidate those balances without forcing platforms to hand over their interfaces, customer relationships or transaction margins.\nThe product becomes the movement layer inside Paxos Labs' wider Amplify suite. The stack already allows companies to launch branded stablecoins and deploy stablecoin balances through embedded yield, giving clients a single integration for issuance, conversion and use.\nRobinhood Chain's opening weeks have been led by trading volume, memecoin launches and rising stablecoin balances. Nearly $30 million moving through Transit shows a second layer beginning to form around settlement and liquidity management.\nRobinhood Markets Inc. (NASDAQ: HOOD) stock is currently trading at $109.86 U.S. per share.",
+    "text_blocks": [
+      "Paxos Labs moved nearly $30 million between major stablecoins on Robinhood Chain (NASDAQ: $HOOD) in less than two weeks, giving the new network an early test of stablecoin infrastructure beyond trading activity.",
+      "The volume flowed through Amplify Transit, a conversion layer that went live July 1 and had processed almost $30 million by July 13. The product allows exchanges, wallets, fintechs, protocols and treasuries to move between USDC (CRYPTO: $USDC), USDG (CRYPTO: $USDG) and PYUSD (CRYPTO: $PYUSD) through a single API.",
+      "Transit initially supports Ethereum and Robinhood Chain, with rates locked when a transaction is submitted and output amounts guaranteed before settlement. Platforms pay a fixed fee for each route regardless of transaction size, while conversions remain available through nights, weekends and holidays.",
+      "More From Cryptoprowl:",
+      "-",
+      "Major U.S. Banks Join U.K. Government's Tokenization Taskforce",
+      "-",
+      "Hyperliquid HIP-3 Volume Nears 50% as Onchain Stock Trading Accelerates",
+      "-",
+      "MEXC Reports 7.1 Billion USDT in SpaceX Futures Volume as Q2 Closes the Gap to Wall Street",
+      "Morpho, Jumper, Across and Arcus have selected Transit as their integration route while building on Robinhood Chain. The group gives Paxos Labs an early distribution base across lending, bridging and onchain application infrastructure as Robinhood expands its blockchain beyond tokenized trading.",
+      "Paxos Labs co-founder Bhau Kotecha said stablecoin adoption has reached a point where issuance is \"only the beginning.\" As platforms add more dollar-backed tokens across multiple chains, moving liquidity between those assets becomes a separate infrastructure problem.",
+      "A payments company may settle in PYUSD, while a trading desk holds USDC and an exchange operates with USDG. Transit is designed to convert and consolidate those balances without forcing platforms to hand over their interfaces, customer relationships or transaction margins.",
+      "The product becomes the movement layer inside Paxos Labs' wider Amplify suite. The stack already allows companies to launch branded stablecoins and deploy stablecoin balances through embedded yield, giving clients a single integration for issuance, conversion and use.",
+      "Robinhood Chain's opening weeks have been led by trading volume, memecoin launches and rising stablecoin balances. Nearly $30 million moving through Transit shows a second layer beginning to form around settlement and liquidity management.",
+      "Robinhood Markets Inc. (NASDAQ: HOOD) stock is currently trading at $109.86 U.S. per share."
+    ],
+    "html": null
+  }
+}

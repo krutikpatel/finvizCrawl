@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026/card/which-stocks-are-hurting-the-most--i0mCntXKwUJ9MzdcRrTv?mod=wsj_FV",
+    "fetched_at": "2026-07-17T07:00:52.429981-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Which Stocks Are Hurting the Most?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "22 hours ago\nWhich Stocks Are Hurting the Most?\nThe Nasdaq composite is down more than 1% this morning. Here are the stocks on the index that are getting hit hard:\n💾 Chips, memory makers:\nSandisk, Micron, AMD, SK Hynix's ADRs, Intel, Western Digital, Seagate, Arm, Broadcom, Nvidia and Marvell are all deep in the red.",
+    "text_blocks": [
+      "22 hours ago",
+      "Which Stocks Are Hurting the Most?",
+      "The Nasdaq composite is down more than 1% this morning. Here are the stocks on the index that are getting hit hard:",
+      "💾 Chips, memory makers:",
+      "Sandisk, Micron, AMD, SK Hynix's ADRs, Intel, Western Digital, Seagate, Arm, Broadcom, Nvidia and Marvell are all deep in the red."
+    ],
+    "html": null
+  }
+}

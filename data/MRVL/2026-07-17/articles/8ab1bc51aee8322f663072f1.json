@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-suffer-outflows-125825671.html",
+    "fetched_at": "2026-07-17T07:00:56.244374-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US equity funds suffer outflows as chip stocks slide",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 17 (Reuters) - U.S. equity funds recorded outflows in the week through July 15, as a selloff in chip stocks and rising U.S.-Iran tensions, outweighed strong corporate earnings and cooler inflation readings.\nThey sold U.S. equity funds of a net $4.8 billion logging their first weekly net disposal in three weeks, LSEG Lipper data showed.\nChip stocks came under pressure after rallying about 87.75% in the previous quarter. The Philadelphia SE Semiconductor Index has fallen roughly 8.48% so far this week, with SanDisk, Marvell Technology and Intel dropping 26.35%, 20.15% and 11.71%, respectively.\nInvestors sold a net $7.18 billion in growth funds, reversing $4.23 billion in net purchases the previous week. Value funds, meanwhile, attracted inflows for a third consecutive week, drawing $3 billion.\nAmong sector funds, technology inflows cooled to a three-week low of $1.57 billion. Healthcare funds attracted a net $465 million, while investors withdrew about $579 million from consumer discretionary funds and $409 million from communication services funds.\nU.S. bond funds remained popular for a 13th straight week, attracting $9.89 billion in inflows.\nInvestors bought $2.38 billion of short-to-intermediate investment-grade funds, $1.47 billion of short-to-intermediate government and Treasury funds, and $1.36 billion of municipal debt funds.\nU.S. money market funds, meanwhile, saw $68.03 billion in outflows, the largest weekly withdrawal since April 15.\n(Reporting by Gaurav Dogra, Editing by Nick Zieminski)",
+    "text_blocks": [
+      "July 17 (Reuters) - U.S. equity funds recorded outflows in the week through July 15, as a selloff in chip stocks and rising U.S.-Iran tensions, outweighed strong corporate earnings and cooler inflation readings.",
+      "They sold U.S. equity funds of a net $4.8 billion logging their first weekly net disposal in three weeks, LSEG Lipper data showed.",
+      "Chip stocks came under pressure after rallying about 87.75% in the previous quarter. The Philadelphia SE Semiconductor Index has fallen roughly 8.48% so far this week, with SanDisk, Marvell Technology and Intel dropping 26.35%, 20.15% and 11.71%, respectively.",
+      "Investors sold a net $7.18 billion in growth funds, reversing $4.23 billion in net purchases the previous week. Value funds, meanwhile, attracted inflows for a third consecutive week, drawing $3 billion.",
+      "Among sector funds, technology inflows cooled to a three-week low of $1.57 billion. Healthcare funds attracted a net $465 million, while investors withdrew about $579 million from consumer discretionary funds and $409 million from communication services funds.",
+      "U.S. bond funds remained popular for a 13th straight week, attracting $9.89 billion in inflows.",
+      "Investors bought $2.38 billion of short-to-intermediate investment-grade funds, $1.47 billion of short-to-intermediate government and Treasury funds, and $1.36 billion of municipal debt funds.",
+      "U.S. money market funds, meanwhile, saw $68.03 billion in outflows, the largest weekly withdrawal since April 15.",
+      "(Reporting by Gaurav Dogra, Editing by Nick Zieminski)"
+    ],
+    "html": null
+  }
+}

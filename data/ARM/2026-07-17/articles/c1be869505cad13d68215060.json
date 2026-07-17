@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/286b9f82-e822-3366-a3cb-e1121e5ee4ea/arm-holdings-chief-says-ai.html",
+    "fetched_at": "2026-07-17T07:00:52.711402-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Holdings chief says AI boom is being hampered by supply constraints",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The artificial intelligence boom is being held back by what the industry cannot build rather than what customers will not buy, according to Rene Haas, chief executive of Arm Holdings PLC (NASDAQ:ARM), the chip designer.\nHaas told CNBC that demand for chips, data centres, energy and skilled workers is running ahead of available capacity, creating a bottleneck he expects to persist for the next two to three years.\nHe was speaking in an interview at the Pennsylvania Defense and Innovation Summit, hosted by Senator Dave McCormick.\nARM designs the chip architectures that other companies license and manufacture, a position that gives it an unusually wide view of who is trying to build what.\nHaas said the company expects its data-centre business to become its largest segment \"very soon\", overtaking the mobile phone market that built it.\nThat claim is the more interesting half of the interview.\nARM's designs dominate smartphones, where power efficiency is everything, and the same constraint now governs data centres, where the binding limit is increasingly electricity rather than silicon.\nThe supply-constrained framing also cuts against the bubble argument that has unsettled markets in recent months.\nA bubble is a demand problem in which buyers pay for something they do not need.\nA shortage is the opposite, and Haas is describing customers who cannot get what they are already willing to pay for.\nShares fell 5% on the session, an awkward backdrop for a chief executive describing demand as robust.\nOne reading is that investors are less worried about whether the demand exists than about who captures the value if the bottlenecks are physical, since power stations and skilled engineers are not things a design company can conjure.",
+    "text_blocks": [
+      "The artificial intelligence boom is being held back by what the industry cannot build rather than what customers will not buy, according to Rene Haas, chief executive of Arm Holdings PLC (NASDAQ:ARM), the chip designer.",
+      "Haas told CNBC that demand for chips, data centres, energy and skilled workers is running ahead of available capacity, creating a bottleneck he expects to persist for the next two to three years.",
+      "He was speaking in an interview at the Pennsylvania Defense and Innovation Summit, hosted by Senator Dave McCormick.",
+      "ARM designs the chip architectures that other companies license and manufacture, a position that gives it an unusually wide view of who is trying to build what.",
+      "Haas said the company expects its data-centre business to become its largest segment \"very soon\", overtaking the mobile phone market that built it.",
+      "That claim is the more interesting half of the interview.",
+      "ARM's designs dominate smartphones, where power efficiency is everything, and the same constraint now governs data centres, where the binding limit is increasingly electricity rather than silicon.",
+      "The supply-constrained framing also cuts against the bubble argument that has unsettled markets in recent months.",
+      "A bubble is a demand problem in which buyers pay for something they do not need.",
+      "A shortage is the opposite, and Haas is describing customers who cannot get what they are already willing to pay for.",
+      "Shares fell 5% on the session, an awkward backdrop for a chief executive describing demand as robust.",
+      "One reading is that investors are less worried about whether the demand exists than about who captures the value if the bottlenecks are physical, since power stations and skilled engineers are not things a design company can conjure."
+    ],
+    "html": null
+  }
+}

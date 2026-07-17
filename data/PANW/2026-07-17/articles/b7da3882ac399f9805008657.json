@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/ibms-historic-crash-exposes-a-deeper-tech-divide-chart-of-the-day-100000015.html",
+    "fetched_at": "2026-07-17T07:00:50.120706-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IBM's historic crash exposes a deeper tech divide: Chart of the Day",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Rising memory prices have been feeding chip profits for months. IBM just showed who may be paying the bill.\nIBM (IBM) plunged 25% Tuesday, its worst day since at least 1968 after customers rushed to secure hardware before expected price increases — a sign the AI build-out is reshuffling technology budgets and pulling chip stocks away from software.\nThe damage spread across software, where 3 in 5 stocks fell, led down by Atlassian (TEAM), ServiceNow (NOW), and Adobe (ADBE). Cybersecurity was the exception, with CrowdStrike (CRWD), Zscaler (ZS), Palo Alto Networks (PANW), and Fortinet (FTNT) all rallying.\nIBM's preliminary update showed second quarter revenue of $17.2 billion, roughly $660 million short of Wall Street's $17.9 billion estimate. Adjusted earnings of $2.93 per share also missed the $3.03 consensus.\nCEO Arvind Krishna's letter to investors offered the more revealing explanation.\nIn the final weeks of June, customers redirected quarterly capital spending toward servers, storage, and memory to lock down supply before expected price increases, Krishna wrote.\nIBM underestimated the size of that shift, then failed to adjust quickly enough as large deals slipped past quarter-end.\nHardware costs were only part of the pressure.\n\"Clients were distracted with rapidly-evolving, industry-wide cybersecurity concerns in the quarter,\" Krishna wrote.\nThat tracks with a market where cybersecurity stocks have held up better than the broader software group. Security spending is harder to postpone. Other projects have more flexibility.\nIBM's quarter puts a company-specific face on a larger change. Software and chip stocks are no longer moving in anything close to lockstep.\nThe 52-week correlation between the iShares Expanded Tech-Software Sector ETF (IGV) and iShares Semiconductor ETF (SOXX) has fallen to 0.17, the lowest in data going back to 2002.\nCorrelation simply measures how closely two investments move together. A reading near 1 means they tend to rise and fall together. A reading near zero means their moves have little in common.\nThe long-term average for IGV and SOXX is 0.76. Today's reading says investors are treating them as increasingly different businesses.\nThat distinction has widened as chip profits surge and the AI infrastructure build-out absorbs more money. Software has staged rebounds, but its comeback has repeatedly lost momentum.\nFor investors, the divergence means \"tech\" is becoming a less useful label. Chips can rally on scarcity and infrastructure spending while software sinks under tighter customer budgets. This leaves broad technology funds exposed to two very different trades.",
+    "text_blocks": [
+      "Rising memory prices have been feeding chip profits for months. IBM just showed who may be paying the bill.",
+      "IBM (IBM) plunged 25% Tuesday, its worst day since at least 1968 after customers rushed to secure hardware before expected price increases — a sign the AI build-out is reshuffling technology budgets and pulling chip stocks away from software.",
+      "The damage spread across software, where 3 in 5 stocks fell, led down by Atlassian (TEAM), ServiceNow (NOW), and Adobe (ADBE). Cybersecurity was the exception, with CrowdStrike (CRWD), Zscaler (ZS), Palo Alto Networks (PANW), and Fortinet (FTNT) all rallying.",
+      "IBM's preliminary update showed second quarter revenue of $17.2 billion, roughly $660 million short of Wall Street's $17.9 billion estimate. Adjusted earnings of $2.93 per share also missed the $3.03 consensus.",
+      "CEO Arvind Krishna's letter to investors offered the more revealing explanation.",
+      "In the final weeks of June, customers redirected quarterly capital spending toward servers, storage, and memory to lock down supply before expected price increases, Krishna wrote.",
+      "IBM underestimated the size of that shift, then failed to adjust quickly enough as large deals slipped past quarter-end.",
+      "Hardware costs were only part of the pressure.",
+      "\"Clients were distracted with rapidly-evolving, industry-wide cybersecurity concerns in the quarter,\" Krishna wrote.",
+      "That tracks with a market where cybersecurity stocks have held up better than the broader software group. Security spending is harder to postpone. Other projects have more flexibility.",
+      "IBM's quarter puts a company-specific face on a larger change. Software and chip stocks are no longer moving in anything close to lockstep.",
+      "The 52-week correlation between the iShares Expanded Tech-Software Sector ETF (IGV) and iShares Semiconductor ETF (SOXX) has fallen to 0.17, the lowest in data going back to 2002.",
+      "Correlation simply measures how closely two investments move together. A reading near 1 means they tend to rise and fall together. A reading near zero means their moves have little in common.",
+      "The long-term average for IGV and SOXX is 0.76. Today's reading says investors are treating them as increasingly different businesses.",
+      "That distinction has widened as chip profits surge and the AI infrastructure build-out absorbs more money. Software has staged rebounds, but its comeback has repeatedly lost momentum.",
+      "For investors, the divergence means \"tech\" is becoming a less useful label. Chips can rally on scarcity and infrastructure spending while software sinks under tighter customer budgets. This leaves broad technology funds exposed to two very different trades."
+    ],
+    "html": null
+  }
+}

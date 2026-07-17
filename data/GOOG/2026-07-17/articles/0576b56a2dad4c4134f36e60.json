@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/d8c9163f-2726-30d3-934a-77caf752623a/the-real-risk-inside-oracle.html",
+    "fetched_at": "2026-07-17T07:00:31.859493-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Real Risk Inside Oracle Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The company is making an enormous bet on AI infrastructure, and the sheer scale of that wager is now the central vulnerability for investors.\nIf you hold Oracle (ORCL) stock, you don't need anyone to tell you it's been a difficult year. With the shares down 47% over the last 12 months and sitting at a 52-week low, the market is clearly pricing in a high level of concern. The options market agrees, with implied volatility recently in the 95th percentile of its annual range, signaling traders expect more turbulence ahead.\nThe anxiety isn't about a lack of vision. It's about the high price tag of that vision. Oracle is in the middle of a company-altering pivot, spending considerable sums to become a go-to hyperscaler for the AI boom. The primary risk for the stock is that this transformation is simply too big, too fast, and too expensive, straining the very financial model that investors have long valued.\nThe Price of Ambition Is $70 Billion\nThe numbers behind Oracle's build-out are substantial. Management has guided to an expected net cash outlay for capital expenditures of around $70 billion for fiscal year 2027 alone. To fund this, the company expects to raise around $40 billion in new debt and equity. This is more than a simple expansion. It's a fundamental shift from a cash-gushing software model to a capital-intensive infrastructure business.\nThe mechanism here is a direct impact on the balance sheet and shareholder base. Raising this much capital increases leverage and, through the announced $20 billion equity issuance, dilutes existing owners. The stake is the company's entire financial profile. This strategy consumes cash flow that might have otherwise gone to buybacks or dividends, betting it can generate strong returns from this large investment. The question of whether this large AI backlog is worth the execution risk is a critical one for investors to consider.\nMargins Are Paying the Near-Term Price\nThis spending comes with an immediate and acknowledged consequence for profitability. Management has been clear that its \"fiscal year 2027 gross margin will step down\" as it ramps up these large-scale data center projects. While the company has signed large contracts, including a reported one with OpenAI, the upfront costs are high, and the revenue will follow over time.\nThis directly pressures the company's historically strong profitability. One analyst report went so far as to project Oracle's consolidated gross margin could fall from 70% to 48% by 2030. For a company whose trailing net margin of 25% is well above its three-year average, this is a significant change. If margins compress more than expected or for longer than anticipated, it could force a permanent re-rating of the stock's multiple, even if revenue goals are met.",
+    "text_blocks": [
+      "The company is making an enormous bet on AI infrastructure, and the sheer scale of that wager is now the central vulnerability for investors.",
+      "If you hold Oracle (ORCL) stock, you don't need anyone to tell you it's been a difficult year. With the shares down 47% over the last 12 months and sitting at a 52-week low, the market is clearly pricing in a high level of concern. The options market agrees, with implied volatility recently in the 95th percentile of its annual range, signaling traders expect more turbulence ahead.",
+      "The anxiety isn't about a lack of vision. It's about the high price tag of that vision. Oracle is in the middle of a company-altering pivot, spending considerable sums to become a go-to hyperscaler for the AI boom. The primary risk for the stock is that this transformation is simply too big, too fast, and too expensive, straining the very financial model that investors have long valued.",
+      "The Price of Ambition Is $70 Billion",
+      "The numbers behind Oracle's build-out are substantial. Management has guided to an expected net cash outlay for capital expenditures of around $70 billion for fiscal year 2027 alone. To fund this, the company expects to raise around $40 billion in new debt and equity. This is more than a simple expansion. It's a fundamental shift from a cash-gushing software model to a capital-intensive infrastructure business.",
+      "The mechanism here is a direct impact on the balance sheet and shareholder base. Raising this much capital increases leverage and, through the announced $20 billion equity issuance, dilutes existing owners. The stake is the company's entire financial profile. This strategy consumes cash flow that might have otherwise gone to buybacks or dividends, betting it can generate strong returns from this large investment. The question of whether this large AI backlog is worth the execution risk is a critical one for investors to consider.",
+      "Margins Are Paying the Near-Term Price",
+      "This spending comes with an immediate and acknowledged consequence for profitability. Management has been clear that its \"fiscal year 2027 gross margin will step down\" as it ramps up these large-scale data center projects. While the company has signed large contracts, including a reported one with OpenAI, the upfront costs are high, and the revenue will follow over time.",
+      "This directly pressures the company's historically strong profitability. One analyst report went so far as to project Oracle's consolidated gross margin could fall from 70% to 48% by 2030. For a company whose trailing net margin of 25% is well above its three-year average, this is a significant change. If margins compress more than expected or for longer than anticipated, it could force a permanent re-rating of the stock's multiple, even if revenue goals are met."
+    ],
+    "html": null
+  }
+}

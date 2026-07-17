@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-upgrades-apple-buy-sees-112108654.html",
+    "fetched_at": "2026-07-17T07:00:09.025267-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HSBC upgrades Apple to Buy, sees \"strong cycle ahead\"",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- HSBC analyst Nicolas Cote-Colisson upgraded Apple to Buy from Hold and raised its price target on the iPhone maker's shares to $366 from $260 in a note Friday, saying it is at \"an operational turning point\" as AI capabilities and a strong product pipeline support growth.\nCote-Colisson said the bank had previously preferred other segments of the AI value chain, such as hyperscalers or memory makers, but now believes Apple \"is well placed to leverage its 2.5bn installed device base with its forthcoming revamped Apple Intelligence.\"\nThe bank noted Apple invests just 2.5% of its 2026 estimated sales in capex, compared with 39% for hyperscalers.\nHSBC pointed to the deployment of Apple's new agentic Siri AI this year, which will include visual intelligence and context-aware conversations across apps, relying on foundation models distilled from Gemini that run on-device and on Apple's private cloud servers.\nA strong hardware pipeline, including the iPhone 18 Pro and Pro Max this fall, an iPhone Air in April 2027, a book-style foldable phone, and a 20th-anniversary special edition iPhone alongside smart glasses in 2027, was also cited.\nHSBC raised its 2027-28 group revenue forecasts by 7-9%, including iPhone sales estimates of 11-13%, and increased its 2027 Services revenue estimate by 5.4%.\nThe bank's new price target implies approximately 12% upside, based on a target 2027 non-GAAP P/E of 33.5x. Furthermore, HSBC's blue sky scenario indicates an additional $31 per share of potential upside.\nRelated articles\nHSBC upgrades Apple to Buy, sees \"strong cycle ahead\"\nGoldman expects lower but still attractive stock market returns in 2026\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+    "text_blocks": [
+      "Investing.com -- HSBC analyst Nicolas Cote-Colisson upgraded Apple to Buy from Hold and raised its price target on the iPhone maker's shares to $366 from $260 in a note Friday, saying it is at \"an operational turning point\" as AI capabilities and a strong product pipeline support growth.",
+      "Cote-Colisson said the bank had previously preferred other segments of the AI value chain, such as hyperscalers or memory makers, but now believes Apple \"is well placed to leverage its 2.5bn installed device base with its forthcoming revamped Apple Intelligence.\"",
+      "The bank noted Apple invests just 2.5% of its 2026 estimated sales in capex, compared with 39% for hyperscalers.",
+      "HSBC pointed to the deployment of Apple's new agentic Siri AI this year, which will include visual intelligence and context-aware conversations across apps, relying on foundation models distilled from Gemini that run on-device and on Apple's private cloud servers.",
+      "A strong hardware pipeline, including the iPhone 18 Pro and Pro Max this fall, an iPhone Air in April 2027, a book-style foldable phone, and a 20th-anniversary special edition iPhone alongside smart glasses in 2027, was also cited.",
+      "HSBC raised its 2027-28 group revenue forecasts by 7-9%, including iPhone sales estimates of 11-13%, and increased its 2027 Services revenue estimate by 5.4%.",
+      "The bank's new price target implies approximately 12% upside, based on a target 2027 non-GAAP P/E of 33.5x. Furthermore, HSBC's blue sky scenario indicates an additional $31 per share of potential upside.",
+      "Related articles",
+      "HSBC upgrades Apple to Buy, sees \"strong cycle ahead\"",
+      "Goldman expects lower but still attractive stock market returns in 2026",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity"
+    ],
+    "html": null
+  }
+}
