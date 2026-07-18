@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c4bc429a-bba8-3cd1-b25d-90b0bf2b6fe2/the-two-radically-different.html",
+    "fetched_at": "2026-07-18T07:00:54.560581-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Two Radically Different Paths Priced Into NVIDIA Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "If you hold shares in the chipmaker, you are already exposed to a future where the stock could land in one of two very different places, and the options market is putting a price on that uncertainty.\nImagine two possible futures for your NVIDIA (NVDA) holdings a year from now. In one, the stock is trading near $315. In the other, it's closer to $135. The options market, our cleanest gauge of risk, sees both of these outcomes as plausible parts of a wide 68% probability band. If you own the shares, you own that entire spread of possibilities, whether you trade options or not. This is the risk you are carrying right now.\nFrom today's price of about $207.4, the path to that ceiling represents a 52% gain. The drop to the floor is a 35% decline. The key takeaway isn't which one will happen, but the sheer size of the uncertainty priced into the stock. It's a reflection of a company at a pivotal moment, with outcomes that could be sharply positive or negative.\nWhy the Market Is Pricing More Uncertainty Than Usual\nThe market isn't just pricing a wide range; it's pricing a wider one than the stock's own recent history would suggest. The one-year implied volatility is 43.4%, which sits at 1.21 times the stock's realized volatility of 35.9%. In simple terms, traders are paying up for protection against a move that is larger than what the stock has typically delivered. This premium on uncertainty, which places current volatility in the 69th percentile of its annual range, tells you the market sees specific, unresolved questions ahead.\nWhat's Fueling This Tension: Parabolic Growth vs. Execution Risk\nSo, what could drive such a large swing? The answer lies in the tension between NVIDIA's historic growth and the complexity of sustaining it. On one hand, the company just delivered what it called the fastest product ramp in its history, with its Blackwell platform. Management is now pointing to a significant new opportunity, claiming its VeraCPU \"opens a brand new $200 billion TAM for NVIDIA.\"\nOn the other hand, that very success raises the stakes. The company is on an aggressive annual product cadence, and the next major platform, VeraRubin, is set to begin shipments in Q3. When asked how that ramp would compare to the last one, management noted it's \"hard to say at this point.\" That uncertainty, combined with the fact that the company is \"not including any China data center compute revenue in our outlook,\" creates a clear risk profile. While traders are currently paying more for upside calls than downside puts, the real story is the magnitude of the two-way risk.",
+    "text_blocks": [
+      "If you hold shares in the chipmaker, you are already exposed to a future where the stock could land in one of two very different places, and the options market is putting a price on that uncertainty.",
+      "Imagine two possible futures for your NVIDIA (NVDA) holdings a year from now. In one, the stock is trading near $315. In the other, it's closer to $135. The options market, our cleanest gauge of risk, sees both of these outcomes as plausible parts of a wide 68% probability band. If you own the shares, you own that entire spread of possibilities, whether you trade options or not. This is the risk you are carrying right now.",
+      "From today's price of about $207.4, the path to that ceiling represents a 52% gain. The drop to the floor is a 35% decline. The key takeaway isn't which one will happen, but the sheer size of the uncertainty priced into the stock. It's a reflection of a company at a pivotal moment, with outcomes that could be sharply positive or negative.",
+      "Why the Market Is Pricing More Uncertainty Than Usual",
+      "The market isn't just pricing a wide range; it's pricing a wider one than the stock's own recent history would suggest. The one-year implied volatility is 43.4%, which sits at 1.21 times the stock's realized volatility of 35.9%. In simple terms, traders are paying up for protection against a move that is larger than what the stock has typically delivered. This premium on uncertainty, which places current volatility in the 69th percentile of its annual range, tells you the market sees specific, unresolved questions ahead.",
+      "What's Fueling This Tension: Parabolic Growth vs. Execution Risk",
+      "So, what could drive such a large swing? The answer lies in the tension between NVIDIA's historic growth and the complexity of sustaining it. On one hand, the company just delivered what it called the fastest product ramp in its history, with its Blackwell platform. Management is now pointing to a significant new opportunity, claiming its VeraCPU \"opens a brand new $200 billion TAM for NVIDIA.\"",
+      "On the other hand, that very success raises the stakes. The company is on an aggressive annual product cadence, and the next major platform, VeraRubin, is set to begin shipments in Q3. When asked how that ramp would compare to the last one, management noted it's \"hard to say at this point.\" That uncertainty, combined with the fact that the company is \"not including any China data center compute revenue in our outlook,\" creates a clear risk profile. While traders are currently paying more for upside calls than downside puts, the real story is the magnitude of the two-way risk."
+    ],
+    "html": null
+  }
+}

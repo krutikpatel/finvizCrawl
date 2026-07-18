@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investors-face-harsh-reality-200042180.html",
+    "fetched_at": "2026-07-18T07:00:07.359166-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Investors Face Harsh Reality Check",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSpaceX (NASDAQ:SPCX) shares fell another 5% Friday, extending a brutal post-IPO slide that has wiped out roughly $1 trillion in market value from the stock's June peak.\nThe shares dropped to about $123.82, leaving them nearly 45% below the June 16 intraday high of $225.64. At that peak, SpaceX was valued near $2.64 trillion. Its market value has since fallen to roughly $1.64 trillion.\nSpaceX builds reusable rockets, operates the Starlink satellite internet network and develops spacecraft for commercial and government customers. Led by Elon Musk, who is also CEO of Tesla, the company is also pushing ahead with Starship, its next-generation launch system.\nThe latest decline came after SpaceX aborted a planned Starship launch when several engines failed to start. Musk said the company hopes to try again within days.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SpaceX (NASDAQ:SPCX) shares fell another 5% Friday, extending a brutal post-IPO slide that has wiped out roughly $1 trillion in market value from the stock's June peak.",
+      "The shares dropped to about $123.82, leaving them nearly 45% below the June 16 intraday high of $225.64. At that peak, SpaceX was valued near $2.64 trillion. Its market value has since fallen to roughly $1.64 trillion.",
+      "SpaceX builds reusable rockets, operates the Starlink satellite internet network and develops spacecraft for commercial and government customers. Led by Elon Musk, who is also CEO of Tesla, the company is also pushing ahead with Starship, its next-generation launch system.",
+      "The latest decline came after SpaceX aborted a planned Starship launch when several engines failed to start. Musk said the company hopes to try again within days."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9fca9953-9b15-3356-9aad-caa524002a71/meta-in-talks-to-rent-some-of.html",
+    "fetched_at": "2026-07-18T07:00:43.659827-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It's a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: cloud computing.\nThe conversation about a potential deal is still early, a source familiar with the matter confirmed to CNN.\nThe talks were first reported by the New York Times, which pegged the deal's worth at as much as $10 billion over two years, citing three people with knowledge of the discussions. CNN's source said any specific numbers that have been reported are speculative.\nMeta and Anthropic declined to comment on the talks.\nBecoming a computing provider could mark a major new revenue opportunity for Meta as it's been investing heavily in data center infrastructure to support its AI ambitions.\nThe social media giant plans to spend between $125 billion and $145 billion in capital expenditures this year, largely to support that infrastructure buildout, Meta said in its most recent earnings report. That could double what it spent the prior year.\nMeta said in April that it would lay off 10% of its workforce, about 8,000 people, in part to offset the cost of those investments.\nMeta CEO Mark Zuckerberg has mentioned the possibility of leasing out some of that infrastructure if his own company's computing needs didn't keep pace with the buildout.\n\"Almost every week there are different companies that come to us from outside asking us … if we have compute that they could buy from us at some premium to what we've bought it at,\" Zuckerberg said at Meta's annual shareholder meeting in May. \"We haven't done that yet because we think that we have a use for the compute. But obviously if we get to a point where we feel that we have overbuilt, then that is an option that we have.\"\nThere's no shortage of demand for computing power as companies large and small race to adopt AI and major AI labs work to improve their models. Anthropic already has multibillion dollar compute licensing deals with Google, SpaceX, Microsoft and Amazon.\nMeanwhile, investors want Meta to show how its investments will benefit its bottom line, especially as it scrambles to keep pace with AI offerings from companies like Anthropic and OpenAI. Meta shares (META) are down more than 8% from this time last year.\nMeta last month released an upgraded version of its Muse Spark AI model that it said could rival the coding capabilities of models from OpenAI, Anthropic and others. For the first time, Meta said it would offer a paid version of the service, yet another sign it's looking for bigger returns on AI.\nFor more CNN news and newsletters create an account at CNN.com",
+    "text_blocks": [
+      "Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It's a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: cloud computing.",
+      "The conversation about a potential deal is still early, a source familiar with the matter confirmed to CNN.",
+      "The talks were first reported by the New York Times, which pegged the deal's worth at as much as $10 billion over two years, citing three people with knowledge of the discussions. CNN's source said any specific numbers that have been reported are speculative.",
+      "Meta and Anthropic declined to comment on the talks.",
+      "Becoming a computing provider could mark a major new revenue opportunity for Meta as it's been investing heavily in data center infrastructure to support its AI ambitions.",
+      "The social media giant plans to spend between $125 billion and $145 billion in capital expenditures this year, largely to support that infrastructure buildout, Meta said in its most recent earnings report. That could double what it spent the prior year.",
+      "Meta said in April that it would lay off 10% of its workforce, about 8,000 people, in part to offset the cost of those investments.",
+      "Meta CEO Mark Zuckerberg has mentioned the possibility of leasing out some of that infrastructure if his own company's computing needs didn't keep pace with the buildout.",
+      "\"Almost every week there are different companies that come to us from outside asking us … if we have compute that they could buy from us at some premium to what we've bought it at,\" Zuckerberg said at Meta's annual shareholder meeting in May. \"We haven't done that yet because we think that we have a use for the compute. But obviously if we get to a point where we feel that we have overbuilt, then that is an option that we have.\"",
+      "There's no shortage of demand for computing power as companies large and small race to adopt AI and major AI labs work to improve their models. Anthropic already has multibillion dollar compute licensing deals with Google, SpaceX, Microsoft and Amazon.",
+      "Meanwhile, investors want Meta to show how its investments will benefit its bottom line, especially as it scrambles to keep pace with AI offerings from companies like Anthropic and OpenAI. Meta shares (META) are down more than 8% from this time last year.",
+      "Meta last month released an upgraded version of its Muse Spark AI model that it said could rival the coding capabilities of models from OpenAI, Anthropic and others. For the first time, Meta said it would offer a paid version of the service, yet another sign it's looking for bigger returns on AI.",
+      "For more CNN news and newsletters create an account at CNN.com"
+    ],
+    "html": null
+  }
+}

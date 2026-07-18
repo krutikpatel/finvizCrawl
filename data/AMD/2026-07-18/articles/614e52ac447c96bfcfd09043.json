@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/aa5b7213-c120-3f1c-b235-bac8f4f55243/china%E2%80%99s-kimi-k3-hits-us-stock.html",
+    "fetched_at": "2026-07-18T07:00:46.232848-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "China’s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "China's Moonshot released Kimi K3 on Thursday, a model it says matches Anthropic's Claude Fable and OpenAI's GPT-5.6. US chip stocks sank as investors asked if America's AI lead is safe.\nKimi K3 packs 2.8 trillion parameters, making it the largest open model ever released. Moonshot, an Alibaba-backed startup, will let anyone download it free from July 27.\nChip Stocks Just Had Their Worst Week in 15 Months\nThe Philadelphia Semiconductor Index, which tracks America's biggest chipmakers, fell 12.5% this week, marking its worst week in over 15 months. Nvidia, AMD, and Broadcom all fell hard. Still, the index remains up more than 60% this year.\n\"Investors are questioning the strength of the AI-driven rally after China's Moonshot unveiled a powerful open AI model. Nvidia, AMD and Broadcom all fell sharply, though the chip index remains up more than 60% this year,\" Walter Bloomberg noted.\nChina's own AI stocks fell too. In Hong Kong trading on Friday, Zhipu dropped 28% and MiniMax lost 16%, per market data. Meanwhile, the AI bubble question is back in focus.\nMarkets have seen this movie before. When China's DeepSeek stunned Wall Street in January 2025, Nvidia lost $589 billion in one day. CNBC called it the biggest single-day loss in market history.\nCNBC host Jim Cramer expects a repeat, and says the real issue is trust.\nFollow us on X to get the latest news as it happens\nTraders are even betting on the fight itself:\n-\nBernstein says crypto-style derivatives now trade on AI computing power.\n-\nCME Group plans the first compute futures with Silicon Data,\n-\nICE announced GPU contracts with Ornn.\nWhy Kimi K3 Has Everyone's Attention\nKimi K3 earned the hype. This week, it topped Arena's coding leaderboard with 1,679 points, pushing Claude Fable 5 into second place.\nIt is also cheap. Moonshot charges $3 per million input tokens, while Fable 5 costs $10. The model reads a million tokens at once, enough to hold an entire codebase in one prompt.Founder and CEO Zhilin Yang explained the plan in a recent session.\nHe named three ways to scale AI: Squeeze more from each token, stretch the context, and run agent swarms in parallel.\n\"...token efficiency is not just about efficiency. It's actually also about improving the upper bound of intelligence,\" read a transcript of his Yang's speech.\nWhat Kimi K3 Means for America's AI Lead\nPrice is the first battleground. Days before the launch, investor Chamath Palihapitiya priced the problem on CNBC's Squawk Box. A million tokens costs $56 from Anthropic, $26 from OpenAI, and 50 cents from Chinese labs, he said.",
+    "text_blocks": [
+      "China's Moonshot released Kimi K3 on Thursday, a model it says matches Anthropic's Claude Fable and OpenAI's GPT-5.6. US chip stocks sank as investors asked if America's AI lead is safe.",
+      "Kimi K3 packs 2.8 trillion parameters, making it the largest open model ever released. Moonshot, an Alibaba-backed startup, will let anyone download it free from July 27.",
+      "Chip Stocks Just Had Their Worst Week in 15 Months",
+      "The Philadelphia Semiconductor Index, which tracks America's biggest chipmakers, fell 12.5% this week, marking its worst week in over 15 months. Nvidia, AMD, and Broadcom all fell hard. Still, the index remains up more than 60% this year.",
+      "\"Investors are questioning the strength of the AI-driven rally after China's Moonshot unveiled a powerful open AI model. Nvidia, AMD and Broadcom all fell sharply, though the chip index remains up more than 60% this year,\" Walter Bloomberg noted.",
+      "China's own AI stocks fell too. In Hong Kong trading on Friday, Zhipu dropped 28% and MiniMax lost 16%, per market data. Meanwhile, the AI bubble question is back in focus.",
+      "Markets have seen this movie before. When China's DeepSeek stunned Wall Street in January 2025, Nvidia lost $589 billion in one day. CNBC called it the biggest single-day loss in market history.",
+      "CNBC host Jim Cramer expects a repeat, and says the real issue is trust.",
+      "Follow us on X to get the latest news as it happens",
+      "Traders are even betting on the fight itself:",
+      "-",
+      "Bernstein says crypto-style derivatives now trade on AI computing power.",
+      "-",
+      "CME Group plans the first compute futures with Silicon Data,",
+      "-",
+      "ICE announced GPU contracts with Ornn.",
+      "Why Kimi K3 Has Everyone's Attention",
+      "Kimi K3 earned the hype. This week, it topped Arena's coding leaderboard with 1,679 points, pushing Claude Fable 5 into second place.",
+      "It is also cheap. Moonshot charges $3 per million input tokens, while Fable 5 costs $10. The model reads a million tokens at once, enough to hold an entire codebase in one prompt.Founder and CEO Zhilin Yang explained the plan in a recent session.",
+      "He named three ways to scale AI: Squeeze more from each token, stretch the context, and run agent swarms in parallel.",
+      "\"...token efficiency is not just about efficiency. It's actually also about improving the upper bound of intelligence,\" read a transcript of his Yang's speech.",
+      "What Kimi K3 Means for America's AI Lead",
+      "Price is the first battleground. Days before the launch, investor Chamath Palihapitiya priced the problem on CNBC's Squawk Box. A million tokens costs $56 from Anthropic, $26 from OpenAI, and 50 cents from Chinese labs, he said."
+    ],
+    "html": null
+  }
+}

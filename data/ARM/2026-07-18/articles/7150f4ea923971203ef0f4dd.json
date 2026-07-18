@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+    "fetched_at": "2026-07-18T07:00:51.789120-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia and AMD Hit by AI Selloff",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI and chip stocks were under pressure again Friday, with the selloff spreading from Japan to U.S. premarket trading.\nJapan's Nikkei 225 dropped 4%, led by some of the country's biggest semiconductor names. Kioxia plunged nearly 16%, Tokyo Electron fell about 8%, and Advantest lost around 7%. That weakness quickly spilled into U.S.-listed chip stocks, with Nvidia (NASDAQ:NVDA), AMD (NASDAQ:AMD), TSMC, Broadcom, Arm (NASDAQ:ARM) and Intel (NASDAQ:INTC)all trading lower before the bell.\nThe timing also matters. Alibaba-backed (NYSE:BABA) Moonshot just unveiled Kimi K3, a 2.8 trillion-parameter open-weight AI model that it says can compete with some of the strongest U.S. systems. That adds to the sense that Chinese developers are moving faster than many investors expected.\nNvidia sits at the center of the AI buildout, while Micron (NASDAQ:MU), TSMC, Broadcom and ASML (NASDAQ:ASML) provide the memory, manufacturing and equipment that make those systems possible.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI and chip stocks were under pressure again Friday, with the selloff spreading from Japan to U.S. premarket trading.",
+      "Japan's Nikkei 225 dropped 4%, led by some of the country's biggest semiconductor names. Kioxia plunged nearly 16%, Tokyo Electron fell about 8%, and Advantest lost around 7%. That weakness quickly spilled into U.S.-listed chip stocks, with Nvidia (NASDAQ:NVDA), AMD (NASDAQ:AMD), TSMC, Broadcom, Arm (NASDAQ:ARM) and Intel (NASDAQ:INTC)all trading lower before the bell.",
+      "The timing also matters. Alibaba-backed (NYSE:BABA) Moonshot just unveiled Kimi K3, a 2.8 trillion-parameter open-weight AI model that it says can compete with some of the strongest U.S. systems. That adds to the sense that Chinese developers are moving faster than many investors expected.",
+      "Nvidia sits at the center of the AI buildout, while Micron (NASDAQ:MU), TSMC, Broadcom and ASML (NASDAQ:ASML) provide the memory, manufacturing and equipment that make those systems possible."
+    ],
+    "html": null
+  }
+}

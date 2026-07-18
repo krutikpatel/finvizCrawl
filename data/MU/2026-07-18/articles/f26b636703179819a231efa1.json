@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792?mod=wsj_FV",
+    "fetched_at": "2026-07-18T07:00:15.204554-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "China’s Moonshot AI Adds More Fuel to Wall Street’s Chip Selloff - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "The surprise release of a breakthrough artificial-intelligence model from China intensified a selloff in chip stocks on Friday, fueling concerns about competition in AI and massive corporate spending that underpins its build-out.\nThe anxiety pushed the PHLX Semiconductor index, packed with industry heavyweights such as Nvidia, Broadcom and Micron Technology MU , into bear-market territory. The index plummeted 10% this week, its steepest weekly drop since April 2025. A bear market is defined by a drop of 20% or more from a recent peak.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "The surprise release of a breakthrough artificial-intelligence model from China intensified a selloff in chip stocks on Friday, fueling concerns about competition in AI and massive corporate spending that underpins its build-out.",
+      "The anxiety pushed the PHLX Semiconductor index, packed with industry heavyweights such as Nvidia, Broadcom and Micron Technology MU , into bear-market territory. The index plummeted 10% this week, its steepest weekly drop since April 2025. A bear market is defined by a drop of 20% or more from a recent peak.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/china-smartphone-makers-turn-agentic-084426803.html",
+    "fetched_at": "2026-07-18T07:00:10.174190-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "China smartphone makers turn to agentic AI as device sales slow",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- ZTE Corp. (HK:0763) unveiled a range of smartphones with integrated artificial intelligence services, joining Chinese manufacturers seeking to make agentic AI a central part of mobile operating systems, Bloomberg reported.\nThe state-backed telecommunications company demonstrated the NaviX Ultra at the World Artificial Intelligence Conference in Shanghai, describing it as the world's first agentic AI smartphone.\nAvailable in black, pink, white and blue, the device launches ByteDance's Doubao assistant through a voice command or dedicated button.\nUnlike conventional phones that add isolated AI features, agentic devices are designed to execute instructions autonomously across multiple applications. On-device models handle frequent tasks requiring low latency, with cloud-based systems processing more complex requests.\nStepFun also introduced an AI smartphone this week featuring its proprietary operating system and Amoo assistant. Honor, formerly owned by Huawei, plans to launch devices later this year using an agent developed with Alibaba Group Holding Ltd. (NYSE:BABA).\nChinese manufacturers are turning to AI as higher memory costs, inflation and weak consumer demand weigh on the global smartphone industry. The market is projected to record its steepest-ever annual decline in 2026, with budget-focused Chinese brands facing particular pressure from thinner margins.\nApple Inc. (NASDAQ:AAPL) has regained ground in China since late 2025 and recently received regulatory approval to introduce Apple Intelligence through partnerships with Alibaba and Baidu Inc. (NASDAQ:BIDU).\nZTE first presented a prototype under its Nubia brand in December, priced at 3,499 yuan ($516). The initial production run of 30,000 units sold out quickly, with used models later trading at about twice the original price.\nNubia executives demonstrated functions including real-time photo editing, map creation and travel planning at the Shanghai conference but did not disclose the latest device's technical specifications.\nIDC expects AI smartphones to account for more than half of China's market in 2026. ZTE plans to release further specifications for the NaviX Ultra later this year.\nRelated articles\nChina smartphone makers turn to agentic AI as device sales slow\nGoldman expects lower but still attractive stock market returns in 2026",
+    "text_blocks": [
+      "Investing.com -- ZTE Corp. (HK:0763) unveiled a range of smartphones with integrated artificial intelligence services, joining Chinese manufacturers seeking to make agentic AI a central part of mobile operating systems, Bloomberg reported.",
+      "The state-backed telecommunications company demonstrated the NaviX Ultra at the World Artificial Intelligence Conference in Shanghai, describing it as the world's first agentic AI smartphone.",
+      "Available in black, pink, white and blue, the device launches ByteDance's Doubao assistant through a voice command or dedicated button.",
+      "Unlike conventional phones that add isolated AI features, agentic devices are designed to execute instructions autonomously across multiple applications. On-device models handle frequent tasks requiring low latency, with cloud-based systems processing more complex requests.",
+      "StepFun also introduced an AI smartphone this week featuring its proprietary operating system and Amoo assistant. Honor, formerly owned by Huawei, plans to launch devices later this year using an agent developed with Alibaba Group Holding Ltd. (NYSE:BABA).",
+      "Chinese manufacturers are turning to AI as higher memory costs, inflation and weak consumer demand weigh on the global smartphone industry. The market is projected to record its steepest-ever annual decline in 2026, with budget-focused Chinese brands facing particular pressure from thinner margins.",
+      "Apple Inc. (NASDAQ:AAPL) has regained ground in China since late 2025 and recently received regulatory approval to introduce Apple Intelligence through partnerships with Alibaba and Baidu Inc. (NASDAQ:BIDU).",
+      "ZTE first presented a prototype under its Nubia brand in December, priced at 3,499 yuan ($516). The initial production run of 30,000 units sold out quickly, with used models later trading at about twice the original price.",
+      "Nubia executives demonstrated functions including real-time photo editing, map creation and travel planning at the Shanghai conference but did not disclose the latest device's technical specifications.",
+      "IDC expects AI smartphones to account for more than half of China's market in 2026. ZTE plans to release further specifications for the NaviX Ultra later this year.",
+      "Related articles",
+      "China smartphone makers turn to agentic AI as device sales slow",
+      "Goldman expects lower but still attractive stock market returns in 2026"
+    ],
+    "html": null
+  }
+}

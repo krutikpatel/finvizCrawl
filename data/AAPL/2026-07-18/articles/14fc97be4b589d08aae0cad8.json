@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
+    "fetched_at": "2026-07-18T07:00:09.841330-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This week's AI winners and losers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Yahoo Finance's AI winners and losers provides a weekly snapshot of some of the biggest stories impacting the artificial intelligence industry. From chip manufacturers and model developers to software companies and politicians, we look at who has benefited from AI and who has stumbled.\nThis week's AI winners: TSMC and China's Moonshot AI\nTSMC\nTaiwan Semiconductor Manufacturing Co. (TSM) announced blowout earnings on Thursday and said it will increase spending to expand its US footprint. Second quarter revenue jumped 36% year over year, while net income rocketed 77.4% higher.\nTSMC produces semiconductors for the world's most influential tech companies, including Apple (AAPL), AMD (AMD), Nvidia (NVDA), and Qualcomm (QCOM). And the AI boom has paid off handsomely for the Taiwan-based manufacturer. Annual revenue has increased from $75.99 billion in 2022 to $122.56 billion in 2025.\nAccording to CFO Wendell Huang, TMSC's Q2 results were supported by strong demand, which he expects to continue into the current quarter as tech companies seek as many AI chips as they can get.\nMoonshot AI\nMoonshot AI on Friday revealed that its new Kimi K3 AI model has frontier-level capabilities. While it falls short in overall performance compared to state-of-the-art models like Anthropic's (ANTH.PVT) Fable 5 and OpenAI's (OPAI.PVT) GPT-5.6 Sol, K3 surpasses them on certain benchmark tests.\nThe announcement shows how quickly China's AI companies are catching up with the most well-funded organizations in the US, and points to the major differences between their approaches to AI dominance.\nLike China's DeepSeek, Moonshot AI focuses on releasing open-weight models, or models that users can download for free and customize to their liking, while Anthropic, OpenAI, and Google (GOOG, GOOGL) focus on proprietary models that users must pay to access.\nChina's AI companies also generally undercut Anthropic, OpenAI, and Google on usage pricing, making them more appealing to businesses that are looking to take advantage of AI but don't want to shell out for access to Anthropic's Claude, OpenAI's GPT, or Google's Gemini.\nThis week's AI losers: IBM and the chip industry\nIBM\nTalk about a rough day. IBM (IBM) preannounced its Q2 earnings on Tuesday, warning investors that its revenue and earnings per share fell well below analysts' expectations, as the company's customers shifted their spending from its mainframe systems to AI servers and memory and storage chips.\nAnalysts had expected Big Blue to report adjusted earnings per share (EPS) of $3.02 on revenue of $17.86 billion, but the company says it came up short, posting adjusted EPS of $2.93 and revenue of $17.2 billion.",
+    "text_blocks": [
+      "Yahoo Finance's AI winners and losers provides a weekly snapshot of some of the biggest stories impacting the artificial intelligence industry. From chip manufacturers and model developers to software companies and politicians, we look at who has benefited from AI and who has stumbled.",
+      "This week's AI winners: TSMC and China's Moonshot AI",
+      "TSMC",
+      "Taiwan Semiconductor Manufacturing Co. (TSM) announced blowout earnings on Thursday and said it will increase spending to expand its US footprint. Second quarter revenue jumped 36% year over year, while net income rocketed 77.4% higher.",
+      "TSMC produces semiconductors for the world's most influential tech companies, including Apple (AAPL), AMD (AMD), Nvidia (NVDA), and Qualcomm (QCOM). And the AI boom has paid off handsomely for the Taiwan-based manufacturer. Annual revenue has increased from $75.99 billion in 2022 to $122.56 billion in 2025.",
+      "According to CFO Wendell Huang, TMSC's Q2 results were supported by strong demand, which he expects to continue into the current quarter as tech companies seek as many AI chips as they can get.",
+      "Moonshot AI",
+      "Moonshot AI on Friday revealed that its new Kimi K3 AI model has frontier-level capabilities. While it falls short in overall performance compared to state-of-the-art models like Anthropic's (ANTH.PVT) Fable 5 and OpenAI's (OPAI.PVT) GPT-5.6 Sol, K3 surpasses them on certain benchmark tests.",
+      "The announcement shows how quickly China's AI companies are catching up with the most well-funded organizations in the US, and points to the major differences between their approaches to AI dominance.",
+      "Like China's DeepSeek, Moonshot AI focuses on releasing open-weight models, or models that users can download for free and customize to their liking, while Anthropic, OpenAI, and Google (GOOG, GOOGL) focus on proprietary models that users must pay to access.",
+      "China's AI companies also generally undercut Anthropic, OpenAI, and Google on usage pricing, making them more appealing to businesses that are looking to take advantage of AI but don't want to shell out for access to Anthropic's Claude, OpenAI's GPT, or Google's Gemini.",
+      "This week's AI losers: IBM and the chip industry",
+      "IBM",
+      "Talk about a rough day. IBM (IBM) preannounced its Q2 earnings on Tuesday, warning investors that its revenue and earnings per share fell well below analysts' expectations, as the company's customers shifted their spending from its mainframe systems to AI servers and memory and storage chips.",
+      "Analysts had expected Big Blue to report adjusted earnings per share (EPS) of $3.02 on revenue of $17.86 billion, but the company says it came up short, posting adjusted EPS of $2.93 and revenue of $17.2 billion."
+    ],
+    "html": null
+  }
+}

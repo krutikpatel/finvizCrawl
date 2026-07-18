@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-slips-2-gf-200026317.html",
+    "fetched_at": "2026-07-18T07:00:43.496358-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm (QCOM) Slips 2% After GF Securities Starts Coverage With Hold Rating",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nQualcomm (NASDAQ:QCOM) shares fell about 2% Friday after GF Securities initiated coverage with a Hold rating and a $203 price target, while outlining both the company's AI data center growth prospects and near-term execution risks.\nQualcomm has been expanding beyond its smartphone business with its AI250 platform, an AI inference accelerator designed for data centers that aims to deliver higher performance while reducing power consumption. The brokerage said the company is targeting more than $15 billion in annual data center revenue by fiscal 2029, although it projects a slower ramp than management's outlook.\nGF Securities said Qualcomm could benefit from growing demand for AI infrastructure, with the AI250 platform expected to gain adoption among four major U.S. cloud service providers. The firm added that Qualcomm's custom silicon business may attract customers including Microsoft (MSFT), Meta (META) and Amazon (AMZN), while its wafer supply position could provide a competitive advantage.\nEven so, the brokerage cited concerns over AI250's cost competitiveness, elevated LPDDR5 memory prices, Android smartphone demand and market share pressures. It also said Qualcomm's CPU business is still several years from becoming a meaningful growth driver.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Qualcomm (NASDAQ:QCOM) shares fell about 2% Friday after GF Securities initiated coverage with a Hold rating and a $203 price target, while outlining both the company's AI data center growth prospects and near-term execution risks.",
+      "Qualcomm has been expanding beyond its smartphone business with its AI250 platform, an AI inference accelerator designed for data centers that aims to deliver higher performance while reducing power consumption. The brokerage said the company is targeting more than $15 billion in annual data center revenue by fiscal 2029, although it projects a slower ramp than management's outlook.",
+      "GF Securities said Qualcomm could benefit from growing demand for AI infrastructure, with the AI250 platform expected to gain adoption among four major U.S. cloud service providers. The firm added that Qualcomm's custom silicon business may attract customers including Microsoft (MSFT), Meta (META) and Amazon (AMZN), while its wafer supply position could provide a competitive advantage.",
+      "Even so, the brokerage cited concerns over AI250's cost competitiveness, elevated LPDDR5 memory prices, Android smartphone demand and market share pressures. It also said Qualcomm's CPU business is still several years from becoming a meaningful growth driver."
+    ],
+    "html": null
+  }
+}

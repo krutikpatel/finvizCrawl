@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/starlink-spacexs-key-making-big-202500888.html",
+    "fetched_at": "2026-07-18T07:00:12.843292-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How Starlink is SpaceX's key to making big 'star bucks'",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "00:00 Speaker A\nwhen these rocket launches happen throughout the satellite industry, delays are are pretty common whether they're weather related or whether there is um a technical issue. The Starship is so sophisticated, um we've written about how it's a full decade ahead of peers. Um,\n00:15 Speaker A\nthey're on the frontier of new technology and, you know, they want to make sure that, you know, everything is is precise. So, you know, there were certain um boxes that, you know, weren't weren't checked and that there's redundancy and and triple redundancy for, you know, all the processes that go on with these rockets.\n00:33 Speaker A\nOur formula for SpaceX is, um, Starlink plus Starship equals Starbucks. And Starlink is the moneymaker for SpaceX. and their satellite broadband business is gaining a million subscribers every quarter. I think they'll end the second quarter with 12 million. And the catalyst here is associated with Starship in that currently\n00:55 Speaker A\nStarling broadband already achieves fiberlike speeds and they're taking shares from the incumbent Telecom providers, but it's going to improve by an order of magnitude. So that's one of the main catalysts. The second main catalyst in for the near term is is renting data center capacity to hyperscaler customers. Um they recently announced the deal with Anthropic for 11 billion dollar\n01:26 Speaker A\nand um, sorry, the Anthropic deal was 15 billion, the Google deal was 11 billion and they're in talks to rent capacity to the US Department of War. And those deals are huge in terms of profitability and also just the size relative to the existing business.\n01:44 Speaker A\nOne of the key risks here and one of the potential causes of the recent volatility is the fact that the AI market is so volatile. You were talking about all the AI puts and takes with open source competition from China on the prior segment. But two weeks ago, there was an article about how Meta might be selling excess\n02:08 Speaker A\ndata center capacity and that struck a nerve for some SpaceX investors because the market has been capacity constrained.",
+    "text_blocks": [
+      "00:00 Speaker A",
+      "when these rocket launches happen throughout the satellite industry, delays are are pretty common whether they're weather related or whether there is um a technical issue. The Starship is so sophisticated, um we've written about how it's a full decade ahead of peers. Um,",
+      "00:15 Speaker A",
+      "they're on the frontier of new technology and, you know, they want to make sure that, you know, everything is is precise. So, you know, there were certain um boxes that, you know, weren't weren't checked and that there's redundancy and and triple redundancy for, you know, all the processes that go on with these rockets.",
+      "00:33 Speaker A",
+      "Our formula for SpaceX is, um, Starlink plus Starship equals Starbucks. And Starlink is the moneymaker for SpaceX. and their satellite broadband business is gaining a million subscribers every quarter. I think they'll end the second quarter with 12 million. And the catalyst here is associated with Starship in that currently",
+      "00:55 Speaker A",
+      "Starling broadband already achieves fiberlike speeds and they're taking shares from the incumbent Telecom providers, but it's going to improve by an order of magnitude. So that's one of the main catalysts. The second main catalyst in for the near term is is renting data center capacity to hyperscaler customers. Um they recently announced the deal with Anthropic for 11 billion dollar",
+      "01:26 Speaker A",
+      "and um, sorry, the Anthropic deal was 15 billion, the Google deal was 11 billion and they're in talks to rent capacity to the US Department of War. And those deals are huge in terms of profitability and also just the size relative to the existing business.",
+      "01:44 Speaker A",
+      "One of the key risks here and one of the potential causes of the recent volatility is the fact that the AI market is so volatile. You were talking about all the AI puts and takes with open source competition from China on the prior segment. But two weeks ago, there was an article about how Meta might be selling excess",
+      "02:08 Speaker A",
+      "data center capacity and that struck a nerve for some SpaceX investors because the market has been capacity constrained."
+    ],
+    "html": null
+  }
+}

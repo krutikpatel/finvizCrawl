@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/oracle-data-center-plan-hits-200032055.html",
+    "fetched_at": "2026-07-18T07:00:23.715997-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Data Center Plan Hits New Setback",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) is facing a fresh setback in New Mexico after state regulators rejected a natural gas pipeline that would help power its planned Project Jupiter data center.\nThe 17-mile pipeline, proposed by Energy Transfer, was designed to move as much as 400 million cubic feet of gas per day to the site. Project Jupiter could rely on up to 2.5 GW of gas-powered fuel cells from Bloom Energy, making the pipeline a key part of the campus's energy plan.\nOracle provides cloud infrastructure, databases and enterprise software to businesses and governments. Its data center expansion is central to its push to compete more aggressively in AI and cloud computing.\nThe problem is that New Mexico officials say the project would consume significant water, worsen emissions and generate too little revenue for the state. The latest rejection makes an Aug. 15 in-service target highly unlikely and could push construction into next year.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) is facing a fresh setback in New Mexico after state regulators rejected a natural gas pipeline that would help power its planned Project Jupiter data center.",
+      "The 17-mile pipeline, proposed by Energy Transfer, was designed to move as much as 400 million cubic feet of gas per day to the site. Project Jupiter could rely on up to 2.5 GW of gas-powered fuel cells from Bloom Energy, making the pipeline a key part of the campus's energy plan.",
+      "Oracle provides cloud infrastructure, databases and enterprise software to businesses and governments. Its data center expansion is central to its push to compete more aggressively in AI and cloud computing.",
+      "The problem is that New Mexico officials say the project would consume significant water, worsen emissions and generate too little revenue for the state. The latest rejection makes an Aug. 15 in-service target highly unlikely and could push construction into next year."
+    ],
+    "html": null
+  }
+}

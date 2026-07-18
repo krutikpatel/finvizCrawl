@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/can-the-odyssey-beat-the-world-cup-416868ed?mod=bar_FV",
+    "fetched_at": "2026-07-18T07:00:09.774702-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Can ‘The Odyssey’ Beat the World Cup?<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Can ‘The Odyssey’ Beat the World Cup?\nShades of Barbenheimer. In July 2023, movie fans were torn between the simultaneous release of two blockbusters, Greta Gerwig’s Barbie and Christopher Nolan’s Oppenheimer. Now they’re faced with another epic choice: Nolan’s The Odyssey, which debuts Friday, or Sunday’s World Cup final. A survey from Just Watch has a slight majority favoring The Odyssey, but 59% say they plan to watch both.",
+    "text_blocks": [
+      "Can ‘The Odyssey’ Beat the World Cup?",
+      "Shades of Barbenheimer. In July 2023, movie fans were torn between the simultaneous release of two blockbusters, Greta Gerwig’s Barbie and Christopher Nolan’s Oppenheimer. Now they’re faced with another epic choice: Nolan’s The Odyssey, which debuts Friday, or Sunday’s World Cup final. A survey from Just Watch has a slight majority favoring The Odyssey, but 59% say they plan to watch both."
+    ],
+    "html": null
+  }
+}

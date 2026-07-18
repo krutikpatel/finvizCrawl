@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amds-ai-event-faces-customer-200158533.html",
+    "fetched_at": "2026-07-18T07:00:12.847094-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD's AI Event Faces Customer Test",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAMD (NASDAQ:AMD) could use its July 22 Advancing AI event to show investors that its AI chip push is moving beyond product roadmaps and into bigger customer wins.\nJefferies analyst Blayne Curtis expects updates on AMD's MI500 GPUs, a CPU market opportunity that could top $200 billion and a possible scale-up networking roadmap built around optical interconnects. But the biggest swing factor may be new customers.\nJefferies believes Microsoft (NASDAQ:MSFT) is already using AMD's MI450, while investors are increasingly focused on a possible Anthropic deal. Curtis said the economics would matter more than the headline, especially after AMD offered substantial incentives in earlier agreements with OpenAI and Meta (NASDAQ:META).\nAMD designs CPUs, GPUs and AI accelerators used in PCs, servers and data centers. Its Instinct chips are the company's main answer to Nvidia's (NASDAQ:NVDA) dominance in AI computing.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AMD (NASDAQ:AMD) could use its July 22 Advancing AI event to show investors that its AI chip push is moving beyond product roadmaps and into bigger customer wins.",
+      "Jefferies analyst Blayne Curtis expects updates on AMD's MI500 GPUs, a CPU market opportunity that could top $200 billion and a possible scale-up networking roadmap built around optical interconnects. But the biggest swing factor may be new customers.",
+      "Jefferies believes Microsoft (NASDAQ:MSFT) is already using AMD's MI450, while investors are increasingly focused on a possible Anthropic deal. Curtis said the economics would matter more than the headline, especially after AMD offered substantial incentives in earlier agreements with OpenAI and Meta (NASDAQ:META).",
+      "AMD designs CPUs, GPUs and AI accelerators used in PCs, servers and data centers. Its Instinct chips are the company's main answer to Nvidia's (NASDAQ:NVDA) dominance in AI computing."
+    ],
+    "html": null
+  }
+}

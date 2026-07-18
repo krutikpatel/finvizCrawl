@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-ai-event-puts-spotlight-200116151.html",
+    "fetched_at": "2026-07-18T07:00:46.241667-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD AI Event Puts Spotlight on MI500",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (AMD, Financials), a U.S. semiconductor company that designs processors and artificial intelligence accelerators for PCs, servers and data centers, is preparing for a pivotal week as investors look beyond its upcoming earnings report and focus on the company's Advancing AI conference.\nThe event, scheduled for July 22 and 23 in San Francisco, is expected to provide a closer look at AMD's next generation of AI hardware. Jefferies analyst Blayne Curtis believes the company could unveil additional details on its MI500 GPU family, expand its AI infrastructure roadmap and outline how future systems will scale to support larger AI workloads.\nThe biggest question, however, may not be the hardware. Investors are waiting to see whether AMD announces new cloud and AI customers. Jefferies believes Microsoft could be using the upcoming MI450 platform, while market attention has increasingly shifted toward whether Anthropic will join AMD's growing customer base.\nWinning another major AI customer would strengthen AMD's position against Nvidia, particularly if the company can secure new business without offering the generous incentives seen in earlier partnerships.\nCurtis maintained a Buy rating and a $515 price target, arguing that the event could reinforce confidence in AMD's long-term AI strategy.\nThe next catalyst will be AMD's Advancing AI conference, followed by second-quarter earnings on Aug. 4, when investors will look for signs that AI demand is translating into stronger revenue growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (AMD, Financials), a U.S. semiconductor company that designs processors and artificial intelligence accelerators for PCs, servers and data centers, is preparing for a pivotal week as investors look beyond its upcoming earnings report and focus on the company's Advancing AI conference.",
+      "The event, scheduled for July 22 and 23 in San Francisco, is expected to provide a closer look at AMD's next generation of AI hardware. Jefferies analyst Blayne Curtis believes the company could unveil additional details on its MI500 GPU family, expand its AI infrastructure roadmap and outline how future systems will scale to support larger AI workloads.",
+      "The biggest question, however, may not be the hardware. Investors are waiting to see whether AMD announces new cloud and AI customers. Jefferies believes Microsoft could be using the upcoming MI450 platform, while market attention has increasingly shifted toward whether Anthropic will join AMD's growing customer base.",
+      "Winning another major AI customer would strengthen AMD's position against Nvidia, particularly if the company can secure new business without offering the generous incentives seen in earlier partnerships.",
+      "Curtis maintained a Buy rating and a $515 price target, arguing that the event could reinforce confidence in AMD's long-term AI strategy.",
+      "The next catalyst will be AMD's Advancing AI conference, followed by second-quarter earnings on Aug. 4, when investors will look for signs that AI demand is translating into stronger revenue growth."
+    ],
+    "html": null
+  }
+}

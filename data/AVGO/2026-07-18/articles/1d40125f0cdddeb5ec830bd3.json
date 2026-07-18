@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_FV",
+    "fetched_at": "2026-07-18T07:00:33.173214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip stocks have entered a bear market. A BofA analyst says not to panic. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nChip stocks have entered a bear market. A BofA analyst says not to panic.\nThe semiconductor sector is undergoing a reset and has a tendency to underperform in the third quarter\nAs the chip sector officially enters a bear market, a BofA analyst says the recent pressure is merely “a summer reset, not a fundamental reversal.”\nIt’s been a volatile stretch for the sector, with the PHLX Semiconductor Index SOX finishing in a bear market on Friday after seeing explosive gains in the first half of the year. The index ended the day down 20.2% from its all-time closing high achieved on June 22. A bear market is defined as a drop of 20% or more from a recent significant peak.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Chip stocks have entered a bear market. A BofA analyst says not to panic.",
+      "The semiconductor sector is undergoing a reset and has a tendency to underperform in the third quarter",
+      "As the chip sector officially enters a bear market, a BofA analyst says the recent pressure is merely “a summer reset, not a fundamental reversal.”",
+      "It’s been a volatile stretch for the sector, with the PHLX Semiconductor Index SOX finishing in a bear market on Friday after seeing explosive gains in the first half of the year. The index ended the day down 20.2% from its all-time closing high achieved on June 22. A bear market is defined as a drop of 20% or more from a recent significant peak."
+    ],
+    "html": null
+  }
+}

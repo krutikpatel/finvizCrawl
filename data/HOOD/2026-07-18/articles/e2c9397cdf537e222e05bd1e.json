@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-now-access-credit-cards-111500339.html",
+    "fetched_at": "2026-07-18T07:00:20.891978-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI can now access your credit cards — how to protect yourself from being scammed",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "With recent advancements in artificial intelligence, it's becoming easier for consumers to let AI play a role in their finances.\nRobinhood, a financial services platform and mobile app, now has AI agents that can make credit card purchases and investment trades on your behalf (1). And after announcing a collaboration with OpenAI, Visa introduced secure payments with agentic commerce (2), \"enabling seamless and trusted payments across OpenAI,\" according to a company press release (3).\nMust Read\n-\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n-\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n-\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\nBut a new report suggests letting AI handle your finances can come with serious risks.\n\"Consumers don't need to fear AI tools,\" Jennifer White, managing director of banking and payments intelligence at JD Power, told U.S. News & World Report (4). \"But they do need to be more intentional about what information they share with them.\"\nHow AI in finance is good for scammers\nAs AI-powered transactions become the norm, experts warn that placing too much trust in AI could leave consumers vulnerable to fraud and identity theft.\n\"People have this vision of a hacker in a hoodie in a basement somewhere that's trying to get their details and sending out the Nigerian prince-type emails,\" Ian Bednowitz, general manager at LifeLock, told U.S. News and World Report (4). \"The reality is that was something that existed five or 10 years ago. The threat landscape has completely changed.\"\nIn the past, scammers used data brokers, social media, the dark web and other tactics to target victims or steal their identities. But handing financial information to AI can make that process faster, easier and less expensive. As AI gives fraudsters more sophisticated tools, consumers need to be even more careful about protecting their credentials or information.\n\"The risk to consumers is not necessarily the technology itself,\" said White. \"It's how easily consumers can be manipulated into sharing information or taking actions that override existing safeguards.\"\nOne example is an indirect prompt injection. This is a trick in which scammers hide malicious instructions in websites or other data sources that AI systems can access.",
+    "text_blocks": [
+      "With recent advancements in artificial intelligence, it's becoming easier for consumers to let AI play a role in their finances.",
+      "Robinhood, a financial services platform and mobile app, now has AI agents that can make credit card purchases and investment trades on your behalf (1). And after announcing a collaboration with OpenAI, Visa introduced secure payments with agentic commerce (2), \"enabling seamless and trusted payments across OpenAI,\" according to a company press release (3).",
+      "Must Read",
+      "-",
+      "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+      "-",
+      "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP",
+      "-",
+      "Millionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going",
+      "But a new report suggests letting AI handle your finances can come with serious risks.",
+      "\"Consumers don't need to fear AI tools,\" Jennifer White, managing director of banking and payments intelligence at JD Power, told U.S. News & World Report (4). \"But they do need to be more intentional about what information they share with them.\"",
+      "How AI in finance is good for scammers",
+      "As AI-powered transactions become the norm, experts warn that placing too much trust in AI could leave consumers vulnerable to fraud and identity theft.",
+      "\"People have this vision of a hacker in a hoodie in a basement somewhere that's trying to get their details and sending out the Nigerian prince-type emails,\" Ian Bednowitz, general manager at LifeLock, told U.S. News and World Report (4). \"The reality is that was something that existed five or 10 years ago. The threat landscape has completely changed.\"",
+      "In the past, scammers used data brokers, social media, the dark web and other tactics to target victims or steal their identities. But handing financial information to AI can make that process faster, easier and less expensive. As AI gives fraudsters more sophisticated tools, consumers need to be even more careful about protecting their credentials or information.",
+      "\"The risk to consumers is not necessarily the technology itself,\" said White. \"It's how easily consumers can be manipulated into sharing information or taking actions that override existing safeguards.\"",
+      "One example is an indirect prompt injection. This is a trick in which scammers hide malicious instructions in websites or other data sources that AI systems can access."
+    ],
+    "html": null
+  }
+}

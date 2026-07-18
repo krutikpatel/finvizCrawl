@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-raises-775-million-first-200100839.html",
+    "fetched_at": "2026-07-18T07:00:12.858836-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nebius Raises $775 Million in First Secured Debt Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNebius Group (NASDAQ:NBIS) rose 2.33% intraday after the Amsterdam-based AI cloud company announced its first senior secured debt facility, worth about $775 million, to fund the global buildout of its full-stack AI cloud platform. The facility is backed by deployed GPU infrastructure and contracted cash flows from an investment-grade customer, matures October 31, 2030, and is priced at SOFR plus 2.50%.\nThe structure lets Nebius turn an operational asset into growth capital, and the company framed it as a repeatable template. With more than $40 billion of contracted revenue already in place from investment-grade customers including Microsoft (MSFT) and Meta (META), Nebius said it expects to raise further capital on similar terms by financing other long-term customer deployments. Together with the customer agreement, the facility covers more than 100% of the capital spending needed to deploy the underlying GPUs.\nThe financing was significantly oversubscribed, led by MUFG. COO Ophir Nave said the deal reinforces the company's \"disciplined, diversified approach\" to scaling. Nebius recently delivered its latest planned capacity tranche to Microsoft and said it remains on track for the remaining deliveries.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nebius Group (NASDAQ:NBIS) rose 2.33% intraday after the Amsterdam-based AI cloud company announced its first senior secured debt facility, worth about $775 million, to fund the global buildout of its full-stack AI cloud platform. The facility is backed by deployed GPU infrastructure and contracted cash flows from an investment-grade customer, matures October 31, 2030, and is priced at SOFR plus 2.50%.",
+      "The structure lets Nebius turn an operational asset into growth capital, and the company framed it as a repeatable template. With more than $40 billion of contracted revenue already in place from investment-grade customers including Microsoft (MSFT) and Meta (META), Nebius said it expects to raise further capital on similar terms by financing other long-term customer deployments. Together with the customer agreement, the facility covers more than 100% of the capital spending needed to deploy the underlying GPUs.",
+      "The financing was significantly oversubscribed, led by MUFG. COO Ophir Nave said the deal reinforces the company's \"disciplined, diversified approach\" to scaling. Nebius recently delivered its latest planned capacity tranche to Microsoft and said it remains on track for the remaining deliveries."
+    ],
+    "html": null
+  }
+}
