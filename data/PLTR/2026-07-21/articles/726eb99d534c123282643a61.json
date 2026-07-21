@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-expands-sap-transformation-push-121547284.html",
+    "fetched_at": "2026-07-21T07:00:31.290350-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Expands SAP Transformation Push With SNP Partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (PLTR, Financials), a software company known for helping governments and businesses analyze complex data and deploy artificial intelligence tools, has partnered with Germany-based SNP SE to develop AI-powered solutions for SAP transformation projects.\nThe companies plan to focus on large and complex SAP migrations, where businesses often need to move critical data and systems without disrupting daily operations.\nTheir first joint product, called Test Data Proposal, will automate the process of identifying relevant test data for SAP migration cases. That work has traditionally been handled manually. The tool will be added to SNP's Kyano platform.\nSNP brings about 30 years of SAP data migration experience, while Palantir will contribute its Ontology technology and Artificial Intelligence Platform.\nThe partnership will also target migrations to SAP Cloud ERP applications as companies move more business systems to the cloud.\nSNP reported about 297 million euros in revenue for fiscal 2025 and serves more than 3,000 customers across more than 80 countries.\nFor Palantir investors, the partnership opens another path into large corporate technology projects. The next focus will be whether the companies can turn the partnership into broader customer adoption and more SAP migration work.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (PLTR, Financials), a software company known for helping governments and businesses analyze complex data and deploy artificial intelligence tools, has partnered with Germany-based SNP SE to develop AI-powered solutions for SAP transformation projects.",
+      "The companies plan to focus on large and complex SAP migrations, where businesses often need to move critical data and systems without disrupting daily operations.",
+      "Their first joint product, called Test Data Proposal, will automate the process of identifying relevant test data for SAP migration cases. That work has traditionally been handled manually. The tool will be added to SNP's Kyano platform.",
+      "SNP brings about 30 years of SAP data migration experience, while Palantir will contribute its Ontology technology and Artificial Intelligence Platform.",
+      "The partnership will also target migrations to SAP Cloud ERP applications as companies move more business systems to the cloud.",
+      "SNP reported about 297 million euros in revenue for fiscal 2025 and serves more than 3,000 customers across more than 80 countries.",
+      "For Palantir investors, the partnership opens another path into large corporate technology projects. The next focus will be whether the companies can turn the partnership into broader customer adoption and more SAP migration work."
+    ],
+    "html": null
+  }
+}

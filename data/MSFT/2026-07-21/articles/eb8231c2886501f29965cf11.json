@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/69a8460f-610d-3b5f-87c8-c6d46e08fa64/why-the-future-of-ai-customer.html",
+    "fetched_at": "2026-07-21T07:00:25.525985-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why the Future of AI Customer Engagement Still Depends on Humans",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Exec Edge Editorial Staff\nInside enterprises actually deploying AI at scale, a different answer is emerging. The companies seeing the strongest results are not removing humans from the process. They are redesigning how humans and AI work together.\nThat shift is becoming one of the defining trends in enterprise communications and customer engagement.\nAccording to IDC's 2026 MarketScape on Worldwide Communications Engagement Platforms, the market is rapidly evolving toward \"agentic AI, enabling autonomous, proactive engagement and context-aware orchestration across channels.\" But the report makes clear that automation alone is not the differentiator. The real competitive advantage lies in creating seamless, intelligent experiences across customer and employee workflows.\nThe strongest enterprise AI deployments are increasingly built around what technology leaders describe as a human-in-the-loop model: AI handles speed, scale and orchestration, while humans focus on judgment, nuance and relationship management.\nHow RingCentral Combines AI and Human Agents in Customer Engagement\nRingCentral is betting heavily on that model. The company's AI strategy spans automation, assistance, and augmentation, with each capability designed to play a distinct role. Across its portfolio, AIR, AVA, and ACE (formerly RingSense), the goal is not to remove people from the equation entirely, but to apply AI where it creates the most value: automating routine interactions, assisting employees in their daily work, and augmenting human decision-making with conversational intelligence.\nIn customer support, AI may answer routine questions, summarize conversations and surface relevant context before a live handoff. In sales, it may identify intent signals, generate call summaries or flag coaching opportunities. In internal collaboration, it may capture meeting decisions and route follow-ups automatically, freeing teams to focus on execution rather than documentation.\nWhat ties these applications together is a central principle: humans remain central to the experience.\nWhy Human Judgment Still Matters\nAs enterprises move beyond experimentation, they are discovering an operational reality. Fully autonomous systems work well in narrow, repetitive scenarios. But most customer interactions are not linear. They involve emotion, ambiguity, urgency and context that require human judgment.\nCustomers, it turns out, do not want fewer human interactions. They want better ones.\nAI's role is increasingly becoming infrastructural. It filters noise, organizes information, shortens response times and helps employees focus attention where it matters most—not replacing the human element, but amplifying it.",
+    "text_blocks": [
+      "By Exec Edge Editorial Staff",
+      "Inside enterprises actually deploying AI at scale, a different answer is emerging. The companies seeing the strongest results are not removing humans from the process. They are redesigning how humans and AI work together.",
+      "That shift is becoming one of the defining trends in enterprise communications and customer engagement.",
+      "According to IDC's 2026 MarketScape on Worldwide Communications Engagement Platforms, the market is rapidly evolving toward \"agentic AI, enabling autonomous, proactive engagement and context-aware orchestration across channels.\" But the report makes clear that automation alone is not the differentiator. The real competitive advantage lies in creating seamless, intelligent experiences across customer and employee workflows.",
+      "The strongest enterprise AI deployments are increasingly built around what technology leaders describe as a human-in-the-loop model: AI handles speed, scale and orchestration, while humans focus on judgment, nuance and relationship management.",
+      "How RingCentral Combines AI and Human Agents in Customer Engagement",
+      "RingCentral is betting heavily on that model. The company's AI strategy spans automation, assistance, and augmentation, with each capability designed to play a distinct role. Across its portfolio, AIR, AVA, and ACE (formerly RingSense), the goal is not to remove people from the equation entirely, but to apply AI where it creates the most value: automating routine interactions, assisting employees in their daily work, and augmenting human decision-making with conversational intelligence.",
+      "In customer support, AI may answer routine questions, summarize conversations and surface relevant context before a live handoff. In sales, it may identify intent signals, generate call summaries or flag coaching opportunities. In internal collaboration, it may capture meeting decisions and route follow-ups automatically, freeing teams to focus on execution rather than documentation.",
+      "What ties these applications together is a central principle: humans remain central to the experience.",
+      "Why Human Judgment Still Matters",
+      "As enterprises move beyond experimentation, they are discovering an operational reality. Fully autonomous systems work well in narrow, repetitive scenarios. But most customer interactions are not linear. They involve emotion, ambiguity, urgency and context that require human judgment.",
+      "Customers, it turns out, do not want fewer human interactions. They want better ones.",
+      "AI's role is increasingly becoming infrastructural. It filters noise, organizes information, shortens response times and helps employees focus attention where it matters most—not replacing the human element, but amplifying it."
+    ],
+    "html": null
+  }
+}

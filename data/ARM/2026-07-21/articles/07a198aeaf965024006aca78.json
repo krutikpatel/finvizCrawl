@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/30e22e17-fb4b-37e8-aa04-bfc4fdafd38f/leading-investment-bank-lifts.html",
+    "fetched_at": "2026-07-21T07:00:45.617685-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Leading investment bank lifts Arm target to $320 as AI drives surge in CPU demand",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Jefferies has raised its price target on Arm Holdings PLC (NASDAQ:ARM) to $320 from $290, arguing that orders for the chip designer's AGI CPU have risen further since full-year results as agentic artificial intelligence fuels demand for processors.\nThe broker repeated its 'buy' rating on the Cambridge-based company, with the new target implying 20% upside from the current $267.19 share price.\nJefferies now forecasts revenue from Arm's AGI CPU of $18 billion in the 2031 financial year, above the company's own guidance of $15 billion.\nIt expects Meta to be the biggest customer for the chips, followed by OpenAI, Oracle and ByteDance, with Oracle and ByteDance among recent signings.\nAt its Arm Everywhere event in March, the company put the total addressable market for CPUs by 2030 at more than $100 billion, but Jefferies said estimates have since expanded to $200 billion.\nWith Arm expected to capture at least a 15% share, the broker believes revenues will land well above guidance.\nJefferies also nudged up its nearer-term forecasts, pencilling in $1.5 billion of AGI CPU revenue in the 2028 financial year and $3 billion in 2029, from $1.4 billion and $2.7 billion previously.\nArm has said demand is constrained by foundry capacity and DRAM availability, but at a Jefferies roadshow the company's finance chief clarified that extra wafer capacity is available at a higher price, which would compress gross margins.\nThe broker believes Arm will take up those options to lock in market share.\nIn the data centre, royalty rates are rising, with CSS-based royalties increasing to $1.50 per core from $1 previously.\nJefferies also expects SoftBank, Arm's majority owner, to launch a graphics processing unit next year using Arm's design services, estimating royalties could exceed $7,000 per chip given the very high selling prices of GPUs.\nThe bank forecasts earnings growth of 45% a year over five years, arguing this visibility deserves a premium rating.\nIts new target is based on 29 times 2031 earnings, a 52% premium to merchant CPU peers Intel and AMD, justified by Arm's far higher margins and growth.",
+    "text_blocks": [
+      "Jefferies has raised its price target on Arm Holdings PLC (NASDAQ:ARM) to $320 from $290, arguing that orders for the chip designer's AGI CPU have risen further since full-year results as agentic artificial intelligence fuels demand for processors.",
+      "The broker repeated its 'buy' rating on the Cambridge-based company, with the new target implying 20% upside from the current $267.19 share price.",
+      "Jefferies now forecasts revenue from Arm's AGI CPU of $18 billion in the 2031 financial year, above the company's own guidance of $15 billion.",
+      "It expects Meta to be the biggest customer for the chips, followed by OpenAI, Oracle and ByteDance, with Oracle and ByteDance among recent signings.",
+      "At its Arm Everywhere event in March, the company put the total addressable market for CPUs by 2030 at more than $100 billion, but Jefferies said estimates have since expanded to $200 billion.",
+      "With Arm expected to capture at least a 15% share, the broker believes revenues will land well above guidance.",
+      "Jefferies also nudged up its nearer-term forecasts, pencilling in $1.5 billion of AGI CPU revenue in the 2028 financial year and $3 billion in 2029, from $1.4 billion and $2.7 billion previously.",
+      "Arm has said demand is constrained by foundry capacity and DRAM availability, but at a Jefferies roadshow the company's finance chief clarified that extra wafer capacity is available at a higher price, which would compress gross margins.",
+      "The broker believes Arm will take up those options to lock in market share.",
+      "In the data centre, royalty rates are rising, with CSS-based royalties increasing to $1.50 per core from $1 previously.",
+      "Jefferies also expects SoftBank, Arm's majority owner, to launch a graphics processing unit next year using Arm's design services, estimating royalties could exceed $7,000 per chip given the very high selling prices of GPUs.",
+      "The bank forecasts earnings growth of 45% a year over five years, arguing this visibility deserves a premium rating.",
+      "Its new target is based on 29 times 2031 earnings, a 52% premium to merchant CPU peers Intel and AMD, justified by Arm's far higher margins and growth."
+    ],
+    "html": null
+  }
+}

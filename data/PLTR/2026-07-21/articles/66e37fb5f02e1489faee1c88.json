@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-stock-rises-major-ai-171058894.html",
+    "fetched_at": "2026-07-21T07:00:31.345229-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stock Rises After Major AI Expansion Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) shares climbed about 2% on Tuesday after the software company said it expanded its partnership with Mexican insurer GNP Seguros to broaden the use of its artificial intelligence platform.\nPalantir said GNP Seguros, the largest insurance provider in Mexico, is deploying its Foundry and Artificial Intelligence Platform (AIP) across more business operations. The expanded deployment is intended to improve fraud detection, enhance underwriting accuracy, streamline claims processing, and support customer service.\nPalantir said the agreement builds on its existing relationship with GNP Seguros as the insurer increases its adoption of AI-powered tools to improve operational efficiency and decision-making. The company said the platform will help automate workflows and assist employees in managing insurance operations more effectively.\nThe expanded deployment adds to Palantir's growing presence in the enterprise AI market, where it has been securing additional commercial customers across multiple industries. The company continues to position its AI software as a tool for organizations seeking to improve productivity, automate business processes, and analyze large volumes of operational data.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) shares climbed about 2% on Tuesday after the software company said it expanded its partnership with Mexican insurer GNP Seguros to broaden the use of its artificial intelligence platform.",
+      "Palantir said GNP Seguros, the largest insurance provider in Mexico, is deploying its Foundry and Artificial Intelligence Platform (AIP) across more business operations. The expanded deployment is intended to improve fraud detection, enhance underwriting accuracy, streamline claims processing, and support customer service.",
+      "Palantir said the agreement builds on its existing relationship with GNP Seguros as the insurer increases its adoption of AI-powered tools to improve operational efficiency and decision-making. The company said the platform will help automate workflows and assist employees in managing insurance operations more effectively.",
+      "The expanded deployment adds to Palantir's growing presence in the enterprise AI market, where it has been securing additional commercial customers across multiple industries. The company continues to position its AI software as a tool for organizations seeking to improve productivity, automate business processes, and analyze large volumes of operational data."
+    ],
+    "html": null
+  }
+}

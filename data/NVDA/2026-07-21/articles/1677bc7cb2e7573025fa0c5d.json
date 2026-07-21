@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7ed1aa14-23de-3d70-a8cd-fc81cebb4964/nvidia-reports-9.3%25.html",
+    "fetched_at": "2026-07-21T07:00:33.887598-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NVIDIA reports 9.3% beneficial ownership of Nebius through shares and warrant",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "NVIDIA disclosed Monday that it beneficially owns 22,256,412 Class A ordinary shares of Nebius Group (NASDAQ: NBIS), representing 9.3% of the class. The Schedule 13G lists July 13 as the event date that triggered the filing.\nThe position includes 1,190,476 shares NVIDIA already held and 21,065,936 shares issuable through a pre-funded warrant acquired from Nebius on March 11. NVIDIA reported sole voting and dispositive power over the full position, with no shared power.\nSEC rules count the warrant shares toward beneficial ownership because NVIDIA can acquire them within 60 days of July 13. Contractual restrictions nevertheless prevent NVIDIA from exercising the warrant or selling its underlying shares before September 11.\nStay ahead of AI infrastructure deals. Get Blockspace in your inbox.\nNebius issued the warrant through a private placement that generated approximately $2 billion in gross proceeds. The warrant has an exercise price of $0.0001 per share, subject to adjustments, and can be settled with treasury shares or newly issued stock.\nNebius said the proceeds would support its full-stack AI cloud and construction of greenfield data centers. The financing accompanied a strategic partnership under which NVIDIA and Nebius plan to develop and deploy hyperscale cloud infrastructure for AI-native businesses and enterprises.\nNVIDIA used Schedule 13G rather than Schedule 13D and certified that the securities were not acquired or held to change or influence control of Nebius. The filing identifies NVIDIA as the sole reporting person and says no ownership group exists.\nStay ahead of AI infrastructure deals. Get Blockspace in your inbox.\nAmsterdam-based Nebius operates an AI cloud platform spanning model training through production deployment. The March transaction restricts NVIDIA from selling the warrant or its underlying shares during the six months following issuance unless Nebius provides written consent.",
+    "text_blocks": [
+      "NVIDIA disclosed Monday that it beneficially owns 22,256,412 Class A ordinary shares of Nebius Group (NASDAQ: NBIS), representing 9.3% of the class. The Schedule 13G lists July 13 as the event date that triggered the filing.",
+      "The position includes 1,190,476 shares NVIDIA already held and 21,065,936 shares issuable through a pre-funded warrant acquired from Nebius on March 11. NVIDIA reported sole voting and dispositive power over the full position, with no shared power.",
+      "SEC rules count the warrant shares toward beneficial ownership because NVIDIA can acquire them within 60 days of July 13. Contractual restrictions nevertheless prevent NVIDIA from exercising the warrant or selling its underlying shares before September 11.",
+      "Stay ahead of AI infrastructure deals. Get Blockspace in your inbox.",
+      "Nebius issued the warrant through a private placement that generated approximately $2 billion in gross proceeds. The warrant has an exercise price of $0.0001 per share, subject to adjustments, and can be settled with treasury shares or newly issued stock.",
+      "Nebius said the proceeds would support its full-stack AI cloud and construction of greenfield data centers. The financing accompanied a strategic partnership under which NVIDIA and Nebius plan to develop and deploy hyperscale cloud infrastructure for AI-native businesses and enterprises.",
+      "NVIDIA used Schedule 13G rather than Schedule 13D and certified that the securities were not acquired or held to change or influence control of Nebius. The filing identifies NVIDIA as the sole reporting person and says no ownership group exists.",
+      "Stay ahead of AI infrastructure deals. Get Blockspace in your inbox.",
+      "Amsterdam-based Nebius operates an AI cloud platform spanning model training through production deployment. The March transaction restricts NVIDIA from selling the warrant or its underlying shares during the six months following issuance unless Nebius provides written consent."
+    ],
+    "html": null
+  }
+}

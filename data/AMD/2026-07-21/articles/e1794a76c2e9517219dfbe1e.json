@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/intel-amd-ai-earnings-setup-200050646.html",
+    "fetched_at": "2026-07-21T07:00:40.440465-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel and AMD Get AI Earnings Setup",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nIntel (NASDAQ:INTC) and AMD (NASDAQ:AMD) head into earnings with a favorable setup at KeyBanc, as AI demand and a broader recovery in data center spending continue to support the chip sector.\nAnalyst John Vinh expects server CPU unit growth of 25% to 30% for Intel and 15% to 20% for AMD in 2026. Both companies are also targeting more than 50% unit growth in 2027 as agentic AI workloads increase demand for traditional data center processors.\nIntel and AMD design CPUs used in PCs, servers and data centers. While Nvidia (NASDAQ:NVDA) dominates AI accelerators, their processors remain critical for handling the broader computing workloads that support AI systems.\nKeyBanc also expects strong analog chip results, helped by improving bookings, longer lead times, healthy industrial demand and broad-based price increases. Monolithic Power could benefit from the early Vera Rubin ramp, while Qorvo, Skyworks and Cirrus may face pressure from weaker Apple (NASDAQ:AAPL) builds.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Intel (NASDAQ:INTC) and AMD (NASDAQ:AMD) head into earnings with a favorable setup at KeyBanc, as AI demand and a broader recovery in data center spending continue to support the chip sector.",
+      "Analyst John Vinh expects server CPU unit growth of 25% to 30% for Intel and 15% to 20% for AMD in 2026. Both companies are also targeting more than 50% unit growth in 2027 as agentic AI workloads increase demand for traditional data center processors.",
+      "Intel and AMD design CPUs used in PCs, servers and data centers. While Nvidia (NASDAQ:NVDA) dominates AI accelerators, their processors remain critical for handling the broader computing workloads that support AI systems.",
+      "KeyBanc also expects strong analog chip results, helped by improving bookings, longer lead times, healthy industrial demand and broad-based price increases. Monolithic Power could benefit from the early Vera Rubin ramp, while Qorvo, Skyworks and Cirrus may face pressure from weaker Apple (NASDAQ:AAPL) builds."
+    ],
+    "html": null
+  }
+}

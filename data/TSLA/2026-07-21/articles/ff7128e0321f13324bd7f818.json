@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tesla-expands-robotaxi-orlando-tampa-133753618.html",
+    "fetched_at": "2026-07-21T07:00:03.030932-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla expands robotaxi service to Orlando, Tampa ahead of earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 21 (Reuters) - Tesla on Tuesday expanded its robotaxi service to Orlando and Tampa, as the electric-vehicle maker races to prove that it can scale its autonomous ride-hailing business beyond its initial launch markets.\nThe move comes a day before Tesla reports second-quarter earnings, with Wall Street closely watching the progress on robotaxis, which underpin much of the company's valuation as CEO Elon Musk shifts focus toward artificial intelligence, autonomous driving and humanoid robots.\nTesla launched its robotaxi service in Austin in June last year and expanded to Dallas and Houston earlier this year and Miami this month. The company has also been conducting supervised testing in California's San Francisco Bay Area.\nInvestors have questioned the pace of the rollout after Tesla missed several expansion targets. In response, Musk has said the company was deliberately taking a cautious approach, and that rigorous safety testing was the main constraint to faster deployment of the service.\nUnlike rivals such as Alphabet-owned Waymo, which relies on lidar sensors, Tesla's robotaxi system uses cameras and AI-based software to navigate. Tesla plans to eventually deploy its purpose-built Cybercab vehicle, which does not have pedals or a steering wheel.\n(Reporting by Akash Sriram in Bengaluru; Editing by Shinjini Ganguli)",
+    "text_blocks": [
+      "July 21 (Reuters) - Tesla on Tuesday expanded its robotaxi service to Orlando and Tampa, as the electric-vehicle maker races to prove that it can scale its autonomous ride-hailing business beyond its initial launch markets.",
+      "The move comes a day before Tesla reports second-quarter earnings, with Wall Street closely watching the progress on robotaxis, which underpin much of the company's valuation as CEO Elon Musk shifts focus toward artificial intelligence, autonomous driving and humanoid robots.",
+      "Tesla launched its robotaxi service in Austin in June last year and expanded to Dallas and Houston earlier this year and Miami this month. The company has also been conducting supervised testing in California's San Francisco Bay Area.",
+      "Investors have questioned the pace of the rollout after Tesla missed several expansion targets. In response, Musk has said the company was deliberately taking a cautious approach, and that rigorous safety testing was the main constraint to faster deployment of the service.",
+      "Unlike rivals such as Alphabet-owned Waymo, which relies on lidar sensors, Tesla's robotaxi system uses cameras and AI-based software to navigate. Tesla plans to eventually deploy its purpose-built Cybercab vehicle, which does not have pedals or a steering wheel.",
+      "(Reporting by Akash Sriram in Bengaluru; Editing by Shinjini Ganguli)"
+    ],
+    "html": null
+  }
+}

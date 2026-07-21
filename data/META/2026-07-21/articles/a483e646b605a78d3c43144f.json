@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e8705a94-c4cd-3180-a860-872e4ad39dc2/cuspai-launches-ai-materials.html",
+    "fetched_at": "2026-07-21T07:00:08.898144-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CuspAI launches AI Materials Foundry, raises $450m Series B",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "British AI startup CuspAI has launched the AI Materials Foundry, a global network aimed at accelerating the development of new materials, coordinated by a single agentic platform.\nThe company also announced it has raised $450m in a Series B funding round, bringing its valuation to $2.6bn.\nThe round was led by Kleiner Perkins and NEA, with additional participation from investors including Bezos Expeditions and Britain's Sovereign AI Venture Fund. This follows a Series A round that fetched more than $100m in 2025.\nCuspAI said that more than 45 organisations are participating as founding members in the AI Materials Foundry. They include Nvidia, which will provide compute infrastructure, and Meta's Fundamental AI Research Team, which developed the Universal Model for Atoms (UMA).\nThe network aims to unite data, laboratory access, computing power and scientific expertise under one platform for the design of new materials.\nCuspAI's proprietary platform, MIRA, is central to the initiative. It is expected to enable partners to manage the entire materials discovery process, ranging from generative design and simulation to planning of synthesis routes and experimental validation.\nThe company states that its platform is supported by a large curated dataset for experimental materials data.\nIndustries such as semiconductors, clean energy and advanced manufacturing are expected to benefit, as these sectors often face limitations in material availability that slow progress.\nCuspAI CEO and co-founder Chad Edwards said: \"As AI transforms the physical world, new materials will open up new frontiers across semiconductors, energy and advanced manufacturing.\n\"The AI Materials Foundry brings Nvidia accelerated computing infrastructure together with world-class chemistry and materials expertise to help power the next generation of materials discovery.\"\nNvidia is providing accelerated computing infrastructure, which it says will support the next generation of materials discovery.\nNvidia hyperscale and high performance computing (HPC) vice president Ian Buck said: \"We're proud to be longstanding partners with CuspAI and now as founding members of the AI Materials Foundry ecosystem.\n\"Our open source frontier models for materials science research will enable more teams to tackle previously intractable challenges, more precisely and more quickly than before.\"\nCuspAI reported that a project with Finnish chemicals company Kemira enabled the latter to screen 300 trillion potential molecular structures and deliver 20 validated novel candidates in six months, a process that had previously taken years.",
+    "text_blocks": [
+      "British AI startup CuspAI has launched the AI Materials Foundry, a global network aimed at accelerating the development of new materials, coordinated by a single agentic platform.",
+      "The company also announced it has raised $450m in a Series B funding round, bringing its valuation to $2.6bn.",
+      "The round was led by Kleiner Perkins and NEA, with additional participation from investors including Bezos Expeditions and Britain's Sovereign AI Venture Fund. This follows a Series A round that fetched more than $100m in 2025.",
+      "CuspAI said that more than 45 organisations are participating as founding members in the AI Materials Foundry. They include Nvidia, which will provide compute infrastructure, and Meta's Fundamental AI Research Team, which developed the Universal Model for Atoms (UMA).",
+      "The network aims to unite data, laboratory access, computing power and scientific expertise under one platform for the design of new materials.",
+      "CuspAI's proprietary platform, MIRA, is central to the initiative. It is expected to enable partners to manage the entire materials discovery process, ranging from generative design and simulation to planning of synthesis routes and experimental validation.",
+      "The company states that its platform is supported by a large curated dataset for experimental materials data.",
+      "Industries such as semiconductors, clean energy and advanced manufacturing are expected to benefit, as these sectors often face limitations in material availability that slow progress.",
+      "CuspAI CEO and co-founder Chad Edwards said: \"As AI transforms the physical world, new materials will open up new frontiers across semiconductors, energy and advanced manufacturing.",
+      "\"The AI Materials Foundry brings Nvidia accelerated computing infrastructure together with world-class chemistry and materials expertise to help power the next generation of materials discovery.\"",
+      "Nvidia is providing accelerated computing infrastructure, which it says will support the next generation of materials discovery.",
+      "Nvidia hyperscale and high performance computing (HPC) vice president Ian Buck said: \"We're proud to be longstanding partners with CuspAI and now as founding members of the AI Materials Foundry ecosystem.",
+      "\"Our open source frontier models for materials science research will enable more teams to tackle previously intractable challenges, more precisely and more quickly than before.\"",
+      "CuspAI reported that a project with Finnish chemicals company Kemira enabled the latter to screen 300 trillion potential molecular structures and deliver 20 validated novel candidates in six months, a process that had previously taken years."
+    ],
+    "html": null
+  }
+}

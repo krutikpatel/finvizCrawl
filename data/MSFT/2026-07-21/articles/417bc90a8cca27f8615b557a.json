@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-software-selloff-130000209.html",
+    "fetched_at": "2026-07-21T07:00:25.473392-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morgan Stanley says software selloff has gone too far, names 8 winners",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Morgan Stanley has pushed back against negative investor sentiment toward the software sector, telling investors in a note on Tuesday that the market has become \"too negative on the group\" and naming eight Overweight-rated companies best positioned for the AI era.\nMorgan Stanley analyst Adam Wood introduced a \"Moat & Journey\" framework to assess software durability and growth prospects, concluding that Microsoft, Palo Alto Networks, CrowdStrike, Cloudflare, Datadog, ServiceNow, Snowflake and Shopify represent its \"highest conviction Overweights.\"\nThe firm noted the S&P North American Technology Software Index has underperformed the Nasdaq 100 by 40% and the S&P 500 by 30% over the past two years, reflecting growing investor concern over terminal value.\nThe firm outlined five major questions shaping the investor debate around software, including where AI value accrues, whether companies can capture value outside of seats, whether gross margins move structurally lower, whether \"going headless\" is inevitable, and how the end of token subsidization will impact industry growth.\nMorgan Stanley \"tend[s] to agree with the investor perception that the industry has become more mature,\" but sees \"more opportunities than investors currently believe,\" maintaining an Attractive industry view.\nWood said software generally follows a \"buy then build\" cycle, with infrastructure and cybersecurity already benefiting from the current build phase while applications remain a later-cycle play.\nMorgan Stanley also assumed coverage of Salesforce and Intuit at Equal-Weight, and Adobe and Workday at Underweight, as part of its broader sector overhaul.\nRelated articles\nMorgan Stanley says software selloff has gone too far, names 8 winners\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- Morgan Stanley has pushed back against negative investor sentiment toward the software sector, telling investors in a note on Tuesday that the market has become \"too negative on the group\" and naming eight Overweight-rated companies best positioned for the AI era.",
+      "Morgan Stanley analyst Adam Wood introduced a \"Moat & Journey\" framework to assess software durability and growth prospects, concluding that Microsoft, Palo Alto Networks, CrowdStrike, Cloudflare, Datadog, ServiceNow, Snowflake and Shopify represent its \"highest conviction Overweights.\"",
+      "The firm noted the S&P North American Technology Software Index has underperformed the Nasdaq 100 by 40% and the S&P 500 by 30% over the past two years, reflecting growing investor concern over terminal value.",
+      "The firm outlined five major questions shaping the investor debate around software, including where AI value accrues, whether companies can capture value outside of seats, whether gross margins move structurally lower, whether \"going headless\" is inevitable, and how the end of token subsidization will impact industry growth.",
+      "Morgan Stanley \"tend[s] to agree with the investor perception that the industry has become more mature,\" but sees \"more opportunities than investors currently believe,\" maintaining an Attractive industry view.",
+      "Wood said software generally follows a \"buy then build\" cycle, with infrastructure and cybersecurity already benefiting from the current build phase while applications remain a later-cycle play.",
+      "Morgan Stanley also assumed coverage of Salesforce and Intuit at Equal-Weight, and Adobe and Workday at Underweight, as part of its broader sector overhaul.",
+      "Related articles",
+      "Morgan Stanley says software selloff has gone too far, names 8 winners",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

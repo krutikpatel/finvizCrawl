@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_FV",
+    "fetched_at": "2026-07-21T07:00:22.266363-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet is pouring record cash into data centers, and earnings will show whether that’s paying off - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Earnings Outlook\nAlphabet is pouring record cash into data centers, and earnings will show whether that’s paying off\nInvestors will be looking for more signs of AI monetization when Google and YouTube parent Alphabet reports its earnings Wednesday\nAlphabet will be kicking off Big Tech’s second-quarter earnings wave on Wednesday, offering a prime read on the status of the artificial-intelligence boom.\nThe company has developed a reputation for its full-stack AI solutions, ranging from custom tensor processing units to the Gemini large language model. However, Alphabet’s GOOGL GOOG AI ambitions haven’t been cheap, and the company initiated a record-breaking $85 billion equity raise in June.",
+    "text_blocks": [
+      "Earnings Outlook",
+      "Alphabet is pouring record cash into data centers, and earnings will show whether that’s paying off",
+      "Investors will be looking for more signs of AI monetization when Google and YouTube parent Alphabet reports its earnings Wednesday",
+      "Alphabet will be kicking off Big Tech’s second-quarter earnings wave on Wednesday, offering a prime read on the status of the artificial-intelligence boom.",
+      "The company has developed a reputation for its full-stack AI solutions, ranging from custom tensor processing units to the Gemini large language model. However, Alphabet’s GOOGL GOOG AI ambitions haven’t been cheap, and the company initiated a record-breaking $85 billion equity raise in June."
+    ],
+    "html": null
+  }
+}

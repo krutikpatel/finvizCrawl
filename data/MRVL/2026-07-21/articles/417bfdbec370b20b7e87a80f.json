@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-returns-nzs-growth-fund-122207528.html",
+    "fetched_at": "2026-07-21T07:00:48.335509-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Returns to NZS Growth Fund",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNZS Growth Equity Strategy added Nvidia (NASDAQ:NVDA) back to its portfolio during the second quarter while increasing stakes in several high-conviction technology and healthcare names.\nThe fund returned 24.96% gross and 24.76% net during the quarter, comfortably ahead of the Morningstar Global Target Market Exposure Index's 14.79% gain.\nNZS focuses on companies with durable growth, strong competitive positions and long-term upside from structural trends. Alongside Nvidia, it boosted holdings in ASML (NASDAQ:ASML), Amphenol (NYSE:APH), Intuitive Surgical (NASDAQ:ISRG), Axon (NASDAQ:AXON), HeartFlow (NASDAQ:HTFL) and Stryker.\nThe fund also opened smaller optionality positions in ON Semiconductor, CrowdStrike (NASDAQ:CRWD), Datadog (NASDAQ:DDOG), Lumentum (NASDAQ:LITE), Descartes, CATL, Axogen (NASDAQ:AXGN) and WuXi XDC. At the same time, it reduced Arm, Marvell, Lattice Semiconductor (NASDAQ:LSCC) and Snowflake (NYSE:SNOW) to optionality-sized positions.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "NZS Growth Equity Strategy added Nvidia (NASDAQ:NVDA) back to its portfolio during the second quarter while increasing stakes in several high-conviction technology and healthcare names.",
+      "The fund returned 24.96% gross and 24.76% net during the quarter, comfortably ahead of the Morningstar Global Target Market Exposure Index's 14.79% gain.",
+      "NZS focuses on companies with durable growth, strong competitive positions and long-term upside from structural trends. Alongside Nvidia, it boosted holdings in ASML (NASDAQ:ASML), Amphenol (NYSE:APH), Intuitive Surgical (NASDAQ:ISRG), Axon (NASDAQ:AXON), HeartFlow (NASDAQ:HTFL) and Stryker.",
+      "The fund also opened smaller optionality positions in ON Semiconductor, CrowdStrike (NASDAQ:CRWD), Datadog (NASDAQ:DDOG), Lumentum (NASDAQ:LITE), Descartes, CATL, Axogen (NASDAQ:AXGN) and WuXi XDC. At the same time, it reduced Arm, Marvell, Lattice Semiconductor (NASDAQ:LSCC) and Snowflake (NYSE:SNOW) to optionality-sized positions."
+    ],
+    "html": null
+  }
+}

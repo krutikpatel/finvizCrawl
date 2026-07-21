@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-39-million-160644244.html",
+    "fetched_at": "2026-07-21T07:00:16.255575-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Dumps $39 Million Worth of AMD Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCathie Wood's ARK Invest reduced its position in Advanced Micro Devices (NASDAQ:AMD) during the week ended July 17, making the chipmaker its largest sale of the period.\nARK sold approximately $39.2 million of AMD shares as part of broader portfolio adjustments across technology, healthcare and industrial companies. The investment firm also reduced holdings in Deere (DE), 10x Genomics (NASDAQ:TXG), Twist Bioscience (NASDAQ:TWST) and Robinhood Markets (HOOD).\nAdditional technology-related sales included Roku (ROKU), Iridium Communications (NASDAQ:IRDM), Baidu (NASDAQ:BIDU) and Cloudflare (NET). Within healthcare, ARK trimmed positions in Personalis (PSNL), Atai Life Sciences (ATAI), Illumina (ILMN) and Natera (NTRA), while Deere and Caterpillar (CAT) represented notable reductions among industrial holdings.\nDespite the AMD sale, ARK continued adding capital to several growth-focused investments during the week, including Space Exploration Technologies (SPCX), X-Energy, Circle Internet Group (NYSE:CRCL) and other companies tied to artificial intelligence, aerospace, digital assets and next-generation energy, reflecting an ongoing portfolio rotation rather than a broad shift away from innovation-focused investments.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Cathie Wood's ARK Invest reduced its position in Advanced Micro Devices (NASDAQ:AMD) during the week ended July 17, making the chipmaker its largest sale of the period.",
+      "ARK sold approximately $39.2 million of AMD shares as part of broader portfolio adjustments across technology, healthcare and industrial companies. The investment firm also reduced holdings in Deere (DE), 10x Genomics (NASDAQ:TXG), Twist Bioscience (NASDAQ:TWST) and Robinhood Markets (HOOD).",
+      "Additional technology-related sales included Roku (ROKU), Iridium Communications (NASDAQ:IRDM), Baidu (NASDAQ:BIDU) and Cloudflare (NET). Within healthcare, ARK trimmed positions in Personalis (PSNL), Atai Life Sciences (ATAI), Illumina (ILMN) and Natera (NTRA), while Deere and Caterpillar (CAT) represented notable reductions among industrial holdings.",
+      "Despite the AMD sale, ARK continued adding capital to several growth-focused investments during the week, including Space Exploration Technologies (SPCX), X-Energy, Circle Internet Group (NYSE:CRCL) and other companies tied to artificial intelligence, aerospace, digital assets and next-generation energy, reflecting an ongoing portfolio rotation rather than a broad shift away from innovation-focused investments."
+    ],
+    "html": null
+  }
+}

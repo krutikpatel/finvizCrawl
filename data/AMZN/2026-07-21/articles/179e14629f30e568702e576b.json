@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/us-judge-approves-anthropics-1-204851948.html",
+    "fetched_at": "2026-07-21T07:00:37.845187-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Blake Brittain\nJuly 20 (Reuters) - A federal judge in San Francisco on Monday signed off on artificial intelligence company Anthropic's landmark $1.5 billion settlement of a class action lawsuit brought by a group of authors who accused it of misusing their books to train its AI chatbot Claude.\nU.S. District Judge Araceli Martinez-Olguin granted final approval of the settlement, the largest known settlement of a U.S. copyright case, rejecting arguments that it was too small.\nThe case is one of dozens brought by copyright owners including authors and news outlets against tech companies over the training of their large language models, and the first major U.S. case to settle.\nNow-retired Judge William Alsup initially approved the deal last September.\n\"We reached this settlement in 2025, after the court's landmark ruling that training AI on books is fair use under copyright law — which remains the law today,\" Anthropic deputy general counsel Aparna Sridhar said in a statement.\n\"We are pleased that more than 91% of authors and publishers covered by the settlement have claimed their share of the payment, and we're looking forward to bringing this matter to a close.\"\nThe authors' lead attorney, Justin Nelson, welcomed what he called a \"historic settlement.\"\n\"It is the largest known copyright recovery in history. We look forward to making distributions to the Class as promptly as possible,\" Nelson said in a statement, referring to payments to authors covered by the settlement.\nThe writers sued Anthropic in 2024, arguing that the company, which is backed by Amazon and Alphabet , used pirated versions of their books without permission to teach Claude to respond to human prompts.\nAlsup ruled last June that Anthropic made fair use of the authors' work to train Claude, but found that the company violated their rights by saving more than 7 million pirated books to a \"central library\" that would not necessarily be used for AI training.\nA trial was scheduled to begin last December to determine how much Anthropic owed for the alleged piracy, with potential damages running into the hundreds of billions of dollars.\nThe settlement spurred objections from some authors who argued it was not large enough, overcompensated the plaintiffs' attorneys or wrongly excluded some copyright owners.\nJudge Martinez-Olguin overruled those objections in her ruling on Monday. The judge said that complaints about the settlement's size were \"not grounded in a realistic assessment of the overall risks and rewards of a trial,\" and awarded the attorneys more than $101 million of the $187.5 million they requested in fees.\nSome authors and publishers opted out of the settlement and have filed separate lawsuits against Anthropic that are still ongoing.\n(Reporting by Blake Brittain in Washington, Editing by Alexia Garamfalvi, Sanjeev Miglani and Stephen Coates)",
+    "text_blocks": [
+      "By Blake Brittain",
+      "July 20 (Reuters) - A federal judge in San Francisco on Monday signed off on artificial intelligence company Anthropic's landmark $1.5 billion settlement of a class action lawsuit brought by a group of authors who accused it of misusing their books to train its AI chatbot Claude.",
+      "U.S. District Judge Araceli Martinez-Olguin granted final approval of the settlement, the largest known settlement of a U.S. copyright case, rejecting arguments that it was too small.",
+      "The case is one of dozens brought by copyright owners including authors and news outlets against tech companies over the training of their large language models, and the first major U.S. case to settle.",
+      "Now-retired Judge William Alsup initially approved the deal last September.",
+      "\"We reached this settlement in 2025, after the court's landmark ruling that training AI on books is fair use under copyright law — which remains the law today,\" Anthropic deputy general counsel Aparna Sridhar said in a statement.",
+      "\"We are pleased that more than 91% of authors and publishers covered by the settlement have claimed their share of the payment, and we're looking forward to bringing this matter to a close.\"",
+      "The authors' lead attorney, Justin Nelson, welcomed what he called a \"historic settlement.\"",
+      "\"It is the largest known copyright recovery in history. We look forward to making distributions to the Class as promptly as possible,\" Nelson said in a statement, referring to payments to authors covered by the settlement.",
+      "The writers sued Anthropic in 2024, arguing that the company, which is backed by Amazon and Alphabet , used pirated versions of their books without permission to teach Claude to respond to human prompts.",
+      "Alsup ruled last June that Anthropic made fair use of the authors' work to train Claude, but found that the company violated their rights by saving more than 7 million pirated books to a \"central library\" that would not necessarily be used for AI training.",
+      "A trial was scheduled to begin last December to determine how much Anthropic owed for the alleged piracy, with potential damages running into the hundreds of billions of dollars.",
+      "The settlement spurred objections from some authors who argued it was not large enough, overcompensated the plaintiffs' attorneys or wrongly excluded some copyright owners.",
+      "Judge Martinez-Olguin overruled those objections in her ruling on Monday. The judge said that complaints about the settlement's size were \"not grounded in a realistic assessment of the overall risks and rewards of a trial,\" and awarded the attorneys more than $101 million of the $187.5 million they requested in fees.",
+      "Some authors and publishers opted out of the settlement and have filed separate lawsuits against Anthropic that are still ongoing.",
+      "(Reporting by Blake Brittain in Washington, Editing by Alexia Garamfalvi, Sanjeev Miglani and Stephen Coates)"
+    ],
+    "html": null
+  }
+}

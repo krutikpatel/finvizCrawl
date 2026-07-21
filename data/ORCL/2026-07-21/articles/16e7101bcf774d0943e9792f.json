@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/oracle-faces-7-billion-data-123247287.html",
+    "fetched_at": "2026-07-21T07:00:19.753360-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Faces $7 Billion Data Center Collateral Hit",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) could face more than $7 billion in collateral requirements for a massive Wisconsin data center, adding another layer of financial pressure to its aggressive AI infrastructure buildout.\nAccording to the Financial Times, Wisconsin regulators upheld rules requiring Oracle to provide a $7 billion letter of credit or equivalent security to utility We Energies. The arrangement could cost the company more than $100 million annually.\nOracle sells database software, cloud infrastructure and enterprise applications. It has become an increasingly important AI infrastructure provider, including through a reported $300 billion computing agreement with OpenAI.\nThe nearly one-gigawatt facility in Port Washington is expected to require major investments in power generation and transmission. Wisconsin's rules are designed to prevent local customers from being left with those costs if a large data center project is delayed or abandoned.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) could face more than $7 billion in collateral requirements for a massive Wisconsin data center, adding another layer of financial pressure to its aggressive AI infrastructure buildout.",
+      "According to the Financial Times, Wisconsin regulators upheld rules requiring Oracle to provide a $7 billion letter of credit or equivalent security to utility We Energies. The arrangement could cost the company more than $100 million annually.",
+      "Oracle sells database software, cloud infrastructure and enterprise applications. It has become an increasingly important AI infrastructure provider, including through a reported $300 billion computing agreement with OpenAI.",
+      "The nearly one-gigawatt facility in Port Washington is expected to require major investments in power generation and transmission. Wisconsin's rules are designed to prevent local customers from being left with those costs if a large data center project is delayed or abandoned."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/amd-sets-sights-on-nvidia-with-helios-ai-racks-195850534.html",
+    "fetched_at": "2026-07-21T07:00:40.386909-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD sets sights on Nvidia with Helios AI racks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oops, something went wrong\nYahoo Finance Tech Editor Dan Howley joins Market Domination to discuss AMD (AMD) new Helios AI rack server platform and how the chipmaker is ramping up its challenge to AI leader Nvidia (NVDA).\nthey have this deal with Microsoft where they're going to launch their Helios uh rack server, rack scale server. And basically, when you think of kind of a rack scale server, it's that gigantic box, you know, that weighs a ton or more uh and is just full of different drawers with different chips inside. Now,\nNvidia's been talking about their NVL 72 uh line of rack scale servers for quite some time. Uh the 72 stands for 72 GPUs built in. So that's what their uh Blackwell, Grace Blackwell and Vera Rubin are built in. Uh and now AMD is launching Helios, which is its own uh rack scale solution. Helios just like the NVL 72 supports 72 uh GPUs. Uh some of the company's instinct uh MI 455X uh GPUs. It also will run their Epyc\nCPU as well as their Pendo uh digital processing unit, DPU, uh sorry, data processing unit, DPU. and that has to do with networking and really it just shows that it has finally a true competitor to what Nvidia has to offer. Uh and so it could be a boon for the company seeing this kind of deal go through. They've also had uh agreements with Oracle as well as meta uh for these kind of units. It's also though worth noting that\nNvidia has its uh uh Kyber uh rack scale solution that they're working on and that doubles the amount of GPUs that would be available. So, you know, it's it's great that AMD is getting into this space. They they provide a, you know, different competitor to Nvidia, but, you know, Nvidia is not just standing idly by.",
+    "text_blocks": [
+      "Oops, something went wrong",
+      "Yahoo Finance Tech Editor Dan Howley joins Market Domination to discuss AMD (AMD) new Helios AI rack server platform and how the chipmaker is ramping up its challenge to AI leader Nvidia (NVDA).",
+      "they have this deal with Microsoft where they're going to launch their Helios uh rack server, rack scale server. And basically, when you think of kind of a rack scale server, it's that gigantic box, you know, that weighs a ton or more uh and is just full of different drawers with different chips inside. Now,",
+      "Nvidia's been talking about their NVL 72 uh line of rack scale servers for quite some time. Uh the 72 stands for 72 GPUs built in. So that's what their uh Blackwell, Grace Blackwell and Vera Rubin are built in. Uh and now AMD is launching Helios, which is its own uh rack scale solution. Helios just like the NVL 72 supports 72 uh GPUs. Uh some of the company's instinct uh MI 455X uh GPUs. It also will run their Epyc",
+      "CPU as well as their Pendo uh digital processing unit, DPU, uh sorry, data processing unit, DPU. and that has to do with networking and really it just shows that it has finally a true competitor to what Nvidia has to offer. Uh and so it could be a boon for the company seeing this kind of deal go through. They've also had uh agreements with Oracle as well as meta uh for these kind of units. It's also though worth noting that",
+      "Nvidia has its uh uh Kyber uh rack scale solution that they're working on and that doubles the amount of GPUs that would be available. So, you know, it's it's great that AMD is getting into this space. They they provide a, you know, different competitor to Nvidia, but, you know, Nvidia is not just standing idly by."
+    ],
+    "html": null
+  }
+}

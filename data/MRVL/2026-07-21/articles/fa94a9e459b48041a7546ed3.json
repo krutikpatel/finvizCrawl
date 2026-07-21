@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-ai-trade-29dc2055?mod=bar_FV",
+    "fetched_at": "2026-07-21T07:00:48.031006-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Stock Market’s AI Trade Is Back With a Bang<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Stock Market’s AI Trade Is Back With a Bang\nThe artificial-intelligence trade came roaring back on Tuesday, as investors piled into chip and memory stocks.\nThe artificial-intelligence trade came roaring back on Tuesday, as investors piled into chip and memory stocks.",
+    "text_blocks": [
+      "The Stock Market’s AI Trade Is Back With a Bang",
+      "The artificial-intelligence trade came roaring back on Tuesday, as investors piled into chip and memory stocks.",
+      "The artificial-intelligence trade came roaring back on Tuesday, as investors piled into chip and memory stocks."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-fund-mistrals-european-ai-123216019.html",
+    "fetched_at": "2026-07-21T07:00:25.401306-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Jeffrey Dastin\nSAN FRANCISCO, July 21 (Reuters) - Microsoft has agreed to spend billions of dollars on Mistral's computing infrastructure in Europe under a deal that will also expand distribution of the French AI startup's technology through the U.S. cloud and software giant, the companies said on Tuesday.\nAs part of the agreement, Microsoft Azure customers will be able to develop software using Mistral's data centers in France, giving Microsoft more capacity in Europe and regulated industries an alternative to U.S.-controlled infrastructure.\nMistral, meanwhile, has added its AI models called Medium 3.5 and OCR 4 to Microsoft's app builder known as Foundry. Microsoft Copilot Studio has brought on Medium 3.5 as well.\nFinally, businesses with independent data centers that access Microsoft services via Azure Local will have the option to run Mistral's \"open\" models, which give customers license to develop AI as their own.\nThe deal underscores growing interest in Europe and elsewhere to reduce dependence on U.S. technology so other countries may have greater say in their future society and economy. It may also help Microsoft meet rising demand for open models.\nThough the push for \"sovereign\" AI is now years old, a U.S. decision last month to pause foreign access to two advanced models from San Francisco-based Anthropic has made technology independence a more urgent issue in Europe.\nIn a joint interview with Reuters, Microsoft President Brad Smith and Mistral CEO Arthur Mensch said the partnership aimed to deliver such sovereignty while allowing access to U.S. software and security features.\n\"By putting Mistral's models on Azure Local and on Mistral's computational capacity, we can combine American and European technology and do it in a way that provides continuous and assured access,\" Smith said.\nSTAYING IN AI RACE\nDecoupling Europe from U.S. technology would be a tall order. Nvidia chips powering the global AI boom, also key to Mistral's data-center buildout, are American-designed. Nvidia, like Microsoft, is a Mistral investor.\nSmith said the deal announced on Tuesday did not include any new financial stake in the startup, and Mensch declined to comment on a Bloomberg News report that Mistral was in talks to raise around €3 billion ($3.4 billion) at a €20 billion valuation.\nThe Paris-based lab has come to represent one of Europe's top hopes in AI. So far it has targeted manufacturing, financial services and defense sales and has won business from France's armed forces. Its valuation remains dwarfed by U.S. peers such as Anthropic.",
+    "text_blocks": [
+      "By Jeffrey Dastin",
+      "SAN FRANCISCO, July 21 (Reuters) - Microsoft has agreed to spend billions of dollars on Mistral's computing infrastructure in Europe under a deal that will also expand distribution of the French AI startup's technology through the U.S. cloud and software giant, the companies said on Tuesday.",
+      "As part of the agreement, Microsoft Azure customers will be able to develop software using Mistral's data centers in France, giving Microsoft more capacity in Europe and regulated industries an alternative to U.S.-controlled infrastructure.",
+      "Mistral, meanwhile, has added its AI models called Medium 3.5 and OCR 4 to Microsoft's app builder known as Foundry. Microsoft Copilot Studio has brought on Medium 3.5 as well.",
+      "Finally, businesses with independent data centers that access Microsoft services via Azure Local will have the option to run Mistral's \"open\" models, which give customers license to develop AI as their own.",
+      "The deal underscores growing interest in Europe and elsewhere to reduce dependence on U.S. technology so other countries may have greater say in their future society and economy. It may also help Microsoft meet rising demand for open models.",
+      "Though the push for \"sovereign\" AI is now years old, a U.S. decision last month to pause foreign access to two advanced models from San Francisco-based Anthropic has made technology independence a more urgent issue in Europe.",
+      "In a joint interview with Reuters, Microsoft President Brad Smith and Mistral CEO Arthur Mensch said the partnership aimed to deliver such sovereignty while allowing access to U.S. software and security features.",
+      "\"By putting Mistral's models on Azure Local and on Mistral's computational capacity, we can combine American and European technology and do it in a way that provides continuous and assured access,\" Smith said.",
+      "STAYING IN AI RACE",
+      "Decoupling Europe from U.S. technology would be a tall order. Nvidia chips powering the global AI boom, also key to Mistral's data-center buildout, are American-designed. Nvidia, like Microsoft, is a Mistral investor.",
+      "Smith said the deal announced on Tuesday did not include any new financial stake in the startup, and Mensch declined to comment on a Bloomberg News report that Mistral was in talks to raise around €3 billion ($3.4 billion) at a €20 billion valuation.",
+      "The Paris-based lab has come to represent one of Europe's top hopes in AI. So far it has targeted manufacturing, financial services and defense sales and has won business from France's armed forces. Its valuation remains dwarfed by U.S. peers such as Anthropic."
+    ],
+    "html": null
+  }
+}

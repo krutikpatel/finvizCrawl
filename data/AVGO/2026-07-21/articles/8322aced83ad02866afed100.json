@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/closing-bell-the-biggest-market-movers-today-193438506.html",
+    "fetched_at": "2026-07-21T07:00:28.483724-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Closing bell: The biggest market movers today",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Yahoo Finance Senior Business Reporter Ines Ferre joins Market Domination to break down the biggest market movers and key trends shaping trading as Wall Street heads into the closing bell.\nJosh, looking at the major averages, a mixed picture, and we have seen a bit of a rally that has been fading throughout the session.\nSo if you take a look at the Dow, it's down near session lows, uh down about half of a percent. Also looking at the Nasdaq 100, it's up about two-tenths of a percent, but again, near its session lows.\nand also the S&P 500 just flipping into negative territory over the past few minutes.\nShould point out that we have seen treasury yields climbing a bit higher. That tends to usually also impact other parts of the market like the stock market. So we're looking at the 10-year treasury at 4.6%, the 30 year that's climbed to 5.12%, and then the US dollar index that's also inching a little bit higher.\nTaking a look under the hood at the sector action on equities, we're seeing that energy, technology, communication services, those are the sectors that are in the green as you had mentioned a rebound so to speak in the semiconductor space.\nI'm going to pull over to the Nasdaq 100 so you can see on the left hand side, you're looking at Broadcom that's up more than 2%, Intel also up more than 3% as we've been seeing a rebound in semis with JP Morgan putting out a bullish call saying that perhaps the sector had gotten a little bit oversold.\nAlso Google up 1 and a half percent. It was up 3% earlier over a report that it is working on a new server chip that would be more efficient for its AI model.\nAnd speaking of AI models, also noting that we are seeing uh some a jump in Alibaba more than 4% after that company unveiled a preview of its flagship AI model. So overall, the semiconductor space is where we're really seeing a bit of a jump today.",
+    "text_blocks": [
+      "Yahoo Finance Senior Business Reporter Ines Ferre joins Market Domination to break down the biggest market movers and key trends shaping trading as Wall Street heads into the closing bell.",
+      "Josh, looking at the major averages, a mixed picture, and we have seen a bit of a rally that has been fading throughout the session.",
+      "So if you take a look at the Dow, it's down near session lows, uh down about half of a percent. Also looking at the Nasdaq 100, it's up about two-tenths of a percent, but again, near its session lows.",
+      "and also the S&P 500 just flipping into negative territory over the past few minutes.",
+      "Should point out that we have seen treasury yields climbing a bit higher. That tends to usually also impact other parts of the market like the stock market. So we're looking at the 10-year treasury at 4.6%, the 30 year that's climbed to 5.12%, and then the US dollar index that's also inching a little bit higher.",
+      "Taking a look under the hood at the sector action on equities, we're seeing that energy, technology, communication services, those are the sectors that are in the green as you had mentioned a rebound so to speak in the semiconductor space.",
+      "I'm going to pull over to the Nasdaq 100 so you can see on the left hand side, you're looking at Broadcom that's up more than 2%, Intel also up more than 3% as we've been seeing a rebound in semis with JP Morgan putting out a bullish call saying that perhaps the sector had gotten a little bit oversold.",
+      "Also Google up 1 and a half percent. It was up 3% earlier over a report that it is working on a new server chip that would be more efficient for its AI model.",
+      "And speaking of AI models, also noting that we are seeing uh some a jump in Alibaba more than 4% after that company unveiled a preview of its flagship AI model. So overall, the semiconductor space is where we're really seeing a bit of a jump today."
+    ],
+    "html": null
+  }
+}

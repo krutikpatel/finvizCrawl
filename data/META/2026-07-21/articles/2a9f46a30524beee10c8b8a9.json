@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/96248cfb-6e87-3958-976b-9faba7404ba6/blackrock-raising-%2412-billion.html",
+    "fetched_at": "2026-07-21T07:00:08.821669-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BlackRock raising $12 billion in bonds for Meta Texas data center",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "BlackRock is seeking to sell more than $12 billion in bonds to help finance a Meta Platforms data center campus in El Paso, Texas, according to Bloomberg.\nThe bond issuer is a holding company tied to BlackRock's 80% ownership position in Project Sopaipilla Holdings, with Meta accounting for the other 20%. JPMorgan Chase and Morgan Stanley were tapped to run the offering and have set up calls with fixed-income investors for Wednesday; Bloomberg reported that bonds are expected to be priced at the start of next week.\nThe ownership position is held through two BlackRock subsidiaries — Global Infrastructure Management and HPS Investment Partners. The campus is expected to reach roughly 1 gigawatt of capacity and come online in 2028, supporting more than 300 on-site jobs, according to The Wall Street Journal.\nThe El Paso arrangement follows the same template Meta applied in Louisiana, where a joint venture split 80-20 between a private-credit firm and Meta issued the debt, allowing Meta to keep the liabilities off its own books. BlackRock was among the investors in the $27 billion private-debt deal backing Hyperion — the largest private-debt offering on record — buying more than $3 billion of those bonds, according to the Wall Street Journal.\nMeta's Hyperion project has since grown well beyond the portion covered by that joint venture. The company announced this month that it is expanding Hyperion to 5 gigawatts of compute capacity at an estimated cost of more than $50 billion, up from a prior price tag of $27 billion. That expansion is owned by Meta alone rather than through a joint venture.\nSeparately, Meta has agreed to lease a large data center project under development in Shippingport, Pennsylvania, backed by BlackRock's Aligned Data Centers. BlackRock acquired Aligned Data Centers in a $40 billion deal.\nThe El Paso financing adds to a broader wave of debt issuance tied to AI infrastructure. Large technology companies are expected to spend roughly $5.5 trillion on AI through 2030, much of it funded through debt markets, according to Bloomberg, citing JPMorgan strategists.",
+    "text_blocks": [
+      "BlackRock is seeking to sell more than $12 billion in bonds to help finance a Meta Platforms data center campus in El Paso, Texas, according to Bloomberg.",
+      "The bond issuer is a holding company tied to BlackRock's 80% ownership position in Project Sopaipilla Holdings, with Meta accounting for the other 20%. JPMorgan Chase and Morgan Stanley were tapped to run the offering and have set up calls with fixed-income investors for Wednesday; Bloomberg reported that bonds are expected to be priced at the start of next week.",
+      "The ownership position is held through two BlackRock subsidiaries — Global Infrastructure Management and HPS Investment Partners. The campus is expected to reach roughly 1 gigawatt of capacity and come online in 2028, supporting more than 300 on-site jobs, according to The Wall Street Journal.",
+      "The El Paso arrangement follows the same template Meta applied in Louisiana, where a joint venture split 80-20 between a private-credit firm and Meta issued the debt, allowing Meta to keep the liabilities off its own books. BlackRock was among the investors in the $27 billion private-debt deal backing Hyperion — the largest private-debt offering on record — buying more than $3 billion of those bonds, according to the Wall Street Journal.",
+      "Meta's Hyperion project has since grown well beyond the portion covered by that joint venture. The company announced this month that it is expanding Hyperion to 5 gigawatts of compute capacity at an estimated cost of more than $50 billion, up from a prior price tag of $27 billion. That expansion is owned by Meta alone rather than through a joint venture.",
+      "Separately, Meta has agreed to lease a large data center project under development in Shippingport, Pennsylvania, backed by BlackRock's Aligned Data Centers. BlackRock acquired Aligned Data Centers in a $40 billion deal.",
+      "The El Paso financing adds to a broader wave of debt issuance tied to AI infrastructure. Large technology companies are expected to spend roughly $5.5 trillion on AI through 2030, much of it funded through debt markets, according to Bloomberg, citing JPMorgan strategists."
+    ],
+    "html": null
+  }
+}

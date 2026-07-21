@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-plans-10-price-125429192.html",
+    "fetched_at": "2026-07-21T07:00:05.884312-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "TSMC Reportedly Plans Up to 10% Price Rise for 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTaiwan Semiconductor Manufacturing (NYSE:TSM) rose 3.73% premarket after Nikkei Asia reported the contract chipmaker is preparing to raise prices by as much as 10% in 2027. Multiple sources told the publication the increases would apply to both advanced and mature chip production, with the base price rising between 5% and 10%.\nTSMC is absorbing higher prices for materials, manufacturing equipment and power, alongside the expense of building new plants overseas. Passing that through would protect margins at a company whose customers include Nvidia (NASDAQ:NVDA) and Apple (NASDAQ:AAPL), both of which depend on TSMC for their most advanced silicon and have limited alternatives.\nThe reported move follows a bullish set of results this month, when TSMC lifted both its spending and revenue projections for 2026 on the strength of AI and data center demand it expects to continue into 2027. TSMC hasn't confirmed the pricing discussions.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Taiwan Semiconductor Manufacturing (NYSE:TSM) rose 3.73% premarket after Nikkei Asia reported the contract chipmaker is preparing to raise prices by as much as 10% in 2027. Multiple sources told the publication the increases would apply to both advanced and mature chip production, with the base price rising between 5% and 10%.",
+      "TSMC is absorbing higher prices for materials, manufacturing equipment and power, alongside the expense of building new plants overseas. Passing that through would protect margins at a company whose customers include Nvidia (NASDAQ:NVDA) and Apple (NASDAQ:AAPL), both of which depend on TSMC for their most advanced silicon and have limited alternatives.",
+      "The reported move follows a bullish set of results this month, when TSMC lifted both its spending and revenue projections for 2026 on the strength of AI and data center demand it expects to continue into 2027. TSMC hasn't confirmed the pricing discussions."
+    ],
+    "html": null
+  }
+}

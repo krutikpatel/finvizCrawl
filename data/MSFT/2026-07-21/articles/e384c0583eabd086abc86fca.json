@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/dee5c9a8-da43-3a9e-8ae3-39a196da00e8/microsoft-expands-mistral.html",
+    "fetched_at": "2026-07-21T07:00:25.372522-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft expands Mistral partnership with multibillion-dollar AI deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft and Mistral announced an expansion of their strategic partnership on Tuesday, with Microsoft pledging billions to fund Mistral's data center growth in Europe and integrating the French AI startup's models more deeply into its own product ecosystem.\nUnder the agreement, Microsoft will use capacity from Mistral's Europe-based data centers to serve its cloud and AI customers. Mistral is expanding that infrastructure using thousands of NVIDIA Vera Rubin GPUs, which will support training, inference and large-scale AI deployment. Microsoft declined to specify the exact dollar amount of its commitment.\nTwo of Mistral's models — Medium 3.5 and OCR 4 — have been added to Microsoft Foundry, the company's application development platform. Mistral Medium 3.5 is also available in Microsoft Copilot Studio. The models can be deployed across cloud environments as well as Azure Local, a Microsoft offering that allows customers to run workloads in their own data centers, including in fully disconnected configurations with no external connectivity.\nMicrosoft Vice Chair and President Brad Smith and Mistral Co-founder and Chief Executive Officer Arthur Mensch said in a joint interview that the deal is aimed at giving enterprises, particularly those in regulated industries, greater control over how and where their AI runs, according to Reuters.\n\"By putting Mistral's models on Azure Local and on Mistral's computational capacity, we can combine American and European technology and do it in a way that provides continuous and assured access,\" Smith said.\nArthur Mensch said two-thirds of Mistral's existing customers already work with Microsoft, according to the Wall Street Journal. He added that Microsoft's reach would help Mistral expand with businesses in Europe and globally.\nThe deal is part of Microsoft's European Digital Commitments, a set of pledges the company made in 2025 to expand data center capacity in the European Union, the company said. Microsoft also noted the agreement is consistent with its broader infrastructure approach, which combines its own facilities with leased and third-party capacity.\nThe companies said they will pursue joint go-to-market efforts across Europe and globally, targeting customers in financial services, manufacturing, healthcare and other regulated sectors. They also plan to fund proof-of-concept projects, offer Azure credits and run workshops to accelerate customer adoption.\nAccording to Reuters, Brad Smith confirmed that Tuesday's agreement carries no new equity investment in Mistral, while Arthur Mensch offered no response to a Bloomberg News report that the startup was seeking to raise roughly €3 billion at a valuation of €20 billion.",
+    "text_blocks": [
+      "Microsoft and Mistral announced an expansion of their strategic partnership on Tuesday, with Microsoft pledging billions to fund Mistral's data center growth in Europe and integrating the French AI startup's models more deeply into its own product ecosystem.",
+      "Under the agreement, Microsoft will use capacity from Mistral's Europe-based data centers to serve its cloud and AI customers. Mistral is expanding that infrastructure using thousands of NVIDIA Vera Rubin GPUs, which will support training, inference and large-scale AI deployment. Microsoft declined to specify the exact dollar amount of its commitment.",
+      "Two of Mistral's models — Medium 3.5 and OCR 4 — have been added to Microsoft Foundry, the company's application development platform. Mistral Medium 3.5 is also available in Microsoft Copilot Studio. The models can be deployed across cloud environments as well as Azure Local, a Microsoft offering that allows customers to run workloads in their own data centers, including in fully disconnected configurations with no external connectivity.",
+      "Microsoft Vice Chair and President Brad Smith and Mistral Co-founder and Chief Executive Officer Arthur Mensch said in a joint interview that the deal is aimed at giving enterprises, particularly those in regulated industries, greater control over how and where their AI runs, according to Reuters.",
+      "\"By putting Mistral's models on Azure Local and on Mistral's computational capacity, we can combine American and European technology and do it in a way that provides continuous and assured access,\" Smith said.",
+      "Arthur Mensch said two-thirds of Mistral's existing customers already work with Microsoft, according to the Wall Street Journal. He added that Microsoft's reach would help Mistral expand with businesses in Europe and globally.",
+      "The deal is part of Microsoft's European Digital Commitments, a set of pledges the company made in 2025 to expand data center capacity in the European Union, the company said. Microsoft also noted the agreement is consistent with its broader infrastructure approach, which combines its own facilities with leased and third-party capacity.",
+      "The companies said they will pursue joint go-to-market efforts across Europe and globally, targeting customers in financial services, manufacturing, healthcare and other regulated sectors. They also plan to fund proof-of-concept projects, offer Azure credits and run workshops to accelerate customer adoption.",
+      "According to Reuters, Brad Smith confirmed that Tuesday's agreement carries no new equity investment in Mistral, while Arthur Mensch offered no response to a Bloomberg News report that the startup was seeking to raise roughly €3 billion at a valuation of €20 billion."
+    ],
+    "html": null
+  }
+}

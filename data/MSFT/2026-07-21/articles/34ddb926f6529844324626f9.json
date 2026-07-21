@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7cb18788-6038-3b31-b756-27ee1f22e851/microsoft-commits-billions-to.html",
+    "fetched_at": "2026-07-21T07:00:25.523570-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft commits billions to Mistral’s European AI compute expansion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft (NASDAQ: MSFT) and Mistral expanded their partnership Tuesday through a multibillion-dollar agreement covering European AI compute, enterprise models and sovereign deployment options.\nMicrosoft will tap some of Mistral's expanded European infrastructure to add capacity for AI development and cloud services. Mistral plans to deploy thousands of NVIDIA Vera Rubin GPUs for model training, inference and large-scale applications.\nThe arrangement gives Microsoft additional European capacity outside its own datacenters and leased facilities. It also supports the European Digital Commitments Microsoft announced in 2025, including expanded regional infrastructure, data protection and operational resilience.\nStay ahead of AI infrastructure deals. Get Blockspace in your inbox.\nMistral adds Vera Rubin capacity\nNVIDIA said production shipments of Vera Rubin are scheduled to begin in fall 2026. The rack-scale platform is designed for agentic AI workloads, with NVIDIA claiming 10 times the agent throughput at scale of its previous-generation Grace Blackwell platform.\nMicrosoft did not disclose the agreement's exact value, capacity allocation or deployment schedule. The commitment gives Microsoft customers access to infrastructure operated by Mistral while expanding the French AI developer's role from model supplier to European compute provider.\n\"Europe should have access to the world's most capable AI without compromising control over their data, operations or digital future,\" Microsoft Vice Chair and President Brad Smith said in the announcement.\nMistral CEO Arthur Mensch said the partnership would bring its models to enterprises and public institutions through Microsoft's platform, including organizations operating under strict regulatory requirements.\nModels extend from Azure to disconnected systems\nMistral Medium 3.5 and OCR 4 are now available in Microsoft Foundry, while Medium 3.5 has also joined Microsoft Copilot Studio. Medium 3.5 is an open-weight, 128-billion-parameter model with a 256,000-token context window, according to Mistral documentation.\nOCR 4 targets document-processing and agentic workflows. Mistral said the model supports 170 languages and returns structured information including bounding boxes, block classifications and confidence scores, rather than extracting text alone.\nCustomers can build applications in Microsoft Foundry and move them through Azure or Azure Local without redesigning the underlying models, APIs and workflows for each environment. Deployment can range from public cloud through cloud-connected local infrastructure to systems that operate without external connectivity.",
+    "text_blocks": [
+      "Microsoft (NASDAQ: MSFT) and Mistral expanded their partnership Tuesday through a multibillion-dollar agreement covering European AI compute, enterprise models and sovereign deployment options.",
+      "Microsoft will tap some of Mistral's expanded European infrastructure to add capacity for AI development and cloud services. Mistral plans to deploy thousands of NVIDIA Vera Rubin GPUs for model training, inference and large-scale applications.",
+      "The arrangement gives Microsoft additional European capacity outside its own datacenters and leased facilities. It also supports the European Digital Commitments Microsoft announced in 2025, including expanded regional infrastructure, data protection and operational resilience.",
+      "Stay ahead of AI infrastructure deals. Get Blockspace in your inbox.",
+      "Mistral adds Vera Rubin capacity",
+      "NVIDIA said production shipments of Vera Rubin are scheduled to begin in fall 2026. The rack-scale platform is designed for agentic AI workloads, with NVIDIA claiming 10 times the agent throughput at scale of its previous-generation Grace Blackwell platform.",
+      "Microsoft did not disclose the agreement's exact value, capacity allocation or deployment schedule. The commitment gives Microsoft customers access to infrastructure operated by Mistral while expanding the French AI developer's role from model supplier to European compute provider.",
+      "\"Europe should have access to the world's most capable AI without compromising control over their data, operations or digital future,\" Microsoft Vice Chair and President Brad Smith said in the announcement.",
+      "Mistral CEO Arthur Mensch said the partnership would bring its models to enterprises and public institutions through Microsoft's platform, including organizations operating under strict regulatory requirements.",
+      "Models extend from Azure to disconnected systems",
+      "Mistral Medium 3.5 and OCR 4 are now available in Microsoft Foundry, while Medium 3.5 has also joined Microsoft Copilot Studio. Medium 3.5 is an open-weight, 128-billion-parameter model with a 256,000-token context window, according to Mistral documentation.",
+      "OCR 4 targets document-processing and agentic workflows. Mistral said the model supports 170 languages and returns structured information including bounding boxes, block classifications and confidence scores, rather than extracting text alone.",
+      "Customers can build applications in Microsoft Foundry and move them through Azure or Azure Local without redesigning the underlying models, APIs and workflows for each environment. Deployment can range from public cloud through cloud-connected local infrastructure to systems that operate without external connectivity."
+    ],
+    "html": null
+  }
+}

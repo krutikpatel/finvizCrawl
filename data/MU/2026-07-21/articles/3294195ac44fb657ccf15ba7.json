@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/advanced-chipmaking-tool-arrives-york-120148994.html",
+    "fetched_at": "2026-07-21T07:00:11.552342-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Advanced chipmaking tool arrives at New York state innovation hub",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Max A. Cherney\nSAN FRANCISCO, July 21 (Reuters) - The first components of an ASML next-generation chipmaking tool arrived at New York state's Albany NanoTech Complex on Tuesday, the governor's office said.\nThe NanoTech complex will use the tool to conduct research and development on future forms of chip design and manufacturing.\nThe NanoTech facility is the only one of its kind in North America, according to NY Creates Director Dave Anderson, and is similar in scope and focus to Europe's Imec, which operates in Belgium.\n\"It really is transformative for the future of our scope of activities as well as U.S.-based R&D, and really, we're kind of at the epicenter of that next generation of technology development,\" Anderson said.\nNY Creates oversees the facility and has partnered with IBM, memory maker Micron and the Japanese chip equipment maker Tokyo Electron.\nASML's next-generation high numerical aperture (High NA) extreme ultraviolet (EUV) machine prints circuit patterns onto silicon wafers and costs roughly $400 million apiece.\nThe tools are thought to be necessary to produce advanced processors in the future as chipmakers continue to shrink atomic-sized features that make up chips.\nThe components that arrived Tuesday form the base of the mainframe of the tool and will receive further deliveries of the remaining components in the coming weeks as it is assembled at the facility. Anderson expects to have the tool fully functional by the end of the year.\n(Reporting by Max A. Cherney in San Francisco; Editing by Thomas Derpinghaus)",
+    "text_blocks": [
+      "By Max A. Cherney",
+      "SAN FRANCISCO, July 21 (Reuters) - The first components of an ASML next-generation chipmaking tool arrived at New York state's Albany NanoTech Complex on Tuesday, the governor's office said.",
+      "The NanoTech complex will use the tool to conduct research and development on future forms of chip design and manufacturing.",
+      "The NanoTech facility is the only one of its kind in North America, according to NY Creates Director Dave Anderson, and is similar in scope and focus to Europe's Imec, which operates in Belgium.",
+      "\"It really is transformative for the future of our scope of activities as well as U.S.-based R&D, and really, we're kind of at the epicenter of that next generation of technology development,\" Anderson said.",
+      "NY Creates oversees the facility and has partnered with IBM, memory maker Micron and the Japanese chip equipment maker Tokyo Electron.",
+      "ASML's next-generation high numerical aperture (High NA) extreme ultraviolet (EUV) machine prints circuit patterns onto silicon wafers and costs roughly $400 million apiece.",
+      "The tools are thought to be necessary to produce advanced processors in the future as chipmakers continue to shrink atomic-sized features that make up chips.",
+      "The components that arrived Tuesday form the base of the mainframe of the tool and will receive further deliveries of the remaining components in the coming weeks as it is assembled at the facility. Anderson expects to have the tool fully functional by the end of the year.",
+      "(Reporting by Max A. Cherney in San Francisco; Editing by Thomas Derpinghaus)"
+    ],
+    "html": null
+  }
+}
