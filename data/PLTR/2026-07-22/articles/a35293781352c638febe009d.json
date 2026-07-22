@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/servicenow-earnings-stock-price-49fa598b?mod=bar_FV",
+    "fetched_at": "2026-07-22T07:00:29.529814-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "ServiceNow Earnings: AI Disruption Concerns Shadow NOW Stock<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "ServiceNow Stock at a Crossroads: Why AI Concerns Dominate This Earnings Report\nServiceNow will report its second-quarter earnings on Wednesday afternoon in a troubled time for software companies. Though analyst projections for the next couple of years are still pretty rosy, ServiceNow is one of the firms at the center of the software-stock meltdown, with its shares down 47% in the past year.",
+    "text_blocks": [
+      "ServiceNow Stock at a Crossroads: Why AI Concerns Dominate This Earnings Report",
+      "ServiceNow will report its second-quarter earnings on Wednesday afternoon in a troubled time for software companies. Though analyst projections for the next couple of years are still pretty rosy, ServiceNow is one of the firms at the center of the software-stock meltdown, with its shares down 47% in the past year."
+    ],
+    "html": null
+  }
+}

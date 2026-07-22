@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/article/microsoft-dell-and-hp-stocks-rise-as-nvidia-announces-new-ai-chip-for-personal-computers-130915506.html",
+    "fetched_at": "2026-07-22T07:00:43.944728-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft, Dell, and HP stocks rise as Nvidia announces new AI chip for personal computers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "What happened: Shares of software giant Microsoft (MSFT) and computer hardware makers Dell (DELL) and HP (HPE) rose in Monday trading after AI chip heavyweight Nvidia (NVDA) announced a major push into the personal computer market.\nWhat's behind the move: Nvidia has unveiled a new processor as it expands into the personal computer market, challenging the long-standing dominance of players like Intel (INTC) and AMD (AMD). Intel stock declined 2% while AMD traded flat.\nSpeaking at a trade show in Taipei, Nvidia CEO Jensen Huang revealed that the RTX Spark Superchip will launch this fall in select laptops and desktops from leading PC makers, including Dell, HP, and Lenovo. The new processor combines computing and graphics functions into a single chip and supports the Microsoft Windows operating system on an Arm-based architecture.\nMicrosoft stock jumped 2% on Monday morning, while chip designer Arm Holdings (ARM) soared 17%.\nWhat else you need to know: Investor interest in the AI sector has expanded beyond traditional semiconductor leaders as growing AI workloads fuel demand for CPUs used in servers and increasingly powerful personal computers designed for AI applications.\nMicrosoft stock has climbed in recent weeks as investors grow more optimistic about the company's AI opportunities, reversing earlier concerns that the technology could disrupt parts of the software sector.\nInes Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre.\nClick here for the latest technology news that will impact the stock market\nRead the latest financial and business news from Yahoo Finance",
+    "text_blocks": [
+      "What happened: Shares of software giant Microsoft (MSFT) and computer hardware makers Dell (DELL) and HP (HPE) rose in Monday trading after AI chip heavyweight Nvidia (NVDA) announced a major push into the personal computer market.",
+      "What's behind the move: Nvidia has unveiled a new processor as it expands into the personal computer market, challenging the long-standing dominance of players like Intel (INTC) and AMD (AMD). Intel stock declined 2% while AMD traded flat.",
+      "Speaking at a trade show in Taipei, Nvidia CEO Jensen Huang revealed that the RTX Spark Superchip will launch this fall in select laptops and desktops from leading PC makers, including Dell, HP, and Lenovo. The new processor combines computing and graphics functions into a single chip and supports the Microsoft Windows operating system on an Arm-based architecture.",
+      "Microsoft stock jumped 2% on Monday morning, while chip designer Arm Holdings (ARM) soared 17%.",
+      "What else you need to know: Investor interest in the AI sector has expanded beyond traditional semiconductor leaders as growing AI workloads fuel demand for CPUs used in servers and increasingly powerful personal computers designed for AI applications.",
+      "Microsoft stock has climbed in recent weeks as investors grow more optimistic about the company's AI opportunities, reversing earlier concerns that the technology could disrupt parts of the software sector.",
+      "Ines Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre.",
+      "Click here for the latest technology news that will impact the stock market",
+      "Read the latest financial and business news from Yahoo Finance"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tsmc-raise-chip-prices-big-tech-bill-c8a0d65b?mod=bar_FV",
+    "fetched_at": "2026-07-22T07:00:26.860365-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill?<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill?\nTaiwan Semiconductor Manufacturing intends to raise its prices by up to 10% from 2027, Nikkei Asia reported Tuesday, citing unnamed sources.\nTaiwan Semiconductor Manufacturing intends to raise its prices by up to 10% from 2027, Nikkei Asia reported Tuesday, citing unnamed sources.",
+    "text_blocks": [
+      "TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill?",
+      "Taiwan Semiconductor Manufacturing intends to raise its prices by up to 10% from 2027, Nikkei Asia reported Tuesday, citing unnamed sources.",
+      "Taiwan Semiconductor Manufacturing intends to raise its prices by up to 10% from 2027, Nikkei Asia reported Tuesday, citing unnamed sources."
+    ],
+    "html": null
+  }
+}

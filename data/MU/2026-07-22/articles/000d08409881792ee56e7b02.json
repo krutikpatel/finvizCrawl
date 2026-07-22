@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/things-to-know-today-512302fd?mod=bar_FV",
+    "fetched_at": "2026-07-22T07:00:11.170471-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks Are Facing a Summer Storm. Don’t Bank on Help From Google Earnings, and 5 Other Things to Know Today<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stocks Are Facing a Summer Storm. Don’t Bank on Help From Google Earnings.\nU.S. airstrikes on Iran accelerating, AI agents going rogue, Japan’s yen reaching a new four decade low, and 30-year bond yields testing the highest levels since the global financial crisis.",
+    "text_blocks": [
+      "Stocks Are Facing a Summer Storm. Don’t Bank on Help From Google Earnings.",
+      "U.S. airstrikes on Iran accelerating, AI agents going rogue, Japan’s yen reaching a new four decade low, and 30-year bond yields testing the highest levels since the global financial crisis."
+    ],
+    "html": null
+  }
+}

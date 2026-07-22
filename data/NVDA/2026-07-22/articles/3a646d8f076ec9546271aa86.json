@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/06b723e0-4199-34c1-8a10-44aa48a7aed3/jensen-huang-says-u.s.-firms.html",
+    "fetched_at": "2026-07-22T07:00:32.549606-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Jensen Huang says U.S. firms should use Chinese AI models",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia CEO Jensen Huang said American companies should be free to use Chinese open-source artificial intelligence models, positioning himself against Trump administration officials and U.S. AI labs that have sought to restrict them.\n\"These Chinese models are excellent,\" Huang told Axios on Tuesday. \"Open-source models that are excellent should be used.\" He said companies should \"absolutely\" be allowed to use them.\nThe remarks came as the release of Kimi K3, a model from Beijing-based Moonshot AI that combines near-frontier performance, lower prices, and open weights, has rattled chip and AI stocks, reviving concerns that cheaper models could undercut the case for large AI infrastructure spending. Huang argued Wall Street has the situation backward. \"Free AI should be great for hardware,\" he said. \"Free AI should be great for chips. Free AI should be great for data centers.\" Cheaper and more accessible models draw more people into AI ecosystems, he argued, and that broader adoption ultimately drives up demand for the chips and data centers that Nvidia provides.\nHuang also rejected the argument that downloaded Chinese models create a security backdoor to Beijing. Companies can customize those models and run them inside secure environments, he said, and openness makes AI more secure because outside researchers can inspect models and identify weaknesses. \"If everything just becomes one single model, one single point of attack, one single source of failure, I think the world is much, much more vulnerable,\" he said.\nHis comments came hours after Treasury Secretary Scott Bessent told Fox Business that the administration is examining Chinese AI models for evidence of stolen U.S. intellectual property and considering sanctions. \"If we see ... that overseas models are stealing from our great companies, we have the ability to sanction them because of this theft,\" Bessent said, according to Axios. Huang said companies should still face consequences for violating privacy or contracts, but he argued the response should target misconduct, not the models themselves. \"Distillation, learning from AI, learning from other sources of knowledge, is fundamental to intelligence,\" he said.\nNvidia's two largest customers, OpenAI and Anthropic, have alleged that Chinese competitors have extracted capabilities from their models and cautioned U.S. officials that Beijing's growing open-source ecosystem puts American AI leadership at risk. Huang dismissed the concern, saying open models expand the overall market rather than cannibalize closed services.",
+    "text_blocks": [
+      "Nvidia CEO Jensen Huang said American companies should be free to use Chinese open-source artificial intelligence models, positioning himself against Trump administration officials and U.S. AI labs that have sought to restrict them.",
+      "\"These Chinese models are excellent,\" Huang told Axios on Tuesday. \"Open-source models that are excellent should be used.\" He said companies should \"absolutely\" be allowed to use them.",
+      "The remarks came as the release of Kimi K3, a model from Beijing-based Moonshot AI that combines near-frontier performance, lower prices, and open weights, has rattled chip and AI stocks, reviving concerns that cheaper models could undercut the case for large AI infrastructure spending. Huang argued Wall Street has the situation backward. \"Free AI should be great for hardware,\" he said. \"Free AI should be great for chips. Free AI should be great for data centers.\" Cheaper and more accessible models draw more people into AI ecosystems, he argued, and that broader adoption ultimately drives up demand for the chips and data centers that Nvidia provides.",
+      "Huang also rejected the argument that downloaded Chinese models create a security backdoor to Beijing. Companies can customize those models and run them inside secure environments, he said, and openness makes AI more secure because outside researchers can inspect models and identify weaknesses. \"If everything just becomes one single model, one single point of attack, one single source of failure, I think the world is much, much more vulnerable,\" he said.",
+      "His comments came hours after Treasury Secretary Scott Bessent told Fox Business that the administration is examining Chinese AI models for evidence of stolen U.S. intellectual property and considering sanctions. \"If we see ... that overseas models are stealing from our great companies, we have the ability to sanction them because of this theft,\" Bessent said, according to Axios. Huang said companies should still face consequences for violating privacy or contracts, but he argued the response should target misconduct, not the models themselves. \"Distillation, learning from AI, learning from other sources of knowledge, is fundamental to intelligence,\" he said.",
+      "Nvidia's two largest customers, OpenAI and Anthropic, have alleged that Chinese competitors have extracted capabilities from their models and cautioned U.S. officials that Beijing's growing open-source ecosystem puts American AI leadership at risk. Huang dismissed the concern, saying open models expand the overall market rather than cannibalize closed services."
+    ],
+    "html": null
+  }
+}

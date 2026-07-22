@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
+    "fetched_at": "2026-07-22T07:00:08.384698-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle severed 21,000 employees during an AI spending spree, then hit a $7 billion Wisconsin power hurdle",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oracle severed 21,000 employees during an AI spending spree, then hit a $7 billion Wisconsin power hurdle\nThe race to dominate artificial intelligence is becoming one of the most expensive corporate contests in history.\nAmazon, Microsoft, Google parent Alphabet and Meta are expected to spend about $600 billion on AI infrastructure in 2026, according to Reuters. The historic spending spree is squeezing cash flow and putting pressure on companies to prove that their investments in chips, servers and data centers will eventually pay off.\nMust Read\n-\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n-\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n-\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\nOracle has made one of the biggest bets. The company has emerged as a major supplier of AI computing capacity after reportedly signing a $300 billion contract with OpenAI, but the data centers needed to fulfill that agreement have contributed to a cash crunch. Oracle subsequently pursued thousands of job cuts as it looked for ways to fund its expansion, Reuters reported in March.\nBy the end of its 2026 fiscal year, Oracle's workforce had fallen by approximately 21,000 employees, or 13%, from 162,000 to 141,000. The reduction came as Oracle restructured its business, partly in response to the adoption of AI within its operations.\nNow, Oracle's weakened financial position could make it significantly more expensive to secure electricity for one of the data centers at the heart of its AI ambitions.\nWisconsin regulators want a $7 billion guarantee\nOracle is involved in a planned nearly one-gigawatt data center in Port Washington, Wisconsin, that is expected to help the company fulfill its OpenAI contract.\nBut the Public Service Commission of Wisconsin has declined to loosen financial safeguards designed to prevent residential electricity customers from bearing the costs if a massive data center fails or closes, according to the Financial Times.\nUnder We Energies' \"very large customer\" tariff, data center operators with an S&P credit rating below A- must provide collateral covering the power plants and transmission infrastructure constructed to serve them.\nOracle was rated BBB, two notches below the threshold, when the requirements were considered. S&P subsequently downgraded the company to BBB-, leaving it one notch above junk status. The ratings agency cited Oracle's heavy AI spending and uncertain path toward generating enough profits from those investments.",
+    "text_blocks": [
+      "Oracle severed 21,000 employees during an AI spending spree, then hit a $7 billion Wisconsin power hurdle",
+      "The race to dominate artificial intelligence is becoming one of the most expensive corporate contests in history.",
+      "Amazon, Microsoft, Google parent Alphabet and Meta are expected to spend about $600 billion on AI infrastructure in 2026, according to Reuters. The historic spending spree is squeezing cash flow and putting pressure on companies to prove that their investments in chips, servers and data centers will eventually pay off.",
+      "Must Read",
+      "-",
+      "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+      "-",
+      "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP",
+      "-",
+      "Millionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going",
+      "Oracle has made one of the biggest bets. The company has emerged as a major supplier of AI computing capacity after reportedly signing a $300 billion contract with OpenAI, but the data centers needed to fulfill that agreement have contributed to a cash crunch. Oracle subsequently pursued thousands of job cuts as it looked for ways to fund its expansion, Reuters reported in March.",
+      "By the end of its 2026 fiscal year, Oracle's workforce had fallen by approximately 21,000 employees, or 13%, from 162,000 to 141,000. The reduction came as Oracle restructured its business, partly in response to the adoption of AI within its operations.",
+      "Now, Oracle's weakened financial position could make it significantly more expensive to secure electricity for one of the data centers at the heart of its AI ambitions.",
+      "Wisconsin regulators want a $7 billion guarantee",
+      "Oracle is involved in a planned nearly one-gigawatt data center in Port Washington, Wisconsin, that is expected to help the company fulfill its OpenAI contract.",
+      "But the Public Service Commission of Wisconsin has declined to loosen financial safeguards designed to prevent residential electricity customers from bearing the costs if a massive data center fails or closes, according to the Financial Times.",
+      "Under We Energies' \"very large customer\" tariff, data center operators with an S&P credit rating below A- must provide collateral covering the power plants and transmission infrastructure constructed to serve them.",
+      "Oracle was rated BBB, two notches below the threshold, when the requirements were considered. S&P subsequently downgraded the company to BBB-, leaving it one notch above junk status. The ratings agency cited Oracle's heavy AI spending and uncertain path toward generating enough profits from those investments."
+    ],
+    "html": null
+  }
+}

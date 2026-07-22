@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-plans-30b-georgia-data-135020996.html",
+    "fetched_at": "2026-07-22T07:00:19.213062-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI plans $30B Georgia data center mega-project",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- OpenAI is planning a massive data center complex in Effingham County, Georgia, near Savannah, according to The Wall Street Journal. The project underscores the extreme capital and energy demands required to power the next generation of AI.\nCore Project Details\n-\nPower & Cost: OpenAI secured 3.2 gigawatts (GW) from Georgia Power—enough for ~2.4 million homes. It committed $20 billion locally to secure incentives, with total costs expected to exceed $30 billion at full capacity.\n-\nTimeline: Initial capacity comes online in 2028, with full expansion running through 2032.\nMoving away from exclusive reliance on cloud partners like Microsoft, Oracle, and SoftBank, OpenAI is leading the facility's design directly. \"There's a bunch of lessons around how these things should be designed that can cut both costs as well as make it faster to build,\" Sachin Katti, OpenAI's VP of compute strategy, told the Journal. OpenAI plans to open-source these blueprints as standard reference models.\nThe project is part of Sam Altman's broader \"Stargate\" infrastructure initiative. However, OpenAI recently pulled back from sites in the UK, Norway, and Texas to streamline capital into massive, high-yield hubs ahead of an expected IPO.\nSecuring multi-gigawatt power access is now the primary bottleneck in AI development. While the deal establishes Georgia as a major tech hub, it brings new scrutiny over grid capacity and clean-energy targets.\nRelated articles\nOpenAI plans $30B Georgia data center mega-project\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- OpenAI is planning a massive data center complex in Effingham County, Georgia, near Savannah, according to The Wall Street Journal. The project underscores the extreme capital and energy demands required to power the next generation of AI.",
+      "Core Project Details",
+      "-",
+      "Power & Cost: OpenAI secured 3.2 gigawatts (GW) from Georgia Power—enough for ~2.4 million homes. It committed $20 billion locally to secure incentives, with total costs expected to exceed $30 billion at full capacity.",
+      "-",
+      "Timeline: Initial capacity comes online in 2028, with full expansion running through 2032.",
+      "Moving away from exclusive reliance on cloud partners like Microsoft, Oracle, and SoftBank, OpenAI is leading the facility's design directly. \"There's a bunch of lessons around how these things should be designed that can cut both costs as well as make it faster to build,\" Sachin Katti, OpenAI's VP of compute strategy, told the Journal. OpenAI plans to open-source these blueprints as standard reference models.",
+      "The project is part of Sam Altman's broader \"Stargate\" infrastructure initiative. However, OpenAI recently pulled back from sites in the UK, Norway, and Texas to streamline capital into massive, high-yield hubs ahead of an expected IPO.",
+      "Securing multi-gigawatt power access is now the primary bottleneck in AI development. While the deal establishes Georgia as a major tech hub, it brings new scrutiny over grid capacity and clean-energy targets.",
+      "Related articles",
+      "OpenAI plans $30B Georgia data center mega-project",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

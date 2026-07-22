@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_FV",
+    "fetched_at": "2026-07-22T07:00:46.128278-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Micron and other chip stocks are bouncing back so strongly - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nWhy Micron and other chip stocks are bouncing back so strongly\nInvestors thought Chinese AI was a threat. But it is turning into a major catalyst for chip stocks.\nChip stocks are red hot again as investors come around to the idea that something once viewed as a threat to the artificial-intelligence trade might actually be a further spark.\nA key debate in the market has been around the impact of Kimi K3, an open-source AI model from China-based Moonshot AI, which performs competitively to leading, closed U.S. models on certain benchmarks despite financial and technological limitations. Its ascent has revived questions about whether other model developers are vastly overspending on AI hardware and computing power.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Why Micron and other chip stocks are bouncing back so strongly",
+      "Investors thought Chinese AI was a threat. But it is turning into a major catalyst for chip stocks.",
+      "Chip stocks are red hot again as investors come around to the idea that something once viewed as a threat to the artificial-intelligence trade might actually be a further spark.",
+      "A key debate in the market has been around the impact of Kimi K3, an open-source AI model from China-based Moonshot AI, which performs competitively to leading, closed U.S. models on certain benchmarks despite financial and technological limitations. Its ascent has revived questions about whether other model developers are vastly overspending on AI hardware and computing power."
+    ],
+    "html": null
+  }
+}

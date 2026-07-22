@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/tesla-earnings-stock-results-musk-q2/card/tesla-s-stock-opens-in-the-red-as-earnings-loom-nMO9wQE2BRa7XIuEZpIh?mod=mw_FV",
+    "fetched_at": "2026-07-22T07:00:03.107456-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla's stock opens in the red as earnings loom - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "22 min ago\nTesla's stock opens in the red as earnings loom\nTesla shares opened fractionally lower on Wednesday, with Wall Street gearing up for the company's second-quarter earnings.\nThe stock was down by less than 1%, adding to a nearly 16% decline so far this year. Fellow \"Magnificent Seven\" member Alphabet also reports earnings on Wednesday. Its stock was largely flat at the open.\n\"The outcome of tonight's reports will likely influence investor sentiment toward the broader AI ecosystem,\" Mark Malek, the chief investment officer at Siebert Financial, said in emailed comments.",
+    "text_blocks": [
+      "22 min ago",
+      "Tesla's stock opens in the red as earnings loom",
+      "Tesla shares opened fractionally lower on Wednesday, with Wall Street gearing up for the company's second-quarter earnings.",
+      "The stock was down by less than 1%, adding to a nearly 16% decline so far this year. Fellow \"Magnificent Seven\" member Alphabet also reports earnings on Wednesday. Its stock was largely flat at the open.",
+      "\"The outcome of tonight's reports will likely influence investor sentiment toward the broader AI ecosystem,\" Mark Malek, the chief investment officer at Siebert Financial, said in emailed comments."
+    ],
+    "html": null
+  }
+}

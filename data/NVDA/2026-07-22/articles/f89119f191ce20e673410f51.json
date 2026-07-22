@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-challenges-nvidia-massive-anthropic-131225747.html",
+    "fetched_at": "2026-07-22T07:00:32.610985-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD challenges Nvidia with massive Anthropic deal, though shares dip pre-market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- In a major move aimed at loosening Nvidia's stranglehold on the AI chip market, Advanced Micro Devices has sealed a blockbuster deal with Anthropic worth tens of billions of dollars for next-generation artificial intelligence servers.\nThe agreement—first reported by The Wall Street Journal—briefly gave Wall Street an early spark. Shares of AMD spiked in pre-market trading on the news before quickly surrendering those gains, trading down 3% as a broader tech slump continues to weigh on chipmakers heading into the opening bell.\nDespite the muted early stock reaction, the multi-year deal marks one of AMD's most significant enterprise wins to date. Anthropic will purchase up to 2 gigawatts of AMD's upcoming Instinct MI450 chips, with deliveries scheduled to begin in the first half of 2027. In return, AMD is deepening its financial commitment, pledging up to $5 billion in direct investment into Anthropic as key deployment milestones are met—the chipmaker's first equity check into the AI firm.\n\"We have very much wanted to be a major part of their infrastructure,\" AMD Chief Executive Lisa Su said, noting that engineering teams from both companies have been working behind the scenes for months.\nFor Anthropic, the deal secures critical computing capacity in an increasingly constrained supply environment. The AI powerhouse currently spreads its heavy training and inference workloads across a mix of silicon, including Google's Tensor Processing Units (TPUs), Amazon's Trainium chips, and Nvidia's GPUs. Under the new terms, Anthropic will deploy AMD's chips directly in its own data centers while leasing additional capacity through major cloud providers and specialized \"neocloud\" partners.\nSu emphasized that building out infrastructure on this scale requires massive lead times. \"You can't just wake up one morning and say, 'Oh, I want a gigawatt of compute tomorrow,'\" she said. \"You actually have to plan 12, 18, 24 months in advance.\"\nAMD is also exploring options to provide a financial backstop for Anthropic's future data-center leases, according to a person with direct knowledge of the talks—a growing industry trend as chipmakers scramble to help top-tier AI startups finance the exorbitant infrastructure costs of the frontier model era.\nRelated articles\nAMD challenges Nvidia with massive Anthropic deal, though shares dip pre-market\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- In a major move aimed at loosening Nvidia's stranglehold on the AI chip market, Advanced Micro Devices has sealed a blockbuster deal with Anthropic worth tens of billions of dollars for next-generation artificial intelligence servers.",
+      "The agreement—first reported by The Wall Street Journal—briefly gave Wall Street an early spark. Shares of AMD spiked in pre-market trading on the news before quickly surrendering those gains, trading down 3% as a broader tech slump continues to weigh on chipmakers heading into the opening bell.",
+      "Despite the muted early stock reaction, the multi-year deal marks one of AMD's most significant enterprise wins to date. Anthropic will purchase up to 2 gigawatts of AMD's upcoming Instinct MI450 chips, with deliveries scheduled to begin in the first half of 2027. In return, AMD is deepening its financial commitment, pledging up to $5 billion in direct investment into Anthropic as key deployment milestones are met—the chipmaker's first equity check into the AI firm.",
+      "\"We have very much wanted to be a major part of their infrastructure,\" AMD Chief Executive Lisa Su said, noting that engineering teams from both companies have been working behind the scenes for months.",
+      "For Anthropic, the deal secures critical computing capacity in an increasingly constrained supply environment. The AI powerhouse currently spreads its heavy training and inference workloads across a mix of silicon, including Google's Tensor Processing Units (TPUs), Amazon's Trainium chips, and Nvidia's GPUs. Under the new terms, Anthropic will deploy AMD's chips directly in its own data centers while leasing additional capacity through major cloud providers and specialized \"neocloud\" partners.",
+      "Su emphasized that building out infrastructure on this scale requires massive lead times. \"You can't just wake up one morning and say, 'Oh, I want a gigawatt of compute tomorrow,'\" she said. \"You actually have to plan 12, 18, 24 months in advance.\"",
+      "AMD is also exploring options to provide a financial backstop for Anthropic's future data-center leases, according to a person with direct knowledge of the talks—a growing industry trend as chipmakers scramble to help top-tier AI startups finance the exorbitant infrastructure costs of the frontier model era.",
+      "Related articles",
+      "AMD challenges Nvidia with massive Anthropic deal, though shares dip pre-market",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

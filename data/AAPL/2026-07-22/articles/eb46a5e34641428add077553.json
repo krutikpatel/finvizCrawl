@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stumbles-court-634-million-131151982.html",
+    "fetched_at": "2026-07-22T07:00:05.833203-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Stumbles in Court as $634 Million Apple Watch Judgment Survives",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) has lost its attempt to set aside a $634 million jury award tied to a patent dispute with Masimo over blood oxygen monitoring technology used in Apple Watch devices.\nA California federal judge ruled that Apple improperly used two of 14 trade secrets asserted by Masimo, but declined to issue an injunction against Apple. The court also found Masimo was not entitled to monetary damages related to the trade secret claims, narrowing part of the medical technology company's case.\nMasimo, now part of Danaher (DHR), had sought up to $3.1 billion in damages connected with the trade secret allegations. Following the ruling, Masimo filed a notice of appeal challenging the court's decision on those claims.\nApple has maintained that its engineers independently developed the health-monitoring capabilities incorporated into Apple Watch products. The latest ruling leaves the $634 million patent verdict in place while the dispute continues through the appeals process. Apple shares edged about 0.4% higher in regular trading on Tuesday, while Danaher shares fell nearly 11% following separate quarterly earnings results and guidance.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) has lost its attempt to set aside a $634 million jury award tied to a patent dispute with Masimo over blood oxygen monitoring technology used in Apple Watch devices.",
+      "A California federal judge ruled that Apple improperly used two of 14 trade secrets asserted by Masimo, but declined to issue an injunction against Apple. The court also found Masimo was not entitled to monetary damages related to the trade secret claims, narrowing part of the medical technology company's case.",
+      "Masimo, now part of Danaher (DHR), had sought up to $3.1 billion in damages connected with the trade secret allegations. Following the ruling, Masimo filed a notice of appeal challenging the court's decision on those claims.",
+      "Apple has maintained that its engineers independently developed the health-monitoring capabilities incorporated into Apple Watch products. The latest ruling leaves the $634 million patent verdict in place while the dispute continues through the appeals process. Apple shares edged about 0.4% higher in regular trading on Tuesday, while Danaher shares fell nearly 11% following separate quarterly earnings results and guidance."
+    ],
+    "html": null
+  }
+}

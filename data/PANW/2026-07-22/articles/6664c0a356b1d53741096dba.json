@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-underweights-adobe-workday-154622282.html",
+    "fetched_at": "2026-07-22T07:00:41.393619-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morgan Stanley Underweights Adobe and Workday in Software Reset",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMorgan Stanley reset its software coverage, assuming Adobe (NASDAQ:ADBE) and Workday (NASDAQ:WDAY) at Underweight and Salesforce (NYSE:CRM) and Intuit (NASDAQ:INTU) at Equal-Weight, while naming eight stocks as its highest-conviction Overweights: Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDAQ:PANW), CrowdStrike (NASDAQ:CRWD), Cloudflare (NYSE:NET), Datadog (NASDAQ:DDOG), ServiceNow (NYSE:NOW), Snowflake (NYSE:SNOW) and Shopify (NASDAQ:SHOP).\nAnalyst Adam Wood said the market has become \"too negative on the group,\" pointing to a software index that has trailed the Nasdaq 100 by 40% and the S&P 500 by 30% over the past two years as investors question long-term earnings durability. Morgan Stanley kept an Attractive industry view and said it agrees the sector has matured, but sees more opportunity than investors currently credit.\nWood framed the sector as moving through a \"buy then build\" cycle, with infrastructure and cybersecurity benefiting from the current build phase while application software sits later in the cycle. Adobe shares dropped 4.95% in premarket while Workday fell 5.54%.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Morgan Stanley reset its software coverage, assuming Adobe (NASDAQ:ADBE) and Workday (NASDAQ:WDAY) at Underweight and Salesforce (NYSE:CRM) and Intuit (NASDAQ:INTU) at Equal-Weight, while naming eight stocks as its highest-conviction Overweights: Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDAQ:PANW), CrowdStrike (NASDAQ:CRWD), Cloudflare (NYSE:NET), Datadog (NASDAQ:DDOG), ServiceNow (NYSE:NOW), Snowflake (NYSE:SNOW) and Shopify (NASDAQ:SHOP).",
+      "Analyst Adam Wood said the market has become \"too negative on the group,\" pointing to a software index that has trailed the Nasdaq 100 by 40% and the S&P 500 by 30% over the past two years as investors question long-term earnings durability. Morgan Stanley kept an Attractive industry view and said it agrees the sector has matured, but sees more opportunity than investors currently credit.",
+      "Wood framed the sector as moving through a \"buy then build\" cycle, with infrastructure and cybersecurity benefiting from the current build phase while application software sits later in the cycle. Adobe shares dropped 4.95% in premarket while Workday fell 5.54%."
+    ],
+    "html": null
+  }
+}

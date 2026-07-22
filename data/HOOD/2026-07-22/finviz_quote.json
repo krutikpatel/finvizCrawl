@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=HOOD",
+    "fetched_at": "2026-07-22T07:00:14.662767-07:00"
+  },
+  "company": {
+    "name": "Robinhood Markets Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 106.68,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "S&P 500",
+    "Market Cap": "96.15B",
+    "Enterprise Value": "108.85B",
+    "Income": "1.89B",
+    "Sales": "4.65B",
+    "Book/sh": "10.34",
+    "Cash/sh": "5.65",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "2900",
+    "IPO": "Jul 29, 2021"
+  },
+  "raw": null
+}

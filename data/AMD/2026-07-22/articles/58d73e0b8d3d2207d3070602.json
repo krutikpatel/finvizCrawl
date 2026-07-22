@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9df62d94-0231-38c8-a8ab-44d6228599b0/amd-and-anthropic-sign-chip.html",
+    "fetched_at": "2026-07-22T07:00:38.467899-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD and Anthropic sign chip deal worth up to $5 billion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AMD and Anthropic announced a partnership on Wednesday under which Anthropic will deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs, with AMD committing to a strategic equity investment of up to $5 billion in Anthropic.\nDeployment of the first gigawatt is set to begin in the first half of 2027, the company said. The chips will be housed in AMD Helios rack-scale solutions featuring AMD Instinct MI455X GPUs alongside AMD EPYC \"Venice\" CPUs, AMD Pensando networking, and ROCm software.\nAnthropic's compute strategy under the deal splits between direct ownership and rented capacity — the company will acquire some AMD chips outright for its own facilities while securing the remainder through cloud providers or neoclouds, according to the Wall Street Journal. AMD and Anthropic are working together to identify data centers for the chips, AMD CEO Lisa Su said.\n\"You can't just wake up one morning and say, 'Oh, I want a gigawatt of compute tomorrow,'\" Lisa Su said. \"You actually have to plan, you know, 12, 18, 24 months in advance for what you want.\"\nSeparately, AMD is negotiating an arrangement that would see it guarantee Anthropic's future data-center lease obligations, the Journal reported, citing a person familiar with the matter.\nThe deal also includes an engineering collaboration in which the companies will use Anthropic's Claude models to optimize workloads for AMD Instinct GPUs and accelerate development of AMD's ROCm software. AMD will also adopt Claude across its engineering and product development teams, the company said.\n\"Access to compute is central to keeping Claude at the frontier and meeting demand from our customers,\" said Tom Brown, co-founder and chief compute officer of Anthropic, in a statement. \"By partnering with AMD across the stack, we are securing the capacity we need and optimizing it for training and serving Claude.\"\nThe deal builds on Anthropic's existing use of AMD Instinct MI355X GPUs, the company said. Anthropic also runs workloads on chips from Google, Amazon, and Nvidia.\nAMD has made capturing a larger share of the AI chip market a central strategic priority as it works to close the gap with Nvidia. The company has notched significant agreements with OpenAI and Meta Platforms in recent months. AMD stock rose 8.11% on Wednesday.",
+    "text_blocks": [
+      "AMD and Anthropic announced a partnership on Wednesday under which Anthropic will deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs, with AMD committing to a strategic equity investment of up to $5 billion in Anthropic.",
+      "Deployment of the first gigawatt is set to begin in the first half of 2027, the company said. The chips will be housed in AMD Helios rack-scale solutions featuring AMD Instinct MI455X GPUs alongside AMD EPYC \"Venice\" CPUs, AMD Pensando networking, and ROCm software.",
+      "Anthropic's compute strategy under the deal splits between direct ownership and rented capacity — the company will acquire some AMD chips outright for its own facilities while securing the remainder through cloud providers or neoclouds, according to the Wall Street Journal. AMD and Anthropic are working together to identify data centers for the chips, AMD CEO Lisa Su said.",
+      "\"You can't just wake up one morning and say, 'Oh, I want a gigawatt of compute tomorrow,'\" Lisa Su said. \"You actually have to plan, you know, 12, 18, 24 months in advance for what you want.\"",
+      "Separately, AMD is negotiating an arrangement that would see it guarantee Anthropic's future data-center lease obligations, the Journal reported, citing a person familiar with the matter.",
+      "The deal also includes an engineering collaboration in which the companies will use Anthropic's Claude models to optimize workloads for AMD Instinct GPUs and accelerate development of AMD's ROCm software. AMD will also adopt Claude across its engineering and product development teams, the company said.",
+      "\"Access to compute is central to keeping Claude at the frontier and meeting demand from our customers,\" said Tom Brown, co-founder and chief compute officer of Anthropic, in a statement. \"By partnering with AMD across the stack, we are securing the capacity we need and optimizing it for training and serving Claude.\"",
+      "The deal builds on Anthropic's existing use of AMD Instinct MI355X GPUs, the company said. Anthropic also runs workloads on chips from Google, Amazon, and Nvidia.",
+      "AMD has made capturing a larger share of the AI chip market a central strategic priority as it works to close the gap with Nvidia. The company has notched significant agreements with OpenAI and Meta Platforms in recent months. AMD stock rose 8.11% on Wednesday."
+    ],
+    "html": null
+  }
+}

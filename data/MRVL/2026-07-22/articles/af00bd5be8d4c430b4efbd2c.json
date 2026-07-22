@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-jumps-192143070.html",
+    "fetched_at": "2026-07-22T07:00:46.804663-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq, Dow and S&P 500 Jumps as Chip Stocks Power Wall Street Higher",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nU.S. stocks moved higher in Tuesday trading as gains in semiconductor shares and another round of stronger-than-expected corporate earnings helped investors look past ongoing geopolitical tensions in the Middle East.\nThe Dow Jones Industrial Average rose about 0.7%, while the S&P 500 gained roughly 0.8% and the Nasdaq Composite advanced about 1.3%. Semiconductor stocks led the market higher, with the VanEck Semiconductor ETF (NASDAQ:SMH) climbing around 4%. Micron Technology (NASDAQ:MU) jumped about 10%, Intel (NASDAQ:INTC) gained roughly 7%, Marvell Technology (MRVL) rose about 7%, and Astera Labs (ALAB) added nearly 6%.\nEarnings also supported sentiment. 3M (MMM) surged more than 9% after reporting quarterly results that exceeded expectations, while General Motors (GM) climbed about 5% following better-than-expected second-quarter earnings. According to FactSet data, nearly 88% of the 66 S&P 500 companies that have reported earnings so far have topped analysts' profit estimates.\nInvestors also continued monitoring developments in the U.S.-Iran conflict and oil prices while awaiting earnings reports from Alphabet (GOOGL), IBM (NYSE:IBM) and Tesla (NASDAQ:TSLA) later this week.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "U.S. stocks moved higher in Tuesday trading as gains in semiconductor shares and another round of stronger-than-expected corporate earnings helped investors look past ongoing geopolitical tensions in the Middle East.",
+      "The Dow Jones Industrial Average rose about 0.7%, while the S&P 500 gained roughly 0.8% and the Nasdaq Composite advanced about 1.3%. Semiconductor stocks led the market higher, with the VanEck Semiconductor ETF (NASDAQ:SMH) climbing around 4%. Micron Technology (NASDAQ:MU) jumped about 10%, Intel (NASDAQ:INTC) gained roughly 7%, Marvell Technology (MRVL) rose about 7%, and Astera Labs (ALAB) added nearly 6%.",
+      "Earnings also supported sentiment. 3M (MMM) surged more than 9% after reporting quarterly results that exceeded expectations, while General Motors (GM) climbed about 5% following better-than-expected second-quarter earnings. According to FactSet data, nearly 88% of the 66 S&P 500 companies that have reported earnings so far have topped analysts' profit estimates.",
+      "Investors also continued monitoring developments in the U.S.-Iran conflict and oil prices while awaiting earnings reports from Alphabet (GOOGL), IBM (NYSE:IBM) and Tesla (NASDAQ:TSLA) later this week."
+    ],
+    "html": null
+  }
+}
