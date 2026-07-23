@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-donates-advanced-supercomputer-u-124751215.html",
+    "fetched_at": "2026-07-23T07:00:53.594215-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Donates Advanced Supercomputer to U.S. Navy School",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NVDA, Financials), the semiconductor company that designs advanced graphics processors and AI computing systems, donated a supercomputer built with its latest chips to a nonprofit linked to the U.S. Naval Postgraduate School.\nThe system uses Nvidia's GB300 Grace Blackwell servers and has been installed at the school's campus in Monterey, California.\nThe Naval Postgraduate School, which is operated by the U.S. Navy, offers graduate programs in fields including computer science and aerospace engineering, with a focus on military applications.\nNvidia and the school did not disclose the size or value of the system.\nThe donation marks the first direct use of Nvidia's most advanced servers by the U.S. military. Blackwell chips are also expected to be used in government supercomputers run by the U.S. Department of Energy.\nThe system will give students and researchers access to more powerful tools for studying complex, fast-changing operational problems.\nThe project also highlights the growing role of AI in defense planning, simulation and autonomous systems.\nInvestors will now watch whether the deployment leads to broader government demand for Nvidia's newest computing platforms.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NVDA, Financials), the semiconductor company that designs advanced graphics processors and AI computing systems, donated a supercomputer built with its latest chips to a nonprofit linked to the U.S. Naval Postgraduate School.",
+      "The system uses Nvidia's GB300 Grace Blackwell servers and has been installed at the school's campus in Monterey, California.",
+      "The Naval Postgraduate School, which is operated by the U.S. Navy, offers graduate programs in fields including computer science and aerospace engineering, with a focus on military applications.",
+      "Nvidia and the school did not disclose the size or value of the system.",
+      "The donation marks the first direct use of Nvidia's most advanced servers by the U.S. military. Blackwell chips are also expected to be used in government supercomputers run by the U.S. Department of Energy.",
+      "The system will give students and researchers access to more powerful tools for studying complex, fast-changing operational problems.",
+      "The project also highlights the growing role of AI in defense planning, simulation and autonomous systems.",
+      "Investors will now watch whether the deployment leads to broader government demand for Nvidia's newest computing platforms."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/alphabet-faces-1-billion-eu-125222156.html",
+    "fetched_at": "2026-07-23T07:00:32.777834-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Faces $1 Billion EU Fine Over Search and App Store Practices",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (GOOGL, Financials), the parent of Google, a leader in search, cloud computing and digital advertising, was fined 890 million euros (about $1 billion) by the European Commission for violating the EU's Digital Markets Act.The Commission fined Google separately for Google Search (460 million) and Google Play (430 million), finding that the corporation offered its own services preferential treatment and restricted app developers' ability to divert customers to alternative buying choices.European authorities said Google should treat competing services more equally in search results and allow developers to promote products outside the Play Store without excessive limitations.Google slammed the ruling, saying compliance with the requirements required changes that degrade the functionality of products like hotel, restaurant and flight search services, while undermining protections in Google Play.The business has already started trialling modifications to search results and revised several Play Store policies, but the European Commission warned more action was needed.Google has 60 days to comply with the ruling or face periodic penalties of as much as 5% of its global annual revenue.Now investors will be watching to see if Google appeals the ruling and how further legislative changes could impact its search and app store businesses in Europe.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (GOOGL, Financials), the parent of Google, a leader in search, cloud computing and digital advertising, was fined 890 million euros (about $1 billion) by the European Commission for violating the EU's Digital Markets Act.The Commission fined Google separately for Google Search (460 million) and Google Play (430 million), finding that the corporation offered its own services preferential treatment and restricted app developers' ability to divert customers to alternative buying choices.European authorities said Google should treat competing services more equally in search results and allow developers to promote products outside the Play Store without excessive limitations.Google slammed the ruling, saying compliance with the requirements required changes that degrade the functionality of products like hotel, restaurant and flight search services, while undermining protections in Google Play.The business has already started trialling modifications to search results and revised several Play Store policies, but the European Commission warned more action was needed.Google has 60 days to comply with the ruling or face periodic penalties of as much as 5% of its global annual revenue.Now investors will be watching to see if Google appeals the ruling and how further legislative changes could impact its search and app store businesses in Europe."
+    ],
+    "html": null
+  }
+}

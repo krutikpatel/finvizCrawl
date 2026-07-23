@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-gets-major-vote-confidence-123722085.html",
+    "fetched_at": "2026-07-23T07:00:16.937162-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Gets a Major Vote of Confidence From Bank of America",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) is back in focus after Bank of America reinforced its bullish outlook, arguing that the latest wave of open-source artificial intelligence models strengthens, rather than weakens, the long-term investment case for the memory-chip maker.\nThe brokerage reiterated its Buy rating and $1,550 price target, saying demand for high-bandwidth memory (HBM) should continue to accelerate despite more efficient AI models.\nBank of America said investors are misreading the impact of open-weight AI models such as Moonshot AI's Kimi K3. While these models improve computing efficiency, they still require massive amounts of HBM, and wider enterprise adoption means more organizations will need to deploy their own memory-intensive infrastructure instead of relying on centralized cloud services.\nThe bullish note follows Micron's fiscal third-quarter results, where the company exceeded Wall Street expectations on both revenue and earnings. Micron posted record revenue of $41.46 billion, adjusted EPS of $25.11, and record free cash flow of $18.3 billion while guiding for another strong quarter ahead.\nBeyond its earnings momentum, Micron continues expanding long-term supply agreements with automotive and technology customers, strengthening visibility into future AI memory demand. The company has also been increasing production of HBM products to capitalize on the AI infrastructure buildout.\nBank of America added that Micron's forward valuation remains below the semiconductor sector median and expects the expiration of CHIPS Act-related buyback restrictions around December 2026 to provide additional flexibility for shareholder returns.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) is back in focus after Bank of America reinforced its bullish outlook, arguing that the latest wave of open-source artificial intelligence models strengthens, rather than weakens, the long-term investment case for the memory-chip maker.",
+      "The brokerage reiterated its Buy rating and $1,550 price target, saying demand for high-bandwidth memory (HBM) should continue to accelerate despite more efficient AI models.",
+      "Bank of America said investors are misreading the impact of open-weight AI models such as Moonshot AI's Kimi K3. While these models improve computing efficiency, they still require massive amounts of HBM, and wider enterprise adoption means more organizations will need to deploy their own memory-intensive infrastructure instead of relying on centralized cloud services.",
+      "The bullish note follows Micron's fiscal third-quarter results, where the company exceeded Wall Street expectations on both revenue and earnings. Micron posted record revenue of $41.46 billion, adjusted EPS of $25.11, and record free cash flow of $18.3 billion while guiding for another strong quarter ahead.",
+      "Beyond its earnings momentum, Micron continues expanding long-term supply agreements with automotive and technology customers, strengthening visibility into future AI memory demand. The company has also been increasing production of HBM products to capitalize on the AI infrastructure buildout.",
+      "Bank of America added that Micron's forward valuation remains below the semiconductor sector median and expects the expiration of CHIPS Act-related buyback restrictions around December 2026 to provide additional flexibility for shareholder returns."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/economy/policy/articles/india-relaxes-e-commerce-investment-130824438.html",
+    "fetched_at": "2026-07-23T07:00:59.655255-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "India relaxes e-commerce investment rules for exports in win for Amazon",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "NEW DELHI, July 23 (Reuters) - India's government on Thursday eased foreign investment rules to allow e-commerce companies to buy products directly from Indian sellers and then sell them to overseas customers, a major win for Amazon which lobbied for the change for months.\nFor years, India has prohibited foreign e-commerce companies from selling goods directly to consumers at home or abroad, allowing them only to operate a marketplace to connect buyers and sellers for a fee. The rule has now been relaxed to boost exports, the government said in a statement.\n(Reporting by Aditya Kalra; Editing by Kirsten Donovan)",
+    "text_blocks": [
+      "NEW DELHI, July 23 (Reuters) - India's government on Thursday eased foreign investment rules to allow e-commerce companies to buy products directly from Indian sellers and then sell them to overseas customers, a major win for Amazon which lobbied for the change for months.",
+      "For years, India has prohibited foreign e-commerce companies from selling goods directly to consumers at home or abroad, allowing them only to operate a marketplace to connect buyers and sellers for a fee. The rule has now been relaxed to boost exports, the government said in a statement.",
+      "(Reporting by Aditya Kalra; Editing by Kirsten Donovan)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026/card/the-metric-spooking-wall-street-is-free-cash-flow-qjWjNwC8rVYGyIrQLjtJ?mod=wsj_FV",
+    "fetched_at": "2026-07-23T07:00:04.369965-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Metric Spooking Wall Street Is Free Cash Flow",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 12 min ago\nThe Metric Spooking Wall Street Is Free Cash Flow\nSecond-quarter earnings results from Alphabet and Tesla kicked off a crucial test for the AI trade yesterday. The initial verdict? Oof.\nBoth companies reported soaring revenue, but investors these days care much more about the AI spending bill. The phrase of the day: free cash flow—which turned negative at both, sending shares tumbling.\nGoogle’s finance chief said free cash flow would remain under pressure as the company deepens its investments in AI. The tech giant lifted its capital spending forecast to as much as $205 billion this year.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 12 min ago",
+      "The Metric Spooking Wall Street Is Free Cash Flow",
+      "Second-quarter earnings results from Alphabet and Tesla kicked off a crucial test for the AI trade yesterday. The initial verdict? Oof.",
+      "Both companies reported soaring revenue, but investors these days care much more about the AI spending bill. The phrase of the day: free cash flow—which turned negative at both, sending shares tumbling.",
+      "Google’s finance chief said free cash flow would remain under pressure as the company deepens its investments in AI. The tech giant lifted its capital spending forecast to as much as $205 billion this year."
+    ],
+    "html": null
+  }
+}

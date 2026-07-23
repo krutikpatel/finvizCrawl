@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/67a85219-3798-37c3-b900-c1787bbd978f/the-divergent-paths-priced.html",
+    "fetched_at": "2026-07-23T07:01:16.683773-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Divergent Paths Priced Into Advanced Micro Devices Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "If you hold shares in the chipmaker, the market is pricing a journey that could either double your money or cut it in half over the next year, and you're buckled in for the whole ride.\nFor a shareholder in Advanced Micro Devices (AMD), the future holds two very different destinations. The options market, our cleanest gauge of potential stock moves, is pricing a plausible path to a share price near $1094.29 over the next year. It is also pricing a plausible path down to around $270. If you own the stock, you own the full breadth of that uncertainty, whether you've ever looked at an option or not.\nJust How Wide Is the Range Priced Into Your Shares?\nLet's put some hard numbers on that risk you're carrying. With the stock trading around $544.43, the one-year options chain implies a 68% probability, think of it as the market's main fairway, that the stock will land somewhere between that $270 floor and the $1094.29 ceiling.\nThat's not a symmetric proposition. The upside to that ceiling represents a 101% gain from today's price. The downside to the floor is a 50% drop. This is the sizable, two-sided swing baked into your position right now. The market isn't forecasting which path the stock will take, only that a very large move is on the table.\nWhat's Fueling This Level of Uncertainty?\nThis isn't random volatility; it's the market pricing a genuine, high-stakes business debate. The bull case is powered by management's significant revision of its addressable market. On its latest earnings call, the company said it now expects the server CPU market to grow at over 35% annually, reaching a TAM of over $120 billion by 2030, driven by the computing demands of \"Agentic AI.\" That forecast is fueling expectations for server CPU revenue to grow by more than 70% year-over-year in the second quarter alone.\nBut there's a powerful counter-narrative. The very AI accelerators driving this excitement, like the upcoming MI450 series, are expected to ramp with gross margins that are \"below corporate average,\" according to the CFO. At the same time, management is planning for second-half PC shipments to be lower due to higher memory and component costs and expects gaming revenue to decline. This creates the core tension: can rapid, but potentially less profitable, AI growth overcome headwinds in its consumer businesses and intensifying competition in the data center?\nIs The Market More Anxious Than Usual About AMD?\nInterestingly, no. The options market is pricing future volatility (implied volatility) at 73%. That's almost exactly in line with how much the stock has actually moved over the past year (its realized volatility of 70%). The ratio between the two is just 1.05x, suggesting a minimal \"fear premium.\" In other words, the market sees this wide range of outcomes as business-as-usual for AMD. This level of risk is the norm, not an exception, for a holder of this stock. As a brief side note on sentiment, traders are currently paying about 2.3 times as much for upside calls as for downside protection, a noticeable lean toward optimism.",
+    "text_blocks": [
+      "If you hold shares in the chipmaker, the market is pricing a journey that could either double your money or cut it in half over the next year, and you're buckled in for the whole ride.",
+      "For a shareholder in Advanced Micro Devices (AMD), the future holds two very different destinations. The options market, our cleanest gauge of potential stock moves, is pricing a plausible path to a share price near $1094.29 over the next year. It is also pricing a plausible path down to around $270. If you own the stock, you own the full breadth of that uncertainty, whether you've ever looked at an option or not.",
+      "Just How Wide Is the Range Priced Into Your Shares?",
+      "Let's put some hard numbers on that risk you're carrying. With the stock trading around $544.43, the one-year options chain implies a 68% probability, think of it as the market's main fairway, that the stock will land somewhere between that $270 floor and the $1094.29 ceiling.",
+      "That's not a symmetric proposition. The upside to that ceiling represents a 101% gain from today's price. The downside to the floor is a 50% drop. This is the sizable, two-sided swing baked into your position right now. The market isn't forecasting which path the stock will take, only that a very large move is on the table.",
+      "What's Fueling This Level of Uncertainty?",
+      "This isn't random volatility; it's the market pricing a genuine, high-stakes business debate. The bull case is powered by management's significant revision of its addressable market. On its latest earnings call, the company said it now expects the server CPU market to grow at over 35% annually, reaching a TAM of over $120 billion by 2030, driven by the computing demands of \"Agentic AI.\" That forecast is fueling expectations for server CPU revenue to grow by more than 70% year-over-year in the second quarter alone.",
+      "But there's a powerful counter-narrative. The very AI accelerators driving this excitement, like the upcoming MI450 series, are expected to ramp with gross margins that are \"below corporate average,\" according to the CFO. At the same time, management is planning for second-half PC shipments to be lower due to higher memory and component costs and expects gaming revenue to decline. This creates the core tension: can rapid, but potentially less profitable, AI growth overcome headwinds in its consumer businesses and intensifying competition in the data center?",
+      "Is The Market More Anxious Than Usual About AMD?",
+      "Interestingly, no. The options market is pricing future volatility (implied volatility) at 73%. That's almost exactly in line with how much the stock has actually moved over the past year (its realized volatility of 70%). The ratio between the two is just 1.05x, suggesting a minimal \"fear premium.\" In other words, the market sees this wide range of outcomes as business-as-usual for AMD. This level of risk is the norm, not an exception, for a holder of this stock. As a brief side note on sentiment, traders are currently paying about 2.3 times as much for upside calls as for downside protection, a noticeable lean toward optimism."
+    ],
+    "html": null
+  }
+}

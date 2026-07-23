@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-validates-first-vera-rubin-133423487.html",
+    "fetched_at": "2026-07-23T07:00:54.052807-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nebius validates first Vera Rubin NVL72 rack in Finland days after NVDA stake",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Nebius Group (NASDAQ: NBIS) announced Thursday that it has brought up and is validating its first full NVIDIA Vera Rubin NVL72 rack at its Finland data center, claiming a place among the earliest AI cloud providers to reach that milestone. The announcement arrives just two days after NVIDIA disclosed a 9.3% passive stake in Nebius, sending the stock notably higher.\nNVIDIA (NASDAQ: NVDA) holds that stake as a passive investor, and the Vera Rubin deployment underscores the strategic dimension of the relationship: Nebius gains early hardware access, and NVIDIA gains a high-profile showcase customer for its most advanced AI infrastructure platform.\nIn a post on X, Nebius said the NVIDIA Spectrum-6 switches delivered the previous week are being brought up alongside the compute hardware by the same team in the same facility. \"The close co-engineering relationship we enjoy with NVIDIA means we work together from the earliest stage of every new platform, shortening the path from first rack to production workloads,\" the company wrote. \"After bring-up and validation comes software polishing and production-grade testing, so when Vera Rubin reaches our customers, it delivers its full potential from day one.\"\nThe update from Nebius comes after rival neocloud CoreWeave completed what it described as \"the industry's first bring-up and validation of NVIDIA Vera Rubin NVL72\" in early June and published silicon performance data showing the platform delivers 10x more tokens per second per megawatt than Grace Blackwell NVL72 on DeepSeek R1, according to a CoreWeave blog post dated July 22.\nNVIDIA confirmed recently that Vera Rubin NVL72 entered full production in June 2026, with racks running at CoreWeave, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure across more than 350 factory sites in 30 countries.\nThe architecture itself is a significant leap: Vera Rubin NVL72 features seven co-designed chips, 22 TB/s of HBM4 aggregate bandwidth per GPU (2.8 times that of Blackwell), and NVLink 6 running at 3.6 TB/s bidirectional per GPU, cutting inference token cost to roughly one-tenth of Blackwell's level, according to NVIDIA's technical blog.\nFor Nebius, the timing of the Vera Rubin announcement is strategically well-placed. The company secured a $775 million GPU-backed senior secured debt facility earlier in July, funding infrastructure expansion without diluting existing shareholders. It also reports more than $40 billion in contracted revenue from investment-grade customers including Microsoft and Meta.",
+    "text_blocks": [
+      "Investing.com -- Nebius Group (NASDAQ: NBIS) announced Thursday that it has brought up and is validating its first full NVIDIA Vera Rubin NVL72 rack at its Finland data center, claiming a place among the earliest AI cloud providers to reach that milestone. The announcement arrives just two days after NVIDIA disclosed a 9.3% passive stake in Nebius, sending the stock notably higher.",
+      "NVIDIA (NASDAQ: NVDA) holds that stake as a passive investor, and the Vera Rubin deployment underscores the strategic dimension of the relationship: Nebius gains early hardware access, and NVIDIA gains a high-profile showcase customer for its most advanced AI infrastructure platform.",
+      "In a post on X, Nebius said the NVIDIA Spectrum-6 switches delivered the previous week are being brought up alongside the compute hardware by the same team in the same facility. \"The close co-engineering relationship we enjoy with NVIDIA means we work together from the earliest stage of every new platform, shortening the path from first rack to production workloads,\" the company wrote. \"After bring-up and validation comes software polishing and production-grade testing, so when Vera Rubin reaches our customers, it delivers its full potential from day one.\"",
+      "The update from Nebius comes after rival neocloud CoreWeave completed what it described as \"the industry's first bring-up and validation of NVIDIA Vera Rubin NVL72\" in early June and published silicon performance data showing the platform delivers 10x more tokens per second per megawatt than Grace Blackwell NVL72 on DeepSeek R1, according to a CoreWeave blog post dated July 22.",
+      "NVIDIA confirmed recently that Vera Rubin NVL72 entered full production in June 2026, with racks running at CoreWeave, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure across more than 350 factory sites in 30 countries.",
+      "The architecture itself is a significant leap: Vera Rubin NVL72 features seven co-designed chips, 22 TB/s of HBM4 aggregate bandwidth per GPU (2.8 times that of Blackwell), and NVLink 6 running at 3.6 TB/s bidirectional per GPU, cutting inference token cost to roughly one-tenth of Blackwell's level, according to NVIDIA's technical blog.",
+      "For Nebius, the timing of the Vera Rubin announcement is strategically well-placed. The company secured a $775 million GPU-backed senior secured debt facility earlier in July, funding infrastructure expansion without diluting existing shareholders. It also reports more than $40 billion in contracted revenue from investment-grade customers including Microsoft and Meta."
+    ],
+    "html": null
+  }
+}

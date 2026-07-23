@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/indian-payments-firms-oppose-one-125123776.html",
+    "fetched_at": "2026-07-23T07:00:13.314736-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Indian payments firms oppose one-click UPI checkout proposal, citing competition risks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Ashwin Manikandan\nMUMBAI, July 23 (Reuters) - Several Indian digital payments firms have opposed a proposal that would allow merchants to store customers' preferred Unified Payments Interface option for one-click checkouts, arguing it could entrench the dominance of the bigger payment apps.\nIn a July 23 letter reviewed by Reuters, the companies told the National Payments Corporation of India (NPCI), which oversees the UPI network, that the proposal could \"adversely impact\" competition.\nThe signatories include Paytm, Meta-backed CRED, Flipkart's Super.money, among others.\nNPCI and the companies did not immediately reply to Reuters' requests for comments.\nUPI processed over 227 billion transactions worth more than 28 trillion rupees ($289.94 billion) in June, according to NPCI data, making it one of the world's most widely used fast payment networks.\nWalmart-backed PhonePe and Alphabet's Google Pay together account for roughly four-fifths of these transactions.\nThe proposed framework, referred to as UPI Meta or UPI Checkout, would let users save a preferred payment handle or linked bank account with merchants, eliminating the need to select a payments app each time they make a purchase.\nInstead, customers would proceed directly to authentication using a PIN or biometric verification, similar to how saved card details can be used for faster checkouts.\n\"The proposed framework is expected to materially increase persistence of customer preference towards the (third party apps) selected during the initial setup process,\" the companies said in the letter.\nThe firms said that once a customer saves a UPI ID for payment, it is unlikely to change, making it tougher for smaller apps to compete.\nThe concentration of UPI payments through a few platforms has been a concern for the payments authority.\nNPCI introduced a plan in 2020 to limit the market share of any single UPI app to 30%, but has repeatedly delayed implementation. The current compliance deadline is December 2026.\n($1 = 96.5725 Indian rupees)\n(Reporting by Ashwin Manikandan; Editing by Eileen Soreng)",
+    "text_blocks": [
+      "By Ashwin Manikandan",
+      "MUMBAI, July 23 (Reuters) - Several Indian digital payments firms have opposed a proposal that would allow merchants to store customers' preferred Unified Payments Interface option for one-click checkouts, arguing it could entrench the dominance of the bigger payment apps.",
+      "In a July 23 letter reviewed by Reuters, the companies told the National Payments Corporation of India (NPCI), which oversees the UPI network, that the proposal could \"adversely impact\" competition.",
+      "The signatories include Paytm, Meta-backed CRED, Flipkart's Super.money, among others.",
+      "NPCI and the companies did not immediately reply to Reuters' requests for comments.",
+      "UPI processed over 227 billion transactions worth more than 28 trillion rupees ($289.94 billion) in June, according to NPCI data, making it one of the world's most widely used fast payment networks.",
+      "Walmart-backed PhonePe and Alphabet's Google Pay together account for roughly four-fifths of these transactions.",
+      "The proposed framework, referred to as UPI Meta or UPI Checkout, would let users save a preferred payment handle or linked bank account with merchants, eliminating the need to select a payments app each time they make a purchase.",
+      "Instead, customers would proceed directly to authentication using a PIN or biometric verification, similar to how saved card details can be used for faster checkouts.",
+      "\"The proposed framework is expected to materially increase persistence of customer preference towards the (third party apps) selected during the initial setup process,\" the companies said in the letter.",
+      "The firms said that once a customer saves a UPI ID for payment, it is unlikely to change, making it tougher for smaller apps to compete.",
+      "The concentration of UPI payments through a few platforms has been a concern for the payments authority.",
+      "NPCI introduced a plan in 2020 to limit the market share of any single UPI app to 30%, but has repeatedly delayed implementation. The current compliance deadline is December 2026.",
+      "($1 = 96.5725 Indian rupees)",
+      "(Reporting by Ashwin Manikandan; Editing by Eileen Soreng)"
+    ],
+    "html": null
+  }
+}

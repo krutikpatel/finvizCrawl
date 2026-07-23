@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/micron-gets-vote-confidence-musk-122602378.html",
+    "fetched_at": "2026-07-23T07:00:17.353913-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Gets Vote of Confidence From Musk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) received a public vote of confidence from Elon Musk after the Tesla (NASDAQ:TSLA) CEO said the memory chipmaker secured a \"significant allocation\" of memory chips for the automaker despite an industry-wide supply crunch.\nSpeaking during Tesla's earnings call, Musk said Micron provided the company with substantial memory capacity on \"reasonable terms,\" even as soaring demand has pushed memory prices sharply higher. The allocation is expected to support Tesla's expanding AI ambitions, including Optimus humanoid robots and robotaxi development.\nMicron is one of the world's largest producers of DRAM and NAND memory chips, supplying components used in AI servers, data centers, smartphones and automotive systems. Tight memory supply has become a key bottleneck as AI infrastructure spending accelerates.\nMusk also said Tesla has ordered equipment for a development chip fabrication plant and praised suppliers including TSMC (NYSE:TSM), Samsung (SSNLF) and Panasonic (PCRFF) for investing billions of dollars to expand AI computing and battery manufacturing capacity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) received a public vote of confidence from Elon Musk after the Tesla (NASDAQ:TSLA) CEO said the memory chipmaker secured a \"significant allocation\" of memory chips for the automaker despite an industry-wide supply crunch.",
+      "Speaking during Tesla's earnings call, Musk said Micron provided the company with substantial memory capacity on \"reasonable terms,\" even as soaring demand has pushed memory prices sharply higher. The allocation is expected to support Tesla's expanding AI ambitions, including Optimus humanoid robots and robotaxi development.",
+      "Micron is one of the world's largest producers of DRAM and NAND memory chips, supplying components used in AI servers, data centers, smartphones and automotive systems. Tight memory supply has become a key bottleneck as AI infrastructure spending accelerates.",
+      "Musk also said Tesla has ordered equipment for a development chip fabrication plant and praised suppliers including TSMC (NYSE:TSM), Samsung (SSNLF) and Panasonic (PCRFF) for investing billions of dollars to expand AI computing and battery manufacturing capacity."
+    ],
+    "html": null
+  }
+}

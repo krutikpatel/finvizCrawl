@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/67095e13-b309-3e5b-98cf-f07d003e759c/openai-bets-%24750-billion-on.html",
+    "fetched_at": "2026-07-23T07:00:29.735872-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI Bets $750 Billion On Computing Power In Georgia It Cannot Afford",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "THE GIST\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\nOpenAI needs more compute, which is why they raised their projections to $750 billion through 2030, reports the Wall Street Journal. That's up almost $600 billion from earlier this year.\nComputing capacity, generally defined as the speed and volume at which a given LLM can perform its mathematical operations to generate predictions via tokenization, is existential. This makes logical sense: OpenAI is set to break ground on a new data center in Georgia — but can CEO Sam Altman afford it?\nWHAT HAPPENED\nProject Camellia, a long-term data center project OpenAI is developing in Georgia, is its answer to the computing capacity war between AI firms. The project has already agreed to contract 3.2 gigawatts of power with Georgia Power, scheduled to be delivered in phases between 2028 and 2032. The location will be in a pre-existing industrially zoned warehouse project within the Savannah Gateway Industrial Hub. OpenAI says they have met with officials, community leaders, schools, and other regional partners about the project, but have yet to actually meet any community residents. That comes on Thursday.\nOpenAI hired Brent Mayo for the job. Mayo was one of the data center architects who helped Elon Musk build out his first Colossus supercomputer facility in Memphis. The NAACP and Southaven residents are suing Musk over the unpermitted power plant in Mississippi that is powering it.\nSince OpenAI and data centers more generally have been the subject of populist ire in recent months, Altman made some concessions in the press release, including promising electricity rates won't increase, water will be recirculated rather than drawn continuously, and that the project will be audited independently each year.\nWHY IT MATTERS\nOpenAI needs this data center project to succeed if they are going to stand a chance against Anthropic. Stargate Project, the $500 billion data center build-out fever dream announced in January 2025 with SoftBank and Oracle, has sputtered to a halt. Altman and SoftBank's Masayoshi Son were reportedly at odds over specific terms, including where to build the sites, per the WSJ. Later, at a SoftBank event, Altman said their partnership is wonderful, and they still plan to build 10 gigawatts of data centers together. For context, 1 gigawatt is equal to powering about 750,000 homes, and the only reported plans the pair have are likely to build something more humble in Ohio, according to people familiar with the matter.",
+    "text_blocks": [
+      "THE GIST",
+      "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.",
+      "OpenAI needs more compute, which is why they raised their projections to $750 billion through 2030, reports the Wall Street Journal. That's up almost $600 billion from earlier this year.",
+      "Computing capacity, generally defined as the speed and volume at which a given LLM can perform its mathematical operations to generate predictions via tokenization, is existential. This makes logical sense: OpenAI is set to break ground on a new data center in Georgia — but can CEO Sam Altman afford it?",
+      "WHAT HAPPENED",
+      "Project Camellia, a long-term data center project OpenAI is developing in Georgia, is its answer to the computing capacity war between AI firms. The project has already agreed to contract 3.2 gigawatts of power with Georgia Power, scheduled to be delivered in phases between 2028 and 2032. The location will be in a pre-existing industrially zoned warehouse project within the Savannah Gateway Industrial Hub. OpenAI says they have met with officials, community leaders, schools, and other regional partners about the project, but have yet to actually meet any community residents. That comes on Thursday.",
+      "OpenAI hired Brent Mayo for the job. Mayo was one of the data center architects who helped Elon Musk build out his first Colossus supercomputer facility in Memphis. The NAACP and Southaven residents are suing Musk over the unpermitted power plant in Mississippi that is powering it.",
+      "Since OpenAI and data centers more generally have been the subject of populist ire in recent months, Altman made some concessions in the press release, including promising electricity rates won't increase, water will be recirculated rather than drawn continuously, and that the project will be audited independently each year.",
+      "WHY IT MATTERS",
+      "OpenAI needs this data center project to succeed if they are going to stand a chance against Anthropic. Stargate Project, the $500 billion data center build-out fever dream announced in January 2025 with SoftBank and Oracle, has sputtered to a halt. Altman and SoftBank's Masayoshi Son were reportedly at odds over specific terms, including where to build the sites, per the WSJ. Later, at a SoftBank event, Altman said their partnership is wonderful, and they still plan to build 10 gigawatts of data centers together. For context, 1 gigawatt is equal to powering about 750,000 homes, and the only reported plans the pair have are likely to build something more humble in Ohio, according to people familiar with the matter."
+    ],
+    "html": null
+  }
+}

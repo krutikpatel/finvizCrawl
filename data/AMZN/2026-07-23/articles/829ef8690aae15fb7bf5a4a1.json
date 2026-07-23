@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/alphabet-inc-cl-a-amazon-com-inc-share-losses-contribute-to-dow-s-387-point-fall-79c396c0-d6bcc086360c?mod=mw_FV",
+    "fetched_at": "2026-07-23T07:00:59.575828-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "410 Client Error: Gone for url: https://www.marketwatch.com/data-news/alphabet-inc-cl-a-amazon-com-inc-share-losses-contribute-to-dow-s-387-point-fall-79c396c0-d6bcc086360c?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/data-news/alphabet-inc-cl-a-amazon-com-inc-share-losses-contribute-to-dow-s-387-point-fall-79c396c0-d6bcc086360c?mod=mw_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

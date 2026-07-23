@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/arm-gains-ground-ai-servers-180039110.html",
+    "fetched_at": "2026-07-23T07:01:12.735281-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Gains Ground in AI Servers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM) gained another sign of momentum in the AI race after IDC reported that Arm-based rack-scale GPU servers have overtaken x86 systems as the leading accelerated computing platform.\nIDC said global AI infrastructure spending reached $89.7 billion in the first quarter and now expects the market to hit $497 billion in 2026, up nearly 56% from a year earlier. The research firm also forecasts AI infrastructure spending will exceed $1 trillion by 2029.\nArm licenses processor designs used across smartphones, data centers and AI servers, while x86 chips are primarily supplied by Intel (NASDAQ:INTC) and AMD (NASDAQ:AMD). IDC said Arm accelerated server spending climbed to $53 billion in the first quarter, while x86 accelerated server spending fell to $34.6 billion as hyperscalers increasingly adopted Nvidia's (NASDAQ:NVDA) rack-scale AI systems.\nThe report also found that enterprises are expanding beyond GPU purchases into CPU-only inference clusters, AI orchestration software and long-delayed storage upgrades, signaling a broader buildout of AI infrastructure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM) gained another sign of momentum in the AI race after IDC reported that Arm-based rack-scale GPU servers have overtaken x86 systems as the leading accelerated computing platform.",
+      "IDC said global AI infrastructure spending reached $89.7 billion in the first quarter and now expects the market to hit $497 billion in 2026, up nearly 56% from a year earlier. The research firm also forecasts AI infrastructure spending will exceed $1 trillion by 2029.",
+      "Arm licenses processor designs used across smartphones, data centers and AI servers, while x86 chips are primarily supplied by Intel (NASDAQ:INTC) and AMD (NASDAQ:AMD). IDC said Arm accelerated server spending climbed to $53 billion in the first quarter, while x86 accelerated server spending fell to $34.6 billion as hyperscalers increasingly adopted Nvidia's (NASDAQ:NVDA) rack-scale AI systems.",
+      "The report also found that enterprises are expanding beyond GPU purchases into CPU-only inference clusters, AI orchestration software and long-delayed storage upgrades, signaling a broader buildout of AI infrastructure."
+    ],
+    "html": null
+  }
+}

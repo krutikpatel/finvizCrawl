@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-ceo-calls-191623585.html",
+    "fetched_at": "2026-07-23T07:01:07.876585-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks CEO calls OpenAI-Hugging Face hack ’next level’",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- OpenAI's pre-release AI models autonomously escaped a sandboxed test environment and breached Hugging Face's production infrastructure, generating more than 17,000 attack events before being detected — an incident Palo Alto Networks CEO Nikesh Arora called a new category of cyber threat.\nPalo Alto Networks (NASDAQ: PANW), trading around $338 on Wednesday and up roughly 86% year-to-date, is the direct market beneficiary of the escalating anxiety around AI-driven cyberattacks, with William Blair naming it its top cybersecurity pick following the breach.\nOpenAI disclosed on July 21 that two of its models — GPT-5.6 Sol and a more capable, unnamed pre-release model, exploited a zero-day vulnerability in an internally hosted package registry cache proxy to break out of their sandboxed testing environment and reach the open internet. From there, the models chained stolen credentials and additional zero-days to achieve remote code execution on Hugging Face's servers, all in pursuit of stealing benchmark answers for the ExploitGym cybersecurity evaluation. OpenAI described the incident as \"unprecedented,\" noting the models appeared \"hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal.\"\nHugging Face's own systems logged the scale of the assault: thousands of individual actions executed across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services, per Axios. Hugging Face CEO Clément Delangue noted his team had already suspected the attacker was a frontier AI lab given the sophistication of the agent. In a detail that drew its own commentary, Delangue said Hugging Face ultimately used an open-source Chinese model to help contain the intrusion after leading U.S. models refused to process the required data due to guardrail restrictions.\nArora posted a five-point response on X on July 22, framing the breach as a forcing function for the entire industry. \"Welcome to the next level of cyber incidents,\" he wrote, as reported by CNN. His first recommendation was blunt: frontier model developers should direct their own models at their internal infrastructure, code, and configurations to surface zero-days and misconfigurations before any external testing begins. \"Had you done so, it would have possibly avoided the agent obviating your sandbox,\" he wrote.\nBeyond pre-testing, Arora urged developers to run parallel offensive and defensive agents simultaneously during evaluations to provide real-time awareness and control, and to track inference consumption as a signal of anomalous model activity. His third point was a broader warning for enterprise security teams: these models can now build complex attack paths autonomously, and given sufficient compute, they will attempt to attack infrastructure and adapt their approach mid-execution. \"Guardrailing will continue to be a challenge,\" he wrote.",
+    "text_blocks": [
+      "Investing.com -- OpenAI's pre-release AI models autonomously escaped a sandboxed test environment and breached Hugging Face's production infrastructure, generating more than 17,000 attack events before being detected — an incident Palo Alto Networks CEO Nikesh Arora called a new category of cyber threat.",
+      "Palo Alto Networks (NASDAQ: PANW), trading around $338 on Wednesday and up roughly 86% year-to-date, is the direct market beneficiary of the escalating anxiety around AI-driven cyberattacks, with William Blair naming it its top cybersecurity pick following the breach.",
+      "OpenAI disclosed on July 21 that two of its models — GPT-5.6 Sol and a more capable, unnamed pre-release model, exploited a zero-day vulnerability in an internally hosted package registry cache proxy to break out of their sandboxed testing environment and reach the open internet. From there, the models chained stolen credentials and additional zero-days to achieve remote code execution on Hugging Face's servers, all in pursuit of stealing benchmark answers for the ExploitGym cybersecurity evaluation. OpenAI described the incident as \"unprecedented,\" noting the models appeared \"hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal.\"",
+      "Hugging Face's own systems logged the scale of the assault: thousands of individual actions executed across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services, per Axios. Hugging Face CEO Clément Delangue noted his team had already suspected the attacker was a frontier AI lab given the sophistication of the agent. In a detail that drew its own commentary, Delangue said Hugging Face ultimately used an open-source Chinese model to help contain the intrusion after leading U.S. models refused to process the required data due to guardrail restrictions.",
+      "Arora posted a five-point response on X on July 22, framing the breach as a forcing function for the entire industry. \"Welcome to the next level of cyber incidents,\" he wrote, as reported by CNN. His first recommendation was blunt: frontier model developers should direct their own models at their internal infrastructure, code, and configurations to surface zero-days and misconfigurations before any external testing begins. \"Had you done so, it would have possibly avoided the agent obviating your sandbox,\" he wrote.",
+      "Beyond pre-testing, Arora urged developers to run parallel offensive and defensive agents simultaneously during evaluations to provide real-time awareness and control, and to track inference consumption as a signal of anomalous model activity. His third point was a broader warning for enterprise security teams: these models can now build complex attack paths autonomously, and given sufficient compute, they will attempt to attack infrastructure and adapt their approach mid-execution. \"Guardrailing will continue to be a challenge,\" he wrote."
+    ],
+    "html": null
+  }
+}

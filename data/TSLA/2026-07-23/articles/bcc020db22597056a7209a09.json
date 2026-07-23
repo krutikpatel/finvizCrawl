@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072326/card/stocks-tumble-after-oil-touches-100-mag-7-earnings-didn-t-help--NXwOq9fijFhf2WxEGCgY?mod=bar_FV",
+    "fetched_at": "2026-07-23T07:00:04.615401-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks Tumble After Oil Touches $100. Mag 7 Earnings Didn't Help.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n28 min ago\nStocks Tumble After Oil Touches $100. Mag 7 Earnings Didn't Help.\nStocks tumbled at the open on Thursday after earnings from Alphabet and Tesla failed to rouse the AI trade.\nThe Dow fell 654 points, or 1.2%. The S&P 500 was down 1.3%. The Nasdaq was down 1.8%.\nAlphabet and Tesla were both down on their latest earnings reports. An uptick in AI spending expectations for the Google parent spooked investors, but the news wasn’t enough to get chip stocks rallying despite their sharp slide this month.",
+    "text_blocks": [
+      "LIVE",
+      "28 min ago",
+      "Stocks Tumble After Oil Touches $100. Mag 7 Earnings Didn't Help.",
+      "Stocks tumbled at the open on Thursday after earnings from Alphabet and Tesla failed to rouse the AI trade.",
+      "The Dow fell 654 points, or 1.2%. The S&P 500 was down 1.3%. The Nasdaq was down 1.8%.",
+      "Alphabet and Tesla were both down on their latest earnings reports. An uptick in AI spending expectations for the Google parent spooked investors, but the news wasn’t enough to get chip stocks rallying despite their sharp slide this month."
+    ],
+    "html": null
+  }
+}

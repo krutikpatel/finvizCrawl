@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-issues-stark-message-microsoft-120415870.html",
+    "fetched_at": "2026-07-23T07:00:35.863229-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oppenheimer Issues Stark Message on Microsoft Stock Ahead of Earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) stock will be in focus ahead of next week's fiscal fourth-quarter results after Oppenheimer reiterated its bullish stance, saying enterprise demand remains healthy despite ongoing concerns about elevated AI infrastructure spending.\nThe brokerage maintained its Buy rating and $515 price target ahead of Microsoft's July 29 earnings report.\nOppenheimer expects Microsoft to report fiscal fourth-quarter revenue of about $87 billion, up roughly 14% year over year, with GAAP earnings of $4.16 per share. Wall Street, meanwhile, expects revenue of $87.62 billion and earnings of $4.24 per share, reflecting about 15% revenue growth and 16% EPS growth.\nThe brokerage said its channel checks indicate steady enterprise IT spending, solid AI demand, and continued momentum in Microsoft 365. However, it cautioned that investor attention is likely to remain on Microsoft's elevated capital expenditures and the pace of returns from its AI investments, with spending expected to stay high into fiscal 2027.\nOppenheimer also said concerns that large language models could materially disrupt Microsoft's Microsoft 365 franchise appear overstated.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) stock will be in focus ahead of next week's fiscal fourth-quarter results after Oppenheimer reiterated its bullish stance, saying enterprise demand remains healthy despite ongoing concerns about elevated AI infrastructure spending.",
+      "The brokerage maintained its Buy rating and $515 price target ahead of Microsoft's July 29 earnings report.",
+      "Oppenheimer expects Microsoft to report fiscal fourth-quarter revenue of about $87 billion, up roughly 14% year over year, with GAAP earnings of $4.16 per share. Wall Street, meanwhile, expects revenue of $87.62 billion and earnings of $4.24 per share, reflecting about 15% revenue growth and 16% EPS growth.",
+      "The brokerage said its channel checks indicate steady enterprise IT spending, solid AI demand, and continued momentum in Microsoft 365. However, it cautioned that investor attention is likely to remain on Microsoft's elevated capital expenditures and the pace of returns from its AI investments, with spending expected to stay high into fiscal 2027.",
+      "Oppenheimer also said concerns that large language models could materially disrupt Microsoft's Microsoft 365 franchise appear overstated."
+    ],
+    "html": null
+  }
+}

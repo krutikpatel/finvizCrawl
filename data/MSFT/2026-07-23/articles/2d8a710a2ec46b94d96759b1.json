@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ibm-buys-hrl-laboratories-shift-110158207.html",
+    "fetched_at": "2026-07-23T07:00:36.305665-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IBM buys HRL Laboratories in shift to two-track quantum computing strategy",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Stephen Nellis\nSAN FRANCISCO, July 23 (Reuters) - IBM has agreed to buy HRL Laboratories, a private quantum computing research lab jointly owned by Boeing Co and General Motors, the company said on Thursday, adding a second pillar to IBM's quantum computing efforts.\nIBM has been racing against Alphabet's Google, Microsoft and others to create practical quantum machines that can crack problems that would take conventional computers thousands of years to solve.\nIn May, U.S. President Donald Trump's administration said it would award $1 billion to IBM to set up a new company called Anderon in New Albany, New York, to serve as a chip factory for U.S. quantum computing firms.\nWhile there is agreement among governments and the tech industry that quantum computers are coming, precisely how they will work remains an open question. Companies and labs are chasing a half-dozen different ways of making quantum circuits, and the HRL deal will add a second approach to IBM's portfolio.\nIBM did not disclose a price for the HRL deal but said that Boeing and GM \"will continue to partner with IBM\" on quantum technologies after the transaction.\nIBM, along with Google, has been a proponent of using superconductors to craft quantum circuits. HRL, the former research arm of aerospace firm Hughes Aircraft based near Malibu, California, makes electron spin quantum circuits called \"qubits.\"\nBoth technologies can be made with the same equipment used to fabricate conventional computing chips, but electron spin circuits can be made much smaller than superconducting circuits.\nThose smaller circuits will become useful for IBM's efforts after its \"Blue Jay\" system, which uses superconducting chips, is delivered in 2033, Jay Gambetta, director of IBM Research, told Reuters in an interview on Wednesday.\n\"I and the team strongly believe that the future is going to be (electron) spins, or superconducting, or possibly a combination of them,\" Gambetta said. \"They (HRL) have a very strong spin qubit team, the strongest in the world. ... I would not pursue a second path that was not built on a foundation that could be integrated together.\"\nIn the more immediate future, Gambetta said, HRL's team, which currently makes chips at its California facility, will start to make chips at IBM's cutting-edge facility in New York. Gambetta also said that IBM has \"a parallel path\" of spin-based quantum technology in addition to its superconductors \"that we'll make available very soon.\"\nIBM's addition of a second quantum technology follows Google's move earlier this year to add a second technology based on neutral atoms.\n(Reporting by Stephen Nellis in San Francisco; Editing by Christian Schmollinger)",
+    "text_blocks": [
+      "By Stephen Nellis",
+      "SAN FRANCISCO, July 23 (Reuters) - IBM has agreed to buy HRL Laboratories, a private quantum computing research lab jointly owned by Boeing Co and General Motors, the company said on Thursday, adding a second pillar to IBM's quantum computing efforts.",
+      "IBM has been racing against Alphabet's Google, Microsoft and others to create practical quantum machines that can crack problems that would take conventional computers thousands of years to solve.",
+      "In May, U.S. President Donald Trump's administration said it would award $1 billion to IBM to set up a new company called Anderon in New Albany, New York, to serve as a chip factory for U.S. quantum computing firms.",
+      "While there is agreement among governments and the tech industry that quantum computers are coming, precisely how they will work remains an open question. Companies and labs are chasing a half-dozen different ways of making quantum circuits, and the HRL deal will add a second approach to IBM's portfolio.",
+      "IBM did not disclose a price for the HRL deal but said that Boeing and GM \"will continue to partner with IBM\" on quantum technologies after the transaction.",
+      "IBM, along with Google, has been a proponent of using superconductors to craft quantum circuits. HRL, the former research arm of aerospace firm Hughes Aircraft based near Malibu, California, makes electron spin quantum circuits called \"qubits.\"",
+      "Both technologies can be made with the same equipment used to fabricate conventional computing chips, but electron spin circuits can be made much smaller than superconducting circuits.",
+      "Those smaller circuits will become useful for IBM's efforts after its \"Blue Jay\" system, which uses superconducting chips, is delivered in 2033, Jay Gambetta, director of IBM Research, told Reuters in an interview on Wednesday.",
+      "\"I and the team strongly believe that the future is going to be (electron) spins, or superconducting, or possibly a combination of them,\" Gambetta said. \"They (HRL) have a very strong spin qubit team, the strongest in the world. ... I would not pursue a second path that was not built on a foundation that could be integrated together.\"",
+      "In the more immediate future, Gambetta said, HRL's team, which currently makes chips at its California facility, will start to make chips at IBM's cutting-edge facility in New York. Gambetta also said that IBM has \"a parallel path\" of spin-based quantum technology in addition to its superconductors \"that we'll make available very soon.\"",
+      "IBM's addition of a second quantum technology follows Google's move earlier this year to add a second technology based on neutral atoms.",
+      "(Reporting by Stephen Nellis in San Francisco; Editing by Christian Schmollinger)"
+    ],
+    "html": null
+  }
+}

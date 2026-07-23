@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-alphabet-earnings-skhynix-3768645b?mod=bar_FV",
+    "fetched_at": "2026-07-23T07:00:12.084124-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings\nNvidia stock was falling Thursday following Alphabet’s earnings report, even though the Google parent told investors it was significantly raising its guidance for capital expenditures.",
+    "text_blocks": [
+      "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings",
+      "Nvidia stock was falling Thursday following Alphabet’s earnings report, even though the Google parent told investors it was significantly raising its guidance for capital expenditures."
+    ],
+    "html": null
+  }
+}

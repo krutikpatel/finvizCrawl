@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/openai-cybersecurity-stocks-palo-alto-okta-e1fd1b13?mod=bar_FV",
+    "fetched_at": "2026-07-23T07:01:07.474925-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Models Went Rogue, and These Stocks Are Ready for the Fight<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "AI Models Went Rogue, and These Stocks Are Ready for the Fight\nThis past week was a warning shot to CEOs who are leaping into artificial intelligence with both feet. Though we didn’t need more proof that AI can go rogue and wreak havoc, we got plenty of it because of a scare involving OpenAI research models.",
+    "text_blocks": [
+      "AI Models Went Rogue, and These Stocks Are Ready for the Fight",
+      "This past week was a warning shot to CEOs who are leaping into artificial intelligence with both feet. Though we didn’t need more proof that AI can go rogue and wreak havoc, we got plenty of it because of a scare involving OpenAI research models."
+    ],
+    "html": null
+  }
+}
