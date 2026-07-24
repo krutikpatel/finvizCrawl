@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/verizon-signs-deal-google-worth-125600413.html",
+    "fetched_at": "2026-07-24T07:00:32.623330-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Verizon signs deal with Google worth over $1 billion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 24 (Reuters) - Verizon CEO Dan Schulman said on Friday the company has secured a deal with Google, valued at more than $1 billion, to provide dark fiber connectivity for the search engine giant's data centers.\n\"We have other deals that we expect to announce by year end that taken together are expected to be worth multiple billions of dollars in revenue over the next several years,\" Schulman said on Verizon's post-earnings call.\n(Reporting by Jaspreet Singh in Bengaluru)",
+    "text_blocks": [
+      "July 24 (Reuters) - Verizon CEO Dan Schulman said on Friday the company has secured a deal with Google, valued at more than $1 billion, to provide dark fiber connectivity for the search engine giant's data centers.",
+      "\"We have other deals that we expect to announce by year end that taken together are expected to be worth multiple billions of dollars in revenue over the next several years,\" Schulman said on Verizon's post-earnings call.",
+      "(Reporting by Jaspreet Singh in Bengaluru)"
+    ],
+    "html": null
+  }
+}

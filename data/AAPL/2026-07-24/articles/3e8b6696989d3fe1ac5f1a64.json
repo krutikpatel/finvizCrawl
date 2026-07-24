@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-risk-2ccc03ab?mod=bar_FV",
+    "fetched_at": "2026-07-24T07:00:07.068278-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock Market Risks Are Almost Too Numerous to Count<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Stock Market Faces a Summer Storm of Risk\nInvestors hoping for a quiet summer are finding the stock market a stormier place than they might have hoped.\nInvestors hoping for a quiet summer are finding the stock market a stormier place than they might have hoped.",
+    "text_blocks": [
+      "The Stock Market Faces a Summer Storm of Risk",
+      "Investors hoping for a quiet summer are finding the stock market a stormier place than they might have hoped.",
+      "Investors hoping for a quiet summer are finding the stock market a stormier place than they might have hoped."
+    ],
+    "html": null
+  }
+}

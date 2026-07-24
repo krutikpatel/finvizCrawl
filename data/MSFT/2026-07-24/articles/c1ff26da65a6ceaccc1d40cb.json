@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1a057421-808f-3c03-a008-25666572118f/india-orders-shutdown-of.html",
+    "fetched_at": "2026-07-24T07:00:36.527632-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "India Orders Shutdown Of Messaging App Bitchat",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "India's government has ordered the shutdown of Bitchat, the messaging app built by Block (NYSE: $XYZ) chief executive officer and Bitcoin (CRYPTO: $BTC) advocate Jack Dorsey.\nIndia's cybercrime watchdog has ordered GitHub to take down Bitchat as anti-government protesters in Delhi communicate through the app despite repeated internet shutdowns.\nThe Indian Cyber Crime Coordination Centre gave GitHub three hours to disable access to Bitchat in the nation of 1.5 billion people.\nMore From Cryptoprowl:\n-\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n-\nTokenInsight Q2 2026 Report: TradFi Momentum Lifts MEXC to No. 2 in Commodity Perpetuals\nIndia's government claims that Bitchat enables anonymous communication without registration, phone numbers, or centralized logging and that it \"impedes law enforcement agencies.\"\nBitchat is a decentralized messaging app that relays encrypted messages between phones over Bluetooth mesh networks, requiring no internet, servers or accounts.\nJack Dorsey released Bitchat as open-source software in July 2025.\nBitchat is also designed to relay Bitcoin transactions offline, passing them from phone to phone through the mesh network until a device with connectivity broadcasts them to the network.\nThe design is meant to keep payments alive during blackouts, disasters, or state-imposed shutdowns such as the one occurring in India.\nSince July 20, cities across India have seen some of their largest demonstrations in years as students protest a national exam scandal and what they see as government corruption.\nThe government has ordered repeated internet suspensions around the protests and researchers have documented demonstrators turning to Bluetooth mesh apps such as Bitchat to keep coordinating their demonstrations.\nIt's not clear if GitHub, which is a Microsoft-owned (NASDAQ: $MSFT) platform, complied with the government shutdown order.\nXYZ stock has declined 71% in the last five years to trade at $76.49 U.S. per share.",
+    "text_blocks": [
+      "India's government has ordered the shutdown of Bitchat, the messaging app built by Block (NYSE: $XYZ) chief executive officer and Bitcoin (CRYPTO: $BTC) advocate Jack Dorsey.",
+      "India's cybercrime watchdog has ordered GitHub to take down Bitchat as anti-government protesters in Delhi communicate through the app despite repeated internet shutdowns.",
+      "The Indian Cyber Crime Coordination Centre gave GitHub three hours to disable access to Bitchat in the nation of 1.5 billion people.",
+      "More From Cryptoprowl:",
+      "-",
+      "MEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure",
+      "-",
+      "TokenInsight Q2 2026 Report: TradFi Momentum Lifts MEXC to No. 2 in Commodity Perpetuals",
+      "India's government claims that Bitchat enables anonymous communication without registration, phone numbers, or centralized logging and that it \"impedes law enforcement agencies.\"",
+      "Bitchat is a decentralized messaging app that relays encrypted messages between phones over Bluetooth mesh networks, requiring no internet, servers or accounts.",
+      "Jack Dorsey released Bitchat as open-source software in July 2025.",
+      "Bitchat is also designed to relay Bitcoin transactions offline, passing them from phone to phone through the mesh network until a device with connectivity broadcasts them to the network.",
+      "The design is meant to keep payments alive during blackouts, disasters, or state-imposed shutdowns such as the one occurring in India.",
+      "Since July 20, cities across India have seen some of their largest demonstrations in years as students protest a national exam scandal and what they see as government corruption.",
+      "The government has ordered repeated internet suspensions around the protests and researchers have documented demonstrators turning to Bluetooth mesh apps such as Bitchat to keep coordinating their demonstrations.",
+      "It's not clear if GitHub, which is a Microsoft-owned (NASDAQ: $MSFT) platform, complied with the government shutdown order.",
+      "XYZ stock has declined 71% in the last five years to trade at $76.49 U.S. per share."
+    ],
+    "html": null
+  }
+}

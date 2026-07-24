@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/d97d7316-c11d-393f-8bfa-9ce3a5f29bbe/the-challenges-companies-face.html",
+    "fetched_at": "2026-07-24T07:00:04.037692-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The challenges companies face to launch robotaxis in Europe",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Several car companies across the world have attempted to launch robotaxis in the last few years. However, more often than not, these plans have been quickly abandoned, with companies doing quiet U-turns shortly after announcing them.\nTesla, one of the biggest poster companies for robotaxi promises, has faced a slowing rollout in the last few months, driven by the requirement to increase safety and unresolved operational and software challenges.\nHowever, Tesla is hardly the only company facing these problems, with a number of European car companies like Volkswagen, BMW and Mercedes-Benz seeing considerable hurdles in their robotaxi plans as well.\nWhy is it so difficult for companies to launch robotaxis in Europe?\nWhile legacy carmakers have seen minor advancements in robotaxis lately, progress still remains slow and uneven for widespread launches.\nVolkswagen first announced its commercial robotaxi partnership with Uber back in April 2025. This was after it also introduced its autonomous driving subsidiary, VW ADMT in July 2023.\nThis July, the company finally launched its first actual pilot passenger robotaxi service via its subsidiary Moia in Hamburg.\nDespite this pilot, full commercial rollout of Volkswagen's robotaxis in Europe still faces considerable challenges, such as strict regulatory timelines, high hardware costs and mandatory safety monitor requirements, among others.\nEuropean and German road regulations require trained safety monitors to stay behind the wheel during public tests. This makes it highly unlikely for Volkswagen to receive fully driverless commercial certification until at least 2027.\nEurope also continues to take a more cautious approach to unproven software, compared to the US and China. This risk-averse oversight means that real-world algorithm training is often delayed.\nLocal safety watchdogs and crash-investigation guidelines in Europe could also struggle to keep pace with rapid commercial robotaxi rollouts, adding another layer of complexity.\nRelated\nHigh hardware costs and software complexity have slowed rollouts further. BMW has paused its \"eyes off\" Personal Pilot Level 3 features on flagship models because of soaring costs and low demand.\nInstead, it has now shifted focus toward advanced Level 2 Plus/DCAS assisted driving, where the driver remains responsible for the car and maintaining attention on the road.\nSimilarly, Volkswagen ended a prior joint development alliance with Bosch, due to higher costs.",
+    "text_blocks": [
+      "Several car companies across the world have attempted to launch robotaxis in the last few years. However, more often than not, these plans have been quickly abandoned, with companies doing quiet U-turns shortly after announcing them.",
+      "Tesla, one of the biggest poster companies for robotaxi promises, has faced a slowing rollout in the last few months, driven by the requirement to increase safety and unresolved operational and software challenges.",
+      "However, Tesla is hardly the only company facing these problems, with a number of European car companies like Volkswagen, BMW and Mercedes-Benz seeing considerable hurdles in their robotaxi plans as well.",
+      "Why is it so difficult for companies to launch robotaxis in Europe?",
+      "While legacy carmakers have seen minor advancements in robotaxis lately, progress still remains slow and uneven for widespread launches.",
+      "Volkswagen first announced its commercial robotaxi partnership with Uber back in April 2025. This was after it also introduced its autonomous driving subsidiary, VW ADMT in July 2023.",
+      "This July, the company finally launched its first actual pilot passenger robotaxi service via its subsidiary Moia in Hamburg.",
+      "Despite this pilot, full commercial rollout of Volkswagen's robotaxis in Europe still faces considerable challenges, such as strict regulatory timelines, high hardware costs and mandatory safety monitor requirements, among others.",
+      "European and German road regulations require trained safety monitors to stay behind the wheel during public tests. This makes it highly unlikely for Volkswagen to receive fully driverless commercial certification until at least 2027.",
+      "Europe also continues to take a more cautious approach to unproven software, compared to the US and China. This risk-averse oversight means that real-world algorithm training is often delayed.",
+      "Local safety watchdogs and crash-investigation guidelines in Europe could also struggle to keep pace with rapid commercial robotaxi rollouts, adding another layer of complexity.",
+      "Related",
+      "High hardware costs and software complexity have slowed rollouts further. BMW has paused its \"eyes off\" Personal Pilot Level 3 features on flagship models because of soaring costs and low demand.",
+      "Instead, it has now shifted focus toward advanced Level 2 Plus/DCAS assisted driving, where the driver remains responsible for the car and maintaining attention on the road.",
+      "Similarly, Volkswagen ended a prior joint development alliance with Bosch, due to higher costs."
+    ],
+    "html": null
+  }
+}

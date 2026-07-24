@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-selloff-hands-bears-big-124118963.html",
+    "fetched_at": "2026-07-24T07:00:04.095009-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Selloff Hands Bears Big Gains",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) short sellers scored one of their biggest wins of the year after the electric vehicle maker's disappointing earnings triggered its sharpest one-day stock decline in more than 12 months.\nTesla shares tumbled 14.5% after reporting weaker-than-expected quarterly profit, reigniting concerns about how quickly its heavy investments in artificial intelligence and robotics will translate into meaningful financial returns. According to S3 Partners, the selloff generated about $4.3 billion in paper gains for investors betting against the stock in a single session.\nTesla designs electric vehicles, battery systems and AI technologies, while increasingly positioning itself as a robotics and autonomous driving company. Even so, investors remain focused on whether those long-term initiatives can offset slowing growth in its core automotive business.\nTesla remains the most shorted stock among the Magnificent Seven, with roughly 3% of its shares sold short. After this year's decline, the stock is down nearly 29% in 2026, leaving short sellers sitting on an estimated $9.08 billion in mark-to-market gains.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) short sellers scored one of their biggest wins of the year after the electric vehicle maker's disappointing earnings triggered its sharpest one-day stock decline in more than 12 months.",
+      "Tesla shares tumbled 14.5% after reporting weaker-than-expected quarterly profit, reigniting concerns about how quickly its heavy investments in artificial intelligence and robotics will translate into meaningful financial returns. According to S3 Partners, the selloff generated about $4.3 billion in paper gains for investors betting against the stock in a single session.",
+      "Tesla designs electric vehicles, battery systems and AI technologies, while increasingly positioning itself as a robotics and autonomous driving company. Even so, investors remain focused on whether those long-term initiatives can offset slowing growth in its core automotive business.",
+      "Tesla remains the most shorted stock among the Magnificent Seven, with roughly 3% of its shares sold short. After this year's decline, the stock is down nearly 29% in 2026, leaving short sellers sitting on an estimated $9.08 billion in mark-to-market gains."
+    ],
+    "html": null
+  }
+}

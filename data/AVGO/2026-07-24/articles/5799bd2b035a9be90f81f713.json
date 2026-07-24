@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/intel-earnings-stock-results-q2/card/intel-is-showing-very-fast-growth-in-an-underrated-part-of-its-business-lvdA2XYStelu4I3bXLVf?mod=mw_FV",
+    "fetched_at": "2026-07-24T07:00:40.926046-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel is showing very fast growth in an underrated part of its business - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "10 hours ago\nIntel is showing very fast growth in an underrated part of its business\nIntel's claim to fame lies with its central processing units, but the company also makes application-specific integrated circuits, and it's seeing explosive growth in this smaller part of its business.\nIntel's CFO David Zinsner said that the company is \"probably running at about a $2 billion run rate\" or \"at least approaching a $2 billion run rate\" within ASICs, which are custom chips. Broadcom and Marvell are among the best known makers of ASICs.\nIn the first quarter, Intel reported it was at a run rate of north of $1 billion. \"We think in the not too distant future, we'll be at a $4 billion run rate for that business,\" Zinsner said on Thursday.",
+    "text_blocks": [
+      "10 hours ago",
+      "Intel is showing very fast growth in an underrated part of its business",
+      "Intel's claim to fame lies with its central processing units, but the company also makes application-specific integrated circuits, and it's seeing explosive growth in this smaller part of its business.",
+      "Intel's CFO David Zinsner said that the company is \"probably running at about a $2 billion run rate\" or \"at least approaching a $2 billion run rate\" within ASICs, which are custom chips. Broadcom and Marvell are among the best known makers of ASICs.",
+      "In the first quarter, Intel reported it was at a run rate of north of $1 billion. \"We think in the not too distant future, we'll be at a $4 billion run rate for that business,\" Zinsner said on Thursday."
+    ],
+    "html": null
+  }
+}

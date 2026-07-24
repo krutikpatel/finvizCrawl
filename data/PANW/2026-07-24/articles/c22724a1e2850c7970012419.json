@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/goldman-confident-2-security-stocks-135820099.html",
+    "fetched_at": "2026-07-24T07:01:01.495249-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman is confident these 2 security stocks can grow their valuations",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Goldman Sachs raised its price targets on two cybersecurity stocks Tuesday, arguing that both companies can grow into their current valuations as AI spending eventually flows into security budgets.\n\"In the last four months, the Security category has shifted from being viewed as at risk from AI to being a clear beneficiary,\" analyst Gabriela Borges said in a note, with the consensus view that more AI spending will translate into more security spending, largely benefiting today's platform leaders.\n\"We agree with this view; however, quantification and timing will matter to realizing alpha from here,\" Borges added.\nGoldman raised its 12-month price target on CrowdStrike to $208 from $182 and Palo Alto Networks' target to $371 from $330. Both stocks carry Buy ratings.\nThe bank said it has yet to see a meaningful change in security budgets for AI-related products, noting that enterprise agentic implementations remain immature and often run in isolated \"sandbox\" environments.\nDrawing a comparison to the cloud computing cycle, which took five years for security spending to inflect from under 1% of cloud budgets to a steady state of 2-5%, Goldman estimates a similar inflection in AI security budgets \"may happen\" as soon as in the fourth quarter or the first half of 2027, implying a two-to-three year lag from the start of the AI adoption cycle.\nBorges said a new AI-related security budget is likely to disproportionately benefit incumbents rather than new entrants, unlike the broader software sector. The analyst attributed this to security roadmaps being driven by machine learning innovation rather than generative AI, and to security leaders' aggressive acquisition of AI-native technology assets, estimated at more than $2.3 billion over the past 18 months.\nUnder its \"blue sky\" scenario, Goldman estimates CrowdStrike and Palo Alto Networks could see 2028 free cash flow revised up by as much as 30% versus current estimates, with the two companies together capturing about one-third of the emerging AI security market.\nIn that scenario, Borges said, both stocks \"would be trading at implied EV/FCF/growth multiples below that of the 20%+ software cohort today.\"\nRelated articles\nGoldman is confident these 2 security stocks can grow their valuations\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+    "text_blocks": [
+      "Investing.com -- Goldman Sachs raised its price targets on two cybersecurity stocks Tuesday, arguing that both companies can grow into their current valuations as AI spending eventually flows into security budgets.",
+      "\"In the last four months, the Security category has shifted from being viewed as at risk from AI to being a clear beneficiary,\" analyst Gabriela Borges said in a note, with the consensus view that more AI spending will translate into more security spending, largely benefiting today's platform leaders.",
+      "\"We agree with this view; however, quantification and timing will matter to realizing alpha from here,\" Borges added.",
+      "Goldman raised its 12-month price target on CrowdStrike to $208 from $182 and Palo Alto Networks' target to $371 from $330. Both stocks carry Buy ratings.",
+      "The bank said it has yet to see a meaningful change in security budgets for AI-related products, noting that enterprise agentic implementations remain immature and often run in isolated \"sandbox\" environments.",
+      "Drawing a comparison to the cloud computing cycle, which took five years for security spending to inflect from under 1% of cloud budgets to a steady state of 2-5%, Goldman estimates a similar inflection in AI security budgets \"may happen\" as soon as in the fourth quarter or the first half of 2027, implying a two-to-three year lag from the start of the AI adoption cycle.",
+      "Borges said a new AI-related security budget is likely to disproportionately benefit incumbents rather than new entrants, unlike the broader software sector. The analyst attributed this to security roadmaps being driven by machine learning innovation rather than generative AI, and to security leaders' aggressive acquisition of AI-native technology assets, estimated at more than $2.3 billion over the past 18 months.",
+      "Under its \"blue sky\" scenario, Goldman estimates CrowdStrike and Palo Alto Networks could see 2028 free cash flow revised up by as much as 30% versus current estimates, with the two companies together capturing about one-third of the emerging AI security market.",
+      "In that scenario, Borges said, both stocks \"would be trading at implied EV/FCF/growth multiples below that of the 20%+ software cohort today.\"",
+      "Related articles",
+      "Goldman is confident these 2 security stocks can grow their valuations",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amkor-jumps-1-5-billion-124203060.html",
+    "fetched_at": "2026-07-24T07:00:50.515634-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amkor Jumps on $1.5 Billion Nvidia Packaging Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmkor Technology (NASDAQ:AMKR), which provides outsourced semiconductor packaging and test services, rose 9.66% premarket after announcing a $1.5 billion multi-year partnership with Nvidia (NASDAQ:NVDA) to develop advanced packaging and test technologies for AI and accelerated computing platforms. Nvidia will make a prepayment to fund expansion of Amkor's US capacity, centered on Arizona.\nThe two will align long-term roadmaps on technologies including high-density interconnects and next-generation heterogeneous integration, the practice of combining different chip types in a single package. Amkor already supplies advanced packaging across Nvidia's portfolio, covering data center processors, networking chipsets and accelerated computing systems, and said the expanded arrangement will bring new technologies to market at scale.\nThe deal follows a run of US commitments. Amkor entered a 10-year packaging partnership with TSMC (NYSE:TSM) in June and is working with Advanced Micro Devices (NASDAQ:AMD) on packaging its chips, according to Reuters. CEO Kevin Engel said the agreement \"accelerates our long-term roadmap\" and supports turnkey packaging and test capability in the US alongside Amkor's Asian footprint.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amkor Technology (NASDAQ:AMKR), which provides outsourced semiconductor packaging and test services, rose 9.66% premarket after announcing a $1.5 billion multi-year partnership with Nvidia (NASDAQ:NVDA) to develop advanced packaging and test technologies for AI and accelerated computing platforms. Nvidia will make a prepayment to fund expansion of Amkor's US capacity, centered on Arizona.",
+      "The two will align long-term roadmaps on technologies including high-density interconnects and next-generation heterogeneous integration, the practice of combining different chip types in a single package. Amkor already supplies advanced packaging across Nvidia's portfolio, covering data center processors, networking chipsets and accelerated computing systems, and said the expanded arrangement will bring new technologies to market at scale.",
+      "The deal follows a run of US commitments. Amkor entered a 10-year packaging partnership with TSMC (NYSE:TSM) in June and is working with Advanced Micro Devices (NASDAQ:AMD) on packaging its chips, according to Reuters. CEO Kevin Engel said the agreement \"accelerates our long-term roadmap\" and supports turnkey packaging and test capability in the US alongside Amkor's Asian footprint."
+    ],
+    "html": null
+  }
+}

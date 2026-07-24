@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e07e17c1-704d-39a6-8c75-91e5d1b4de6a/oracle-wins-%247-billion.html",
+    "fetched_at": "2026-07-24T07:00:28.629217-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle wins $7 billion Pentagon software contract",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oracle was awarded a 10-year contract by the U.S. Department of War worth up to $6.99 billion to consolidate Oracle software licenses across the military into a single procurement vehicle. Shares climbed roughly 3% in after-hours trading on Thursday.\nThe agreement, structured as an indefinite-delivery/indefinite-quantity contract under the Department of War's Enterprise Software Initiative, carries a base value of $3.31 billion for an initial five-year ordering period. A five-year option, if exercised, would bring the total to $6.99 billion, the company said. The Naval Information Warfare Center Pacific in San Diego is the contracting activity.\nThe contract covers on-premises software licenses — both perpetual and subscription-based — along with maintenance, consulting, and software-as-a-service offerings. It extends access to all Defense Department organizations, the U.S. Coast Guard, and the intelligence community, according to CNBC.\nPentagon Chief Information Officer Kirsten Davies said the agreement would generate at least $441 million in taxpayer savings \"by fundamentally improving how we procure on-premises Oracle capabilities,\" according to Reuters.\nKim Lynch, executive vice president of government, defense, and intelligence at Oracle, said in a statement that the ESI structure creates \"a more standardized and efficient path to Oracle cloud and AI technology tuned to support mission-critical scenarios.\"\nThe deal follows a pattern established by Davies' office. In May, the Pentagon struck a five-year, $9.69 billion contract with Dell Federal Systems to consolidate Microsoft software licenses across the military services, the intelligence community, and the Coast Guard into a single vehicle, with anticipated annual savings of approximately $422 million. Both deals are designed to eliminate years of duplicative, service-by-service software spending across the department.\nOracle has supplied software to the Department of War since the 1990s, the company said. The department is expected to transition to the new ESI contract vehicle during the summer of 2026.\nThe contract award arrives against a difficult backdrop for Oracle's stock, which has shed 38% of its value this year as investors worry that the rise of AI may erode demand for legacy software vendors. Oracle is also carrying a growing debt load accumulated to fund AI data center construction. The company cut nearly 21,000 jobs in fiscal year 2026 and incurred $1.8 billion in restructuring charges as it deployed AI across its operations. Capital spending reached $55.7 billion in fiscal 2026, with the company targeting approximately $70 billion in net capital expenditures for fiscal 2027.",
+    "text_blocks": [
+      "Oracle was awarded a 10-year contract by the U.S. Department of War worth up to $6.99 billion to consolidate Oracle software licenses across the military into a single procurement vehicle. Shares climbed roughly 3% in after-hours trading on Thursday.",
+      "The agreement, structured as an indefinite-delivery/indefinite-quantity contract under the Department of War's Enterprise Software Initiative, carries a base value of $3.31 billion for an initial five-year ordering period. A five-year option, if exercised, would bring the total to $6.99 billion, the company said. The Naval Information Warfare Center Pacific in San Diego is the contracting activity.",
+      "The contract covers on-premises software licenses — both perpetual and subscription-based — along with maintenance, consulting, and software-as-a-service offerings. It extends access to all Defense Department organizations, the U.S. Coast Guard, and the intelligence community, according to CNBC.",
+      "Pentagon Chief Information Officer Kirsten Davies said the agreement would generate at least $441 million in taxpayer savings \"by fundamentally improving how we procure on-premises Oracle capabilities,\" according to Reuters.",
+      "Kim Lynch, executive vice president of government, defense, and intelligence at Oracle, said in a statement that the ESI structure creates \"a more standardized and efficient path to Oracle cloud and AI technology tuned to support mission-critical scenarios.\"",
+      "The deal follows a pattern established by Davies' office. In May, the Pentagon struck a five-year, $9.69 billion contract with Dell Federal Systems to consolidate Microsoft software licenses across the military services, the intelligence community, and the Coast Guard into a single vehicle, with anticipated annual savings of approximately $422 million. Both deals are designed to eliminate years of duplicative, service-by-service software spending across the department.",
+      "Oracle has supplied software to the Department of War since the 1990s, the company said. The department is expected to transition to the new ESI contract vehicle during the summer of 2026.",
+      "The contract award arrives against a difficult backdrop for Oracle's stock, which has shed 38% of its value this year as investors worry that the rise of AI may erode demand for legacy software vendors. Oracle is also carrying a growing debt load accumulated to fund AI data center construction. The company cut nearly 21,000 jobs in fiscal year 2026 and incurred $1.8 billion in restructuring charges as it deployed AI across its operations. Capital spending reached $55.7 billion in fiscal 2026, with the company targeting approximately $70 billion in net capital expenditures for fiscal 2027."
+    ],
+    "html": null
+  }
+}

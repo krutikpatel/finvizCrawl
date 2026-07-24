@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-climbs-pentagon-awards-123717864.html",
+    "fetched_at": "2026-07-24T07:00:28.742187-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Stock Climbs as Pentagon Awards Potential $7 Billion Software Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) shares rose about 2% early Friday after the software company secured a 10-year U.S. Department of War contract that could be worth up to $6.99 billion.\nThe agreement carries a base value of $3.31 billion for the first five years and could expand to nearly $7 billion if all five option years are exercised. Under the deal, Oracle will provide software for on-premises data centers used across the U.S. military, the Coast Guard, and the intelligence community.\nThe award is part of the Department of War's Enterprise Software Initiative (ESI), a procurement program designed to simplify software purchasing across defense agencies. Officials said the centralized approach is expected to generate about $441 million in taxpayer savings while improving interoperability, cybersecurity, and enterprise-wide technology standardization.\nOracle said the ESI framework also enables government organizations to acquire its commercial offerings through task and delivery orders, including on-premises software, Software-as-a-Service applications, technical support, professional services, and Oracle Cloud and AI technologies tailored to mission requirements. Pricing, deliverables, and performance terms will be established under individual orders issued through the contract.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) shares rose about 2% early Friday after the software company secured a 10-year U.S. Department of War contract that could be worth up to $6.99 billion.",
+      "The agreement carries a base value of $3.31 billion for the first five years and could expand to nearly $7 billion if all five option years are exercised. Under the deal, Oracle will provide software for on-premises data centers used across the U.S. military, the Coast Guard, and the intelligence community.",
+      "The award is part of the Department of War's Enterprise Software Initiative (ESI), a procurement program designed to simplify software purchasing across defense agencies. Officials said the centralized approach is expected to generate about $441 million in taxpayer savings while improving interoperability, cybersecurity, and enterprise-wide technology standardization.",
+      "Oracle said the ESI framework also enables government organizations to acquire its commercial offerings through task and delivery orders, including on-premises software, Software-as-a-Service applications, technical support, professional services, and Oracle Cloud and AI technologies tailored to mission requirements. Pricing, deliverables, and performance terms will be established under individual orders issued through the contract."
+    ],
+    "html": null
+  }
+}

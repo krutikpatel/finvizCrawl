@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amd-nvidia-ai-data-center-chips-ea7aac0d?mod=bar_FV",
+    "fetched_at": "2026-07-24T07:01:04.439134-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "An Emboldened AMD Is Taking Direct Aim at Nvidia<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "An Emboldened AMD Is Taking Direct Aim at Nvidia\nLost in a downbeat day for tech, was a big moment for Advanced Micro Devices. During an event Thursday afternoon called Advancing AI, the company made a compelling case that it’s becoming a true rival to Nvidia.",
+    "text_blocks": [
+      "An Emboldened AMD Is Taking Direct Aim at Nvidia",
+      "Lost in a downbeat day for tech, was a big moment for Advanced Micro Devices. During an event Thursday afternoon called Advancing AI, the company made a compelling case that it’s becoming a true rival to Nvidia."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-falls-below-200-day-122351235.html",
+    "fetched_at": "2026-07-24T07:00:32.880716-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet falls below 200-day average for first time in over a year after earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOG) shares closed below their 200-day moving average for the first time in more than a year after investors weighed the company's latest quarterly results and increased artificial intelligence spending plans.\nAlphabet ended Thursday at $318.34, finishing beneath the closely watched long-term technical indicator after its quarterly earnings prompted a broad reassessment by investors. Although the company reported solid financial results, higher capital expenditure tied to AI infrastructure drew market attention.\nThe move marked Alphabet's first close below its 200-day moving average in more than a year, based on Barchart data. The indicator is widely monitored by market participants as a gauge of long-term price momentum and had served as a support level for much of the past 12 months.\nTechnical analysts generally view a sustained break below the 200-day moving average as a potential sign of weakening long-term momentum. However, many prefer to see the stock remain below that level for several trading sessions before considering it confirmation of a broader trend change.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOG) shares closed below their 200-day moving average for the first time in more than a year after investors weighed the company's latest quarterly results and increased artificial intelligence spending plans.",
+      "Alphabet ended Thursday at $318.34, finishing beneath the closely watched long-term technical indicator after its quarterly earnings prompted a broad reassessment by investors. Although the company reported solid financial results, higher capital expenditure tied to AI infrastructure drew market attention.",
+      "The move marked Alphabet's first close below its 200-day moving average in more than a year, based on Barchart data. The indicator is widely monitored by market participants as a gauge of long-term price momentum and had served as a support level for much of the past 12 months.",
+      "Technical analysts generally view a sustained break below the 200-day moving average as a potential sign of weakening long-term momentum. However, many prefer to see the stock remain below that level for several trading sessions before considering it confirmation of a broader trend change."
+    ],
+    "html": null
+  }
+}
