@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/meta-quits-clean-energy-pledge-002139627.html",
+    "fetched_at": "2026-07-25T07:00:06.041765-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta quits clean energy pledge amid gas-powered data center push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta has abandoned a global pledge by leading companies to source all of their electricity from renewable sources, the social media giant confirmed Friday.\nRE100, an initiative of the UK-based nonprofit Climate Group, aims to spur corporate climate action, and counts Apple, Google and Microsoft among its 444 members.\nThe Climate Group's website no longer lists Meta, the company behind Facebook and Instagram, as a member.\nThe news was first reported by Recharge News, a renewable energy industry outlet.\nMeta joined the pledge in 2016 according to a Wayback Machine archive of RE100's website.\nThe departure comes amid a frenzied data center buildout by leading tech companies. Meta has struck deals paying utilities to bring new natural gas power plants online, including 10 to power its Hyperion data center in Louisiana alone.\nA Meta spokesperson told AFP the company is continuing to scale up investments in renewable energy, and that leaving RE100 does not change its goal of matching its electricity use with 100 percent clean energy.\nIt has met that goal on an annualized basis since 2020, according to its website, by partnering with renewable energy providers on long-term power purchase agreements.\nBut the Climate Group told Recharge News that was no longer enough.\n\"After several in-depth conversations between Meta and Climate Group, Meta has withdrawn from the RE100 initiative, as it is no longer able to meet the technical criteria due to investments made in new gas power,\" a Climate Group spokesperson told the website.\nNatural gas has long been billed as a \"bridge fuel\" between dirtier polluting fossil fuels and renewables such as wind and solar. While its emissions are lower, drilling and extracting it causes the leakage of methane, a powerful greenhouse gas and the main component of natural gas.\nBurning natural gas also causes significant air pollution in the form of nitric oxides, sulfur, mercury and particulates, while hydraulic fracturing or \"fracking,\" can contaminate ground water supplies.\nMeta isn't alone in its pivot. Microsoft signed a deal with Chevron last month to supply natural gas electricity to a data center in West Texas, while Google has also been linked to similar partnerships in press reports.\nia/msp",
+    "text_blocks": [
+      "Meta has abandoned a global pledge by leading companies to source all of their electricity from renewable sources, the social media giant confirmed Friday.",
+      "RE100, an initiative of the UK-based nonprofit Climate Group, aims to spur corporate climate action, and counts Apple, Google and Microsoft among its 444 members.",
+      "The Climate Group's website no longer lists Meta, the company behind Facebook and Instagram, as a member.",
+      "The news was first reported by Recharge News, a renewable energy industry outlet.",
+      "Meta joined the pledge in 2016 according to a Wayback Machine archive of RE100's website.",
+      "The departure comes amid a frenzied data center buildout by leading tech companies. Meta has struck deals paying utilities to bring new natural gas power plants online, including 10 to power its Hyperion data center in Louisiana alone.",
+      "A Meta spokesperson told AFP the company is continuing to scale up investments in renewable energy, and that leaving RE100 does not change its goal of matching its electricity use with 100 percent clean energy.",
+      "It has met that goal on an annualized basis since 2020, according to its website, by partnering with renewable energy providers on long-term power purchase agreements.",
+      "But the Climate Group told Recharge News that was no longer enough.",
+      "\"After several in-depth conversations between Meta and Climate Group, Meta has withdrawn from the RE100 initiative, as it is no longer able to meet the technical criteria due to investments made in new gas power,\" a Climate Group spokesperson told the website.",
+      "Natural gas has long been billed as a \"bridge fuel\" between dirtier polluting fossil fuels and renewables such as wind and solar. While its emissions are lower, drilling and extracting it causes the leakage of methane, a powerful greenhouse gas and the main component of natural gas.",
+      "Burning natural gas also causes significant air pollution in the form of nitric oxides, sulfur, mercury and particulates, while hydraulic fracturing or \"fracking,\" can contaminate ground water supplies.",
+      "Meta isn't alone in its pivot. Microsoft signed a deal with Chevron last month to supply natural gas electricity to a data center in West Texas, while Google has also been linked to similar partnerships in press reports.",
+      "ia/msp"
+    ],
+    "html": null
+  }
+}

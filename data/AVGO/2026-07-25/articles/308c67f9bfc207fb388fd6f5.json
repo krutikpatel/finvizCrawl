@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/south-koreas-sk-hynix-samsung-043721253.html",
+    "fetched_at": "2026-07-25T07:00:31.401305-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "South Korea's SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SEOUL, July 25 (Reuters) - South Korea's Samsung Electronics and SK Hynix will pursue memory chip supply partnership with U.S. big tech companies including Nvidia worth $950 billion overall, South Korea's presidential adviser said on Saturday.\nIt includes the long-term supply of $750 billion in memory chips to U.S. companies by SK Hynix and $200 billion in chips by Samsung Electronics to Broadcom, the presidential adviser, Kim Yong-beom, told a briefing.\n(Reporting by Jack Kim; Editing by Tom Hogue)",
+    "text_blocks": [
+      "SEOUL, July 25 (Reuters) - South Korea's Samsung Electronics and SK Hynix will pursue memory chip supply partnership with U.S. big tech companies including Nvidia worth $950 billion overall, South Korea's presidential adviser said on Saturday.",
+      "It includes the long-term supply of $750 billion in memory chips to U.S. companies by SK Hynix and $200 billion in chips by Samsung Electronics to Broadcom, the presidential adviser, Kim Yong-beom, told a briefing.",
+      "(Reporting by Jack Kim; Editing by Tom Hogue)"
+    ],
+    "html": null
+  }
+}

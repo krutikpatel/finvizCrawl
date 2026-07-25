@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/dell-gains-tech-spending-shifts-165836930.html",
+    "fetched_at": "2026-07-25T07:00:46.656108-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dell Gains as Tech Spending Shifts",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nDell Technologies (DELL, Financials), the hardware company known for servers, storage systems and personal computers, moved higher after IBM said customers redirected spending toward infrastructure and cybersecurity late in the second quarter.\nDell shares rose about 5%, while Hewlett Packard Enterprise gained roughly 4%. Super Micro Computer also traded higher.\nThe move followed comments from IBM CEO Arvind Krishna, who said customers shifted money toward servers, storage and memory during the final weeks of June.\nCybersecurity stocks benefited as well. Okta, CrowdStrike, Zscaler, Tenable, Qualys and Palo Alto Networks each gained at least 6% in early trading, while several other security companies also advanced.\nIBM reported preliminary second-quarter revenue of $17.2 billion, below the $17.85 billion analysts expected. Adjusted earnings of $2.93 per share also missed the $3.02 estimate.\nThe results suggest businesses may not be cutting technology budgets outright. Instead, they may be moving money away from consulting and other projects toward hardware and security.\nThe next test comes July 22, when IBM is scheduled to discuss the quarter and update its full-year outlook.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Dell Technologies (DELL, Financials), the hardware company known for servers, storage systems and personal computers, moved higher after IBM said customers redirected spending toward infrastructure and cybersecurity late in the second quarter.",
+      "Dell shares rose about 5%, while Hewlett Packard Enterprise gained roughly 4%. Super Micro Computer also traded higher.",
+      "The move followed comments from IBM CEO Arvind Krishna, who said customers shifted money toward servers, storage and memory during the final weeks of June.",
+      "Cybersecurity stocks benefited as well. Okta, CrowdStrike, Zscaler, Tenable, Qualys and Palo Alto Networks each gained at least 6% in early trading, while several other security companies also advanced.",
+      "IBM reported preliminary second-quarter revenue of $17.2 billion, below the $17.85 billion analysts expected. Adjusted earnings of $2.93 per share also missed the $3.02 estimate.",
+      "The results suggest businesses may not be cutting technology budgets outright. Instead, they may be moving money away from consulting and other projects toward hardware and security.",
+      "The next test comes July 22, when IBM is scheduled to discuss the quarter and update its full-year outlook."
+    ],
+    "html": null
+  }
+}

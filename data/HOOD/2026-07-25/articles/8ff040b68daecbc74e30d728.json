@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b10c728b-d1c1-394c-b771-4bd7e6f743cb/crypto-exchanges-want-to-be.html",
+    "fetched_at": "2026-07-25T07:00:18.309525-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crypto Exchanges Want to Be Your Broker. The Fine Print Matters",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A trader holding USDT can now move from Bitcoin into gold, oil or a product linked to SpaceX without opening a brokerage account. The balance, interface and trading hours may look familiar. What the trader owns can change with every click.\nThat difference matters as major centralized exchanges like MEXC expand beyond crypto. The exchange now offers commodities, equity futures, pre-IPO products, and access to US-listed shares. Its strategy reflects a wider race among exchanges and fintech apps to become the place where users trade almost anything.\nThe market is growing quickly. Tokenized stocks reached a record market value of about $2.3 billion in July, up from $329 million a year earlier.\nKraken says its xStocks products have generated more than $25 billion in cumulative transaction volume. Robinhood has also expanded its stock-token business, while Coinbase is developing its own tokenized equity offering.\nThe central question is whether exchanges can make traditional markets easier to access without blurring what users are actually buying.\nThe SpaceX Test\nMEXC saw the appetite directly through its SPACEX(PRE) Launchpad. Across two rounds, the exchange says almost 80,000 users submitted close to $200 million in subscriptions.\nFor Vugar Usi, MEXC's CEO, the response showed that crypto traders are looking beyond digital assets.\n\"Users do not necessarily want separate platforms for separate asset classes,\" Usi told BeInCrypto. \"They want one place where they can move between crypto, equities, precious metals and other opportunities with lower friction.\"\nYet SPACEX(PRE) also shows why that convenience requires clearer explanations. Despite being traded through a spot-style interface, the product does not represent direct SpaceX ownership.\nMEXC describes it as a Mirror Credits product that tracks the company's value. Holders receive no voting rights, dividends, or direct shareholder claim.\nThe exchange also offers equity futures, which let users speculate on stock prices with USDT and leverage. Again, traders do not own the underlying shares.\nIts RealStocks service has a different structure. Launched in June, it gives eligible users access to US-listed equities through a securities brokerage partner. MEXC says these purchases represent actual shares and include dividends where applicable.\nThese distinctions can disappear when every product sits inside one app.\nOne Interface, Different Rights\nUS regulators have already identified several tokenization models. A token may represent an indirect interest in shares held by a custodian. It may also be a synthetic contract that tracks a stock without carrying any ownership rights.",
+    "text_blocks": [
+      "A trader holding USDT can now move from Bitcoin into gold, oil or a product linked to SpaceX without opening a brokerage account. The balance, interface and trading hours may look familiar. What the trader owns can change with every click.",
+      "That difference matters as major centralized exchanges like MEXC expand beyond crypto. The exchange now offers commodities, equity futures, pre-IPO products, and access to US-listed shares. Its strategy reflects a wider race among exchanges and fintech apps to become the place where users trade almost anything.",
+      "The market is growing quickly. Tokenized stocks reached a record market value of about $2.3 billion in July, up from $329 million a year earlier.",
+      "Kraken says its xStocks products have generated more than $25 billion in cumulative transaction volume. Robinhood has also expanded its stock-token business, while Coinbase is developing its own tokenized equity offering.",
+      "The central question is whether exchanges can make traditional markets easier to access without blurring what users are actually buying.",
+      "The SpaceX Test",
+      "MEXC saw the appetite directly through its SPACEX(PRE) Launchpad. Across two rounds, the exchange says almost 80,000 users submitted close to $200 million in subscriptions.",
+      "For Vugar Usi, MEXC's CEO, the response showed that crypto traders are looking beyond digital assets.",
+      "\"Users do not necessarily want separate platforms for separate asset classes,\" Usi told BeInCrypto. \"They want one place where they can move between crypto, equities, precious metals and other opportunities with lower friction.\"",
+      "Yet SPACEX(PRE) also shows why that convenience requires clearer explanations. Despite being traded through a spot-style interface, the product does not represent direct SpaceX ownership.",
+      "MEXC describes it as a Mirror Credits product that tracks the company's value. Holders receive no voting rights, dividends, or direct shareholder claim.",
+      "The exchange also offers equity futures, which let users speculate on stock prices with USDT and leverage. Again, traders do not own the underlying shares.",
+      "Its RealStocks service has a different structure. Launched in June, it gives eligible users access to US-listed equities through a securities brokerage partner. MEXC says these purchases represent actual shares and include dividends where applicable.",
+      "These distinctions can disappear when every product sits inside one app.",
+      "One Interface, Different Rights",
+      "US regulators have already identified several tokenization models. A token may represent an indirect interest in shares held by a custodian. It may also be a synthetic contract that tracks a stock without carrying any ownership rights."
+    ],
+    "html": null
+  }
+}

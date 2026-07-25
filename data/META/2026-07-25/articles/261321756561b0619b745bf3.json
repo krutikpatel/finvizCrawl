@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-palantir-lead-big-235955088.html",
+    "fetched_at": "2026-07-25T07:00:09.601190-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT), Meta Platforms (META) and Palantir Technologies (NASDAQ:PLTR) joined more than 20 technology companies in urging U.S. policymakers to avoid imposing early restrictions on open-weight artificial intelligence models.\nThe companies said open-weight AI models, which users can download, modify and operate on their own systems, help broaden competition and encourage innovation. The letter argued that concerns over misuse or intellectual property theft should be addressed through targeted legal measures rather than broad regulatory limits.\nThe appeal comes as Chinese open-weight AI models gain traction, prompting debate in Washington over potential restrictions. Earlier this week, White House officials said they were reviewing allegations that Chinese developers may have improperly used U.S. AI technology.\nNvidia Chief Executive Jensen Huang and Microsoft Chief Executive Satya Nadella shared the letter on social media. However, OpenAI and Anthropic, both developers of proprietary AI models, did not sign the statement despite preparing for potential initial public offerings.\nThe group said maintaining an open AI ecosystem would help preserve U.S. leadership in artificial intelligence while supporting innovation across industries, instead of concentrating advanced capabilities among a limited number of closed-model providers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT), Meta Platforms (META) and Palantir Technologies (NASDAQ:PLTR) joined more than 20 technology companies in urging U.S. policymakers to avoid imposing early restrictions on open-weight artificial intelligence models.",
+      "The companies said open-weight AI models, which users can download, modify and operate on their own systems, help broaden competition and encourage innovation. The letter argued that concerns over misuse or intellectual property theft should be addressed through targeted legal measures rather than broad regulatory limits.",
+      "The appeal comes as Chinese open-weight AI models gain traction, prompting debate in Washington over potential restrictions. Earlier this week, White House officials said they were reviewing allegations that Chinese developers may have improperly used U.S. AI technology.",
+      "Nvidia Chief Executive Jensen Huang and Microsoft Chief Executive Satya Nadella shared the letter on social media. However, OpenAI and Anthropic, both developers of proprietary AI models, did not sign the statement despite preparing for potential initial public offerings.",
+      "The group said maintaining an open AI ecosystem would help preserve U.S. leadership in artificial intelligence while supporting innovation across industries, instead of concentrating advanced capabilities among a limited number of closed-model providers."
+    ],
+    "html": null
+  }
+}

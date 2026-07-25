@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/spacex-lands-with-a-thud-ea6985a4?mod=bar_FV",
+    "fetched_at": "2026-07-25T07:00:39.293411-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Lands With a Thud<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "SpaceX Lands With a Thud\nJust over a month since its initial public offering, SpaceX has delivered one of the weakest post-debut performances of any major U.S. listing since the end of the 2008-2009 financial crisis.\nJust over a month since its initial public offering, SpaceX has delivered one of the weakest post-debut performances of any major U.S. listing since the end of the 2008-2009 financial crisis.",
+    "text_blocks": [
+      "SpaceX Lands With a Thud",
+      "Just over a month since its initial public offering, SpaceX has delivered one of the weakest post-debut performances of any major U.S. listing since the end of the 2008-2009 financial crisis.",
+      "Just over a month since its initial public offering, SpaceX has delivered one of the weakest post-debut performances of any major U.S. listing since the end of the 2008-2009 financial crisis."
+    ],
+    "html": null
+  }
+}

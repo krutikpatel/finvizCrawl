@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/ai-memory-stocks-lead-chip-182413900.html",
+    "fetched_at": "2026-07-25T07:00:42.887934-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Memory Stocks Lead Chip Selloff",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI memory and semiconductor stocks fell broadly Friday after steep losses in Asian markets spilled into U.S. trading, pressuring some of the year's strongest technology names.\nSouth Korea's Kospi plunged 5.7%, with SK hynix down about 11% and Samsung (SSNLF) Electronics falling nearly 8%. Japan's Nikkei 225 dropped 2.7% as Kioxia, Tokyo Electron and Advantest posted sharp declines.\nThe weakness quickly spread to U.S.-listed memory stocks. Micron (NASDAQ:MU) fell around 6%, while Sandisk (NASDAQ:SNDK) and SK hynix's ADR each dropped roughly 7%. Western Digital (NASDAQ:WDC) lost about 5%, and Seagate (NASDAQ:STX) declined nearly 4%.\nOther AI-related stocks also moved lower. AMD (NASDAQ:AMD) fell nearly 2%, Broadcom dropped about 2%, and Intel (NASDAQ:INTC) slid almost 4% despite reporting stronger-than-expected results. Networking and optical names, including Coherent, Lumentum and Celestica, suffered even steeper declines.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI memory and semiconductor stocks fell broadly Friday after steep losses in Asian markets spilled into U.S. trading, pressuring some of the year's strongest technology names.",
+      "South Korea's Kospi plunged 5.7%, with SK hynix down about 11% and Samsung (SSNLF) Electronics falling nearly 8%. Japan's Nikkei 225 dropped 2.7% as Kioxia, Tokyo Electron and Advantest posted sharp declines.",
+      "The weakness quickly spread to U.S.-listed memory stocks. Micron (NASDAQ:MU) fell around 6%, while Sandisk (NASDAQ:SNDK) and SK hynix's ADR each dropped roughly 7%. Western Digital (NASDAQ:WDC) lost about 5%, and Seagate (NASDAQ:STX) declined nearly 4%.",
+      "Other AI-related stocks also moved lower. AMD (NASDAQ:AMD) fell nearly 2%, Broadcom dropped about 2%, and Intel (NASDAQ:INTC) slid almost 4% despite reporting stronger-than-expected results. Networking and optical names, including Coherent, Lumentum and Celestica, suffered even steeper declines."
+    ],
+    "html": null
+  }
+}

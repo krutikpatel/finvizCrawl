@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a5852de3-64cd-3f94-a503-cdb824bd49b7/the-hidden-volatility-brewing.html",
+    "fetched_at": "2026-07-25T07:00:22.517806-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Hidden Volatility Brewing Inside Intuit Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "If you hold shares in the tax software giant, the market is pricing a future that could look radically different a year from now, and you already own that risk.\nFor shareholders of Intuit (INTU), the central question is whether the company's new, fast-growing businesses can outrun the persistent troubles in its old core. It's a high-stakes race, and the options market has priced a stunningly wide range of possible outcomes. If you own the stock, you're sitting on that full, two-sided potential swing, whether you trade options or not.\nThat priced-in uncertainty is not a subtle tremor. Based on options expiring over the next year, the market is giving Intuit a 68% probability of finishing somewhere between a floor near $160 and a ceiling near $491.49. From today's price of about $281.53, the path to that ceiling represents a 75% gain. The drop to the floor is a 43% decline. This is the risk you already own: a future where the stock could be sharply higher or lower, with both scenarios very much on the table.\nWhy Is the Market Pricing More Uncertainty Than Usual?\nThis isn't just business as usual. The options market's gauge of expected turbulence, its implied volatility, is currently 59%. That's running at 1.27 times the stock's realized volatility of 46%, a measure of how much it has actually moved over the past year. In simpler terms, traders are pricing in significantly more drama ahead than the stock has recently delivered. In fact, this level of implied volatility sits in the 98th percentile of its own one-year range, signaling an unusually high degree of investor anxiety.\nWhat's Fueling This Two-Sided Uncertainty?\nThe tension comes from a company fighting a war on two fronts. On one side, Intuit has powerful new growth drivers. Management highlights that its \"Assisted tax, money, portfolio, and mid-market\" segments are all \"growing north of 30%.\" The star of this show is TurboTax Live, where the company expects revenue to grow 36% this year. This isn't a niche product; it now represents over half of all TurboTax revenue, a major strategic shift that is clearly working.\nBut on the other front, the legacy Do-It-Yourself tax business is struggling. Management admits it is \"constructively dissatisfied\" with its performance among price-sensitive filers, stating bluntly, \"We lost on price.\" This weakness is happening as the entire market of IRS filers is expected to decline. Add in a drag from the Mailchimp acquisition, and you have the ingredients for the downside scenario. For what it's worth, options traders are currently paying more for upside calls than for downside puts, but the sheer size of the potential move in either direction is the real story.",
+    "text_blocks": [
+      "If you hold shares in the tax software giant, the market is pricing a future that could look radically different a year from now, and you already own that risk.",
+      "For shareholders of Intuit (INTU), the central question is whether the company's new, fast-growing businesses can outrun the persistent troubles in its old core. It's a high-stakes race, and the options market has priced a stunningly wide range of possible outcomes. If you own the stock, you're sitting on that full, two-sided potential swing, whether you trade options or not.",
+      "That priced-in uncertainty is not a subtle tremor. Based on options expiring over the next year, the market is giving Intuit a 68% probability of finishing somewhere between a floor near $160 and a ceiling near $491.49. From today's price of about $281.53, the path to that ceiling represents a 75% gain. The drop to the floor is a 43% decline. This is the risk you already own: a future where the stock could be sharply higher or lower, with both scenarios very much on the table.",
+      "Why Is the Market Pricing More Uncertainty Than Usual?",
+      "This isn't just business as usual. The options market's gauge of expected turbulence, its implied volatility, is currently 59%. That's running at 1.27 times the stock's realized volatility of 46%, a measure of how much it has actually moved over the past year. In simpler terms, traders are pricing in significantly more drama ahead than the stock has recently delivered. In fact, this level of implied volatility sits in the 98th percentile of its own one-year range, signaling an unusually high degree of investor anxiety.",
+      "What's Fueling This Two-Sided Uncertainty?",
+      "The tension comes from a company fighting a war on two fronts. On one side, Intuit has powerful new growth drivers. Management highlights that its \"Assisted tax, money, portfolio, and mid-market\" segments are all \"growing north of 30%.\" The star of this show is TurboTax Live, where the company expects revenue to grow 36% this year. This isn't a niche product; it now represents over half of all TurboTax revenue, a major strategic shift that is clearly working.",
+      "But on the other front, the legacy Do-It-Yourself tax business is struggling. Management admits it is \"constructively dissatisfied\" with its performance among price-sensitive filers, stating bluntly, \"We lost on price.\" This weakness is happening as the entire market of IRS filers is expected to decline. Add in a drag from the Mailchimp acquisition, and you have the ingredients for the downside scenario. For what it's worth, options traders are currently paying more for upside calls than for downside puts, but the sheer size of the potential move in either direction is the real story."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/samsung-elec-wins-200-billion-091154275.html",
+    "fetched_at": "2026-07-25T07:00:31.452111-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Heekyong Yang\nSEOUL, July 25 (Reuters) - Samsung Electronics said on Saturday it struck a pact with U.S. chip designer Broadcom to widen cooperation across memory chips, contract chip making and advanced packaging envisaged to exceed $200 billion until 2030.\nWinning long-term production commitments from Broadcom, one of the world's leading custom AI chip designers, could boost utilisation at Samsung's advanced manufacturing facilities to pull ahead in the race to supply AI chips.\n\"The expanded collaboration ... reflects Samsung's focus on supporting customers with end-to-end semiconductor technologies across an increasingly diverse range of AI and high-performance computing applications,\" the company said in a statement.\nThe tie-up comes as global technology companies increasingly develop their own custom AI accelerators, rather than relying solely on general-purpose graphics processors, driving demand for specialised chip design and manufacturing partnerships.\nThe two firms' memorandum of understanding underscores Samsung's efforts to beef up its position in AI semiconductors by expanding its long-term ties with Broadcom amid growing demand up for custom AI processors.\nThe next five years of collaboration will combine Broadcom's expertise in designing application-specific integrated circuits (ASICs), or chips for specific tasks, with Samsung's manufacturing capabilities.\nThe deal provides for Broadcom's next-generation communications chips, designed for high-speed data transfer, to be made with Samsung's sub-2-nanometre process technology, Samsung said.\nThe two will also collaborate on next-generation high-bandwidth memory (HBM) products.\nThe partnership could help strengthen Samsung's foundry business, as it seeks to narrow the gap with industry leader TSMC by wooing major technology customers.\nLast month, co-CEO and chip division head Jun Young-hyun said he discussed next-generation foundry cooperation with Jensen Huang, chief executive of Nvidia, including future HBM4E and HBM5 memory products.\nSamsung said this year it expected to secure more advanced 2-nanometre foundry orders in the near term after discussions with major tech companies. Last year, it won a $16.5-billion contract to make logic chips for EV maker Tesla.\n(Reporting by Heekyong Yang; Editing by Clarence Fernandez)",
+    "text_blocks": [
+      "By Heekyong Yang",
+      "SEOUL, July 25 (Reuters) - Samsung Electronics said on Saturday it struck a pact with U.S. chip designer Broadcom to widen cooperation across memory chips, contract chip making and advanced packaging envisaged to exceed $200 billion until 2030.",
+      "Winning long-term production commitments from Broadcom, one of the world's leading custom AI chip designers, could boost utilisation at Samsung's advanced manufacturing facilities to pull ahead in the race to supply AI chips.",
+      "\"The expanded collaboration ... reflects Samsung's focus on supporting customers with end-to-end semiconductor technologies across an increasingly diverse range of AI and high-performance computing applications,\" the company said in a statement.",
+      "The tie-up comes as global technology companies increasingly develop their own custom AI accelerators, rather than relying solely on general-purpose graphics processors, driving demand for specialised chip design and manufacturing partnerships.",
+      "The two firms' memorandum of understanding underscores Samsung's efforts to beef up its position in AI semiconductors by expanding its long-term ties with Broadcom amid growing demand up for custom AI processors.",
+      "The next five years of collaboration will combine Broadcom's expertise in designing application-specific integrated circuits (ASICs), or chips for specific tasks, with Samsung's manufacturing capabilities.",
+      "The deal provides for Broadcom's next-generation communications chips, designed for high-speed data transfer, to be made with Samsung's sub-2-nanometre process technology, Samsung said.",
+      "The two will also collaborate on next-generation high-bandwidth memory (HBM) products.",
+      "The partnership could help strengthen Samsung's foundry business, as it seeks to narrow the gap with industry leader TSMC by wooing major technology customers.",
+      "Last month, co-CEO and chip division head Jun Young-hyun said he discussed next-generation foundry cooperation with Jensen Huang, chief executive of Nvidia, including future HBM4E and HBM5 memory products.",
+      "Samsung said this year it expected to secure more advanced 2-nanometre foundry orders in the near term after discussions with major tech companies. Last year, it won a $16.5-billion contract to make logic chips for EV maker Tesla.",
+      "(Reporting by Heekyong Yang; Editing by Clarence Fernandez)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-lead-push-open-184846210.html",
+    "fetched_at": "2026-07-25T07:00:34.333253-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNVIDIA (NASDAQ:NVDA), a leading supplier of artificial intelligence chips, and Microsoft (NASDAQ:MSFT), a major technology company and AI developer, have led a coalition of technology firms calling on US policymakers to support the development of open-weight artificial intelligence models. The group argued that open-weight systems could help the United States maintain its technological leadership by making advanced AI more accessible, adaptable, and widely available to developers and businesses. Palantir Technologies (NASDAQ:PLTR), a technology company, and Meta Platforms (NASDAQ:META), a technology company developing AI systems, also joined the effort, which was outlined in a letter released Friday. NVIDIA CEO Jensen Huang shared the letter through his first post on a new personal X account, while Microsoft CEO Satya Nadella also distributed the message from his account.\nThe coalition's appeal came one week after Moonshot AI, a Chinese artificial intelligence startup, introduced an open-weight model called Kimi K3, which the company said could rival leading products from OpenAI, an artificial intelligence developer, and Anthropic, an artificial intelligence company. The release unsettled investors and encouraged policymakers in Washington to consider possible restrictions on Chinese AI technology. DeepSeek, a Chinese developer of open AI models, and other Chinese companies have already introduced more affordable systems that generally trail the most advanced US software but may still compete through lower pricing. OpenAI also provides open alternatives, although much of its business remains focused on proprietary models sold to companies and customers to help recover the substantial cost of developing advanced AI systems.\nAlthough the letter did not mention China, Moonshot AI, or Kimi K3, the coalition emphasized the importance of strengthening US competitiveness through a broad and open AI ecosystem. The companies argued that American leadership may depend less on a single frontier model and more on whether AI technology can spread across industries and support wider innovation and economic opportunity. Investors may view stronger policy support for open-weight models as potentially beneficial for global AI adoption, which could increase demand for the chips required to develop and operate these systems. This expansion may support additional sales for NVIDIA while helping US technology companies respond to growing competition from lower-cost Chinese models.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "NVIDIA (NASDAQ:NVDA), a leading supplier of artificial intelligence chips, and Microsoft (NASDAQ:MSFT), a major technology company and AI developer, have led a coalition of technology firms calling on US policymakers to support the development of open-weight artificial intelligence models. The group argued that open-weight systems could help the United States maintain its technological leadership by making advanced AI more accessible, adaptable, and widely available to developers and businesses. Palantir Technologies (NASDAQ:PLTR), a technology company, and Meta Platforms (NASDAQ:META), a technology company developing AI systems, also joined the effort, which was outlined in a letter released Friday. NVIDIA CEO Jensen Huang shared the letter through his first post on a new personal X account, while Microsoft CEO Satya Nadella also distributed the message from his account.",
+      "The coalition's appeal came one week after Moonshot AI, a Chinese artificial intelligence startup, introduced an open-weight model called Kimi K3, which the company said could rival leading products from OpenAI, an artificial intelligence developer, and Anthropic, an artificial intelligence company. The release unsettled investors and encouraged policymakers in Washington to consider possible restrictions on Chinese AI technology. DeepSeek, a Chinese developer of open AI models, and other Chinese companies have already introduced more affordable systems that generally trail the most advanced US software but may still compete through lower pricing. OpenAI also provides open alternatives, although much of its business remains focused on proprietary models sold to companies and customers to help recover the substantial cost of developing advanced AI systems.",
+      "Although the letter did not mention China, Moonshot AI, or Kimi K3, the coalition emphasized the importance of strengthening US competitiveness through a broad and open AI ecosystem. The companies argued that American leadership may depend less on a single frontier model and more on whether AI technology can spread across industries and support wider innovation and economic opportunity. Investors may view stronger policy support for open-weight models as potentially beneficial for global AI adoption, which could increase demand for the chips required to develop and operate these systems. This expansion may support additional sales for NVIDIA while helping US technology companies respond to growing competition from lower-cost Chinese models."
+    ],
+    "html": null
+  }
+}
