@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/tesla-buy-power-arizona-solar-121907165.html",
+    "fetched_at": "2026-07-28T07:00:07.625211-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla to buy power from Arizona solar project",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Tesla Inc. has signed a long-term agreement to purchase electricity from a solar and battery project in Arizona backed by KKR & Co., developer ContourGlobal announced Tuesday.\nContourGlobal will sell 90% of the output from Project Sterling to Tesla. The facility is set to begin operations in 2028 and will feature 509 megawatts of peak solar generation and 360 megawatts of four-hour battery storage. The companies did not disclose financial terms.\nThe plant will connect to the grid managed by the Western Area Power Administration with access to California.\nProject Sterling will become the largest renewable asset in ContourGlobal's portfolio. The company acquired the project in late 2024 and will trade the remaining 10% of output independently.\nAverage electricity prices for consumers are projected to rise 4.3% this year to a record 14.22 cents per kilowatt-hour, according to US Energy Information Administration data dating back to the late 1990s.\nThis marks the first deal between Tesla and ContourGlobal. Power purchase agreements of this type typically span 10 to 15 years.\nRelated articles\nTesla to buy power from Arizona solar project\nNvidia's new Alpamayo project: What it means for Tesla?\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- Tesla Inc. has signed a long-term agreement to purchase electricity from a solar and battery project in Arizona backed by KKR & Co., developer ContourGlobal announced Tuesday.",
+      "ContourGlobal will sell 90% of the output from Project Sterling to Tesla. The facility is set to begin operations in 2028 and will feature 509 megawatts of peak solar generation and 360 megawatts of four-hour battery storage. The companies did not disclose financial terms.",
+      "The plant will connect to the grid managed by the Western Area Power Administration with access to California.",
+      "Project Sterling will become the largest renewable asset in ContourGlobal's portfolio. The company acquired the project in late 2024 and will trade the remaining 10% of output independently.",
+      "Average electricity prices for consumers are projected to rise 4.3% this year to a record 14.22 cents per kilowatt-hour, according to US Energy Information Administration data dating back to the late 1990s.",
+      "This marks the first deal between Tesla and ContourGlobal. Power purchase agreements of this type typically span 10 to 15 years.",
+      "Related articles",
+      "Tesla to buy power from Arizona solar project",
+      "Nvidia's new Alpamayo project: What it means for Tesla?",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/big-tech-stocks-are-pricing-in-a-miracle-on-costs-6d93664f?mod=wsj_FV",
+    "fetched_at": "2026-07-28T07:00:23.742371-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Big Tech Stocks Are Pricing In a Miracle on Costs - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street’s forecasts for Big Tech require a major leap of faith: that the biggest AI hyperscalers can boost revenue much faster than the costs of running their businesses. Some of the numbers look too good to be true.\nInvestors are already on edge about these companies’ soaring capital expenditures related to artificial intelligence. S&P this month cut Oracle’s ORCL credit rating to one notch above junk. Alphabet GOOGL shares slipped last week after the Google parent boosted its capex estimates. Microsoft MSFT and Meta Platforms META report earnings Wednesday, while Amazon.com’s AMZN results are due Thursday.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Wall Street’s forecasts for Big Tech require a major leap of faith: that the biggest AI hyperscalers can boost revenue much faster than the costs of running their businesses. Some of the numbers look too good to be true.",
+      "Investors are already on edge about these companies’ soaring capital expenditures related to artificial intelligence. S&P this month cut Oracle’s ORCL credit rating to one notch above junk. Alphabet GOOGL shares slipped last week after the Google parent boosted its capex estimates. Microsoft MSFT and Meta Platforms META report earnings Wednesday, while Amazon.com’s AMZN results are due Thursday.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

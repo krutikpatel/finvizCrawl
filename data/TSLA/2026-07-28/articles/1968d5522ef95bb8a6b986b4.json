@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-faces-earnings-lock-pressure-121438132.html",
+    "fetched_at": "2026-07-28T07:00:07.435657-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Faces Earnings and Lock-Up Pressure After Rout",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSpaceX (NASDAQ:SPCX) has erased more than $1.2 trillion in market value since peaking at $225.64 in June, a decline roughly equal to Tesla's (NASDAQ:TSLA) entire market capitalisation.\nShares fell more than 1% on Monday to $113.50, marking the stock's 13th decline in 16 sessions. The prolonged slump comes as investors turn more cautious on richly valued AI and technology names facing heavy capital spending.\nOptions activity remains highly speculative. Put volume outweighed calls by premium, but several of the day's largest trades were neutral to bullish, including put-spread sales that would benefit from a rebound. Retail traders also continued buying extremely unlikely calls, including contracts requiring the stock to nearly triple within days.\nThe next major test is SpaceX's first earnings report since its IPO. Up to 911.5 million locked-up shares could become eligible for partial sale on August 6, potentially adding further pressure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SpaceX (NASDAQ:SPCX) has erased more than $1.2 trillion in market value since peaking at $225.64 in June, a decline roughly equal to Tesla's (NASDAQ:TSLA) entire market capitalisation.",
+      "Shares fell more than 1% on Monday to $113.50, marking the stock's 13th decline in 16 sessions. The prolonged slump comes as investors turn more cautious on richly valued AI and technology names facing heavy capital spending.",
+      "Options activity remains highly speculative. Put volume outweighed calls by premium, but several of the day's largest trades were neutral to bullish, including put-spread sales that would benefit from a rebound. Retail traders also continued buying extremely unlikely calls, including contracts requiring the stock to nearly triple within days.",
+      "The next major test is SpaceX's first earnings report since its IPO. Up to 911.5 million locked-up shares could become eligible for partial sale on August 6, potentially adding further pressure."
+    ],
+    "html": null
+  }
+}

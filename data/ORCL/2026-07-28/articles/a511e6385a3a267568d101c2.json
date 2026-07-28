@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rising-cds-talk-wall-123955612.html",
+    "fetched_at": "2026-07-28T07:00:24.092840-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia’s rising CDS the talk of Wall Street amid circular financing fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Nvidia's five-year credit default swap surged to a record 82 basis points on Monday, July 27, its largest single-day intraday gain since the contract began actively trading in November 2025, according to ICE Data Services.\nNvidia (NASDAQ: NVDA) shares fell 4.99% on Monday to close at $196.51, stripping roughly $250 billion from the chipmaker's market value and ceding the title of world's most valuable company to Apple, which rose more than 1% to a market cap of roughly $4.95 trillion on the day. Pre-market pricing on Tuesday points to a further decline, with shares quoted at $194.84 ahead of the open.\nThe CDS move was triggered by Bloomberg reporting that Nvidia is working on AI infrastructure deals potentially worth more than $750 billion in total, including a $250 billion financing guarantee to help OpenAI lease capacity from a planned Ohio data center and a separate arrangement to help finance $350 billion of OpenAI chip purchases.\nBloomberg cited anonymous sources and described the negotiations as early-stage. The Financial Times also reported, based on its own sourcing, that Nvidia is behind a $50 billion lease on a Texas data center that will rely on its own chips, with CEO Jensen Huang deploying Nvidia's balance sheet to backstop the broader AI computing market.\n\"I never looked at NVDA CDS before yesterday... Why would I? It's NVDA. The largest and most profitable company in the world,\" wrote Daniel O'Regan, Managing Director of Equity Trading at Mizuho. \"NVDA CDS was ticking around 68 bps on Friday, up from 40 at the beginning of the month. Then it spiked another 10 bps on Monday after the article(s) hit.\"\nThe anxiety centers on what credit analysts are calling \"circular financing.\" Nvidia takes equity stakes in or provides debt guarantees to customers such as OpenAI and CoreWeave, which then use the capital to purchase Nvidia's own chips, potentially inflating apparent demand. Bloomberg reported that Nvidia has already announced more than $540 billion of such deals in 2026 alone, excluding the potential new OpenAI arrangement. Both the IMF and the Bank for International Settlements have flagged AI circular financing as a systemic downside risk.\n\"Nvidia guaranteeing more of OpenAI's data center debt deepens vendor financing that's already under scrutiny,\" said Billy Leung, Investment Strategist at Global X Management, speaking to Bloomberg. \"It's as much a reminder of funding strain in the AI buildout as it is a demand signal.\"\nThe credit stress has spread beyond Nvidia. S&P Global recently downgraded Oracle to BBB-, its lowest investment-grade rating, and Oracle's five-year CDS widened to 215 basis points. Last week, Alphabet reported negative free cash flow for the first time since its IPO amid the AI buildout.",
+    "text_blocks": [
+      "Investing.com -- Nvidia's five-year credit default swap surged to a record 82 basis points on Monday, July 27, its largest single-day intraday gain since the contract began actively trading in November 2025, according to ICE Data Services.",
+      "Nvidia (NASDAQ: NVDA) shares fell 4.99% on Monday to close at $196.51, stripping roughly $250 billion from the chipmaker's market value and ceding the title of world's most valuable company to Apple, which rose more than 1% to a market cap of roughly $4.95 trillion on the day. Pre-market pricing on Tuesday points to a further decline, with shares quoted at $194.84 ahead of the open.",
+      "The CDS move was triggered by Bloomberg reporting that Nvidia is working on AI infrastructure deals potentially worth more than $750 billion in total, including a $250 billion financing guarantee to help OpenAI lease capacity from a planned Ohio data center and a separate arrangement to help finance $350 billion of OpenAI chip purchases.",
+      "Bloomberg cited anonymous sources and described the negotiations as early-stage. The Financial Times also reported, based on its own sourcing, that Nvidia is behind a $50 billion lease on a Texas data center that will rely on its own chips, with CEO Jensen Huang deploying Nvidia's balance sheet to backstop the broader AI computing market.",
+      "\"I never looked at NVDA CDS before yesterday... Why would I? It's NVDA. The largest and most profitable company in the world,\" wrote Daniel O'Regan, Managing Director of Equity Trading at Mizuho. \"NVDA CDS was ticking around 68 bps on Friday, up from 40 at the beginning of the month. Then it spiked another 10 bps on Monday after the article(s) hit.\"",
+      "The anxiety centers on what credit analysts are calling \"circular financing.\" Nvidia takes equity stakes in or provides debt guarantees to customers such as OpenAI and CoreWeave, which then use the capital to purchase Nvidia's own chips, potentially inflating apparent demand. Bloomberg reported that Nvidia has already announced more than $540 billion of such deals in 2026 alone, excluding the potential new OpenAI arrangement. Both the IMF and the Bank for International Settlements have flagged AI circular financing as a systemic downside risk.",
+      "\"Nvidia guaranteeing more of OpenAI's data center debt deepens vendor financing that's already under scrutiny,\" said Billy Leung, Investment Strategist at Global X Management, speaking to Bloomberg. \"It's as much a reminder of funding strain in the AI buildout as it is a demand signal.\"",
+      "The credit stress has spread beyond Nvidia. S&P Global recently downgraded Oracle to BBB-, its lowest investment-grade rating, and Oracle's five-year CDS widened to 215 basis points. Last week, Alphabet reported negative free cash flow for the first time since its IPO amid the AI buildout."
+    ],
+    "html": null
+  }
+}

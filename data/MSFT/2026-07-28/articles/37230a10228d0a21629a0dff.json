@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-unveils-lower-cost-ai-123038441.html",
+    "fetched_at": "2026-07-28T07:00:30.287615-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Unveils Lower-Cost AI Model for Cybersecurity",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (MSFT, Financials), the software and cloud computing company, introduced its first artificial intelligence model built specifically to find security flaws in source code.\nThe model, called MAI-Cyber-1-Flash, will work with OpenAI's GPT-5.4 inside Project Perception, a group of AI agents designed to detect and repair vulnerabilities.\nMicrosoft said the combined system outperformed competing security models on the CyberGym benchmark while operating at about half the cost.\nProject Perception will enter public preview on Aug. 3. The tools can recommend code changes and apply fixes with customer approval. They can also connect with products outside Microsoft's ecosystem.\nThe launch is Microsoft's first major cybersecurity initiative since Hayete Gallot returned in February to lead the business.\nThe company is trying to improve efficiency as cyberattacks become faster and more sophisticated. Generative AI has lowered the cost of both attacking and defending software systems.\nMicrosoft has not updated the size of its cybersecurity business since 2023, when annual revenue topped $20 billion.\nThe company is also investing more heavily in its own AI models as investors question its reliance on OpenAI and rising infrastructure spending.\nInvestors will now watch adoption of Project Perception, cost savings and future cybersecurity revenue growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (MSFT, Financials), the software and cloud computing company, introduced its first artificial intelligence model built specifically to find security flaws in source code.",
+      "The model, called MAI-Cyber-1-Flash, will work with OpenAI's GPT-5.4 inside Project Perception, a group of AI agents designed to detect and repair vulnerabilities.",
+      "Microsoft said the combined system outperformed competing security models on the CyberGym benchmark while operating at about half the cost.",
+      "Project Perception will enter public preview on Aug. 3. The tools can recommend code changes and apply fixes with customer approval. They can also connect with products outside Microsoft's ecosystem.",
+      "The launch is Microsoft's first major cybersecurity initiative since Hayete Gallot returned in February to lead the business.",
+      "The company is trying to improve efficiency as cyberattacks become faster and more sophisticated. Generative AI has lowered the cost of both attacking and defending software systems.",
+      "Microsoft has not updated the size of its cybersecurity business since 2023, when annual revenue topped $20 billion.",
+      "The company is also investing more heavily in its own AI models as investors question its reliance on OpenAI and rising infrastructure spending.",
+      "Investors will now watch adoption of Project Perception, cost savings and future cybersecurity revenue growth."
+    ],
+    "html": null
+  }
+}

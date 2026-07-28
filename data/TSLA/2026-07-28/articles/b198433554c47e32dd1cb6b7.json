@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-loses-1-2-trillion-123147391.html",
+    "fetched_at": "2026-07-28T07:00:07.487811-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Loses $1.2 Trillion in Market Value",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAerospace and satellite business SpaceX (SPCX, Financials) has shed more than $1.2 trillion in market value from its record high of $225.64 in June, indicating a major reversal in investor opinion toward high-growth technology stocks.Shares dropped more than 1% Monday to close at $113.50, extending their slide to 13 losses in the last 16 trading sessions. The decline has destroyed an amount of market value close to that of Tesla's current market cap.Options activity exhibited mixed sentiment despite the recent dip. By value of premium, more puts traded than calls, while some of the largest institutional trades were neutral to bullish. Market data showed that retail traders were still snapping up cheap call options, betting on a quick bounce.Wall Street is focusing more on returns on artificial intelligence investments, analysts said, making them more wary of companies with large capital expenditures.Attention now turns to SpaceX's first earnings report after its record IPO. The results also will trigger the expiration of a lock-up period that will make up to 911.5 million shares eligible to be sold beginning Aug. 6.Investors will now turn to results, management outlook and the possible impact of more shares hitting the market.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Aerospace and satellite business SpaceX (SPCX, Financials) has shed more than $1.2 trillion in market value from its record high of $225.64 in June, indicating a major reversal in investor opinion toward high-growth technology stocks.Shares dropped more than 1% Monday to close at $113.50, extending their slide to 13 losses in the last 16 trading sessions. The decline has destroyed an amount of market value close to that of Tesla's current market cap.Options activity exhibited mixed sentiment despite the recent dip. By value of premium, more puts traded than calls, while some of the largest institutional trades were neutral to bullish. Market data showed that retail traders were still snapping up cheap call options, betting on a quick bounce.Wall Street is focusing more on returns on artificial intelligence investments, analysts said, making them more wary of companies with large capital expenditures.Attention now turns to SpaceX's first earnings report after its record IPO. The results also will trigger the expiration of a lock-up period that will make up to 911.5 million shares eligible to be sold beginning Aug. 6.Investors will now turn to results, management outlook and the possible impact of more shares hitting the market."
+    ],
+    "html": null
+  }
+}

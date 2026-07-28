@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/81f25b5f-bc0c-3256-ba5d-553566041bb3/amd-secures-up-to-2.5-gw-of.html",
+    "fetched_at": "2026-07-28T07:00:44.360556-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD secures up to 2.5 GW of AI data center capacity from Core Scientific",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AMD and Core Scientific announced a partnership on Tuesday under which AMD will secure up to 2.5 gigawatts of data center capacity to support customer deployments of AMD AI products.\nThe agreement gives AMD access to more than 500 megawatts of U.S. infrastructure beginning in 2027, with the ability to expand to 2.5 gigawatts, the companies said. Under the deal, Core Scientific and AMD will collaborate on physical infrastructure design and the deployment of AMD Instinct GPUs, EPYC CPUs, and ROCm software.\nThe first phase involves 529 megawatts of U.S. AI capacity committed under 15-year leases, with the company projecting base contracted revenue exceeding $14 billion, according to CoinDesk. AMD itself took on 377 megawatts at Core Scientific facilities in Pecos, Hunt County, Texas, and Muskogee, Oklahoma. A cloud provider whose name was not disclosed signed agreements backed by AMD for 152 megawatts at locations in Auburn, Alabama, and Dalton, Georgia.\nAMD also received warrants to purchase Core Scientific common stock, subject to certain commercial conditions, the companies said. AMD received warrants to purchase up to 30 million Core Scientific shares at $23.47 per share, with about 6.5 million vesting when the initial leases were signed.\n\"Core Scientific's extensive portfolio of AI-ready data centers expands access to the infrastructure our customers need to deploy AMD AI solutions at scale,\" said Mathew Hein, senior vice president and chief strategy officer of corporate development at AMD, in a statement.\n\"Our proven execution capabilities and ability to deliver high-density infrastructure at scale position us to support AMD's technology roadmap and grow our relationship meaningfully over time,\" said Adam Sullivan, chief executive officer of Core Scientific, in a statement.\nCore Scientific stock jumped about 6% in premarket trading on Tuesday, while AMD stock was down about 4%.\nThe deal accelerates Core Scientific's shift away from bitcoin mining toward AI data center hosting. In the second quarter, colocation brought in $136.7 million — representing 83% of Core Scientific's $164.2 million in total revenue — while its self-mining business saw revenue drop 66% to $21.5 million, according to CoinDesk. Separately, Core Scientific unwound its contract with Block for bitcoin-mining chips, a move that resulted in a $41.9 million charge.\nThe AMD partnership adds to a string of recent infrastructure commitments for the chipmaker. AMD announced a partnership with Anthropic to deploy up to 2 gigawatts of Instinct MI450 Series GPUs in Helios rack-scale systems, and expanded a partnership with Microsoft to deploy its Helios rack-scale AI system on Azure.",
+    "text_blocks": [
+      "AMD and Core Scientific announced a partnership on Tuesday under which AMD will secure up to 2.5 gigawatts of data center capacity to support customer deployments of AMD AI products.",
+      "The agreement gives AMD access to more than 500 megawatts of U.S. infrastructure beginning in 2027, with the ability to expand to 2.5 gigawatts, the companies said. Under the deal, Core Scientific and AMD will collaborate on physical infrastructure design and the deployment of AMD Instinct GPUs, EPYC CPUs, and ROCm software.",
+      "The first phase involves 529 megawatts of U.S. AI capacity committed under 15-year leases, with the company projecting base contracted revenue exceeding $14 billion, according to CoinDesk. AMD itself took on 377 megawatts at Core Scientific facilities in Pecos, Hunt County, Texas, and Muskogee, Oklahoma. A cloud provider whose name was not disclosed signed agreements backed by AMD for 152 megawatts at locations in Auburn, Alabama, and Dalton, Georgia.",
+      "AMD also received warrants to purchase Core Scientific common stock, subject to certain commercial conditions, the companies said. AMD received warrants to purchase up to 30 million Core Scientific shares at $23.47 per share, with about 6.5 million vesting when the initial leases were signed.",
+      "\"Core Scientific's extensive portfolio of AI-ready data centers expands access to the infrastructure our customers need to deploy AMD AI solutions at scale,\" said Mathew Hein, senior vice president and chief strategy officer of corporate development at AMD, in a statement.",
+      "\"Our proven execution capabilities and ability to deliver high-density infrastructure at scale position us to support AMD's technology roadmap and grow our relationship meaningfully over time,\" said Adam Sullivan, chief executive officer of Core Scientific, in a statement.",
+      "Core Scientific stock jumped about 6% in premarket trading on Tuesday, while AMD stock was down about 4%.",
+      "The deal accelerates Core Scientific's shift away from bitcoin mining toward AI data center hosting. In the second quarter, colocation brought in $136.7 million — representing 83% of Core Scientific's $164.2 million in total revenue — while its self-mining business saw revenue drop 66% to $21.5 million, according to CoinDesk. Separately, Core Scientific unwound its contract with Block for bitcoin-mining chips, a move that resulted in a $41.9 million charge.",
+      "The AMD partnership adds to a string of recent infrastructure commitments for the chipmaker. AMD announced a partnership with Anthropic to deploy up to 2 gigawatts of Instinct MI450 Series GPUs in Helios rack-scale systems, and expanded a partnership with Microsoft to deploy its Helios rack-scale AI system on Azure."
+    ],
+    "html": null
+  }
+}

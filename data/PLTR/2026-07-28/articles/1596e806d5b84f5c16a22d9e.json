@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-expands-bets-against-124330196.html",
+    "fetched_at": "2026-07-28T07:00:35.609835-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry Expands Bets Against Major Chip Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMichael Burry (Trades, Portfolio) has increased his bearish bets against several major chip stocks while keeping his existing short positions in Tesla (NASDAQ:TSLA) and Palantir (NASDAQ:PLTR).\nThe Big Short investor said he sold short additional shares of Micron (NASDAQ:MU) at $933.86 and added to his Nvidia (NASDAQ:NVDA) short at $210.28. He also expanded a large bearish position in the iShares Semiconductor ETF, which includes both short stock and put options.\nBurry's latest moves suggest he believes the semiconductor rally has gone too far. Micron has surged nearly 222% this year, while Nvidia is up about 11%, leaving both stocks vulnerable if AI spending slows or valuations come under pressure.\nHe also added to a short position in Caterpillar while increasing long exposure to Flutter and DraftKings. His bearish bets against Tesla and Palantir remain open, with Burry saying his Tesla position is becoming smaller as the stock falls.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Michael Burry (Trades, Portfolio) has increased his bearish bets against several major chip stocks while keeping his existing short positions in Tesla (NASDAQ:TSLA) and Palantir (NASDAQ:PLTR).",
+      "The Big Short investor said he sold short additional shares of Micron (NASDAQ:MU) at $933.86 and added to his Nvidia (NASDAQ:NVDA) short at $210.28. He also expanded a large bearish position in the iShares Semiconductor ETF, which includes both short stock and put options.",
+      "Burry's latest moves suggest he believes the semiconductor rally has gone too far. Micron has surged nearly 222% this year, while Nvidia is up about 11%, leaving both stocks vulnerable if AI spending slows or valuations come under pressure.",
+      "He also added to a short position in Caterpillar while increasing long exposure to Flutter and DraftKings. His bearish bets against Tesla and Palantir remain open, with Burry saying his Tesla position is becoming smaller as the stock falls."
+    ],
+    "html": null
+  }
+}

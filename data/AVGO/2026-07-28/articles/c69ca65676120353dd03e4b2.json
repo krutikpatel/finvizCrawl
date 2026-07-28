@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-stock-jumps-samsung-lands-164750356.html",
+    "fetched_at": "2026-07-28T07:00:33.021245-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Stock Jumps as Samsung Lands Massive $200 Billion AI Chip Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO) shares climbed about 3% on Monday after Samsung Electronics (SSNLF) signed a memorandum of understanding to provide the company with memory and foundry chips through 2030 under an agreement valued at more than $200 billion.\nThe arrangement calls for Samsung to supply high-bandwidth memory (HBM), a type of advanced memory used to improve the performance of artificial intelligence processors. The memory products are expected to support Broadcom's next-generation AI accelerators.\nThe agreement also covers foundry manufacturing, with Samsung planning to produce Broadcom chips using its 2-nanometer and smaller process technologies. Those advanced manufacturing nodes are intended for Broadcom's products, including its Wireless Broadband Communications (WBC) portfolio.\nBroadcom shares traded higher alongside several semiconductor stocks, with the Samsung agreement providing additional support for investor sentiment. The long-term supply arrangement could help strengthen Broadcom's access to advanced memory and manufacturing capacity as demand for AI infrastructure and high-performance semiconductor products continues to expand.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO) shares climbed about 3% on Monday after Samsung Electronics (SSNLF) signed a memorandum of understanding to provide the company with memory and foundry chips through 2030 under an agreement valued at more than $200 billion.",
+      "The arrangement calls for Samsung to supply high-bandwidth memory (HBM), a type of advanced memory used to improve the performance of artificial intelligence processors. The memory products are expected to support Broadcom's next-generation AI accelerators.",
+      "The agreement also covers foundry manufacturing, with Samsung planning to produce Broadcom chips using its 2-nanometer and smaller process technologies. Those advanced manufacturing nodes are intended for Broadcom's products, including its Wireless Broadband Communications (WBC) portfolio.",
+      "Broadcom shares traded higher alongside several semiconductor stocks, with the Samsung agreement providing additional support for investor sentiment. The long-term supply arrangement could help strengthen Broadcom's access to advanced memory and manufacturing capacity as demand for AI infrastructure and high-performance semiconductor products continues to expand."
+    ],
+    "html": null
+  }
+}

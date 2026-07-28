@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ryanair-extends-aws-ai-partnership-123349127.html",
+    "fetched_at": "2026-07-28T07:00:41.649779-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Ryanair Extends AWS AI Partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRyanair (NASDAQ:RYAAY) has extended its partnership with Amazon Web Services (NASDAQ:AMZN) for another five years as the airline looks to use cloud computing and agentic AI to support its next phase of growth.\nUnder the renewed agreement, Ryanair will use AWS services, including Amazon Bedrock, to run its website, improve flight scheduling and simplify workflows for pilots and cabin crews. The companies also plan to develop more advanced AI tools across the airline's operations.\nRyanair is Europe's largest low-cost carrier, and its business model depends heavily on keeping aircraft utilisation high and operating costs low. Better scheduling, faster digital services and more automated internal processes could therefore have a direct effect on efficiency.\nThe deal also gives AWS a high-profile aviation customer as Amazon pushes Bedrock and agentic AI into more industries.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Ryanair (NASDAQ:RYAAY) has extended its partnership with Amazon Web Services (NASDAQ:AMZN) for another five years as the airline looks to use cloud computing and agentic AI to support its next phase of growth.",
+      "Under the renewed agreement, Ryanair will use AWS services, including Amazon Bedrock, to run its website, improve flight scheduling and simplify workflows for pilots and cabin crews. The companies also plan to develop more advanced AI tools across the airline's operations.",
+      "Ryanair is Europe's largest low-cost carrier, and its business model depends heavily on keeping aircraft utilisation high and operating costs low. Better scheduling, faster digital services and more automated internal processes could therefore have a direct effect on efficiency.",
+      "The deal also gives AWS a high-profile aviation customer as Amazon pushes Bedrock and agentic AI into more industries."
+    ],
+    "html": null
+  }
+}

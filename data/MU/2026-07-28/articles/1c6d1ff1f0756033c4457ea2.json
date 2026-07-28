@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/21224a85-d66a-345b-a9fe-2de25309b53e/chip-stocks-fall-as-south.html",
+    "fetched_at": "2026-07-28T07:00:16.065416-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip stocks fall as South Korea's Kospi plunges 10% before earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Chip stocks extended a multi-day sell-off on Tuesday, dragging Asian markets lower and pushing Nasdaq-100 futures down more than 1% before the U.S. opening bell, as investors awaited earnings from Amazon, Meta Platforms, Microsoft, and Apple later this week.\nSouth Korea's Kospi tumbled roughly 10%, dragged down by SK Hynix and Samsung Electronics, both of which shed more than 13%. The severity of the moves triggered two separate trading halts by Korea Exchange. Japan's Nikkei fell about 4%.\nThe VanEck Semiconductor ETF lost 3% in early U.S. trading, with Micron Technology and Western Digital among the hardest hit, each down roughly 5%. Seagate Technology and Astera Labs posted losses as well. Monday's 3.3% drop marked the ETF's third straight day in the red.\nNasdaq-100 futures were down roughly 0.9% to 1.1%, while S&P 500 futures dipped about 0.2%. Dow Jones Industrial Average futures moved higher, gaining roughly 0.2% to 0.5%.\nThe broader sell-off reflects mounting concern over the cost of the artificial intelligence buildout and signs that China is narrowing the gap in the technology race, according to The Wall Street Journal. Semiconductor fortunes are deeply linked to how much the biggest cloud operators spend on AI infrastructure, putting this week's results from Amazon, Meta, and Microsoft under particular scrutiny. Apple is also scheduled to report.\nNvidia gave back another 1% in premarket trading after sliding 5% the prior session, while Micron, Super Micro Computer, and Intel were each off more than 3% before U.S. markets opened.\nThe Federal Reserve is set to announce its rate decision on Wednesday. The Fed is broadly anticipated to leave rates unchanged, though market participants will be parsing the statement and press conference for signals about where policy is headed. According to the CME FedWatch Tool, traders had a September quarter-point hike penciled in.\nPadhraic Garvey, regional head of research for the Americas at ING, said in a note Tuesday that the firm expects no change at this week's meeting. \"We see inflation expectations tame enough for comfort,\" he said, noting that yield-curve dynamics are inconsistent with the beginning of a tightening cycle.\nOil prices fell for a second session. Brent crude slipped to around $84 to $86 per barrel, while West Texas Intermediate fell to around $81 per barrel, as Iran held talks with Saudi Arabia and Oman about reopening the Strait of Hormuz.",
+    "text_blocks": [
+      "Chip stocks extended a multi-day sell-off on Tuesday, dragging Asian markets lower and pushing Nasdaq-100 futures down more than 1% before the U.S. opening bell, as investors awaited earnings from Amazon, Meta Platforms, Microsoft, and Apple later this week.",
+      "South Korea's Kospi tumbled roughly 10%, dragged down by SK Hynix and Samsung Electronics, both of which shed more than 13%. The severity of the moves triggered two separate trading halts by Korea Exchange. Japan's Nikkei fell about 4%.",
+      "The VanEck Semiconductor ETF lost 3% in early U.S. trading, with Micron Technology and Western Digital among the hardest hit, each down roughly 5%. Seagate Technology and Astera Labs posted losses as well. Monday's 3.3% drop marked the ETF's third straight day in the red.",
+      "Nasdaq-100 futures were down roughly 0.9% to 1.1%, while S&P 500 futures dipped about 0.2%. Dow Jones Industrial Average futures moved higher, gaining roughly 0.2% to 0.5%.",
+      "The broader sell-off reflects mounting concern over the cost of the artificial intelligence buildout and signs that China is narrowing the gap in the technology race, according to The Wall Street Journal. Semiconductor fortunes are deeply linked to how much the biggest cloud operators spend on AI infrastructure, putting this week's results from Amazon, Meta, and Microsoft under particular scrutiny. Apple is also scheduled to report.",
+      "Nvidia gave back another 1% in premarket trading after sliding 5% the prior session, while Micron, Super Micro Computer, and Intel were each off more than 3% before U.S. markets opened.",
+      "The Federal Reserve is set to announce its rate decision on Wednesday. The Fed is broadly anticipated to leave rates unchanged, though market participants will be parsing the statement and press conference for signals about where policy is headed. According to the CME FedWatch Tool, traders had a September quarter-point hike penciled in.",
+      "Padhraic Garvey, regional head of research for the Americas at ING, said in a note Tuesday that the firm expects no change at this week's meeting. \"We see inflation expectations tame enough for comfort,\" he said, noting that yield-curve dynamics are inconsistent with the beginning of a tightening cycle.",
+      "Oil prices fell for a second session. Brent crude slipped to around $84 to $86 per barrel, while West Texas Intermediate fell to around $81 per barrel, as Iran held talks with Saudi Arabia and Oman about reopening the Strait of Hormuz."
+    ],
+    "html": null
+  }
+}

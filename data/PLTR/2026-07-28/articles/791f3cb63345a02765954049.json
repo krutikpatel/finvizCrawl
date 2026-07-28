@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-set-major-beat-205749580.html",
+    "fetched_at": "2026-07-28T07:00:35.684075-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Earnings Set Up for a Major Beat",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir (NASDAQ:PLTR) is expected to comfortably beat second-quarter estimates and raise its full-year outlook when it reports results on Monday, August 3, according to Oppenheimer.\nThe firm expects revenue to jump 85% year over year, ahead of Palantir's 79% guidance midpoint. Oppenheimer also believes the company could lift its full-year growth forecast above 75%, compared with its current 71% outlook.\nU.S. government demand is expected to remain the main driver, with second-quarter growth seen in the low-80% range. Higher Department of Homeland Security spending, Middle East conflicts and broader adoption across U.S. military branches are all supporting growth, though international government demand appears softer as some European allies seek alternatives.\nOppenheimer also pushed back on concerns that large-language-model providers could erode Palantir's commercial moat. The firm argues Palantir's Ontology platform supports more complex workflows, while rival AI providers remain better suited to simpler use cases.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir (NASDAQ:PLTR) is expected to comfortably beat second-quarter estimates and raise its full-year outlook when it reports results on Monday, August 3, according to Oppenheimer.",
+      "The firm expects revenue to jump 85% year over year, ahead of Palantir's 79% guidance midpoint. Oppenheimer also believes the company could lift its full-year growth forecast above 75%, compared with its current 71% outlook.",
+      "U.S. government demand is expected to remain the main driver, with second-quarter growth seen in the low-80% range. Higher Department of Homeland Security spending, Middle East conflicts and broader adoption across U.S. military branches are all supporting growth, though international government demand appears softer as some European allies seek alternatives.",
+      "Oppenheimer also pushed back on concerns that large-language-model providers could erode Palantir's commercial moat. The firm argues Palantir's Ontology platform supports more complex workflows, while rival AI providers remain better suited to simpler use cases."
+    ],
+    "html": null
+  }
+}

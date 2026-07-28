@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6330d948-4985-331c-9aa2-0f8c9e397f11/nvidia%27s-new-ai-security.html",
+    "fetched_at": "2026-07-28T07:00:48.311709-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense – But Meta's Missing From The List",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta Platforms cosigned Nvidia CEO Jensen Huang's letter that week endorsing open-weight AI models, but was not listed among the participants of the new Open Secure AI Alliance.\nThe coalition includes notable names such as Microsoft, IBM, SpaceX, CrowdStrike, Palo Alto Networks, Cloudflare, Dell, HPE, Cisco, Salesforce, SAP, and Adobe, alongside several AI startups and research organizations.\nThe launch follows CEO Jensen Huang's first-ever X post supporting open-weight AI models and builds on Nvidia's broader campaign promoting open AI development.\nNvidia (NVDA) on Monday unveiled the Open Secure AI Alliance (OSAA), a coalition of nearly 40 technology companies that will jointly develop open-source tools designed to help organizations defend against AI-powered cyberattacks.\nThe announcement comes just days after CEO Jensen Huang used his first-ever post on X to publicly endorse open-weight AI models. While Mark Zuckerberg-led Meta Platforms (META) was a signatory, the social media giant did not appear in the alliance's list of founding members.\nNVDA stock rose about 1% in pre-market trade on Monday. It was among the top trending tickers on Stockwits at the time of writing. Retail sentiment around the company dipped to 'bearish' from 'neutral' territory over the past day, and platform data showed chatter increased by nearly 70% in the past 24 hours.\nFounding Members Span The AI Ecosystem\nThe alliance brings together companies across AI, cybersecurity, enterprise software, cloud infrastructure and semiconductors, including:\nAI developers: Elon Musk-led SpaceX (SPCX), Hugging Face, Databricks, LangChain, Nous Research, Reflection AI\nSemiconductors and engineering: Nvidia, Cadence (CDNS), Synopsys (SNPS)\nOther organizations: Red Hat, Linux Foundation, Cloudera, NAVER, OpenClaw, Thinking Machines Lab and TrendAI.\nIn a post on X, CNBC's Jim Cramer stated that the market now has a \"New Nvidia Central Bank narrative,\" hinting that developments surrounding the AI chipmaker are competing with traditional macro drivers such as Federal Reserve policy and oil prices for investors' attention.\nHugging Face Breach Became The Catalyst\nNvidia said the alliance was inspired in part by the recent cyberattack on Hugging Face, during which the company concluded that closed AI systems struggled to distinguish legitimate security investigators from attackers.\nAccording to Nvidia, Hugging Face instead relied on the open-weight GLM 5.2 model running on its own infrastructure to review more than 17,000 actions during the investigation. The company stated that having direct access to model weights enabled faster forensic analysis and incident response.\nNvidia and its partners said that the episode showed why security teams need AI models they can inspect, modify, and operate independently instead of relying exclusively on proprietary systems controlled by third-party vendors.\nWhat Are They Bringing To The Table?\nEach founding member is contributing an existing open-source technology aimed at securing AI systems, identity management, software supply chains, or vulnerability detection.\nNvidia said it would open models, model weights, training datasets, and NOOA, its framework for testing, tracing, and auditing AI agents. HPE is adding SPIFFE/SPIRE, a zero-trust identity framework for cryptographically verifying AI agents and services.\nHPE's stock rose as much as 2.4% in pre-market hours, with retail sentiment on Stocktwits improving to 'neutral' from 'bearish' over the past day.\nMeanwhile, IBM and Red Hat are providing Lightwell, which helps secure open-source software supply chains through digitally signed patches. Microsoft is providing MDASH, a framework that coordinates multiple AI agents to discover and validate software vulnerabilities.\nIBM's stock and shares of MSFT each rose more than 1% in pre-market trade. Retail sentiment around IBM remained in 'neutral' territory over the past day, while sentiment around MSFT dipped to 'bearish' territory.\nHugging Face is contributing Safetensors, a secure format for storing AI model weights without remote code execution risks. And, Musk's SpaceX is open-sourcing its Grok Build AI coding agent and plans to release the model weights for its Grok family of models.\nSCPX stock traded flat in pre-market trade, and retail sentiment around the company remained in the 'neutral' zone over the past day.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com\nPrabhjote Gill has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy. This article was originally published on StockTwits.",
+    "text_blocks": [
+      "Meta Platforms cosigned Nvidia CEO Jensen Huang's letter that week endorsing open-weight AI models, but was not listed among the participants of the new Open Secure AI Alliance.",
+      "The coalition includes notable names such as Microsoft, IBM, SpaceX, CrowdStrike, Palo Alto Networks, Cloudflare, Dell, HPE, Cisco, Salesforce, SAP, and Adobe, alongside several AI startups and research organizations.",
+      "The launch follows CEO Jensen Huang's first-ever X post supporting open-weight AI models and builds on Nvidia's broader campaign promoting open AI development.",
+      "Nvidia (NVDA) on Monday unveiled the Open Secure AI Alliance (OSAA), a coalition of nearly 40 technology companies that will jointly develop open-source tools designed to help organizations defend against AI-powered cyberattacks.",
+      "The announcement comes just days after CEO Jensen Huang used his first-ever post on X to publicly endorse open-weight AI models. While Mark Zuckerberg-led Meta Platforms (META) was a signatory, the social media giant did not appear in the alliance's list of founding members.",
+      "NVDA stock rose about 1% in pre-market trade on Monday. It was among the top trending tickers on Stockwits at the time of writing. Retail sentiment around the company dipped to 'bearish' from 'neutral' territory over the past day, and platform data showed chatter increased by nearly 70% in the past 24 hours.",
+      "Founding Members Span The AI Ecosystem",
+      "The alliance brings together companies across AI, cybersecurity, enterprise software, cloud infrastructure and semiconductors, including:",
+      "AI developers: Elon Musk-led SpaceX (SPCX), Hugging Face, Databricks, LangChain, Nous Research, Reflection AI",
+      "Semiconductors and engineering: Nvidia, Cadence (CDNS), Synopsys (SNPS)",
+      "Other organizations: Red Hat, Linux Foundation, Cloudera, NAVER, OpenClaw, Thinking Machines Lab and TrendAI.",
+      "In a post on X, CNBC's Jim Cramer stated that the market now has a \"New Nvidia Central Bank narrative,\" hinting that developments surrounding the AI chipmaker are competing with traditional macro drivers such as Federal Reserve policy and oil prices for investors' attention.",
+      "Hugging Face Breach Became The Catalyst",
+      "Nvidia said the alliance was inspired in part by the recent cyberattack on Hugging Face, during which the company concluded that closed AI systems struggled to distinguish legitimate security investigators from attackers.",
+      "According to Nvidia, Hugging Face instead relied on the open-weight GLM 5.2 model running on its own infrastructure to review more than 17,000 actions during the investigation. The company stated that having direct access to model weights enabled faster forensic analysis and incident response.",
+      "Nvidia and its partners said that the episode showed why security teams need AI models they can inspect, modify, and operate independently instead of relying exclusively on proprietary systems controlled by third-party vendors.",
+      "What Are They Bringing To The Table?",
+      "Each founding member is contributing an existing open-source technology aimed at securing AI systems, identity management, software supply chains, or vulnerability detection.",
+      "Nvidia said it would open models, model weights, training datasets, and NOOA, its framework for testing, tracing, and auditing AI agents. HPE is adding SPIFFE/SPIRE, a zero-trust identity framework for cryptographically verifying AI agents and services.",
+      "HPE's stock rose as much as 2.4% in pre-market hours, with retail sentiment on Stocktwits improving to 'neutral' from 'bearish' over the past day.",
+      "Meanwhile, IBM and Red Hat are providing Lightwell, which helps secure open-source software supply chains through digitally signed patches. Microsoft is providing MDASH, a framework that coordinates multiple AI agents to discover and validate software vulnerabilities.",
+      "IBM's stock and shares of MSFT each rose more than 1% in pre-market trade. Retail sentiment around IBM remained in 'neutral' territory over the past day, while sentiment around MSFT dipped to 'bearish' territory.",
+      "Hugging Face is contributing Safetensors, a secure format for storing AI model weights without remote code execution risks. And, Musk's SpaceX is open-sourcing its Grok Build AI coding agent and plans to release the model weights for its Grok family of models.",
+      "SCPX stock traded flat in pre-market trade, and retail sentiment around the company remained in the 'neutral' zone over the past day.",
+      "For updates and corrections, email newsroom[at]stocktwits[dot]com",
+      "Prabhjote Gill has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy. This article was originally published on StockTwits."
+    ],
+    "html": null
+  }
+}

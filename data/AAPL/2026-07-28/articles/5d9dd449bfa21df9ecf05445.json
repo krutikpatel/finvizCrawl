@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/apple-is-now-letting-you-lease-an-iphone-like-a-car-heres-what-to-know-51a10a91?mod=mw_FV",
+    "fetched_at": "2026-07-28T07:00:09.957181-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple is now letting you lease an iPhone like a car. Here’s what to know. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nApple is now letting you lease an iPhone like a car. Here’s what to know.\nThe program represents a historic shift in how the company sells its consumer electronics — with consumers increasingly worried about high prices\nAs Apple gears up for expected iPhone price hikes, the company is rolling out a new payment option that will let its U.S. users lease devices similarly to the way they might finance a car.\nWhile the company already offers traditional installment plans, the newly announced Apple Upgrade program is different because customers will be paying for ongoing access to products rather than paying to own. At term’s end, customers can upgrade to a newer device, buy their current device outright or return it to Apple AAPL.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Apple is now letting you lease an iPhone like a car. Here’s what to know.",
+      "The program represents a historic shift in how the company sells its consumer electronics — with consumers increasingly worried about high prices",
+      "As Apple gears up for expected iPhone price hikes, the company is rolling out a new payment option that will let its U.S. users lease devices similarly to the way they might finance a car.",
+      "While the company already offers traditional installment plans, the newly announced Apple Upgrade program is different because customers will be paying for ongoing access to products rather than paying to own. At term’s end, customers can upgrade to a newer device, buy their current device outright or return it to Apple AAPL."
+    ],
+    "html": null
+  }
+}

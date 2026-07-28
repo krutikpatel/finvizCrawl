@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mizuho-raises-amd-price-target-122538175.html",
+    "fetched_at": "2026-07-28T07:00:30.336862-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Mizuho Raises AMD Price Target on AI Product Momentum",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMizuho raised its price target on semiconductor maker Advanced Micro Devices (AMD, Financials) following the company's Advancing AI event boosted confidence in the business's AI plan.Mizuho's analyst Vijay Rakesh reiterated the Buy rating and boosted a price target to $625 from $615, citing potential upside from the Helios AI platform and the upcoming Venice server CPUs.Rakesh said AMD had agreements from clients including OpenAI, Anthropic, Microsoft and Meta Platforms for up to 14 gigawatts of MI455 Helios systems.He also raised hopes for AMD's long-term business opportunity, saying its total addressable market may reach $2 trillion by 2030. That includes around $1.4 trillion for AI accelerators and a higher server processor market than previously predicted.AMD also mentioned a collaboration with Cerebras to develop high-throughput AI inference systems that integrate the companies' capabilities.AMD's sixth-generation EPYC Venice CPUs are now in full production, and the firm expects major cloud providers and hardware vendors to start deploying them in the December quarter.Semiconductor prices have cooled off a bit in recent days but AMD stock is still up 131% this year. Investors will now watch for Helios deployments, Venice server rollouts and continuing demand for AI infrastructure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Mizuho raised its price target on semiconductor maker Advanced Micro Devices (AMD, Financials) following the company's Advancing AI event boosted confidence in the business's AI plan.Mizuho's analyst Vijay Rakesh reiterated the Buy rating and boosted a price target to $625 from $615, citing potential upside from the Helios AI platform and the upcoming Venice server CPUs.Rakesh said AMD had agreements from clients including OpenAI, Anthropic, Microsoft and Meta Platforms for up to 14 gigawatts of MI455 Helios systems.He also raised hopes for AMD's long-term business opportunity, saying its total addressable market may reach $2 trillion by 2030. That includes around $1.4 trillion for AI accelerators and a higher server processor market than previously predicted.AMD also mentioned a collaboration with Cerebras to develop high-throughput AI inference systems that integrate the companies' capabilities.AMD's sixth-generation EPYC Venice CPUs are now in full production, and the firm expects major cloud providers and hardware vendors to start deploying them in the December quarter.Semiconductor prices have cooled off a bit in recent days but AMD stock is still up 131% this year. Investors will now watch for Helios deployments, Venice server rollouts and continuing demand for AI infrastructure."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/amd-core-scientific-ai-data-center-partnership-072826",
+    "fetched_at": "2026-07-28T07:00:43.796939-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/amd-core-scientific-ai-data-center-partnership-072826",
+      "context": {
+        "url": "https://qz.com/amd-core-scientific-ai-data-center-partnership-072826"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

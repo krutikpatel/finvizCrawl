@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-slides-ai-spending-fears-122828811.html",
+    "fetched_at": "2026-07-28T07:00:38.491928-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Slides as AI Spending Fears Hit Chip Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NVDA, Financials), the semiconductor company best known for artificial intelligence chips, fell 5% Monday as investors questioned the funding structure behind the AI infrastructure boom.\nThe decline followed a report that Nvidia was discussing about $250 billion in financing guarantees for an OpenAI data center. Separate talks reportedly involved financing up to $350 billion in OpenAI chip purchases.\nThe figures raised concerns that AI spending is becoming increasingly dependent on suppliers supporting their own customers' expansion.\nThe selloff spread across Asia on Tuesday. South Korea's KOSPI dropped nearly 10% and triggered a circuit breaker, while Japan's Nikkei fell 4.4%.\nEuropean chip stocks also came under pressure. ASML sank 8.5% after a report that China had begun producing its own immersion deep ultraviolet lithography machines.\nChina's progress in chip equipment and the strong market debut of memory producer CXMT added to fears that established semiconductor leaders could face tougher competition.\nThe market reaction comes before earnings from Apple, Meta, Microsoft and Amazon, which could offer clearer signals on future AI infrastructure spending.\nInvestors will now watch hyperscaler capital spending, Nvidia's financing exposure and further progress by Chinese chipmakers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NVDA, Financials), the semiconductor company best known for artificial intelligence chips, fell 5% Monday as investors questioned the funding structure behind the AI infrastructure boom.",
+      "The decline followed a report that Nvidia was discussing about $250 billion in financing guarantees for an OpenAI data center. Separate talks reportedly involved financing up to $350 billion in OpenAI chip purchases.",
+      "The figures raised concerns that AI spending is becoming increasingly dependent on suppliers supporting their own customers' expansion.",
+      "The selloff spread across Asia on Tuesday. South Korea's KOSPI dropped nearly 10% and triggered a circuit breaker, while Japan's Nikkei fell 4.4%.",
+      "European chip stocks also came under pressure. ASML sank 8.5% after a report that China had begun producing its own immersion deep ultraviolet lithography machines.",
+      "China's progress in chip equipment and the strong market debut of memory producer CXMT added to fears that established semiconductor leaders could face tougher competition.",
+      "The market reaction comes before earnings from Apple, Meta, Microsoft and Amazon, which could offer clearer signals on future AI infrastructure spending.",
+      "Investors will now watch hyperscaler capital spending, Nvidia's financing exposure and further progress by Chinese chipmakers."
+    ],
+    "html": null
+  }
+}

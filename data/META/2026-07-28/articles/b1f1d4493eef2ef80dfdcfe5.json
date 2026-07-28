@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/meta-is-up-against-a-wall-of-ai-pessimism-heading-into-earnings-4d3bbcc9?mod=mw_FV",
+    "fetched_at": "2026-07-28T07:00:12.600819-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta is up against a wall of AI pessimism heading into earnings - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Earnings Outlook\nMeta is up against a wall of AI pessimism heading into earnings\nFollowing Alphabet’s earnings last week, investors will be closely scrutinizing Meta’s AI spending\nAs Meta Platforms prepares to report second-quarter earnings, the company is confronting a wall of artificial-intelligence pessimism that will be difficult to overcome.\nMeta META is set to report earnings Wednesday afternoon, along with Microsoft MSFT, and investors will have an opportunity to judge whether AI momentum outweighs spending fears.",
+    "text_blocks": [
+      "Earnings Outlook",
+      "Meta is up against a wall of AI pessimism heading into earnings",
+      "Following Alphabet’s earnings last week, investors will be closely scrutinizing Meta’s AI spending",
+      "As Meta Platforms prepares to report second-quarter earnings, the company is confronting a wall of artificial-intelligence pessimism that will be difficult to overcome.",
+      "Meta META is set to report earnings Wednesday afternoon, along with Microsoft MSFT, and investors will have an opportunity to judge whether AI momentum outweighs spending fears."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-rise-megacap-earnings-170443204.html",
+    "fetched_at": "2026-07-28T07:00:50.961500-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nUS stock futures climbed early Monday as investors headed into one of the heaviest weeks of the quarter, with Dow Jones and S&P 500 futures each up 0.80% and Nasdaq-100 futures gaining 1.40%. Sentiment appeared to draw support from geopolitics, as the US and Iran paused fighting in a development that could allow peace negotiations to resume, sending Brent crude down 4% to below $86 a barrel and the VIX volatility gauge 4.52% lower.\nThe earnings calendar is dense. Drugmaker AstraZeneca (NYSE:AZN) and steelmaker Nucor (NYSE:NUE) open the week, before Big Tech heavyweights Microsoft (NASDAQ:MSFT), Meta Platforms (NASDAQ:META), Apple (NASDAQ:AAPL) and Amazon (NASDAQ:AMZN) report alongside consumer names Coca-Cola (NYSE:KO), Starbucks (NASDAQ:SBUX) and Procter & Gamble (NYSE:PG) and chip designer Arm Holdings (NASDAQ:ARM). Oil majors ExxonMobil (NYSE:XOM) and Chevron (NYSE:CVX) conclude the slate, putting results from across technology, consumer and energy sectors in front of investors within days of each other.\nLooming over all of it is the Federal Reserve's interest rate announcement on Wednesday, described as one of the least-telegraphed Fed decisions in years. Policymakers are expected to maintain current rates while monitoring inflation progress, though a hike remains possible a combination that suggests this week's earnings and policy signals together could set the market's direction into August.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "US stock futures climbed early Monday as investors headed into one of the heaviest weeks of the quarter, with Dow Jones and S&P 500 futures each up 0.80% and Nasdaq-100 futures gaining 1.40%. Sentiment appeared to draw support from geopolitics, as the US and Iran paused fighting in a development that could allow peace negotiations to resume, sending Brent crude down 4% to below $86 a barrel and the VIX volatility gauge 4.52% lower.",
+      "The earnings calendar is dense. Drugmaker AstraZeneca (NYSE:AZN) and steelmaker Nucor (NYSE:NUE) open the week, before Big Tech heavyweights Microsoft (NASDAQ:MSFT), Meta Platforms (NASDAQ:META), Apple (NASDAQ:AAPL) and Amazon (NASDAQ:AMZN) report alongside consumer names Coca-Cola (NYSE:KO), Starbucks (NASDAQ:SBUX) and Procter & Gamble (NYSE:PG) and chip designer Arm Holdings (NASDAQ:ARM). Oil majors ExxonMobil (NYSE:XOM) and Chevron (NYSE:CVX) conclude the slate, putting results from across technology, consumer and energy sectors in front of investors within days of each other.",
+      "Looming over all of it is the Federal Reserve's interest rate announcement on Wednesday, described as one of the least-telegraphed Fed decisions in years. Policymakers are expected to maintain current rates while monitoring inflation progress, though a hike remains possible a combination that suggests this week's earnings and policy signals together could set the market's direction into August."
+    ],
+    "html": null
+  }
+}

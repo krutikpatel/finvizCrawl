@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/meta-partners-blackrock-one-gigawatt-122221712.html",
+    "fetched_at": "2026-07-28T07:00:13.030944-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Partners With BlackRock on One-Gigawatt Texas Data Center",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) and BlackRock (NYSE:BLK) announced a venture to develop and own a one-gigawatt data center campus in El Paso, Texas, with BlackRock-managed funds taking 80% and Meta retaining 20%. Development costs run to roughly $14 billion, funded pro rata, and part of BlackRock's contribution comes from a $12.5 billion debt financing. Meta shares rose 0.47% premarket.\nAt close, Meta contributes land and construction-in-progress worth about $2.3 billion, BlackRock puts in about $4.9 billion of cash, and Meta collects a one-time distribution near $1 billion. Meta then leases the entire campus back on a four-year initial term with four extension options, running as long as 20 years, and will be the sole occupant. \"Building the infrastructure for superintelligence is key,\" Mark Zuckerberg said.\nMeta is providing residual value guarantees with an aggregate threshold of about $13 billion, declining over time, covering any shortfall against fair value if conditions are met within 16 years. Construction is underway with capacity expected to come online in 2028, and the deal should close within days. Meta reports second-quarter results tomorrow.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) and BlackRock (NYSE:BLK) announced a venture to develop and own a one-gigawatt data center campus in El Paso, Texas, with BlackRock-managed funds taking 80% and Meta retaining 20%. Development costs run to roughly $14 billion, funded pro rata, and part of BlackRock's contribution comes from a $12.5 billion debt financing. Meta shares rose 0.47% premarket.",
+      "At close, Meta contributes land and construction-in-progress worth about $2.3 billion, BlackRock puts in about $4.9 billion of cash, and Meta collects a one-time distribution near $1 billion. Meta then leases the entire campus back on a four-year initial term with four extension options, running as long as 20 years, and will be the sole occupant. \"Building the infrastructure for superintelligence is key,\" Mark Zuckerberg said.",
+      "Meta is providing residual value guarantees with an aggregate threshold of about $13 billion, declining over time, covering any shortfall against fair value if conditions are met within 16 years. Construction is underway with capacity expected to come online in 2028, and the deal should close within days. Meta reports second-quarter results tomorrow."
+    ],
+    "html": null
+  }
+}
