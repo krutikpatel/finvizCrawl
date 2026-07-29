@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hyperscaler-debt-binge-pushes-yields-134825104.html",
+    "fetched_at": "2026-07-29T07:00:42.556520-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Hyperscaler debt binge pushes yields up as investor demand cools",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Patturaja Murugaboopathy\nJuly 29 (Reuters) - Major U.S. technology companies are borrowing heavily as they ramp up spending on their artificial intelligence buildout, and at steadily higher yields as investors become more selective about absorbing the growing supply.\nAmazon, Alphabet, Meta Platforms and Oracle issued about $194 billion of bonds in 2026 through July 7, up 79% from roughly $108 billion in all of 2025, according to a Reuters analysis of LSEG data.\nGoldman Sachs expects bond issuance by the five hyperscalers, including Microsoft Corp, to reach roughly $250 billion this year and $400 billion in 2027.\nThe added supply has led to widening borrowing spreads over risk-free rates for these investment-grade firms across major maturity buckets.\nFor Amazon, Alphabet, Meta and Oracle, the median spread on 2- to 4-year bonds rose to 40 basis points from 30 basis points in 2025. The median spread on 5- to 7-year debt increased to 60 basis points from 50 basis points, while the median spread on bonds maturing in more than 20 years rose to 118 basis points from 108.5 basis points.\nSecondary-market performance has also deteriorated. A Reuters analysis of LSEG data showed that 78 of 91 hyperscaler bonds issued in 2026 with comparable pricing data were trading at higher yields on July 28 than at issuance. The median increase was about 22 basis points.\n\"We're in a place where we're making these very large investments with the bet that we have return on invested capital coming in the future,\" said Colby Stilson, head of fixed income at Brown Advisory.\n\"I don't see sort of a point in time in the near future where that sort of supply goes away. Technically, that puts pressure on spreads.\"\nInvestor demand, while still strong in absolute terms, has weakened as supply has accelerated.\nApollo Global Management said cover ratios for hyperscaler bond sales, a measure of investor orders relative to the amount issued, fell from nearly five times in February to below two times in July.\nA cover ratio of three times means investors submitted orders for three dollars of bonds for every dollar sold. Apollo said the decline suggests borrowers may have to offer wider spreads to attract sufficient demand for future deals.\nAmazon's recent sales illustrate the shift. Research reports compiled by AlphaSense showed its March U.S.-dollar bond sale was about 3.4 times oversubscribed, compared with around 1.6 times for its July offering.\n\"We're already seeing fatigue within credit markets in supporting this massive debt issuance,\" Stilson said.",
+    "text_blocks": [
+      "By Patturaja Murugaboopathy",
+      "July 29 (Reuters) - Major U.S. technology companies are borrowing heavily as they ramp up spending on their artificial intelligence buildout, and at steadily higher yields as investors become more selective about absorbing the growing supply.",
+      "Amazon, Alphabet, Meta Platforms and Oracle issued about $194 billion of bonds in 2026 through July 7, up 79% from roughly $108 billion in all of 2025, according to a Reuters analysis of LSEG data.",
+      "Goldman Sachs expects bond issuance by the five hyperscalers, including Microsoft Corp, to reach roughly $250 billion this year and $400 billion in 2027.",
+      "The added supply has led to widening borrowing spreads over risk-free rates for these investment-grade firms across major maturity buckets.",
+      "For Amazon, Alphabet, Meta and Oracle, the median spread on 2- to 4-year bonds rose to 40 basis points from 30 basis points in 2025. The median spread on 5- to 7-year debt increased to 60 basis points from 50 basis points, while the median spread on bonds maturing in more than 20 years rose to 118 basis points from 108.5 basis points.",
+      "Secondary-market performance has also deteriorated. A Reuters analysis of LSEG data showed that 78 of 91 hyperscaler bonds issued in 2026 with comparable pricing data were trading at higher yields on July 28 than at issuance. The median increase was about 22 basis points.",
+      "\"We're in a place where we're making these very large investments with the bet that we have return on invested capital coming in the future,\" said Colby Stilson, head of fixed income at Brown Advisory.",
+      "\"I don't see sort of a point in time in the near future where that sort of supply goes away. Technically, that puts pressure on spreads.\"",
+      "Investor demand, while still strong in absolute terms, has weakened as supply has accelerated.",
+      "Apollo Global Management said cover ratios for hyperscaler bond sales, a measure of investor orders relative to the amount issued, fell from nearly five times in February to below two times in July.",
+      "A cover ratio of three times means investors submitted orders for three dollars of bonds for every dollar sold. Apollo said the decline suggests borrowers may have to offer wider spreads to attract sufficient demand for future deals.",
+      "Amazon's recent sales illustrate the shift. Research reports compiled by AlphaSense showed its March U.S.-dollar bond sale was about 3.4 times oversubscribed, compared with around 1.6 times for its July offering.",
+      "\"We're already seeing fatigue within credit markets in supporting this massive debt issuance,\" Stilson said."
+    ],
+    "html": null
+  }
+}

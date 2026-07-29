@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-earnings-could-reset-ai-134831987.html",
+    "fetched_at": "2026-07-29T07:00:31.377931-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft's Earnings Could Reset the AI Trade",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (MSFT, Financials), the software and cloud computing company, faces an unusually high-stakes earnings report as options traders price in a market value swing of about $190 billion.\nThe company's options imply a move of roughly 6.6% in either direction after fiscal fourth-quarter results. That is above the average implied move of 4.8% across Microsoft's past 12 earnings cycles.\nThe elevated pricing reflects growing concern over whether heavy artificial intelligence spending is producing enough revenue and customer adoption.\nMicrosoft's fiscal third-quarter capital spending rose 49% from a year earlier to $31.9 billion. Investors will focus on Azure growth and demand for AI tools across the company's software ecosystem.\nThe stock has fallen 18.7% this year, compared with an 8.5% gain for the S&P 500, increasing pressure on management to show that infrastructure investments are generating returns.\nSome traders remain bullish. One investor spent about $10.4 million on call options tied to a bet that Microsoft shares would rise above $450 by August.\nInvestors will now watch cloud growth, AI adoption and guidance for signs that Microsoft's spending cycle is beginning to translate into stronger cash flow.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (MSFT, Financials), the software and cloud computing company, faces an unusually high-stakes earnings report as options traders price in a market value swing of about $190 billion.",
+      "The company's options imply a move of roughly 6.6% in either direction after fiscal fourth-quarter results. That is above the average implied move of 4.8% across Microsoft's past 12 earnings cycles.",
+      "The elevated pricing reflects growing concern over whether heavy artificial intelligence spending is producing enough revenue and customer adoption.",
+      "Microsoft's fiscal third-quarter capital spending rose 49% from a year earlier to $31.9 billion. Investors will focus on Azure growth and demand for AI tools across the company's software ecosystem.",
+      "The stock has fallen 18.7% this year, compared with an 8.5% gain for the S&P 500, increasing pressure on management to show that infrastructure investments are generating returns.",
+      "Some traders remain bullish. One investor spent about $10.4 million on call options tied to a bet that Microsoft shares would rise above $450 by August.",
+      "Investors will now watch cloud growth, AI adoption and guidance for signs that Microsoft's spending cycle is beginning to translate into stronger cash flow."
+    ],
+    "html": null
+  }
+}

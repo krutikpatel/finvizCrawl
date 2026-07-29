@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html",
+    "fetched_at": "2026-07-29T07:00:45.344205-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Stephen Nellis\nSAN FRANCISCO, July 29 (Reuters) - Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers, said on Wednesday it had raised $145 million in venture funding at a $1 billion valuation.\nCisco Systems, Lumentum and an early investor in networking pioneer Mellanox before its sale to Nvidia backed the raising, according to Santa Clara, California-based Eliyan.\nThe startup is developing technology aimed at the growing list of companies that are developing their own custom AI computing chips to compete with graphics processing units from Nvidia and Advanced Micro Devices.\nRegardless of who makes them, most AI chips today face the same basic problem: They can process data much faster than they can send or receive it, which leaves pricey chips waiting and idle.\n\"People have tried to build faster compute, faster processors and GPUs,\" Eliyan CEO and co-founder Ramin Farjadrad told Reuters in an interview. \"Today we are at the point that we are maybe 30-40% of the GPUs is being used, and is being mainly limited by how fast they can receive the data to process. We're solving that problem.\"\nNvidia overcame the connectivity issue in part by buying Mellanox for $6.8 billion in 2019. Companies like Alphabet's Google and Amazon.com's cloud unit solve the problem by working with firms such as Broadcom and Marvell Technology for access to those firms' networking technology.\nEliyan aims to offer an independent option, both licensing its technology and providing pieces of a chip called \"chiplets\" that companies making custom processors can integrate into their own designs.\nPatrick Soheili, Eliyan's chief strategy and business officer, said the company expects to start initial shipments of chiplets this year and forecasts hundreds of millions of dollars in sales by the end of 2027, up from \"low millions\" of dollars in revenue in 2025.\nThe Series C funding round was led by Seligman Ventures, with both existing and new investors taking part in addition to Cisco and Lumentum. As part of the funding, Seligman Managing Partner Umesh Padval, who was on Mellanox's board when it was sold to Nvidia, will take a seat on Eliyan's board.\n(Reporting by Stephen Nellis in San Francisco; Editing by Jamie Freed)",
+    "text_blocks": [
+      "By Stephen Nellis",
+      "SAN FRANCISCO, July 29 (Reuters) - Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers, said on Wednesday it had raised $145 million in venture funding at a $1 billion valuation.",
+      "Cisco Systems, Lumentum and an early investor in networking pioneer Mellanox before its sale to Nvidia backed the raising, according to Santa Clara, California-based Eliyan.",
+      "The startup is developing technology aimed at the growing list of companies that are developing their own custom AI computing chips to compete with graphics processing units from Nvidia and Advanced Micro Devices.",
+      "Regardless of who makes them, most AI chips today face the same basic problem: They can process data much faster than they can send or receive it, which leaves pricey chips waiting and idle.",
+      "\"People have tried to build faster compute, faster processors and GPUs,\" Eliyan CEO and co-founder Ramin Farjadrad told Reuters in an interview. \"Today we are at the point that we are maybe 30-40% of the GPUs is being used, and is being mainly limited by how fast they can receive the data to process. We're solving that problem.\"",
+      "Nvidia overcame the connectivity issue in part by buying Mellanox for $6.8 billion in 2019. Companies like Alphabet's Google and Amazon.com's cloud unit solve the problem by working with firms such as Broadcom and Marvell Technology for access to those firms' networking technology.",
+      "Eliyan aims to offer an independent option, both licensing its technology and providing pieces of a chip called \"chiplets\" that companies making custom processors can integrate into their own designs.",
+      "Patrick Soheili, Eliyan's chief strategy and business officer, said the company expects to start initial shipments of chiplets this year and forecasts hundreds of millions of dollars in sales by the end of 2027, up from \"low millions\" of dollars in revenue in 2025.",
+      "The Series C funding round was led by Seligman Ventures, with both existing and new investors taking part in addition to Cisco and Lumentum. As part of the funding, Seligman Managing Partner Umesh Padval, who was on Mellanox's board when it was sold to Nvidia, will take a seat on Eliyan's board.",
+      "(Reporting by Stephen Nellis in San Francisco; Editing by Jamie Freed)"
+    ],
+    "html": null
+  }
+}

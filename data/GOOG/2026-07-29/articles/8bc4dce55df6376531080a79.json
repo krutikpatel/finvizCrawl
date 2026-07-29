@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/doordash-launches-house-drone-delivery-135152945.html",
+    "fetched_at": "2026-07-29T07:00:28.877426-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "DoorDash launches in-house drone delivery program after FAA certification",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 29 (Reuters) - DoorDash on Wednesday launched its in-house drone-delivery program, DoorDash Air, after securing a U.S. Federal Aviation Administration certification to operate commercial drone deliveries in the U.S.\nThe move marks the food-delivery company's push into autonomous delivery as it looks to reduce reliance on human couriers and expand its logistics network.\nHere are the key details:\n• The program was developed by DoorDash Labs, its robotics and autonomy unit, and will eventually be integrated into its delivery app, according to a TechCrunch report.\n• DoorDash said it is building its own aircraft and broader drone infrastructure but did not provide a timeline for commercial deployment.\n• The launch adds DoorDash to a growing field of drone-delivery operators that includes Amazon's Prime Air, Alphabet-owned Wing and Zipline, which have been expanding commercial operations in recent years.\n• The company will continue working with existing drone-delivery partners Wing and Flytrex even as it develops its own capabilities, the TechCrunch report added.\n• DoorDash already operates a multi-modal delivery network that combines human couriers, its Dot sidewalk robots and autonomous delivery partners, with drones serving as an additional fulfillment option.\n(Reporting by Savyata Mishra in Bengaluru; Editing by Shreya Biswas)",
+    "text_blocks": [
+      "July 29 (Reuters) - DoorDash on Wednesday launched its in-house drone-delivery program, DoorDash Air, after securing a U.S. Federal Aviation Administration certification to operate commercial drone deliveries in the U.S.",
+      "The move marks the food-delivery company's push into autonomous delivery as it looks to reduce reliance on human couriers and expand its logistics network.",
+      "Here are the key details:",
+      "• The program was developed by DoorDash Labs, its robotics and autonomy unit, and will eventually be integrated into its delivery app, according to a TechCrunch report.",
+      "• DoorDash said it is building its own aircraft and broader drone infrastructure but did not provide a timeline for commercial deployment.",
+      "• The launch adds DoorDash to a growing field of drone-delivery operators that includes Amazon's Prime Air, Alphabet-owned Wing and Zipline, which have been expanding commercial operations in recent years.",
+      "• The company will continue working with existing drone-delivery partners Wing and Flytrex even as it develops its own capabilities, the TechCrunch report added.",
+      "• DoorDash already operates a multi-modal delivery network that combines human couriers, its Dot sidewalk robots and autonomous delivery partners, with drones serving as an additional fulfillment option.",
+      "(Reporting by Savyata Mishra in Bengaluru; Editing by Shreya Biswas)"
+    ],
+    "html": null
+  }
+}

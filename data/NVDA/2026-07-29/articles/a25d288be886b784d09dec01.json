@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-biggest-ai-bet-yet-135102566.html",
+    "fetched_at": "2026-07-29T07:00:39.672577-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Biggest AI Bet Yet Has Wall Street Asking New Questions",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) is facing increased scrutiny from credit investors following reports that the chipmaker is exploring financing arrangements tied to large artificial intelligence infrastructure projects, raising questions about potential balance sheet exposure.\nMedia reports said Nvidia is discussing AI infrastructure transactions worth more than $750 billion, including a proposed $250 billion financing guarantee related to OpenAI's planned Ohio data center and a separate arrangement that could help finance up to $350 billion of OpenAI chip purchases. The negotiations remain in the early stages, according to the reports, and Nvidia has not publicly commented.\nThe reports also coincided with Nvidia's five-year credit default swap (CDS) reaching a record 82 basis points on July 27, reflecting growing attention to the company's credit profile. Market participants have pointed to concerns over vendor financing, in which suppliers provide financing or guarantees that support customer purchases. Analysts said such arrangements could increase balance sheet risk even as they help drive AI infrastructure investment.\nThe discussions come as spending on AI infrastructure continues to accelerate. FactSet estimates combined 2026 capital expenditures by Alphabet (GOOGL), Amazon (AMZN), Meta Platforms (META), Microsoft (MSFT), and Oracle (ORCL) could exceed $690 billion. Nvidia is scheduled to report fiscal second-quarter results on Aug. 26, with Wall Street expecting earnings of $2.08 per share on revenue of about $91.79 billion.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) is facing increased scrutiny from credit investors following reports that the chipmaker is exploring financing arrangements tied to large artificial intelligence infrastructure projects, raising questions about potential balance sheet exposure.",
+      "Media reports said Nvidia is discussing AI infrastructure transactions worth more than $750 billion, including a proposed $250 billion financing guarantee related to OpenAI's planned Ohio data center and a separate arrangement that could help finance up to $350 billion of OpenAI chip purchases. The negotiations remain in the early stages, according to the reports, and Nvidia has not publicly commented.",
+      "The reports also coincided with Nvidia's five-year credit default swap (CDS) reaching a record 82 basis points on July 27, reflecting growing attention to the company's credit profile. Market participants have pointed to concerns over vendor financing, in which suppliers provide financing or guarantees that support customer purchases. Analysts said such arrangements could increase balance sheet risk even as they help drive AI infrastructure investment.",
+      "The discussions come as spending on AI infrastructure continues to accelerate. FactSet estimates combined 2026 capital expenditures by Alphabet (GOOGL), Amazon (AMZN), Meta Platforms (META), Microsoft (MSFT), and Oracle (ORCL) could exceed $690 billion. Nvidia is scheduled to report fiscal second-quarter results on Aug. 26, with Wall Street expecting earnings of $2.08 per share on revenue of about $91.79 billion."
+    ],
+    "html": null
+  }
+}

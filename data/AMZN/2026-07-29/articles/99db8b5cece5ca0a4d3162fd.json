@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-q2-earnings-preview-expect-121309381.html",
+    "fetched_at": "2026-07-29T07:00:42.654693-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Q2 Earnings Preview: What To Expect From Upcoming Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN) is scheduled to report second-quarter 2026 results after Thursday's market close, with investors expected to focus on Amazon Web Services, artificial intelligence spending, and the company's outlook for the current quarter.\nWall Street expects Amazon to report earnings of $1.81 per share on revenue of about $195.97 billion, near the midpoint of management's guidance of $194 billion to $199 billion. Investors will also watch whether Amazon increases its capital spending plans as demand for AI infrastructure continues to expand.\nIn the previous quarter, Amazon posted earnings of $2.78 per share, ahead of analysts' expectations of $1.73, while revenue rose 16.6% year over year to $181.5 billion. AWS revenue increased 28% to $37.6 billion, marking its fastest growth in 15 quarters. Operating income reached a record level, although free cash flow declined to $1.2 billion as capital expenditures climbed to $43.2 billion. The company also noted its second-quarter outlook includes roughly $1 billion in additional Project Kuiper satellite costs.\nAhead of the report, Bank of America lifted its AWS growth forecast to 33% from 31%, citing continued AI demand through Anthropic workloads and Amazon Bedrock. KeyBanc also raised its price target, while analysts continue to monitor AWS momentum, third-quarter guidance, AI investment plans, and the impact of an earlier Prime Day event on retail sales. Wall Street maintains a Strong Buy consensus on Amazon.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN) is scheduled to report second-quarter 2026 results after Thursday's market close, with investors expected to focus on Amazon Web Services, artificial intelligence spending, and the company's outlook for the current quarter.",
+      "Wall Street expects Amazon to report earnings of $1.81 per share on revenue of about $195.97 billion, near the midpoint of management's guidance of $194 billion to $199 billion. Investors will also watch whether Amazon increases its capital spending plans as demand for AI infrastructure continues to expand.",
+      "In the previous quarter, Amazon posted earnings of $2.78 per share, ahead of analysts' expectations of $1.73, while revenue rose 16.6% year over year to $181.5 billion. AWS revenue increased 28% to $37.6 billion, marking its fastest growth in 15 quarters. Operating income reached a record level, although free cash flow declined to $1.2 billion as capital expenditures climbed to $43.2 billion. The company also noted its second-quarter outlook includes roughly $1 billion in additional Project Kuiper satellite costs.",
+      "Ahead of the report, Bank of America lifted its AWS growth forecast to 33% from 31%, citing continued AI demand through Anthropic workloads and Amazon Bedrock. KeyBanc also raised its price target, while analysts continue to monitor AWS momentum, third-quarter guidance, AI investment plans, and the impact of an earlier Prime Day event on retail sales. Wall Street maintains a Strong Buy consensus on Amazon."
+    ],
+    "html": null
+  }
+}

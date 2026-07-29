@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/direxion-unveils-options-income-etf-131914251.html",
+    "fetched_at": "2026-07-29T07:00:09.764295-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Direxion unveils options income ETF suite tied to Nvidia, Tesla and other megacap",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Direxion on Wednesday launched a new family of exchange-traded funds designed to generate income by writing call options on individual high-volatility stocks, expanding beyond its traditional leveraged and inverse ETF offerings.\nThe new Defined Income Boost lineup comprises six ETFs linked to Nvidia, Tesla, Alphabet, Meta Platforms, Palantir Technologies and Micron Technology. The funds seek to provide income through covered call strategies based on rules-driven Cboe indexes while remaining unleveraged.\nThe asset manager said the products are aimed at investors seeking income exposure from fast-growing companies that pay little or no dividends. Rather than relying on dividend payments, the ETFs generate income from option premiums while seeking to keep performance more closely aligned with the underlying stocks.\nDirexion Chief Product Officer Mo Sparks said the new funds extend the firm's derivatives expertise into income-focused strategies, adding that the company expects to expand the Defined Income Boost lineup over time.\nFounded in 1997, Direxion managed approximately $85.4 billion in assets as of June 30, 2026. The company said the funds are based on published Cboe indexes and are intended for investors seeking a non-leveraged options-based income strategy, while cautioning that there is no guarantee the ETFs will achieve their investment objectives.\nRelated articles\nDirexion unveils options income ETF suite tied to Nvidia, Tesla and other megacap\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- Direxion on Wednesday launched a new family of exchange-traded funds designed to generate income by writing call options on individual high-volatility stocks, expanding beyond its traditional leveraged and inverse ETF offerings.",
+      "The new Defined Income Boost lineup comprises six ETFs linked to Nvidia, Tesla, Alphabet, Meta Platforms, Palantir Technologies and Micron Technology. The funds seek to provide income through covered call strategies based on rules-driven Cboe indexes while remaining unleveraged.",
+      "The asset manager said the products are aimed at investors seeking income exposure from fast-growing companies that pay little or no dividends. Rather than relying on dividend payments, the ETFs generate income from option premiums while seeking to keep performance more closely aligned with the underlying stocks.",
+      "Direxion Chief Product Officer Mo Sparks said the new funds extend the firm's derivatives expertise into income-focused strategies, adding that the company expects to expand the Defined Income Boost lineup over time.",
+      "Founded in 1997, Direxion managed approximately $85.4 billion in assets as of June 30, 2026. The company said the funds are based on published Cboe indexes and are intended for investors seeking a non-leveraged options-based income strategy, while cautioning that there is no guarantee the ETFs will achieve their investment objectives.",
+      "Related articles",
+      "Direxion unveils options income ETF suite tied to Nvidia, Tesla and other megacap",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

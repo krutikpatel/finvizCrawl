@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-supplier-sk-hynix-stock-135141768.html",
+    "fetched_at": "2026-07-29T07:00:39.790061-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Supplier SK Hynix Stock Falls 9.6% on Earnings Miss",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSK Hynix (NASDAQ:SKHY), the South Korean memory chipmaker that supplies HBM and AI server DRAM to customers including Nvidia (NASDAQ:NVDA), fell 9.6% in Seoul after reporting second-quarter revenue of 79.32 trillion won ($54.55 billion) and operating profit of 60.54 trillion won. Both missed analysts' estimates of 84 trillion and 64 trillion won. Revenue rose 257% from a year earlier and operating profit 557%, for an operating margin of 76%. Net profit reached 93.92 trillion won. Prices climbed quarter over quarter in both DRAM and NAND.\nCash reached 88 trillion won, while debt fell to 18.6 trillion. First-half revenue passed 100 trillion won for the first time. SK Hynix began mass shipments of HBM4 during the quarter and completed HBM4E sample shipments, with long-term agreements now covering around 10 key customers. The company guided full-year capex to the high 40 trillion won range while saying it will prioritize growth investment and a sound financial structure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SK Hynix (NASDAQ:SKHY), the South Korean memory chipmaker that supplies HBM and AI server DRAM to customers including Nvidia (NASDAQ:NVDA), fell 9.6% in Seoul after reporting second-quarter revenue of 79.32 trillion won ($54.55 billion) and operating profit of 60.54 trillion won. Both missed analysts' estimates of 84 trillion and 64 trillion won. Revenue rose 257% from a year earlier and operating profit 557%, for an operating margin of 76%. Net profit reached 93.92 trillion won. Prices climbed quarter over quarter in both DRAM and NAND.",
+      "Cash reached 88 trillion won, while debt fell to 18.6 trillion. First-half revenue passed 100 trillion won for the first time. SK Hynix began mass shipments of HBM4 during the quarter and completed HBM4E sample shipments, with long-term agreements now covering around 10 key customers. The company guided full-year capex to the high 40 trillion won range while saying it will prioritize growth investment and a sound financial structure."
+    ],
+    "html": null
+  }
+}

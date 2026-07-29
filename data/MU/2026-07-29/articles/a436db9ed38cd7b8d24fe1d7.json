@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6d020578-e4da-3c0e-8818-eef88221fecf/chipagents-raises-%2460.html",
+    "fetched_at": "2026-07-29T07:00:17.524837-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "ChipAgents raises $60 million, expands Nvidia partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "ChipAgents announced an additional $60 million in Series A2 financing on Wednesday, bringing its total Series A funding to $134 million, as the chip design software company also expanded its partnership with Nvidia.\nB Capital led the new round, with existing investors Bessemer Venture Partners, Micron, MediaTek, and Ericsson also participating, the company said. The financing comes six months after ChipAgents closed its initial Series A.\nEarlier this week, ChipAgents said it was expanding its collaboration with Nvidia to include development of a specialized AI model focused on chip design, according to Reuters. Chief executive officer William Wang declined to say whether Nvidia is an investor.\nThe company's platform deploys AI agents — autonomous programs that can weigh options and carry out intricate tasks without significant human intervention — to streamline and automate the workflows involved in semiconductor design and verification, the company said. The platform reduces design cycles by more than 50%, the company said, compressing engineering tasks that once required months or weeks into days or hours.\n\"We're enabling the industry to move beyond AI assistants toward autonomous agents that can execute meaningful engineering work,\" William Wang said in a statement. \"Our customer growth shows that semiconductor companies are ready for that shift, and this financing allows us to bring that capability to even more engineering teams.\"\nThe new funding follows a strong first half of 2026, during which the company reported 6x growth in annual recurring revenue and deployments at more than 120 semiconductor companies, including MediaTek and Micron, the company said. ChipAgents was founded in 2024 and is headquartered in Santa Clara, California.\nThe company said it plans to use the proceeds to scale customer deployments, expand its engineering and go-to-market teams, and accelerate product development. ChipAgents has about 64 employees, according to Reuters.\n\"ChipAgents has demonstrated the rare combination of breakthrough AI innovation and exceptional commercial execution,\" Daisy Cai, general partner at B Capital, said in a statement. \"ChipAgents has translated cutting-edge AI research into a platform that customers are deploying in production.\"\nTraditional chip design methods can demand hundreds of millions of dollars and stretch across multiple years. Several startups have entered the market in recent months, each positioning AI as a way to cut time and cost out of the most demanding stages of chip development.",
+    "text_blocks": [
+      "ChipAgents announced an additional $60 million in Series A2 financing on Wednesday, bringing its total Series A funding to $134 million, as the chip design software company also expanded its partnership with Nvidia.",
+      "B Capital led the new round, with existing investors Bessemer Venture Partners, Micron, MediaTek, and Ericsson also participating, the company said. The financing comes six months after ChipAgents closed its initial Series A.",
+      "Earlier this week, ChipAgents said it was expanding its collaboration with Nvidia to include development of a specialized AI model focused on chip design, according to Reuters. Chief executive officer William Wang declined to say whether Nvidia is an investor.",
+      "The company's platform deploys AI agents — autonomous programs that can weigh options and carry out intricate tasks without significant human intervention — to streamline and automate the workflows involved in semiconductor design and verification, the company said. The platform reduces design cycles by more than 50%, the company said, compressing engineering tasks that once required months or weeks into days or hours.",
+      "\"We're enabling the industry to move beyond AI assistants toward autonomous agents that can execute meaningful engineering work,\" William Wang said in a statement. \"Our customer growth shows that semiconductor companies are ready for that shift, and this financing allows us to bring that capability to even more engineering teams.\"",
+      "The new funding follows a strong first half of 2026, during which the company reported 6x growth in annual recurring revenue and deployments at more than 120 semiconductor companies, including MediaTek and Micron, the company said. ChipAgents was founded in 2024 and is headquartered in Santa Clara, California.",
+      "The company said it plans to use the proceeds to scale customer deployments, expand its engineering and go-to-market teams, and accelerate product development. ChipAgents has about 64 employees, according to Reuters.",
+      "\"ChipAgents has demonstrated the rare combination of breakthrough AI innovation and exceptional commercial execution,\" Daisy Cai, general partner at B Capital, said in a statement. \"ChipAgents has translated cutting-edge AI research into a platform that customers are deploying in production.\"",
+      "Traditional chip design methods can demand hundreds of millions of dollars and stretch across multiple years. Several startups have entered the market in recent months, each positioning AI as a way to cut time and cost out of the most demanding stages of chip development."
+    ],
+    "html": null
+  }
+}

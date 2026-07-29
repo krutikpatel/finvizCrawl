@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/explainer-credit-default-swaps-why-110342195.html",
+    "fetched_at": "2026-07-29T07:00:26.039027-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Explainer-What are credit default swaps and why are they spooking AI investors?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Amanda Cooper\nJuly 29 (Reuters) - Shares in companies driving the AI boom have been under pressure for weeks. Now their bonds are coming under strain too, pushing up the cost of insuring debt issued by companies such as Oracle, Nvidia and Apple against default.\nThe move reflects growing concern among investors about when the billions of dollars being poured into artificial intelligence will generate returns.\nTechnology companies have raised billions of dollars in debt this year to fund AI investments, with firms including Nvidia tapping bond markets for the first time. But the cost of the AI build-out is so high that even blockbuster earnings have failed to reassure some investors about the durability of future returns.\nDemand for AI-linked credit default swaps (CDS), a form of insurance against default that gained prominence during the 2008 financial crisis, has surged.\nWHAT IS A CDS?\nA CDS is a derivative that provides protection against the risk that a bond issuer, such as a company or government, fails to meet its debt obligations.\nBond investors expect to receive interest payments and repayment of principal when a bond matures, but they bear the risk that those payments may not be made.\nCDS help investors hedge that risk by effectively providing insurance against a default or other credit event.\nIS THIS A BIG MARKET?\nThe market for single-name CDS, which cover the bonds of a single issuer, is worth about $9 trillion, according to the International Swaps and Derivatives Association (ISDA).\nThat is a small portion of global bond markets, which have more than $150 trillion of debt securities outstanding, according to the Bank for International Settlements.\nThe biggest CDS market is for government debt. Saudi Arabia's CDS were the most actively traded in the second quarter, with average daily notional trading of about $500 million, according to Depositary Trust & Clearing Corporation (DTCC) data.\nAverage daily CDS trading across the market was $16 billion in the second quarter, up from $13 billion a year earlier.\nBanks dominate the corporate CDS market, but technology companies are gaining ground. Trading linked to the sector reached nearly $650 million in the second quarter, up 20% from the first quarter and almost 600% from a year earlier, helped by new entrants such as Meta, Nvidia and Alphabet, DTCC data shows.\nBut CDS trading can be relatively thin. Average daily trades, even for large companies, can sometimes be in the single digits, meaning small transactions can have an outsized impact on prices.",
+    "text_blocks": [
+      "By Amanda Cooper",
+      "July 29 (Reuters) - Shares in companies driving the AI boom have been under pressure for weeks. Now their bonds are coming under strain too, pushing up the cost of insuring debt issued by companies such as Oracle, Nvidia and Apple against default.",
+      "The move reflects growing concern among investors about when the billions of dollars being poured into artificial intelligence will generate returns.",
+      "Technology companies have raised billions of dollars in debt this year to fund AI investments, with firms including Nvidia tapping bond markets for the first time. But the cost of the AI build-out is so high that even blockbuster earnings have failed to reassure some investors about the durability of future returns.",
+      "Demand for AI-linked credit default swaps (CDS), a form of insurance against default that gained prominence during the 2008 financial crisis, has surged.",
+      "WHAT IS A CDS?",
+      "A CDS is a derivative that provides protection against the risk that a bond issuer, such as a company or government, fails to meet its debt obligations.",
+      "Bond investors expect to receive interest payments and repayment of principal when a bond matures, but they bear the risk that those payments may not be made.",
+      "CDS help investors hedge that risk by effectively providing insurance against a default or other credit event.",
+      "IS THIS A BIG MARKET?",
+      "The market for single-name CDS, which cover the bonds of a single issuer, is worth about $9 trillion, according to the International Swaps and Derivatives Association (ISDA).",
+      "That is a small portion of global bond markets, which have more than $150 trillion of debt securities outstanding, according to the Bank for International Settlements.",
+      "The biggest CDS market is for government debt. Saudi Arabia's CDS were the most actively traded in the second quarter, with average daily notional trading of about $500 million, according to Depositary Trust & Clearing Corporation (DTCC) data.",
+      "Average daily CDS trading across the market was $16 billion in the second quarter, up from $13 billion a year earlier.",
+      "Banks dominate the corporate CDS market, but technology companies are gaining ground. Trading linked to the sector reached nearly $650 million in the second quarter, up 20% from the first quarter and almost 600% from a year earlier, helped by new entrants such as Meta, Nvidia and Alphabet, DTCC data shows.",
+      "But CDS trading can be relatively thin. Average daily trades, even for large companies, can sometimes be in the single digits, meaning small transactions can have an outsized impact on prices."
+    ],
+    "html": null
+  }
+}

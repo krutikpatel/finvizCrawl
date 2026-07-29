@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b2ae9d9c-45c2-3d41-a5a7-04712cd23391/intel-posted-a-big-beat-and.html",
+    "fetched_at": "2026-07-29T07:00:45.379333-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A quarter that nearly doubled expected profit still could not outweigh a rising capital bill, a softer profit guide, and a foundry deep in the red.\nIntel (INTC) handed investors the headline they had waited for, and they sold it anyway. Second-quarter non-GAAP earnings of $0.42 a share came in nearly double the $0.22 that analysts expected, on revenue of about $16.1 billion that cleared the $14.7 billion consensus by roughly $1.4 billion. Shares jumped nearly 11% in after-hours trading on the release, then reversed to close down 7.9% the next trading day. Over the same span the S&P 500 was flat, AMD fell 3.3%, and NVDA slipped 0.9%. For a stock that has run up hard over the past year, swinging between about $19 and $141, a reversal that steep is the real signal, because a beat this clean getting sold this hard, nearly alone in its sector, means the market was trading something other than the print.\nIf The Quarter Was That Strong, Why Guide Profit Lower?\nThe tell sits in the outlook, which is the number a stock like this actually trades on. For fiscal Q3 2026, the quarter ending in September, management set revenue guidance to a midpoint near $16.3 billion and forecast gross margin around 42%, yet pegged earnings at $0.38 a share, a step down from the $0.42 just delivered even as the top line edges higher. A record-looking quarter arrived stapled to a forward profit number pointing the other way, and that gap, not the beat, is what changed hands.\nIs This About One Guide, Or What The Growth Now Costs?\nIt is the cost of growth. Management raised its 2026 capital budget to more than $20 billion, up sharply from its plan entering the year, and signaled 2027 spending will run significantly higher still, a company spending harder to chase demand it concedes it cannot fully supply. The foundry business it is funding lost $2.1 billion in the quarter, even after a roughly $348 million improvement, and over the past twelve months Intel's net margin sits at -19.8%, below its own three-year average. Revenue is genuinely accelerating, at a trailing $57 billion over the past year and up 7.5% against a three-year pace near 1.9%, but the profit to pay for the build is not here yet.\nWhat Does Management Concede On Margins?\nIts case is that the spending is pre-sold, backed by long-term customer agreements it says it will not fund ahead of firm orders. The concession is on margins. The new 18A products now ramping, Panther Lake among them, still sit below Intel's corporate-average gross margin because they are early in their life cycle. Gross margin did beat, at 42%, roughly 280 basis points above guidance, and the September guide holds near 42%, but that steadiness leans on a one-time inventory write-down not repeating rather than on the new chips carrying their weight.",
+    "text_blocks": [
+      "A quarter that nearly doubled expected profit still could not outweigh a rising capital bill, a softer profit guide, and a foundry deep in the red.",
+      "Intel (INTC) handed investors the headline they had waited for, and they sold it anyway. Second-quarter non-GAAP earnings of $0.42 a share came in nearly double the $0.22 that analysts expected, on revenue of about $16.1 billion that cleared the $14.7 billion consensus by roughly $1.4 billion. Shares jumped nearly 11% in after-hours trading on the release, then reversed to close down 7.9% the next trading day. Over the same span the S&P 500 was flat, AMD fell 3.3%, and NVDA slipped 0.9%. For a stock that has run up hard over the past year, swinging between about $19 and $141, a reversal that steep is the real signal, because a beat this clean getting sold this hard, nearly alone in its sector, means the market was trading something other than the print.",
+      "If The Quarter Was That Strong, Why Guide Profit Lower?",
+      "The tell sits in the outlook, which is the number a stock like this actually trades on. For fiscal Q3 2026, the quarter ending in September, management set revenue guidance to a midpoint near $16.3 billion and forecast gross margin around 42%, yet pegged earnings at $0.38 a share, a step down from the $0.42 just delivered even as the top line edges higher. A record-looking quarter arrived stapled to a forward profit number pointing the other way, and that gap, not the beat, is what changed hands.",
+      "Is This About One Guide, Or What The Growth Now Costs?",
+      "It is the cost of growth. Management raised its 2026 capital budget to more than $20 billion, up sharply from its plan entering the year, and signaled 2027 spending will run significantly higher still, a company spending harder to chase demand it concedes it cannot fully supply. The foundry business it is funding lost $2.1 billion in the quarter, even after a roughly $348 million improvement, and over the past twelve months Intel's net margin sits at -19.8%, below its own three-year average. Revenue is genuinely accelerating, at a trailing $57 billion over the past year and up 7.5% against a three-year pace near 1.9%, but the profit to pay for the build is not here yet.",
+      "What Does Management Concede On Margins?",
+      "Its case is that the spending is pre-sold, backed by long-term customer agreements it says it will not fund ahead of firm orders. The concession is on margins. The new 18A products now ramping, Panther Lake among them, still sit below Intel's corporate-average gross margin because they are early in their life cycle. Gross margin did beat, at 42%, roughly 280 basis points above guidance, and the September guide holds near 42%, but that steadiness leans on a one-time inventory write-down not repeating rather than on the new chips carrying their weight."
+    ],
+    "html": null
+  }
+}
