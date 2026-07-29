@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "PLTR",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:33.495018-07:00",
-  "finished_at": "2026-07-28T07:00:35.875139-07:00",
+  "started_at": "2026-07-28T22:13:32.974722-07:00",
+  "finished_at": "2026-07-28T22:13:35.522795-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -54,8 +54,16 @@
     "news_links_new": 26,
     "news_links_skipped_recent": 73,
     "news_links_retry_failed": 1,
-    "articles_fetched_ok": 5,
-    "articles_failed": 0
+    "articles_fetched_ok": 4,
+    "articles_failed": 1
   },
-  "errors": []
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/why-palantirs-stock-is-missing-out-on-a-big-software-rally-08acc5bf?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-missing-out-on-a-big-software-rally-08acc5bf?mod=mw_FV"
+      }
+    }
+  ]
 }

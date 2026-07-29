@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/wall-street-ends-mixed-investors-225803995.html",
+    "fetched_at": "2026-07-28T22:13:29.513531-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street ends mixed as investors await tech earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street ends mixed as investors await tech earnings Reuters Videos Tue, July 28, 2026 at 3:58 PM PDT ^DJI ^GSPC ^IXIC MSFT AMZN View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info",
+    "text_blocks": [
+      "Wall Street ends mixed as investors await tech earnings Reuters Videos Tue, July 28, 2026 at 3:58 PM PDT ^DJI ^GSPC ^IXIC MSFT AMZN View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/37312e86-136b-35c9-9ce9-0361e12f522f/apple-overtakes-nvidia%E2%80%94which.html",
+    "fetched_at": "2026-07-28T22:13:07.199346-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple is the world's most valuable company again. Will it stay that way before the end of July?\nOn Polymarket—a prediction market where contract prices behave like crowd-generated probabilities—Apple's chance of finishing July in first place surged by more than 50% in roughly a day, reaching about 79%.\nNvidia, now the second-most valuable company on Earth, fell to around 22%, and the market has attracted about $4.7 million in total trading volume.\nAt Tuesday's close, Apple was valued at approximately $4.995 trillion, compared with Nvidia's $4.768 trillion. That gives the iPhone maker a lead of roughly $227 billion.\nThat is a lot of money. It is also small enough to disappear during one ugly trading session.\nApple spent the past two years being mocked for arriving late to artificial intelligence. Suddenly, not writing blank checks for giant GPU farms looks less like incompetence and more like risk management.\nInvestors are growing nervous about AI capital expenditure, or capex—the money companies spend on long-lived assets such as chips, servers and data centers. Reuters estimates that five major cloud companies could spend more on capex than they generate in free cash flow by 2027.\nNvidia sits at the center of that spending cycle. Its shares fell as investors questioned reports that the chipmaker could provide a roughly $250 billion financial backstop for an OpenAI data-center project, adding to concerns that AI companies are increasingly financing their own customers.\nApple is not sitting out AI entirely. The company unveiled a rebuilt Siri in early June with conversational features and personal-context awareness, while relying partly on outside models and its own smaller on-device systems.\nThat strategy was previously treated as proof that Apple had lost the AI race. This week, it looks cheaper.\nNvidia is hardly dead. Its data-center revenue rose 75% to $62.3 billion in its latest reported quarter, proving that demand for AI infrastructure remains enormous.\nApple will report fiscal third-quarter results on July 30 at 5 p.m. Eastern time. Polymarket's contract resolves based on which company has the largest market capitalization at the July 31 market close.",
+    "text_blocks": [
+      "Apple is the world's most valuable company again. Will it stay that way before the end of July?",
+      "On Polymarket—a prediction market where contract prices behave like crowd-generated probabilities—Apple's chance of finishing July in first place surged by more than 50% in roughly a day, reaching about 79%.",
+      "Nvidia, now the second-most valuable company on Earth, fell to around 22%, and the market has attracted about $4.7 million in total trading volume.",
+      "At Tuesday's close, Apple was valued at approximately $4.995 trillion, compared with Nvidia's $4.768 trillion. That gives the iPhone maker a lead of roughly $227 billion.",
+      "That is a lot of money. It is also small enough to disappear during one ugly trading session.",
+      "Apple spent the past two years being mocked for arriving late to artificial intelligence. Suddenly, not writing blank checks for giant GPU farms looks less like incompetence and more like risk management.",
+      "Investors are growing nervous about AI capital expenditure, or capex—the money companies spend on long-lived assets such as chips, servers and data centers. Reuters estimates that five major cloud companies could spend more on capex than they generate in free cash flow by 2027.",
+      "Nvidia sits at the center of that spending cycle. Its shares fell as investors questioned reports that the chipmaker could provide a roughly $250 billion financial backstop for an OpenAI data-center project, adding to concerns that AI companies are increasingly financing their own customers.",
+      "Apple is not sitting out AI entirely. The company unveiled a rebuilt Siri in early June with conversational features and personal-context awareness, while relying partly on outside models and its own smaller on-device systems.",
+      "That strategy was previously treated as proof that Apple had lost the AI race. This week, it looks cheaper.",
+      "Nvidia is hardly dead. Its data-center revenue rose 75% to $62.3 billion in its latest reported quarter, proving that demand for AI infrastructure remains enormous.",
+      "Apple will report fiscal third-quarter results on July 30 at 5 p.m. Eastern time. Polymarket's contract resolves based on which company has the largest market capitalization at the July 31 market close."
+    ],
+    "html": null
+  }
+}

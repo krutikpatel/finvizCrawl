@@ -4,9 +4,48 @@
   "source": {
     "name": "finviz",
     "url": "https://finviz.com/stock?t=ENPH",
-    "fetched_at": "2026-07-28T07:00:17.116529-07:00"
+    "fetched_at": "2026-07-28T22:13:15.308429-07:00"
   },
   "items": [
+    {
+      "published_at": "2026-07-28T01:01:00-07:00",
+      "published_at_raw": "Today 01:01AM",
+      "publisher": "(GuruFocus.com)",
+      "headline": "Enphase Energy Inc (ENPH) Q2 2026 Earnings Call Highlights: Strong Profitability Amid Market ...",
+      "url": "https://finance.yahoo.com/energy/articles/enphase-energy-inc-enph-q2-050159742.html",
+      "resolved_url": "https://finance.yahoo.com/energy/articles/enphase-energy-inc-enph-q2-050159742.html",
+      "url_resolution_status": "already_absolute",
+      "url_resolution_reason": null,
+      "article_id": "8e55b9a3c1f9ccfdcd0da9e5",
+      "dedup_status": "new",
+      "dedup_reason": "not_seen_before"
+    },
+    {
+      "published_at": "2026-07-28T16:21:00-07:00",
+      "published_at_raw": "Jul-28-26 04:21PM",
+      "publisher": "(Associated Press)",
+      "headline": "Enphase Energy: Q2 Earnings Snapshot",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-q2-earnings-snapshot-202155781.html",
+      "resolved_url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-q2-earnings-snapshot-202155781.html",
+      "url_resolution_status": "already_absolute",
+      "url_resolution_reason": null,
+      "article_id": "1ea6f816b45ed9c86732d0be",
+      "dedup_status": "new",
+      "dedup_reason": "not_seen_before"
+    },
+    {
+      "published_at": "2026-07-28T16:05:00-07:00",
+      "published_at_raw": "04:05PM",
+      "publisher": "(GlobeNewswire)",
+      "headline": "Enphase Energy Reports Financial Results for the Second Quarter of 2026",
+      "url": "/news/373676/enphase-energy-reports-financial-results-for-the-second-quarter-of-2026",
+      "resolved_url": "https://finviz.com/news/373676/enphase-energy-reports-financial-results-for-the-second-quarter-of-2026",
+      "url_resolution_status": "resolved",
+      "url_resolution_reason": null,
+      "article_id": "a7f6a1b8485959edac6e6d32",
+      "dedup_status": "new",
+      "dedup_reason": "not_seen_before"
+    },
     {
       "published_at": "2026-07-27T08:00:00-07:00",
       "published_at_raw": "Jul-27-26 08:00AM",
@@ -17,8 +56,8 @@
       "url_resolution_status": "resolved",
       "url_resolution_reason": null,
       "article_id": "b69afc1d12843abf0cbfb675",
-      "dedup_status": "new",
-      "dedup_reason": "not_seen_before"
+      "dedup_status": "skipped_recent",
+      "dedup_reason": "recent_success"
     },
     {
       "published_at": "2026-07-23T14:24:00-07:00",
@@ -1267,45 +1306,6 @@
       "article_id": "7307c492d677557058a864b0",
       "dedup_status": "retry_failed_recent",
       "dedup_reason": "recent_failure_retry"
-    },
-    {
-      "published_at": "2026-02-18T12:02:00-08:00",
-      "published_at_raw": "Feb-18-26 12:02PM",
-      "publisher": "(Zacks)",
-      "headline": "SolarEdge Technologies Q4 Earnings Top Estimates, Revenues Rise Y/Y",
-      "url": "/news/314745/solaredge-technologies-q4-earnings-top-estimates-revenues-rise-yy",
-      "resolved_url": "https://finviz.com/news/314745/solaredge-technologies-q4-earnings-top-estimates-revenues-rise-yy",
-      "url_resolution_status": "resolved",
-      "url_resolution_reason": null,
-      "article_id": "4fc137828dbf5c4d2b9020dc",
-      "dedup_status": "skipped_recent",
-      "dedup_reason": "recent_success"
-    },
-    {
-      "published_at": "2026-02-17T23:33:00-08:00",
-      "published_at_raw": "Feb-17-26 11:33PM",
-      "publisher": "(StockStory)",
-      "headline": "1 Cash-Heavy Stock to Target This Week and 2 We Question",
-      "url": "/news/313936/1-cash-heavy-stock-to-target-this-week-and-2-we-question",
-      "resolved_url": "https://finviz.com/news/313936/1-cash-heavy-stock-to-target-this-week-and-2-we-question",
-      "url_resolution_status": "resolved",
-      "url_resolution_reason": null,
-      "article_id": "f84105399ac770c3f161402c",
-      "dedup_status": "skipped_recent",
-      "dedup_reason": "recent_success"
-    },
-    {
-      "published_at": "2026-07-28T08:00:00-07:00",
-      "published_at_raw": "08:00AM",
-      "publisher": "(GlobeNewswire)",
-      "headline": "Enphase Energy Introduces Power Control Software to Improve Commercial Solar Economics",
-      "url": "/news/312555/enphase-energy-introduces-power-control-software-to-improve-commercial-solar-economics",
-      "resolved_url": "https://finviz.com/news/312555/enphase-energy-introduces-power-control-software-to-improve-commercial-solar-economics",
-      "url_resolution_status": "resolved",
-      "url_resolution_reason": null,
-      "article_id": "440cb583493062ad13f0e935",
-      "dedup_status": "skipped_recent",
-      "dedup_reason": "recent_success"
     }
   ]
 }

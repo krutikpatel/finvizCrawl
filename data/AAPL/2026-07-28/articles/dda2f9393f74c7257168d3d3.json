@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/tsmc-tencent-break-top-100-210000080.html",
+    "fetched_at": "2026-07-28T22:13:07.086913-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "TSMC and Tencent break into the top 100 of the Fortune Global 500 list, as Asia rides the AI boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Fortune Global 500 has long been a scoreboard of corporate scale, reflecting the rise and fall of different industries and sectors. And in 2026, the ranking of the world's largest companies by revenue reflects just how much the AI boom is supercharging revenues across the tech and semiconductor supply chains.\nFor the first time, Tencent and Taiwan Semiconductor Manufacturing Company (TSMC) have broken into the top 100, underscoring how surging demand for advanced chips and digital platforms is reshuffling corporate size and power across Asia and the wider world.\nFor the past year, heightened global demand for AI has fueled stratospheric price jumps for semiconductors and other hardware and Asia—which forms the hardware backbone of the AI supply chain—is cashing in.\nTSMC, which serves clients like Apple and Nvidia, surged 44 spots, rising to No. 82. The chipmaker reported total revenue of $122.3 billion in 2025, up 35.6% from 2024. According to CNBC, Nvidia has reserved \"the majority\" of capacity at TSMC; last October, the two firms also partnered to onshore advanced chip packaging capabilities to Phoenix, Arizona.\nTencent also jumped 19 spots, just making the top 100 at No. 97. The software company, which is behind social media platforms like WeChat and QQ, and global gaming titles like Honor of Kings and PUBG Mobile, raked in $104.6 billion in revenue in 2025, up 14% from the year before. While Tencent's gaming business grew in 2025, the company also reported strong growth in its advertising business, thanks to new AI-driven ad targeting. (Rumors of Tencent's falling gaming revenue, however, sparked a Chinese gaming sell-off last week; Tencent's own shares sank 7.1%, the most since April 2025.)\nTencent, much like its Chinese Big Tech peers, is investing in artificial intelligence. In March, the firm announced plans to double AI-related spending to 36 billion yuan, or $5.2 billion, to invest in model training and the hiring of talent.\nOther Asian hardware firms also made huge leaps on the Global 500 list. Wistron, a Taiwan-based electronics manufacturer, rose 298 spots to No. 198, the largest jump by any company on this year's list. Wistron posted 2025 revenue of NT$2.19 trillion, or $70.18 billion, a 115% jump from the year before. Both Wistron and Quanta Computer, along with Foxconn, are reporting surging revenue thanks to their new business assembling servers using AI processors from companies like Nvidia.\n\"In the past, one server generation typically lasted about two and a half to three years. You'd spend roughly a year designing a product, then it would stay in the market for about two years,\" Simon Lin, Wistron's chair, told Fortune. \"With AI, not only are there new products every year, but each generation is a meaningful technological leap.\"",
+    "text_blocks": [
+      "The Fortune Global 500 has long been a scoreboard of corporate scale, reflecting the rise and fall of different industries and sectors. And in 2026, the ranking of the world's largest companies by revenue reflects just how much the AI boom is supercharging revenues across the tech and semiconductor supply chains.",
+      "For the first time, Tencent and Taiwan Semiconductor Manufacturing Company (TSMC) have broken into the top 100, underscoring how surging demand for advanced chips and digital platforms is reshuffling corporate size and power across Asia and the wider world.",
+      "For the past year, heightened global demand for AI has fueled stratospheric price jumps for semiconductors and other hardware and Asia—which forms the hardware backbone of the AI supply chain—is cashing in.",
+      "TSMC, which serves clients like Apple and Nvidia, surged 44 spots, rising to No. 82. The chipmaker reported total revenue of $122.3 billion in 2025, up 35.6% from 2024. According to CNBC, Nvidia has reserved \"the majority\" of capacity at TSMC; last October, the two firms also partnered to onshore advanced chip packaging capabilities to Phoenix, Arizona.",
+      "Tencent also jumped 19 spots, just making the top 100 at No. 97. The software company, which is behind social media platforms like WeChat and QQ, and global gaming titles like Honor of Kings and PUBG Mobile, raked in $104.6 billion in revenue in 2025, up 14% from the year before. While Tencent's gaming business grew in 2025, the company also reported strong growth in its advertising business, thanks to new AI-driven ad targeting. (Rumors of Tencent's falling gaming revenue, however, sparked a Chinese gaming sell-off last week; Tencent's own shares sank 7.1%, the most since April 2025.)",
+      "Tencent, much like its Chinese Big Tech peers, is investing in artificial intelligence. In March, the firm announced plans to double AI-related spending to 36 billion yuan, or $5.2 billion, to invest in model training and the hiring of talent.",
+      "Other Asian hardware firms also made huge leaps on the Global 500 list. Wistron, a Taiwan-based electronics manufacturer, rose 298 spots to No. 198, the largest jump by any company on this year's list. Wistron posted 2025 revenue of NT$2.19 trillion, or $70.18 billion, a 115% jump from the year before. Both Wistron and Quanta Computer, along with Foxconn, are reporting surging revenue thanks to their new business assembling servers using AI processors from companies like Nvidia.",
+      "\"In the past, one server generation typically lasted about two and a half to three years. You'd spend roughly a year designing a product, then it would stay in the market for about two years,\" Simon Lin, Wistron's chair, told Fortune. \"With AI, not only are there new products every year, but each generation is a meaningful technological leap.\""
+    ],
+    "html": null
+  }
+}

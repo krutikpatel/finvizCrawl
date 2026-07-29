@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-math-gets-200630994.html",
+    "fetched_at": "2026-07-28T22:13:03.506612-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla-SpaceX Merger Math Gets RBC View",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) shareholders could own 54% of a combined Tesla-SpaceX company under a hypothetical merger valued at roughly $3.31 trillion, according to RBC Capital Markets.\nAnalyst Tom Narayan argued that a deal at $480 per Tesla share, representing a 53% premium, could create a powerful orbit-to-ground AI ecosystem. Tesla would bring physical-world AI and manufacturing, while SpaceX would contribute Starlink connectivity and orbital computing infrastructure.\nRBC also sees potentially enormous long-term cost savings. Narayan estimated that cooperation around the proposed Terafab chip project could reduce semiconductor costs by more than $1 trillion through 2050 compared with buying chips externally.\nThe strategic logic is clear, but execution would be difficult. Both companies face heavy capital requirements, supply constraints and very different operating models. SpaceX (NASDAQ:SPCX) shares are also down 44% from their June peak, making the timing and valuation of any transaction uncertain.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) shareholders could own 54% of a combined Tesla-SpaceX company under a hypothetical merger valued at roughly $3.31 trillion, according to RBC Capital Markets.",
+      "Analyst Tom Narayan argued that a deal at $480 per Tesla share, representing a 53% premium, could create a powerful orbit-to-ground AI ecosystem. Tesla would bring physical-world AI and manufacturing, while SpaceX would contribute Starlink connectivity and orbital computing infrastructure.",
+      "RBC also sees potentially enormous long-term cost savings. Narayan estimated that cooperation around the proposed Terafab chip project could reduce semiconductor costs by more than $1 trillion through 2050 compared with buying chips externally.",
+      "The strategic logic is clear, but execution would be difficult. Both companies face heavy capital requirements, supply constraints and very different operating models. SpaceX (NASDAQ:SPCX) shares are also down 44% from their June peak, making the timing and valuation of any transaction uncertain."
+    ],
+    "html": null
+  }
+}

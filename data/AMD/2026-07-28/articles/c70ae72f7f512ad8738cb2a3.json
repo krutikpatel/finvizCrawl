@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-tumble-nvidia-195907285.html",
+    "fetched_at": "2026-07-28T22:13:48.517631-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI-related semiconductor stocks moved lower on Tuesday as investors weighed concerns around artificial intelligence infrastructure spending, competition, and potential returns on large-scale investments.\nShares of Advanced Micro Devices (NASDAQ:AMD) fell about 10%, while Nvidia (NASDAQ:NVDA) declined around 2% during the session. The broader semiconductor sector also faced pressure as Asian technology markets weakened, with South Korea's Kospi index and Japan's Nikkei 225 index both posting declines.\nMemory chip companies were among the biggest decliners. SK hynix (NASDAQ:SKHY) dropped about 9%, while Micron Technology (NASDAQ:MU) fell nearly 10% amid broader concerns about AI-related demand expectations and increasing competition in the memory market.\nInvestors also monitored developments in China's semiconductor industry and the possibility of additional supply pressure. Several chip equipment and networking companies, including ASML (ASML), Applied Materials (NASDAQ:AMAT), and Marvell Technology (NASDAQ:MRVL), also traded lower as market sentiment across AI hardware stocks weakened.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI-related semiconductor stocks moved lower on Tuesday as investors weighed concerns around artificial intelligence infrastructure spending, competition, and potential returns on large-scale investments.",
+      "Shares of Advanced Micro Devices (NASDAQ:AMD) fell about 10%, while Nvidia (NASDAQ:NVDA) declined around 2% during the session. The broader semiconductor sector also faced pressure as Asian technology markets weakened, with South Korea's Kospi index and Japan's Nikkei 225 index both posting declines.",
+      "Memory chip companies were among the biggest decliners. SK hynix (NASDAQ:SKHY) dropped about 9%, while Micron Technology (NASDAQ:MU) fell nearly 10% amid broader concerns about AI-related demand expectations and increasing competition in the memory market.",
+      "Investors also monitored developments in China's semiconductor industry and the possibility of additional supply pressure. Several chip equipment and networking companies, including ASML (ASML), Applied Materials (NASDAQ:AMAT), and Marvell Technology (NASDAQ:MRVL), also traded lower as market sentiment across AI hardware stocks weakened."
+    ],
+    "html": null
+  }
+}

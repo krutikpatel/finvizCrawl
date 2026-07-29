@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/hong-kong-data-center-loan-231158626.html",
+    "fetched_at": "2026-07-28T22:13:26.116276-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Hong Kong Data Center Loan Sale Shows Banks Hitting Sector Limits",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- An attempt by a lender to offload a portion of a loan backing a Hong Kong data center project is highlighting a global trend of banks reshuffling lending to keep exposure to the booming sector within limits.\nMost Read from Bloomberg\n-\nChip Rout Deepens on Circular Funding, China Competition Fears\n-\nApple Set to Make Big Smart Home Push With Siri AI at Center\nCredit Agricole CIB is looking to sell down about HK$150 million ($19 million) of a HK$1.6 billion loan that it and other banks extended to ESR Group for the data center in the Asian financial hub, people familiar with the matter said.\nThe bank has been gauging interest among other lenders, as it's hit its own lending cap for data centers, according to the people, who asked not to be identified discussing private matters.\nA representative for Credit Agricole CIB declined to comment. ESR didn't immediately reply to a request for comment.\nLending to data centers, a critical infrastructure fueled by the global AI rush, has grown at breakneck speed. Morgan Stanley was considering offloading some of its data-center exposure via a significant risk transfer strategy which shifts some of the risk on a loan portfolio to investors. Asset manager Voya Financial Inc. is limiting holdings tied to large technology companies that have long-term contracts for artificial intelligence-linked infrastructure.\nThe AI boom has been a key driver of debt deals in Asia Pacific, fueling a wave of big ticket financing including DayOne Data Centers Ltd.'s talks for a $7 billion loan, in what would be the largest for the sector by any company in Asia if completed.\nThe loan was lent to ESR, an Asia-Pacific focused logistics and industrial properties investor, in 2023 to fund the conversion of a cold storage facility in Kwai Chung, an industrial district in Hong Kong's New Territories, into a data center. It's not immediately clear how much of the original HK$1.6 billion was Credit Agricole's.\nMoody's Ratings expects at least $3 trillion to flow into data center-related investments over the next five years, with much of it financed through debt. Big US companies from Meta Platforms Inc. to Alphabet Inc. have accelerated borrowing in recent months to fund their AI infrastructure, raising worries over aggressive spending on a technology that's yet to provide consistent returns.",
+    "text_blocks": [
+      "(Bloomberg) -- An attempt by a lender to offload a portion of a loan backing a Hong Kong data center project is highlighting a global trend of banks reshuffling lending to keep exposure to the booming sector within limits.",
+      "Most Read from Bloomberg",
+      "-",
+      "Chip Rout Deepens on Circular Funding, China Competition Fears",
+      "-",
+      "Apple Set to Make Big Smart Home Push With Siri AI at Center",
+      "Credit Agricole CIB is looking to sell down about HK$150 million ($19 million) of a HK$1.6 billion loan that it and other banks extended to ESR Group for the data center in the Asian financial hub, people familiar with the matter said.",
+      "The bank has been gauging interest among other lenders, as it's hit its own lending cap for data centers, according to the people, who asked not to be identified discussing private matters.",
+      "A representative for Credit Agricole CIB declined to comment. ESR didn't immediately reply to a request for comment.",
+      "Lending to data centers, a critical infrastructure fueled by the global AI rush, has grown at breakneck speed. Morgan Stanley was considering offloading some of its data-center exposure via a significant risk transfer strategy which shifts some of the risk on a loan portfolio to investors. Asset manager Voya Financial Inc. is limiting holdings tied to large technology companies that have long-term contracts for artificial intelligence-linked infrastructure.",
+      "The AI boom has been a key driver of debt deals in Asia Pacific, fueling a wave of big ticket financing including DayOne Data Centers Ltd.'s talks for a $7 billion loan, in what would be the largest for the sector by any company in Asia if completed.",
+      "The loan was lent to ESR, an Asia-Pacific focused logistics and industrial properties investor, in 2023 to fund the conversion of a cold storage facility in Kwai Chung, an industrial district in Hong Kong's New Territories, into a data center. It's not immediately clear how much of the original HK$1.6 billion was Credit Agricole's.",
+      "Moody's Ratings expects at least $3 trillion to flow into data center-related investments over the next five years, with much of it financed through debt. Big US companies from Meta Platforms Inc. to Alphabet Inc. have accelerated borrowing in recent months to fund their AI infrastructure, raising worries over aggressive spending on a technology that's yet to provide consistent returns."
+    ],
+    "html": null
+  }
+}

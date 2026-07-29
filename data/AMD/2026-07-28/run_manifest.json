@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "AMD",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:42.062817-07:00",
-  "finished_at": "2026-07-28T07:00:45.430898-07:00",
+  "started_at": "2026-07-28T22:13:45.933416-07:00",
+  "finished_at": "2026-07-28T22:13:49.532315-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,19 +51,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 85,
-    "news_links_skipped_recent": 15,
-    "news_links_retry_failed": 0,
-    "articles_fetched_ok": 4,
-    "articles_failed": 1
+    "news_links_new": 81,
+    "news_links_skipped_recent": 18,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 5,
+    "articles_failed": 0
   },
-  "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/amd-core-scientific-ai-data-center-partnership-072826",
-      "context": {
-        "url": "https://qz.com/amd-core-scientific-ai-data-center-partnership-072826"
-      }
-    }
-  ]
+  "errors": []
 }

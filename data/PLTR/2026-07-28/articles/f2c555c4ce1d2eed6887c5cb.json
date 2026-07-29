@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-urges-185108422.html",
+    "fetched_at": "2026-07-28T22:13:35.282274-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Nvidia Corp. Chief Executive Officer Jensen Huang defended open-weight artificial intelligence systems as crucial to the nascent AI industry, sending a cautionary message to officials in Washington who are debating how to respond to a surprise breakthrough from Chinese startup Moonshot.\nMost Read from Bloomberg\n-\nChip Rout Deepens on Circular Funding, China Competition Fears\n-\nApple Set to Make Big Smart Home Push With Siri AI at Center\nAfter meeting with US lawmakers in Washington on Tuesday, Huang said that open-weight models, which allow users to download and customize the technology, were essential to ensuring that AI is adopted safely and securely across the economy.\n\"For the American industry, we need open weight for security, we need open weight for safety,\" Huang said in brief remarks to reporters following visits with Democratic Senators Mark Warner and Adam Schiff. \"It's really important for the vibrancy of the whole industry.\"\nThe Nvidia chief spoke as the Trump administration and Congress grapple with the challenge posed by a new open-weight model from Chinese startup Moonshot AI that rivals offerings from Anthropic PBC and OpenAI. The emergence of Kimi K3, which became available for public download on Monday, has stirred concerns in the tech industry that policymakers may crack down on open AI systems.\nSince Moonshot's Kimi release, Huang has escalated his defense of open-weight models, joining Microsoft Corp. CEO Satya Nadella and dozens of other tech companies in warning via a letter posted on Friday against curbing that approach to AI technology.\nOpen-weight models \"are an important part of that foundation because they make advanced AI more accessible, adaptable and widely available,\" read the letter, which Huang shared in his first post to a new personal X account.\nOn Monday, Nvidia followed up with another missive in support of open-weight models, calling them pivotal to stronger cybersecurity. Like the message from Friday, it had the support from dozens of tech companies.\n\"Blanket restrictions on open frontier AI systems would weaken defensive capacity and risk concentrating power, dependence and vulnerability in a few closed providers,\" according to the post from Nvidia, which also included Microsoft, Palantir Technologies Inc. and Salesforce Inc.\nNvidia may stand to benefit financially from a shift to open models, since they are cheaper and could open the door to more AI revenue flowing to the hardware powering the technology.",
+    "text_blocks": [
+      "(Bloomberg) -- Nvidia Corp. Chief Executive Officer Jensen Huang defended open-weight artificial intelligence systems as crucial to the nascent AI industry, sending a cautionary message to officials in Washington who are debating how to respond to a surprise breakthrough from Chinese startup Moonshot.",
+      "Most Read from Bloomberg",
+      "-",
+      "Chip Rout Deepens on Circular Funding, China Competition Fears",
+      "-",
+      "Apple Set to Make Big Smart Home Push With Siri AI at Center",
+      "After meeting with US lawmakers in Washington on Tuesday, Huang said that open-weight models, which allow users to download and customize the technology, were essential to ensuring that AI is adopted safely and securely across the economy.",
+      "\"For the American industry, we need open weight for security, we need open weight for safety,\" Huang said in brief remarks to reporters following visits with Democratic Senators Mark Warner and Adam Schiff. \"It's really important for the vibrancy of the whole industry.\"",
+      "The Nvidia chief spoke as the Trump administration and Congress grapple with the challenge posed by a new open-weight model from Chinese startup Moonshot AI that rivals offerings from Anthropic PBC and OpenAI. The emergence of Kimi K3, which became available for public download on Monday, has stirred concerns in the tech industry that policymakers may crack down on open AI systems.",
+      "Since Moonshot's Kimi release, Huang has escalated his defense of open-weight models, joining Microsoft Corp. CEO Satya Nadella and dozens of other tech companies in warning via a letter posted on Friday against curbing that approach to AI technology.",
+      "Open-weight models \"are an important part of that foundation because they make advanced AI more accessible, adaptable and widely available,\" read the letter, which Huang shared in his first post to a new personal X account.",
+      "On Monday, Nvidia followed up with another missive in support of open-weight models, calling them pivotal to stronger cybersecurity. Like the message from Friday, it had the support from dozens of tech companies.",
+      "\"Blanket restrictions on open frontier AI systems would weaken defensive capacity and risk concentrating power, dependence and vulnerability in a few closed providers,\" according to the post from Nvidia, which also included Microsoft, Palantir Technologies Inc. and Salesforce Inc.",
+      "Nvidia may stand to benefit financially from a shift to open models, since they are cheaper and could open the door to more AI revenue flowing to the hardware powering the technology."
+    ],
+    "html": null
+  }
+}

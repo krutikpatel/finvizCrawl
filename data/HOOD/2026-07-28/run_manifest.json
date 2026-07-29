@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "HOOD",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:18.903856-07:00",
-  "finished_at": "2026-07-28T07:00:21.232774-07:00",
+  "started_at": "2026-07-28T22:13:17.751797-07:00",
+  "finished_at": "2026-07-28T22:13:20.375229-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,11 +51,19 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 35,
-    "news_links_skipped_recent": 65,
+    "news_links_new": 34,
+    "news_links_skipped_recent": 66,
     "news_links_retry_failed": 0,
-    "articles_fetched_ok": 5,
-    "articles_failed": 0
+    "articles_fetched_ok": 4,
+    "articles_failed": 1
   },
-  "errors": []
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/robinhood-earnings-stock-price-18436161?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/robinhood-earnings-stock-price-18436161?mod=bar_FV"
+      }
+    }
+  ]
 }

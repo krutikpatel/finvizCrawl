@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/jack-ma-backed-oceanbase-seeks-020218977.html",
+    "fetched_at": "2026-07-28T22:13:23.459939-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Jack Ma-Backed OceanBase Seeks Up to $443 Million for AI Push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Jack Ma-backed OceanBase is seeking to raise money to help it operate more independently and bankroll its expansion into AI database services, according to people familiar with the matter.\nMost Read from Bloomberg\n-\nChip Rout Deepens on Circular Funding, China Competition Fears\n-\nApple Set to Make Big Smart Home Push With Siri AI at Center\n-\nUEFA Considering Boycott of FIFA Tournaments in Brewing Feud\nBeijing OceanBase Technology Co. is in discussions with investors to raise about 2 billion to 3 billion yuan ($295 million to $443 million) in series A funding, the people said, requesting not to be named because the matter is private.\nOriginally built out of the need to support Ant Group Co.'s internal database management in 2010, OceanBase has underpinned Ant's ability to handle half a million transactions per second during sales events like Singles' Day in China.\nBeijing-based OceanBase is now bolstering its AI analytics capabilities. Beyond integrating structured data, the company is beefing up its ability to handle semi-structured or unstructured data like videos. Database managers are becoming a critical layer of infrastructure that connects enterprise data with AI models and agents.\nThe firm had more than $200 million in annualized revenue in 2026, up 70% from the previous year, the people said. Its thousands of clients are predominantly Chinese, including Industrial & Commercial Bank of China Ltd. and China Mobile Ltd., according to its website. OceanBase has also started expanding to Southeast Asia, Japan, India and Latin America.\nOceanBase is looking at companies like San Francisco-based Databricks Inc. as a benchmark, the people said.\nDatabricks said in February it was on track to generate $5.4 billion in annual revenue, including $1.4 billion from its AI products. The company is seeking capital from investors led by Coatue Management at an $188 billion valuation, people familiar said in July. The US firm offers software to help make sense of large quantities of data and run AI-powered services with it.\nOceanBase, which competes against companies including Huawei Technologies Co. and Tencent Holdings Ltd., had the largest market share in China for distributed databases in 2025, according to a report from IDC.\nGlobally, tech firms including International Business Machines Corp., Snowflake Inc. and Amazon Web Services Inc. have been building out database management systems.",
+    "text_blocks": [
+      "(Bloomberg) -- Jack Ma-backed OceanBase is seeking to raise money to help it operate more independently and bankroll its expansion into AI database services, according to people familiar with the matter.",
+      "Most Read from Bloomberg",
+      "-",
+      "Chip Rout Deepens on Circular Funding, China Competition Fears",
+      "-",
+      "Apple Set to Make Big Smart Home Push With Siri AI at Center",
+      "-",
+      "UEFA Considering Boycott of FIFA Tournaments in Brewing Feud",
+      "Beijing OceanBase Technology Co. is in discussions with investors to raise about 2 billion to 3 billion yuan ($295 million to $443 million) in series A funding, the people said, requesting not to be named because the matter is private.",
+      "Originally built out of the need to support Ant Group Co.'s internal database management in 2010, OceanBase has underpinned Ant's ability to handle half a million transactions per second during sales events like Singles' Day in China.",
+      "Beijing-based OceanBase is now bolstering its AI analytics capabilities. Beyond integrating structured data, the company is beefing up its ability to handle semi-structured or unstructured data like videos. Database managers are becoming a critical layer of infrastructure that connects enterprise data with AI models and agents.",
+      "The firm had more than $200 million in annualized revenue in 2026, up 70% from the previous year, the people said. Its thousands of clients are predominantly Chinese, including Industrial & Commercial Bank of China Ltd. and China Mobile Ltd., according to its website. OceanBase has also started expanding to Southeast Asia, Japan, India and Latin America.",
+      "OceanBase is looking at companies like San Francisco-based Databricks Inc. as a benchmark, the people said.",
+      "Databricks said in February it was on track to generate $5.4 billion in annual revenue, including $1.4 billion from its AI products. The company is seeking capital from investors led by Coatue Management at an $188 billion valuation, people familiar said in July. The US firm offers software to help make sense of large quantities of data and run AI-powered services with it.",
+      "OceanBase, which competes against companies including Huawei Technologies Co. and Tencent Holdings Ltd., had the largest market share in China for distributed databases in 2025, according to a report from IDC.",
+      "Globally, tech firms including International Business Machines Corp., Snowflake Inc. and Amazon Web Services Inc. have been building out database management systems."
+    ],
+    "html": null
+  }
+}

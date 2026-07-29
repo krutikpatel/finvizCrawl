@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "GOOG",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:24.757173-07:00",
-  "finished_at": "2026-07-28T07:00:27.447377-07:00",
+  "started_at": "2026-07-28T22:13:24.019834-07:00",
+  "finished_at": "2026-07-28T22:13:26.618545-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,19 +51,11 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 95,
-    "news_links_skipped_recent": 5,
-    "news_links_retry_failed": 0,
-    "articles_fetched_ok": 4,
-    "articles_failed": 1
+    "news_links_new": 90,
+    "news_links_skipped_recent": 9,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 5,
+    "articles_failed": 0
   },
-  "errors": [
-    {
-      "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/microsoft-mai-cyber-1-flash-cybersecurity-model-perception-072826",
-      "context": {
-        "url": "https://qz.com/microsoft-mai-cyber-1-flash-cybersecurity-model-perception-072826"
-      }
-    }
-  ]
+  "errors": []
 }

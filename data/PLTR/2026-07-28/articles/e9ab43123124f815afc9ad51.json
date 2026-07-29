@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/bc268656-7bf3-3ede-bc84-4d412de1ab3c/anthropic%E2%80%99s-amodei-defends.html",
+    "fetched_at": "2026-07-28T22:13:35.331413-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic’s Amodei defends open-weight stance following critique from Palantir’s Karp",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Anthropic CEO Dario Amodei pushed back on claims that his AI startup supports a ban on open-weight models to support its competitive position in a letter after Anthropic was notably absent from a letter signed by many leading AI firms.\nLeading companies in the AI space, including Nvidia, Palantir and others, participated in the letter and announced a partnership in the Open Secure AI Alliance, which looks to develop and share more open technologies to improve security in the AI era as risks can stem from both open and closed models.\nAmodei wrote in a post on Anthropic's website, \"Anyone who has read my past writing should know that I don't regard such bans as a useful measure, but let me state it clearly so that there is no doubt: Anthropic has never advocated for a ban on open-weight models.\"\n\"But I don't agree with the letter's assertions that open-weights models necessarily make it easier to develop safeguards or that broad access to capabilities necessarily helps defenders more than attackers. It seems at least as likely to me that the opposite will be true,\" he wrote, adding that biological weapons may have an edge over the defenses against them.\nPalantir Ceo Warns Us Against Europe's Ai Regulation Path, Urges Trump Admin To Not Ban Open Models\nAmodei said he views open-weight models that don't have dangerous capabilities as a public good, as their cost is limited to the computer needed to operate them, and they provide value to businesses, developers and researchers.\nHe added that he agreed with much of the open letter, particularly the value of open-weights in expanding access to the AI economy, strengthening competition and giving customers more control.\n\"To summarize my and Anthropic's position, we have not and are not advocating for a ban on open-weights models as a category. We should instead focus on keeping powerful chips out of authoritarian hands, stopping industrial-scale distillation, and requiring safety testing of all sufficiently capable models, open and closed,\" Amodei wrote.\nNvidia, Microsoft Urge Us To Avoid Broad Restrictions On Open Ai Models\nAmodei's letter was published hours after Palantir CEO Alex Karp, whose company signed the letter supporting the use of open-weight AI models, said in an exclusive interview on FOX Business Network's \"The Claman Countdown\" that resistance to competition could lead to a less dynamic tech industry like in Europe's.\nKarp said he's \"not anti-Anthropic\" or opposed to all closed models, but that \"If you want to win, you have to compete on the battlefield.\"",
+    "text_blocks": [
+      "Anthropic CEO Dario Amodei pushed back on claims that his AI startup supports a ban on open-weight models to support its competitive position in a letter after Anthropic was notably absent from a letter signed by many leading AI firms.",
+      "Leading companies in the AI space, including Nvidia, Palantir and others, participated in the letter and announced a partnership in the Open Secure AI Alliance, which looks to develop and share more open technologies to improve security in the AI era as risks can stem from both open and closed models.",
+      "Amodei wrote in a post on Anthropic's website, \"Anyone who has read my past writing should know that I don't regard such bans as a useful measure, but let me state it clearly so that there is no doubt: Anthropic has never advocated for a ban on open-weight models.\"",
+      "\"But I don't agree with the letter's assertions that open-weights models necessarily make it easier to develop safeguards or that broad access to capabilities necessarily helps defenders more than attackers. It seems at least as likely to me that the opposite will be true,\" he wrote, adding that biological weapons may have an edge over the defenses against them.",
+      "Palantir Ceo Warns Us Against Europe's Ai Regulation Path, Urges Trump Admin To Not Ban Open Models",
+      "Amodei said he views open-weight models that don't have dangerous capabilities as a public good, as their cost is limited to the computer needed to operate them, and they provide value to businesses, developers and researchers.",
+      "He added that he agreed with much of the open letter, particularly the value of open-weights in expanding access to the AI economy, strengthening competition and giving customers more control.",
+      "\"To summarize my and Anthropic's position, we have not and are not advocating for a ban on open-weights models as a category. We should instead focus on keeping powerful chips out of authoritarian hands, stopping industrial-scale distillation, and requiring safety testing of all sufficiently capable models, open and closed,\" Amodei wrote.",
+      "Nvidia, Microsoft Urge Us To Avoid Broad Restrictions On Open Ai Models",
+      "Amodei's letter was published hours after Palantir CEO Alex Karp, whose company signed the letter supporting the use of open-weight AI models, said in an exclusive interview on FOX Business Network's \"The Claman Countdown\" that resistance to competition could lead to a less dynamic tech industry like in Europe's.",
+      "Karp said he's \"not anti-Anthropic\" or opposed to all closed models, but that \"If you want to win, you have to compete on the battlefield.\""
+    ],
+    "html": null
+  }
+}

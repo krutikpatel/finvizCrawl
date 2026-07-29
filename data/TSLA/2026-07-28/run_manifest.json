@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "TSLA",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:05.334349-07:00",
-  "finished_at": "2026-07-28T07:00:07.627716-07:00",
+  "started_at": "2026-07-28T22:13:01.268472-07:00",
+  "finished_at": "2026-07-28T22:13:04.453799-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,18 +51,18 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 90,
-    "news_links_skipped_recent": 10,
-    "news_links_retry_failed": 0,
+    "news_links_new": 85,
+    "news_links_skipped_recent": 14,
+    "news_links_retry_failed": 1,
     "articles_fetched_ok": 4,
     "articles_failed": 1
   },
   "errors": [
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/spacex-stock-market-cap-decline-earnings-072826",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/stocks-today-dow-gains-chip-stocks-fall-87e59ef5?mod=bar_FV",
       "context": {
-        "url": "https://qz.com/spacex-stock-market-cap-decline-earnings-072826"
+        "url": "https://www.barrons.com/articles/stocks-today-dow-gains-chip-stocks-fall-87e59ef5?mod=bar_FV"
       }
     }
   ]

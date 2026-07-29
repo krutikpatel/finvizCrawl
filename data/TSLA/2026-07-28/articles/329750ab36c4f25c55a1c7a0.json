@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-bank-revises-tesla-stock-200825436.html",
+    "fetched_at": "2026-07-28T22:13:04.153358-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Veteran Bank Revises Tesla Stock Price Target for 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) received a lower price target from RBC Capital Markets as the firm adjusted its outlook for the company's robotaxi opportunity while maintaining a positive long-term view on Tesla's growth prospects.\nRBC analyst Tom Narayan reduced Tesla's price target to $480 from $500 while keeping an Outperform rating. The revision reflected changes to expectations around Tesla's autonomous driving business, including the timeline and potential financial contribution from robotaxi operations.\nDespite the target reduction, RBC continued to highlight potential strategic benefits from a possible Tesla and SpaceX (NASDAQ:SPCX) combination. Narayan said a merger could create a broader technology ecosystem by combining Tesla's artificial intelligence capabilities with SpaceX's satellite connectivity and space infrastructure.\nThe analyst also pointed to possible long-term advantages from deeper integration between the companies, including potential cost savings related to technology and supply chain operations. However, RBC noted that the timing and execution of any potential transaction remain uncertain.\nTesla's valuation continues to depend on multiple growth initiatives, including artificial intelligence, autonomous vehicles, robotics, and energy businesses, as investors assess the company's future earnings potential.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) received a lower price target from RBC Capital Markets as the firm adjusted its outlook for the company's robotaxi opportunity while maintaining a positive long-term view on Tesla's growth prospects.",
+      "RBC analyst Tom Narayan reduced Tesla's price target to $480 from $500 while keeping an Outperform rating. The revision reflected changes to expectations around Tesla's autonomous driving business, including the timeline and potential financial contribution from robotaxi operations.",
+      "Despite the target reduction, RBC continued to highlight potential strategic benefits from a possible Tesla and SpaceX (NASDAQ:SPCX) combination. Narayan said a merger could create a broader technology ecosystem by combining Tesla's artificial intelligence capabilities with SpaceX's satellite connectivity and space infrastructure.",
+      "The analyst also pointed to possible long-term advantages from deeper integration between the companies, including potential cost savings related to technology and supply chain operations. However, RBC noted that the timing and execution of any potential transaction remain uncertain.",
+      "Tesla's valuation continues to depend on multiple growth initiatives, including artificial intelligence, autonomous vehicles, robotics, and energy businesses, as investors assess the company's future earnings potential."
+    ],
+    "html": null
+  }
+}

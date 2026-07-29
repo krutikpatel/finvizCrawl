@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "ARM",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:48.733354-07:00",
-  "finished_at": "2026-07-28T07:00:50.985330-07:00",
+  "started_at": "2026-07-28T22:13:53.006263-07:00",
+  "finished_at": "2026-07-28T22:13:54.840718-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,10 +51,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 3,
-    "news_links_skipped_recent": 95,
+    "news_links_new": 0,
+    "news_links_skipped_recent": 98,
     "news_links_retry_failed": 2,
-    "articles_fetched_ok": 3,
+    "articles_fetched_ok": 0,
     "articles_failed": 2
   },
   "errors": [

@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "NVDA",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:36.289153-07:00",
-  "finished_at": "2026-07-28T07:00:38.661958-07:00",
+  "started_at": "2026-07-28T22:13:36.046539-07:00",
+  "finished_at": "2026-07-28T22:13:39.578945-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,18 +51,18 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 100,
-    "news_links_skipped_recent": 0,
-    "news_links_retry_failed": 0,
+    "news_links_new": 95,
+    "news_links_skipped_recent": 4,
+    "news_links_retry_failed": 1,
     "articles_fetched_ok": 4,
     "articles_failed": 1
   },
   "errors": [
     {
       "type": "http_error",
-      "message": "403 Client Error: Forbidden for url: https://qz.com/taiwan-nvidia-employee-detained-super-micro-chip-smuggling-probe-072826",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/tech-stocks-market-7affb184?mod=bar_FV",
       "context": {
-        "url": "https://qz.com/taiwan-nvidia-employee-detained-super-micro-chip-smuggling-probe-072826"
+        "url": "https://www.barrons.com/articles/tech-stocks-market-7affb184?mod=bar_FV"
       }
     }
   ]

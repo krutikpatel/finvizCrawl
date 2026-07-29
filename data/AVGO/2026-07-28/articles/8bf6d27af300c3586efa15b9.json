@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-credit-risk-flashes-192645668.html",
+    "fetched_at": "2026-07-28T22:13:32.520603-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Big Tech Credit Risk Flashes Urgent Warning Over AI Spending",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCredit risk across several of the world's largest AI companies has climbed to record levels as investors grow more concerned about the debt needed to fund data centres, chips and advanced models.\nCredit default swap spreads tied to Alphabet (NASDAQ:GOOGL), Amazon (NASDAQ:AMZN), Meta (NASDAQ:META), Nvidia (NASDAQ:NVDA), Oracle (NYSE:ORCL), SpaceX (SPCX) and Broadcom have all risen sharply, according to LSEG data. CDS prices act as a form of insurance against default, so higher spreads generally signal growing concern about a company's ability to manage its debt.\nOracle has drawn particular attention, with its five-year CDS spread recently reaching about 196.6 basis points. Alphabet's spread also hit a record 67 basis points after the company reported negative free cash flow in the second quarter.\nThe pressure comes as off-balance-sheet and other hidden debt linked to Alphabet, Microsoft (NASDAQ:MSFT), Amazon, Meta and Oracle reportedly reached $1.65 trillion, roughly eight times the level seen four years ago.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Credit risk across several of the world's largest AI companies has climbed to record levels as investors grow more concerned about the debt needed to fund data centres, chips and advanced models.",
+      "Credit default swap spreads tied to Alphabet (NASDAQ:GOOGL), Amazon (NASDAQ:AMZN), Meta (NASDAQ:META), Nvidia (NASDAQ:NVDA), Oracle (NYSE:ORCL), SpaceX (SPCX) and Broadcom have all risen sharply, according to LSEG data. CDS prices act as a form of insurance against default, so higher spreads generally signal growing concern about a company's ability to manage its debt.",
+      "Oracle has drawn particular attention, with its five-year CDS spread recently reaching about 196.6 basis points. Alphabet's spread also hit a record 67 basis points after the company reported negative free cash flow in the second quarter.",
+      "The pressure comes as off-balance-sheet and other hidden debt linked to Alphabet, Microsoft (NASDAQ:MSFT), Amazon, Meta and Oracle reportedly reached $1.65 trillion, roughly eight times the level seen four years ago."
+    ],
+    "html": null
+  }
+}

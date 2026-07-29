@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "ticker": "PANW",
   "run_date": "2026-07-28",
-  "started_at": "2026-07-28T07:00:45.866102-07:00",
-  "finished_at": "2026-07-28T07:00:48.312935-07:00",
+  "started_at": "2026-07-28T22:13:50.075258-07:00",
+  "finished_at": "2026-07-28T22:13:52.530143-07:00",
   "timezone": "America/Los_Angeles",
   "config": {
     "project": {
@@ -51,10 +51,10 @@
   },
   "stats": {
     "news_links_total": 100,
-    "news_links_new": 8,
-    "news_links_skipped_recent": 92,
+    "news_links_new": 3,
+    "news_links_skipped_recent": 97,
     "news_links_retry_failed": 0,
-    "articles_fetched_ok": 5,
+    "articles_fetched_ok": 3,
     "articles_failed": 0
   },
   "errors": []

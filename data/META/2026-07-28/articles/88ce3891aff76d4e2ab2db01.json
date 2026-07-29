@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
+    "fetched_at": "2026-07-28T22:13:10.564221-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US stocks mixed ahead key tech earnings, Fed",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Karen Brettell and Sruthi Shankar\nJuly 28 (Reuters) - U.S. stocks were mixed on Tuesday ahead of key corporate earnings releases and the Federal Reserve's highly anticipated interest rate decision on Wednesday.\nWorld stocks had earlier fallen to a one-month low as investors dumped chipmakers on concerns about Chinese competition and the funding of the AI boom, but pared the drop during New York trading hours.\nGains in Boeing and Coca-Cola helped offset tumbling chip stocks ahead of quarterly reports from Apple and other tech companies this week, though the tech-heavy Nasdaq Composite ended lower on the day.\n\"What has been behind the move into these non-tech names? Part of it is value,\" said Ross Mayfield, investment strategy analyst at Baird in Louisville, Kentucky. \"GDP is solid, the labor market continues to churn along and, in a lot of places, there's evidence that consumer spending is reaccelerating.\"\nThe Dow Jones Industrial Average rose 1.03% to 52,747.53, the S&P 500 gained 0.22% to 7,429.22 and the Nasdaq Composite fell 0.22% to 24,876.91.\nAsian chipmakers were at the heart of Tuesday's earlier selloff, with South Korea's KOSPI diving more than 10% to a three-month low, triggering a circuit breaker on the way down as it heads for its largest monthly fall on record, surpassing declines suffered during the Asian financial crisis in 1997.\nThe index more than tripled in value over the 12 months to June, but has since shed more than a third of its value from that peak.\nThe MSCI All Country World Price Index fell 0.33% to 1104, after earlier dropping to 1098, its lowest since June 26.\nAfter a stellar rally this year, AI-linked stocks have been met with several bouts of selling in recent weeks as investors worry about stretched valuations and circular funding in the sector.\nThe latest rout followed a report that China had begun manufacturing domestically developed immersion deep ultraviolet (DUV) lithography machines, while Chinese chipmaker CXMT's strong stock-market debut on Monday fuelled concerns about increased competition in the memory chip industry.\n\"There are concerns about the cost and the degree of leverage that needs to be taken on,\" said Dorian Carrell, head of multi-asset income at Schroders. \"Now we're seeing questions over the profitability of the semiconductor space, particularly in Asia,\" he added.\nEarnings this week from \"Magnificent Seven\" members Microsoft, Amazon.com, Meta and Apple will be a key test of the market rally, particularly after Alphabet and Tesla spooked investors last week with negative cash flow reports.",
+    "text_blocks": [
+      "By Karen Brettell and Sruthi Shankar",
+      "July 28 (Reuters) - U.S. stocks were mixed on Tuesday ahead of key corporate earnings releases and the Federal Reserve's highly anticipated interest rate decision on Wednesday.",
+      "World stocks had earlier fallen to a one-month low as investors dumped chipmakers on concerns about Chinese competition and the funding of the AI boom, but pared the drop during New York trading hours.",
+      "Gains in Boeing and Coca-Cola helped offset tumbling chip stocks ahead of quarterly reports from Apple and other tech companies this week, though the tech-heavy Nasdaq Composite ended lower on the day.",
+      "\"What has been behind the move into these non-tech names? Part of it is value,\" said Ross Mayfield, investment strategy analyst at Baird in Louisville, Kentucky. \"GDP is solid, the labor market continues to churn along and, in a lot of places, there's evidence that consumer spending is reaccelerating.\"",
+      "The Dow Jones Industrial Average rose 1.03% to 52,747.53, the S&P 500 gained 0.22% to 7,429.22 and the Nasdaq Composite fell 0.22% to 24,876.91.",
+      "Asian chipmakers were at the heart of Tuesday's earlier selloff, with South Korea's KOSPI diving more than 10% to a three-month low, triggering a circuit breaker on the way down as it heads for its largest monthly fall on record, surpassing declines suffered during the Asian financial crisis in 1997.",
+      "The index more than tripled in value over the 12 months to June, but has since shed more than a third of its value from that peak.",
+      "The MSCI All Country World Price Index fell 0.33% to 1104, after earlier dropping to 1098, its lowest since June 26.",
+      "After a stellar rally this year, AI-linked stocks have been met with several bouts of selling in recent weeks as investors worry about stretched valuations and circular funding in the sector.",
+      "The latest rout followed a report that China had begun manufacturing domestically developed immersion deep ultraviolet (DUV) lithography machines, while Chinese chipmaker CXMT's strong stock-market debut on Monday fuelled concerns about increased competition in the memory chip industry.",
+      "\"There are concerns about the cost and the degree of leverage that needs to be taken on,\" said Dorian Carrell, head of multi-asset income at Schroders. \"Now we're seeing questions over the profitability of the semiconductor space, particularly in Asia,\" he added.",
+      "Earnings this week from \"Magnificent Seven\" members Microsoft, Amazon.com, Meta and Apple will be a key test of the market rally, particularly after Alphabet and Tesla spooked investors last week with negative cash flow reports."
+    ],
+    "html": null
+  }
+}

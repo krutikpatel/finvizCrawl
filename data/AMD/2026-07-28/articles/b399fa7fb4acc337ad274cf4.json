@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amds-core-scientific-deal-hints-201731172.html",
+    "fetched_at": "2026-07-28T22:13:48.627242-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD's Core Scientific Deal Hints at AI's Next Race",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (NASDAQ:AMD) secured 500MW of AI data center capacity in a partnership with Core Scientific (NASDAQ:CORZ) announced Tuesday. The deal starts next year and can expand to 2.5GW.\nAMD designs high performance CPUs, GPUs and AI chips for data centers, cloud providers and enterprises. Core Scientific operates large scale data centers and has pivoted from Bitcoin mining to AI colocation, where it now gets 77% of revenue. The agreement is valued at more than $14 billion in potential contracted revenue for Core Scientific.\nUnder the terms, AMD will get access to power, land, and infrastructure to deploy its Instinct GPUs, EPYC CPUs, and ROCm software. The companies will also collaborate on physical design of the facilities. As part of the deal AMD will receive market-priced warrants to buy Core Scientific stock subject to certain conditions. Core Scientific CEO Adam Sullivan said the company's execution record positions it to support AMD's technology roadmap.\nAMD executive Mathew Hein said trusted infrastructure partners are critical as AI deployments accelerate.\nShares reacted in opposite directions. Core Scientific jumped 11.2% in premarket trading while AMD fell 4.7% amid broader chip weakness. For investors the deal highlights a shift in AI spending from chips alone to power and infrastructure. Investors will watch if AMD can fill the capacity before 2027.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (NASDAQ:AMD) secured 500MW of AI data center capacity in a partnership with Core Scientific (NASDAQ:CORZ) announced Tuesday. The deal starts next year and can expand to 2.5GW.",
+      "AMD designs high performance CPUs, GPUs and AI chips for data centers, cloud providers and enterprises. Core Scientific operates large scale data centers and has pivoted from Bitcoin mining to AI colocation, where it now gets 77% of revenue. The agreement is valued at more than $14 billion in potential contracted revenue for Core Scientific.",
+      "Under the terms, AMD will get access to power, land, and infrastructure to deploy its Instinct GPUs, EPYC CPUs, and ROCm software. The companies will also collaborate on physical design of the facilities. As part of the deal AMD will receive market-priced warrants to buy Core Scientific stock subject to certain conditions. Core Scientific CEO Adam Sullivan said the company's execution record positions it to support AMD's technology roadmap.",
+      "AMD executive Mathew Hein said trusted infrastructure partners are critical as AI deployments accelerate.",
+      "Shares reacted in opposite directions. Core Scientific jumped 11.2% in premarket trading while AMD fell 4.7% amid broader chip weakness. For investors the deal highlights a shift in AI spending from chips alone to power and infrastructure. Investors will watch if AMD can fill the capacity before 2027."
+    ],
+    "html": null
+  }
+}
