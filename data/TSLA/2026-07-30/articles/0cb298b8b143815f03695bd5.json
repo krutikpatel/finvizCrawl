@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-microsoft-105820411.html",
+    "fetched_at": "2026-07-30T07:00:06.887827-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US stock futures rise as Microsoft offsets Fed concerns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Sruthi Shankar and Ragini Mathur\nJuly 30 (Reuters) - U.S. stock index futures rose on Thursday after a sharp selloff driven by uncertainty around the Federal Reserve's policy outlook, while Microsoft's forecast-beating results soothed investor concerns about massive AI spending by companies.\nMicrosoft rose 9% in premarket trading after the company forecast current-quarter sales and cloud growth that beat expectations, gave a capital expenditure outlook below Wall Street estimates and said it expects to keep generating cash through its just-started fiscal 2027.\nInvestors have been spooked by rising AI costs at big technology firms even as they report strong earnings. Negative cash-flow reports from Alphabet and Tesla last week sparked a bout of selling in AI-linked stocks, with chip stocks also coming under pressure as investors question high valuations. The tech-heavy Nasdaq dropped 10% from its early June peak on Wednesday.\nIn a sign that AI concerns were far from over, Meta Platforms dropped 8.5% after the social media giant reported a 91% drop in second-quarter free cash flow, underscoring the financial strain of its costly AI buildout.\nApple and Amazon are scheduled to report earnings after markets close on Thursday.\nU.S. stocks fell sharply on Wednesday, with the benchmark S&P 500 posting its biggest percentage drop since June 10, after the Fed left interest rates unchanged in the 3.50%-3.75% range, but mixed messages from new Fed Chair Kevin Warsh left traders confused about the path of borrowing costs.\n\"Despite the divided vote, there was nothing really in Warsh's remarks that made it clear that a September hike was in the offing,\" said Matthew Ryan, head of market strategy at Ebury.\nBond markets, however, were on edge, with the yield on the 30-year Treasury bond surging to its highest level in 19 years, as investors grew increasingly concerned about the central bank's monetary-policy outlook and sought greater protection against future inflation.\nTraders currently see a 63% chance that the U.S. central bank will raise interest rates by 25 basis points at its September meeting, as per CME Group's FedWatch tool.\nKey economic data, including the preliminary reading of second-quarter GDP, personal consumption expenditures for June and weekly initial jobless claims, are due at 8:30 a.m. ET.\nAt 7:26 a.m. ET, Dow E-minis were up 209 points, or 0.4%, and S&P 500 E-minis were up 45.5 points, or 0.62%. Nasdaq 100 E-minis were up 365.5 points, or 1.34%.",
+    "text_blocks": [
+      "By Sruthi Shankar and Ragini Mathur",
+      "July 30 (Reuters) - U.S. stock index futures rose on Thursday after a sharp selloff driven by uncertainty around the Federal Reserve's policy outlook, while Microsoft's forecast-beating results soothed investor concerns about massive AI spending by companies.",
+      "Microsoft rose 9% in premarket trading after the company forecast current-quarter sales and cloud growth that beat expectations, gave a capital expenditure outlook below Wall Street estimates and said it expects to keep generating cash through its just-started fiscal 2027.",
+      "Investors have been spooked by rising AI costs at big technology firms even as they report strong earnings. Negative cash-flow reports from Alphabet and Tesla last week sparked a bout of selling in AI-linked stocks, with chip stocks also coming under pressure as investors question high valuations. The tech-heavy Nasdaq dropped 10% from its early June peak on Wednesday.",
+      "In a sign that AI concerns were far from over, Meta Platforms dropped 8.5% after the social media giant reported a 91% drop in second-quarter free cash flow, underscoring the financial strain of its costly AI buildout.",
+      "Apple and Amazon are scheduled to report earnings after markets close on Thursday.",
+      "U.S. stocks fell sharply on Wednesday, with the benchmark S&P 500 posting its biggest percentage drop since June 10, after the Fed left interest rates unchanged in the 3.50%-3.75% range, but mixed messages from new Fed Chair Kevin Warsh left traders confused about the path of borrowing costs.",
+      "\"Despite the divided vote, there was nothing really in Warsh's remarks that made it clear that a September hike was in the offing,\" said Matthew Ryan, head of market strategy at Ebury.",
+      "Bond markets, however, were on edge, with the yield on the 30-year Treasury bond surging to its highest level in 19 years, as investors grew increasingly concerned about the central bank's monetary-policy outlook and sought greater protection against future inflation.",
+      "Traders currently see a 63% chance that the U.S. central bank will raise interest rates by 25 basis points at its September meeting, as per CME Group's FedWatch tool.",
+      "Key economic data, including the preliminary reading of second-quarter GDP, personal consumption expenditures for June and weekly initial jobless claims, are due at 8:30 a.m. ET.",
+      "At 7:26 a.m. ET, Dow E-minis were up 209 points, or 0.4%, and S&P 500 E-minis were up 45.5 points, or 0.62%. Nasdaq 100 E-minis were up 365.5 points, or 1.34%."
+    ],
+    "html": null
+  }
+}

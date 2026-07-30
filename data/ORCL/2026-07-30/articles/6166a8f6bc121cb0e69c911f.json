@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-pop-3-3-133503243.html",
+    "fetched_at": "2026-07-30T07:00:23.056674-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle shares pop 3.3% as Google cloud AI partnership expands",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Oracle (NYSE: ORCL) stock surged 3.3% Thursday morning following a key expansion of its Google Cloud partnership, injecting Google's flagship Gemini AI directly into Oracle's enterprise software ecosystem. Shares also benefited from broad strength in tech stocks.\nUnder the deal announced today, Google's Gemini models are coming to Oracle AI Agent Studio for Fusion Applications—allowing enterprise clients to build, customize, and deploy autonomous AI agents. Oracle also plans to embed Gemini natively across its flagship Fusion Cloud Applications and Oracle NetSuite.\nThe rollout features a duo of Google models: Gemini 3.1 Flash Lite for high-efficiency, cost-optimized tasks, and Gemini 3.5 Flash for advanced reasoning, including dynamic video and presentation generation. Crucially for enterprise customers, Oracle is maintaining a multi-model architecture, leaving door open for third-party AI models.\n\"To achieve the best business outcomes, organizations need the flexibility to choose the AI model best suited to each problem,\" said Chris Leone, EVP of Applications Development at Oracle. \"Bringing Gemini to AI Agent Studio gives our customers greater choice as they build next-generation agentic workflows.\"\nNetSuite founder and EVP Evan Goldberg added that integrating top-tier LLMs like Gemini enables NetSuite users to \"improve visibility, automate work, and move seamlessly from insight to action.\"\nRelated articles\nOracle shares pop 3.3% as Google cloud AI partnership expands\nNvidia's new Alpamayo project: What it means for Tesla?\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- Oracle (NYSE: ORCL) stock surged 3.3% Thursday morning following a key expansion of its Google Cloud partnership, injecting Google's flagship Gemini AI directly into Oracle's enterprise software ecosystem. Shares also benefited from broad strength in tech stocks.",
+      "Under the deal announced today, Google's Gemini models are coming to Oracle AI Agent Studio for Fusion Applications—allowing enterprise clients to build, customize, and deploy autonomous AI agents. Oracle also plans to embed Gemini natively across its flagship Fusion Cloud Applications and Oracle NetSuite.",
+      "The rollout features a duo of Google models: Gemini 3.1 Flash Lite for high-efficiency, cost-optimized tasks, and Gemini 3.5 Flash for advanced reasoning, including dynamic video and presentation generation. Crucially for enterprise customers, Oracle is maintaining a multi-model architecture, leaving door open for third-party AI models.",
+      "\"To achieve the best business outcomes, organizations need the flexibility to choose the AI model best suited to each problem,\" said Chris Leone, EVP of Applications Development at Oracle. \"Bringing Gemini to AI Agent Studio gives our customers greater choice as they build next-generation agentic workflows.\"",
+      "NetSuite founder and EVP Evan Goldberg added that integrating top-tier LLMs like Gemini enables NetSuite users to \"improve visibility, automate work, and move seamlessly from insight to action.\"",
+      "Related articles",
+      "Oracle shares pop 3.3% as Google cloud AI partnership expands",
+      "Nvidia's new Alpamayo project: What it means for Tesla?",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

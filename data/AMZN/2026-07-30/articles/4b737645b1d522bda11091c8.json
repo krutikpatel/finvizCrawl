@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/dow-s-nearly-300-point-rally-highlighted-by-gains-for-shares-of-microsoft-amazon-com-inc-0cdaf4f5-9fe8490eb2bd?mod=mw_FV",
+    "fetched_at": "2026-07-30T07:00:40.595724-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/data-news/dow-s-nearly-300-point-rally-highlighted-by-gains-for-shares-of-microsoft-amazon-com-inc-0cdaf4f5-9fe8490eb2bd?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/data-news/dow-s-nearly-300-point-rally-highlighted-by-gains-for-shares-of-microsoft-amazon-com-inc-0cdaf4f5-9fe8490eb2bd?mod=mw_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

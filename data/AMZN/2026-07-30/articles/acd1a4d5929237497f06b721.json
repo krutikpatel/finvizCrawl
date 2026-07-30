@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-says-amazon-microsoft-124616618.html",
+    "fetched_at": "2026-07-30T07:00:41.039716-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morgan Stanley Says Amazon, Microsoft, and Google's AI Spending Will Pay Off Big",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMorgan Stanley said that Amazon (NASDAQ:AMZN), Alphabet (GOOGL) and Microsoft (NASDAQ:MSFT) are expected to generate attractive long-term returns from their elevated artificial intelligence infrastructure spending despite investor concerns over rising capital expenditures.\nMorgan Stanley estimated the three cloud providers are on track to invest a combined $1.4 trillion in capital expenditures, while projecting those investments could produce returns on invested capital of roughly 25% to 50%. The firm said demand for AI computing, software models and cloud services may support those returns over time.\nThe report outlined three potential profit drivers. Morgan Stanley said hyperscaler GPU rental services could deliver returns on invested capital of 25% to 40%, supported by strong incremental operating margins. It also expects AI application programming interface (API) services, which allow developers and businesses to access AI models, could generate returns exceeding 40%.\nMorgan Stanley added that AI models operating on third-party infrastructure may produce returns of about 25%, although profitability would depend on computing costs and pricing. The firm said continued investment in chips, software and AI products remains important as Amazon, Alphabet and Microsoft compete to expand their positions in the rapidly growing AI infrastructure market.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Morgan Stanley said that Amazon (NASDAQ:AMZN), Alphabet (GOOGL) and Microsoft (NASDAQ:MSFT) are expected to generate attractive long-term returns from their elevated artificial intelligence infrastructure spending despite investor concerns over rising capital expenditures.",
+      "Morgan Stanley estimated the three cloud providers are on track to invest a combined $1.4 trillion in capital expenditures, while projecting those investments could produce returns on invested capital of roughly 25% to 50%. The firm said demand for AI computing, software models and cloud services may support those returns over time.",
+      "The report outlined three potential profit drivers. Morgan Stanley said hyperscaler GPU rental services could deliver returns on invested capital of 25% to 40%, supported by strong incremental operating margins. It also expects AI application programming interface (API) services, which allow developers and businesses to access AI models, could generate returns exceeding 40%.",
+      "Morgan Stanley added that AI models operating on third-party infrastructure may produce returns of about 25%, although profitability would depend on computing costs and pricing. The firm said continued investment in chips, software and AI products remains important as Amazon, Alphabet and Microsoft compete to expand their positions in the rapidly growing AI infrastructure market."
+    ],
+    "html": null
+  }
+}

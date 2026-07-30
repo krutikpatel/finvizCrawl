@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-huge-news-apple-123650717.html",
+    "fetched_at": "2026-07-30T07:00:10.238789-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm Has Huge News for Apple",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nQualcomm (NASDAQ:QCOM) said revenue from its Apple (AAPL) modem business will decline faster than previously expected as the iPhone maker accelerates adoption of its in-house modem technology.\nThe company said the decline will begin in its fiscal fourth quarter after Qualcomm's modem share in Apple's next iPhone lineup fell materially below its earlier estimate. Apple has already expanded its internally developed modem across several recent iPhone models as part of its strategy to reduce reliance on third-party suppliers.\nQualcomm said it expects growth in non-handset businesses, including artificial intelligence data centers and automotive chips, to offset the reduction in Apple-related revenue over time. The company reiterated its goal of generating $5 billion in AI data center revenue by fiscal 2027 and $15 billion by fiscal 2029, while forecasting most chip sales will come from markets outside smartphones by fiscal 2027.\nThe company also said it plans to increase prices beginning Sept. 1 to offset higher supply chain costs across semiconductor manufacturing and components. Qualcomm reported fiscal third-quarter handset revenue of $5.09 billion, down 20% from a year earlier, while forecasting fourth-quarter adjusted earnings below Wall Street expectations",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Qualcomm (NASDAQ:QCOM) said revenue from its Apple (AAPL) modem business will decline faster than previously expected as the iPhone maker accelerates adoption of its in-house modem technology.",
+      "The company said the decline will begin in its fiscal fourth quarter after Qualcomm's modem share in Apple's next iPhone lineup fell materially below its earlier estimate. Apple has already expanded its internally developed modem across several recent iPhone models as part of its strategy to reduce reliance on third-party suppliers.",
+      "Qualcomm said it expects growth in non-handset businesses, including artificial intelligence data centers and automotive chips, to offset the reduction in Apple-related revenue over time. The company reiterated its goal of generating $5 billion in AI data center revenue by fiscal 2027 and $15 billion by fiscal 2029, while forecasting most chip sales will come from markets outside smartphones by fiscal 2027.",
+      "The company also said it plans to increase prices beginning Sept. 1 to offset higher supply chain costs across semiconductor manufacturing and components. Qualcomm reported fiscal third-quarter handset revenue of $5.09 billion, down 20% from a year earlier, while forecasting fourth-quarter adjusted earnings below Wall Street expectations"
+    ],
+    "html": null
+  }
+}

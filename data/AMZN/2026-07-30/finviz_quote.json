@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=AMZN",
+    "fetched_at": "2026-07-30T07:00:39.388419-07:00"
+  },
+  "company": {
+    "name": "Amazon.com Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 237.09,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "DJIA, NDX, S&P 500",
+    "Market Cap": "2550.40B",
+    "Enterprise Value": "2631.29B",
+    "Income": "90.80B",
+    "Sales": "742.78B",
+    "Book/sh": "41.09",
+    "Cash/sh": "13.57",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "1576000",
+    "IPO": "May 15, 1997"
+  },
+  "raw": null
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/kospi-sell-off-deepens-why-leveraged-etfs-are-under-fire-155119000.html",
+    "fetched_at": "2026-07-30T07:00:31.267070-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Kospi sell-off deepens, Why leveraged ETFs are under fire",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "00:00 Speaker A\nWe have had a three times leverage uh leveraged SOX instrument in the US for a number of years and the SOX is the Philadelphia semiconductor Index and that is the main US semiconductor Index. So here's what's happened today. I want to show you what's happened since those highs in the semi stocks that we saw on June 22nd. And you can see Nvidia is down 8%. That is very little damage. Broadcom down 4%, even Taiwan semi only down 19%.\n00:23 Speaker A\nThe losses get a lot worse as uh you go down the cap scale here. You can see some of these names down as much as 60%. Here's an ETF, here's DRAM down 43%. and excuse me, I'll just show you the year to date. It actually listed about in April and you can still see it's holding on to substantial gains here, but the pain, the pain is palpable.\n00:46 Speaker A\nSo, let me get back to that leverage instrument that I was talking about. This is the Direxion semi 3X. It's called SOXL, S O X L and this is since that uh June 22nd high.\n01:03 Speaker A\nSo you'll see it's down 67, almost 68%, whereas the SOX, the underlying ETF, uh or the ETF that tracks the underlying instrument is down about 28%. So if you multiply 28 times 3, you get 84%. Why is SOXL not down more? This is a minor point.\n01:21 Speaker A\nWith the uh three times leverage, that is done daily. So every day at the end of the day, they do a rebalance and what they're trying to do if the SOX is down 5%, they're going to be down 15%. If the SOX is up 2%, they're going to be up 6%. But over longer periods of time, it doesn't track one to one. And this can pose a real problem for traders because sometimes the underlying instrument will go up, but if it's going up in a very volatile fashion, sometimes the leverage version can actually lose money.\n01:50 Speaker A\nSo, this is becoming a very expensive lesson for leverage traders, not only in the US, but as you were talking about Julie, also over in Korea where it's more a recent phenomenon. I've heard heart-wrenching stories of people mortgaging their house um to put money in the stock market and specifically in some of these leverage ETFs and now they are underwater by a large amount.\n02:10 Speaker A\nSo if you put in $1,000 uh a few weeks ago, you would be down 675 and you would only have about uh $325 left.",
+    "text_blocks": [
+      "00:00 Speaker A",
+      "We have had a three times leverage uh leveraged SOX instrument in the US for a number of years and the SOX is the Philadelphia semiconductor Index and that is the main US semiconductor Index. So here's what's happened today. I want to show you what's happened since those highs in the semi stocks that we saw on June 22nd. And you can see Nvidia is down 8%. That is very little damage. Broadcom down 4%, even Taiwan semi only down 19%.",
+      "00:23 Speaker A",
+      "The losses get a lot worse as uh you go down the cap scale here. You can see some of these names down as much as 60%. Here's an ETF, here's DRAM down 43%. and excuse me, I'll just show you the year to date. It actually listed about in April and you can still see it's holding on to substantial gains here, but the pain, the pain is palpable.",
+      "00:46 Speaker A",
+      "So, let me get back to that leverage instrument that I was talking about. This is the Direxion semi 3X. It's called SOXL, S O X L and this is since that uh June 22nd high.",
+      "01:03 Speaker A",
+      "So you'll see it's down 67, almost 68%, whereas the SOX, the underlying ETF, uh or the ETF that tracks the underlying instrument is down about 28%. So if you multiply 28 times 3, you get 84%. Why is SOXL not down more? This is a minor point.",
+      "01:21 Speaker A",
+      "With the uh three times leverage, that is done daily. So every day at the end of the day, they do a rebalance and what they're trying to do if the SOX is down 5%, they're going to be down 15%. If the SOX is up 2%, they're going to be up 6%. But over longer periods of time, it doesn't track one to one. And this can pose a real problem for traders because sometimes the underlying instrument will go up, but if it's going up in a very volatile fashion, sometimes the leverage version can actually lose money.",
+      "01:50 Speaker A",
+      "So, this is becoming a very expensive lesson for leverage traders, not only in the US, but as you were talking about Julie, also over in Korea where it's more a recent phenomenon. I've heard heart-wrenching stories of people mortgaging their house um to put money in the stock market and specifically in some of these leverage ETFs and now they are underwater by a large amount.",
+      "02:10 Speaker A",
+      "So if you put in $1,000 uh a few weeks ago, you would be down 675 and you would only have about uh $325 left."
+    ],
+    "html": null
+  }
+}

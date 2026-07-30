@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-higher-microsofts-133425893.html",
+    "fetched_at": "2026-07-30T07:00:28.647360-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St opens higher as Microsoft's results temper some AI jitters",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 30 (Reuters) - U.S. stocks opened higher on Thursday as Microsoft's forecast-beating results soothed investor concerns about massive AI spending by companies, while investors parsed fresh readings of GDP and inflation data a day after the Federal Reserve's rate decision.\nThe Dow Jones Industrial Average rose 520.1 points, or 1.01%, at the open to 52,114.27. The S&P 500 rose 74.3 points, or 1.02%, at the open to 7,390.45, while the Nasdaq Composite rose 409.1 points, or 1.67%, to 24,852.047 at the opening bell.\n(Reporting by Shashwat Chauhan in Bengaluru)",
+    "text_blocks": [
+      "July 30 (Reuters) - U.S. stocks opened higher on Thursday as Microsoft's forecast-beating results soothed investor concerns about massive AI spending by companies, while investors parsed fresh readings of GDP and inflation data a day after the Federal Reserve's rate decision.",
+      "The Dow Jones Industrial Average rose 520.1 points, or 1.01%, at the open to 52,114.27. The S&P 500 rose 74.3 points, or 1.02%, at the open to 7,390.45, while the Nasdaq Composite rose 409.1 points, or 1.67%, to 24,852.047 at the opening bell.",
+      "(Reporting by Shashwat Chauhan in Bengaluru)"
+    ],
+    "html": null
+  }
+}

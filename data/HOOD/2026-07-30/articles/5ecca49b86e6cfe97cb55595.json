@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-beats-estimates-prediction-markets-122935295.html",
+    "fetched_at": "2026-07-30T07:00:20.526391-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Beats Estimates as Prediction Markets Overtake Crypto",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRobinhood Markets (NASDAQ:HOOD) rose 0.35% premarket after reporting record second-quarter revenue of $1.31 billion, up 32%, and diluted earnings of $0.62 a share against the $0.43 analysts expected. About $0.14 of that came from gains tied to the deconsolidation of Robinhood Ventures Fund I.\nEvent contracts revenue reached $156 million, up more than tenfold on 13.6 billion contracts traded. Equities revenue nearly doubled to $129 million and options rose 29% to $342 million. Crypto went the other way, down 38% to $100 million, with notional volume on the Robinhood app falling 35%.\nThe rest were records. Net deposits reached $21.7 billion, Gold subscribers hit 4.8 million and total platform assets rose 32% to $369 billion. Funded customers grew 7% to 28.4 million and the margin book more than doubled to $21.6 billion. Trump Accounts, which launched on July 4 after the quarter closed, have drawn more than 7 million sign-ups and nearly $1.5 billion in deposits.\nRobinhood also lowered its 2026 adjusted operating expense and share-based compensation outlook to $2.675 billion to $2.775 billion from $2.7 billion to $2.825 billion.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Robinhood Markets (NASDAQ:HOOD) rose 0.35% premarket after reporting record second-quarter revenue of $1.31 billion, up 32%, and diluted earnings of $0.62 a share against the $0.43 analysts expected. About $0.14 of that came from gains tied to the deconsolidation of Robinhood Ventures Fund I.",
+      "Event contracts revenue reached $156 million, up more than tenfold on 13.6 billion contracts traded. Equities revenue nearly doubled to $129 million and options rose 29% to $342 million. Crypto went the other way, down 38% to $100 million, with notional volume on the Robinhood app falling 35%.",
+      "The rest were records. Net deposits reached $21.7 billion, Gold subscribers hit 4.8 million and total platform assets rose 32% to $369 billion. Funded customers grew 7% to 28.4 million and the margin book more than doubled to $21.6 billion. Trump Accounts, which launched on July 4 after the quarter closed, have drawn more than 7 million sign-ups and nearly $1.5 billion in deposits.",
+      "Robinhood also lowered its 2026 adjusted operating expense and share-based compensation outlook to $2.675 billion to $2.775 billion from $2.7 billion to $2.825 billion."
+    ],
+    "html": null
+  }
+}

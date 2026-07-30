@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026/card/meta-stock-slides-after-light-on-details-update-on-ai-spend-bZeNyuzXDiecwh9hZIIl?mod=wsj_FV",
+    "fetched_at": "2026-07-30T07:00:12.455938-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026/card/meta-stock-slides-after-light-on-details-update-on-ai-spend-bZeNyuzXDiecwh9hZIIl?mod=wsj_FV",
+      "context": {
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026/card/meta-stock-slides-after-light-on-details-update-on-ai-spend-bZeNyuzXDiecwh9hZIIl?mod=wsj_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

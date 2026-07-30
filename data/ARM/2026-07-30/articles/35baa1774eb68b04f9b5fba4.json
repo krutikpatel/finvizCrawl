@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/memory-prices-hit-arms-royalties-124437703.html",
+    "fetched_at": "2026-07-30T07:00:48.951800-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Memory Prices Hit Arm's Royalties as Stock Falls 4%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), which licenses the chip architecture behind most of the world's smartphones, fell 3.78% premarket despite beating on both lines. First-quarter revenue rose 22% to $1.29 billion against the $1.26 billion analysts expected, and non-GAAP earnings of $0.45 a share topped the $0.40 consensus.\nRoyalty revenue grew 22% to $715 million, with data center royalties more than doubling as Neoverse shipments passed 1.5 billion cores. Licensing revenue rose 23% to $574 million, free cash flow reached $665 million and non-GAAP operating margin widened 210 basis points to about 41.2%.\nFor the second quarter, management guided royalty growth of 13%, below what it had expected a couple of quarters earlier, pointing to smartphone weakness tied to higher memory prices, with higher licensing growth more than covering the shortfall. Total revenue is expected to come in at $1.38 billion give or take $50 million. Demand for its new AGI CPU now exceeds $2 billion across this fiscal year and next, double the $1 billion flagged a quarter ago, though management expects first-generation gross margins in the high 30% to low 40% range against a long-term target of 50%.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), which licenses the chip architecture behind most of the world's smartphones, fell 3.78% premarket despite beating on both lines. First-quarter revenue rose 22% to $1.29 billion against the $1.26 billion analysts expected, and non-GAAP earnings of $0.45 a share topped the $0.40 consensus.",
+      "Royalty revenue grew 22% to $715 million, with data center royalties more than doubling as Neoverse shipments passed 1.5 billion cores. Licensing revenue rose 23% to $574 million, free cash flow reached $665 million and non-GAAP operating margin widened 210 basis points to about 41.2%.",
+      "For the second quarter, management guided royalty growth of 13%, below what it had expected a couple of quarters earlier, pointing to smartphone weakness tied to higher memory prices, with higher licensing growth more than covering the shortfall. Total revenue is expected to come in at $1.38 billion give or take $50 million. Demand for its new AGI CPU now exceeds $2 billion across this fiscal year and next, double the $1 billion flagged a quarter ago, though management expects first-generation gross margins in the high 30% to low 40% range against a long-term target of 50%."
+    ],
+    "html": null
+  }
+}

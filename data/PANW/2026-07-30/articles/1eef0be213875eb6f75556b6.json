@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/76931fe1-f7b5-3950-b1ff-1910974b42c8/the-volatility-warning.html",
+    "fetched_at": "2026-07-30T07:00:46.315410-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Volatility Warning Embedded in Cisco Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Photo by Zozz_ on Pixabay\nBeneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.\nIf you hold shares in Cisco Systems (CSCO), you've had a good year. But the options market, the financial world's cleanest gauge of risk, is signaling that the ride ahead could be much bumpier. It's not making a call on direction, but on magnitude. And if you own the stock, you own that potential for a wide, two-sided swing, whether you've ever looked at an option chain or not.\nA Priced-In Swing From $77.50 to $171.69\nLet's put a number on the risk you're carrying. Based on current options pricing, the market sees a 68% probability, think of it as the most likely range of outcomes, that Cisco stock will finish the next year somewhere between a floor near $77.50 and a ceiling near $171.69. From today's price of about $114.57, that ceiling represents a 50% gain, while the floor implies a 32% drop. This is the uncertainty you are exposed to right now: a sizable move in either direction that is already baked into the stock's price.\nWhy the Market Is Bracing for More Than Business as Usual\nThis isn't just a typical level of market noise. The options market is pricing in significantly more volatility than the stock has recently delivered. Cisco's implied volatility, the market's forecast of future swings, is currently 43%. That's running at 1.31 times its realized volatility of 33%, which is how much the stock has actually moved over the past year. In fact, this level of priced-in risk sits in the 96th percentile of its own one-year range. The market is clearly anticipating a catalyst powerful enough to break the stock out of its recent pattern.\nAn AI Boom Collides with Margin Questions\nThat catalyst is Cisco's aggressive and successful pivot into AI infrastructure. The bull case is electrifying. The company just reported record revenue of $15.8 billion in Q3, and total product orders surged 35% year-over-year. Management sharply raised its forecast for AI infrastructure orders from hyperscalers to approximately $9 billion for FY '26. This is the engine that could drive the stock toward the top end of that options range.\nBut this rapid growth comes with serious questions, which explains the downside risk. Analysts on the company's latest call pressed management on whether the strong 19% order growth outside of hyperscalers was sustainable or simply customers pulling orders forward. More critically, the shift toward high-volume hardware is creating pressure on profitability. Non-GAAP product gross margin fell by 330 basis points, driven by this mix shift and higher memory costs. While traders are currently paying more for upside calls than for downside puts, the sheer size of the two-sided range is the real story.",
+    "text_blocks": [
+      "Photo by Zozz_ on Pixabay",
+      "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
+      "If you hold shares in Cisco Systems (CSCO), you've had a good year. But the options market, the financial world's cleanest gauge of risk, is signaling that the ride ahead could be much bumpier. It's not making a call on direction, but on magnitude. And if you own the stock, you own that potential for a wide, two-sided swing, whether you've ever looked at an option chain or not.",
+      "A Priced-In Swing From $77.50 to $171.69",
+      "Let's put a number on the risk you're carrying. Based on current options pricing, the market sees a 68% probability, think of it as the most likely range of outcomes, that Cisco stock will finish the next year somewhere between a floor near $77.50 and a ceiling near $171.69. From today's price of about $114.57, that ceiling represents a 50% gain, while the floor implies a 32% drop. This is the uncertainty you are exposed to right now: a sizable move in either direction that is already baked into the stock's price.",
+      "Why the Market Is Bracing for More Than Business as Usual",
+      "This isn't just a typical level of market noise. The options market is pricing in significantly more volatility than the stock has recently delivered. Cisco's implied volatility, the market's forecast of future swings, is currently 43%. That's running at 1.31 times its realized volatility of 33%, which is how much the stock has actually moved over the past year. In fact, this level of priced-in risk sits in the 96th percentile of its own one-year range. The market is clearly anticipating a catalyst powerful enough to break the stock out of its recent pattern.",
+      "An AI Boom Collides with Margin Questions",
+      "That catalyst is Cisco's aggressive and successful pivot into AI infrastructure. The bull case is electrifying. The company just reported record revenue of $15.8 billion in Q3, and total product orders surged 35% year-over-year. Management sharply raised its forecast for AI infrastructure orders from hyperscalers to approximately $9 billion for FY '26. This is the engine that could drive the stock toward the top end of that options range.",
+      "But this rapid growth comes with serious questions, which explains the downside risk. Analysts on the company's latest call pressed management on whether the strong 19% order growth outside of hyperscalers was sustainable or simply customers pulling orders forward. More critically, the shift toward high-volume hardware is creating pressure on profitability. Non-GAAP product gross margin fell by 330 basis points, driven by this mix shift and higher memory costs. While traders are currently paying more for upside calls than for downside puts, the sheer size of the two-sided range is the real story."
+    ],
+    "html": null
+  }
+}
