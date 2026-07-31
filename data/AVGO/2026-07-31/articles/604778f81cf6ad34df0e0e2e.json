@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/apple-commits-more-than-30-billion-to-us-manufacturing-220800117.html",
+    "fetched_at": "2026-07-31T07:00:35.707309-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple commits more than $30 billion to US manufacturing",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "During Thursday night's earnings call, Apple (AAPL) CEO Tim Cook highlighted a string of milestones, including the company's best-ever June quarter, with revenue reaching $109.4 billion. iPhone revenue surged 22% year-over-year to $54.3 billion, while Mac revenue climbed to a record $10.4 billion.\nBeyond the financial results, Cook reaffirmed Apple's commitment to US manufacturing, announcing plans to invest $600 billion in the United States over the next four years. The investment, which the company said includes the reinvestment of tariff-related funds, expands Apple's long-term domestic manufacturing strategy.\nAs part of that effort, Apple has entered a new multiyear agreement with Broadcom (AVGO) under its American Manufacturing Program. The partnership is expected to contribute more than $30 billion in investment to build an end-to-end silicon supply chain and advanced manufacturing equipment in the United States.",
+    "text_blocks": [
+      "During Thursday night's earnings call, Apple (AAPL) CEO Tim Cook highlighted a string of milestones, including the company's best-ever June quarter, with revenue reaching $109.4 billion. iPhone revenue surged 22% year-over-year to $54.3 billion, while Mac revenue climbed to a record $10.4 billion.",
+      "Beyond the financial results, Cook reaffirmed Apple's commitment to US manufacturing, announcing plans to invest $600 billion in the United States over the next four years. The investment, which the company said includes the reinvestment of tariff-related funds, expands Apple's long-term domestic manufacturing strategy.",
+      "As part of that effort, Apple has entered a new multiyear agreement with Broadcom (AVGO) under its American Manufacturing Program. The partnership is expected to contribute more than $30 billion in investment to build an end-to-end silicon supply chain and advanced manufacturing equipment in the United States."
+    ],
+    "html": null
+  }
+}

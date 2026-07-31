@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-gets-fresh-boost-wall-200407338.html",
+    "fetched_at": "2026-07-31T07:00:48.279131-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Gets a Fresh Boost From Wall Street",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSemiconductor giant AMD (AMD, Financials) got renewed attention after Susquehanna boosted its price target, citing better prospects in the company's server CPU division. Following the analyst action, AMD shares were up more than 6% in premarket trade.Susquehanna anticipates higher earnings and guidance, with the data center industry likely to offer the primary boost. The firm said server processors could give upside as cloud providers and big companies keep building out processing capacity.That's important because AMD's data center business has become a big element of its growth narrative. A stronger demand for server CPUs might help the company boost revenue growth and gain more ground in a market dominated by larger rivals.The optimistic call also feeds into broader investor enthusiasm in chipmakers associated with artificial intelligence and cloud infrastructure. Companies are developing systems that can cope with more demanding workloads and spending on servers, processors and data centers is still high.The change doesn't eliminate competitive threats, but it shows analysts see potential for AMD's server business to exceed current forecasts.Investors will now look to AMD's next earnings report for updated guidance and evidence that server CPU demand is translating to stronger sales.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Semiconductor giant AMD (AMD, Financials) got renewed attention after Susquehanna boosted its price target, citing better prospects in the company's server CPU division. Following the analyst action, AMD shares were up more than 6% in premarket trade.Susquehanna anticipates higher earnings and guidance, with the data center industry likely to offer the primary boost. The firm said server processors could give upside as cloud providers and big companies keep building out processing capacity.That's important because AMD's data center business has become a big element of its growth narrative. A stronger demand for server CPUs might help the company boost revenue growth and gain more ground in a market dominated by larger rivals.The optimistic call also feeds into broader investor enthusiasm in chipmakers associated with artificial intelligence and cloud infrastructure. Companies are developing systems that can cope with more demanding workloads and spending on servers, processors and data centers is still high.The change doesn't eliminate competitive threats, but it shows analysts see potential for AMD's server business to exceed current forecasts.Investors will now look to AMD's next earnings report for updated guidance and evidence that server CPU demand is translating to stronger sales."
+    ],
+    "html": null
+  }
+}

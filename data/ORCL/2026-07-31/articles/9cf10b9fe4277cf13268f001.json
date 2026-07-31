@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/77342b5b-1fc9-3084-87dc-5cf8f4f9904a/how-to-bank-13%25-on-ibm-stock.html",
+    "fetched_at": "2026-07-31T07:00:24.828492-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How To Bank 13% On IBM Stock Before Buying A Single Share",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Get paid a handsome income now for simply agreeing to buy this tech giant later, at a price well below today's, and you keep that income no matter what the stock does.\nInternational Business Machines (IBM) has had a rough go, with shares tumbling after its latest quarterly report fell short of expectations and triggered a guidance cut. But for investors who see long-term value in the tech stalwart, that drop creates an interesting setup: a way to get paid a healthy income stream right now for simply agreeing to buy the stock later, at a price well below even today's bruised level. The specifics of that trade are laid out below.\n13% annualized yield at a 30% margin of safety, by selling put options.\n-\nSell a put option on IBM expiring 6/17/2027, with a strike price of $160.\n-\nCollect roughly $1,077 in premium per contract (each contract covers 100 shares).\n-\nThat works out to about 7.6% annualized on the $16,000 of cash you set aside to secure the trade.\n-\nPark that cash in a money market or savings account earning roughly 5.0%, and your total yield climbs to about 12.6%.\n-\nAnd if IBM falls below $160, you buy it at $160, an effective entry near $149.23 a share after the premium, about a 34% discount to today's $226.44.\nTwo Ways This Plays Out, Both Pay You\nIf IBM stays above $160 through 6/17/2027, the put expires worthless, and you simply keep the full $1,077 premium. That is about 6.7% on the $16,000 you set aside over 323 days, while that same collateral keeps earning the ~5.0% money-market yield on top, for the ~12.6% total above. You never buy the stock and keep the income, free to do it again.\nIf IBM closes below $160, you are assigned and buy 100 shares at $160. The $1,077 premium you already pocketed lowers your effective cost to about $149.23 a share, roughly a 34% discount to today's price, though if the stock has fallen further by then you would be holding a paper loss.\nSo what happens if IBM really does close below $160, and you are the one buying? Then everything rests on a single question.\nWhat You Would Actually Be Buying\nBecause this strategy could leave you owning the shares, the real question is whether you'd be comfortable holding IBM in your portfolio. The bull case starts with management's explanation for the recent stumble. They argue the second quarter performance, which \"fell short of expectations,\" was a timing issue, not a structural one. Moreover, the company said that \"tens of large deals failed to close on the time lines we expected,\" as clients suddenly redirected capital to other infrastructure. The reassuring follow-up? Management was \"very pleased to see that about 1/3 of those have already closed\" just a few weeks into the new quarter, suggesting demand was deferred, not destroyed.",
+    "text_blocks": [
+      "Get paid a handsome income now for simply agreeing to buy this tech giant later, at a price well below today's, and you keep that income no matter what the stock does.",
+      "International Business Machines (IBM) has had a rough go, with shares tumbling after its latest quarterly report fell short of expectations and triggered a guidance cut. But for investors who see long-term value in the tech stalwart, that drop creates an interesting setup: a way to get paid a healthy income stream right now for simply agreeing to buy the stock later, at a price well below even today's bruised level. The specifics of that trade are laid out below.",
+      "13% annualized yield at a 30% margin of safety, by selling put options.",
+      "-",
+      "Sell a put option on IBM expiring 6/17/2027, with a strike price of $160.",
+      "-",
+      "Collect roughly $1,077 in premium per contract (each contract covers 100 shares).",
+      "-",
+      "That works out to about 7.6% annualized on the $16,000 of cash you set aside to secure the trade.",
+      "-",
+      "Park that cash in a money market or savings account earning roughly 5.0%, and your total yield climbs to about 12.6%.",
+      "-",
+      "And if IBM falls below $160, you buy it at $160, an effective entry near $149.23 a share after the premium, about a 34% discount to today's $226.44.",
+      "Two Ways This Plays Out, Both Pay You",
+      "If IBM stays above $160 through 6/17/2027, the put expires worthless, and you simply keep the full $1,077 premium. That is about 6.7% on the $16,000 you set aside over 323 days, while that same collateral keeps earning the ~5.0% money-market yield on top, for the ~12.6% total above. You never buy the stock and keep the income, free to do it again.",
+      "If IBM closes below $160, you are assigned and buy 100 shares at $160. The $1,077 premium you already pocketed lowers your effective cost to about $149.23 a share, roughly a 34% discount to today's price, though if the stock has fallen further by then you would be holding a paper loss.",
+      "So what happens if IBM really does close below $160, and you are the one buying? Then everything rests on a single question.",
+      "What You Would Actually Be Buying",
+      "Because this strategy could leave you owning the shares, the real question is whether you'd be comfortable holding IBM in your portfolio. The bull case starts with management's explanation for the recent stumble. They argue the second quarter performance, which \"fell short of expectations,\" was a timing issue, not a structural one. Moreover, the company said that \"tens of large deals failed to close on the time lines we expected,\" as clients suddenly redirected capital to other infrastructure. The reassuring follow-up? Management was \"very pleased to see that about 1/3 of those have already closed\" just a few weeks into the new quarter, suggesting demand was deferred, not destroyed."
+    ],
+    "html": null
+  }
+}

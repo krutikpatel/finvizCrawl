@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=AAPL",
+    "fetched_at": "2026-07-31T07:00:06.452330-07:00"
+  },
+  "company": {
+    "name": "Apple Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 302.89,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "DJIA, NDX, S&P 500",
+    "Market Cap": "4448.73B",
+    "Enterprise Value": "4470.67B",
+    "Income": "128.93B",
+    "Sales": "466.82B",
+    "Book/sh": "7.36",
+    "Cash/sh": "4.25",
+    "Dividend Est.": "1.08 (0.36%)",
+    "Dividend TTM": "1.05 (0.35%)",
+    "Dividend Ex-Date": "May 11, 2026",
+    "Dividend Gr. 3/5Y": "4.26% 4.98%",
+    "Payout": "13.66%",
+    "Employees": "166000",
+    "IPO": "Dec 12, 1980"
+  },
+  "raw": null
+}

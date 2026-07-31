@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bloomberg-moonshot-used-20k-nvidia-132552707.html",
+    "fetched_at": "2026-07-31T07:00:42.001578-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bloomberg: Moonshot used 20K Nvidia chips via Alibaba to rival US",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The plot surrounding China's latest artificial intelligence sensation is thickening.\nNew details have emerged shedding light on how Moonshot AI, a Beijing-based startup, managed to build its Kimi K3—a 2.8-trillion-parameter model that recently sent shockwaves through global tech markets by rivaling the best systems from OpenAI and Anthropic. According to a recent report by Bloomberg News, Moonshot leaned heavily on a massive computing agreement with Alibaba Group Holding Ltd., accessing roughly 20,000 advanced Nvidia chips.\nThe arrangement highlights the complex web of partnerships, technological workarounds, and geopolitical tensions defining the current era of global AI development.\nThe Alibaba Compute Pipeline\nWhile the Kimi K3 breakthrough proved that Chinese developers are deploying clever architectural innovations to close the gap with the US, raw computing power remains a prerequisite for frontier models.\nAccording to people familiar with the companies' operations who spoke to Bloomberg, the hardware accessed via Alibaba represents a large portion of Moonshot's total computing capacity for its Kimi models. Alibaba is not just a service provider; it is one of Moonshot's largest investors. The e-commerce and cloud giant traditionally expects the companies it backs to utilize its cloud infrastructure.\nHowever, the partnership is not without internal friction. Bloomberg reports that Kimi's recent performance metrics have actually surpassed those of Alibaba's own Qwen AI products, despite Qwen teams having access to similar Alibaba-provided infrastructure. This dynamic has reportedly caused disappointment among some factions within Alibaba.\nThe Chip Question: Hopper vs. Blackwell\nThe exact nature of the Nvidia chips powering Moonshot's ascent remains a point of intense scrutiny, particularly in Washington.\nAccording to sources speaking to Bloomberg, the 20,000 chips accessed via Alibaba belong to Nvidia's Hopper generation, specifically the powerful H200 accelerators. These were the industry standard for training advanced AI before Nvidia launched its latest generation, the highly restricted Blackwell architecture.\nWhile an Alibaba spokesperson denied providing H200-powered compute to Moonshot, they did not deny the broader agreement supplying 20,000 Nvidia chips, declining to comment on the specific models involved.\nThis Hopper cluster appears to be only part of the story.\nMichael Kratsios, who directs the White House Office of Science and Technology Policy, recently accused Moonshot of illegally acquiring and using Nvidia's newer, heavily restricted Blackwell accelerators to train K3. The US government suspects these chips were accessed via an unnamed third party in Thailand.",
+    "text_blocks": [
+      "The plot surrounding China's latest artificial intelligence sensation is thickening.",
+      "New details have emerged shedding light on how Moonshot AI, a Beijing-based startup, managed to build its Kimi K3—a 2.8-trillion-parameter model that recently sent shockwaves through global tech markets by rivaling the best systems from OpenAI and Anthropic. According to a recent report by Bloomberg News, Moonshot leaned heavily on a massive computing agreement with Alibaba Group Holding Ltd., accessing roughly 20,000 advanced Nvidia chips.",
+      "The arrangement highlights the complex web of partnerships, technological workarounds, and geopolitical tensions defining the current era of global AI development.",
+      "The Alibaba Compute Pipeline",
+      "While the Kimi K3 breakthrough proved that Chinese developers are deploying clever architectural innovations to close the gap with the US, raw computing power remains a prerequisite for frontier models.",
+      "According to people familiar with the companies' operations who spoke to Bloomberg, the hardware accessed via Alibaba represents a large portion of Moonshot's total computing capacity for its Kimi models. Alibaba is not just a service provider; it is one of Moonshot's largest investors. The e-commerce and cloud giant traditionally expects the companies it backs to utilize its cloud infrastructure.",
+      "However, the partnership is not without internal friction. Bloomberg reports that Kimi's recent performance metrics have actually surpassed those of Alibaba's own Qwen AI products, despite Qwen teams having access to similar Alibaba-provided infrastructure. This dynamic has reportedly caused disappointment among some factions within Alibaba.",
+      "The Chip Question: Hopper vs. Blackwell",
+      "The exact nature of the Nvidia chips powering Moonshot's ascent remains a point of intense scrutiny, particularly in Washington.",
+      "According to sources speaking to Bloomberg, the 20,000 chips accessed via Alibaba belong to Nvidia's Hopper generation, specifically the powerful H200 accelerators. These were the industry standard for training advanced AI before Nvidia launched its latest generation, the highly restricted Blackwell architecture.",
+      "While an Alibaba spokesperson denied providing H200-powered compute to Moonshot, they did not deny the broader agreement supplying 20,000 Nvidia chips, declining to comment on the specific models involved.",
+      "This Hopper cluster appears to be only part of the story.",
+      "Michael Kratsios, who directs the White House Office of Science and Technology Policy, recently accused Moonshot of illegally acquiring and using Nvidia's newer, heavily restricted Blackwell accelerators to train K3. The US government suspects these chips were accessed via an unnamed third party in Thailand."
+    ],
+    "html": null
+  }
+}

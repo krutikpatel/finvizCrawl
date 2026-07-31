@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-focus-musk-dismisses-123011788.html",
+    "fetched_at": "2026-07-31T07:00:03.775728-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock in Focus -- Musk Dismisses Report on China Business Sale",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nElon Musk rejected a media report that Tesla (NASDAQ:TSLA) executives had been asked to prepare for a possible separation of the company's China operations.\nThe report, which cited people familiar with the matter, linked the potential move to speculation about a future combination between Tesla and SpaceX. Musk disputed that account, saying the matter had not been discussed within the companies.\nTesla has faced growing attention around its relationship with China as speculation about a possible transaction involving SpaceX has increased. SpaceX is a major U.S. defense contractor, while Tesla operates its largest manufacturing site at Gigafactory Shanghai, creating potential regulatory and geopolitical complications for any combination.\nTesla has also worked to maintain greater separation between its U.S. and Chinese operations. Musk previously directed executives to organize the businesses independently, according to the report, amid concerns that worsening relations between Washington and Beijing could disrupt operations.\nTesla shares climbed more than 3% in Thursday's session. SpaceX shares fell less than 1% based on the reported market data.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Elon Musk rejected a media report that Tesla (NASDAQ:TSLA) executives had been asked to prepare for a possible separation of the company's China operations.",
+      "The report, which cited people familiar with the matter, linked the potential move to speculation about a future combination between Tesla and SpaceX. Musk disputed that account, saying the matter had not been discussed within the companies.",
+      "Tesla has faced growing attention around its relationship with China as speculation about a possible transaction involving SpaceX has increased. SpaceX is a major U.S. defense contractor, while Tesla operates its largest manufacturing site at Gigafactory Shanghai, creating potential regulatory and geopolitical complications for any combination.",
+      "Tesla has also worked to maintain greater separation between its U.S. and Chinese operations. Musk previously directed executives to organize the businesses independently, according to the report, amid concerns that worsening relations between Washington and Beijing could disrupt operations.",
+      "Tesla shares climbed more than 3% in Thursday's session. SpaceX shares fell less than 1% based on the reported market data."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-rises-4-revenue-195844073.html",
+    "fetched_at": "2026-07-31T07:00:54.527572-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Stock Rises 4% After Revenue and Profit Forecast Beats",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), a chip-architecture company licensing processor designs to semiconductor manufacturers, rose approximately 4% in Thursday's regular-session trading after forecasting revenue and earnings above expectations. The shares had initially fallen nearly 7% in after-hours trading following Wednesday's report. Arm projected current-quarter revenue of approximately $1.38 billion and adjusted earnings of $0.47 per share, compared with analyst estimates of $1.34 billion and $0.43.\nFiscal first-quarter revenue reached $1.29 billion, exceeding the $1.26 billion consensus, while adjusted earnings of $0.45 per share surpassed expectations of $0.40. Royalty revenue increased 22% to $715 million, and licensing revenue advanced 23% to $574 million. Management nevertheless expects smartphone royalty revenue to decline during the current quarter, creating a contrast between softer mobile demand and growing use of Arm technology in data centers.\nArm designs are used in custom artificial-intelligence processors developed by Alphabet (NASDAQ:GOOGL), an internet and cloud-computing company, and Amazon.com (NASDAQ:AMZN), an e-commerce and cloud-services provider. NVIDIA (NASDAQ:NVDA), an AI-chip company, also uses Arm technology in its Vera central processor. Arm said it shipped 1.5 billion data-center processor cores over six years, with approximately 30% delivered during the latest nine months. Investors may view that acceleration as evidence of greater data-center adoption, although the financial effect will depend on royalty rates, licensing arrangements and customer deployment volumes.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), a chip-architecture company licensing processor designs to semiconductor manufacturers, rose approximately 4% in Thursday's regular-session trading after forecasting revenue and earnings above expectations. The shares had initially fallen nearly 7% in after-hours trading following Wednesday's report. Arm projected current-quarter revenue of approximately $1.38 billion and adjusted earnings of $0.47 per share, compared with analyst estimates of $1.34 billion and $0.43.",
+      "Fiscal first-quarter revenue reached $1.29 billion, exceeding the $1.26 billion consensus, while adjusted earnings of $0.45 per share surpassed expectations of $0.40. Royalty revenue increased 22% to $715 million, and licensing revenue advanced 23% to $574 million. Management nevertheless expects smartphone royalty revenue to decline during the current quarter, creating a contrast between softer mobile demand and growing use of Arm technology in data centers.",
+      "Arm designs are used in custom artificial-intelligence processors developed by Alphabet (NASDAQ:GOOGL), an internet and cloud-computing company, and Amazon.com (NASDAQ:AMZN), an e-commerce and cloud-services provider. NVIDIA (NASDAQ:NVDA), an AI-chip company, also uses Arm technology in its Vera central processor. Arm said it shipped 1.5 billion data-center processor cores over six years, with approximately 30% delivered during the latest nine months. Investors may view that acceleration as evidence of greater data-center adoption, although the financial effect will depend on royalty rates, licensing arrangements and customer deployment volumes."
+    ],
+    "html": null
+  }
+}

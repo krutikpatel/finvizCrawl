@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-just-had-best-121943604.html",
+    "fetched_at": "2026-07-31T07:00:32.238310-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Stock Just Had Its Best Day Since 2008",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft stock soars to its biggest gain since 2008. The key reason behind Microsoft's biggest stock gain in nearly 18 years was a stronger-than-expected earnings report that eased concerns over its heavy AI spending.\nMicrosoft (NASDAQ:MSFT) shares surged 15.5% on July 30, marking their best session since 2008. Microsoft posted better quarterly profit than Wall Street expected, while Azure delivered strong growth. CEO Satya Nadella also pointed to rising customer use of the company's artificial intelligence tools, giving investors more confidence that its large AI investments are starting to generate returns.\nAnother boost came from Microsoft's spending plans. Unlike some Big Tech peers, Microsoft did not raise its expected AI investment level, helping ease worries that massive infrastructure costs could pressure future cash flow.\nMicrosoft also helped lift the broader market. The S&P 500 gained 1.7%, while the Nasdaq Composite jumped 2.8%. Chip stocks recovered as well, with Micron Technology rising 18.4%, Lam Research climbing 18% and Advanced Micro Devices gaining 13%.\nThe rally stood out against a difficult backdrop for technology stocks. Meta Platforms fell 8% after its results raised fresh questions about AI-related spending and profitability.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft stock soars to its biggest gain since 2008. The key reason behind Microsoft's biggest stock gain in nearly 18 years was a stronger-than-expected earnings report that eased concerns over its heavy AI spending.",
+      "Microsoft (NASDAQ:MSFT) shares surged 15.5% on July 30, marking their best session since 2008. Microsoft posted better quarterly profit than Wall Street expected, while Azure delivered strong growth. CEO Satya Nadella also pointed to rising customer use of the company's artificial intelligence tools, giving investors more confidence that its large AI investments are starting to generate returns.",
+      "Another boost came from Microsoft's spending plans. Unlike some Big Tech peers, Microsoft did not raise its expected AI investment level, helping ease worries that massive infrastructure costs could pressure future cash flow.",
+      "Microsoft also helped lift the broader market. The S&P 500 gained 1.7%, while the Nasdaq Composite jumped 2.8%. Chip stocks recovered as well, with Micron Technology rising 18.4%, Lam Research climbing 18% and Advanced Micro Devices gaining 13%.",
+      "The rally stood out against a difficult backdrop for technology stocks. Meta Platforms fell 8% after its results raised fresh questions about AI-related spending and profitability."
+    ],
+    "html": null
+  }
+}

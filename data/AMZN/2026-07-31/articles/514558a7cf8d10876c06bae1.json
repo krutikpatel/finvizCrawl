@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-opens-higher-amazon-surge-133357264.html",
+    "fetched_at": "2026-07-31T07:00:45.075726-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq opens higher as Amazon surge offsets Apple decline",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "July 31 (Reuters) - The Nasdaq opened higher on Friday, boosted by Amazon's 12% jump after the Big Tech company joined some of its peers in delivering strong cloud revenue growth, putting to rest concerns about AI returns.\nThe Dow Jones Industrial Average rose 27.0 points, or 0.05%, at the open to 52,235.03. The S&P 500 rose 24.5 points, or 0.33%, at the open to 7,462.13, while the Nasdaq Composite rose 218.5 points, or 0.87%, to 25,340.711 at the opening bell.\n(Reporting by Johann M Cherian in Bengaluru; Editing by Pooja Desai)",
+    "text_blocks": [
+      "July 31 (Reuters) - The Nasdaq opened higher on Friday, boosted by Amazon's 12% jump after the Big Tech company joined some of its peers in delivering strong cloud revenue growth, putting to rest concerns about AI returns.",
+      "The Dow Jones Industrial Average rose 27.0 points, or 0.05%, at the open to 52,235.03. The S&P 500 rose 24.5 points, or 0.33%, at the open to 7,462.13, while the Nasdaq Composite rose 218.5 points, or 0.87%, to 25,340.711 at the opening bell.",
+      "(Reporting by Johann M Cherian in Bengaluru; Editing by Pooja Desai)"
+    ],
+    "html": null
+  }
+}

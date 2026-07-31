@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-powerful-vote-202832603.html",
+    "fetched_at": "2026-07-31T07:00:48.127069-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Gets Powerful Vote of Confidence",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAMD (NASDAQ:AMD) surged more than 6% in premarket trading Thursday after Susquehanna raised its price target to $500 from $450, arguing that resilient EPYC server-CPU demand and an approaching AI accelerator ramp could drive stronger earnings and guidance. The call broadens the investment case beyond AMD's challenge to Nvidia in GPUs.\nAMD designs processors and accelerators used in data centers, personal computers, gaming systems and embedded equipment. Its data-center portfolio combines EPYC CPUs, Instinct GPUs, Pensando networking and ROCm software, giving it multiple routes into expanding AI infrastructure budgets.\nIn short, we expect better results/guidance, driven primarily by [data center], Susquehanna analyst Christopher Rolland wrote.\nRolland expects MI450 and Helios deployments to produce a significant ramp in data-center GPU revenue late in 2026, following MI350 growth during the first half. That thesis is increasingly backed by major customers. OpenAI and Meta each have agreements covering up to 6 gigawatts of AMD GPUs, with initial MI450 deployments scheduled for the second half of 2026.\nAnthropic has separately agreed to deploy up to 2 gigawatts of MI450-based Helios systems, beginning with the first gigawatt in the first half of 2027. AMD also committed to invest up to $5 billion in Anthropic.\nServer CPUs could provide the nearer-term upside. Susquehanna said agentic AI is increasing CPU requirements, with some workloads requiring more than one CPU per GPU. AMD has raised its estimated 2030 server-CPU market to roughly $220 billion, expanding the opportunity for EPYC even before MI450 reaches scale.\nInvestor Takeaway On Amd Stock\nAMD reports second-quarter results after the Aug. 4 close. Analysts expect earnings of $1.61 per share on $11.3 billion in revenue, compared with AMD's guidance midpoint of $11.2 billion and a roughly 56% non-GAAP gross margin.\nInvestors should watch data-center revenue, EPYC share gains, MI350 demand and the MI450 timetable. Higher AI guidance or firmer deployment schedules would support Susquehanna's target. Delays, weaker margins or heavy dependence on a few large customers would challenge the thesis.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AMD (NASDAQ:AMD) surged more than 6% in premarket trading Thursday after Susquehanna raised its price target to $500 from $450, arguing that resilient EPYC server-CPU demand and an approaching AI accelerator ramp could drive stronger earnings and guidance. The call broadens the investment case beyond AMD's challenge to Nvidia in GPUs.",
+      "AMD designs processors and accelerators used in data centers, personal computers, gaming systems and embedded equipment. Its data-center portfolio combines EPYC CPUs, Instinct GPUs, Pensando networking and ROCm software, giving it multiple routes into expanding AI infrastructure budgets.",
+      "In short, we expect better results/guidance, driven primarily by [data center], Susquehanna analyst Christopher Rolland wrote.",
+      "Rolland expects MI450 and Helios deployments to produce a significant ramp in data-center GPU revenue late in 2026, following MI350 growth during the first half. That thesis is increasingly backed by major customers. OpenAI and Meta each have agreements covering up to 6 gigawatts of AMD GPUs, with initial MI450 deployments scheduled for the second half of 2026.",
+      "Anthropic has separately agreed to deploy up to 2 gigawatts of MI450-based Helios systems, beginning with the first gigawatt in the first half of 2027. AMD also committed to invest up to $5 billion in Anthropic.",
+      "Server CPUs could provide the nearer-term upside. Susquehanna said agentic AI is increasing CPU requirements, with some workloads requiring more than one CPU per GPU. AMD has raised its estimated 2030 server-CPU market to roughly $220 billion, expanding the opportunity for EPYC even before MI450 reaches scale.",
+      "Investor Takeaway On Amd Stock",
+      "AMD reports second-quarter results after the Aug. 4 close. Analysts expect earnings of $1.61 per share on $11.3 billion in revenue, compared with AMD's guidance midpoint of $11.2 billion and a roughly 56% non-GAAP gross margin.",
+      "Investors should watch data-center revenue, EPYC share gains, MI350 demand and the MI450 timetable. Higher AI guidance or firmer deployment schedules would support Susquehanna's target. Delays, weaker margins or heavy dependence on a few large customers would challenge the thesis."
+    ],
+    "html": null
+  }
+}

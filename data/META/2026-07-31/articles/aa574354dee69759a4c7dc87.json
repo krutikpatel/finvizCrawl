@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html",
+    "fetched_at": "2026-07-31T07:00:11.571746-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The memory chip supply shortage that is causing Apple (AAPL) to jack up prices won't be any less painful for the tech beast this fall.\n\"On the pricing front, we reluctantly raised prices, I would say,\" outgoing Apple CEO Tim Cook said on a late Thursday earnings call. \"We did it because we're in what I would characterize as a 100-year flood on the memory pricing, with exponential increases in memory prices.\"\nThe memory chip market is tightening as demand for high-bandwidth memory (HBM) and advanced dynamic random-access memory (DRAM) used in AI servers continues to outpace supply.\nCompanies such as SK Hynix (SKHY), Samsung Electronics (005930.KS), and Micron (MU) have largely sold out their premium AI memory capacity through much of 2026 as customers, including Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), and Meta (META), race to build AI infrastructure.\nThe shortage has pushed memory prices sharply higher and given suppliers greater pricing power after several years of weak industry conditions. Experts expect memory supply to remain constrained into 2027, creating a favorable backdrop for the industry's largest producers.\nTo protect its margins, Apple recently implemented global price increases of $150 to $300 across its Mac, iPad, and Vision Pro lines, alongside higher subscription rates for Apple Music and Apple One.\nLooking ahead to the fall, analysts expect these supply chain pressures to drive a price hike of up to $300 on the upcoming iPhone 18 Pro models.\nSupply chain constraints are also affecting Apple's ability to meet demand, causing it to guide cautiously for its current quarter.\nApple's fiscal fourth quarter outlook fell short of expectations, with revenue growth pegged at 9% to 11% year over year compared with consensus estimates of 12%.\n\"While we continue to maintain a favorable view on the demand drivers, including with the additional driver of edge AI through the broader roll-out of Siri AI to provide robust support to multi-year upgrade cycles across devices, we are trimming our near-term forecasts to account for both supply as well as margin headwinds,\" JPMorgan analyst Samik Chatterjee wrote in a note.\nThe stock fell 7% in early trading on Friday.\nThe tepid outlook overshadowed a solid quarter from Apple.\nFor the third quarter, Apple posted earnings per share of $2.02 on revenue of $109.4 billion. The Street was looking for earnings of $1.89 and sales of $108.8 billion.\nApple's iPhone revenue hit $54.2 billion versus expectations of $53.5 billion.",
+    "text_blocks": [
+      "The memory chip supply shortage that is causing Apple (AAPL) to jack up prices won't be any less painful for the tech beast this fall.",
+      "\"On the pricing front, we reluctantly raised prices, I would say,\" outgoing Apple CEO Tim Cook said on a late Thursday earnings call. \"We did it because we're in what I would characterize as a 100-year flood on the memory pricing, with exponential increases in memory prices.\"",
+      "The memory chip market is tightening as demand for high-bandwidth memory (HBM) and advanced dynamic random-access memory (DRAM) used in AI servers continues to outpace supply.",
+      "Companies such as SK Hynix (SKHY), Samsung Electronics (005930.KS), and Micron (MU) have largely sold out their premium AI memory capacity through much of 2026 as customers, including Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), and Meta (META), race to build AI infrastructure.",
+      "The shortage has pushed memory prices sharply higher and given suppliers greater pricing power after several years of weak industry conditions. Experts expect memory supply to remain constrained into 2027, creating a favorable backdrop for the industry's largest producers.",
+      "To protect its margins, Apple recently implemented global price increases of $150 to $300 across its Mac, iPad, and Vision Pro lines, alongside higher subscription rates for Apple Music and Apple One.",
+      "Looking ahead to the fall, analysts expect these supply chain pressures to drive a price hike of up to $300 on the upcoming iPhone 18 Pro models.",
+      "Supply chain constraints are also affecting Apple's ability to meet demand, causing it to guide cautiously for its current quarter.",
+      "Apple's fiscal fourth quarter outlook fell short of expectations, with revenue growth pegged at 9% to 11% year over year compared with consensus estimates of 12%.",
+      "\"While we continue to maintain a favorable view on the demand drivers, including with the additional driver of edge AI through the broader roll-out of Siri AI to provide robust support to multi-year upgrade cycles across devices, we are trimming our near-term forecasts to account for both supply as well as margin headwinds,\" JPMorgan analyst Samik Chatterjee wrote in a note.",
+      "The stock fell 7% in early trading on Friday.",
+      "The tepid outlook overshadowed a solid quarter from Apple.",
+      "For the third quarter, Apple posted earnings per share of $2.02 on revenue of $109.4 billion. The Street was looking for earnings of $1.89 and sales of $108.8 billion.",
+      "Apple's iPhone revenue hit $54.2 billion versus expectations of $53.5 billion."
+    ],
+    "html": null
+  }
+}

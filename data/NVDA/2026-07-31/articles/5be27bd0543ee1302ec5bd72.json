@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-nebius-stock-popped-today-125020261.html",
+    "fetched_at": "2026-07-31T07:00:41.971696-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Nebius Stock Popped Today",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNebius (NASDAQ:NBIS) shares jumped 10% early Friday after the AI infrastructure provider secured a multiyear cloud contract worth more than $1 billion and brought new Nvidia-powered computing capacity online in Finland.\nNebius said the agreement with Reflection AI will provide more than $1 billion of GPU-based cloud services through 2029. Nebius could gain greater revenue visibility from the contract as demand for computing capacity used to develop AI models continues to expand.\nNebius also put its Vera Rubin compute rack into operation at its Finnish data center. The new system adds next-generation GPU capacity and gives the company additional infrastructure for serving AI workloads.\nNebius is scheduled to report fiscal second-quarter results on Aug. 12. Analysts expect an adjusted loss of 61 cents per share, compared with 38 cents a year earlier, while revenue is projected to rise 449% to $577.66 million.\nNebius shares climbed 27.1% Thursday and were also higher in premarket trading. Investors are likely to focus on customer growth, infrastructure expansion and the company's ability to convert rising AI demand into revenue.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nebius (NASDAQ:NBIS) shares jumped 10% early Friday after the AI infrastructure provider secured a multiyear cloud contract worth more than $1 billion and brought new Nvidia-powered computing capacity online in Finland.",
+      "Nebius said the agreement with Reflection AI will provide more than $1 billion of GPU-based cloud services through 2029. Nebius could gain greater revenue visibility from the contract as demand for computing capacity used to develop AI models continues to expand.",
+      "Nebius also put its Vera Rubin compute rack into operation at its Finnish data center. The new system adds next-generation GPU capacity and gives the company additional infrastructure for serving AI workloads.",
+      "Nebius is scheduled to report fiscal second-quarter results on Aug. 12. Analysts expect an adjusted loss of 61 cents per share, compared with 38 cents a year earlier, while revenue is projected to rise 449% to $577.66 million.",
+      "Nebius shares climbed 27.1% Thursday and were also higher in premarket trading. Investors are likely to focus on customer growth, infrastructure expansion and the company's ability to convert rising AI demand into revenue."
+    ],
+    "html": null
+  }
+}

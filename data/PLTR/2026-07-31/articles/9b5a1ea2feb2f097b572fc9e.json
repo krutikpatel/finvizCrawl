@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/cognizant-technology-solutions-corp-stock-outperforms-competitors-on-strong-trading-day-cb462043-a5d4738879b1?mod=mw_FV",
+    "fetched_at": "2026-07-31T07:00:38.314780-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/data-news/cognizant-technology-solutions-corp-stock-outperforms-competitors-on-strong-trading-day-cb462043-a5d4738879b1?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/data-news/cognizant-technology-solutions-corp-stock-outperforms-competitors-on-strong-trading-day-cb462043-a5d4738879b1?mod=mw_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

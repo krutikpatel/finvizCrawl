@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-sent-mixed-192014288.html",
+    "fetched_at": "2026-07-31T07:00:54.532441-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street Just Sent Mixed Signals on Arm Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM) surged more than 7% Thursday after record fiscal first-quarter results reinforced its expanding role in AI data centers, even as sweeping Wall Street target cuts exposed concern that weak smartphone demand and a demanding valuation could limit further upside.\nArm licenses processor architectures and chip designs to semiconductor companies, earning upfront licensing fees and recurring royalties on every Arm-based chip shipped. Smartphones remain a major revenue source, but cloud servers, AI accelerators and custom silicon are becoming increasingly important.\nFiscal first-quarter revenue rose 22% to a record $1.29 billion, exceeding the roughly $1.26 billion consensus. Adjusted earnings reached $0.45 per share, beating expectations of about $0.40, as royalty revenue increased 22% to $715 million and licensing revenue climbed 23% to $574 million. Data-center royalties more than doubled.\nArm guided for fiscal second-quarter revenue of $1.33 billion to $1.43 billion and adjusted earnings of $0.43 to $0.51 per share, both above Wall Street estimates. However, management warned that smartphone royalties could decline during the quarter, tempering enthusiasm around AI infrastructure growth.\nThat tension divided analysts. Bank of America slashed its target to $260 from $460 while keeping a Hold rating, citing handset weakness despite progress in AI and data centers. HSBC cut its target to $230, and Wells Fargo lowered its objective to $280. New Street upgraded Arm to Buy with a $260 target, while Morgan Stanley raised its target modestly to $212 but remained neutral.\nInvestor Takeaway On ARM Stock\nInvestors should focus less on headline smartphone units and more on royalty revenue per chip, Armv9 adoption and data-center mix. Arm's new AGI CPU has attracted more than $2 billion of anticipated demand across fiscal 2027 and 2028, offering a path toward higher-value revenue beyond mobile devices.\nFaster server adoption and sustained licensing growth would support the bullish case. Weak handset royalties, slower customer deployments or rising development costs could make Arm's premium valuation difficult to defend. The next scheduled earnings update is tentatively set for November 4.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM) surged more than 7% Thursday after record fiscal first-quarter results reinforced its expanding role in AI data centers, even as sweeping Wall Street target cuts exposed concern that weak smartphone demand and a demanding valuation could limit further upside.",
+      "Arm licenses processor architectures and chip designs to semiconductor companies, earning upfront licensing fees and recurring royalties on every Arm-based chip shipped. Smartphones remain a major revenue source, but cloud servers, AI accelerators and custom silicon are becoming increasingly important.",
+      "Fiscal first-quarter revenue rose 22% to a record $1.29 billion, exceeding the roughly $1.26 billion consensus. Adjusted earnings reached $0.45 per share, beating expectations of about $0.40, as royalty revenue increased 22% to $715 million and licensing revenue climbed 23% to $574 million. Data-center royalties more than doubled.",
+      "Arm guided for fiscal second-quarter revenue of $1.33 billion to $1.43 billion and adjusted earnings of $0.43 to $0.51 per share, both above Wall Street estimates. However, management warned that smartphone royalties could decline during the quarter, tempering enthusiasm around AI infrastructure growth.",
+      "That tension divided analysts. Bank of America slashed its target to $260 from $460 while keeping a Hold rating, citing handset weakness despite progress in AI and data centers. HSBC cut its target to $230, and Wells Fargo lowered its objective to $280. New Street upgraded Arm to Buy with a $260 target, while Morgan Stanley raised its target modestly to $212 but remained neutral.",
+      "Investor Takeaway On ARM Stock",
+      "Investors should focus less on headline smartphone units and more on royalty revenue per chip, Armv9 adoption and data-center mix. Arm's new AGI CPU has attracted more than $2 billion of anticipated demand across fiscal 2027 and 2028, offering a path toward higher-value revenue beyond mobile devices.",
+      "Faster server adoption and sustained licensing growth would support the bullish case. Weak handset royalties, slower customer deployments or rising development costs could make Arm's premium valuation difficult to defend. The next scheduled earnings update is tentatively set for November 4."
+    ],
+    "html": null
+  }
+}
