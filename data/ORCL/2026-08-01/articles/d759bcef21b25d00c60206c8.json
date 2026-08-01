@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/305c67d1-25cf-36ef-b795-710306d1f61a/what-the-options-market-is.html",
+    "fetched_at": "2026-08-01T07:00:22.268040-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What the Options Market Is Signaling About the Size of the Next Move in Salesforce Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "If you hold shares in the software giant, you are already carrying exposure to a remarkably wide range of outcomes priced in for the coming year.\nIf you own shares of Salesforce (CRM), the options market has a message for you, and it has nothing to do with predicting where the stock will go next. It's about the size of the potential move. The market is currently pricing an implied volatility of 48% for the stock over roughly the next year. That's not just a number; it's a price tag on uncertainty, and it translates into a sizable two-sided risk that you, as a shareholder, already own.\nJust How Wide Is the Range Priced Into Your Shares?\nThat 48% volatility figure implies a 68% probability range that is wide. From today's price of about $180.71, the options market sees a plausible ceiling near $283.05, a move of about 57% to the upside. On the other side, it sees a floor near $115, a drop of roughly 36%.\nThis isn't a forecast, but it is the market's clearest gauge of the potential swing. And right now, that gauge is elevated. The market's priced-in fear, or implied volatility, is running at 1.16 times the stock's actual, or realized, volatility of 41% over the past year. In other words, traders are paying up for protection and speculation, expecting more turbulence than the stock has recently delivered. In fact, the current level of implied volatility sits in the 93rd percentile of its own trailing one-year range, signaling an unusually high level of investor anxiety.\nWhat's Fueling This Level of Uncertainty?\nThe tension is rooted in a simple but powerful question: can Salesforce's large AI adoption translate into broad-based financial strength? The company is processing 28.6 trillion tokens on the latest count, up 152% quarter-over-quarter. Its Agentforce product now has an ARR greater than $1 billion. Management is confident this momentum will \"drive organic revenue reacceleration in the second half of FY 27.\"\nBut investors are weighing that against signs of a slowdown elsewhere. As an analyst noted on the recent earnings call, key leading indicators like remaining performance obligation haven't outperformed guidance, and it \"feels like the bookings trends are lagging a little bit.\" Softness in Tableau and Commerce adds to the skepticism. The market is waiting to see if the new AI engine is powerful enough to pull the entire train. For what it's worth, traders are currently paying about 1.7 times as much for upside calls as for downside puts, a notable lean toward optimism.",
+    "text_blocks": [
+      "If you hold shares in the software giant, you are already carrying exposure to a remarkably wide range of outcomes priced in for the coming year.",
+      "If you own shares of Salesforce (CRM), the options market has a message for you, and it has nothing to do with predicting where the stock will go next. It's about the size of the potential move. The market is currently pricing an implied volatility of 48% for the stock over roughly the next year. That's not just a number; it's a price tag on uncertainty, and it translates into a sizable two-sided risk that you, as a shareholder, already own.",
+      "Just How Wide Is the Range Priced Into Your Shares?",
+      "That 48% volatility figure implies a 68% probability range that is wide. From today's price of about $180.71, the options market sees a plausible ceiling near $283.05, a move of about 57% to the upside. On the other side, it sees a floor near $115, a drop of roughly 36%.",
+      "This isn't a forecast, but it is the market's clearest gauge of the potential swing. And right now, that gauge is elevated. The market's priced-in fear, or implied volatility, is running at 1.16 times the stock's actual, or realized, volatility of 41% over the past year. In other words, traders are paying up for protection and speculation, expecting more turbulence than the stock has recently delivered. In fact, the current level of implied volatility sits in the 93rd percentile of its own trailing one-year range, signaling an unusually high level of investor anxiety.",
+      "What's Fueling This Level of Uncertainty?",
+      "The tension is rooted in a simple but powerful question: can Salesforce's large AI adoption translate into broad-based financial strength? The company is processing 28.6 trillion tokens on the latest count, up 152% quarter-over-quarter. Its Agentforce product now has an ARR greater than $1 billion. Management is confident this momentum will \"drive organic revenue reacceleration in the second half of FY 27.\"",
+      "But investors are weighing that against signs of a slowdown elsewhere. As an analyst noted on the recent earnings call, key leading indicators like remaining performance obligation haven't outperformed guidance, and it \"feels like the bookings trends are lagging a little bit.\" Softness in Tableau and Commerce adds to the skepticism. The market is waiting to see if the new AI engine is powerful enough to pull the entire train. For what it's worth, traders are currently paying about 1.7 times as much for upside calls as for downside puts, a notable lean toward optimism."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/wall-street-ends-higher-amazon-224141562.html",
+    "fetched_at": "2026-08-01T07:00:07.849807-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street ends higher as Amazon soothes AI jitters",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street ends higher as Amazon soothes AI jitters Reuters Videos Fri, July 31, 2026 at 3:41 PM PDT AMZN ^DJI ^GSPC ^IXIC AAPL View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info",
+    "text_blocks": [
+      "Wall Street ends higher as Amazon soothes AI jitters Reuters Videos Fri, July 31, 2026 at 3:41 PM PDT AMZN ^DJI ^GSPC ^IXIC AAPL View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info"
+    ],
+    "html": null
+  }
+}

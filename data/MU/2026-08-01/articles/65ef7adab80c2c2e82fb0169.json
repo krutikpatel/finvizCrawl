@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7e20a240-fd24-3f52-8410-d173b4cf43d7/leopold-aschenbrenner%27s-ai.html",
+    "fetched_at": "2026-08-01T07:00:13.716829-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Leopold Aschenbrenner's AI hedge fund collapses after margin calls",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Leopold Aschenbrenner's hedge fund, Situational Awareness, lost roughly $35 billion in assets after margin calls from its prime brokers forced a distressed sale of its publicly traded holdings to Ken Griffin's Citadel, according to CNBC.\nThe fund, which peaked at $45 billion at the start of July, saw its holdings drop to roughly $10 billion by Thursday after Citadel acquired its leveraged stock positions — among them SK Hynix and CoreWeave — at below-market prices, according to CNBC, citing people with knowledge of the situation. Prime brokers Bank of America, Goldman Sachs, and JPMorgan Chase had been working with the fund to meet margin requirements ahead of the sale.\nSituational Awareness took losses on bullish bets in AI infrastructure names at the same time that bearish wagers on software companies like Adobe went the wrong way. Nebius Group, Sandisk, Micron, and CoreWeave — the fund's top disclosed positions as of the first quarter — have each shed more than 35% of their value this month. The fund had used as much as 400% leverage.\nBefore this month's decline, the fund had posted gains of more than 1,000% since its inception in July 2024, according to the Wall Street Journal.\nBefore the Citadel transaction, roughly two-thirds of the fund's portfolio consisted of public equity positions on both the long and short side, with the balance concentrated in private holdings, chiefly its Anthropic investment. A spokesman for the firm said that reports it was marketing its Anthropic stake were not accurate.\nJerry Diao, who runs a Wall Street coaching firm, said that many observers had expected the fund to eventually run into trouble. \"A lot of people saw this blow-up as a matter of not if, but when,\" Diao said. \"Maybe his views on AI are correct in the long run, but in the public markets, you have to be prepared for the short-term.\"\nAschenbrenner, who is 25 years old, structured the fund around his conviction that more capable AI systems would drive enormous demand for semiconductors, memory, data centers, and power infrastructure — a thesis he developed in a widely circulated 2024 essay written after his departure from OpenAI. His early backers included Stripe co-founders Patrick and John Collison, former GitHub CEO Nat Friedman, and investor Daniel Gross.\nThe fund's collapse comes as Aschenbrenner is scheduled to marry Avital Balwit, chief of staff for Anthropic CEO Dario Amodei, this weekend.",
+    "text_blocks": [
+      "Leopold Aschenbrenner's hedge fund, Situational Awareness, lost roughly $35 billion in assets after margin calls from its prime brokers forced a distressed sale of its publicly traded holdings to Ken Griffin's Citadel, according to CNBC.",
+      "The fund, which peaked at $45 billion at the start of July, saw its holdings drop to roughly $10 billion by Thursday after Citadel acquired its leveraged stock positions — among them SK Hynix and CoreWeave — at below-market prices, according to CNBC, citing people with knowledge of the situation. Prime brokers Bank of America, Goldman Sachs, and JPMorgan Chase had been working with the fund to meet margin requirements ahead of the sale.",
+      "Situational Awareness took losses on bullish bets in AI infrastructure names at the same time that bearish wagers on software companies like Adobe went the wrong way. Nebius Group, Sandisk, Micron, and CoreWeave — the fund's top disclosed positions as of the first quarter — have each shed more than 35% of their value this month. The fund had used as much as 400% leverage.",
+      "Before this month's decline, the fund had posted gains of more than 1,000% since its inception in July 2024, according to the Wall Street Journal.",
+      "Before the Citadel transaction, roughly two-thirds of the fund's portfolio consisted of public equity positions on both the long and short side, with the balance concentrated in private holdings, chiefly its Anthropic investment. A spokesman for the firm said that reports it was marketing its Anthropic stake were not accurate.",
+      "Jerry Diao, who runs a Wall Street coaching firm, said that many observers had expected the fund to eventually run into trouble. \"A lot of people saw this blow-up as a matter of not if, but when,\" Diao said. \"Maybe his views on AI are correct in the long run, but in the public markets, you have to be prepared for the short-term.\"",
+      "Aschenbrenner, who is 25 years old, structured the fund around his conviction that more capable AI systems would drive enormous demand for semiconductors, memory, data centers, and power infrastructure — a thesis he developed in a widely circulated 2024 essay written after his departure from OpenAI. His early backers included Stripe co-founders Patrick and John Collison, former GitHub CEO Nat Friedman, and investor Daniel Gross.",
+      "The fund's collapse comes as Aschenbrenner is scheduled to marry Avital Balwit, chief of staff for Anthropic CEO Dario Amodei, this weekend."
+    ],
+    "html": null
+  }
+}

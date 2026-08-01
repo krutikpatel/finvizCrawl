@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/economy/articles/south-korea-july-exports-beat-010531292.html",
+    "fetched_at": "2026-08-01T07:00:07.678295-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "South Korea July exports beat forecasts on robust demand for AI investments",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SEOUL, Aug 1 (Reuters) - South Korea's exports grew more strongly than expected in July on global chip and computer demand for AI investments.\nExports from Asia's fourth-largest economy rose 62.8% in July from a year earlier to $98.89 billion, preliminary trade data showed on Saturday, beating a median 59.0% increase tipped in a Reuters poll of economists.\nIt was weaker than the 70.7% surge in June, which was the largest since 1978, but it was still the second-strongest annual growth rate in a streak that started in June 2025.\nSemiconductor exports jumped 179% as memory chip prices continued to rise despite the issues of Apple's potential use of Chinese memory chips and a new AI development in China, the trade ministry said in a statement.\nComputer sales also surged 404% on increasing AI investments by big U.S. technology firms, the ministry said.\nLast month, the country's stock benchmark KOSPI tumbled 22%, the biggest drop since 2008 and a sharp selloff on AI-related worries. The index posted a record rally on Friday, however, on a fresh surge of investment into global semiconductor stocks.\nEarlier this week, chipmaker Samsung Electronics reported a more than 250-fold jump in chip profit and announced multi-year supply deals with major data centre operators, saying it expects global chip shortages to become more acute and extend into 2028.\nThat came a day after peer chipmaker SK Hynix reported bumper quarterly results but fell short of lofty investor expectations, heightening market concerns about slower AI spending by big tech firms.\nBy destination, exports to China in July rose 96%, while those to the U.S. gained 69%. Shipments to the Middle East increased 25%, after five consecutive months of declines amid the Iran war.\nImports rose 26.5% to $68.56 billion in July, after rising 30.0% in June. That was roughly in line with the 26.6% forecast by economists.\nThe country posted a monthly trade surplus of $30.32 billion, after posting a record surplus of $36.09 billion the previous month.\n(Reporting by Jihoon Lee; Editing by Tom Hogue)",
+    "text_blocks": [
+      "SEOUL, Aug 1 (Reuters) - South Korea's exports grew more strongly than expected in July on global chip and computer demand for AI investments.",
+      "Exports from Asia's fourth-largest economy rose 62.8% in July from a year earlier to $98.89 billion, preliminary trade data showed on Saturday, beating a median 59.0% increase tipped in a Reuters poll of economists.",
+      "It was weaker than the 70.7% surge in June, which was the largest since 1978, but it was still the second-strongest annual growth rate in a streak that started in June 2025.",
+      "Semiconductor exports jumped 179% as memory chip prices continued to rise despite the issues of Apple's potential use of Chinese memory chips and a new AI development in China, the trade ministry said in a statement.",
+      "Computer sales also surged 404% on increasing AI investments by big U.S. technology firms, the ministry said.",
+      "Last month, the country's stock benchmark KOSPI tumbled 22%, the biggest drop since 2008 and a sharp selloff on AI-related worries. The index posted a record rally on Friday, however, on a fresh surge of investment into global semiconductor stocks.",
+      "Earlier this week, chipmaker Samsung Electronics reported a more than 250-fold jump in chip profit and announced multi-year supply deals with major data centre operators, saying it expects global chip shortages to become more acute and extend into 2028.",
+      "That came a day after peer chipmaker SK Hynix reported bumper quarterly results but fell short of lofty investor expectations, heightening market concerns about slower AI spending by big tech firms.",
+      "By destination, exports to China in July rose 96%, while those to the U.S. gained 69%. Shipments to the Middle East increased 25%, after five consecutive months of declines amid the Iran war.",
+      "Imports rose 26.5% to $68.56 billion in July, after rising 30.0% in June. That was roughly in line with the 26.6% forecast by economists.",
+      "The country posted a monthly trade surplus of $30.32 billion, after posting a record surplus of $36.09 billion the previous month.",
+      "(Reporting by Jihoon Lee; Editing by Tom Hogue)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gains-amazon-expands-192446637.html",
+    "fetched_at": "2026-08-01T07:00:44.801737-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Gains as Amazon Expands AI Spending to $220 Billion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (NASDAQ:AMD), a semiconductor company designing processors for computers and data centers, gained approximately 0.9% in Friday's regular session as investors assessed Amazon's (NASDAQ:AMZN) expanded AI infrastructure plan. Amazon increased its planned 2026 capital expenditure from approximately $200 billion to $220 billion. AMD traded substantially higher earlier before the gain narrowed as rising bond yields reduced broader technology-sector momentum.\nAmazon Web Services reported 37% revenue growth, its fastest expansion in more than four years, as customers reserved future cloud capacity. Amazon designs Trainium processors internally but also purchases externally supplied chips for AWS customers. The company's additional spending could support multiple semiconductor suppliers because data centers require processors, networking equipment, memory and power-management products. However, the precise amount allocated to AMD products was not disclosed, preventing the full revenue effect from being quantified.\nAMD had climbed approximately 13% Thursday as Microsoft's (NASDAQ:MSFT) stronger Azure forecast drove a broad semiconductor rally. The combined moves demonstrate how sensitive AMD has become to capital-spending signals from the largest cloud operators. Amazon's revised plan adds $20 billion of investment, but competition from NVIDIA (NASDAQ:NVDA) and internally designed hyperscaler processors remains an important consideration. Investors may now focus on AMD's forthcoming quarterly results for evidence that expanding cloud budgets are translating into additional data-center revenue and stronger demand for its AI accelerators.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (NASDAQ:AMD), a semiconductor company designing processors for computers and data centers, gained approximately 0.9% in Friday's regular session as investors assessed Amazon's (NASDAQ:AMZN) expanded AI infrastructure plan. Amazon increased its planned 2026 capital expenditure from approximately $200 billion to $220 billion. AMD traded substantially higher earlier before the gain narrowed as rising bond yields reduced broader technology-sector momentum.",
+      "Amazon Web Services reported 37% revenue growth, its fastest expansion in more than four years, as customers reserved future cloud capacity. Amazon designs Trainium processors internally but also purchases externally supplied chips for AWS customers. The company's additional spending could support multiple semiconductor suppliers because data centers require processors, networking equipment, memory and power-management products. However, the precise amount allocated to AMD products was not disclosed, preventing the full revenue effect from being quantified.",
+      "AMD had climbed approximately 13% Thursday as Microsoft's (NASDAQ:MSFT) stronger Azure forecast drove a broad semiconductor rally. The combined moves demonstrate how sensitive AMD has become to capital-spending signals from the largest cloud operators. Amazon's revised plan adds $20 billion of investment, but competition from NVIDIA (NASDAQ:NVDA) and internally designed hyperscaler processors remains an important consideration. Investors may now focus on AMD's forthcoming quarterly results for evidence that expanding cloud budgets are translating into additional data-center revenue and stronger demand for its AI accelerators."
+    ],
+    "html": null
+  }
+}

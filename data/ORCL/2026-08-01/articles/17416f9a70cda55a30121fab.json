@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6b763788-838c-30a6-ad80-d59ba95a04d1/why-ibm-stock-may-be-a-value.html",
+    "fetched_at": "2026-08-01T07:00:22.269463-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why IBM Stock May Be A Value Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "After a sharp sell-off, a technology stalwart looks cheap. The market sees a warning, but the numbers might be telling a different story.\nCan a company like International Business Machines (IBM), trading 33% below its 52-week high, actually be a bargain? The stock now carries a price-to-earnings multiple of 19.5, a clear discount to the S&P 500 median of 24.0. For any bargain hunter, that gap poses the essential question: is this a gift from a skittish market, or is it an honest verdict on a deteriorating business?\nThe Business Generates Cash and Holds Margins.\nThe business is solidly profitable, and its operating margin over the last twelve months stands at 18.4%, right in line with the S&P 500 median. That margin is stable, showing no shrinkage from the year prior.\nGrowth and cash flow also hold up. Revenue over the last twelve months grew 7.9%. More importantly, those earnings are backed by cash. The company's operating cash flow margin is a healthy 22%, and its free cash flow yield is 6.3%. On paper, the financial engine appears sound.\nA Single Quarter's Miss Triggered The Sell-Off\nThe discount isn't arbitrary. It's a direct reaction to a specific business event. Management recently confirmed that its \"second quarter performance fell short of expectations.\" The cause was a shift in client spending, where \"tens of large deals failed to close on the time lines we expected\" as customers redirected capital toward other infrastructure needs.\nThis is the heart of the bear case. The market fears a structural change in priorities, not merely a temporary budget shuffle. If enterprises are choosing to spend on other vendors' AI-related hardware over IBM's software and systems, it could signal a long-term erosion of the company's strategic position. This concern was potent enough to prompt management to lower its full-year revenue growth forecast to a range of 4% to 5%.\nThe Full-Year Revenue Target Now Separates Sentiment From Fact\nWhile the market is pricing in a breakdown, management's data suggests a deferral, not a destruction, of demand. The company reported that about one-third of the deals that slipped from the second quarter had already closed in the first few weeks of the third. This points to a timing issue, not a permanent loss of business.\nFurthermore, the transactional weakness was contained. Management noted that \"About 80% of our annual software revenue is recurring,\" and this segment's annual recurring revenue, or ARR, was $24.6 billion, up 8% from the prior year. The key here is that the stable, subscription-based core of IBM's business is performing.",
+    "text_blocks": [
+      "After a sharp sell-off, a technology stalwart looks cheap. The market sees a warning, but the numbers might be telling a different story.",
+      "Can a company like International Business Machines (IBM), trading 33% below its 52-week high, actually be a bargain? The stock now carries a price-to-earnings multiple of 19.5, a clear discount to the S&P 500 median of 24.0. For any bargain hunter, that gap poses the essential question: is this a gift from a skittish market, or is it an honest verdict on a deteriorating business?",
+      "The Business Generates Cash and Holds Margins.",
+      "The business is solidly profitable, and its operating margin over the last twelve months stands at 18.4%, right in line with the S&P 500 median. That margin is stable, showing no shrinkage from the year prior.",
+      "Growth and cash flow also hold up. Revenue over the last twelve months grew 7.9%. More importantly, those earnings are backed by cash. The company's operating cash flow margin is a healthy 22%, and its free cash flow yield is 6.3%. On paper, the financial engine appears sound.",
+      "A Single Quarter's Miss Triggered The Sell-Off",
+      "The discount isn't arbitrary. It's a direct reaction to a specific business event. Management recently confirmed that its \"second quarter performance fell short of expectations.\" The cause was a shift in client spending, where \"tens of large deals failed to close on the time lines we expected\" as customers redirected capital toward other infrastructure needs.",
+      "This is the heart of the bear case. The market fears a structural change in priorities, not merely a temporary budget shuffle. If enterprises are choosing to spend on other vendors' AI-related hardware over IBM's software and systems, it could signal a long-term erosion of the company's strategic position. This concern was potent enough to prompt management to lower its full-year revenue growth forecast to a range of 4% to 5%.",
+      "The Full-Year Revenue Target Now Separates Sentiment From Fact",
+      "While the market is pricing in a breakdown, management's data suggests a deferral, not a destruction, of demand. The company reported that about one-third of the deals that slipped from the second quarter had already closed in the first few weeks of the third. This points to a timing issue, not a permanent loss of business.",
+      "Furthermore, the transactional weakness was contained. Management noted that \"About 80% of our annual software revenue is recurring,\" and this segment's annual recurring revenue, or ARR, was $24.6 billion, up 8% from the prior year. The key here is that the stable, subscription-based core of IBM's business is performing."
+    ],
+    "html": null
+  }
+}

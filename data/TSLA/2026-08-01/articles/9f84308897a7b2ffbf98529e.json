@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-falls-1-8-201435427.html",
+    "fetched_at": "2026-08-01T07:00:04.068948-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Falls 1.8% as Musk Denies China Separation Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA), an electric-vehicle manufacturer operating a major factory in Shanghai, fell approximately 1.8% in Friday's regular-session trading as of 10:20 a.m. ET as investors assessed a report concerning the future of its Chinese operation. The report said options under consideration could include separating, selling or closing the business. Chief Executive Elon Musk publicly rejected the claims as false, leaving the reported deliberations unconfirmed.\nTesla's China business generated nearly 17% of the company's revenue, making the market financially important despite increasing competitive pressure. Domestic automakers controlled approximately 72% of China's electric-vehicle market, while Tesla's local sales declined 9% during the first half of 2026. The Shanghai factory can produce roughly 950,000 vehicles annually, but weaker demand has left some capacity underused. Rising export tariffs may also reduce the facility's ability to compensate for softer Chinese sales by shipping more vehicles overseas.\nChina's approximately 17% revenue contribution means that any restructuring could materially change Tesla's manufacturing network and geographic exposure. However, Musk's denial prevents investors from treating a sale or separation as an established corporate plan. Tesla must also contend with the valuation challenge of separating a regional business when the parent company trades at a substantially higher valuation than many global automakers. Investors may now focus on second-half Chinese deliveries, Shanghai utilization and any formal company disclosure that clarifies whether changes to the operation are genuinely under consideration.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA), an electric-vehicle manufacturer operating a major factory in Shanghai, fell approximately 1.8% in Friday's regular-session trading as of 10:20 a.m. ET as investors assessed a report concerning the future of its Chinese operation. The report said options under consideration could include separating, selling or closing the business. Chief Executive Elon Musk publicly rejected the claims as false, leaving the reported deliberations unconfirmed.",
+      "Tesla's China business generated nearly 17% of the company's revenue, making the market financially important despite increasing competitive pressure. Domestic automakers controlled approximately 72% of China's electric-vehicle market, while Tesla's local sales declined 9% during the first half of 2026. The Shanghai factory can produce roughly 950,000 vehicles annually, but weaker demand has left some capacity underused. Rising export tariffs may also reduce the facility's ability to compensate for softer Chinese sales by shipping more vehicles overseas.",
+      "China's approximately 17% revenue contribution means that any restructuring could materially change Tesla's manufacturing network and geographic exposure. However, Musk's denial prevents investors from treating a sale or separation as an established corporate plan. Tesla must also contend with the valuation challenge of separating a regional business when the parent company trades at a substantially higher valuation than many global automakers. Investors may now focus on second-half Chinese deliveries, Shanghai utilization and any formal company disclosure that clarifies whether changes to the operation are genuinely under consideration."
+    ],
+    "html": null
+  }
+}

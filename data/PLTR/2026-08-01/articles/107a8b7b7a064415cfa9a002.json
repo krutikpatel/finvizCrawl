@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-q2-earnings-preview-ahead-195313903.html",
+    "fetched_at": "2026-08-01T07:00:35.926376-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Q2 Earnings Preview Ahead of Results",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir (PLTR, Financials), the artificial intelligence and data analytics software company, is expected to report second-quarter revenue growth of more than 80% as demand for its AI and defense products remains strong. Wall Street expects earnings of 35 cents per share on revenue of $1.81 billion.\nPalantir's U.S. government business remains a major growth driver. Its Maven AI system, which combines data from satellites, drones and sensors for battlefield analysis, has received program-of-record status from the Pentagon.\nOppenheimer expects U.S. government revenue to grow in the low-80% range and believes Palantir could raise its full-year growth outlook above the current 71% target.\nCommercial performance will also draw attention. Citi expects the U.S. commercial business to rebound after slowing in the first quarter. RBC Capital Markets remains more cautious, citing competition, customer churn and questions about monetization of Palantir's Artificial Intelligence Platform.\nPalantir has beaten revenue and earnings estimates in each of the past eight quarters. Analyst expectations have also moved higher, with 20 upward earnings revisions and 21 upward revenue revisions over the past three months. Investors will now watch whether Palantir can sustain rapid growth while improving commercial momentum.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir (PLTR, Financials), the artificial intelligence and data analytics software company, is expected to report second-quarter revenue growth of more than 80% as demand for its AI and defense products remains strong. Wall Street expects earnings of 35 cents per share on revenue of $1.81 billion.",
+      "Palantir's U.S. government business remains a major growth driver. Its Maven AI system, which combines data from satellites, drones and sensors for battlefield analysis, has received program-of-record status from the Pentagon.",
+      "Oppenheimer expects U.S. government revenue to grow in the low-80% range and believes Palantir could raise its full-year growth outlook above the current 71% target.",
+      "Commercial performance will also draw attention. Citi expects the U.S. commercial business to rebound after slowing in the first quarter. RBC Capital Markets remains more cautious, citing competition, customer churn and questions about monetization of Palantir's Artificial Intelligence Platform.",
+      "Palantir has beaten revenue and earnings estimates in each of the past eight quarters. Analyst expectations have also moved higher, with 20 upward earnings revisions and 21 upward revenue revisions over the past three months. Investors will now watch whether Palantir can sustain rapid growth while improving commercial momentum."
+    ],
+    "html": null
+  }
+}

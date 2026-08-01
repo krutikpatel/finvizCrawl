@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-4-2-193736166.html",
+    "fetched_at": "2026-08-01T07:00:13.845014-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock Drops 4.2% Despite Amazon's $220 Billion AI Bet",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU), a U.S. manufacturer of memory and storage chips, dropped approximately 4.2% in Friday's regular session despite Amazon (NASDAQ:AMZN) raising its planned 2026 capital expenditure to $220 billion. Micron had rallied approximately 18% Thursday as Microsoft's (NASDAQ:MSFT) cloud outlook restored confidence in AI infrastructure demand. Friday's reversal suggests some investors took profits as Treasury yields increased and expectations for lower interest rates weakened.\nAmazon said higher prices for memory products contributed to its expanded investment requirement, indicating that memory remains a significant component of data-center spending. Apple, a consumer-technology company, also acknowledged rising memory costs while warning that component constraints were affecting product availability. Those developments may support pricing for suppliers such as Micron, although higher costs can also encourage customers to seek alternative vendors or redesign products. Concerns about increasing Chinese semiconductor competition remain another variable for established memory manufacturers.\nMicron closed near $838 after trading as high as approximately $930 during the session, demonstrating substantial intraday volatility. The company previously disclosed approximately $22 billion in customer commitments designed to secure memory-chip supply as AI-related shortages intensified. Investors may view those agreements as evidence of demand visibility, while the share decline shows that strong industry conditions do not eliminate sensitivity to interest rates and valuation. Memory prices, customer contracts and hyperscaler spending could determine whether Friday's pullback interrupts or merely moderates Micron's AI-driven advance.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU), a U.S. manufacturer of memory and storage chips, dropped approximately 4.2% in Friday's regular session despite Amazon (NASDAQ:AMZN) raising its planned 2026 capital expenditure to $220 billion. Micron had rallied approximately 18% Thursday as Microsoft's (NASDAQ:MSFT) cloud outlook restored confidence in AI infrastructure demand. Friday's reversal suggests some investors took profits as Treasury yields increased and expectations for lower interest rates weakened.",
+      "Amazon said higher prices for memory products contributed to its expanded investment requirement, indicating that memory remains a significant component of data-center spending. Apple, a consumer-technology company, also acknowledged rising memory costs while warning that component constraints were affecting product availability. Those developments may support pricing for suppliers such as Micron, although higher costs can also encourage customers to seek alternative vendors or redesign products. Concerns about increasing Chinese semiconductor competition remain another variable for established memory manufacturers.",
+      "Micron closed near $838 after trading as high as approximately $930 during the session, demonstrating substantial intraday volatility. The company previously disclosed approximately $22 billion in customer commitments designed to secure memory-chip supply as AI-related shortages intensified. Investors may view those agreements as evidence of demand visibility, while the share decline shows that strong industry conditions do not eliminate sensitivity to interest rates and valuation. Memory prices, customer contracts and hyperscaler spending could determine whether Friday's pullback interrupts or merely moderates Micron's AI-driven advance."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/robinhood-shares-edge-lower-after-record-quarter-for-prediction-markets-business-121836314.html",
+    "fetched_at": "2026-08-01T07:00:18.980792-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood shares edge lower after record quarter for prediction markets business",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood (HOOD) shares briefly rose Thursday morning before reversing course.\nThe company's second quarter earnings results from Wednesday afternoon showed a World Cup-powered surge has turned Robinhood's prediction markets platform into the firm's second-largest trading business.\nThe financial app generated $156 million in fees from prediction markets, up 50% from the first quarter. Customers made roughly 55% more wagers on event contracts compared to the previous quarter.\nThe revenue stream was higher than transaction fees earned from its bread-and-butter stock trading ($129 million) and crypto trading ($100 million), and second only to options trading fees ($342 million).\nDuring the quarter, Robinhood began routing some event contracts through Rothera, a regulated exchange and clearinghouse that it launched with Susquehanna International Group. The company still routes contracts to Kalshi and other prediction platforms, but the move in-house helped it capture better economics.\nWhen asked whether the activity could last beyond the tournament, CEO Vlad Tenev called the World Cup \"really a proof of concept\" for Rothera.\n\"We're looking to scale that rapidly and make it much bigger,\" Tenev said. He pointed to the coming football season and midterm elections as the next events likely to draw traders.\nRobinhood also said it lowered commissions on prediction market bets to gain market share, using its other trading activity and interest revenue as an earnings ballast.\nThe strategy may also help the firm draw customers into its broader financial platform. CFO Shiv Verma said nearly 2 million people have now used prediction markets, up from roughly 1.5 million at the company's previous update. Prediction-market customers are also more likely to hold a Robinhood retirement account, he said.\nVerma added that July's average daily event-contract volumes remained near the record levels reached during the second quarter.\nRobinhood reported net income of $573 million, or $0.62 per share. Part of the gain came from an accounting change after it relinquished control of its venture fund.\nExcluding the accounting change, Robinhood's earnings per share were $0.48 per share, still exceeding the $0.45 per share analysts forecast.\nRobinhood also benefited from elevated retail trading activity. The company's margin book, a log of how much Robinhood's brokerage lent customers to buy securities, rose 127% year over year.\nThe company's net interest revenue rose 9%, while its net deposits in the period climbed by $4 billion to $22 billion.",
+    "text_blocks": [
+      "Robinhood (HOOD) shares briefly rose Thursday morning before reversing course.",
+      "The company's second quarter earnings results from Wednesday afternoon showed a World Cup-powered surge has turned Robinhood's prediction markets platform into the firm's second-largest trading business.",
+      "The financial app generated $156 million in fees from prediction markets, up 50% from the first quarter. Customers made roughly 55% more wagers on event contracts compared to the previous quarter.",
+      "The revenue stream was higher than transaction fees earned from its bread-and-butter stock trading ($129 million) and crypto trading ($100 million), and second only to options trading fees ($342 million).",
+      "During the quarter, Robinhood began routing some event contracts through Rothera, a regulated exchange and clearinghouse that it launched with Susquehanna International Group. The company still routes contracts to Kalshi and other prediction platforms, but the move in-house helped it capture better economics.",
+      "When asked whether the activity could last beyond the tournament, CEO Vlad Tenev called the World Cup \"really a proof of concept\" for Rothera.",
+      "\"We're looking to scale that rapidly and make it much bigger,\" Tenev said. He pointed to the coming football season and midterm elections as the next events likely to draw traders.",
+      "Robinhood also said it lowered commissions on prediction market bets to gain market share, using its other trading activity and interest revenue as an earnings ballast.",
+      "The strategy may also help the firm draw customers into its broader financial platform. CFO Shiv Verma said nearly 2 million people have now used prediction markets, up from roughly 1.5 million at the company's previous update. Prediction-market customers are also more likely to hold a Robinhood retirement account, he said.",
+      "Verma added that July's average daily event-contract volumes remained near the record levels reached during the second quarter.",
+      "Robinhood reported net income of $573 million, or $0.62 per share. Part of the gain came from an accounting change after it relinquished control of its venture fund.",
+      "Excluding the accounting change, Robinhood's earnings per share were $0.48 per share, still exceeding the $0.45 per share analysts forecast.",
+      "Robinhood also benefited from elevated retail trading activity. The company's margin book, a log of how much Robinhood's brokerage lent customers to buy securities, rose 127% year over year.",
+      "The company's net interest revenue rose 9%, while its net deposits in the period climbed by $4 billion to $22 billion."
+    ],
+    "html": null
+  }
+}

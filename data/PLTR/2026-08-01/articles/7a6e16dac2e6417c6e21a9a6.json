@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-takes-fresh-shot-200152456.html",
+    "fetched_at": "2026-08-01T07:00:36.020988-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir CEO Takes Fresh Shot at AI Giants: 'They Sell Tokens'",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) CEO Alex Karp defended Anthropic CEO Dario Amodei while criticizing the broader AI industry during a company-wide meeting on Friday.\nKarp said Amodei does not match the public image that some Americans may have of him. His comments came as Karp continued to argue that businesses should maintain greater control over their data instead of relying entirely on outside AI providers.\nPalantir's Karp also questioned how AI companies develop their models and compete with businesses whose intellectual property may be incorporated into those systems. He said enterprise customers have raised concerns about paying for AI usage measured through tokens, a unit commonly used to calculate model consumption.\nKarp has previously criticized the growing focus on token usage, arguing that businesses may receive limited value from some AI-generated output. He also defended Palantir's forward-deployed engineering approach, in which engineers work directly with customers to implement technology.\nPalantir has faced growing competition from major AI companies adopting similar customer-facing engineering models. Karp previously accused OpenAI of copying aspects of Palantir's approach, while continuing to distinguish his criticism of AI firms from his personal view of their executives.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) CEO Alex Karp defended Anthropic CEO Dario Amodei while criticizing the broader AI industry during a company-wide meeting on Friday.",
+      "Karp said Amodei does not match the public image that some Americans may have of him. His comments came as Karp continued to argue that businesses should maintain greater control over their data instead of relying entirely on outside AI providers.",
+      "Palantir's Karp also questioned how AI companies develop their models and compete with businesses whose intellectual property may be incorporated into those systems. He said enterprise customers have raised concerns about paying for AI usage measured through tokens, a unit commonly used to calculate model consumption.",
+      "Karp has previously criticized the growing focus on token usage, arguing that businesses may receive limited value from some AI-generated output. He also defended Palantir's forward-deployed engineering approach, in which engineers work directly with customers to implement technology.",
+      "Palantir has faced growing competition from major AI companies adopting similar customer-facing engineering models. Karp previously accused OpenAI of copying aspects of Palantir's approach, while continuing to distinguish his criticism of AI firms from his personal view of their executives."
+    ],
+    "html": null
+  }
+}

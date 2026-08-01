@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/d0fddab9-cf55-366d-a8d3-e80c68487b85/intel-stock%27s-operating.html",
+    "fetched_at": "2026-08-01T07:00:32.520006-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Intel swung from an operating loss to an operating profit with the costly part of its turnaround still running, and that swing is what the spending debate keeps drowning out.\nIntel (INTC) trades at $91.13, about 35% below the $140.94 high it set over the trailing 52 weeks, and it has given back 3.8% over the past three months even after climbing more than fourfold over the past year. Some of that was sector-wide: in one late-July trading session, the shares were down about 6% intraday and AMD roughly 8%, in a wider selloff across semiconductor shares. The rest is an argument about spending: the company raised its 2026 capital budget to more than $20 billion against trailing twelve-month revenue of $57.0 billion. What that argument leaves out is the operating margin: 7.6% over the trailing twelve months, against -8.3% in the same window a year earlier.\nHow Did A Loss-Making Business Get To A 7.6% Operating Margin?\nThe path is not a straight line. Operating margin ran -4.4% three years ago, then -8.3% a year ago, then 7.6% over the trailing twelve months, so it got worse before it turned. On trailing twelve-month revenue of $57.0 billion, that is roughly $4.3 billion of operating profit against a loss a year earlier. The turn did not come from gross margin: non-GAAP gross margin held at 42% in fiscal Q2 2026, with fiscal Q3 2026 guidance near 42%. What moved was the top line: year-over-year quarterly revenue growth ran 2.8%, then -4.1%, then 7.2%, and 25% in the most recent quarter.\nWhich Businesses Are Carrying The Foundry's $2.1 Billion Loss?\nFiscal Q2 2026 shows where the profit sits. The data center and AI group turned $6.3 billion of revenue, up 59% year over year, into $2.5 billion of operating profit, a 40% segment margin, and the PC and edge business turned $8.9 billion into $2.3 billion, or 26%. Intel Foundry lost $2.1 billion in the same quarter, $348 million less than in fiscal Q1 2026, which management credits to better yields, cycle times, and factory scale. A consolidated operating margin already nets the foundry's losses against the product profits, so the trailing twelve-month 7.6% is what is left after the foundry drag, not before it.\nDoesn't The 18A Ramp Pull That Margin Straight Back Down?\nThat is the bear case, and the answer is a qualified yes. Management says the new products becoming a significant part of its mix still sit below the corporate average gross margin because they are early in their life cycle, and in the core PC client segment, 18A is now in volume production across multiple commercial and consumer products. It expects PC consumption down a low double-digit percentage across all of 2026, and calls the shortages in leading-edge wafers, memory and substrates among the most severe in the industry's history. None of that is resolved. Against it sits a cost curve moving the other way: management says it has cut the cost of its main Panther Lake part by roughly 50% so far in 2026, with another 20% on track and more planned for 2027.",
+    "text_blocks": [
+      "Intel swung from an operating loss to an operating profit with the costly part of its turnaround still running, and that swing is what the spending debate keeps drowning out.",
+      "Intel (INTC) trades at $91.13, about 35% below the $140.94 high it set over the trailing 52 weeks, and it has given back 3.8% over the past three months even after climbing more than fourfold over the past year. Some of that was sector-wide: in one late-July trading session, the shares were down about 6% intraday and AMD roughly 8%, in a wider selloff across semiconductor shares. The rest is an argument about spending: the company raised its 2026 capital budget to more than $20 billion against trailing twelve-month revenue of $57.0 billion. What that argument leaves out is the operating margin: 7.6% over the trailing twelve months, against -8.3% in the same window a year earlier.",
+      "How Did A Loss-Making Business Get To A 7.6% Operating Margin?",
+      "The path is not a straight line. Operating margin ran -4.4% three years ago, then -8.3% a year ago, then 7.6% over the trailing twelve months, so it got worse before it turned. On trailing twelve-month revenue of $57.0 billion, that is roughly $4.3 billion of operating profit against a loss a year earlier. The turn did not come from gross margin: non-GAAP gross margin held at 42% in fiscal Q2 2026, with fiscal Q3 2026 guidance near 42%. What moved was the top line: year-over-year quarterly revenue growth ran 2.8%, then -4.1%, then 7.2%, and 25% in the most recent quarter.",
+      "Which Businesses Are Carrying The Foundry's $2.1 Billion Loss?",
+      "Fiscal Q2 2026 shows where the profit sits. The data center and AI group turned $6.3 billion of revenue, up 59% year over year, into $2.5 billion of operating profit, a 40% segment margin, and the PC and edge business turned $8.9 billion into $2.3 billion, or 26%. Intel Foundry lost $2.1 billion in the same quarter, $348 million less than in fiscal Q1 2026, which management credits to better yields, cycle times, and factory scale. A consolidated operating margin already nets the foundry's losses against the product profits, so the trailing twelve-month 7.6% is what is left after the foundry drag, not before it.",
+      "Doesn't The 18A Ramp Pull That Margin Straight Back Down?",
+      "That is the bear case, and the answer is a qualified yes. Management says the new products becoming a significant part of its mix still sit below the corporate average gross margin because they are early in their life cycle, and in the core PC client segment, 18A is now in volume production across multiple commercial and consumer products. It expects PC consumption down a low double-digit percentage across all of 2026, and calls the shortages in leading-edge wafers, memory and substrates among the most severe in the industry's history. None of that is resolved. Against it sits a cost curve moving the other way: management says it has cut the cost of its main Panther Lake part by roughly 50% so far in 2026, with another 20% on track and more planned for 2027."
+    ],
+    "html": null
+  }
+}
