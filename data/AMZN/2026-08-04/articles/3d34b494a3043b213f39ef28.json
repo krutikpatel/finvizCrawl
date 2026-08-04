@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bezos-plans-sell-4-billion-124110158.html",
+    "fetched_at": "2026-08-04T07:00:45.650368-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bezos Plans to Sell $4 Billion After $3 Trillion Milestone",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN) founder and executive chairman Jeff Bezos filed notice with the SEC of a plan to sell 15 million shares, valued at about $4.07 billion. Amazon shares dropped 2.08% in premarket.\nAmazon's market capitalization passed $3 trillion for the first time on Monday, with the stock hitting a 52-week high of $287.20 four days after second-quarter results. The stock is up more than 20% over the past week.\nAmazon reported second-quarter net sales up 20% to $200.6 billion on July 30, with AWS growing 37% to $42.2 billion, its fastest in 18 quarters, and segment operating income up 64% to $16.6 billion. Advertising rose 26% to $19.8 billion. Capital expenditure reached $54.2 billion against $32.1 billion a year earlier, and CEO Andy Jassy told analysts full-year capex would rise to $220 billion from $200 billion on higher memory costs.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN) founder and executive chairman Jeff Bezos filed notice with the SEC of a plan to sell 15 million shares, valued at about $4.07 billion. Amazon shares dropped 2.08% in premarket.",
+      "Amazon's market capitalization passed $3 trillion for the first time on Monday, with the stock hitting a 52-week high of $287.20 four days after second-quarter results. The stock is up more than 20% over the past week.",
+      "Amazon reported second-quarter net sales up 20% to $200.6 billion on July 30, with AWS growing 37% to $42.2 billion, its fastest in 18 quarters, and segment operating income up 64% to $16.6 billion. Advertising rose 26% to $19.8 billion. Capital expenditure reached $54.2 billion against $32.1 billion a year earlier, and CEO Andy Jassy told analysts full-year capex would rise to $220 billion from $200 billion on higher memory costs."
+    ],
+    "html": null
+  }
+}

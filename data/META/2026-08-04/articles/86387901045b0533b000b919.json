@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-q2-earnings-preview-expect-120755114.html",
+    "fetched_at": "2026-08-04T07:00:12.256532-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Shopify Q2 Earnings Preview: What To Expect From Upcoming Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nShopify (NASDAQ:SHOP) is scheduled to release its second-quarter 2026 results before Wednesday's market open, with investors weighing recent analyst optimism against concerns over rising costs and competition.\nShopify faces a competitive question as Meta Platforms expands AI-powered shopping tools. Wall Street expects second-quarter revenue of $3.44 billion and adjusted earnings of 40 cents per share.\nShopify generated $3.17 billion in first-quarter revenue, an increase of 34.3% from a year earlier. Gross merchandise volume exceeded $100 billion for the first time in a quarter, while management projected second-quarter revenue growth in the high-20% range.\nThe outlook also pointed to pressure from higher AI infrastructure expenses and a larger contribution from lower-margin merchant services. Shopify expects free cash flow margins to remain in the mid-teens.\nAnalyst sentiment has improved ahead of the report. Morgan Stanley began coverage with an Overweight rating and a $192 price target, while Jefferies upgraded Shopify to Buy and Stifel lifted its target. The company also added DoorDash as a native sales channel for eligible U.S. merchants.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Shopify (NASDAQ:SHOP) is scheduled to release its second-quarter 2026 results before Wednesday's market open, with investors weighing recent analyst optimism against concerns over rising costs and competition.",
+      "Shopify faces a competitive question as Meta Platforms expands AI-powered shopping tools. Wall Street expects second-quarter revenue of $3.44 billion and adjusted earnings of 40 cents per share.",
+      "Shopify generated $3.17 billion in first-quarter revenue, an increase of 34.3% from a year earlier. Gross merchandise volume exceeded $100 billion for the first time in a quarter, while management projected second-quarter revenue growth in the high-20% range.",
+      "The outlook also pointed to pressure from higher AI infrastructure expenses and a larger contribution from lower-margin merchant services. Shopify expects free cash flow margins to remain in the mid-teens.",
+      "Analyst sentiment has improved ahead of the report. Morgan Stanley began coverage with an Overweight rating and a $192 price target, while Jefferies upgraded Shopify to Buy and Stifel lifted its target. The company also added DoorDash as a native sales channel for eligible U.S. merchants."
+    ],
+    "html": null
+  }
+}

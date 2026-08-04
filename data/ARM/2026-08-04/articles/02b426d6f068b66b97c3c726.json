@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/arm-quietly-builds-next-big-174956235.html",
+    "fetched_at": "2026-08-04T07:00:56.205149-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Quietly Builds Its Next Big AI Advantage",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM) has joined a $312 million funding round for artificial-intelligence chip startup Olix, helping lift the private company's valuation to $3.3 billion. The investment gives Arm strategic exposure to a potential challenger in AI inference, but investors should view it primarily as an ecosystem bet rather than an immediate earnings catalyst.\nLondon-based Olix develops specialized processors designed to run trained AI models more efficiently. Its technology uses photonic interconnects, which move data between chips using light, and aims to reduce reliance on costly high-bandwidth memory, advanced packaging and leading-edge manufacturing capacity. The company plans to sell complete server racks combining chips, networking equipment and software.\nThe round was led by Fundomo and included Arm, Hudson River Trading and Netflix (NASDAQ:NFLX) co-founder Reed Hastings. Olix's post-money valuation has more than tripled from just over $1 billion in February, when it raised $220 million. The rapid increase reflects intense investor demand for alternatives to Nvidia's (NASDAQ:NVDA) general-purpose GPUs as AI inference becomes a larger portion of data-center computing.\nHowever, Olix remains pre-commercial. The company expects to complete its chip tape-out by the end of 2026 and deliver its first products in 2027. That leaves substantial manufacturing, software and customer-validation risk before the valuation can be supported by meaningful revenue. Former Wise finance chief Matt Briers has joined as chief financial officer as Olix prepares for that transition.\nInvestor Takeaway On Arm Stock\nFor Arm shareholders, the round reinforces management's push beyond smartphones and deeper into AI infrastructure. Arm recently reported record fiscal first-quarter revenue of $1.29 billion, up 22%, while data-center royalty revenue more than doubled.\nInvestors should watch whether Olix completes tape-out on schedule, names customers and proves its processors can deliver lower inference costs at scale. Arm's November 4 earnings report is the next major catalyst, with management guiding fiscal second-quarter revenue to approximately $1.38 billion, plus or minus $50 million. Olix would become strategically meaningful only if its eventual chips drive licensing or royalty revenue for Arm; the funding alone is unlikely to materially alter near-term results.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM) has joined a $312 million funding round for artificial-intelligence chip startup Olix, helping lift the private company's valuation to $3.3 billion. The investment gives Arm strategic exposure to a potential challenger in AI inference, but investors should view it primarily as an ecosystem bet rather than an immediate earnings catalyst.",
+      "London-based Olix develops specialized processors designed to run trained AI models more efficiently. Its technology uses photonic interconnects, which move data between chips using light, and aims to reduce reliance on costly high-bandwidth memory, advanced packaging and leading-edge manufacturing capacity. The company plans to sell complete server racks combining chips, networking equipment and software.",
+      "The round was led by Fundomo and included Arm, Hudson River Trading and Netflix (NASDAQ:NFLX) co-founder Reed Hastings. Olix's post-money valuation has more than tripled from just over $1 billion in February, when it raised $220 million. The rapid increase reflects intense investor demand for alternatives to Nvidia's (NASDAQ:NVDA) general-purpose GPUs as AI inference becomes a larger portion of data-center computing.",
+      "However, Olix remains pre-commercial. The company expects to complete its chip tape-out by the end of 2026 and deliver its first products in 2027. That leaves substantial manufacturing, software and customer-validation risk before the valuation can be supported by meaningful revenue. Former Wise finance chief Matt Briers has joined as chief financial officer as Olix prepares for that transition.",
+      "Investor Takeaway On Arm Stock",
+      "For Arm shareholders, the round reinforces management's push beyond smartphones and deeper into AI infrastructure. Arm recently reported record fiscal first-quarter revenue of $1.29 billion, up 22%, while data-center royalty revenue more than doubled.",
+      "Investors should watch whether Olix completes tape-out on schedule, names customers and proves its processors can deliver lower inference costs at scale. Arm's November 4 earnings report is the next major catalyst, with management guiding fiscal second-quarter revenue to approximately $1.38 billion, plus or minus $50 million. Olix would become strategically meaningful only if its eventual chips drive licensing or royalty revenue for Arm; the funding alone is unlikely to materially alter near-term results."
+    ],
+    "html": null
+  }
+}

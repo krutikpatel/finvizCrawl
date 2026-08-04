@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/ffbf0dc8-3d0c-3643-a317-07d95cf7eee6/what-wall-street-pushed.html",
+    "fetched_at": "2026-08-04T07:00:25.284907-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Wall Street Pushed Microsoft To Explain",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft's growth story is undeniable, but its latest earnings call revealed the one question that truly matters: who is paying for the large AI buildout, and what happens if they stop?\nAfter a year of underperforming the S&P 500, Microsoft (MSFT) stock has been climbing again, powered by an AI narrative that seems unstoppable. But on its latest earnings call, the real story was not the impressive growth, but the large spending required to generate it. The entire Q&A session circled one central question: with the company investing at a historic pace, is the return on that capital both real and defensible?\nThe Demand Is Outpacing The Supply\nThe justification for the spending spree starts with Azure's stunning growth. Azure's revenue grew 43% this quarter, a figure that prompted analysts to probe the underlying drivers. Management's response was clear: the growth is real, and it is constrained by supply, not demand. The company stated that \"Customer demand continues to exceed available capacity.\" In fact, the better-than-expected results were partly driven by engineering teams getting more out of the existing infrastructure and bringing new capacity online faster. Every efficiency gain, the CFO noted, was \"quickly monetized\" because the demand was already there waiting. This paints a picture of a company racing to build factories for a product that sells before it even hits the shelf.\nBut Who Pays If The Music Stops?\nIf the demand is so strong, what is the risk? That was the core of the sharpest challenge of the call, a direct question about the danger of overbuilding and the pressure of rising component prices. The concern is that Microsoft is spending billions on a gold rush, and could be left with expensive, empty data centers if demand normalizes. Management's answer focused on flexibility. The CFO explained that the majority of capital spending is on \"short-lived assets\" like CPUs and GPUs, not the buildings themselves. If the demand environment changes, the company can simply slow down orders for those components. The response was a direct attempt to reframe the large CapEx number from a fixed risk to a variable, manageable cost. It was a solid, logical answer, though the real test of that flexibility has yet to come.\nThe One Number That Will Settle The Debate\nIn the end, management projects confidence, guiding for another year of double-digit revenue and operating income growth. The adoption of services like Microsoft 365 Copilot, which now has over 30 million paid seats, supports that optimism. We recently looked at what investors are paying for at these levels in a separate piece. But the company also gave a crucial tell in its own guidance: for the full fiscal year, operating margins are expected to be \"down less than 1 point.\" That single data point acknowledges the pressure from this investment cycle. The thing to watch next quarter is that margin figure. If it holds steady, it means the company is successfully navigating the costs of its AI ambition. If it slips, the question of who pays for all this will get much louder.",
+    "text_blocks": [
+      "Microsoft's growth story is undeniable, but its latest earnings call revealed the one question that truly matters: who is paying for the large AI buildout, and what happens if they stop?",
+      "After a year of underperforming the S&P 500, Microsoft (MSFT) stock has been climbing again, powered by an AI narrative that seems unstoppable. But on its latest earnings call, the real story was not the impressive growth, but the large spending required to generate it. The entire Q&A session circled one central question: with the company investing at a historic pace, is the return on that capital both real and defensible?",
+      "The Demand Is Outpacing The Supply",
+      "The justification for the spending spree starts with Azure's stunning growth. Azure's revenue grew 43% this quarter, a figure that prompted analysts to probe the underlying drivers. Management's response was clear: the growth is real, and it is constrained by supply, not demand. The company stated that \"Customer demand continues to exceed available capacity.\" In fact, the better-than-expected results were partly driven by engineering teams getting more out of the existing infrastructure and bringing new capacity online faster. Every efficiency gain, the CFO noted, was \"quickly monetized\" because the demand was already there waiting. This paints a picture of a company racing to build factories for a product that sells before it even hits the shelf.",
+      "But Who Pays If The Music Stops?",
+      "If the demand is so strong, what is the risk? That was the core of the sharpest challenge of the call, a direct question about the danger of overbuilding and the pressure of rising component prices. The concern is that Microsoft is spending billions on a gold rush, and could be left with expensive, empty data centers if demand normalizes. Management's answer focused on flexibility. The CFO explained that the majority of capital spending is on \"short-lived assets\" like CPUs and GPUs, not the buildings themselves. If the demand environment changes, the company can simply slow down orders for those components. The response was a direct attempt to reframe the large CapEx number from a fixed risk to a variable, manageable cost. It was a solid, logical answer, though the real test of that flexibility has yet to come.",
+      "The One Number That Will Settle The Debate",
+      "In the end, management projects confidence, guiding for another year of double-digit revenue and operating income growth. The adoption of services like Microsoft 365 Copilot, which now has over 30 million paid seats, supports that optimism. We recently looked at what investors are paying for at these levels in a separate piece. But the company also gave a crucial tell in its own guidance: for the full fiscal year, operating margins are expected to be \"down less than 1 point.\" That single data point acknowledges the pressure from this investment cycle. The thing to watch next quarter is that margin figure. If it holds steady, it means the company is successfully navigating the costs of its AI ambition. If it slips, the question of who pays for all this will get much louder."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amd-earnings-stock-price-dca0d5fa?mod=bar_FV",
+    "fetched_at": "2026-08-04T07:00:48.607448-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/amd-earnings-stock-price-dca0d5fa?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/amd-earnings-stock-price-dca0d5fa?mod=bar_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

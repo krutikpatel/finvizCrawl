@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-enhanced-buying-opportunity-134200950.html",
+    "fetched_at": "2026-08-04T07:00:15.627697-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BofA sees an \"enhanced buying opportunity\" in this memory stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Bank of America reiterated a Buy rating and $1,550 price target on a key memory stock in a note on Tuesday, telling investors the recent pullback is an \"enhanced buying opportunity\" rather than a reason for concern.\nMicron Technology is the stock in question. BofA analyst Vivek Arya acknowledged that memory prices and margins \"will inevitably normalize at some point,\" particularly as new capacity arrives from mid-2027 through 2028.\nBut he said the recent reset reflects investors positioning ahead of an eventual downturn \"rather than responding to the fundamentals,\" which he views as still improving.\nCentral to BofA's case is earnings power. The firm models fiscal 2028 EPS of about $150, and said that even in a bear-case scenario where DRAM and NAND prices fall in line with historical downturns, EPS could hold near $100, \"well above prior-cycle peak of ~$12 in 2018.\"\nBofA added that the current stock discounts that bear case at roughly 8 to 9 times earnings, assigning little value to Micron's HBM and AI businesses.\nThe firm also flagged broadening long-term agreements, expected to cover 50% to 70% of capacity, which it said should reduce price volatility even if they cannot prevent a downturn.\nBofA argued China's CXMT is still \"not a threat in AI,\" as it primarily serves commodity DRAM rather than high-bandwidth memory.\nIt added that GPU rental rates remain near all-time highs and that no major hyperscaler has indicated memory is constraining AI deployments, \"suggesting continued semis/memory pricing power.\"\nRelated articles\nBofA sees an \"enhanced buying opportunity\" in this memory stock\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- Bank of America reiterated a Buy rating and $1,550 price target on a key memory stock in a note on Tuesday, telling investors the recent pullback is an \"enhanced buying opportunity\" rather than a reason for concern.",
+      "Micron Technology is the stock in question. BofA analyst Vivek Arya acknowledged that memory prices and margins \"will inevitably normalize at some point,\" particularly as new capacity arrives from mid-2027 through 2028.",
+      "But he said the recent reset reflects investors positioning ahead of an eventual downturn \"rather than responding to the fundamentals,\" which he views as still improving.",
+      "Central to BofA's case is earnings power. The firm models fiscal 2028 EPS of about $150, and said that even in a bear-case scenario where DRAM and NAND prices fall in line with historical downturns, EPS could hold near $100, \"well above prior-cycle peak of ~$12 in 2018.\"",
+      "BofA added that the current stock discounts that bear case at roughly 8 to 9 times earnings, assigning little value to Micron's HBM and AI businesses.",
+      "The firm also flagged broadening long-term agreements, expected to cover 50% to 70% of capacity, which it said should reduce price volatility even if they cannot prevent a downturn.",
+      "BofA argued China's CXMT is still \"not a threat in AI,\" as it primarily serves commodity DRAM rather than high-bandwidth memory.",
+      "It added that GPU rental rates remain near all-time highs and that no major hyperscaler has indicated memory is constraining AI deployments, \"suggesting continued semis/memory pricing power.\"",
+      "Related articles",
+      "BofA sees an \"enhanced buying opportunity\" in this memory stock",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

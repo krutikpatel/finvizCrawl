@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/oracle-stock-surges-6-6-182944321.html",
+    "fetched_at": "2026-08-04T07:00:25.535279-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Stock Surges 6.6% as Cloud-AI Rally Widens",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL), an enterprise-software company operating a major cloud-infrastructure platform, surged approximately 6.6% in Monday's regular-session trading as of 12:15 p.m. ET as the cloud-computing rally expanded beyond Amazon (NASDAQ:AMZN) and Microsoft (NASDAQ:MSFT). Reuters reported that Oracle joined several major technology companies advancing after Amazon reached a $3 trillion valuation. The movement followed evidence that demand for cloud and artificial-intelligence computing capacity remained strong despite rapidly rising industry spending.\nAmazon Web Services revenue increased 37%, marking its fastest expansion in more than four years. Microsoft reported 43% Azure growth and forecast approximately 45% growth during its current quarter. These results are relevant to Oracle because the company competes for enterprise workloads and AI-related infrastructure contracts through Oracle Cloud Infrastructure. They may also improve investor confidence that corporate demand is large enough to support more than one major cloud provider.\nAmazon plans approximately $220 billion of capital expenditure during 2026, while Microsoft expects to spend roughly $50 billion during its current quarter. The figures illustrate the scale of the infrastructure buildout but do not directly measure Oracle's future revenue or competitive position. Oracle must demonstrate that its own capacity additions can win workloads without producing disproportionate financing or cash-flow pressure. Investors may now assess customer commitments, cloud-revenue growth and infrastructure utilization for evidence that Monday's sector-driven valuation increase is supported by company-specific financial performance.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL), an enterprise-software company operating a major cloud-infrastructure platform, surged approximately 6.6% in Monday's regular-session trading as of 12:15 p.m. ET as the cloud-computing rally expanded beyond Amazon (NASDAQ:AMZN) and Microsoft (NASDAQ:MSFT). Reuters reported that Oracle joined several major technology companies advancing after Amazon reached a $3 trillion valuation. The movement followed evidence that demand for cloud and artificial-intelligence computing capacity remained strong despite rapidly rising industry spending.",
+      "Amazon Web Services revenue increased 37%, marking its fastest expansion in more than four years. Microsoft reported 43% Azure growth and forecast approximately 45% growth during its current quarter. These results are relevant to Oracle because the company competes for enterprise workloads and AI-related infrastructure contracts through Oracle Cloud Infrastructure. They may also improve investor confidence that corporate demand is large enough to support more than one major cloud provider.",
+      "Amazon plans approximately $220 billion of capital expenditure during 2026, while Microsoft expects to spend roughly $50 billion during its current quarter. The figures illustrate the scale of the infrastructure buildout but do not directly measure Oracle's future revenue or competitive position. Oracle must demonstrate that its own capacity additions can win workloads without producing disproportionate financing or cash-flow pressure. Investors may now assess customer commitments, cloud-revenue growth and infrastructure utilization for evidence that Monday's sector-driven valuation increase is supported by company-specific financial performance."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-exec-warns-ai-spending-115557174.html",
+    "fetched_at": "2026-08-04T07:00:45.726841-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google exec warns AI spending could trigger a painful revenue gap",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOG) is facing fresh scrutiny over the scale of AI investment as a Google executive warned that current spending could outpace revenue growth before the technology delivers its next major advance.\nJasjeet Sekhon, a Google DeepMind executive, said heavy industry spending on AI infrastructure could lead to a period where investment rises faster than related revenue. He described recursive self-improvement, in which AI systems help build more capable versions of themselves, as a potential next phase.\nThe comments come as major technology companies continue expanding capital budgets. Alphabet recently lifted its 2026 spending forecast to $195 billion to $205 billion, up from its previous range of $180 billion to $190 billion.\nAmazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT) and Meta Platforms (NASDAQ:META) have also indicated that their capital spending could increase in 2027. The broader industry is expected to spend more than $700 billion on AI-related infrastructure this year, raising questions about how quickly those investments can generate returns.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOG) is facing fresh scrutiny over the scale of AI investment as a Google executive warned that current spending could outpace revenue growth before the technology delivers its next major advance.",
+      "Jasjeet Sekhon, a Google DeepMind executive, said heavy industry spending on AI infrastructure could lead to a period where investment rises faster than related revenue. He described recursive self-improvement, in which AI systems help build more capable versions of themselves, as a potential next phase.",
+      "The comments come as major technology companies continue expanding capital budgets. Alphabet recently lifted its 2026 spending forecast to $195 billion to $205 billion, up from its previous range of $180 billion to $190 billion.",
+      "Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT) and Meta Platforms (NASDAQ:META) have also indicated that their capital spending could increase in 2027. The broader industry is expected to spend more than $700 billion on AI-related infrastructure this year, raising questions about how quickly those investments can generate returns."
+    ],
+    "html": null
+  }
+}

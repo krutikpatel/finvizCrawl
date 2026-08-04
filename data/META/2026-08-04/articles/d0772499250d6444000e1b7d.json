@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10-billion-computing-120000547.html",
+    "fetched_at": "2026-08-04T07:00:11.878959-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Anthropic PBC has struck a $10 billion deal for computing capacity from a months-old infrastructure startup, according to people familiar with the matter, marking the Claude maker's latest effort to keep pace with demand for its products.\nMost Read from Bloomberg\n-\nApple's New CEO Taps Retired Hardware Executive for Management Team\n-\nMamdani Dismisses Business Leaders Advising NYC's Mayor's Fund\n-\nChina's AI Blitz Creates 'Death Zone' for Rival US Model Makers\nThe AI developer has signed a contract to use a data center managed by Nvidia Corp.-backed cloud startup Volta Infra Holdings Ltd., said the people, who requested anonymity as the deal is not public.\nVolta said earlier Tuesday that it had secured a $10 billion deal with an unnamed AI lab to be delivered in partnership with Bitdeer Technologies Group, a Bitcoin miner that operates data centers, using a site in Norway. The agreement runs for six years, it said.\nVolta Chief Executive Officer Ricard Boada declined to name the client. Representatives for Anthropic and Bitdeer declined to comment.\nAnthropic has moved aggressively in recent months to shore up its computing resources as more businesses and consumers turn to its tools to streamline coding and other tasks. It has inked computing agreements with Elon Musk's SpaceX, Advanced Micro Devices Inc. and Akamai Technologies Inc. The AI developer is also in discussions to lease computing power from Meta Platforms Inc.'s data centers, Bloomberg News has reported.\nAnthropic raised $65 billion in a funding round earlier this year to help cover the immense cost of AI development. It's also considering tapping the public markets for capital with a Wall Street debut as soon as this year.\nThe data center site in Norway offers 133 megawatts of capacity and will be stocked with Nvidia's newest Vera Rubin chips, Volta said.\nFounded in January by former executives from Brookfield Asset Management Ltd, Volta leases AI capacity and helps clients finance deals for costly chips. The startup announced Tuesday that it raised $300 million in venture funding, valuing it at $2.4 billion.\nVolta's partner, Bitdeer, is among a growing number of Bitcoin mining companies that are converting some of their data centers from minting the cryptocurrency to supporting AI applications as Bitcoin prices slump. Bitdeer plans to convert some of its crypto sites in Texas, Tennessee and Washington state, according to a monthly operational update by the company on July 21.",
+    "text_blocks": [
+      "(Bloomberg) -- Anthropic PBC has struck a $10 billion deal for computing capacity from a months-old infrastructure startup, according to people familiar with the matter, marking the Claude maker's latest effort to keep pace with demand for its products.",
+      "Most Read from Bloomberg",
+      "-",
+      "Apple's New CEO Taps Retired Hardware Executive for Management Team",
+      "-",
+      "Mamdani Dismisses Business Leaders Advising NYC's Mayor's Fund",
+      "-",
+      "China's AI Blitz Creates 'Death Zone' for Rival US Model Makers",
+      "The AI developer has signed a contract to use a data center managed by Nvidia Corp.-backed cloud startup Volta Infra Holdings Ltd., said the people, who requested anonymity as the deal is not public.",
+      "Volta said earlier Tuesday that it had secured a $10 billion deal with an unnamed AI lab to be delivered in partnership with Bitdeer Technologies Group, a Bitcoin miner that operates data centers, using a site in Norway. The agreement runs for six years, it said.",
+      "Volta Chief Executive Officer Ricard Boada declined to name the client. Representatives for Anthropic and Bitdeer declined to comment.",
+      "Anthropic has moved aggressively in recent months to shore up its computing resources as more businesses and consumers turn to its tools to streamline coding and other tasks. It has inked computing agreements with Elon Musk's SpaceX, Advanced Micro Devices Inc. and Akamai Technologies Inc. The AI developer is also in discussions to lease computing power from Meta Platforms Inc.'s data centers, Bloomberg News has reported.",
+      "Anthropic raised $65 billion in a funding round earlier this year to help cover the immense cost of AI development. It's also considering tapping the public markets for capital with a Wall Street debut as soon as this year.",
+      "The data center site in Norway offers 133 megawatts of capacity and will be stocked with Nvidia's newest Vera Rubin chips, Volta said.",
+      "Founded in January by former executives from Brookfield Asset Management Ltd, Volta leases AI capacity and helps clients finance deals for costly chips. The startup announced Tuesday that it raised $300 million in venture funding, valuing it at $2.4 billion.",
+      "Volta's partner, Bitdeer, is among a growing number of Bitcoin mining companies that are converting some of their data centers from minting the cryptocurrency to supporting AI applications as Bitcoin prices slump. Bitdeer plans to convert some of its crypto sites in Texas, Tennessee and Washington state, according to a monthly operational update by the company on July 21."
+    ],
+    "html": null
+  }
+}

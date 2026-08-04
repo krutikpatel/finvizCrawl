@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/why-amd-is-a-yahoo-finance-alphaspace-rockstar-131746048.html",
+    "fetched_at": "2026-08-04T07:00:42.587061-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why AMD is a Yahoo Finance AlphaSpace rockstar",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "When Nvidia (NVDA) rival AMD (AMD) uncorks its earnings report later today, it's reasonable to expect a whole lot of bullishness.\nThat comes as no surprise. AMD has been knocking it out of the park for more than two years amid strong demand for its AI chips.\nYahoo Finance AlphaSpace data dive\nAMD has earned its rockstar status with investors, which a casual dive on Yahoo Finance AlphaSpace quickly uncovers.\nHere are a couple of bullish call-outs on AMD's fundamentals:\n-\nRevenue growth accelerated from 8.9% in the quarter ended June 30, 2024, to 37.8% for the quarter ended March 31, 2026.\n-\nNet income growth has been above 100% in five of the past eight quarters.\n-\nSales per employee surged from $641,090 for the year ended December 31, 2018, to $1.12 million for the year ended December 31, 2025.\nThe finer details\nMaybe investors should rethink why they are upset with hyperscalers like Alphabet (GOOG, GOOGL) for hiking their capital expenditure plans to support their AI ambitions.\nThe technology's usefulness is rapidly rising, and demand is exceptionally strong, per AMD CEO Lisa Su. That makes investing today critical to long-term success, she said.\n\"We're seeing the returns on investment,\" Su told me on Yahoo Finance (see video above). \"Demand for compute is at a premium today. … We are very confident in the demand picture being there.\"\nAMD unveiled its next-generation AI chips last week, headlined by the Instinct MI450 Series GPUs and the 6th Gen EPYC Venice CPUs. The new chips are designed to power AMD's new Helios rack-scale AI systems, which combine GPUs, CPUs, networking, and software into an integrated platform for training and running large AI models.\nThe product announcement came alongside two new deals that sent the bulls back into AMD's stock, which had been trading sideways for most of July.\nAMD said Microsoft (MSFT) will deploy Helios across Azure AI services beginning in the second half of 2026.\nIt also announced a major tie-up with Anthropic (ANTH.PVT) that significantly expands its push to challenge rival Nvidia in the AI infrastructure market.\nAnthropic plans to deploy up to 2 gigawatts of the Instinct MI450 GPUs in its Helios system beginning in the first half of 2027 — a deal that could be worth tens of billions of dollars over time. AMD also committed to invest up to $5 billion in Anthropic, marking one of the chipmaker's largest strategic investments ever.\nThe two companies will work together to optimize Anthropic's Claude AI models for AMD hardware and accelerate development of AMD's ROCm software platform.",
+    "text_blocks": [
+      "When Nvidia (NVDA) rival AMD (AMD) uncorks its earnings report later today, it's reasonable to expect a whole lot of bullishness.",
+      "That comes as no surprise. AMD has been knocking it out of the park for more than two years amid strong demand for its AI chips.",
+      "Yahoo Finance AlphaSpace data dive",
+      "AMD has earned its rockstar status with investors, which a casual dive on Yahoo Finance AlphaSpace quickly uncovers.",
+      "Here are a couple of bullish call-outs on AMD's fundamentals:",
+      "-",
+      "Revenue growth accelerated from 8.9% in the quarter ended June 30, 2024, to 37.8% for the quarter ended March 31, 2026.",
+      "-",
+      "Net income growth has been above 100% in five of the past eight quarters.",
+      "-",
+      "Sales per employee surged from $641,090 for the year ended December 31, 2018, to $1.12 million for the year ended December 31, 2025.",
+      "The finer details",
+      "Maybe investors should rethink why they are upset with hyperscalers like Alphabet (GOOG, GOOGL) for hiking their capital expenditure plans to support their AI ambitions.",
+      "The technology's usefulness is rapidly rising, and demand is exceptionally strong, per AMD CEO Lisa Su. That makes investing today critical to long-term success, she said.",
+      "\"We're seeing the returns on investment,\" Su told me on Yahoo Finance (see video above). \"Demand for compute is at a premium today. … We are very confident in the demand picture being there.\"",
+      "AMD unveiled its next-generation AI chips last week, headlined by the Instinct MI450 Series GPUs and the 6th Gen EPYC Venice CPUs. The new chips are designed to power AMD's new Helios rack-scale AI systems, which combine GPUs, CPUs, networking, and software into an integrated platform for training and running large AI models.",
+      "The product announcement came alongside two new deals that sent the bulls back into AMD's stock, which had been trading sideways for most of July.",
+      "AMD said Microsoft (MSFT) will deploy Helios across Azure AI services beginning in the second half of 2026.",
+      "It also announced a major tie-up with Anthropic (ANTH.PVT) that significantly expands its push to challenge rival Nvidia in the AI infrastructure market.",
+      "Anthropic plans to deploy up to 2 gigawatts of the Instinct MI450 GPUs in its Helios system beginning in the first half of 2027 — a deal that could be worth tens of billions of dollars over time. AMD also committed to invest up to $5 billion in Anthropic, marking one of the chipmaker's largest strategic investments ever.",
+      "The two companies will work together to optimize Anthropic's Claude AI models for AMD hardware and accelerate development of AMD's ROCm software platform."
+    ],
+    "html": null
+  }
+}

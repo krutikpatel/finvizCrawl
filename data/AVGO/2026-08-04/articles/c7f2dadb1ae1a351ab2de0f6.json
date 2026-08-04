@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/inside-google-200bn-wall-street-040016935.html",
+    "fetched_at": "2026-08-04T07:00:35.718142-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Inside Google’s $200bn Wall Street finance machine for Anthropic\nGoogle has assembled one of the largest infrastructure financing programmes in history to sell more than $150bn of AI chips destined for\nUpgrade to read this Financial Times article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.",
+    "text_blocks": [
+      "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+      "Google has assembled one of the largest infrastructure financing programmes in history to sell more than $150bn of AI chips destined for",
+      "Upgrade to read this Financial Times article and get so much more.",
+      "A Silver or Gold subscription plan is required to access premium news articles."
+    ],
+    "html": null
+  }
+}
