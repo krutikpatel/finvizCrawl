@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-tumbles-debt-risk-123543035.html",
+    "fetched_at": "2026-08-05T07:00:20.386820-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Stock Tumbles as Debt Risk Just Hit a Record High",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) shares fell about 2% early Wednesday as the cost of protecting the company's debt against default reached a record level, according to Bloomberg data cited in recent reports.\nOracle's five-year credit default swap spread, which reflects the premium investors pay for default protection, has climbed to an unprecedented level. A wider spread generally points to rising concerns about a borrower's ability to meet its obligations.\nOracle has been increasing spending on artificial intelligence infrastructure, including data centers and cloud capacity. The company has relied partly on debt financing to support that expansion, adding attention to its balance sheet as investment requirements increase.\nThe rise in credit protection costs could increase scrutiny of Oracle's balance sheet and financing strategy. If borrowing becomes more expensive, the company may face greater pressure to manage capital spending, debt levels and cash generation while continuing its AI infrastructure expansion.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) shares fell about 2% early Wednesday as the cost of protecting the company's debt against default reached a record level, according to Bloomberg data cited in recent reports.",
+      "Oracle's five-year credit default swap spread, which reflects the premium investors pay for default protection, has climbed to an unprecedented level. A wider spread generally points to rising concerns about a borrower's ability to meet its obligations.",
+      "Oracle has been increasing spending on artificial intelligence infrastructure, including data centers and cloud capacity. The company has relied partly on debt financing to support that expansion, adding attention to its balance sheet as investment requirements increase.",
+      "The rise in credit protection costs could increase scrutiny of Oracle's balance sheet and financing strategy. If borrowing becomes more expensive, the company may face greater pressure to manage capital spending, debt levels and cash generation while continuing its AI infrastructure expansion."
+    ],
+    "html": null
+  }
+}

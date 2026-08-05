@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/0c90e45d-e256-3454-8e3f-c944880a80b2/amd%27s-problem-is-not-demand..html",
+    "fetched_at": "2026-08-05T07:00:10.346312-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD's problem is not demand. It is where the demand comes from",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) delivered close to the quarter the bulls wanted, and the shares fell almost 9% anyway.\nRevenue of $11.5 billion was up 50% year on year and ahead of the $11.28 billion consensus, while adjusted earnings of $1.66 a share beat forecasts of about $1.60.\nData centre revenue, the only line that really matters now, more than doubled to $6.7 billion.\nGuidance for the current quarter of $12.7 billion to $13.3 billion was in line, and Lisa Su told analysts that data centre revenue would more than double again in 2027, with server sales growing more than 80%.\nThe stock had risen 7% during the session before reversing in extended trading.\nToo few baskets\nThe discomfort is about who is doing the buying. AMD's accelerator growth rests on a very short list of names: OpenAI, Meta, Anthropic, Microsoft and Oracle, plus a handful of specialist GPU cloud providers.\nSu acknowledged as much on the call, conceding that interest exists beyond the frontier model developers, but at a more ordinary scale rather than the gigawatt scale.\nNone of those largest customers has yet demonstrated that it can fund this level of spending out of its own profits.\nThat makes AMD's 2027 inflexion dependent on the willingness of capital markets to keep financing AI infrastructure, which is precisely the thing that has begun to wobble.\nThe Philadelphia semiconductor index has fallen roughly 20% from its late June peak, wiping more than $1 trillion from the value of chipmakers globally, with no deterioration in reported demand to explain it.\nThe circle\nThe structure of AMD's marquee deals sharpens the point. Meta's agreement to take up to six gigawatts of Instinct GPUs came with warrants over as much as 10% of AMD's equity, priced at a penny a share and vesting in full only if the stock reaches $600.\nOpenAI holds a near-identical arrangement covering a similar six gigawatts.\nRoughly a fifth of the company is therefore potentially owed to two of its largest customers, whose incentive to keep ordering is written directly into their own prospective shareholdings.\nThe Anthropic agreement, covering up to two gigawatts of MI450 series chips in Helios racks from the first half of 2027, goes a step further, because AMD is investing up to $5 billion into the customer.\nSupporters read this as incentive alignment, while sceptics read it as revenue the supplier has partly funded itself.\nEither way, the headline gigawatt numbers are \"up to\" commitments contingent on deployment milestones, and commitments are not shipments.",
+    "text_blocks": [
+      "Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) delivered close to the quarter the bulls wanted, and the shares fell almost 9% anyway.",
+      "Revenue of $11.5 billion was up 50% year on year and ahead of the $11.28 billion consensus, while adjusted earnings of $1.66 a share beat forecasts of about $1.60.",
+      "Data centre revenue, the only line that really matters now, more than doubled to $6.7 billion.",
+      "Guidance for the current quarter of $12.7 billion to $13.3 billion was in line, and Lisa Su told analysts that data centre revenue would more than double again in 2027, with server sales growing more than 80%.",
+      "The stock had risen 7% during the session before reversing in extended trading.",
+      "Too few baskets",
+      "The discomfort is about who is doing the buying. AMD's accelerator growth rests on a very short list of names: OpenAI, Meta, Anthropic, Microsoft and Oracle, plus a handful of specialist GPU cloud providers.",
+      "Su acknowledged as much on the call, conceding that interest exists beyond the frontier model developers, but at a more ordinary scale rather than the gigawatt scale.",
+      "None of those largest customers has yet demonstrated that it can fund this level of spending out of its own profits.",
+      "That makes AMD's 2027 inflexion dependent on the willingness of capital markets to keep financing AI infrastructure, which is precisely the thing that has begun to wobble.",
+      "The Philadelphia semiconductor index has fallen roughly 20% from its late June peak, wiping more than $1 trillion from the value of chipmakers globally, with no deterioration in reported demand to explain it.",
+      "The circle",
+      "The structure of AMD's marquee deals sharpens the point. Meta's agreement to take up to six gigawatts of Instinct GPUs came with warrants over as much as 10% of AMD's equity, priced at a penny a share and vesting in full only if the stock reaches $600.",
+      "OpenAI holds a near-identical arrangement covering a similar six gigawatts.",
+      "Roughly a fifth of the company is therefore potentially owed to two of its largest customers, whose incentive to keep ordering is written directly into their own prospective shareholdings.",
+      "The Anthropic agreement, covering up to two gigawatts of MI450 series chips in Helios racks from the first half of 2027, goes a step further, because AMD is investing up to $5 billion into the customer.",
+      "Supporters read this as incentive alignment, while sceptics read it as revenue the supplier has partly funded itself.",
+      "Either way, the headline gigawatt numbers are \"up to\" commitments contingent on deployment milestones, and commitments are not shipments."
+    ],
+    "html": null
+  }
+}

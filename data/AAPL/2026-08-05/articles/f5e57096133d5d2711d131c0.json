@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/82ebee2d-b620-3bb9-bce9-3f01104558cb/corporate-america-got.html",
+    "fetched_at": "2026-08-05T07:00:06.924779-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Corporate America got billions of dollars in tariff refunds. Where’s your cut?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple got an estimated $2.2 billion tariff refund last quarter. Amazon got $600 million. Nike got $300 million. But American consumers who paid higher prices as President Donald Trump's tariffs filtered through the economy are getting almost nothing back.\nThose corporate payouts may be just the beginning as the government continues processing refund claims after the Supreme Court struck down Trump's most sweeping levies earlier this year.\nIn total, the government is on the hook to refund hundreds of thousands of importers a total of around $166 billion. A little more than half of that has already been paid out, according to a Customs and Border Protection court filing.\nThe levies cost households an estimated $1,000 on average last year, according to the Tax Foundation. Before the Supreme Court weighed in, the Trump administration had floated the idea of $2,000 tariff rebate checks to redistribute some of the revenue the government had collected. Those, however, never materialized.\nYou aren't owed a tariff refund\nThe tariff refund system is structured so that only the parties who directly paid the tariffs — or the customs brokers acting on their behalf — can file for a refund. That means that if you bought, for example, a pair of Nike sneakers that became more expensive as the company passed along some of its increased tariff costs, you have no legal way to get that money back.\nIn many cases, it's nearly impossible to figure out how much of a company's tariff refund came out of consumers' pockets. That's because Trump during his second term has layered on multiple rounds of tariffs besides the ones struck down by the Supreme Court.\nSo, even when a company raised prices, it can be difficult to determine which tariffs those increases were designed to cover. Adding another wrinkle: Many businesses didn't pass the full cost of tariffs on to shoppers in the first place, absorbing some of the impact themselves.\nThe big outlier\nAmazon has been an outlier, saying it will give customers a direct refund in certain cases.\n\"We have identified a limited set of circumstances where we can trace that we passed specific import charges on to customers, and when we receive those refunds, we will proactively contact affected customers and automatically issue refunds to them,\" Amazon chief financial officer Brian Olsavsky said last week during the company's earnings call.\n\"Otherwise, like other large retailers, we'll utilize refunds to continue to invest in low prices for customers,\" he said.",
+    "text_blocks": [
+      "Apple got an estimated $2.2 billion tariff refund last quarter. Amazon got $600 million. Nike got $300 million. But American consumers who paid higher prices as President Donald Trump's tariffs filtered through the economy are getting almost nothing back.",
+      "Those corporate payouts may be just the beginning as the government continues processing refund claims after the Supreme Court struck down Trump's most sweeping levies earlier this year.",
+      "In total, the government is on the hook to refund hundreds of thousands of importers a total of around $166 billion. A little more than half of that has already been paid out, according to a Customs and Border Protection court filing.",
+      "The levies cost households an estimated $1,000 on average last year, according to the Tax Foundation. Before the Supreme Court weighed in, the Trump administration had floated the idea of $2,000 tariff rebate checks to redistribute some of the revenue the government had collected. Those, however, never materialized.",
+      "You aren't owed a tariff refund",
+      "The tariff refund system is structured so that only the parties who directly paid the tariffs — or the customs brokers acting on their behalf — can file for a refund. That means that if you bought, for example, a pair of Nike sneakers that became more expensive as the company passed along some of its increased tariff costs, you have no legal way to get that money back.",
+      "In many cases, it's nearly impossible to figure out how much of a company's tariff refund came out of consumers' pockets. That's because Trump during his second term has layered on multiple rounds of tariffs besides the ones struck down by the Supreme Court.",
+      "So, even when a company raised prices, it can be difficult to determine which tariffs those increases were designed to cover. Adding another wrinkle: Many businesses didn't pass the full cost of tariffs on to shoppers in the first place, absorbing some of the impact themselves.",
+      "The big outlier",
+      "Amazon has been an outlier, saying it will give customers a direct refund in certain cases.",
+      "\"We have identified a limited set of circumstances where we can trace that we passed specific import charges on to customers, and when we receive those refunds, we will proactively contact affected customers and automatically issue refunds to them,\" Amazon chief financial officer Brian Olsavsky said last week during the company's earnings call.",
+      "\"Otherwise, like other large retailers, we'll utilize refunds to continue to invest in low prices for customers,\" he said."
+    ],
+    "html": null
+  }
+}

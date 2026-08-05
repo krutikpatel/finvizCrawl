@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/report-warns-china-transceiver-ban-093946021.html",
+    "fetched_at": "2026-08-05T07:00:10.505878-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "New report warns China transceiver ban would hurt U.S. AI giants",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - Chinese optical module makers control roughly two-thirds of global transceiver supply, and no Western alternative can absorb that volume within the next one to two years, Counterpoint Research warned — a finding that casts doubt on whether a proposed U.S. import ban can be executed without damaging the AI infrastructure buildout it is meant to protect.\nCoherent and Applied Optoelectronics are the most directly exposed U.S.-listed beneficiaries of any restriction, according to Raymond James, which identified them as the biggest likely winners of redirected orders.\nYet Counterpoint analyst Neil Shah cautioned that Coherent and peer Lumentum \"currently lack the cleanroom capacity, automated packaging infrastructure, and yield scale required to absorb Innolight and Eoptolink's volume within a 12-to-24-month horizon.\"\nFor hyperscalers such as AWS, Microsoft, Meta, and Google, the consequence of a rushed ban could be costly. Shah warned that capacity deficits would produce \"cost escalation and delayed AI cluster deployments,\" with lower utilization of expensive AI accelerators rippling through capital expenditure plans that collectively run into the hundreds of billions of dollars.\n\"Sudden regulatory shifts risk creating hardware bottlenecks that could slow down deployment schedules for the world's largest cloud operators,\" he wrote.\nThe Trump administration's Federal Communications Commission (FCC) is drafting a ban on U.S. imports of new Chinese optical transceiver models, with officials hoping to publish the measure before year-end, Reuters reported yesterday. The restriction could still be modified or shelved.\nOptical transceivers convert electrical signals into light pulses to move data across fibre-optic cables inside data centres, making them a critical link as hyperscalers deploy GPU-dense AI superclusters that require increasingly fast 400G, 800G, and emerging 1.6T interconnects.\nChinese optical module makers slumped sharply in Asian trading on Wednesday following the Reuters report: Eoptolink Technology, which generates 96% of its sales overseas, tumbled 10% on the Shenzhen exchange; Zhongji Innolight fell roughly 8% in both Shanghai and Hong Kong; and Suzhou TFC Optical Communications dropped roughly 6%.\nThe CSI300 Telecommunication Services Index fell as much as 9%. Meanwhile, U.S.-listed optical networking stocks surged on Tuesday after the report first circulated, with Coherent rising 11%, Applied Optoelectronics gaining 18%, and Lumentum climbing 7%, as investors bet on order redirection to Western suppliers.",
+    "text_blocks": [
+      "Investing.com - Chinese optical module makers control roughly two-thirds of global transceiver supply, and no Western alternative can absorb that volume within the next one to two years, Counterpoint Research warned — a finding that casts doubt on whether a proposed U.S. import ban can be executed without damaging the AI infrastructure buildout it is meant to protect.",
+      "Coherent and Applied Optoelectronics are the most directly exposed U.S.-listed beneficiaries of any restriction, according to Raymond James, which identified them as the biggest likely winners of redirected orders.",
+      "Yet Counterpoint analyst Neil Shah cautioned that Coherent and peer Lumentum \"currently lack the cleanroom capacity, automated packaging infrastructure, and yield scale required to absorb Innolight and Eoptolink's volume within a 12-to-24-month horizon.\"",
+      "For hyperscalers such as AWS, Microsoft, Meta, and Google, the consequence of a rushed ban could be costly. Shah warned that capacity deficits would produce \"cost escalation and delayed AI cluster deployments,\" with lower utilization of expensive AI accelerators rippling through capital expenditure plans that collectively run into the hundreds of billions of dollars.",
+      "\"Sudden regulatory shifts risk creating hardware bottlenecks that could slow down deployment schedules for the world's largest cloud operators,\" he wrote.",
+      "The Trump administration's Federal Communications Commission (FCC) is drafting a ban on U.S. imports of new Chinese optical transceiver models, with officials hoping to publish the measure before year-end, Reuters reported yesterday. The restriction could still be modified or shelved.",
+      "Optical transceivers convert electrical signals into light pulses to move data across fibre-optic cables inside data centres, making them a critical link as hyperscalers deploy GPU-dense AI superclusters that require increasingly fast 400G, 800G, and emerging 1.6T interconnects.",
+      "Chinese optical module makers slumped sharply in Asian trading on Wednesday following the Reuters report: Eoptolink Technology, which generates 96% of its sales overseas, tumbled 10% on the Shenzhen exchange; Zhongji Innolight fell roughly 8% in both Shanghai and Hong Kong; and Suzhou TFC Optical Communications dropped roughly 6%.",
+      "The CSI300 Telecommunication Services Index fell as much as 9%. Meanwhile, U.S.-listed optical networking stocks surged on Tuesday after the report first circulated, with Coherent rising 11%, Applied Optoelectronics gaining 18%, and Lumentum climbing 7%, as investors bet on order redirection to Western suppliers."
+    ],
+    "html": null
+  }
+}

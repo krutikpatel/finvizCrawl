@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/nvidia-stock-climbs-after-spacex-goes-exclusive-with-the-chip-maker-04AzOaTUi3vWvPjiuOA0?mod=wsj_FV",
+    "fetched_at": "2026-08-05T07:00:34.569976-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/nvidia-stock-climbs-after-spacex-goes-exclusive-with-the-chip-maker-04AzOaTUi3vWvPjiuOA0?mod=wsj_FV",
+      "context": {
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/nvidia-stock-climbs-after-spacex-goes-exclusive-with-the-chip-maker-04AzOaTUi3vWvPjiuOA0?mod=wsj_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

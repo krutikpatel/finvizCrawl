@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-list-fund-lets-anyone-122352793.html",
+    "fetched_at": "2026-08-05T07:00:17.803886-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood this week unveiled a financial instrument that lets anyone feel like they, too, can make money by backing Y Combinator startups.\nRobinhood Venture Fund II (RVII) is expected to become a publicly traded fund on August 13 at an opening price of $25 per share.\nThe fund intends to raise as much as $200 million, Reuters reports, and use that money to invest in startups founded by current and former Y Combinator participants, should those startups agree to sell their shares.\nWhile any retail investor can buy shares in the fund, they will not directly hold any shares in the startups. Investors will be able to trade their shares in the fund, but it's unclear how much profit they can expect to make should the YC companies manage big exits.\nThe fund intends to pay the 2/20 fees typical in the VC world to another entity owned by Robinhood, plus tack on extra fees. That means Robinhood's unit will collect 2% of the net returns as a management fee, plus other fees, taking the total to just over 4%, the company said. The fund will also pay the Robinhood unit 20% \"carried interest\" (commonly called \"carry\"). That means if enough Y Combinator companies have good exits for the fund to make money, that Robinhood unit will get 20% of the resulting returns.\nBut RVII doesn't appear to have an end date for returning its remaining profits to investors, unlike VC funds, which typically tend to run for about 10 years. Nor does RVII appear to promise regular distributions of cash profits. It may issue such distributions, but investors may largely have to bank on returns from the fund's rising stock price. (We've asked Robinhood for more information about this.)\nIt's certainly possible to make money by trading the fund's shares. Robinhood Ventures Fund I (NYSE: RVI), which was also founded to buy shares in hot private companies like Databricks, Mercor and OpenAI, routinely trades above its IPO price of $21.\nIt's equally possible to lose money: After peaking at over $56 in May, RVI's stock now trades at around $28 per share.\nRobinhood has also gotten some push back on other schemes that tried to tie financial products to the names of valuable private companies. In 2025, it sold crypto assets described as tokenized shares of OpenAI and SpaceX. OpenAI condemned these, saying it wasn't involved, and that the tokens did not represent any holdings in the company.\nThis fund, however, appears to operate more akin to a special purpose vehicle than to that 2025 crypto vehicle. It is buying actual shares. So, for anyone that likes the idea of betting on the YC pedigree, this is certainly a very Silicon Valley way to go.",
+    "text_blocks": [
+      "Robinhood this week unveiled a financial instrument that lets anyone feel like they, too, can make money by backing Y Combinator startups.",
+      "Robinhood Venture Fund II (RVII) is expected to become a publicly traded fund on August 13 at an opening price of $25 per share.",
+      "The fund intends to raise as much as $200 million, Reuters reports, and use that money to invest in startups founded by current and former Y Combinator participants, should those startups agree to sell their shares.",
+      "While any retail investor can buy shares in the fund, they will not directly hold any shares in the startups. Investors will be able to trade their shares in the fund, but it's unclear how much profit they can expect to make should the YC companies manage big exits.",
+      "The fund intends to pay the 2/20 fees typical in the VC world to another entity owned by Robinhood, plus tack on extra fees. That means Robinhood's unit will collect 2% of the net returns as a management fee, plus other fees, taking the total to just over 4%, the company said. The fund will also pay the Robinhood unit 20% \"carried interest\" (commonly called \"carry\"). That means if enough Y Combinator companies have good exits for the fund to make money, that Robinhood unit will get 20% of the resulting returns.",
+      "But RVII doesn't appear to have an end date for returning its remaining profits to investors, unlike VC funds, which typically tend to run for about 10 years. Nor does RVII appear to promise regular distributions of cash profits. It may issue such distributions, but investors may largely have to bank on returns from the fund's rising stock price. (We've asked Robinhood for more information about this.)",
+      "It's certainly possible to make money by trading the fund's shares. Robinhood Ventures Fund I (NYSE: RVI), which was also founded to buy shares in hot private companies like Databricks, Mercor and OpenAI, routinely trades above its IPO price of $21.",
+      "It's equally possible to lose money: After peaking at over $56 in May, RVI's stock now trades at around $28 per share.",
+      "Robinhood has also gotten some push back on other schemes that tried to tie financial products to the names of valuable private companies. In 2025, it sold crypto assets described as tokenized shares of OpenAI and SpaceX. OpenAI condemned these, saying it wasn't involved, and that the tokens did not represent any holdings in the company.",
+      "This fund, however, appears to operate more akin to a special purpose vehicle than to that 2025 crypto vehicle. It is buying actual shares. So, for anyone that likes the idea of betting on the YC pedigree, this is certainly a very Silicon Valley way to go."
+    ],
+    "html": null
+  }
+}

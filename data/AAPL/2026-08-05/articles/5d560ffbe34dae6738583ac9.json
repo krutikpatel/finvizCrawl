@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
+    "fetched_at": "2026-08-05T07:00:07.249498-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI demand pushes Foxconn's monthly revenue to record in July",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "TAIPEI, Aug 5 (Reuters) - Monthly revenue at Taiwanese contract electronics manufacturer Foxconn hit a record in July, surpassing T$900 billion ($27.93 billion) for the first time as strong demand for AI products boosted sales, the company said on Wednesday.\nFoxconn, a major supplier to Nvidia and Apple, said revenue last month rose 54.2% from a year earlier to T$946.5 billion.\nIts cloud and networking products division, which includes AI servers, saw strong growth, benefiting from \"strong pull-in momentum for AI products\", the company said.\nIts smart consumer electronics division, which includes smartphones, also posted strong growth.\n\"Looking ahead to the third quarter, AI rack shipments are expected to maintain growth, and operations will gradually gain momentum as ICT products enter peak season,\" Foxconn said, referring to information and communication technologies.\nThe company expects both quarter-on-quarter and year-on-year growth in the third quarter, but said it remained \"necessary to monitor the impact of the volatile global political and economic situation\".\nFoxconn, formally called Hon Hai Precision Industry, does not provide numerical forecasts.\nThe company is due to report full second-quarter earnings on August 12.\nIts shares closed up 3.4% before the revenue data was released, outperforming the broader market's 2.9% gain.\n($1 = 32.2240 Taiwan dollars)\n(Reporting by Ben Blanchard; Editing by Kate Mayberry and Mark Potter)",
+    "text_blocks": [
+      "TAIPEI, Aug 5 (Reuters) - Monthly revenue at Taiwanese contract electronics manufacturer Foxconn hit a record in July, surpassing T$900 billion ($27.93 billion) for the first time as strong demand for AI products boosted sales, the company said on Wednesday.",
+      "Foxconn, a major supplier to Nvidia and Apple, said revenue last month rose 54.2% from a year earlier to T$946.5 billion.",
+      "Its cloud and networking products division, which includes AI servers, saw strong growth, benefiting from \"strong pull-in momentum for AI products\", the company said.",
+      "Its smart consumer electronics division, which includes smartphones, also posted strong growth.",
+      "\"Looking ahead to the third quarter, AI rack shipments are expected to maintain growth, and operations will gradually gain momentum as ICT products enter peak season,\" Foxconn said, referring to information and communication technologies.",
+      "The company expects both quarter-on-quarter and year-on-year growth in the third quarter, but said it remained \"necessary to monitor the impact of the volatile global political and economic situation\".",
+      "Foxconn, formally called Hon Hai Precision Industry, does not provide numerical forecasts.",
+      "The company is due to report full second-quarter earnings on August 12.",
+      "Its shares closed up 3.4% before the revenue data was released, outperforming the broader market's 2.9% gain.",
+      "($1 = 32.2240 Taiwan dollars)",
+      "(Reporting by Ben Blanchard; Editing by Kate Mayberry and Mark Potter)"
+    ],
+    "html": null
+  }
+}

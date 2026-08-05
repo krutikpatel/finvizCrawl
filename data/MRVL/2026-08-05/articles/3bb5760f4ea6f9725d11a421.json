@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080426/card/momentum-stocks-are-making-a-comeback-dNPg4vP4Nu8tGZRufEo0?mod=bar_FV",
+    "fetched_at": "2026-08-05T07:00:47.441985-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/livecoverage/stock-market-news-today-080426/card/momentum-stocks-are-making-a-comeback-dNPg4vP4Nu8tGZRufEo0?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080426/card/momentum-stocks-are-making-a-comeback-dNPg4vP4Nu8tGZRufEo0?mod=bar_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

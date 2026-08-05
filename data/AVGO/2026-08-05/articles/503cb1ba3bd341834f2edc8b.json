@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/intel-amd-lead-powerful-chip-202713772.html",
+    "fetched_at": "2026-08-05T07:00:28.302865-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nIntel (NASDAQ:INTC), Advanced Micro Devices (NASDAQ:AMD) and Broadcom (NASDAQ:AVGO) climbed Tuesday as investors returned to semiconductor stocks, with Intel leading the group after a sharp decline over the previous month.\nIntel rose more than 10%, while AMD gained about 7% and Broadcom advanced roughly 6%. NVIDIA (NASDAQ:NVDA) also moved higher, adding about 2%. The iShares Semiconductor ETF (SOXX), which tracks major chip companies, gained about 6%.\nIntel's rebound came after its shares had lost about 24% during the prior month. The company's latest quarterly report showed $16.13 billion in revenue, while sales from its Data Center and AI business increased 59% from a year earlier. Intel expects third-quarter revenue between $15.8 billion and $16.8 billion.\nAMD also benefited from continued investor interest in AI-related semiconductor demand. Its data center revenue grew 57% year over year in the latest quarter, while Broadcom has reported higher sales from its AI semiconductor business.\nThe broader move came as market volatility eased and investors shifted toward growth-sensitive technology stocks. NVIDIA's upcoming results could provide another test for sentiment across the semiconductor sector.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Intel (NASDAQ:INTC), Advanced Micro Devices (NASDAQ:AMD) and Broadcom (NASDAQ:AVGO) climbed Tuesday as investors returned to semiconductor stocks, with Intel leading the group after a sharp decline over the previous month.",
+      "Intel rose more than 10%, while AMD gained about 7% and Broadcom advanced roughly 6%. NVIDIA (NASDAQ:NVDA) also moved higher, adding about 2%. The iShares Semiconductor ETF (SOXX), which tracks major chip companies, gained about 6%.",
+      "Intel's rebound came after its shares had lost about 24% during the prior month. The company's latest quarterly report showed $16.13 billion in revenue, while sales from its Data Center and AI business increased 59% from a year earlier. Intel expects third-quarter revenue between $15.8 billion and $16.8 billion.",
+      "AMD also benefited from continued investor interest in AI-related semiconductor demand. Its data center revenue grew 57% year over year in the latest quarter, while Broadcom has reported higher sales from its AI semiconductor business.",
+      "The broader move came as market volatility eased and investors shifted toward growth-sensitive technology stocks. NVIDIA's upcoming results could provide another test for sentiment across the semiconductor sector."
+    ],
+    "html": null
+  }
+}

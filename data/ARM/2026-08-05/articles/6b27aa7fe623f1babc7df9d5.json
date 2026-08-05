@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-struggle-to-rally-chips-hynix-oil-up-fed-decision/card/microsoft-and-meta-platforms-headline-busy-earnings-slate-SfB8MXBPUtsYEVbGkxCV?mod=mw_FV",
+    "fetched_at": "2026-08-05T07:00:44.335385-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-struggle-to-rally-chips-hynix-oil-up-fed-decision/card/microsoft-and-meta-platforms-headline-busy-earnings-slate-SfB8MXBPUtsYEVbGkxCV?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-struggle-to-rally-chips-hynix-oil-up-fed-decision/card/microsoft-and-meta-platforms-headline-busy-earnings-slate-SfB8MXBPUtsYEVbGkxCV?mod=mw_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

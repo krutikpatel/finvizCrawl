@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "run_date": "2026-08-05",
+  "started_at": "2026-08-05T07:00:26.229355-07:00",
+  "finished_at": "2026-08-05T07:00:29.804428-07:00",
+  "timezone": "America/Los_Angeles",
+  "config": {
+    "project": {
+      "name": "finzwiz",
+      "schema_version": "1.0"
+    },
+    "output": {
+      "data_dir": "data",
+      "pretty_json": true
+    },
+    "dedup": {
+      "retention_days": 15,
+      "seen_urls_filename": "seen_urls.jsonl",
+      "compact_on_write": false
+    },
+    "scraping": {
+      "backend": "http",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "timeout_seconds": 30,
+      "retries": 2,
+      "delay_seconds": 1.0,
+      "max_concurrency": 5,
+      "playwright": {
+        "headless": true
+      }
+    },
+    "articles": {
+      "include_raw_html": false,
+      "max_text_chars": 0,
+      "max_articles_per_ticker": 5
+    },
+    "sentiment": {
+      "model": "claude-haiku-4-5-20251001",
+      "max_articles_per_batch": 20,
+      "log_filename": "sentiment_log.jsonl",
+      "summary_filename": "sentiment_summary.json"
+    }
+  },
+  "artifacts": {
+    "finviz_quote": "data/AVGO/2026-08-05/finviz_quote.json",
+    "finviz_news": "data/AVGO/2026-08-05/finviz_news.json",
+    "articles_dir": "data/AVGO/2026-08-05/articles",
+    "dedup_file": "data/AVGO/seen_urls.jsonl",
+    "run_manifest": "data/AVGO/2026-08-05/run_manifest.json"
+  },
+  "stats": {
+    "news_links_total": 100,
+    "news_links_new": 47,
+    "news_links_skipped_recent": 52,
+    "news_links_retry_failed": 1,
+    "articles_fetched_ok": 4,
+    "articles_failed": 1
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/livecoverage/amd-earnings-stock-results-guidance-q2/card/amd-s-stock-ends-the-day-7-higher-heading-into-earnings-YzrkOPYvGSajY5KvA4ua?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/livecoverage/amd-earnings-stock-results-guidance-q2/card/amd-s-stock-ends-the-day-7-higher-heading-into-earnings-YzrkOPYvGSajY5KvA4ua?mod=mw_FV"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-micron-rival-131334478.html",
+    "fetched_at": "2026-08-05T07:00:13.091187-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bank of America Says Micron Rival Is Deeply Mispriced",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSK Hynix (NASDAQ:SKHY) gained sharply Tuesday after Bank of America initiated coverage with a Buy rating and a $250 price target, arguing that the memory-chip maker's leadership in high-bandwidth memory and unusually low valuation create an attractive AI-driven opportunity. Rosenblatt offered an even more bullish $320 target, intensifying Wall Street interest following the company's recent Nasdaq debut.\nSK Hynix is a South Korean semiconductor manufacturer specializing in DRAM, NAND flash and advanced memory used in smartphones, servers and artificial-intelligence systems. Its high-bandwidth memory chips are especially important because they sit alongside AI accelerators and help processors move enormous amounts of data quickly.\nBank of America analyst Simon Woo said SK Hynix benefits from a dominant market position in high-end memory. His $250 target applies a roughly 20% premium to the company's domestically listed shares, reflecting the premium observed after its U.S. listing and valuation differences with rival Micron (NASDAQ:MU) Technology.\nWoo's bullish thesis rests on durable orders from U.S. technology companies, stable memory pricing through 2027 and 2028, and leadership across HBM, LPDDR5 and enterprise solid-state drives. He also expects no severe pricing downturn and highlighted a valuation of roughly four times projected 20272028 earnings.\nRosenblatt analyst Kevin Cassidy separately initiated coverage with a Buy rating and $320 target. He argued that AI demand is making memory less commoditized while rising factory costs and longer construction timelines restrict supply growth.\nWith SKHY trading at a cycle trough, the market is pricing the stock as if memory fundamentals remain unchanged, Cassidy said.\nSK Hynix shares rose 6.2% following the bullish initiations.\nInvestor Takeaway On Sk Hynix\nInvestors should watch HBM market share, customer commitments, average selling prices and manufacturing yields. Continued AI-server demand and disciplined industry capacity could support stronger earnings and justify a higher multiple.\nThe main risks are faster-than-expected supply growth, weakening memory prices or lost HBM business to Samsung (SSNLF) and Micron. SK Hynix must also prove its U.S.-listed shares deserve a lasting premium over the Korean listing. Upcoming earnings should show whether AI demand is translating into sustained margins rather than another short-lived memory cycle.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SK Hynix (NASDAQ:SKHY) gained sharply Tuesday after Bank of America initiated coverage with a Buy rating and a $250 price target, arguing that the memory-chip maker's leadership in high-bandwidth memory and unusually low valuation create an attractive AI-driven opportunity. Rosenblatt offered an even more bullish $320 target, intensifying Wall Street interest following the company's recent Nasdaq debut.",
+      "SK Hynix is a South Korean semiconductor manufacturer specializing in DRAM, NAND flash and advanced memory used in smartphones, servers and artificial-intelligence systems. Its high-bandwidth memory chips are especially important because they sit alongside AI accelerators and help processors move enormous amounts of data quickly.",
+      "Bank of America analyst Simon Woo said SK Hynix benefits from a dominant market position in high-end memory. His $250 target applies a roughly 20% premium to the company's domestically listed shares, reflecting the premium observed after its U.S. listing and valuation differences with rival Micron (NASDAQ:MU) Technology.",
+      "Woo's bullish thesis rests on durable orders from U.S. technology companies, stable memory pricing through 2027 and 2028, and leadership across HBM, LPDDR5 and enterprise solid-state drives. He also expects no severe pricing downturn and highlighted a valuation of roughly four times projected 20272028 earnings.",
+      "Rosenblatt analyst Kevin Cassidy separately initiated coverage with a Buy rating and $320 target. He argued that AI demand is making memory less commoditized while rising factory costs and longer construction timelines restrict supply growth.",
+      "With SKHY trading at a cycle trough, the market is pricing the stock as if memory fundamentals remain unchanged, Cassidy said.",
+      "SK Hynix shares rose 6.2% following the bullish initiations.",
+      "Investor Takeaway On Sk Hynix",
+      "Investors should watch HBM market share, customer commitments, average selling prices and manufacturing yields. Continued AI-server demand and disciplined industry capacity could support stronger earnings and justify a higher multiple.",
+      "The main risks are faster-than-expected supply growth, weakening memory prices or lost HBM business to Samsung (SSNLF) and Micron. SK Hynix must also prove its U.S.-listed shares deserve a lasting premium over the Korean listing. Upcoming earnings should show whether AI demand is translating into sustained margins rather than another short-lived memory cycle."
+    ],
+    "html": null
+  }
+}

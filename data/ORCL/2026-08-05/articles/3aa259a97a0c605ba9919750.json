@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-hits-troubling-level-not-200553163.html",
+    "fetched_at": "2026-08-05T07:00:20.423094-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Hits Troubling Level Not Seen Since 2008",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) is facing its sharpest credit warning on record as the cost of insuring its debt against default rises above levels reached during the 2008 financial crisis. The surge signals that bond investors are increasingly questioning whether Oracle's debt-funded artificial-intelligence expansion can generate cash quickly enough to justify its growing financial commitments.\nOracle is one of the world's largest enterprise-software companies, selling databases, cloud infrastructure and business applications. Its strategy has shifted increasingly toward cloud computing, where the company is spending heavily on data centers and advanced chips to support AI workloads.\nBloomberg data show Oracle's five-year credit default swap spread has reached an all-time high. Credit default swaps act as insurance against a borrower failing to repay its debt, meaning a wider spread reflects a higher perceived risk of default.\nThe move does not mean investors expect Oracle to collapse. It does, however, show that lenders are demanding greater compensation for taking exposure to the company's balance sheet.\nOracle has committed billions of dollars to expanding cloud capacity as demand for AI computing accelerates. That spending could strengthen its competitive position against Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT) and Google (NASDAQ:GOOG), but data centers require enormous upfront capital and may take years to deliver acceptable returns.\nThe market is already punishing that uncertainty. Oracle shares are down 27% this year and nearly 44% over the past 12 months as investors reassess its leverage, capital-spending plans and ability to convert AI demand into durable free cash flow.\nInvestor Takeaway On Oracle Stock\nInvestors should focus less on headline cloud bookings and more on how quickly contracted demand becomes revenue and cash. Key measures include capital spending, free cash flow, interest expense, debt growth and cloud infrastructure margins.\nThe credit outlook could improve if Oracle shows stronger cash conversion, moderates borrowing or demonstrates that new capacity is filling rapidly. It could worsen if construction costs rise, customer deployments are delayed or additional debt is required. Oracle's next earnings report must therefore provide clearer evidence that its AI buildout is strengthening, rather than straining, the balance sheet.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) is facing its sharpest credit warning on record as the cost of insuring its debt against default rises above levels reached during the 2008 financial crisis. The surge signals that bond investors are increasingly questioning whether Oracle's debt-funded artificial-intelligence expansion can generate cash quickly enough to justify its growing financial commitments.",
+      "Oracle is one of the world's largest enterprise-software companies, selling databases, cloud infrastructure and business applications. Its strategy has shifted increasingly toward cloud computing, where the company is spending heavily on data centers and advanced chips to support AI workloads.",
+      "Bloomberg data show Oracle's five-year credit default swap spread has reached an all-time high. Credit default swaps act as insurance against a borrower failing to repay its debt, meaning a wider spread reflects a higher perceived risk of default.",
+      "The move does not mean investors expect Oracle to collapse. It does, however, show that lenders are demanding greater compensation for taking exposure to the company's balance sheet.",
+      "Oracle has committed billions of dollars to expanding cloud capacity as demand for AI computing accelerates. That spending could strengthen its competitive position against Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT) and Google (NASDAQ:GOOG), but data centers require enormous upfront capital and may take years to deliver acceptable returns.",
+      "The market is already punishing that uncertainty. Oracle shares are down 27% this year and nearly 44% over the past 12 months as investors reassess its leverage, capital-spending plans and ability to convert AI demand into durable free cash flow.",
+      "Investor Takeaway On Oracle Stock",
+      "Investors should focus less on headline cloud bookings and more on how quickly contracted demand becomes revenue and cash. Key measures include capital spending, free cash flow, interest expense, debt growth and cloud infrastructure margins.",
+      "The credit outlook could improve if Oracle shows stronger cash conversion, moderates borrowing or demonstrates that new capacity is filling rapidly. It could worsen if construction costs rise, customer deployments are delayed or additional debt is required. Oracle's next earnings report must therefore provide clearer evidence that its AI buildout is strengthening, rather than straining, the balance sheet."
+    ],
+    "html": null
+  }
+}

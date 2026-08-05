@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/5bcf5573-f407-3c4a-aa69-28ff16ed1fe8/us-court-overturns-amazon.html",
+    "fetched_at": "2026-08-05T07:00:37.620080-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US court overturns Amazon injunction against Perplexity AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A US appeals court has overturned an injunction that had temporarily stopped Perplexity from using its AI-powered shopping tools on Amazon's platform.\nThe dispute centres on Perplexity's Comet browser, whose AI assistant allows users to carry out tasks, including shopping on Amazon.\nThe US Court of Appeals for the Ninth Circuit vacated a preliminary injunction that had barred Perplexity AI from operating its AI-powered Comet browser on Amazon.\nThe court found that the e-commerce company is unlikely to succeed in its claims under federal and California computer access laws.\nThe San Francisco-based court said Amazon was unlikely to show that Perplexity's AI agents breached either the federal Computer Fraud and Abuse Act (CFAA) or California's Comprehensive Computer Data Access and Fraud Act (CDAFA).\nA three-judge panel found that, on the current record, Perplexity itself did not access Amazon's computer systems.\nThe judges said Amazon's website is accessed by users, while Perplexity's AI Assistant operates as a tool acting on the user's instructions.\nThe court made the same finding on Amazon's CDAFA claim, stating that the company was also unlikely to succeed on that allegation.\nThe panel also said the other conditions for granting a preliminary injunction, including irreparable harm, the balance of equities and the public interest, favoured Perplexity.\nIt said an injunction would place an unnecessary burden on the company and restrict the development of emerging AI technology.\nAmazon brought the lawsuit against Perplexity in November 2025, alleging breaches of the CFAA and CDAFA after objecting to the AI agent's interaction with its platform.\nA district court granted Amazon a preliminary injunction in March 2026, though the Ninth Circuit later stayed that order while it reviewed the appeal.\nThe appeals court said its ruling is limited to the factual record currently before it and does not set broader legal principles regarding agentic AI or possible liability in other legal contexts.\nThe case has been sent back to the US District Court for the Northern District of California for further proceedings in line with the Ninth Circuit's ruling.\nIn a separate development, New Jersey Attorney General Jennifer Davenport has filed an antitrust lawsuit against Amazon, Amazon Services and Amazon Logistics in the US District Court for the District of New Jersey.\nThe complaint alleges that the company unlawfully used monopsony power over its delivery service partner (DSP) network to suppress wages, worsen working conditions and limit competition.",
+    "text_blocks": [
+      "A US appeals court has overturned an injunction that had temporarily stopped Perplexity from using its AI-powered shopping tools on Amazon's platform.",
+      "The dispute centres on Perplexity's Comet browser, whose AI assistant allows users to carry out tasks, including shopping on Amazon.",
+      "The US Court of Appeals for the Ninth Circuit vacated a preliminary injunction that had barred Perplexity AI from operating its AI-powered Comet browser on Amazon.",
+      "The court found that the e-commerce company is unlikely to succeed in its claims under federal and California computer access laws.",
+      "The San Francisco-based court said Amazon was unlikely to show that Perplexity's AI agents breached either the federal Computer Fraud and Abuse Act (CFAA) or California's Comprehensive Computer Data Access and Fraud Act (CDAFA).",
+      "A three-judge panel found that, on the current record, Perplexity itself did not access Amazon's computer systems.",
+      "The judges said Amazon's website is accessed by users, while Perplexity's AI Assistant operates as a tool acting on the user's instructions.",
+      "The court made the same finding on Amazon's CDAFA claim, stating that the company was also unlikely to succeed on that allegation.",
+      "The panel also said the other conditions for granting a preliminary injunction, including irreparable harm, the balance of equities and the public interest, favoured Perplexity.",
+      "It said an injunction would place an unnecessary burden on the company and restrict the development of emerging AI technology.",
+      "Amazon brought the lawsuit against Perplexity in November 2025, alleging breaches of the CFAA and CDAFA after objecting to the AI agent's interaction with its platform.",
+      "A district court granted Amazon a preliminary injunction in March 2026, though the Ninth Circuit later stayed that order while it reviewed the appeal.",
+      "The appeals court said its ruling is limited to the factual record currently before it and does not set broader legal principles regarding agentic AI or possible liability in other legal contexts.",
+      "The case has been sent back to the US District Court for the Northern District of California for further proceedings in line with the Ninth Circuit's ruling.",
+      "In a separate development, New Jersey Attorney General Jennifer Davenport has filed an antitrust lawsuit against Amazon, Amazon Services and Amazon Logistics in the US District Court for the District of New Jersey.",
+      "The complaint alleges that the company unlawfully used monopsony power over its delivery service partner (DSP) network to suppress wages, worsen working conditions and limit competition."
+    ],
+    "html": null
+  }
+}

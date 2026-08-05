@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-purchase-commitments-jump-28-134506846.html",
+    "fetched_at": "2026-08-05T07:00:07.746764-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple’s purchase commitments jump 28%; BofA sees iPhone ramp ahead",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Bank of America reiterated a Buy rating and $380 price target on Apple in a note Wednesday, pointing to a sharp jump in manufacturing purchase commitments that it reads as a sign of an iPhone production ramp and component stockpiling.\nAnalyst Wamsi Mohan told investors that Apple's purchase commitments rose 28% quarter over quarter in fiscal third quarter to $57 billion, up from $44.6 billion, a bigger increase than the \"flat reading in the March quarter\" and above the 15% and 12% quarter-over-quarter gains seen in the same period of the prior two years.\nMohan added that the outsized move is \"potentially due to Apple buying components (including memory) to ensure supply and protect itself from higher prices,\" and expects commitments to rise further into the fourth quarter as Apple stocks up for the new iPhone launch.\nBofA noted Apple added a new risk factor flagging exposure to component availability and computing constraints.\nThe company said it faces \"industry-wide supply shortages and cost inflation\" in advanced semiconductors, NAND and DRAM, warning pricing actions may not fully offset the impact. Apple also emphasized that constrained access to compute could delay AI feature rollouts.\nMohan highlighted continued strong capital returns, with Apple returning more than $29.8 billion to shareholders in the quarter, including $25.8 billion of buybacks and $4 billion in dividends.\nThe analyst maintained his Buy rating on strong capital returns, Apple as an \"eventual winner on AI at the edge,\" and optionality from new products.\nRelated articles\nApple's purchase commitments jump 28%; BofA sees iPhone ramp ahead\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "Investing.com -- Bank of America reiterated a Buy rating and $380 price target on Apple in a note Wednesday, pointing to a sharp jump in manufacturing purchase commitments that it reads as a sign of an iPhone production ramp and component stockpiling.",
+      "Analyst Wamsi Mohan told investors that Apple's purchase commitments rose 28% quarter over quarter in fiscal third quarter to $57 billion, up from $44.6 billion, a bigger increase than the \"flat reading in the March quarter\" and above the 15% and 12% quarter-over-quarter gains seen in the same period of the prior two years.",
+      "Mohan added that the outsized move is \"potentially due to Apple buying components (including memory) to ensure supply and protect itself from higher prices,\" and expects commitments to rise further into the fourth quarter as Apple stocks up for the new iPhone launch.",
+      "BofA noted Apple added a new risk factor flagging exposure to component availability and computing constraints.",
+      "The company said it faces \"industry-wide supply shortages and cost inflation\" in advanced semiconductors, NAND and DRAM, warning pricing actions may not fully offset the impact. Apple also emphasized that constrained access to compute could delay AI feature rollouts.",
+      "Mohan highlighted continued strong capital returns, with Apple returning more than $29.8 billion to shareholders in the quarter, including $25.8 billion of buybacks and $4 billion in dividends.",
+      "The analyst maintained his Buy rating on strong capital returns, Apple as an \"eventual winner on AI at the edge,\" and optionality from new products.",
+      "Related articles",
+      "Apple's purchase commitments jump 28%; BofA sees iPhone ramp ahead",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}
