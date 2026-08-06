@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=META",
+    "fetched_at": "2026-08-06T07:00:07.940405-07:00"
+  },
+  "company": {
+    "name": "Meta Platforms Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 593.54,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "1512.05B",
+    "Enterprise Value": "1533.40B",
+    "Income": "68.10B",
+    "Sales": "228.25B",
+    "Book/sh": "102.52",
+    "Cash/sh": "35.71",
+    "Dividend Est.": "1.92 (0.32%)",
+    "Dividend TTM": "2.10 (0.35%)",
+    "Dividend Ex-Date": "Jun 15, 2026",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "8.94%",
+    "Employees": "78865",
+    "IPO": "May 18, 2012"
+  },
+  "raw": null
+}

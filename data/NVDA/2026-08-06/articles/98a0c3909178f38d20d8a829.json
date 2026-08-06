@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-17-6-124347156.html",
+    "fetched_at": "2026-08-06T07:00:39.467583-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Makes $17.6 Million Bet on Red-Hot AI Chip Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) was also among Cathie Wood's largest purchases on Wednesday, with ARK Invest acquiring 80,415 shares worth about $17.6 million across multiple ETFs.\nThe buying followed another strong session for Nvidia shares as investors continued to favor AI-related semiconductor companies. Demand for the company's graphics processors has remained supported by spending from cloud providers, AI developers and enterprise customers building large-scale computing infrastructure.\nARK has steadily increased its Nvidia exposure in recent weeks, reflecting continued confidence that AI infrastructure investment could remain a key driver of the chipmaker's revenue growth despite its recent gains. The latest purchase came as the firm rotated capital away from several other technology holdings while increasing exposure to AI and space-related companies.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) was also among Cathie Wood's largest purchases on Wednesday, with ARK Invest acquiring 80,415 shares worth about $17.6 million across multiple ETFs.",
+      "The buying followed another strong session for Nvidia shares as investors continued to favor AI-related semiconductor companies. Demand for the company's graphics processors has remained supported by spending from cloud providers, AI developers and enterprise customers building large-scale computing infrastructure.",
+      "ARK has steadily increased its Nvidia exposure in recent weeks, reflecting continued confidence that AI infrastructure investment could remain a key driver of the chipmaker's revenue growth despite its recent gains. The latest purchase came as the firm rotated capital away from several other technology holdings while increasing exposure to AI and space-related companies."
+    ],
+    "html": null
+  }
+}

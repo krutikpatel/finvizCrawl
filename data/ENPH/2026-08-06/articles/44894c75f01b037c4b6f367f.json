@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
+    "fetched_at": "2026-08-06T07:00:15.301224-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSolarEdge Technologies (NASDAQ:SEDG) led a broad decline among solar stocks Wednesday after its forecast for third-quarter revenue came in below Wall Street expectations, overshadowing better-than-expected second-quarter earnings.\nSolarEdge shares fell more than 20% in Wednesday trading. The decline also weighed on other solar names, with First Solar (NASDAQ:FSLR), Enphase Energy (ENPH), Fluence Energy (NASDAQ:FLNC), Array Technologies (ARRY) and Sunrun (RUN) also trading lower.\nSolarEdge reported a second-quarter net loss of $30.8 million, or 50 cents a share, compared with a loss of $124.7 million, or $2.13 a share, a year earlier. Revenue increased 19.6% to $346.2 million, while gross margin improved to 27.5% from 11.1%.\nThe outlook was less encouraging. SolarEdge expects third-quarter revenue between $310 million and $340 million, below the $368 million analyst consensus. The company also projects gross margin of 22% to 26%, pointing to continued pressure on profitability.\nThe latest move leaves investors weighing SolarEdge's improved recent results against a forecast that suggests the recovery may remain uneven. The company's shares had gained 27% this year before Wednesday's selloff.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SolarEdge Technologies (NASDAQ:SEDG) led a broad decline among solar stocks Wednesday after its forecast for third-quarter revenue came in below Wall Street expectations, overshadowing better-than-expected second-quarter earnings.",
+      "SolarEdge shares fell more than 20% in Wednesday trading. The decline also weighed on other solar names, with First Solar (NASDAQ:FSLR), Enphase Energy (ENPH), Fluence Energy (NASDAQ:FLNC), Array Technologies (ARRY) and Sunrun (RUN) also trading lower.",
+      "SolarEdge reported a second-quarter net loss of $30.8 million, or 50 cents a share, compared with a loss of $124.7 million, or $2.13 a share, a year earlier. Revenue increased 19.6% to $346.2 million, while gross margin improved to 27.5% from 11.1%.",
+      "The outlook was less encouraging. SolarEdge expects third-quarter revenue between $310 million and $340 million, below the $368 million analyst consensus. The company also projects gross margin of 22% to 26%, pointing to continued pressure on profitability.",
+      "The latest move leaves investors weighing SolarEdge's improved recent results against a forecast that suggests the recovery may remain uneven. The company's shares had gained 27% this year before Wednesday's selloff."
+    ],
+    "html": null
+  }
+}

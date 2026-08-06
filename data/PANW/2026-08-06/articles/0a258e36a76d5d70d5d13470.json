@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/china-launches-cybersecurity-review-palo-110911294.html",
+    "fetched_at": "2026-08-06T07:00:47.957096-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "China launches cybersecurity review into Palo Alto Networks products",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Eduardo Baptista\nBEIJING, Aug 6 (Reuters) - China has launched a cybersecurity review of products sold in the country by U.S. company Palo Alto Networks, citing risks to critical information infrastructure and national security, the country's cyberspace regulator said on Thursday.\nThe Cyberspace Administration of China (CAC) said the review was initiated under China's national security and cybersecurity laws. It did not identify the products involved, detail alleged vulnerabilities or say what action Palo Alto could face.\nBeijing has stepped up scrutiny of foreign technology suppliers while promoting domestic alternatives, saying imported products used in sensitive networks could expose data or critical infrastructure to overseas risks.\nThe move comes amid growing trade and technology tensions between Beijing and Washington that have threatened an uneasy truce achieved at recent high-level bilateral summits.\nChina's commerce ministry announced on Wednesday a raft of restrictions on U.S. companies and U.S.-bound drone exports, describing them as countermeasures to Washington's recent curbs on Chinese companies' access to the U.S. market.\nThe CAC did not say whether the Palo Alto review was linked to the commerce ministry's measures.\nPalo Alto, which is headquartered in Santa Clara, California, did not immediately respond to a request for comment.\nIn January, Chinese authorities told domestic companies to stop using cybersecurity software from more than a dozen U.S. and Israeli companies, including Palo Alto, Reuters reported at the time.\nThe regulator's latest action echoes its 2023 review of U.S. memory-chip maker Micron Technology. The CAC later said Micron's products had failed the review and told operators of China's critical information infrastructure to stop buying them, citing national security risks.\nMicron has since stopped supplying server chips to data centres in China after the business failed to recover from the ban, Reuters reported in October. It continues to sell to some Chinese customers, including in the automotive and mobile-phone sectors.\nPalo Alto sells network, cloud and other cybersecurity products and has offices in Beijing, Shanghai, Guangzhou, Shenzhen and Macau, according to its website.\nIt does not separately disclose China revenue or market share, reporting sales from the country as part of its broader Asia-Pacific and Japan region.\n(Reporting by Eduardo Baptista, Farah Master and the Beijing newsroom; Editing by Toby Chopra and Emelia Sithole-Matarise)",
+    "text_blocks": [
+      "By Eduardo Baptista",
+      "BEIJING, Aug 6 (Reuters) - China has launched a cybersecurity review of products sold in the country by U.S. company Palo Alto Networks, citing risks to critical information infrastructure and national security, the country's cyberspace regulator said on Thursday.",
+      "The Cyberspace Administration of China (CAC) said the review was initiated under China's national security and cybersecurity laws. It did not identify the products involved, detail alleged vulnerabilities or say what action Palo Alto could face.",
+      "Beijing has stepped up scrutiny of foreign technology suppliers while promoting domestic alternatives, saying imported products used in sensitive networks could expose data or critical infrastructure to overseas risks.",
+      "The move comes amid growing trade and technology tensions between Beijing and Washington that have threatened an uneasy truce achieved at recent high-level bilateral summits.",
+      "China's commerce ministry announced on Wednesday a raft of restrictions on U.S. companies and U.S.-bound drone exports, describing them as countermeasures to Washington's recent curbs on Chinese companies' access to the U.S. market.",
+      "The CAC did not say whether the Palo Alto review was linked to the commerce ministry's measures.",
+      "Palo Alto, which is headquartered in Santa Clara, California, did not immediately respond to a request for comment.",
+      "In January, Chinese authorities told domestic companies to stop using cybersecurity software from more than a dozen U.S. and Israeli companies, including Palo Alto, Reuters reported at the time.",
+      "The regulator's latest action echoes its 2023 review of U.S. memory-chip maker Micron Technology. The CAC later said Micron's products had failed the review and told operators of China's critical information infrastructure to stop buying them, citing national security risks.",
+      "Micron has since stopped supplying server chips to data centres in China after the business failed to recover from the ban, Reuters reported in October. It continues to sell to some Chinese customers, including in the automotive and mobile-phone sectors.",
+      "Palo Alto sells network, cloud and other cybersecurity products and has offices in Beijing, Shanghai, Guangzhou, Shenzhen and Macau, according to its website.",
+      "It does not separately disclose China revenue or market share, reporting sales from the country as part of its broader Asia-Pacific and Japan region.",
+      "(Reporting by Eduardo Baptista, Farah Master and the Beijing newsroom; Editing by Toby Chopra and Emelia Sithole-Matarise)"
+    ],
+    "html": null
+  }
+}

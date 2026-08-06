@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/87233a5f-7d02-3932-b0dc-ee50df5cda77/blackstone-pitches-%2436.html",
+    "fetched_at": "2026-08-06T07:00:33.902953-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Blackstone pitches $36 billion debt deal for Anthropic AI chips",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "According to Bloomberg, Blackstone has been sounding out investors in preliminary talks about a potential second major debt financing tied to Anthropic's consumption of Google chips. One initial proposal set the figure at $36 billion, which would surpass the $35 billion deal that Apollo Global Management and Blackstone completed roughly two months ago.\nThe terms of any agreement — including its total amount, how it would be organized, and who would front it — have not been settled and remain subject to change, per people who spoke on condition of anonymity.\nBloomberg characterized the earlier $35 billion arrangement as among the most significant private credit deals ever assembled; it was designed to finance Anthropic's use of Google's custom chips at five data center locations. Broadcom, Apollo, and Blackstone assembled that deal through a partnership called the AI XPV Platform. Broadcom provided payment support on the top-ranking senior tranches of the debt.\nThat first deal was structured around a special-purpose vehicle that would acquire Google's custom tensor processing units and lease them back to Anthropic, keeping the associated debt off Anthropic's own balance sheet. The debt was divided into approximately $6 billion of A1 notes, $25 billion of A2 notes, and $4.5 billion of B notes, with Broadcom providing residual value support on the senior tranches. Draws on the financing were set to occur in stages tied to chip deliveries and the start of Anthropic's lease agreements.\nThe new financing proposal arrives as Anthropic has filed confidentially for an initial public offering in the United States. The Claude maker is attempting to reach public markets ahead of rival OpenAI. According to Benzinga, banks leading the offering have been arranging investor meetings, with the company targeting an IPO as early as October. Morgan Stanley, Goldman Sachs, and JPMorgan Chase are working on the process, according to Benzinga.\nRepresentatives for Blackstone, Apollo, Anthropic, and Google declined to comment.",
+    "text_blocks": [
+      "According to Bloomberg, Blackstone has been sounding out investors in preliminary talks about a potential second major debt financing tied to Anthropic's consumption of Google chips. One initial proposal set the figure at $36 billion, which would surpass the $35 billion deal that Apollo Global Management and Blackstone completed roughly two months ago.",
+      "The terms of any agreement — including its total amount, how it would be organized, and who would front it — have not been settled and remain subject to change, per people who spoke on condition of anonymity.",
+      "Bloomberg characterized the earlier $35 billion arrangement as among the most significant private credit deals ever assembled; it was designed to finance Anthropic's use of Google's custom chips at five data center locations. Broadcom, Apollo, and Blackstone assembled that deal through a partnership called the AI XPV Platform. Broadcom provided payment support on the top-ranking senior tranches of the debt.",
+      "That first deal was structured around a special-purpose vehicle that would acquire Google's custom tensor processing units and lease them back to Anthropic, keeping the associated debt off Anthropic's own balance sheet. The debt was divided into approximately $6 billion of A1 notes, $25 billion of A2 notes, and $4.5 billion of B notes, with Broadcom providing residual value support on the senior tranches. Draws on the financing were set to occur in stages tied to chip deliveries and the start of Anthropic's lease agreements.",
+      "The new financing proposal arrives as Anthropic has filed confidentially for an initial public offering in the United States. The Claude maker is attempting to reach public markets ahead of rival OpenAI. According to Benzinga, banks leading the offering have been arranging investor meetings, with the company targeting an IPO as early as October. Morgan Stanley, Goldman Sachs, and JPMorgan Chase are working on the process, according to Benzinga.",
+      "Representatives for Blackstone, Apollo, Anthropic, and Google declined to comment."
+    ],
+    "html": null
+  }
+}

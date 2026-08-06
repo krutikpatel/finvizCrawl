@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/alphabet-seeks-25-billion-latest-124938063.html",
+    "fetched_at": "2026-08-06T07:00:20.674856-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet seeks up to $25 billion from its latest bond sale, Bloomberg News reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 6 (Reuters) - Alphabet is looking to raise as much as $25 billion from its latest U.S. bond offering, Bloomberg News reported on Thursday, citing people familiar with the matter, weeks after the tech giant's 2026 capital spending outlook triggered a steep selloff.\nThe company is offering notes in as many as 10 parts, a regulatory filing showed on Thursday. The maturities on the notes range from two to 40 years, Bloomberg reported.\nReuters could not immediately verify details on the offering. Alphabet did not immediately comment on the size of the offering.\nThe debt raise is the latest in a series of moves by tech giants looking to fund their costly AI spending, a shift in strategy for these companies that have typically relied on their large cash reserves to fund investments.\nHyperscalers Amazon, Alphabet, Meta and Oracle issued about $194 billion worth of bonds in 2026 through July 7, up 79% from roughly $108 billion in 2025, a Reuters analysis of LSEG data showed last month.\nBig Tech is expected to spend more than $730 billion this year primarily on AI, and the massive outlay is already squeezing cash flows. Alphabet late in July posted its first ever negative free cash flow in its second-quarter report.\nIt also raised its annual capital expenditure forecast for the second time this year, fanning fears over the pace of returns on its AI investments, especially as concerns mount over delays to its flagship AI model.\nAlphabet in June announced an $80 billion raise through equity offerings, including an investment from Berkshire Hathaway, and later increased the offering size to nearly $85 billion due to strong investor appetite.\nThe company has also sold bonds in Japanese yen, Swiss francs and British pounds - including a rare 100-year bond earlier this year.\n(Reporting by Deborah Sophia in Bengaluru; Editing by Arun Koyyur)",
+    "text_blocks": [
+      "Aug 6 (Reuters) - Alphabet is looking to raise as much as $25 billion from its latest U.S. bond offering, Bloomberg News reported on Thursday, citing people familiar with the matter, weeks after the tech giant's 2026 capital spending outlook triggered a steep selloff.",
+      "The company is offering notes in as many as 10 parts, a regulatory filing showed on Thursday. The maturities on the notes range from two to 40 years, Bloomberg reported.",
+      "Reuters could not immediately verify details on the offering. Alphabet did not immediately comment on the size of the offering.",
+      "The debt raise is the latest in a series of moves by tech giants looking to fund their costly AI spending, a shift in strategy for these companies that have typically relied on their large cash reserves to fund investments.",
+      "Hyperscalers Amazon, Alphabet, Meta and Oracle issued about $194 billion worth of bonds in 2026 through July 7, up 79% from roughly $108 billion in 2025, a Reuters analysis of LSEG data showed last month.",
+      "Big Tech is expected to spend more than $730 billion this year primarily on AI, and the massive outlay is already squeezing cash flows. Alphabet late in July posted its first ever negative free cash flow in its second-quarter report.",
+      "It also raised its annual capital expenditure forecast for the second time this year, fanning fears over the pace of returns on its AI investments, especially as concerns mount over delays to its flagship AI model.",
+      "Alphabet in June announced an $80 billion raise through equity offerings, including an investment from Berkshire Hathaway, and later increased the offering size to nearly $85 billion due to strong investor appetite.",
+      "The company has also sold bonds in Japanese yen, Swiss francs and British pounds - including a rare 100-year bond earlier this year.",
+      "(Reporting by Deborah Sophia in Bengaluru; Editing by Arun Koyyur)"
+    ],
+    "html": null
+  }
+}

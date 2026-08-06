@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-asks-judge-toss-apple-060750670.html",
+    "fetched_at": "2026-08-06T07:00:06.307487-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker's allegations are meritless.\nMost Read from Bloomberg\n-\nSpaceX's AI Splurge Puts a Damper on First Earnings After IPO\n-\nMicrosoft's AI Sales Mostly Come From OpenAI, Disclosures Show\n-\nMajor Hedge Funds Targeted in Wave of Attempted Cyberattacks\nLawyers for OpenAI said that Apple's suit falsely portrays the actions of the startup's employees. The ChatGPT maker's top hardware executive acted in line with industrywide recruiting standards when interviewing Apple employees and a worker accused of theft was actually trying to assist a former colleague at Apple, they said.\n\"Plainly filed without adequate investigation and built on selectively excerpted communications and ordinary conduct stripped of context, Apple's complaint is — to borrow its own phrase — 'rotten to its core,'\" OpenAI said in a court filing late Wednesday. \"Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its shortcomings in the market for talent.\"\nThe filing, which alleges failures on Apple's part to integrate AI into its products, also said that the suit \"recasts the benign, lawful conduct of former employees — who in many of the cited instances were in fact trying to help Apple, at Apple's request, by making sure their former colleagues' work could continue without them — as theft of so-called trade secrets.\"\nThe move is a response to the suit Apple filed against OpenAI and Tang Tan, the AI company's chief hardware officer, in July. Having collaborated over the course of two years on a partnership that integrated ChatGPT directly into iPhone, iPad and Mac software, the two companies cooled on the relationship in recent times. The hardware company alleged OpenAI orchestrated a campaign to steal trade secrets via job candidates and hires from Apple.\nThe filing came a day after Apple asked the judge to order OpenAI to stop using what it calls stolen trade secrets, and to force the company to return any confidential information to Apple. The order, if approved, would stay in place while Apple's lawsuit plays out.\nOpenAI has supplied vital technology to the Apple Intelligence platform and Siri digital assistant. But tensions have been growing for the past year — worsened by OpenAI enlisting former Apple design visionary Jony Ive to help develop devices. The AI company has hired more than 400 former Apple employees, according to the suit.",
+    "text_blocks": [
+      "(Bloomberg) -- OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker's allegations are meritless.",
+      "Most Read from Bloomberg",
+      "-",
+      "SpaceX's AI Splurge Puts a Damper on First Earnings After IPO",
+      "-",
+      "Microsoft's AI Sales Mostly Come From OpenAI, Disclosures Show",
+      "-",
+      "Major Hedge Funds Targeted in Wave of Attempted Cyberattacks",
+      "Lawyers for OpenAI said that Apple's suit falsely portrays the actions of the startup's employees. The ChatGPT maker's top hardware executive acted in line with industrywide recruiting standards when interviewing Apple employees and a worker accused of theft was actually trying to assist a former colleague at Apple, they said.",
+      "\"Plainly filed without adequate investigation and built on selectively excerpted communications and ordinary conduct stripped of context, Apple's complaint is — to borrow its own phrase — 'rotten to its core,'\" OpenAI said in a court filing late Wednesday. \"Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its shortcomings in the market for talent.\"",
+      "The filing, which alleges failures on Apple's part to integrate AI into its products, also said that the suit \"recasts the benign, lawful conduct of former employees — who in many of the cited instances were in fact trying to help Apple, at Apple's request, by making sure their former colleagues' work could continue without them — as theft of so-called trade secrets.\"",
+      "The move is a response to the suit Apple filed against OpenAI and Tang Tan, the AI company's chief hardware officer, in July. Having collaborated over the course of two years on a partnership that integrated ChatGPT directly into iPhone, iPad and Mac software, the two companies cooled on the relationship in recent times. The hardware company alleged OpenAI orchestrated a campaign to steal trade secrets via job candidates and hires from Apple.",
+      "The filing came a day after Apple asked the judge to order OpenAI to stop using what it calls stolen trade secrets, and to force the company to return any confidential information to Apple. The order, if approved, would stay in place while Apple's lawsuit plays out.",
+      "OpenAI has supplied vital technology to the Apple Intelligence platform and Siri digital assistant. But tensions have been growing for the past year — worsened by OpenAI enlisting former Apple design visionary Jony Ive to help develop devices. The AI company has hired more than 400 former Apple employees, according to the suit."
+    ],
+    "html": null
+  }
+}

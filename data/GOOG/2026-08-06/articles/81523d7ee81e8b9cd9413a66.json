@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-mirendil-inks-100m-google-130000673.html",
+    "fetched_at": "2026-08-06T07:00:23.437275-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AI lab Mirendil has signed a multi-year partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned.\nThe deal mirrors two trends shaping the AI industry: cloud giants are courting startups with huge infrastructure commitments, and AI companies are snatching up as many compute deals as they can to secure access as they scale.\nThe deal is worth upwards of $100 million, Mirendil's co-founder and CEO, Behnam Neyshabur, told TechCrunch. That's roughly half of what Mirendil raised in seed funding at a $1 billion valuation in late June.\nThe deal gives the startup access to both Google's TPUs and Nvidia GPUs, as well as managed training clusters with which Mirendil will work on its self-improving AI. The startup hopes its AI will eventually be able to take on the work of an entire frontier AI lab.\nSelf-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves. It's a concept that major labs like Anthropic, where Mirendil's co-founders hail from, have been working on. A handful of startups like Recursive Superintelligence and Ricursive Intelligence have also recently sprung up around achieving that goal.\nMirendil believes this process will automate a lot of scientific and AI research, helping scientists make progress in fields like medicine, biology, and materials science.\nNeyshabur thinks AI can mimic how human scientists can learn more about new domains, accumulate knowledge and expertise, and gradually improve their performance. \"You can have a self-improving AI where you can point a problem at it and it keeps getting better with time,\" he said.\n\"How can we have an AI system that keeps doing research, keeps improving its own knowledge and performance when it comes to Alzheimer's disease?\" he continued. \"This technology allows us to set goals that are ambitious for AI, and the AI would keep making progress.\"\nTraining self-improving AI, however, requires enormous amounts of computing power. The lab's co-founder Harsh Mehta said training is increasingly about matching the right workloads to the right hardware.\n\"These models are really good at working with different workloads and chips, and assigning the right workloads to the right chips,\" Mehta said. \"[Google] provides multiple kinds of chips […] this flexibility allows us to ultimately mix and match workloads with the right kind of accelerators, and then lower the cost not just for us, but also for our customers using our systems.\"",
+    "text_blocks": [
+      "AI lab Mirendil has signed a multi-year partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned.",
+      "The deal mirrors two trends shaping the AI industry: cloud giants are courting startups with huge infrastructure commitments, and AI companies are snatching up as many compute deals as they can to secure access as they scale.",
+      "The deal is worth upwards of $100 million, Mirendil's co-founder and CEO, Behnam Neyshabur, told TechCrunch. That's roughly half of what Mirendil raised in seed funding at a $1 billion valuation in late June.",
+      "The deal gives the startup access to both Google's TPUs and Nvidia GPUs, as well as managed training clusters with which Mirendil will work on its self-improving AI. The startup hopes its AI will eventually be able to take on the work of an entire frontier AI lab.",
+      "Self-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves. It's a concept that major labs like Anthropic, where Mirendil's co-founders hail from, have been working on. A handful of startups like Recursive Superintelligence and Ricursive Intelligence have also recently sprung up around achieving that goal.",
+      "Mirendil believes this process will automate a lot of scientific and AI research, helping scientists make progress in fields like medicine, biology, and materials science.",
+      "Neyshabur thinks AI can mimic how human scientists can learn more about new domains, accumulate knowledge and expertise, and gradually improve their performance. \"You can have a self-improving AI where you can point a problem at it and it keeps getting better with time,\" he said.",
+      "\"How can we have an AI system that keeps doing research, keeps improving its own knowledge and performance when it comes to Alzheimer's disease?\" he continued. \"This technology allows us to set goals that are ambitious for AI, and the AI would keep making progress.\"",
+      "Training self-improving AI, however, requires enormous amounts of computing power. The lab's co-founder Harsh Mehta said training is increasingly about matching the right workloads to the right hardware.",
+      "\"These models are really good at working with different workloads and chips, and assigning the right workloads to the right chips,\" Mehta said. \"[Google] provides multiple kinds of chips […] this flexibility allows us to ultimately mix and match workloads with the right kind of accelerators, and then lower the cost not just for us, but also for our customers using our systems.\""
+    ],
+    "html": null
+  }
+}

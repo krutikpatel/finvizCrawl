@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-largest-india-data-123312683.html",
+    "fetched_at": "2026-08-06T07:00:29.260699-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft opens its largest India data center hub as AI race heats up",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 6 (Reuters) - Microsoft launched its largest India data center in Hyderabad on Thursday and has signed up Adani Group and HDFC Bank among early users as it races rivals for the country's fast-growing AI market.\nThe India South Central facility brings Microsoft's cloud regions in India to four, adding to existing centers in Pune, Chennai and Mumbai, and cementing its position as the country's largest cloud-computing provider,\nThe Windows maker has committed about $20.5 billion to expand its India opreations, betting on a market of more than 1 billion internet users and one of the world's deepest pools of tech talent.\nHere are more details:\n• Azure, Microsoft's cloud-computing arm, has posted double-digit revenue increases in India for the last two years, the company said.\n• Microsoft also operates two data centers in the South Asian nation with Indian billionaire Mukesh Ambani's Jio.\n• Creating value with AI \"requires trusted infrastructure close to where data lives, teams work and decisions are made,\" said Microsoft India President Puneet Chandok, adding the new facility \"is a critical part of that foundation\"\n• Rivals Alphabet and Amazon are also pouring money into data center capacity in India, drawn by the country's large potential pool of AI users.\n• Not all of those efforts have gone smoothly. Environmentalists have accused authorities of fast-tracking a planned Google data center hub in India without weighing risks to water supplies and wildlife, allegations the government rejects.\n(Reporting by Aditya Soni in Bengaluru; Editing by Tasim Zahid)",
+    "text_blocks": [
+      "Aug 6 (Reuters) - Microsoft launched its largest India data center in Hyderabad on Thursday and has signed up Adani Group and HDFC Bank among early users as it races rivals for the country's fast-growing AI market.",
+      "The India South Central facility brings Microsoft's cloud regions in India to four, adding to existing centers in Pune, Chennai and Mumbai, and cementing its position as the country's largest cloud-computing provider,",
+      "The Windows maker has committed about $20.5 billion to expand its India opreations, betting on a market of more than 1 billion internet users and one of the world's deepest pools of tech talent.",
+      "Here are more details:",
+      "• Azure, Microsoft's cloud-computing arm, has posted double-digit revenue increases in India for the last two years, the company said.",
+      "• Microsoft also operates two data centers in the South Asian nation with Indian billionaire Mukesh Ambani's Jio.",
+      "• Creating value with AI \"requires trusted infrastructure close to where data lives, teams work and decisions are made,\" said Microsoft India President Puneet Chandok, adding the new facility \"is a critical part of that foundation\"",
+      "• Rivals Alphabet and Amazon are also pouring money into data center capacity in India, drawn by the country's large potential pool of AI users.",
+      "• Not all of those efforts have gone smoothly. Environmentalists have accused authorities of fast-tracking a planned Google data center hub in India without weighing risks to water supplies and wildlife, allegations the government rejects.",
+      "(Reporting by Aditya Soni in Bengaluru; Editing by Tasim Zahid)"
+    ],
+    "html": null
+  }
+}

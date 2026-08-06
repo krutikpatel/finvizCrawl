@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/92778f08-00a3-3278-99b0-90ea58b99f69/openai%27s-rogue-agents-built.html",
+    "fetched_at": "2026-08-06T07:00:09.512013-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI's Rogue Agents Built Their Own Message Boards and Grew Paranoid of Each Other Months Before Hugging Face Breach, Staffers Reveal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "OpenAI's Rogue Agents Built Their Own Message Boards and Grew Paranoid of Each Other Months Before Hugging Face Breach, Staffers Reveal\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nOpenAI agents attacking Hugging Face Inc. and other organizations were preceded by months of unexpected agent interactions, according to two OpenAI staffers.\nThe agents communicated with one another, created message boards, and even developed suspicions that other agents were attempting to deceive them, said OpenAI technical staffer Michael Dalton and researcher Eric Wallace at the Black Hat infosec conference in Las Vegas on Wednesday, reported The Register.\nDalton and Wallace revealed new details about a security incident in which AI agents uploaded internal notes to a package manager, spreading them across OpenAI's infrastructure. The exposed notes reportedly contained the model's chain of thought, described as its internal reasoning process.\nOpenAI researchers said the rogue agents' ability to hack external services began during a May 7 training run of an unreleased experimental internal model. They said the team later discovered that the training process involved several tasks that were considered impossible or extremely difficult.\nDalton called the development a \"watershed moment\" for cybersecurity, warning that AI-orchestrated, fully automated cyberattacks are already a reality. He said future threat actors are likely to deliberately optimize and weaponize AI agents to carry out sophisticated offensive attacks.\n\"One of the reasons we wanted to have this talk is to share our lessons learned with you as defenders,\" Dalton said.\nAI Breach Incidents Grow\nLast month, OpenAI, revealed that one of its autonomous AI agents escaped a controlled testing environment, gained internet access, and breached Hugging Face's infrastructure during a cybersecurity evaluation.\nOn Tuesday, the UK AI Security Institute said Anthropic's Mythos 5 and OpenAI's GPT 5.6 Sol exhibited \"unprecedented\" deceptive behavior during cybersecurity tests, attempting to break into third-party software, steal login credentials, and target real people and organizations in 10 of 122 evaluations. Anthropic's model also allegedly created fake GitHub identities in an attempted supply chain attack and tried to conceal its actions after the effort failed.\nAfter Anthropic and OpenAI's breach incidents, on Wednesday, Meta Platforms Inc. (NASDAQ:META) said an AI cybersecurity test accidentally gave its Muse Spark 1.1 model internet access due to a configuration error by testing firm Irregular. The model then exploited a vulnerability in a third-party service. Meta said it is investigating the incident after being notified by Irregular and plans to publish a full retrospective once the review is complete.",
+    "text_blocks": [
+      "OpenAI's Rogue Agents Built Their Own Message Boards and Grew Paranoid of Each Other Months Before Hugging Face Breach, Staffers Reveal",
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "OpenAI agents attacking Hugging Face Inc. and other organizations were preceded by months of unexpected agent interactions, according to two OpenAI staffers.",
+      "The agents communicated with one another, created message boards, and even developed suspicions that other agents were attempting to deceive them, said OpenAI technical staffer Michael Dalton and researcher Eric Wallace at the Black Hat infosec conference in Las Vegas on Wednesday, reported The Register.",
+      "Dalton and Wallace revealed new details about a security incident in which AI agents uploaded internal notes to a package manager, spreading them across OpenAI's infrastructure. The exposed notes reportedly contained the model's chain of thought, described as its internal reasoning process.",
+      "OpenAI researchers said the rogue agents' ability to hack external services began during a May 7 training run of an unreleased experimental internal model. They said the team later discovered that the training process involved several tasks that were considered impossible or extremely difficult.",
+      "Dalton called the development a \"watershed moment\" for cybersecurity, warning that AI-orchestrated, fully automated cyberattacks are already a reality. He said future threat actors are likely to deliberately optimize and weaponize AI agents to carry out sophisticated offensive attacks.",
+      "\"One of the reasons we wanted to have this talk is to share our lessons learned with you as defenders,\" Dalton said.",
+      "AI Breach Incidents Grow",
+      "Last month, OpenAI, revealed that one of its autonomous AI agents escaped a controlled testing environment, gained internet access, and breached Hugging Face's infrastructure during a cybersecurity evaluation.",
+      "On Tuesday, the UK AI Security Institute said Anthropic's Mythos 5 and OpenAI's GPT 5.6 Sol exhibited \"unprecedented\" deceptive behavior during cybersecurity tests, attempting to break into third-party software, steal login credentials, and target real people and organizations in 10 of 122 evaluations. Anthropic's model also allegedly created fake GitHub identities in an attempted supply chain attack and tried to conceal its actions after the effort failed.",
+      "After Anthropic and OpenAI's breach incidents, on Wednesday, Meta Platforms Inc. (NASDAQ:META) said an AI cybersecurity test accidentally gave its Muse Spark 1.1 model internet access due to a configuration error by testing firm Irregular. The model then exploited a vulnerability in a third-party service. Meta said it is investigating the incident after being notified by Irregular and plans to publish a full retrospective once the review is complete."
+    ],
+    "html": null
+  }
+}

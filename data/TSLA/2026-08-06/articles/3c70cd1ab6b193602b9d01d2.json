@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/fords-ev-truck-fathom-priced-130217742.html",
+    "fetched_at": "2026-08-06T07:00:03.116538-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Ford's new EV truck Fathom to be priced starting at about $28,000",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Nora Eckert\nDETROIT, Aug 6 (Reuters) - Ford Motor said on Thursday that its upcoming midsize electric pickup truck would be priced starting at about $28,000 and named Fathom, as the Michigan automaker looks to offer an affordable model in a market full of pricey EVs.\n• Ford has approached development and manufacturing of this vehicle from the ground up, assembling a specialized team in California aimed at competing with rivals like Tesla and China's BYD.\n• The automaker has established a new assembly-tree manufacturing process at its Louisville Assembly Plant.\n• Three lines, for the front, rear and structural battery and seating, will run simultaneously and join at the end instead of having one traditional, long conveyor belt. The new system is meant to improve efficiency and reduce costs.\n• Ford reset its EV strategy after a $19.5 billion writedown late last year, in which it axed several planned models as well as its larger, more expensive Lightning electric pickup truck.\n• Fathom is part of a limited group of vehicles, gasoline-powered, hybrids and EVs included, that are available under $30,000. Data from car-shopping website Edmunds, updated through May 2026, shows 36 models are available for under a starting price of $30,000 in the U.S.\n• Fathom would become one of Ford's least expensive models, rivaling its Maverick pickup, which starts at just below $30,000, according to Edmunds.\n• Pre-orders for Fathom will open in early 2027, with customer deliveries beginning in autumn 2027. The sub-$30,000 pickup truck is expected to be the first of a family of models based on Ford's new EV platform.\n(Reporting by Nora Eckert; Editing by Jamie Freed)",
+    "text_blocks": [
+      "By Nora Eckert",
+      "DETROIT, Aug 6 (Reuters) - Ford Motor said on Thursday that its upcoming midsize electric pickup truck would be priced starting at about $28,000 and named Fathom, as the Michigan automaker looks to offer an affordable model in a market full of pricey EVs.",
+      "• Ford has approached development and manufacturing of this vehicle from the ground up, assembling a specialized team in California aimed at competing with rivals like Tesla and China's BYD.",
+      "• The automaker has established a new assembly-tree manufacturing process at its Louisville Assembly Plant.",
+      "• Three lines, for the front, rear and structural battery and seating, will run simultaneously and join at the end instead of having one traditional, long conveyor belt. The new system is meant to improve efficiency and reduce costs.",
+      "• Ford reset its EV strategy after a $19.5 billion writedown late last year, in which it axed several planned models as well as its larger, more expensive Lightning electric pickup truck.",
+      "• Fathom is part of a limited group of vehicles, gasoline-powered, hybrids and EVs included, that are available under $30,000. Data from car-shopping website Edmunds, updated through May 2026, shows 36 models are available for under a starting price of $30,000 in the U.S.",
+      "• Fathom would become one of Ford's least expensive models, rivaling its Maverick pickup, which starts at just below $30,000, according to Edmunds.",
+      "• Pre-orders for Fathom will open in early 2027, with customer deliveries beginning in autumn 2027. The sub-$30,000 pickup truck is expected to be the first of a family of models based on Ford's new EV platform.",
+      "(Reporting by Nora Eckert; Editing by Jamie Freed)"
+    ],
+    "html": null
+  }
+}

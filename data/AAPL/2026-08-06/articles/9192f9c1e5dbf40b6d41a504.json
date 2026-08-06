@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/4400a7de-2c27-34b5-ae63-2d2073411aa4/openai-moves-to-dismiss.html",
+    "fetched_at": "2026-08-06T07:00:06.629190-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "OpenAI asked a federal judge Wednesday to dismiss Apple's lawsuit accusing the AI giant and two former Apple employees of stealing trade secrets and soliciting confidential information from job candidates.\nWhy it matters: The motion is an early step in a legal fight that could stretch for years. If the case survives, discovery could expose sensitive details about both companies' hiring, hardware development and data-security practices.\nWhat's inside: OpenAI's motion bristles with digs at Apple, portraying the lawsuit as an effort to compensate for the iPhone maker's struggles to retain talent and keep pace in AI.\n-\n\"Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its shortcomings in the market for talent and retaining its employees, and its failures to integrate AI into its products,\" the motion says.\n-\nVariations of the word \"fail\" appear nearly 50 times in the 31-page filing.\nZoom in: Apple's original lawsuit alleges that former employees took confidential information and that OpenAI sought Apple trade secrets through recruiting interviews.\n-\nOpenAI's motion counters that Apple reviewed personal iMessages left on company devices and created confusion by encouraging employees to use personal iCloud accounts for work, intermingling corporate and personal data.\n-\n\"Apple cannot transform the foreseeable consequences of its own systems and policies into evidence of theft by former employees who were ... not aware of their latent access.\"\nThe other side: Apple on Monday asked the judge for a preliminary injunction that would prevent OpenAI from using the alleged trade secrets while the case proceeds.\n-\nOpenAI responded in a blog post titled \"Apple is getting this wrong,\" claiming that it never sought Apple's trade secrets and that Apple presented a misleading timeline.\nThe big picture: Apple alleges that more than 400 of its former employees have joined OpenAI, giving the case the feel of a broader war over talent as the two companies compete to build AI hardware.\nAI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.",
+    "text_blocks": [
+      "OpenAI asked a federal judge Wednesday to dismiss Apple's lawsuit accusing the AI giant and two former Apple employees of stealing trade secrets and soliciting confidential information from job candidates.",
+      "Why it matters: The motion is an early step in a legal fight that could stretch for years. If the case survives, discovery could expose sensitive details about both companies' hiring, hardware development and data-security practices.",
+      "What's inside: OpenAI's motion bristles with digs at Apple, portraying the lawsuit as an effort to compensate for the iPhone maker's struggles to retain talent and keep pace in AI.",
+      "-",
+      "\"Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its shortcomings in the market for talent and retaining its employees, and its failures to integrate AI into its products,\" the motion says.",
+      "-",
+      "Variations of the word \"fail\" appear nearly 50 times in the 31-page filing.",
+      "Zoom in: Apple's original lawsuit alleges that former employees took confidential information and that OpenAI sought Apple trade secrets through recruiting interviews.",
+      "-",
+      "OpenAI's motion counters that Apple reviewed personal iMessages left on company devices and created confusion by encouraging employees to use personal iCloud accounts for work, intermingling corporate and personal data.",
+      "-",
+      "\"Apple cannot transform the foreseeable consequences of its own systems and policies into evidence of theft by former employees who were ... not aware of their latent access.\"",
+      "The other side: Apple on Monday asked the judge for a preliminary injunction that would prevent OpenAI from using the alleged trade secrets while the case proceeds.",
+      "-",
+      "OpenAI responded in a blog post titled \"Apple is getting this wrong,\" claiming that it never sought Apple's trade secrets and that Apple presented a misleading timeline.",
+      "The big picture: Apple alleges that more than 400 of its former employees have joined OpenAI, giving the case the feel of a broader war over talent as the two companies compete to build AI hardware.",
+      "AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com."
+    ],
+    "html": null
+  }
+}

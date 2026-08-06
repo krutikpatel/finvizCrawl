@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/optical-networking-firm-lumilens-valued-134155297.html",
+    "fetched_at": "2026-08-06T07:00:23.627757-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Optical networking firm Lumilens valued at $5.5 billion in latest funding round",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 6 (Reuters) - Optical networking startup Lumilens said on Thursday it was valued at $5.51 billion in its latest funding round, as surging investment in AI data centers fuels demand for high-speed connectivity technologies.\nThe San Jose, California-based company designs and manufactures optical and networking products that help data centers move data faster while using less power.\nIt raised more than $700 million in the Series C funding round co-led by Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital, bringing its total funding to more than $900 million.\nLumilens said it is already shipping products under a multi-billion-dollar agreement with a customer it declined to identify, but said it was one of the four hyperscalers. The term refers to tech giants Amazon, Alphabet, Microsoft and Meta.\nThe funding comes as hyperscalers spend billions of dollars to expand data centers to meet the surging demand for artificial intelligence services. The data center boom is in turn driving demand for networking technologies that can efficiently connect thousands of GPUs.\n\"The constraint on AI has shifted from how many GPUs you can buy to how many you can connect,\" Lumilens CEO Ankur Singla said.\n\"Hyperscalers told us they need the same two things: far more optical capacity for the networks they run today, and a path to directly connecting thousands of GPUs together into a single cluster.\"\nThe company said it will use the fresh capital to scale up its engineering and manufacturing operations.\nLumilens also said it has hired executives and engineers from Cisco, Juniper Networks, Meta, Marvell, Lumentum and Coherent, bringing expertise in photonics and large-scale networking.\n(Reporting by Prakhar Srivastava and Anhata Rooprai in Bengaluru; Editing by Vijay Kishore and Leroy Leo)",
+    "text_blocks": [
+      "Aug 6 (Reuters) - Optical networking startup Lumilens said on Thursday it was valued at $5.51 billion in its latest funding round, as surging investment in AI data centers fuels demand for high-speed connectivity technologies.",
+      "The San Jose, California-based company designs and manufactures optical and networking products that help data centers move data faster while using less power.",
+      "It raised more than $700 million in the Series C funding round co-led by Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital, bringing its total funding to more than $900 million.",
+      "Lumilens said it is already shipping products under a multi-billion-dollar agreement with a customer it declined to identify, but said it was one of the four hyperscalers. The term refers to tech giants Amazon, Alphabet, Microsoft and Meta.",
+      "The funding comes as hyperscalers spend billions of dollars to expand data centers to meet the surging demand for artificial intelligence services. The data center boom is in turn driving demand for networking technologies that can efficiently connect thousands of GPUs.",
+      "\"The constraint on AI has shifted from how many GPUs you can buy to how many you can connect,\" Lumilens CEO Ankur Singla said.",
+      "\"Hyperscalers told us they need the same two things: far more optical capacity for the networks they run today, and a path to directly connecting thousands of GPUs together into a single cluster.\"",
+      "The company said it will use the fresh capital to scale up its engineering and manufacturing operations.",
+      "Lumilens also said it has hired executives and engineers from Cisco, Juniper Networks, Meta, Marvell, Lumentum and Coherent, bringing expertise in photonics and large-scale networking.",
+      "(Reporting by Prakhar Srivastava and Anhata Rooprai in Bengaluru; Editing by Vijay Kishore and Leroy Leo)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-hit-wave-ai-161703213.html",
+    "fetched_at": "2026-08-06T07:00:47.991219-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street hit by wave of AI-powered ’vishing’ cyberattacks - Bloomberg",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A wave of sophisticated cyberattacks has targeted several of Wall Street's most prominent money managers in recent days, highlighting the growing threat posed by artificial intelligence-enabled fraud, Bloomberg reported.\nThe hackers attempted to breach information systems at major hedge funds—including Two Sigma Investments, Citadel, and Point72 Asset Management—as well as several private equity firms, according to people familiar with the matter who spoke to Bloomberg on the condition of anonymity.\nAI-Voice Cloning at the Center of Assaults\nThe attacks relied heavily on voice phishing, or \"vishing,\" a technique where cybercriminals utilize AI and sound technology to mimic the exact voices, tones, and phrasing of legitimate executives or colleagues. By impersonating trusted figures in phone calls or audio messages, the hackers sought to manipulate employees into surrendering sensitive information or granting access to internal networks.\nDespite the widespread nature of the campaign, firms have been working quickly to neutralize the threats:\n-\nTwo Sigma Investments: The $75 billion asset manager confirmed it successfully thwarted an attempted breach. A spokesperson stated that its security team responded rapidly to a vishing campaign targeting the firm and others, adding that there is \"no indication of any impact to our data or our systems.\"\n-\nCitadel & Point72: Spokespeople for both Citadel and Point72 declined to comment on whether their systems had been targeted or breached.\nThe recent assault on financial institutions mirrors a broader surge in cyber threats hitting professional services over the past year.\nRelated articles\nWall Street hit by wave of AI-powered 'vishing' cyberattacks - Bloomberg\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+    "text_blocks": [
+      "A wave of sophisticated cyberattacks has targeted several of Wall Street's most prominent money managers in recent days, highlighting the growing threat posed by artificial intelligence-enabled fraud, Bloomberg reported.",
+      "The hackers attempted to breach information systems at major hedge funds—including Two Sigma Investments, Citadel, and Point72 Asset Management—as well as several private equity firms, according to people familiar with the matter who spoke to Bloomberg on the condition of anonymity.",
+      "AI-Voice Cloning at the Center of Assaults",
+      "The attacks relied heavily on voice phishing, or \"vishing,\" a technique where cybercriminals utilize AI and sound technology to mimic the exact voices, tones, and phrasing of legitimate executives or colleagues. By impersonating trusted figures in phone calls or audio messages, the hackers sought to manipulate employees into surrendering sensitive information or granting access to internal networks.",
+      "Despite the widespread nature of the campaign, firms have been working quickly to neutralize the threats:",
+      "-",
+      "Two Sigma Investments: The $75 billion asset manager confirmed it successfully thwarted an attempted breach. A spokesperson stated that its security team responded rapidly to a vishing campaign targeting the firm and others, adding that there is \"no indication of any impact to our data or our systems.\"",
+      "-",
+      "Citadel & Point72: Spokespeople for both Citadel and Point72 declined to comment on whether their systems had been targeted or breached.",
+      "The recent assault on financial institutions mirrors a broader surge in cyber threats hitting professional services over the past year.",
+      "Related articles",
+      "Wall Street hit by wave of AI-powered 'vishing' cyberattacks - Bloomberg",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+      "Morgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets"
+    ],
+    "html": null
+  }
+}

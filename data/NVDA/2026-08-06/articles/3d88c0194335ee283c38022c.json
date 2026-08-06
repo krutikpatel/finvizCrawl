@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/qatars-ooredoo-leads-800-million-132444418.html",
+    "fetched_at": "2026-08-06T07:00:39.410439-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qatar's Ooredoo leads $800 million investment in AI platform Zankore",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 6 (Reuters) - Qatari telecommunications services provider Ooredoo is expanding its AI computing ambitions through an investment in Zankore, a dedicated AI compute and neocloud platform being developed with Indosat Ooredoo Hutchison, Nokia and Nvidia, it said on Thursday.\n• As founding shareholder and lead investor with a 49% stake, Ooredoo will commit about $800 million to Zankore's launch and initial development\n• The initial investment is expected to contribute approximately $600 million in cumulative EBITDA over its first five years, according to current estimates\n• Zankore, which will initially be developed in Indonesia before expanding across Southeast Asia, is targeting 1 gigawatt of NVIDIA DSX AI Factory capacity\n• The platform is expected to deliver about 200 megawatts of AI capacity in the first half of 2027 and will use NVIDIA DSX MaxLPS technology, which can increase computing output by up to 40% within the same power budget\n• The investment positions Ooredoo as an early mover in Southeast Asia's rapidly growing AI infrastructure market and comes as Gulf states accelerate investments in AI and data infrastructure\n• Separately, Bloomberg News reported on Thursday that Abu Dhabi's Mubadala is weighing a $6.3 billion AI data center investment in Japan. Reuters has not independently verified the news.\n• The report follows Nikkei's announcement earlier on Thursday that Japanese and U.S. companies, potentially alongside investors from the UAE and elsewhere, could invest around 2 trillion yen ($12.67 billion) to build Japan's largest AI data centre\n($1 = 157.8800 yen)\n(Reporting by Amna Mariyam in Bengaluru;Editing by Elaine Hardcastle)",
+    "text_blocks": [
+      "Aug 6 (Reuters) - Qatari telecommunications services provider Ooredoo is expanding its AI computing ambitions through an investment in Zankore, a dedicated AI compute and neocloud platform being developed with Indosat Ooredoo Hutchison, Nokia and Nvidia, it said on Thursday.",
+      "• As founding shareholder and lead investor with a 49% stake, Ooredoo will commit about $800 million to Zankore's launch and initial development",
+      "• The initial investment is expected to contribute approximately $600 million in cumulative EBITDA over its first five years, according to current estimates",
+      "• Zankore, which will initially be developed in Indonesia before expanding across Southeast Asia, is targeting 1 gigawatt of NVIDIA DSX AI Factory capacity",
+      "• The platform is expected to deliver about 200 megawatts of AI capacity in the first half of 2027 and will use NVIDIA DSX MaxLPS technology, which can increase computing output by up to 40% within the same power budget",
+      "• The investment positions Ooredoo as an early mover in Southeast Asia's rapidly growing AI infrastructure market and comes as Gulf states accelerate investments in AI and data infrastructure",
+      "• Separately, Bloomberg News reported on Thursday that Abu Dhabi's Mubadala is weighing a $6.3 billion AI data center investment in Japan. Reuters has not independently verified the news.",
+      "• The report follows Nikkei's announcement earlier on Thursday that Japanese and U.S. companies, potentially alongside investors from the UAE and elsewhere, could invest around 2 trillion yen ($12.67 billion) to build Japan's largest AI data centre",
+      "($1 = 157.8800 yen)",
+      "(Reporting by Amna Mariyam in Bengaluru;Editing by Elaine Hardcastle)"
+    ],
+    "html": null
+  }
+}

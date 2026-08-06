@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/paycom-jumps-premarket-earnings-data-115654757.html",
+    "fetched_at": "2026-08-06T07:00:20.864067-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Paycom jumps premarket after earnings;  Data storage companies fall",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - U.S. stock index futures hovered around the flatline on Thursday as investors awaited developments over a potential agreement to reopen the Strait of Hormuz, while renewed concerns over the sustainability of the artificial intelligence spending boom pressured technology shares.\nBy 05:42 ET (09:42 GMT), futures pointed to a muted start on Wall Street, with weakness in semiconductor and data storage companies offsetting strength in selected software and industrial names.\nTechnology stocks were under pressure after quarterly results from memory storage companies Sandisk and Western Digital failed to justify elevated investor expectations following a strong AI-driven rally this year.\nSandisk tumbled 9.2% in premarket trading, while Western Digital slumped 14.6%, as investors questioned whether demand growth would be sufficient to sustain lofty valuations across the AI infrastructure supply chain.\nOracle fell 2.5%, extending a pullback after a strong rally in the previous session, as investors focused on growing concerns over the software giant's balance sheet following reports that its five-year credit default swap spreads had climbed to record levels amid heavy debt-funded investment in AI infrastructure.\nAmong gainers, payroll software provider Paycom Software surged 13.1% after reporting second-quarter earnings that comfortably exceeded Wall Street expectations.\nAdjusted earnings per share came in at $2.78, well above estimates of $2.38, while revenue rose 10% year-on-year to $531.2 million. Expanding profit margins also helped lift sentiment.\nAeva Technologies climbed 17.7% after the lidar technology company posted quarterly results ahead of expectations and unveiled plans to expand into AI data center infrastructure, opening a new growth avenue beyond automotive applications.\nSurgePays soared 57.5% after announcing the formation of a new wireless distribution joint venture that significantly expands its prepaid mobile retail footprint, while Mangoceuticals jumped 31.9% after its proposed merger partner announced progress on the development of a transportable nuclear microreactor.\nOn the downside, EPAM Systems fell 9.1% after cutting its full-year revenue growth outlook despite posting better-than-expected quarterly earnings and revenue, with weaker guidance overshadowing the quarterly beat.\nLegalZoom plunged 23% after reducing its full-year revenue forecast, citing a sharp slowdown in customer traffic from Google Search and weaker efficiency in paid search advertising despite narrowly beating earnings estimates.",
+    "text_blocks": [
+      "Investing.com - U.S. stock index futures hovered around the flatline on Thursday as investors awaited developments over a potential agreement to reopen the Strait of Hormuz, while renewed concerns over the sustainability of the artificial intelligence spending boom pressured technology shares.",
+      "By 05:42 ET (09:42 GMT), futures pointed to a muted start on Wall Street, with weakness in semiconductor and data storage companies offsetting strength in selected software and industrial names.",
+      "Technology stocks were under pressure after quarterly results from memory storage companies Sandisk and Western Digital failed to justify elevated investor expectations following a strong AI-driven rally this year.",
+      "Sandisk tumbled 9.2% in premarket trading, while Western Digital slumped 14.6%, as investors questioned whether demand growth would be sufficient to sustain lofty valuations across the AI infrastructure supply chain.",
+      "Oracle fell 2.5%, extending a pullback after a strong rally in the previous session, as investors focused on growing concerns over the software giant's balance sheet following reports that its five-year credit default swap spreads had climbed to record levels amid heavy debt-funded investment in AI infrastructure.",
+      "Among gainers, payroll software provider Paycom Software surged 13.1% after reporting second-quarter earnings that comfortably exceeded Wall Street expectations.",
+      "Adjusted earnings per share came in at $2.78, well above estimates of $2.38, while revenue rose 10% year-on-year to $531.2 million. Expanding profit margins also helped lift sentiment.",
+      "Aeva Technologies climbed 17.7% after the lidar technology company posted quarterly results ahead of expectations and unveiled plans to expand into AI data center infrastructure, opening a new growth avenue beyond automotive applications.",
+      "SurgePays soared 57.5% after announcing the formation of a new wireless distribution joint venture that significantly expands its prepaid mobile retail footprint, while Mangoceuticals jumped 31.9% after its proposed merger partner announced progress on the development of a transportable nuclear microreactor.",
+      "On the downside, EPAM Systems fell 9.1% after cutting its full-year revenue growth outlook despite posting better-than-expected quarterly earnings and revenue, with weaker guidance overshadowing the quarterly beat.",
+      "LegalZoom plunged 23% after reducing its full-year revenue forecast, citing a sharp slowdown in customer traffic from Google Search and weaker efficiency in paid search advertising despite narrowly beating earnings estimates."
+    ],
+    "html": null
+  }
+}
