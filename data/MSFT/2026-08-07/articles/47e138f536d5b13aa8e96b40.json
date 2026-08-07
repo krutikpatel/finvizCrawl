@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/bec9dc82-34a1-3cae-a10e-9b2446abb720/microsoft-opens-fourth-azure.html",
+    "fetched_at": "2026-08-07T07:00:56.323199-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft opens fourth Azure data center region in India",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft announced the general availability of its India South Central cloud region in Hyderabad on Thursday, giving the company four Azure regions in India — more than any other hyperscale cloud provider in the country, the company said.\nThe new region joins existing Microsoft cloud regions in Pune, Chennai, and Mumbai. It includes three availability zones built to meet India's regulatory and seismic requirements, and features air-cooled chillers that require no water for cooling, the company said.\nThe launch is part of Microsoft's $20.5 billion investment commitment to India's cloud and AI infrastructure, which included a $3 billion commitment announced in January 2025 and a $17.5 billion pledge announced in December 2025. India's Azure business has grown by double digits annually over the past two fiscal years, according to the company.\n\"Trusted infrastructure close to where data lives, teams work and decisions are made\" is what organizations need to move from AI experimentation to business value, Puneet Chandok, president of Microsoft India and South Asia, said in a statement. \"We are not investing in infrastructure to keep up with demand. We are investing in India's ability to set the pace for the world.\"\nSeveral large Indian enterprises signed on during early access, including Adani Group, Bajaj Finserv, HDFC Bank, and PB Pay. HDFC Bank said the Hyderabad region will serve as a disaster recovery site complementing its existing Central India footprint, while Bajaj Finance said it plans to use the region to strengthen data residency and support AI adoption.\nMicrosoft additionally runs two data centers in the country through a partnership with Jio, the telecom conglomerate owned by Mukesh Ambani, under the names Jio India West and Jio India Central, the company said.\nThe new region arrives as global technology companies have been directing investment toward Indian cloud and AI infrastructure. Meta announced an agreement earlier this year to lease its first AI-enabled data center in India from Reliance Industries, to be built in Jamnagar, Gujarat. Government figures cited in that reporting showed India's total data center capacity has grown roughly fourfold since 2020.\nMicrosoft's broader cloud business has been expanding as well. The company reported that Azure revenue surpassed $100 billion for the first time in fiscal year 2026, with Azure and other cloud services growing 43% in the fourth quarter. Microsoft 365 Copilot reached more than 30 million paid seats as of that quarter, the company said.\nThe India South Central region also draws on Microsoft's global infrastructure, which the company said spans more than 80 regions across 34 countries and over 500 data centers worldwide.",
+    "text_blocks": [
+      "Microsoft announced the general availability of its India South Central cloud region in Hyderabad on Thursday, giving the company four Azure regions in India — more than any other hyperscale cloud provider in the country, the company said.",
+      "The new region joins existing Microsoft cloud regions in Pune, Chennai, and Mumbai. It includes three availability zones built to meet India's regulatory and seismic requirements, and features air-cooled chillers that require no water for cooling, the company said.",
+      "The launch is part of Microsoft's $20.5 billion investment commitment to India's cloud and AI infrastructure, which included a $3 billion commitment announced in January 2025 and a $17.5 billion pledge announced in December 2025. India's Azure business has grown by double digits annually over the past two fiscal years, according to the company.",
+      "\"Trusted infrastructure close to where data lives, teams work and decisions are made\" is what organizations need to move from AI experimentation to business value, Puneet Chandok, president of Microsoft India and South Asia, said in a statement. \"We are not investing in infrastructure to keep up with demand. We are investing in India's ability to set the pace for the world.\"",
+      "Several large Indian enterprises signed on during early access, including Adani Group, Bajaj Finserv, HDFC Bank, and PB Pay. HDFC Bank said the Hyderabad region will serve as a disaster recovery site complementing its existing Central India footprint, while Bajaj Finance said it plans to use the region to strengthen data residency and support AI adoption.",
+      "Microsoft additionally runs two data centers in the country through a partnership with Jio, the telecom conglomerate owned by Mukesh Ambani, under the names Jio India West and Jio India Central, the company said.",
+      "The new region arrives as global technology companies have been directing investment toward Indian cloud and AI infrastructure. Meta announced an agreement earlier this year to lease its first AI-enabled data center in India from Reliance Industries, to be built in Jamnagar, Gujarat. Government figures cited in that reporting showed India's total data center capacity has grown roughly fourfold since 2020.",
+      "Microsoft's broader cloud business has been expanding as well. The company reported that Azure revenue surpassed $100 billion for the first time in fiscal year 2026, with Azure and other cloud services growing 43% in the fourth quarter. Microsoft 365 Copilot reached more than 30 million paid seats as of that quarter, the company said.",
+      "The India South Central region also draws on Microsoft's global infrastructure, which the company said spans more than 80 regions across 34 countries and over 500 data centers worldwide."
+    ],
+    "html": null
+  }
+}

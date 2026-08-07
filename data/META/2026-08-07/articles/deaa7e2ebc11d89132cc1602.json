@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-focus-judge-orders-122626372.html",
+    "fetched_at": "2026-08-07T07:00:19.395835-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Stock in Focus -- Judge Orders $567 Million Child Safety Payment",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) will be in focus on Friday after a New Mexico judge ordered the company to pay $567 million to fund youth mental health treatment and prevention programs, adding to an earlier $375 million civil penalty, according to a Thursday court ruling.\nThe latest order brings Meta's total liability in the New Mexico case to about $942 million, following a jury's March finding that the company knowingly harmed children's mental health and failed to adequately address child sexual exploitation on its platforms. The ruling directs funding toward treatment, prevention, screening services and related programs over the next five years.\nDuring the case's second phase, prosecutors also sought changes to Meta's platforms, including stronger age verification, enhanced default privacy settings for minors and measures aimed at reducing addictive product features. Meta shares edged down less than 0.5% in after-hours trading following the ruling.\nMeta also faces additional legal scrutiny. The company is due to stand trial later this month in a federal multidistrict lawsuit brought by 29 states alleging Instagram and Facebook contributed to the youth mental health crisis. Separately, families of four teenagers recently sued Meta and other social media companies over alleged harms linked to their platforms.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) will be in focus on Friday after a New Mexico judge ordered the company to pay $567 million to fund youth mental health treatment and prevention programs, adding to an earlier $375 million civil penalty, according to a Thursday court ruling.",
+      "The latest order brings Meta's total liability in the New Mexico case to about $942 million, following a jury's March finding that the company knowingly harmed children's mental health and failed to adequately address child sexual exploitation on its platforms. The ruling directs funding toward treatment, prevention, screening services and related programs over the next five years.",
+      "During the case's second phase, prosecutors also sought changes to Meta's platforms, including stronger age verification, enhanced default privacy settings for minors and measures aimed at reducing addictive product features. Meta shares edged down less than 0.5% in after-hours trading following the ruling.",
+      "Meta also faces additional legal scrutiny. The company is due to stand trial later this month in a federal multidistrict lawsuit brought by 29 states alleging Instagram and Facebook contributed to the youth mental health crisis. Separately, families of four teenagers recently sued Meta and other social media companies over alleged harms linked to their platforms."
+    ],
+    "html": null
+  }
+}

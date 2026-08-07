@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/first-solar-stock-price-section-232-1f0ffea7?mod=bar_FV",
+    "fetched_at": "2026-08-07T07:00:29.890800-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/first-solar-stock-price-section-232-1f0ffea7?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/first-solar-stock-price-section-232-1f0ffea7?mod=bar_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

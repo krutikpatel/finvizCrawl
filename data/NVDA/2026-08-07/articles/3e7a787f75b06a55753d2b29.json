@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/533ccb11-2870-3f5f-93fe-33d240a53e63/amd-buys-ai-chip-startup.html",
+    "fetched_at": "2026-08-07T07:01:14.591388-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Buys AI Chip Startup Taalas—Here's Why It Matters To NVDA Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nAdvanced Micro Devices (NASDAQ:AMD) said Thursday it will acquire Taalas, a Toronto startup that hardwires entire AI models directly into silicon, for an undisclosed amount.\nThe deal targets inference, the business of running trained models, which AMD projects may grow more than 80% annually and where rival Nvidia Corp. (NASDAQ:NVDA) has already made its own specialization play.\nOne Chip, One Model\nTaalas builds chips that do only one thing. Its first product, the HC1, runs Meta's Llama 3.1 8B and nothing else, because the model's weights are physically etched into the silicon.\nThat sounds like a flaw, but it removes one of the biggest bottlenecks in AI inference.\nOrdinary GPUs must repeatedly shuttle billions of model weights between memory and compute, creating a major inference bottleneck. Taalas skips the trip entirely, so the model effectively becomes the processor.\nThe payoff is speed. Taalas says the HC1 generates roughly 17,000 tokens per second per user, and EE Times saw more than 15,000 on the public demo. Nvidia's Blackwell hardware managed around 350 in Taalas' own testing.\nCEO Ljubisa Bajic, a Tenstorrent co-founder who spent years at AMD earlier in his career, told EE Times the company made \"painful tradeoffs in flexibility for the sake of economics and speed.\"\nThe Catch: The Chip Is the Model\nSwitching to a different model still requires making new chips, but Taalas says almost the entire design can stay the same. Only a small part needs to be changed to encode the new model, and TSMC can reportedly manufacture the updated version in about two months.\nThe reward for giving up flexibility could be cheap hardware. The company claims its system costs 20 times less to build and uses 10 times less power, partly because it needs no HBM, advanced packaging or liquid cooling, though those figures remain its own estimates.\nThe obvious objection is that an 8-billion-parameter Llama model is small by today's standards. Taalas told Reuters in February it aimed to build silicon capable of running a frontier model such as GPT-5.2 by year-end.\nWhy AMD Wants It\nNvidia built its dominance on training, the expensive process of creating AI models. AMD is betting the bigger prize may be inference, the business of running those models for users, which it projects could grow more than 80% a year.\nTaalas is its fourth inference deal since November, after inference software firm MK1 and two smaller startups.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Advanced Micro Devices (NASDAQ:AMD) said Thursday it will acquire Taalas, a Toronto startup that hardwires entire AI models directly into silicon, for an undisclosed amount.",
+      "The deal targets inference, the business of running trained models, which AMD projects may grow more than 80% annually and where rival Nvidia Corp. (NASDAQ:NVDA) has already made its own specialization play.",
+      "One Chip, One Model",
+      "Taalas builds chips that do only one thing. Its first product, the HC1, runs Meta's Llama 3.1 8B and nothing else, because the model's weights are physically etched into the silicon.",
+      "That sounds like a flaw, but it removes one of the biggest bottlenecks in AI inference.",
+      "Ordinary GPUs must repeatedly shuttle billions of model weights between memory and compute, creating a major inference bottleneck. Taalas skips the trip entirely, so the model effectively becomes the processor.",
+      "The payoff is speed. Taalas says the HC1 generates roughly 17,000 tokens per second per user, and EE Times saw more than 15,000 on the public demo. Nvidia's Blackwell hardware managed around 350 in Taalas' own testing.",
+      "CEO Ljubisa Bajic, a Tenstorrent co-founder who spent years at AMD earlier in his career, told EE Times the company made \"painful tradeoffs in flexibility for the sake of economics and speed.\"",
+      "The Catch: The Chip Is the Model",
+      "Switching to a different model still requires making new chips, but Taalas says almost the entire design can stay the same. Only a small part needs to be changed to encode the new model, and TSMC can reportedly manufacture the updated version in about two months.",
+      "The reward for giving up flexibility could be cheap hardware. The company claims its system costs 20 times less to build and uses 10 times less power, partly because it needs no HBM, advanced packaging or liquid cooling, though those figures remain its own estimates.",
+      "The obvious objection is that an 8-billion-parameter Llama model is small by today's standards. Taalas told Reuters in February it aimed to build silicon capable of running a frontier model such as GPT-5.2 by year-end.",
+      "Why AMD Wants It",
+      "Nvidia built its dominance on training, the expensive process of creating AI models. AMD is betting the bigger prize may be inference, the business of running those models for users, which it projects could grow more than 80% a year.",
+      "Taalas is its fourth inference deal since November, after inference software firm MK1 and two smaller startups."
+    ],
+    "html": null
+  }
+}

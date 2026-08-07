@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html",
+    "fetched_at": "2026-08-07T07:00:06.070873-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory — and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory — and the Compute Landlord Thesis Just Got Its Most Expensive Chapter\nOn August 5-6, 2026, the joint venture between SpaceX, Tesla, and Intel was formalized in Grimes County, Texas, following the signing of a JETI tax abatement agreement and a $10 million non-refundable payment. The project, centered at the former Gibbons Creek coal-fired power plant site, marks a definitive step toward the construction of what Elon Musk has described as \"the largest and most valuable building on Earth,\" according to Reuters.\nThe scale of the ambition is reflected in the numbers: a 100-million-square-foot facility designed for vertically integrated semiconductor fabrication, encompassing logic, memory, packaging, and testing under one roof. While Governor Abbott and Musk have announced an initial $16.8 billion investment, the total potential across multiple phases reaches $119 billion. However, the part that gets hidden is the distinction between ambition and obligation. SpaceX's May 2026 IPO filing explicitly characterized Terafab as a \"general framework\" with no binding commitments. The $16.8 billion figure is an announced target, not a contractually locked expenditure.\nThis move represents a fundamental shift in the compute landlord thesis. We have previously traced these capital flows through the Volta Infra initiative, the SpaceX 10 GW project, the Nvidia $600 billion exposure, and the $71 billion Anthropic SPV. Terafab now emerges as the fifth pillar: manufacturing vertical integration. SpaceX is moving beyond the role of a tenant renting Nvidia GPUs. By building its own fab for custom AI chips, the company is attempting to secure the hardware supply chain for Tesla Optimus robots, Cybercabs, and the Starmind orbital compute network.\nThe connection to the recent 10 GW Nvidia hardware commitment is too clean to ignore. While the 10 GW story focused on immediate, massive-scale hardware acquisition, Terafab is a longer-term bet on domestic AI chip sovereignty. This aligns with the broader CHIPS Act context, aiming to insulate domestic AI infrastructure from global supply chain volatility. Yet, the role of Intel remains qualified; the manufacturing partner has not disclosed the specific nature or scale of its contribution to the project.\nWhat this actually means for the local landscape is a significant industrial footprint. The project promises over 3,000 construction jobs and 1,800 permanent positions. The decision to utilize the Gibbons Creek Reservoir for water supply addresses a primary constraint for semiconductor manufacturing, though the vote to approve the tax abatement passed 4-1 despite local opposition regarding resource strain and community disruption. The state has further incentivized the project with a $30 million Texas Enterprise Fund grant.",
+    "text_blocks": [
+      "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory — and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+      "On August 5-6, 2026, the joint venture between SpaceX, Tesla, and Intel was formalized in Grimes County, Texas, following the signing of a JETI tax abatement agreement and a $10 million non-refundable payment. The project, centered at the former Gibbons Creek coal-fired power plant site, marks a definitive step toward the construction of what Elon Musk has described as \"the largest and most valuable building on Earth,\" according to Reuters.",
+      "The scale of the ambition is reflected in the numbers: a 100-million-square-foot facility designed for vertically integrated semiconductor fabrication, encompassing logic, memory, packaging, and testing under one roof. While Governor Abbott and Musk have announced an initial $16.8 billion investment, the total potential across multiple phases reaches $119 billion. However, the part that gets hidden is the distinction between ambition and obligation. SpaceX's May 2026 IPO filing explicitly characterized Terafab as a \"general framework\" with no binding commitments. The $16.8 billion figure is an announced target, not a contractually locked expenditure.",
+      "This move represents a fundamental shift in the compute landlord thesis. We have previously traced these capital flows through the Volta Infra initiative, the SpaceX 10 GW project, the Nvidia $600 billion exposure, and the $71 billion Anthropic SPV. Terafab now emerges as the fifth pillar: manufacturing vertical integration. SpaceX is moving beyond the role of a tenant renting Nvidia GPUs. By building its own fab for custom AI chips, the company is attempting to secure the hardware supply chain for Tesla Optimus robots, Cybercabs, and the Starmind orbital compute network.",
+      "The connection to the recent 10 GW Nvidia hardware commitment is too clean to ignore. While the 10 GW story focused on immediate, massive-scale hardware acquisition, Terafab is a longer-term bet on domestic AI chip sovereignty. This aligns with the broader CHIPS Act context, aiming to insulate domestic AI infrastructure from global supply chain volatility. Yet, the role of Intel remains qualified; the manufacturing partner has not disclosed the specific nature or scale of its contribution to the project.",
+      "What this actually means for the local landscape is a significant industrial footprint. The project promises over 3,000 construction jobs and 1,800 permanent positions. The decision to utilize the Gibbons Creek Reservoir for water supply addresses a primary constraint for semiconductor manufacturing, though the vote to approve the tax abatement passed 4-1 despite local opposition regarding resource strain and community disruption. The state has further incentivized the project with a $30 million Texas Enterprise Fund grant."
+    ],
+    "html": null
+  }
+}

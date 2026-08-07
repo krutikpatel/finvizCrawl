@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citi-cuts-micron-stock-target-124820288.html",
+    "fetched_at": "2026-08-07T07:00:25.249112-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Citi cuts Micron stock target, sees memory chip prices peaking in 2Q27",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - Citi slashed its price target on Micron Technology to $1,150 from $1,400 while keeping a Buy rating, citing a more tempered outlook for DRAM and NAND pricing heading into next year.\nThe bank trimmed its target by applying an 8x price-to-earnings multiple on revised calendar-year 2027 EPS estimates, down from the prior 10x multiple.\n\"We trim MU TP to $1,150 from $1,400 based on 8x P/E vs prior 10x times revised C27 EPS to reflect lower market multiples on mixed memory peer results,\" the Citi analyst wrote, according to the firm's note.\nThe revision followed Citi's meetings with memory supply chain participants and third-party experts at the \"Future of Memory and Storage\" conference. The core takeaway: pricing momentum in both DRAM and NAND is real but fading.\n\"We see both DRAM and NAND prices decelerating Q/Q in the next four quarters with prices peaking in 2Q of next year,\" the analyst said. Memory stocks tend to move in line with expectations for memory prices over the next several quarters.\nIn the second half of 2027, Citi now sees DRAM prices down 3% half-over-half versus a flatter prior view. For NAND, the second half of 2027 is now projected down 5% half-over-half. The firm cut its FY27 and FY28 EPS estimates by 1% and 2%, respectively.\n\"We expect Micron's gross margins to decline from current mid-80s and sustain in mid-70s next year as prices decline from a high base with ~40% DRAM bits under LTA pricing contracts,\" the analyst wrote.\nThat LTA cushion provides some buffer, but not enough to fully offset the pricing trajectory the firm envisions.\nSamsung posted DRAM average selling prices up roughly mid-40% quarter-over-quarter and NAND ASPs up high-60% in Q2, beating consensus on both sales and operating profit. SK Hynix came in just below consensus, with DRAM ASPs up 30% quarter-over-quarter and NAND ASPs up mid-50%, and disclosed a five-year long-term agreement with Nvidia valued at $500 billion.\nSandisk, by contrast, missed its September-quarter revenue guidance on more muted pricing, a data point Citi weighed in softening its own forward estimates.\nChina sees as the key LT risk\nBeyond the near-term pricing path, Citi identified a structural risk that carries more long-term weight. \"China competition and capacity additions in both NAND and DRAM markets is the biggest risk to our thesis,\" the analysts said.\nYMTC, China's leading NAND producer, plans to add 50,000 to 60,000 wafer starts to its existing 200,000-unit operating capacity next year and has publicly stated its ambition to become the world's largest NAND player by 2030.",
+    "text_blocks": [
+      "Investing.com - Citi slashed its price target on Micron Technology to $1,150 from $1,400 while keeping a Buy rating, citing a more tempered outlook for DRAM and NAND pricing heading into next year.",
+      "The bank trimmed its target by applying an 8x price-to-earnings multiple on revised calendar-year 2027 EPS estimates, down from the prior 10x multiple.",
+      "\"We trim MU TP to $1,150 from $1,400 based on 8x P/E vs prior 10x times revised C27 EPS to reflect lower market multiples on mixed memory peer results,\" the Citi analyst wrote, according to the firm's note.",
+      "The revision followed Citi's meetings with memory supply chain participants and third-party experts at the \"Future of Memory and Storage\" conference. The core takeaway: pricing momentum in both DRAM and NAND is real but fading.",
+      "\"We see both DRAM and NAND prices decelerating Q/Q in the next four quarters with prices peaking in 2Q of next year,\" the analyst said. Memory stocks tend to move in line with expectations for memory prices over the next several quarters.",
+      "In the second half of 2027, Citi now sees DRAM prices down 3% half-over-half versus a flatter prior view. For NAND, the second half of 2027 is now projected down 5% half-over-half. The firm cut its FY27 and FY28 EPS estimates by 1% and 2%, respectively.",
+      "\"We expect Micron's gross margins to decline from current mid-80s and sustain in mid-70s next year as prices decline from a high base with ~40% DRAM bits under LTA pricing contracts,\" the analyst wrote.",
+      "That LTA cushion provides some buffer, but not enough to fully offset the pricing trajectory the firm envisions.",
+      "Samsung posted DRAM average selling prices up roughly mid-40% quarter-over-quarter and NAND ASPs up high-60% in Q2, beating consensus on both sales and operating profit. SK Hynix came in just below consensus, with DRAM ASPs up 30% quarter-over-quarter and NAND ASPs up mid-50%, and disclosed a five-year long-term agreement with Nvidia valued at $500 billion.",
+      "Sandisk, by contrast, missed its September-quarter revenue guidance on more muted pricing, a data point Citi weighed in softening its own forward estimates.",
+      "China sees as the key LT risk",
+      "Beyond the near-term pricing path, Citi identified a structural risk that carries more long-term weight. \"China competition and capacity additions in both NAND and DRAM markets is the biggest risk to our thesis,\" the analysts said.",
+      "YMTC, China's leading NAND producer, plans to add 50,000 to 60,000 wafer starts to its existing 200,000-unit operating capacity next year and has publicly stated its ambition to become the world's largest NAND player by 2030."
+    ],
+    "html": null
+  }
+}

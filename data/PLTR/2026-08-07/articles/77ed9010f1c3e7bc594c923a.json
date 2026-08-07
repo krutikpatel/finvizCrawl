@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-11-4-210412689.html",
+    "fetched_at": "2026-08-07T07:01:09.236214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Dumps $11.4 Million in Palantir Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCathie Wood's ARK Invest trimmed its stake in Palantir Technologies (NASDAQ:PLTR), selling 70,259 shares worth about $11.4 million, extending a series of recent sales after the AI software company's sharp rally to record highs.\nThe transaction appears to be driven by portfolio rebalancing and profit-taking rather than a change in Wood's long-term view on Palantir. ARK has historically reduced positions after strong share-price gains to prevent individual holdings from becoming too large within its actively managed funds.\nDespite the latest sale, Palantir remains one of ARK's largest holdings. Portfolio data show the firm still owns about 3.11 million Palantir shares valued at roughly $493 million, making it one of its top 10 positions. Since initiating its investment in 2020, ARK has repeatedly bought and trimmed the stock while maintaining a sizable long-term stake.\nThe latest sale follows Palantir's earnings-driven surge, suggesting Wood is locking in gains after the stock's rapid appreciation while continuing to retain meaningful exposure to the AI software company.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Cathie Wood's ARK Invest trimmed its stake in Palantir Technologies (NASDAQ:PLTR), selling 70,259 shares worth about $11.4 million, extending a series of recent sales after the AI software company's sharp rally to record highs.",
+      "The transaction appears to be driven by portfolio rebalancing and profit-taking rather than a change in Wood's long-term view on Palantir. ARK has historically reduced positions after strong share-price gains to prevent individual holdings from becoming too large within its actively managed funds.",
+      "Despite the latest sale, Palantir remains one of ARK's largest holdings. Portfolio data show the firm still owns about 3.11 million Palantir shares valued at roughly $493 million, making it one of its top 10 positions. Since initiating its investment in 2020, ARK has repeatedly bought and trimmed the stock while maintaining a sizable long-term stake.",
+      "The latest sale follows Palantir's earnings-driven surge, suggesting Wood is locking in gains after the stock's rapid appreciation while continuing to retain meaningful exposure to the AI software company."
+    ],
+    "html": null
+  }
+}

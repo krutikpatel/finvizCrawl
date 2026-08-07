@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sandisks-weak-guidance-sends-ai-161318227.html",
+    "fetched_at": "2026-08-07T07:01:43.497199-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sandisk's Weak Guidance Sends AI Chip Stocks Tumbling",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMemory and AI chip stocks fell on Thursday after Sandisk (NASDAQ:SNDK) issued revenue guidance that disappointed investors despite reporting better-than-expected quarterly results, dragging semiconductor shares lower across the U.S. and Asia.\nThe sector-wide pullback followed concerns that AI-driven memory demand may be moderating from exceptionally high expectations.\nSandisk shares dropped about 8% after the opening bell, while Western Digital (WDC) tumbled nearly 15% even after topping earnings and outlook estimates. In Asia, SK hynix (SKHY) sank about 10% and Samsung Electronics (SSNLF) fell nearly 6%, weighing on South Korea's Kospi index. In U.S. trading, Micron Technology (MU) and Seagate Technology (NASDAQ:STX) each declined about 4%, while Advanced Micro Devices (AMD), Intel (INTC), Marvell Technology (NASDAQ:MRVL), Arm (NASDAQ:ARM), and Texas Instruments (TXN) also traded lower.\nThe selloff reflected investor concerns over softer memory pricing expectations rather than weakening AI demand. Analysts noted that demand from hyperscale data centers remains resilient, although elevated valuations have left the sector vulnerable to any signs of slowing growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Memory and AI chip stocks fell on Thursday after Sandisk (NASDAQ:SNDK) issued revenue guidance that disappointed investors despite reporting better-than-expected quarterly results, dragging semiconductor shares lower across the U.S. and Asia.",
+      "The sector-wide pullback followed concerns that AI-driven memory demand may be moderating from exceptionally high expectations.",
+      "Sandisk shares dropped about 8% after the opening bell, while Western Digital (WDC) tumbled nearly 15% even after topping earnings and outlook estimates. In Asia, SK hynix (SKHY) sank about 10% and Samsung Electronics (SSNLF) fell nearly 6%, weighing on South Korea's Kospi index. In U.S. trading, Micron Technology (MU) and Seagate Technology (NASDAQ:STX) each declined about 4%, while Advanced Micro Devices (AMD), Intel (INTC), Marvell Technology (NASDAQ:MRVL), Arm (NASDAQ:ARM), and Texas Instruments (TXN) also traded lower.",
+      "The selloff reflected investor concerns over softer memory pricing expectations rather than weakening AI demand. Analysts noted that demand from hyperscale data centers remains resilient, although elevated valuations have left the sector vulnerable to any signs of slowing growth."
+    ],
+    "html": null
+  }
+}

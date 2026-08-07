@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a633936a-f98a-39a2-bd3e-3e704ce69ad2/morning-minute%3A-metamask.html",
+    "fetched_at": "2026-08-07T07:00:37.293419-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.\nGM!\nToday's top news:\n-\nCrypto majors are slightly green; BTC at $65k\n-\nClarity Act vote officially delayed until after August recess, 13% chance to pass\n-\nBTC ETFs see another $138M in net inflows, now $750M+ on week\n-\nRobinhood Chain hits new ATH in active addresses after Cashcat gets listed on Robinhood US\n-\nNew NFT mint Mancer triples on debut, token runs 11x to $8M\n🦊 MetaMask Hands AI Agents a Wallet, With Guardrails and a \"Beast Mode\"\nMetaMask launched Agent Wallet on Thursday, a self-custodial wallet that lets AI agents trade crypto on their own, within limits the user sets.\nThe pitch is autonomy without handing over the keys: an agent can run swaps, perps, prediction-market bets, and staking across Ethereum-compatible chains and Hyperliquid, but only after users have:\n-\ncapped its spending\n-\nallowlisted the protocols it can touch, and\n-\npicked a risk setting.\nThere are two modes users can choose from, the cautious \"Guard Mode\" and a fully-let-it-rip \"Beast Mode.\"\n-\nGuard Mode (default): Users pre-approve the protocols and addresses the agent can touch, and anything outside those rules, or above the spending limit, pauses for 2FA sign-off before it executes\n-\nBeast Mode: Drops the allowlist so the agent trades freely with no approval prompts, relying on real-time threat scanning as the only tripwire, though user spending caps and a malicious-transaction 2FA backstop still apply\nEvery transaction runs through simulation, threat scanning, and MEV protection, and eligible trades get up to $10,000 a month in loss coverage. It plugs into the AI tools developers already use, including Claude Code, Codex, Cursor, and OpenClaw, and it handles gas for you, settling fees in whatever token is being moved so an agent never needs to hold a chain's native coin. There's no token attached.\nTo be clear, MetaMask isn't first here. Coinbase shipped agentic wallets in February and MoonPay's been building since spring. But MetaMask is the biggest, with roughly a quarter of the wallet market. Consensys and founder Joe Lubin are clearly betting that the next wave of onchain activity won't be driven by humans at all. Whether traders actually hand real money to autonomous software is the open question, and how soon comfort and trust can be built.\nMy gut read? We are still 1+ years out. But we are getting closer. And it makes sense to build the infrastructure now, because agentic trading is definitely the future.",
+    "text_blocks": [
+      "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.",
+      "GM!",
+      "Today's top news:",
+      "-",
+      "Crypto majors are slightly green; BTC at $65k",
+      "-",
+      "Clarity Act vote officially delayed until after August recess, 13% chance to pass",
+      "-",
+      "BTC ETFs see another $138M in net inflows, now $750M+ on week",
+      "-",
+      "Robinhood Chain hits new ATH in active addresses after Cashcat gets listed on Robinhood US",
+      "-",
+      "New NFT mint Mancer triples on debut, token runs 11x to $8M",
+      "🦊 MetaMask Hands AI Agents a Wallet, With Guardrails and a \"Beast Mode\"",
+      "MetaMask launched Agent Wallet on Thursday, a self-custodial wallet that lets AI agents trade crypto on their own, within limits the user sets.",
+      "The pitch is autonomy without handing over the keys: an agent can run swaps, perps, prediction-market bets, and staking across Ethereum-compatible chains and Hyperliquid, but only after users have:",
+      "-",
+      "capped its spending",
+      "-",
+      "allowlisted the protocols it can touch, and",
+      "-",
+      "picked a risk setting.",
+      "There are two modes users can choose from, the cautious \"Guard Mode\" and a fully-let-it-rip \"Beast Mode.\"",
+      "-",
+      "Guard Mode (default): Users pre-approve the protocols and addresses the agent can touch, and anything outside those rules, or above the spending limit, pauses for 2FA sign-off before it executes",
+      "-",
+      "Beast Mode: Drops the allowlist so the agent trades freely with no approval prompts, relying on real-time threat scanning as the only tripwire, though user spending caps and a malicious-transaction 2FA backstop still apply",
+      "Every transaction runs through simulation, threat scanning, and MEV protection, and eligible trades get up to $10,000 a month in loss coverage. It plugs into the AI tools developers already use, including Claude Code, Codex, Cursor, and OpenClaw, and it handles gas for you, settling fees in whatever token is being moved so an agent never needs to hold a chain's native coin. There's no token attached.",
+      "To be clear, MetaMask isn't first here. Coinbase shipped agentic wallets in February and MoonPay's been building since spring. But MetaMask is the biggest, with roughly a quarter of the wallet market. Consensys and founder Joe Lubin are clearly betting that the next wave of onchain activity won't be driven by humans at all. Whether traders actually hand real money to autonomous software is the open question, and how soon comfort and trust can be built.",
+      "My gut read? We are still 1+ years out. But we are getting closer. And it makes sense to build the infrastructure now, because agentic trading is definitely the future."
+    ],
+    "html": null
+  }
+}
