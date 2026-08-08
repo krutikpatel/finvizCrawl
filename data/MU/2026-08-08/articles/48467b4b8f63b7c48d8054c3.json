@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/sk-hynix-invests-38b-plants-200856730.html",
+    "fetched_at": "2026-08-08T07:00:14.086552-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SK Hynix invests $38B in new plants amid AI memory shortages",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Yahoo Finance Tech Editor Dan Howley discusses SK Hynix (SKHY) committing $38 billion to build new chip manufacturing facilities in an effort to scale up production of high-bandwidth memory (HBM) and DRAM amid persistent AI supply shortages.\nSK Hyx is announcing a $38 billion investment in two new chip plants as demand for high bandwidth memory continues to outpace supply.\nFor more, we are bringing in Yahoo Finance tech editor Dan Howley. Dan, all right, so we know SK Hyx's margins are out of sight here, but $38 billion is a lot of money and uh, you know, if you're going to keep the world supplied with HBM, I guess you got to do a little bit of that. Um, what are the some of the details there?\nYeah, they're basically setting up two new factories or fabs or fabrication facilities. and they're just buildings to build uh these chips. Anyway, they're they're producing, they want to produce more of this high bandwidth memory as well as uh D uh this kind of uh uh DDR RAM. So there's high bandwidth memory, there's DDR RAM. They both are made using something called uh DRAM. And don't worry about all the abbreviations, just know that DRAM is the basic component and it goes into the stuff that goes in data\ncenters and it goes into the stuff that goes into your smartphone and your laptop. Now, because of this huge build out of AI, the HBM memory, that high bandwidth memory is getting more play from these manufacturers while the supply of DRAM is uh or DDR RAM is dropping. And so that means that pricing on some of our components that we buy is going up. So, to meet demand, they're trying to construct these facilities. uh SK Hyx, Micron, Samsung, all building out more fabrication facilities to build more chips.\nProblem is, it takes a long time to build these facilities. It's not like standing up a Wendy's, you know, it's not going to happen over right, you're not going to get froties out of these either. What will happen is they will take years and then it's not even clear that that will actually meet all the demand that is available right now. There's there's not enough supply. Uh these buildings might not be uh the answer to that supply problem. They might have to continue to build out moving forward.\nAnd so, this is basically a way to kind of try to tamp down on some of that. But, you know, as I said, there's no guarantee that this will stop all the supply constraints. In fact, we're hearing that that could last well into 2030.",
+    "text_blocks": [
+      "Yahoo Finance Tech Editor Dan Howley discusses SK Hynix (SKHY) committing $38 billion to build new chip manufacturing facilities in an effort to scale up production of high-bandwidth memory (HBM) and DRAM amid persistent AI supply shortages.",
+      "SK Hyx is announcing a $38 billion investment in two new chip plants as demand for high bandwidth memory continues to outpace supply.",
+      "For more, we are bringing in Yahoo Finance tech editor Dan Howley. Dan, all right, so we know SK Hyx's margins are out of sight here, but $38 billion is a lot of money and uh, you know, if you're going to keep the world supplied with HBM, I guess you got to do a little bit of that. Um, what are the some of the details there?",
+      "Yeah, they're basically setting up two new factories or fabs or fabrication facilities. and they're just buildings to build uh these chips. Anyway, they're they're producing, they want to produce more of this high bandwidth memory as well as uh D uh this kind of uh uh DDR RAM. So there's high bandwidth memory, there's DDR RAM. They both are made using something called uh DRAM. And don't worry about all the abbreviations, just know that DRAM is the basic component and it goes into the stuff that goes in data",
+      "centers and it goes into the stuff that goes into your smartphone and your laptop. Now, because of this huge build out of AI, the HBM memory, that high bandwidth memory is getting more play from these manufacturers while the supply of DRAM is uh or DDR RAM is dropping. And so that means that pricing on some of our components that we buy is going up. So, to meet demand, they're trying to construct these facilities. uh SK Hyx, Micron, Samsung, all building out more fabrication facilities to build more chips.",
+      "Problem is, it takes a long time to build these facilities. It's not like standing up a Wendy's, you know, it's not going to happen over right, you're not going to get froties out of these either. What will happen is they will take years and then it's not even clear that that will actually meet all the demand that is available right now. There's there's not enough supply. Uh these buildings might not be uh the answer to that supply problem. They might have to continue to build out moving forward.",
+      "And so, this is basically a way to kind of try to tamp down on some of that. But, you know, as I said, there's no guarantee that this will stop all the supply constraints. In fact, we're hearing that that could last well into 2030."
+    ],
+    "html": null
+  }
+}

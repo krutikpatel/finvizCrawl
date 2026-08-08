@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-openai-escalate-legal-battle-203900524.html",
+    "fetched_at": "2026-08-08T07:00:07.848116-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple and OpenAI escalate legal battle over devices",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A legal battle between Apple and OpenAI over the ChatGPT-maker's secretive device project escalated this week when the artificial intelligence (AI) developer called the iPhone-maker's allegations \"baseless\" and asked for the lawsuit's dismissal.\nApple sued OpenAI last month in San Jose, California, accusing the AI company of orchestrating a campaign to steal the iPhone maker's trade secrets via former employees as it tries to develop its own consumer hardware device.\nIn a new court document filed Monday, Apple described OpenAI's actions as \"repeated instances of deliberate theft.\"\n\"OpenAI should not be permitted to use Apple's secrets to gain an unjust head start in its hardware ambitions,\" the iPhone-maker says.\nOpenAI hit back on Wednesday and called for the case to be permanently dismissed, which would bar Apple from filing another lawsuit on the same grounds.\n\"Apple built its reputation by paying close attention to the smallest details. This lawsuit does the opposite,\" OpenAI's lawyers say in their filing, which continues to describe Apple's complaint as \"rotten to its core.\"\nFederal judge Edward Davila will consider both requests at a hearing on October 1.\n- Partners and rivals -\nMeanwhile, the two companies remain partners, since ChatGPT has been integrated into Apple products since 2024.\n\"Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its shortcomings in the market for talent and retaining its employees, and its failures to integrate AI into its products,\" OpenAI's lawyers say.\nThey invoke California laws that \"encourage\" employees to take new jobs – policies that are \"credited with powering the tech revolution that has made companies based in this state the envy of the world.\"\nMore than 400 former Apple employees currently work at OpenAI, according to the initial complaint.\n\"The harm is happening now,\" Apple's lawyers say, and \"every day that passes without an injunction allows OpenAI to embed their knowledge of Apple's stolen information into its hardware development efforts.\"\n– Smart speaker –\nTo convince the judge of the urgency, Apple's lawyers submitted a TechCrunch article describing leaked details about OpenAI's highly anticipated first device: a screenless smart speaker designed in collaboration with LoveFrom, a studio founded by Jony Ive, Apple's famed former head of design.\nOn Thursday, Bloomberg reported that the device would be circular like a donut, about the size of a hockey puck, and cost between $300 and $400, with a launch planned for 2027.",
+    "text_blocks": [
+      "A legal battle between Apple and OpenAI over the ChatGPT-maker's secretive device project escalated this week when the artificial intelligence (AI) developer called the iPhone-maker's allegations \"baseless\" and asked for the lawsuit's dismissal.",
+      "Apple sued OpenAI last month in San Jose, California, accusing the AI company of orchestrating a campaign to steal the iPhone maker's trade secrets via former employees as it tries to develop its own consumer hardware device.",
+      "In a new court document filed Monday, Apple described OpenAI's actions as \"repeated instances of deliberate theft.\"",
+      "\"OpenAI should not be permitted to use Apple's secrets to gain an unjust head start in its hardware ambitions,\" the iPhone-maker says.",
+      "OpenAI hit back on Wednesday and called for the case to be permanently dismissed, which would bar Apple from filing another lawsuit on the same grounds.",
+      "\"Apple built its reputation by paying close attention to the smallest details. This lawsuit does the opposite,\" OpenAI's lawyers say in their filing, which continues to describe Apple's complaint as \"rotten to its core.\"",
+      "Federal judge Edward Davila will consider both requests at a hearing on October 1.",
+      "- Partners and rivals -",
+      "Meanwhile, the two companies remain partners, since ChatGPT has been integrated into Apple products since 2024.",
+      "\"Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its shortcomings in the market for talent and retaining its employees, and its failures to integrate AI into its products,\" OpenAI's lawyers say.",
+      "They invoke California laws that \"encourage\" employees to take new jobs – policies that are \"credited with powering the tech revolution that has made companies based in this state the envy of the world.\"",
+      "More than 400 former Apple employees currently work at OpenAI, according to the initial complaint.",
+      "\"The harm is happening now,\" Apple's lawyers say, and \"every day that passes without an injunction allows OpenAI to embed their knowledge of Apple's stolen information into its hardware development efforts.\"",
+      "– Smart speaker –",
+      "To convince the judge of the urgency, Apple's lawyers submitted a TechCrunch article describing leaked details about OpenAI's highly anticipated first device: a screenless smart speaker designed in collaboration with LoveFrom, a studio founded by Jony Ive, Apple's famed former head of design.",
+      "On Thursday, Bloomberg reported that the device would be circular like a donut, about the size of a hockey puck, and cost between $300 and $400, with a launch planned for 2027."
+    ],
+    "html": null
+  }
+}

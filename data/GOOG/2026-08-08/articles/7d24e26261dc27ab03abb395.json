@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c791c864-0d78-354e-b5ac-5341343b0d7d/tougher-google-antitrust.html",
+    "fetched_at": "2026-08-08T07:00:26.684691-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tougher Google Antitrust Penalties Would Threaten Firefox, Mozilla Warns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Firefox developer Mozilla is warning that it could be forced to \"exit the browser and browser engine markets\" if it can no longer receive payment from Google for distributing itssearch engine.\nA ban on payments \"could force Mozilla (and other independent browser developers) to exit the browser and browser engine markets, thereby eliminating a keydistributor in the general search engine market, depriving users of a high-quality browser that offers market-leading privacy and security protections, and granting greater power over the internet toBig Tech companies,\" the company writes in a friend-of-the-court brief filed Thursday with the D.C. Circuit Court of Appeals.\nThe new papers come in a battle that began in2020, when the Department of Justice and a coalition of states accused Google of violating antitrust laws by arranging to serve as the default search engine for Apple's Safari and Mozilla's Firefox,as well as on Android devices.\nU.S. District Court Judge Amit Mehta in Washington, D.C., who presided over a trial, ruled in 2024 that Google unlawfully maintained a monopoly in two markets --general search services, and search text ads.\nIn September 2025, Mehta issued a remedies order that includes provisions prohibiting Google from entering into exclusivedistribution contracts for Google Search, Chrome, Google Assistant and the Gemini app for six years. That order, however, allows the company to continue to pay Apple, Mozilla and other search enginedistributors.\nMehta said banning payments to those companies \"would have profound impacts on them and the related markets in which they operate.\"\nHeadded that prohibiting payments would force distributors to either continue offering Google as a default search engine without receiving revenue, or entering into agreements with \"lesser quality\"search engines \"to ensure that some payments continue.\"\nFederal and state antitrust enforcers recently asked the appellate court to reverse the portion of Mehta's order thatallows those payments to continue.\nBut Mozilla counters in its new friend-of-the-court brief that Mehta's decision regarding those payments was supported by the evidence --including a study it conducted concluding that its revenue would \"decline dramatically\" if forced to replace Google with Bing as Firefox's default search engine.\nMozilla saysits brief is \"in support of neither party,\" meaning it isn't taking a position on some of the larger questions in the appeal.\nGoogle is expected to file new arguments with theappellate court next month.",
+    "text_blocks": [
+      "Firefox developer Mozilla is warning that it could be forced to \"exit the browser and browser engine markets\" if it can no longer receive payment from Google for distributing itssearch engine.",
+      "A ban on payments \"could force Mozilla (and other independent browser developers) to exit the browser and browser engine markets, thereby eliminating a keydistributor in the general search engine market, depriving users of a high-quality browser that offers market-leading privacy and security protections, and granting greater power over the internet toBig Tech companies,\" the company writes in a friend-of-the-court brief filed Thursday with the D.C. Circuit Court of Appeals.",
+      "The new papers come in a battle that began in2020, when the Department of Justice and a coalition of states accused Google of violating antitrust laws by arranging to serve as the default search engine for Apple's Safari and Mozilla's Firefox,as well as on Android devices.",
+      "U.S. District Court Judge Amit Mehta in Washington, D.C., who presided over a trial, ruled in 2024 that Google unlawfully maintained a monopoly in two markets --general search services, and search text ads.",
+      "In September 2025, Mehta issued a remedies order that includes provisions prohibiting Google from entering into exclusivedistribution contracts for Google Search, Chrome, Google Assistant and the Gemini app for six years. That order, however, allows the company to continue to pay Apple, Mozilla and other search enginedistributors.",
+      "Mehta said banning payments to those companies \"would have profound impacts on them and the related markets in which they operate.\"",
+      "Headded that prohibiting payments would force distributors to either continue offering Google as a default search engine without receiving revenue, or entering into agreements with \"lesser quality\"search engines \"to ensure that some payments continue.\"",
+      "Federal and state antitrust enforcers recently asked the appellate court to reverse the portion of Mehta's order thatallows those payments to continue.",
+      "But Mozilla counters in its new friend-of-the-court brief that Mehta's decision regarding those payments was supported by the evidence --including a study it conducted concluding that its revenue would \"decline dramatically\" if forced to replace Google with Bing as Firefox's default search engine.",
+      "Mozilla saysits brief is \"in support of neither party,\" meaning it isn't taking a position on some of the larger questions in the appeal.",
+      "Google is expected to file new arguments with theappellate court next month."
+    ],
+    "html": null
+  }
+}

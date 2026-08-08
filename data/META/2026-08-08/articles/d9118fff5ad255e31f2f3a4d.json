@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/explainer-could-mexicos-567-million-193540756.html",
+    "fetched_at": "2026-08-08T07:00:10.788177-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Dietrich Knauth\nAug 7 (Reuters) - A New Mexico state court ordered Meta Platforms, owner of Facebook and Instagram, to make major changes to its platforms and pay the largest sum yet in a growing wave of U.S. litigation over claims that social media harms young people.\nHere is a look at the decision and its potential consequences.\nHOW MUCH MUST META PAY?\nThe court in Santa Fe ruled on Thursday that Meta must pay $567 million into a New Mexico fund for teen mental health prevention and treatment.\nIn an earlier phase of the case, a jury awarded New Mexico $375 million on related consumer protection claims.\nThe combined $942 million far exceeds other penalties in youth-related social media cases including a $6 million verdict against Meta and Alphabet's Google, owner of YouTube, in a California case in March.\nMeta said the claims misrepresented the facts and that it will appeal the ruling.\nWHAT CHANGES DID THE COURT ORDER META TO MAKE?\nJudge Bryan Biedscheid in Santa Fe ordered Meta to implement measures for users in New Mexico intended to protect youth on Facebook and Instagram. The ruling does not affect other states.\nMeta must introduce more stringent age verification, restrict users under 18 to no more than 90 hours a month and shut off push notifications overnight and during school hours. Parents must consent to the number of \"likes\" on a child's post being shown, the ruling said.\nMeta must also ban sexualized chatbot interactions with minors and blur images suspected of containing nudity.\nThe judge rejected some of the changes New Mexico requested, including modifications to Meta's algorithms and features such as infinite scroll and autoplay videos. The company said during the trial that some changes the state sought were not technologically possible and could force it to exit the state.\nWHAT WAS THE BASIS OF THE JUDGE'S DECISION?\nBiedscheid ruled that Meta created a public nuisance, agreeing with New Mexico's claims that Facebook and Instagram were designed in ways that addicted young users and did not adequately protect them from sexual exploitation.\nReuters last year reported on company documents that showed Meta's AI chatbots could \"engage a child in conversations that are romantic or sensual.\"\nThe judge rejected Meta's call to dismiss the case under Section 230 of the Communications Decency Act, which generally shields online platforms from liability over user content.\nWHAT IS A PUBLIC NUISANCE?\nPublic nuisance claims traditionally have been used in cases involving threats to public health or safety, such as pollution. More recently, governments have brought them in lawsuits against companies that sold or marketed tobacco and opioids.",
+    "text_blocks": [
+      "By Dietrich Knauth",
+      "Aug 7 (Reuters) - A New Mexico state court ordered Meta Platforms, owner of Facebook and Instagram, to make major changes to its platforms and pay the largest sum yet in a growing wave of U.S. litigation over claims that social media harms young people.",
+      "Here is a look at the decision and its potential consequences.",
+      "HOW MUCH MUST META PAY?",
+      "The court in Santa Fe ruled on Thursday that Meta must pay $567 million into a New Mexico fund for teen mental health prevention and treatment.",
+      "In an earlier phase of the case, a jury awarded New Mexico $375 million on related consumer protection claims.",
+      "The combined $942 million far exceeds other penalties in youth-related social media cases including a $6 million verdict against Meta and Alphabet's Google, owner of YouTube, in a California case in March.",
+      "Meta said the claims misrepresented the facts and that it will appeal the ruling.",
+      "WHAT CHANGES DID THE COURT ORDER META TO MAKE?",
+      "Judge Bryan Biedscheid in Santa Fe ordered Meta to implement measures for users in New Mexico intended to protect youth on Facebook and Instagram. The ruling does not affect other states.",
+      "Meta must introduce more stringent age verification, restrict users under 18 to no more than 90 hours a month and shut off push notifications overnight and during school hours. Parents must consent to the number of \"likes\" on a child's post being shown, the ruling said.",
+      "Meta must also ban sexualized chatbot interactions with minors and blur images suspected of containing nudity.",
+      "The judge rejected some of the changes New Mexico requested, including modifications to Meta's algorithms and features such as infinite scroll and autoplay videos. The company said during the trial that some changes the state sought were not technologically possible and could force it to exit the state.",
+      "WHAT WAS THE BASIS OF THE JUDGE'S DECISION?",
+      "Biedscheid ruled that Meta created a public nuisance, agreeing with New Mexico's claims that Facebook and Instagram were designed in ways that addicted young users and did not adequately protect them from sexual exploitation.",
+      "Reuters last year reported on company documents that showed Meta's AI chatbots could \"engage a child in conversations that are romantic or sensual.\"",
+      "The judge rejected Meta's call to dismiss the case under Section 230 of the Communications Decency Act, which generally shields online platforms from liability over user content.",
+      "WHAT IS A PUBLIC NUISANCE?",
+      "Public nuisance claims traditionally have been used in cases involving threats to public health or safety, such as pollution. More recently, governments have brought them in lawsuits against companies that sold or marketed tobacco and opioids."
+    ],
+    "html": null
+  }
+}

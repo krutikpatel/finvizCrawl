@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/alphabet-taps-bond-market-again-153030870.html",
+    "fetched_at": "2026-08-08T07:00:23.552003-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Taps the Bond Market Again for Up to $25 Billion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL) is looking to raise between $20 billion and $25 billion in a new U.S. bond offering, according to Reuters, which cited a person familiar with the matter. The notes would come in up to 10 tranches, maturing anywhere from two to 40 years out. Alphabet shares are up 0.31% premarket.\nThe raise fits a broader shift. Alphabet, Amazon (NASDAQ:AMZN), Meta (NASDAQ:META), and Oracle (NYSE:ORCL) issued about $194 billion in bonds through early July, up 79% from a year earlier, as companies that once funded investment from cash reserves turn to borrowing. Big Tech is expected to spend more than $730 billion this year, mostly on AI, and the outlay is starting to bite. Alphabet posted its first-ever negative free cash flow in the second quarter and raised its capital spending forecast for the second time this year.\nIn June, Alphabet announced an $80 billion equity offering, later upsized to nearly $85 billion on strong demand, including an investment from Berkshire Hathaway (NYSE:BRK.B). It has also sold bonds in yen, francs, and pounds this year, among them a rare 100-year note.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL) is looking to raise between $20 billion and $25 billion in a new U.S. bond offering, according to Reuters, which cited a person familiar with the matter. The notes would come in up to 10 tranches, maturing anywhere from two to 40 years out. Alphabet shares are up 0.31% premarket.",
+      "The raise fits a broader shift. Alphabet, Amazon (NASDAQ:AMZN), Meta (NASDAQ:META), and Oracle (NYSE:ORCL) issued about $194 billion in bonds through early July, up 79% from a year earlier, as companies that once funded investment from cash reserves turn to borrowing. Big Tech is expected to spend more than $730 billion this year, mostly on AI, and the outlay is starting to bite. Alphabet posted its first-ever negative free cash flow in the second quarter and raised its capital spending forecast for the second time this year.",
+      "In June, Alphabet announced an $80 billion equity offering, later upsized to nearly $85 billion on strong demand, including an investment from Berkshire Hathaway (NYSE:BRK.B). It has also sold bonds in yen, francs, and pounds this year, among them a rare 100-year note."
+    ],
+    "html": null
+  }
+}

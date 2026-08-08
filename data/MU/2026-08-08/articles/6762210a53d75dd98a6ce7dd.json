@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-falls-citi-slashes-195133579.html",
+    "fetched_at": "2026-08-08T07:00:14.150533-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock Falls After Citi Slashes Price Target on Memory Risks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron (NASDAQ:MU) and SanDisk (NASDAQ:SNDK) remained under pressure on Friday as investors continued pulling back from memory-chip stocks following a weaker outlook from SanDisk and a cautious industry forecast from Citi.\nMicron shares fell about 1%, while SanDisk declined more than 2%. The broader memory sector also weakened after Citi said DRAM and NAND pricing could begin slowing over the next several quarters, with prices likely peaking in the second quarter of next year.\nCiti analyst Atif Malik maintained a Buy rating on Micron but lowered his price target to $1,150 from $1,400. Following discussions with memory suppliers and industry participants, the firm said pricing trends remain healthy for now but are expected to moderate as supply conditions normalize.\nThe brokerage also pointed to expanding Chinese memory production as a longer-term risk for the industry. While U.S. export controls may limit Chinese memory shipments to the domestic market, increased exports to Europe and other regions could weigh on global pricing.\nSelling pressure extended across Asian chipmakers. SK Hynix (SKHY) fell more than 4%, while Samsung (SSNLF) and Kioxia also traded lower. Despite the near-term caution, analysts continue to expect artificial intelligence-driven demand for memory and enterprise storage to support the sector over the longer term.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron (NASDAQ:MU) and SanDisk (NASDAQ:SNDK) remained under pressure on Friday as investors continued pulling back from memory-chip stocks following a weaker outlook from SanDisk and a cautious industry forecast from Citi.",
+      "Micron shares fell about 1%, while SanDisk declined more than 2%. The broader memory sector also weakened after Citi said DRAM and NAND pricing could begin slowing over the next several quarters, with prices likely peaking in the second quarter of next year.",
+      "Citi analyst Atif Malik maintained a Buy rating on Micron but lowered his price target to $1,150 from $1,400. Following discussions with memory suppliers and industry participants, the firm said pricing trends remain healthy for now but are expected to moderate as supply conditions normalize.",
+      "The brokerage also pointed to expanding Chinese memory production as a longer-term risk for the industry. While U.S. export controls may limit Chinese memory shipments to the domestic market, increased exports to Europe and other regions could weigh on global pricing.",
+      "Selling pressure extended across Asian chipmakers. SK Hynix (SKHY) fell more than 4%, while Samsung (SSNLF) and Kioxia also traded lower. Despite the near-term caution, analysts continue to expect artificial intelligence-driven demand for memory and enterprise storage to support the sector over the longer term."
+    ],
+    "html": null
+  }
+}

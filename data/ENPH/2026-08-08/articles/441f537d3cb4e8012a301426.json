@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/solar-stocks-pop-trump-tariffs-200323630.html",
+    "fetched_at": "2026-08-08T07:00:17.252288-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Solar stocks pop on Trump tariffs: AlphaSpace heat map breakdown",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "00:00 Speaker A\nTrump puts in place new tariffs on imported solar products. A couple details here. So this is a 15% tariff plus minimum import prices on polysilicon, downstream products including wafers, cells and modules. This is effective December 4th, and we're seeing some stock movement off of this.\n00:20 Speaker B\nYeah, we absolutely are. I want to take a look at Alpha Space because what we are seeing is pretty much a sea of green when it comes to these clean energy stocks. What we've seen during today's trading session is really this upward momentum across the board here. Taking a look at Alpha Space, the clean energy heat map, you have most in the green except for this one company that is uh an outlier here.\n00:53 Speaker A\nSedge?\n00:55 Speaker B\nYes, because of the fact, because of the fact that it does import some products from China, that of course would have implications here. So you can even take a look at this broader list. I'm going to expand this panel, taking a look, Solar Edge is the only one that's moving lower, down 3.4%. But you can see on the flip side, we have Sunrun up 9.3%, Plug Power up 4.6%, First Solar up 3% and and Enphase Energy up 4.8%. So good news there.\n01:21 Speaker A\nYeah, really really quick. Uh First Solar the clearest winner probably because it manufactures in the US, uses thin film technology rather than some conventional, what are called crystalline silicon supply chain. Um Interesting. So new to me.\n01:42 Speaker B\nInteresting.",
+    "text_blocks": [
+      "00:00 Speaker A",
+      "Trump puts in place new tariffs on imported solar products. A couple details here. So this is a 15% tariff plus minimum import prices on polysilicon, downstream products including wafers, cells and modules. This is effective December 4th, and we're seeing some stock movement off of this.",
+      "00:20 Speaker B",
+      "Yeah, we absolutely are. I want to take a look at Alpha Space because what we are seeing is pretty much a sea of green when it comes to these clean energy stocks. What we've seen during today's trading session is really this upward momentum across the board here. Taking a look at Alpha Space, the clean energy heat map, you have most in the green except for this one company that is uh an outlier here.",
+      "00:53 Speaker A",
+      "Sedge?",
+      "00:55 Speaker B",
+      "Yes, because of the fact, because of the fact that it does import some products from China, that of course would have implications here. So you can even take a look at this broader list. I'm going to expand this panel, taking a look, Solar Edge is the only one that's moving lower, down 3.4%. But you can see on the flip side, we have Sunrun up 9.3%, Plug Power up 4.6%, First Solar up 3% and and Enphase Energy up 4.8%. So good news there.",
+      "01:21 Speaker A",
+      "Yeah, really really quick. Uh First Solar the clearest winner probably because it manufactures in the US, uses thin film technology rather than some conventional, what are called crystalline silicon supply chain. Um Interesting. So new to me.",
+      "01:42 Speaker B",
+      "Interesting."
+    ],
+    "html": null
+  }
+}

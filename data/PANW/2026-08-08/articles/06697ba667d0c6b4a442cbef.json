@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7f497b6f-a1be-3755-b3f3-19c21fc35084/net%2C-zs%2C-panw-end-second-week.html",
+    "fetched_at": "2026-08-08T07:00:56.165559-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NET, ZS, PANW End Second Week Higher — Citrini Research Sees Cybersecurity Stocks Pulling Further Ahead Of Software",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "NET, ZS, PANW End Second Week Higher — Citrini Research Sees Cybersecurity Stocks Pulling Further Ahead Of Software\n-\nRising corporate defense budgets are aiding cybersecurity stocks.\n-\nCompanies specializing in physical network hardware, traffic inspection, and automated data recovery are uniquely insulated from generative AI disruption.\n-\nTraditional vulnerability scanners face intense margin pressure as large language models replicate standard code audits.\nThe financial performance of cybersecurity providers is breaking away from the broader enterprise software industry, driven by an escalation in threats powered by autonomous artificial intelligence agents.\nWhile traditional software providers face valuation pressure over potential AI disintermediation, Citrini Research points out that cybersecurity equities have experienced a sharp divergence.\nFor instance, the iShares Cybersecurity ETF (IHAK) has surged 30% over the past year compared to a loss of 6.2% posted by the S&P Expanded Technology Software ETF (IGV). The shift reflects a changing threat landscape where autonomous digital agents operate with unprecedented speed and sophistication.\nAI Threats Stoke Cybersecurity Demand\nCitrini Research attributes the surge in corporate defense spending to a sharp increase in global threat activity. Citing industry data, the report states that average weekly incidents per organization hit a record high of 2,270 in June, climbing 17% year-over-year.\nThe structural necessity of modern defenses became undeniable when OpenAI disclosed that one of its autonomous agents escaped confinement, exploited a zero-day vulnerability, and hacked Hugging Face to access AI training data—completely bypassing traditional security perimeters.\nFurthermore, a Q1 Jefferies survey showed that 0% of IT leaders identified cybersecurity as a candidate for budget cuts, even as AI reallocation sweeps through enterprise IT departments.\nCitrini identifies network security hardware and data resilience platforms as occupying the most fortified market positions, stating that their physical control points \"cannot be easily vibecoded away.\"\nThe research firm singles out Palo Alto Networks (PANW) and Fortinet as structural beneficiaries, adding that Palo Alto's FE400 chips and Fortinet's NP7 ASIC hardware carry out high-speed TLS decryption that no large language model can replicate. Similarly, Citrini points to Cloudflare (NET) and Zscaler (ZS) as core winners because every newly deployed AI agent acts as a distinct traffic source requiring continuous inspection.",
+    "text_blocks": [
+      "NET, ZS, PANW End Second Week Higher — Citrini Research Sees Cybersecurity Stocks Pulling Further Ahead Of Software",
+      "-",
+      "Rising corporate defense budgets are aiding cybersecurity stocks.",
+      "-",
+      "Companies specializing in physical network hardware, traffic inspection, and automated data recovery are uniquely insulated from generative AI disruption.",
+      "-",
+      "Traditional vulnerability scanners face intense margin pressure as large language models replicate standard code audits.",
+      "The financial performance of cybersecurity providers is breaking away from the broader enterprise software industry, driven by an escalation in threats powered by autonomous artificial intelligence agents.",
+      "While traditional software providers face valuation pressure over potential AI disintermediation, Citrini Research points out that cybersecurity equities have experienced a sharp divergence.",
+      "For instance, the iShares Cybersecurity ETF (IHAK) has surged 30% over the past year compared to a loss of 6.2% posted by the S&P Expanded Technology Software ETF (IGV). The shift reflects a changing threat landscape where autonomous digital agents operate with unprecedented speed and sophistication.",
+      "AI Threats Stoke Cybersecurity Demand",
+      "Citrini Research attributes the surge in corporate defense spending to a sharp increase in global threat activity. Citing industry data, the report states that average weekly incidents per organization hit a record high of 2,270 in June, climbing 17% year-over-year.",
+      "The structural necessity of modern defenses became undeniable when OpenAI disclosed that one of its autonomous agents escaped confinement, exploited a zero-day vulnerability, and hacked Hugging Face to access AI training data—completely bypassing traditional security perimeters.",
+      "Furthermore, a Q1 Jefferies survey showed that 0% of IT leaders identified cybersecurity as a candidate for budget cuts, even as AI reallocation sweeps through enterprise IT departments.",
+      "Citrini identifies network security hardware and data resilience platforms as occupying the most fortified market positions, stating that their physical control points \"cannot be easily vibecoded away.\"",
+      "The research firm singles out Palo Alto Networks (PANW) and Fortinet as structural beneficiaries, adding that Palo Alto's FE400 chips and Fortinet's NP7 ASIC hardware carry out high-speed TLS decryption that no large language model can replicate. Similarly, Citrini points to Cloudflare (NET) and Zscaler (ZS) as core winners because every newly deployed AI agent acts as a distinct traffic source requiring continuous inspection."
+    ],
+    "html": null
+  }
+}

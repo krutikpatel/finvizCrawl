@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sounds-alarm-major-194738677.html",
+    "fetched_at": "2026-08-08T07:00:23.591388-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry Sounds Alarm on Major AI Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMichael Burry (Trades, Portfolio) is betting against Oracle (NYSE:ORCL) and Nebius Group (NASDAQ:NBIS), sharpening his broader warning that the AI infrastructure boom is becoming dangerously dependent on leverage and long-dated financial commitments. The new shorts put two of the market's fastest-growing cloud infrastructure plays directly in the crosshairs of the investor famous for anticipating the U.S. housing crash.\nNebius is an Amsterdam-based AI cloud provider that rents Nvidia-powered computing capacity to companies building and running AI models. Its growth strategy requires enormous spending on GPUs, data centers and power infrastructure, making access to financing critical as it scales.\nBurry disclosed a new Oracle short initiated at $144.63 per share, just days after closing his previous bearish position. That earlier trade consisted of January 2027 puts struck in the low $100s and generated what Burry described as a substantial profit.\nHe also shorted Nebius directly at $211.77, choosing shares instead of put options because option premiums were exorbitantly priced.\nOracle offers perhaps the clearest evidence behind Burry's leverage concerns. The company disclosed $260 billion of additional lease commitments, overwhelmingly tied to future data centers, that had not yet appeared on its balance sheet as of May 31. Capital expenditures surged to $55.7 billion in fiscal 2026, helping drive free cash flow to negative $23.7 billion.\nHowever, Oracle's cloud infrastructure revenue surged 93% last quarter and remaining performance obligations reached $638 billion, giving bulls substantial contracted demand to point to.\nNebius presents a similar high-growth, high-capital-intensity debate. The company raised roughly $4.3 billion through convertible notes in March to finance data centers and GPUs, while signing a Meta infrastructure agreement potentially worth $27 billion. First-quarter revenue soared 684% to $399 million.\nInvestor Takeaway On Oracle Stock\nInvestors should watch whether contracted AI demand converts into cash quickly enough to justify the financing required to build capacity.\nFor Oracle, the key metrics are cloud growth, free cash flow, capital spending and its enormous future lease obligations. Its next earnings report is expected in mid-September.\nFor Nebius, utilization, customer concentration and additional funding requirements matter most. Rapid revenue growth would undermine Burry's bearish case; weaker demand, higher financing costs or delayed data-center deployments would strengthen it.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Michael Burry (Trades, Portfolio) is betting against Oracle (NYSE:ORCL) and Nebius Group (NASDAQ:NBIS), sharpening his broader warning that the AI infrastructure boom is becoming dangerously dependent on leverage and long-dated financial commitments. The new shorts put two of the market's fastest-growing cloud infrastructure plays directly in the crosshairs of the investor famous for anticipating the U.S. housing crash.",
+      "Nebius is an Amsterdam-based AI cloud provider that rents Nvidia-powered computing capacity to companies building and running AI models. Its growth strategy requires enormous spending on GPUs, data centers and power infrastructure, making access to financing critical as it scales.",
+      "Burry disclosed a new Oracle short initiated at $144.63 per share, just days after closing his previous bearish position. That earlier trade consisted of January 2027 puts struck in the low $100s and generated what Burry described as a substantial profit.",
+      "He also shorted Nebius directly at $211.77, choosing shares instead of put options because option premiums were exorbitantly priced.",
+      "Oracle offers perhaps the clearest evidence behind Burry's leverage concerns. The company disclosed $260 billion of additional lease commitments, overwhelmingly tied to future data centers, that had not yet appeared on its balance sheet as of May 31. Capital expenditures surged to $55.7 billion in fiscal 2026, helping drive free cash flow to negative $23.7 billion.",
+      "However, Oracle's cloud infrastructure revenue surged 93% last quarter and remaining performance obligations reached $638 billion, giving bulls substantial contracted demand to point to.",
+      "Nebius presents a similar high-growth, high-capital-intensity debate. The company raised roughly $4.3 billion through convertible notes in March to finance data centers and GPUs, while signing a Meta infrastructure agreement potentially worth $27 billion. First-quarter revenue soared 684% to $399 million.",
+      "Investor Takeaway On Oracle Stock",
+      "Investors should watch whether contracted AI demand converts into cash quickly enough to justify the financing required to build capacity.",
+      "For Oracle, the key metrics are cloud growth, free cash flow, capital spending and its enormous future lease obligations. Its next earnings report is expected in mid-September.",
+      "For Nebius, utilization, customer concentration and additional funding requirements matter most. Rapid revenue growth would undermine Burry's bearish case; weaker demand, higher financing costs or delayed data-center deployments would strengthen it."
+    ],
+    "html": null
+  }
+}

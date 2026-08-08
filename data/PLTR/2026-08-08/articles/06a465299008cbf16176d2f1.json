@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-soars-bank-america-164742904.html",
+    "fetched_at": "2026-08-08T07:00:36.281879-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stock Soars -- Bank of America Sees Massive Upside",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) was in focus on Friday after its shares jumped about 9%, extending gains following the AI software company's strong second-quarter results.\nThe rally appeared to be supported by short covering after bearish investors absorbed heavy losses following the earnings release, while broader strength in technology stocks also lifted sentiment around Palantir.\nBank of America reiterated its Buy rating on Palantir and raised its price target to $255, implying roughly 50% upside from recent trading levels. The firm said the company's AI strategy, expanding commercial business, and long-standing government relationships continue to strengthen its competitive position.\nThe bank said Palantir's advantage lies not only in its AI software but also in deep customer partnerships and an operating model that ties pricing to measurable business outcomes. It also highlighted the company's growing role in sovereign AI, where organizations seek to deploy artificial intelligence while maintaining control over sensitive data, cybersecurity, and workflows.\nBank of America added that Palantir's U.S. commercial business continues to gain momentum through larger customer contracts and increased spending from existing clients, prompting the firm to raise its long-term forecasts.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) was in focus on Friday after its shares jumped about 9%, extending gains following the AI software company's strong second-quarter results.",
+      "The rally appeared to be supported by short covering after bearish investors absorbed heavy losses following the earnings release, while broader strength in technology stocks also lifted sentiment around Palantir.",
+      "Bank of America reiterated its Buy rating on Palantir and raised its price target to $255, implying roughly 50% upside from recent trading levels. The firm said the company's AI strategy, expanding commercial business, and long-standing government relationships continue to strengthen its competitive position.",
+      "The bank said Palantir's advantage lies not only in its AI software but also in deep customer partnerships and an operating model that ties pricing to measurable business outcomes. It also highlighted the company's growing role in sovereign AI, where organizations seek to deploy artificial intelligence while maintaining control over sensitive data, cybersecurity, and workflows.",
+      "Bank of America added that Palantir's U.S. commercial business continues to gain momentum through larger customer contracts and increased spending from existing clients, prompting the firm to raise its long-term forecasts."
+    ],
+    "html": null
+  }
+}

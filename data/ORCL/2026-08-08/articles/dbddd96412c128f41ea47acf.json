@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/bf33c9ea-f359-3847-a7c8-c08361b6e10e/oracle-price-target-lowered.html",
+    "fetched_at": "2026-08-08T07:00:23.478498-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle price target lowered by UBS amid AI spending concerns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oracle Corp (NYSE:ORCL, XETRA:ORC)'s price target was cut to $245 from $285 by UBS, which maintained its 'Buy' rating on the stock while citing risks around rising AI infrastructure spending, returns on invested capital, credit markets and Oracle's exposure to OpenAI.\nThe analysts wrote that Oracle shares have fallen 27% since the company's fiscal fourth-quarter results, with investors focusing on several perceived risks despite strong revenue growth and guidance. These include rising AI infrastructure capital expenditures, uncertainty around returns on invested capital, signs of tightness in credit markets for new large AI data center debt offerings, delays at a key site under construction in New Mexico and Oracle's high customer concentration with OpenAI.\nUBS said material risk is already priced into Oracle shares and that some concerns, including those surrounding the New Mexico project, could be overstated.\nThe analysts highlighted an industry check with good visibility into Oracle's Project Jupiter construction project in New Mexico. The check put a 90% chance on the project proceeding, with some delay and higher costs, while noting that the first 200 megawatts is powered off the grid and is secure.\nOn credit markets, UBS wrote that investors are pricing in more risk as Oracle will likely need to issue additional debt in calendar 2027. The analysts pointed to wider spreads on peer group deals and wider credit default swap spreads, but noted that recent hyperscaler debt offerings had eased concerns. UBS also cited KKR's view that there is some \"indigestion\" in the credit markets, while they remain open.\nThe analysts also see potential upside to Oracle's fiscal 2027 revenue and earnings guidance. They noted that investors reacted negatively to the company effectively reaffirming rather than raising its guidance on its latest call, but questioned whether there could be upside from material AI capacity coming online, coupled with what they described as CFO conservatism in the previous quarter.\nUBS said further multiple expansion would require an improved narrative around several lingering concerns, including Oracle's high OpenAI exposure and the potential impact of changes in the AI model market on OpenAI's spending with Oracle.\nThe analysts also said investors need greater comfort with returns on AI capital expenditures, including Oracle's ability to \"move up the stack\" from offering core GPU access. Competition is another consideration, with SpaceX, Meta and OpenAI itself among the companies selling or consuming AI compute, UBS wrote.",
+    "text_blocks": [
+      "Oracle Corp (NYSE:ORCL, XETRA:ORC)'s price target was cut to $245 from $285 by UBS, which maintained its 'Buy' rating on the stock while citing risks around rising AI infrastructure spending, returns on invested capital, credit markets and Oracle's exposure to OpenAI.",
+      "The analysts wrote that Oracle shares have fallen 27% since the company's fiscal fourth-quarter results, with investors focusing on several perceived risks despite strong revenue growth and guidance. These include rising AI infrastructure capital expenditures, uncertainty around returns on invested capital, signs of tightness in credit markets for new large AI data center debt offerings, delays at a key site under construction in New Mexico and Oracle's high customer concentration with OpenAI.",
+      "UBS said material risk is already priced into Oracle shares and that some concerns, including those surrounding the New Mexico project, could be overstated.",
+      "The analysts highlighted an industry check with good visibility into Oracle's Project Jupiter construction project in New Mexico. The check put a 90% chance on the project proceeding, with some delay and higher costs, while noting that the first 200 megawatts is powered off the grid and is secure.",
+      "On credit markets, UBS wrote that investors are pricing in more risk as Oracle will likely need to issue additional debt in calendar 2027. The analysts pointed to wider spreads on peer group deals and wider credit default swap spreads, but noted that recent hyperscaler debt offerings had eased concerns. UBS also cited KKR's view that there is some \"indigestion\" in the credit markets, while they remain open.",
+      "The analysts also see potential upside to Oracle's fiscal 2027 revenue and earnings guidance. They noted that investors reacted negatively to the company effectively reaffirming rather than raising its guidance on its latest call, but questioned whether there could be upside from material AI capacity coming online, coupled with what they described as CFO conservatism in the previous quarter.",
+      "UBS said further multiple expansion would require an improved narrative around several lingering concerns, including Oracle's high OpenAI exposure and the potential impact of changes in the AI model market on OpenAI's spending with Oracle.",
+      "The analysts also said investors need greater comfort with returns on AI capital expenditures, including Oracle's ability to \"move up the stack\" from offering core GPU access. Competition is another consideration, with SpaceX, Meta and OpenAI itself among the companies selling or consuming AI compute, UBS wrote."
+    ],
+    "html": null
+  }
+}

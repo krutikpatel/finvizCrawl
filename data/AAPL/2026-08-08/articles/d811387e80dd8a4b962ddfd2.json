@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-says-mac-users-china-123458419.html",
+    "fetched_at": "2026-08-08T07:00:07.844520-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Eduardo Baptista\nBEIJING, Aug 8 (Reuters) - Apple has published a guide explaining how eligible Mac users in mainland China can connect Alibaba's Qwen artificial-intelligence service to the U.S. tech giant's Siri digital assistant and Writing Tools feature.\nThe Mac-specific arrangement could help Apple compete in China's AI PC market, where it has been losing market share as domestic manufacturers such as Lenovo have promoted locally developed AI features.\nHere are some details:\n• Qwen is Chinese ecommerce giant Alibaba's family of generative-AI models, which can create text and images and analyse documents, photos and other material in response to user prompts.\n• Apple's updated Chinese-language guide says users who opt in can use Qwen through Siri for more detailed responses to some requests, including analysis of photos and documents. Writing Tools can also draw on the service to create text or images from a description.\n• The extension is intended for Macs running macOS 26.6 or later, subject to China-specific conditions. Users must activate the extension and sign in to a Qwen account.\n• Alibaba cannot use those materials to train or improve its models, according to the guide.\n• Mac shipments in mainland China fell 9% in the first quarter year on year to about 800,000 units, leaving it with 9% of the PC market, versus Lenovo's 31% and fast-growing Huawei's 16%, according to Omdia.\n• Lenovo has made its Tianxi personal AI agent central to its AI-PC strategy, while Huawei is building AI functions across its HarmonyOS ecosystem.\n• Linking Qwen to Siri and Writing Tools gives Apple a locally compliant route to offer more capable document, image and content-creation functions while retaining control of the Mac interface.\n• For Alibaba, integration with Apple's built-in software could broaden Qwen's reach beyond its own applications and cloud services.\n• Alibaba has said Qwen will be incorporated into Apple Intelligence across iPhone, iPad, Mac and Vision Pro software in China, though Apple's newly published guide covers Macs only.\n• Alibaba this week released Qwen3.8-Max, a 2.4-trillion-parameter model it says is its most capable to date. Apple's guide does not identify which Qwen model will power the Mac extension.\n(Reporting by Eduardo Baptista; Editing by Susan Fenton)",
+    "text_blocks": [
+      "By Eduardo Baptista",
+      "BEIJING, Aug 8 (Reuters) - Apple has published a guide explaining how eligible Mac users in mainland China can connect Alibaba's Qwen artificial-intelligence service to the U.S. tech giant's Siri digital assistant and Writing Tools feature.",
+      "The Mac-specific arrangement could help Apple compete in China's AI PC market, where it has been losing market share as domestic manufacturers such as Lenovo have promoted locally developed AI features.",
+      "Here are some details:",
+      "• Qwen is Chinese ecommerce giant Alibaba's family of generative-AI models, which can create text and images and analyse documents, photos and other material in response to user prompts.",
+      "• Apple's updated Chinese-language guide says users who opt in can use Qwen through Siri for more detailed responses to some requests, including analysis of photos and documents. Writing Tools can also draw on the service to create text or images from a description.",
+      "• The extension is intended for Macs running macOS 26.6 or later, subject to China-specific conditions. Users must activate the extension and sign in to a Qwen account.",
+      "• Alibaba cannot use those materials to train or improve its models, according to the guide.",
+      "• Mac shipments in mainland China fell 9% in the first quarter year on year to about 800,000 units, leaving it with 9% of the PC market, versus Lenovo's 31% and fast-growing Huawei's 16%, according to Omdia.",
+      "• Lenovo has made its Tianxi personal AI agent central to its AI-PC strategy, while Huawei is building AI functions across its HarmonyOS ecosystem.",
+      "• Linking Qwen to Siri and Writing Tools gives Apple a locally compliant route to offer more capable document, image and content-creation functions while retaining control of the Mac interface.",
+      "• For Alibaba, integration with Apple's built-in software could broaden Qwen's reach beyond its own applications and cloud services.",
+      "• Alibaba has said Qwen will be incorporated into Apple Intelligence across iPhone, iPad, Mac and Vision Pro software in China, though Apple's newly published guide covers Macs only.",
+      "• Alibaba this week released Qwen3.8-Max, a 2.4-trillion-parameter model it says is its most capable to date. Apple's guide does not identify which Qwen model will power the Mac extension.",
+      "(Reporting by Eduardo Baptista; Editing by Susan Fenton)"
+    ],
+    "html": null
+  }
+}

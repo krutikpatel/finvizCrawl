@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7e0c0bba-7717-3517-9bb2-a9a018a56757/the-toughest-questions-amd.html",
+    "fetched_at": "2026-08-08T07:00:52.764495-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Toughest Questions AMD Faced On Its Latest Call",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Advanced Micro Devices just posted huge growth forecasts, but on its earnings call, analysts zeroed in on whether the company can actually build it all without the success eating its own margins.\nAfter a remarkable run for its stock over the last six months, Advanced Micro Devices (AMD) is priced for perfection. On its latest call, management delivered the kind of large forecasts that justify that price, projecting its data center segment revenue will more than double in 2027. Yet the Q&A that followed wasn't a victory lap. Instead, analysts kept circling a more fundamental question: can AMD actually build and ship all this new business, and at what cost to its profitability?\nCan You Even Get The Parts?\nThe growth story is spectacular, but a forecast is just a number on a slide if you cannot get the parts. This is the awkward gap between AMD's guidance and the physical world, a worry that came up directly. The server CPU supply chain, critical to the company's most profitable products, is already stretched thin. A failure to deliver doesn't just cap revenue; it risks handing market share to competitors who can.\nManagement met this challenge head-on. The CEO acknowledged the server CPU supply chain \"is tight right now,\" attributing it to demand that was simply \"unforecasted.\" The response was a candid admission of a real-world bottleneck, not a denial. The company stated it is working across its supply chain to raise capacity and feels confident it can support the guided growth for 2027. It was a credible answer to a serious operational risk, framing it as a high-class problem they are actively managing.\nThe Price of Growth: What Happens to Margins?\nThe other side of the execution challenge is financial. What happens to profitability when your fastest-growing product line is not your most profitable one? This is the quiet risk inside AMD's AI boom, as the company ramps its new Helios AI platform. High growth is great, but if it comes with lower overall profitability, the stock's valuation might not hold up.\nThe CFO was direct about this dynamic. While the new data center AI products add \"tremendous revenue,\" their gross margin is \"slightly below corporate average.\" The company's bet is that explosive growth in its high-margin server CPU business, which is now expected to grow more than 70% in 2027, will provide the necessary offset, along with a recovery in its embedded business. The answer laid out the pros and cons, confirming it is a balancing act.\nThe One Number That Settles It",
+    "text_blocks": [
+      "Advanced Micro Devices just posted huge growth forecasts, but on its earnings call, analysts zeroed in on whether the company can actually build it all without the success eating its own margins.",
+      "After a remarkable run for its stock over the last six months, Advanced Micro Devices (AMD) is priced for perfection. On its latest call, management delivered the kind of large forecasts that justify that price, projecting its data center segment revenue will more than double in 2027. Yet the Q&A that followed wasn't a victory lap. Instead, analysts kept circling a more fundamental question: can AMD actually build and ship all this new business, and at what cost to its profitability?",
+      "Can You Even Get The Parts?",
+      "The growth story is spectacular, but a forecast is just a number on a slide if you cannot get the parts. This is the awkward gap between AMD's guidance and the physical world, a worry that came up directly. The server CPU supply chain, critical to the company's most profitable products, is already stretched thin. A failure to deliver doesn't just cap revenue; it risks handing market share to competitors who can.",
+      "Management met this challenge head-on. The CEO acknowledged the server CPU supply chain \"is tight right now,\" attributing it to demand that was simply \"unforecasted.\" The response was a candid admission of a real-world bottleneck, not a denial. The company stated it is working across its supply chain to raise capacity and feels confident it can support the guided growth for 2027. It was a credible answer to a serious operational risk, framing it as a high-class problem they are actively managing.",
+      "The Price of Growth: What Happens to Margins?",
+      "The other side of the execution challenge is financial. What happens to profitability when your fastest-growing product line is not your most profitable one? This is the quiet risk inside AMD's AI boom, as the company ramps its new Helios AI platform. High growth is great, but if it comes with lower overall profitability, the stock's valuation might not hold up.",
+      "The CFO was direct about this dynamic. While the new data center AI products add \"tremendous revenue,\" their gross margin is \"slightly below corporate average.\" The company's bet is that explosive growth in its high-margin server CPU business, which is now expected to grow more than 70% in 2027, will provide the necessary offset, along with a recovery in its embedded business. The answer laid out the pros and cons, confirming it is a balancing act.",
+      "The One Number That Settles It"
+    ],
+    "html": null
+  }
+}

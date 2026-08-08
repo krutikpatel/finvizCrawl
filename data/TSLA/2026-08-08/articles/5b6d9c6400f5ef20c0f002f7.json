@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-nearly-4-192926948.html",
+    "fetched_at": "2026-08-08T07:00:03.567660-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA), the electric-vehicle and AI technology giant, jumped nearly 4% in Friday's regular session after Tesla and SpaceX revealed the site and first wave of funding for Terafab, a massive semiconductor manufacturing campus in Grimes County, Texas. The partners will pour an initial $16.8 billion into the project, which is designed to handle everything from chip manufacturing to packaging and testing under one roof. It's another sign that Elon Musk is betting the next AI race will be won by whoever controls the hardware.\nTerafab is expected to stretch across more than 100 million square feet and create at least 3,000 jobs. The chips produced there are expected to power Tesla's Optimus humanoid robots, self-driving vehicles and SpaceX's planned orbital data centers. Even more eye-catching, the companies believe the site could eventually grow into a roughly $119 billion mega-campus, although that figure represents the project's long-term vision rather than money committed today.\nThis is a bold swing with equally big rewards and risks. If Tesla can successfully bring chip production in-house, it could strengthen its AI moat, reduce dependence on outside suppliers and gain tighter control over one of its most valuable technologies. But semiconductor fabrication is one of the toughest businesses in the world, demanding enormous capital, flawless execution and years before meaningful returns emerge.\nThe GF Value chart shows the market isn't giving investors much of a valuation cushion either. Tesla trades at $331.65, just 0.29% above its GF Value estimate of $330.70, suggesting the stock is already hovering around fair value. From here, investors will likely want more than ambitious blueprintsthey'll want proof that Terafab can become a profit engine instead of just another moonshot.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA), the electric-vehicle and AI technology giant, jumped nearly 4% in Friday's regular session after Tesla and SpaceX revealed the site and first wave of funding for Terafab, a massive semiconductor manufacturing campus in Grimes County, Texas. The partners will pour an initial $16.8 billion into the project, which is designed to handle everything from chip manufacturing to packaging and testing under one roof. It's another sign that Elon Musk is betting the next AI race will be won by whoever controls the hardware.",
+      "Terafab is expected to stretch across more than 100 million square feet and create at least 3,000 jobs. The chips produced there are expected to power Tesla's Optimus humanoid robots, self-driving vehicles and SpaceX's planned orbital data centers. Even more eye-catching, the companies believe the site could eventually grow into a roughly $119 billion mega-campus, although that figure represents the project's long-term vision rather than money committed today.",
+      "This is a bold swing with equally big rewards and risks. If Tesla can successfully bring chip production in-house, it could strengthen its AI moat, reduce dependence on outside suppliers and gain tighter control over one of its most valuable technologies. But semiconductor fabrication is one of the toughest businesses in the world, demanding enormous capital, flawless execution and years before meaningful returns emerge.",
+      "The GF Value chart shows the market isn't giving investors much of a valuation cushion either. Tesla trades at $331.65, just 0.29% above its GF Value estimate of $330.70, suggesting the stock is already hovering around fair value. From here, investors will likely want more than ambitious blueprintsthey'll want proof that Terafab can become a profit engine instead of just another moonshot."
+    ],
+    "html": null
+  }
+}

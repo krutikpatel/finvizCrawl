@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html",
+    "fetched_at": "2026-08-08T07:00:49.505017-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon behind massive private gas plant for new data centers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon confirmed Friday it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States.\nIt is the latest example of tech giants going off the grid to get their AI operations online faster.\nThe news was first reported by market intelligence company Cleanview, which reviewed satellite imagery to connect three data center construction permits filed this week by Amazon to the gas plant, which is being developed by Pacifico Energy and is known as GW Ranch.\nPreviously filed permits for the plant show it would have 35 turbines and generate 7.65 gigawatts -- larger than any gas plant currently operating in the United States.\nA bigger facility, at 9.2 gigawatts, is planned in Ohio under a public-private partnership involving SoftBank. That plant would connect to the grid as well as power a data center.\nThe Pecos County, Texas, plant would be permitted to emit more than 30 million metric tonnes of greenhouse gases a year -- more than any other single source in the country, though facilities rarely emit at their permitted ceiling.\nAmazon said that by generating its own power, it would avoid passing the cost on to ordinary Americans, whose electricity bills have spiked as utilities charge consumers for the new infrastructure feeding the AI boom.\n\"Amazon believes in paying the full costs of powering our operations,\" a spokesperson said.\n\"Our new planned data center campus in Pecos County does just that: it's powered by new on-site generation that won't raise electricity costs for Texas families and designed to transition to grid-connected service as interconnection timelines allow.\"\nThe company added it was \"exploring opportunities\" for solar energy and battery storage on site, and it would make use of \"non-potable, brackish groundwater\" which it said would avoid putting pressure on the watershed.\nAmazon added it remained committed to reaching net-zero carbon emissions by 2040 under The Climate Pledge, and had enabled 40 carbon-free energy projects totaling nearly 10 gigawatts in Texas.\nBuilding so-called \"behind-the-meter\" power was once a niche practice, exemplified by Elon Musk's xAI deploying mobile gas turbines to its data center in Memphis in 2024.\nxAI still accounts for most of the two gigawatts of behind-the-meter power online today, according to research by Cleanview, which estimates that around 97 gigawatts of such projects are planned involving every hyperscaler -- including Meta, Microsoft and Oracle, with enormous climate implications.",
+    "text_blocks": [
+      "Amazon confirmed Friday it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States.",
+      "It is the latest example of tech giants going off the grid to get their AI operations online faster.",
+      "The news was first reported by market intelligence company Cleanview, which reviewed satellite imagery to connect three data center construction permits filed this week by Amazon to the gas plant, which is being developed by Pacifico Energy and is known as GW Ranch.",
+      "Previously filed permits for the plant show it would have 35 turbines and generate 7.65 gigawatts -- larger than any gas plant currently operating in the United States.",
+      "A bigger facility, at 9.2 gigawatts, is planned in Ohio under a public-private partnership involving SoftBank. That plant would connect to the grid as well as power a data center.",
+      "The Pecos County, Texas, plant would be permitted to emit more than 30 million metric tonnes of greenhouse gases a year -- more than any other single source in the country, though facilities rarely emit at their permitted ceiling.",
+      "Amazon said that by generating its own power, it would avoid passing the cost on to ordinary Americans, whose electricity bills have spiked as utilities charge consumers for the new infrastructure feeding the AI boom.",
+      "\"Amazon believes in paying the full costs of powering our operations,\" a spokesperson said.",
+      "\"Our new planned data center campus in Pecos County does just that: it's powered by new on-site generation that won't raise electricity costs for Texas families and designed to transition to grid-connected service as interconnection timelines allow.\"",
+      "The company added it was \"exploring opportunities\" for solar energy and battery storage on site, and it would make use of \"non-potable, brackish groundwater\" which it said would avoid putting pressure on the watershed.",
+      "Amazon added it remained committed to reaching net-zero carbon emissions by 2040 under The Climate Pledge, and had enabled 40 carbon-free energy projects totaling nearly 10 gigawatts in Texas.",
+      "Building so-called \"behind-the-meter\" power was once a niche practice, exemplified by Elon Musk's xAI deploying mobile gas turbines to its data center in Memphis in 2024.",
+      "xAI still accounts for most of the two gigawatts of behind-the-meter power online today, according to research by Cleanview, which estimates that around 97 gigawatts of such projects are planned involving every hyperscaler -- including Meta, Microsoft and Oracle, with enormous climate implications."
+    ],
+    "html": null
+  }
+}

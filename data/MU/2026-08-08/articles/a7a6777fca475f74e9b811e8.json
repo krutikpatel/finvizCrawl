@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/8c30c7ea-1d63-302b-9d6b-128db6d55d1c/one-american-stock-benefits.html",
+    "fetched_at": "2026-08-08T07:00:14.343933-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "One American Stock Benefits as Smartphones, MRI, and AI Servers Want the Same Chip",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Your next phone costs more, a hospital scanner is competing for the same parts, and an AI server is outbidding both. All three run on the same memory chips, and one company sells to each of them.\nThat company is Micron Technology (MU), and the reason the three now fight over one chip is an AI memory shortage that has quietly rewired the market.\nWhy One Wafer Now Has Three Buyers\nStart with the AI server. A single one uses 10 to 20 times as much memory as an ordinary computer. As data centers scale, they now absorb most memory made in the world, about 70% of output.\nWant more insights like this? Sign up for Editor Harsh Notariya's Daily Newsletter here.\nHere is the part that ties the three devices together. The high-bandwidth memory AI needs come off the same production lines as the ordinary DRAM inside a phone or a scanner. Chipmakers cannot run both at full speed at once.\nWorse, one high-bandwidth wafer uses up the capacity of two or more standard ones. So every AI server that gets built removes memory that would otherwise reach other devices.\nThat is why supply for everyone else keeps shrinking while prices keep climbing. The same shortage that feeds a data center raises your phone's price and pushes a hospital's scanner into a queue.\nYour Phone Is Paying for the AI Boom\nPhones use the same memory families as data centers, so they felt it first. The average smartphone price is heading to a record smartphone price of about $523 in 2026, up 14%, according to IDC.\nMakers are protecting margins by cutting corners you can see. Some are trimming camera modules and displays, and a few base models have reverted to 4GB of memory, a level not normal since 2020.\nIn other words, your phone is getting more expensive and a little worse, and an AI data center is the reason.\nThe Hospital Scanner Cannot Just Wait\nMedical imaging, robotics, and monitoring machines draw on the same DRAM and NAND, and Micron supplies memory into medical imaging systems through its embedded business.\nThis is the cruelest leg. A phone buyer can delay an upgrade, but a hospital replacing a scanner cannot swap the memory inside it, because medical parts carry multi-year qualification cycles.\nSo these buyers bid against hyperscalers with almost no leverage. Their volumes are tiny compared to a cloud order, which means they either pay a higher price or wait.\nThe AI Server Outbids Everyone\nAt the top of the queue sits the AI server, because high-bandwidth memory is the most profitable use of every wafer. Micron is one of only three suppliers worldwide and holds about 25% of the DRAM market, according to Counterpoint Research.\nIts sold-out HBM supply shows how binding the constraint is, and the company has signed an Anthropic AI deal to tune memory for its models.\nThree buyers, one shrinking pool of wafers. The supplier that sells into all three collects the pricing power, no matter who outbids whom.\nThe Stock That Collects\nThat is the case for Micron stock. It carries a Strong Buy consensus, with 28 of the 29 analysts covering it rating it Buy. The consensus target of about $1,569 sits roughly 75% above the current price of $893.\nWall Street's repricing has been violent. Targets ran from $190 last September to a high of $2,200 by June, and recent calls from TD Cowen and KeyBanc still point toward $1,600.\nThe valuation is the part that stands out. Even after a 718% year, Micron trades at about five times forward earnings, because profits have grown faster than the share price.\nSmart money leans the same way. In Nansen's tracking of Hyperliquid perpetual traders, Micron holds the largest net-long position among chip names, with a position near $7.7 million spread across 39 wallets.\nTSMC shows a higher long-to-short ratio, yet its net-long dollars are a tiny fraction of Micron's.\nWhy the Micron Stock Pullback Is Not the Story\nMicron did slip about 5% before Thursday's open after peer SanDisk gave soft guidance. Additionally, the entire memory group sold out of sympathy. Yet the flow read on the drop is \"rally distribution,\" which is profit-taking after a huge run rather than a top forming.\nThe context matters here. The stock is still up 213% this year. It sits only about 26% below its June high, so this looks like a breather, not a break.\nThe real risk is that the market decides memory is priced at its peak, a worry behind the latest fears of a memory glut. Multiple analysts trimmed peer targets within hours of SanDisk's report.\nStill, a chip fabrication plant, or fab, takes years to build. SK Hynix has warned the shortage could last beyond 2030.\nAs long as it lasts, the phone, the scanner, and the AI server keep fighting over the same chips, and Micron keeps selling to all three. That is why one weak forecast from a rival does not change the bullish MU story. The real test is Micron's own report on September 29.",
+    "text_blocks": [
+      "Your next phone costs more, a hospital scanner is competing for the same parts, and an AI server is outbidding both. All three run on the same memory chips, and one company sells to each of them.",
+      "That company is Micron Technology (MU), and the reason the three now fight over one chip is an AI memory shortage that has quietly rewired the market.",
+      "Why One Wafer Now Has Three Buyers",
+      "Start with the AI server. A single one uses 10 to 20 times as much memory as an ordinary computer. As data centers scale, they now absorb most memory made in the world, about 70% of output.",
+      "Want more insights like this? Sign up for Editor Harsh Notariya's Daily Newsletter here.",
+      "Here is the part that ties the three devices together. The high-bandwidth memory AI needs come off the same production lines as the ordinary DRAM inside a phone or a scanner. Chipmakers cannot run both at full speed at once.",
+      "Worse, one high-bandwidth wafer uses up the capacity of two or more standard ones. So every AI server that gets built removes memory that would otherwise reach other devices.",
+      "That is why supply for everyone else keeps shrinking while prices keep climbing. The same shortage that feeds a data center raises your phone's price and pushes a hospital's scanner into a queue.",
+      "Your Phone Is Paying for the AI Boom",
+      "Phones use the same memory families as data centers, so they felt it first. The average smartphone price is heading to a record smartphone price of about $523 in 2026, up 14%, according to IDC.",
+      "Makers are protecting margins by cutting corners you can see. Some are trimming camera modules and displays, and a few base models have reverted to 4GB of memory, a level not normal since 2020.",
+      "In other words, your phone is getting more expensive and a little worse, and an AI data center is the reason.",
+      "The Hospital Scanner Cannot Just Wait",
+      "Medical imaging, robotics, and monitoring machines draw on the same DRAM and NAND, and Micron supplies memory into medical imaging systems through its embedded business.",
+      "This is the cruelest leg. A phone buyer can delay an upgrade, but a hospital replacing a scanner cannot swap the memory inside it, because medical parts carry multi-year qualification cycles.",
+      "So these buyers bid against hyperscalers with almost no leverage. Their volumes are tiny compared to a cloud order, which means they either pay a higher price or wait.",
+      "The AI Server Outbids Everyone",
+      "At the top of the queue sits the AI server, because high-bandwidth memory is the most profitable use of every wafer. Micron is one of only three suppliers worldwide and holds about 25% of the DRAM market, according to Counterpoint Research.",
+      "Its sold-out HBM supply shows how binding the constraint is, and the company has signed an Anthropic AI deal to tune memory for its models.",
+      "Three buyers, one shrinking pool of wafers. The supplier that sells into all three collects the pricing power, no matter who outbids whom.",
+      "The Stock That Collects",
+      "That is the case for Micron stock. It carries a Strong Buy consensus, with 28 of the 29 analysts covering it rating it Buy. The consensus target of about $1,569 sits roughly 75% above the current price of $893.",
+      "Wall Street's repricing has been violent. Targets ran from $190 last September to a high of $2,200 by June, and recent calls from TD Cowen and KeyBanc still point toward $1,600.",
+      "The valuation is the part that stands out. Even after a 718% year, Micron trades at about five times forward earnings, because profits have grown faster than the share price.",
+      "Smart money leans the same way. In Nansen's tracking of Hyperliquid perpetual traders, Micron holds the largest net-long position among chip names, with a position near $7.7 million spread across 39 wallets.",
+      "TSMC shows a higher long-to-short ratio, yet its net-long dollars are a tiny fraction of Micron's.",
+      "Why the Micron Stock Pullback Is Not the Story",
+      "Micron did slip about 5% before Thursday's open after peer SanDisk gave soft guidance. Additionally, the entire memory group sold out of sympathy. Yet the flow read on the drop is \"rally distribution,\" which is profit-taking after a huge run rather than a top forming.",
+      "The context matters here. The stock is still up 213% this year. It sits only about 26% below its June high, so this looks like a breather, not a break.",
+      "The real risk is that the market decides memory is priced at its peak, a worry behind the latest fears of a memory glut. Multiple analysts trimmed peer targets within hours of SanDisk's report.",
+      "Still, a chip fabrication plant, or fab, takes years to build. SK Hynix has warned the shortage could last beyond 2030.",
+      "As long as it lasts, the phone, the scanner, and the AI server keep fighting over the same chips, and Micron keeps selling to all three. That is why one weak forecast from a rival does not change the bullish MU story. The real test is Micron's own report on September 29."
+    ],
+    "html": null
+  }
+}
