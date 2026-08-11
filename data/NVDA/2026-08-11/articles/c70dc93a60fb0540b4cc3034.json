@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/80731323-ad95-3e3f-b854-8469a392bb48/river-ai-raises-%241.1-billion.html",
+    "fetched_at": "2026-08-11T07:00:36.699512-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "River AI raises $1.1 billion for enterprise AI tools",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "River AI, a startup founded by xAI co-founder Igor Babuschkin, raised $1.1 billion on Tuesday, with the funds earmarked for expanding the company's suite of products designed to let enterprises train AI models on their own proprietary data.\nGeneral Catalyst and AMP PBC co-led the funding, which also drew strategic participation from Nvidia and AMD Ventures, along with Y Combinator and Temasek. The company did not reveal a valuation figure.\nRiver AI's thesis holds that the enterprise market will migrate from off-the-shelf offerings by major AI labs toward privately owned, open-weight models tailored to each organization's needs. To support that shift, its API can complete reinforcement-learning training runs in as little as 15 to 20 minutes — no in-house infrastructure team required — at a cost the company claims is two to four times lower than closed-source rivals.\n\"AI should be open, freely available, and affordable. It should feel like it is working for the person using it, not the lab that trained it,\" Babuschkin said in a statement.\nBefore founding River AI, Babuschkin's résumé included research roles in generative modeling and reinforcement learning at Google DeepMind, a stint leading large-scale training efforts at OpenAI, and ultimately a role as co-founder of xAI.",
+    "text_blocks": [
+      "River AI, a startup founded by xAI co-founder Igor Babuschkin, raised $1.1 billion on Tuesday, with the funds earmarked for expanding the company's suite of products designed to let enterprises train AI models on their own proprietary data.",
+      "General Catalyst and AMP PBC co-led the funding, which also drew strategic participation from Nvidia and AMD Ventures, along with Y Combinator and Temasek. The company did not reveal a valuation figure.",
+      "River AI's thesis holds that the enterprise market will migrate from off-the-shelf offerings by major AI labs toward privately owned, open-weight models tailored to each organization's needs. To support that shift, its API can complete reinforcement-learning training runs in as little as 15 to 20 minutes — no in-house infrastructure team required — at a cost the company claims is two to four times lower than closed-source rivals.",
+      "\"AI should be open, freely available, and affordable. It should feel like it is working for the person using it, not the lab that trained it,\" Babuschkin said in a statement.",
+      "Before founding River AI, Babuschkin's résumé included research roles in generative modeling and reinforcement learning at Google DeepMind, a stint leading large-scale training efforts at OpenAI, and ultimately a role as co-founder of xAI."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/913f8c0a-221c-3752-ab1f-abf1f18bbbe0/jefferies-downgrades-apple.html",
+    "fetched_at": "2026-08-11T07:00:06.804399-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Jefferies downgrades Apple stock to sell over canceled glass iPhone",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Jefferies downgraded Apple stock to underperform from hold on Monday, with analyst Edison Lee citing supply chain checks that suggest the company has canceled its planned all-glass iPhone due to low production yield, according to CNBC.\nThe new price target of $263.66 represents a reduction from Lee's prior target of $285.56, pointing to potential losses of around 16% from where Apple shares last traded. \"The all-glass iPhone (Sep 27) has been canceled due to low yield,\" Lee wrote in a note to clients. \"We view this as a major setback to efforts to bring in higher-priced iPhones amid soaring memory costs.\"\nThe all-glass iPhone had been expected to launch in September 2027, timed to mark the device's 20th anniversary, according to Barron's. Lee had viewed the project as a vehicle for Apple to raise average selling prices across its product line — with plans to eventually extend all-glass construction to future iPhone Pro and Pro Max models. Without it, he argued, Apple loses a key lever for defending margins against rising memory costs.\nLooking ahead, Lee pointed to Apple's forthcoming foldable iPhone — expected to arrive in September 2026 — as the sole product capable of meaningfully lifting average selling prices and margins in the foreseeable future. At the same time, he cautioned that escalating memory costs tied to growing AI demand could send the foldable's entry-level price past $2,000, potentially confining demand to a small pool of buyers willing to pay a premium.\nJefferies also lowered its forecast for Apple's earnings per share by 2.1% for fiscal year 2028.\nApple shares closed down 1.5% on Monday, giving back a slice of the more than 15% advance the stock had built up through 2026 before the session began.\nThe downgrade runs against the prevailing view on Wall Street. According to Barron's, FactSet data covering 51 analysts shows that 32 hold a buy-equivalent rating on Apple, with only five having taken a bearish stance — Lee included.\nApple's stock had already faced pressure in recent weeks. The company reported its strongest June quarter on record, with revenue of $109.4 billion, but a miss on services revenue and weaker-than-expected China sales triggered a selloff that erased $359 billion in market capitalization, allowing Nvidia to overtake Apple as the world's most valuable company. Apple has since reclaimed that position.",
+    "text_blocks": [
+      "Jefferies downgraded Apple stock to underperform from hold on Monday, with analyst Edison Lee citing supply chain checks that suggest the company has canceled its planned all-glass iPhone due to low production yield, according to CNBC.",
+      "The new price target of $263.66 represents a reduction from Lee's prior target of $285.56, pointing to potential losses of around 16% from where Apple shares last traded. \"The all-glass iPhone (Sep 27) has been canceled due to low yield,\" Lee wrote in a note to clients. \"We view this as a major setback to efforts to bring in higher-priced iPhones amid soaring memory costs.\"",
+      "The all-glass iPhone had been expected to launch in September 2027, timed to mark the device's 20th anniversary, according to Barron's. Lee had viewed the project as a vehicle for Apple to raise average selling prices across its product line — with plans to eventually extend all-glass construction to future iPhone Pro and Pro Max models. Without it, he argued, Apple loses a key lever for defending margins against rising memory costs.",
+      "Looking ahead, Lee pointed to Apple's forthcoming foldable iPhone — expected to arrive in September 2026 — as the sole product capable of meaningfully lifting average selling prices and margins in the foreseeable future. At the same time, he cautioned that escalating memory costs tied to growing AI demand could send the foldable's entry-level price past $2,000, potentially confining demand to a small pool of buyers willing to pay a premium.",
+      "Jefferies also lowered its forecast for Apple's earnings per share by 2.1% for fiscal year 2028.",
+      "Apple shares closed down 1.5% on Monday, giving back a slice of the more than 15% advance the stock had built up through 2026 before the session began.",
+      "The downgrade runs against the prevailing view on Wall Street. According to Barron's, FactSet data covering 51 analysts shows that 32 hold a buy-equivalent rating on Apple, with only five having taken a bearish stance — Lee included.",
+      "Apple's stock had already faced pressure in recent weeks. The company reported its strongest June quarter on record, with revenue of $109.4 billion, but a miss on services revenue and weaker-than-expected China sales triggered a selloff that erased $359 billion in market capitalization, allowing Nvidia to overtake Apple as the world's most valuable company. Apple has since reclaimed that position."
+    ],
+    "html": null
+  }
+}

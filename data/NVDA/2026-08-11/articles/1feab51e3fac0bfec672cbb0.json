@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/ibm-together-ai-240-million-open-source-inference-deal-081126",
+    "fetched_at": "2026-08-11T07:00:36.393342-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/ibm-together-ai-240-million-open-source-inference-deal-081126",
+      "context": {
+        "url": "https://qz.com/ibm-together-ai-240-million-open-source-inference-deal-081126"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

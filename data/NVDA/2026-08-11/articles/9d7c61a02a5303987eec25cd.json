@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/caterpillar-nvidia-corp-share-gains-lead-dow-s-184-point-jump-c75bd55a-e8081f20588f?mod=mw_FV",
+    "fetched_at": "2026-08-11T07:00:36.481858-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Caterpillar, NVIDIA Corp. share gains lead Dow's 184-point jump - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nCaterpillar, NVIDIA Corp. share gains lead Dow's 184-point jump\nBuoyed by strong returns for shares of Caterpillar and NVIDIA Corp., the Dow Jones Industrial Average is trading up Tuesday morning.\nShares of Caterpillar Caterpillar Inc. and NVIDIA Corp. NVIDIA Corp. have contributed about 25% of the index's intraday rally, as the Dow Dow Jones Industrial Average was most recently trading 184 points, or 0.3%, higher.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "Caterpillar, NVIDIA Corp. share gains lead Dow's 184-point jump",
+      "Buoyed by strong returns for shares of Caterpillar and NVIDIA Corp., the Dow Jones Industrial Average is trading up Tuesday morning.",
+      "Shares of Caterpillar Caterpillar Inc. and NVIDIA Corp. NVIDIA Corp. have contributed about 25% of the index's intraday rally, as the Dow Dow Jones Industrial Average was most recently trading 184 points, or 0.3%, higher.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/riot-stock-soars-lands-9-124810203.html",
+    "fetched_at": "2026-08-11T07:00:42.267106-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Riot Stock Soars as It Lands a $9.1 Billion AI Cloud Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRiot Platforms (NASDAQ:RIOT), a Bitcoin miner that has moved into selling AI data-center capacity, rose 18.87% premarket after striking a 20-year deal to supply 191 megawatts of computing to Anthropic from its Rockdale, Texas campus, according to Bloomberg, which cited people familiar with the matter. Riot said it expects the contract to generate $9.1 billion in revenue through June 2048, and that two five-year extension options could lift total sales to as much as $16.1 billion.\nThe deal fits a growing shift. Bitcoin miners, sitting on cheap power and dense computing infrastructure, are repurposing it for AI as demand for data centers outruns supply. Riot, which started as a biotech-equipment maker before moving to crypto, has also signed a separate arrangement with AMD (NASDAQ:AMD) to build computing, and its data-center business helped it beat on second-quarter sales.\nFor Anthropic, the deal is one of several. The Claude developer recently signed a $10 billion agreement with the infrastructure startup Volta Infra and agreed in May to buy nearly $45 billion of computing from Elon Musk's xAI, moves aimed at meeting AI demand it has struggled to keep pace with.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Riot Platforms (NASDAQ:RIOT), a Bitcoin miner that has moved into selling AI data-center capacity, rose 18.87% premarket after striking a 20-year deal to supply 191 megawatts of computing to Anthropic from its Rockdale, Texas campus, according to Bloomberg, which cited people familiar with the matter. Riot said it expects the contract to generate $9.1 billion in revenue through June 2048, and that two five-year extension options could lift total sales to as much as $16.1 billion.",
+      "The deal fits a growing shift. Bitcoin miners, sitting on cheap power and dense computing infrastructure, are repurposing it for AI as demand for data centers outruns supply. Riot, which started as a biotech-equipment maker before moving to crypto, has also signed a separate arrangement with AMD (NASDAQ:AMD) to build computing, and its data-center business helped it beat on second-quarter sales.",
+      "For Anthropic, the deal is one of several. The Claude developer recently signed a $10 billion agreement with the infrastructure startup Volta Infra and agreed in May to buy nearly $45 billion of computing from Elon Musk's xAI, moves aimed at meeting AI demand it has struggled to keep pace with."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/amd-earnings-stock-results-guidance-q2/card/amd-s-stock-ends-the-day-7-higher-heading-into-earnings-YzrkOPYvGSajY5KvA4ua?mod=mw_FV",
+    "fetched_at": "2026-08-11T07:00:49.992996-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD's stock ends the day 7% higher heading into earnings - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug. 4, 4:10pm ET\nAMD's stock ends the day 7% higher heading into earnings\nShares of Advanced Micro Devices closed 7% higher on Tuesday ahead of the company's second-quarter earnings report, which is expected around 4:15 p.m. Eastern time.\nOther chip stocks also finished solidly in the green, with Marvell Technology up 12.8%, Intel up 10.8%, Broadcom up 6.6% and Nvidia up 2.5%.\nMemory makers Sandisk and Micron Technology saw their stocks rise 10.8% and 7.6%, respectively.",
+    "text_blocks": [
+      "Aug. 4, 4:10pm ET",
+      "AMD's stock ends the day 7% higher heading into earnings",
+      "Shares of Advanced Micro Devices closed 7% higher on Tuesday ahead of the company's second-quarter earnings report, which is expected around 4:15 p.m. Eastern time.",
+      "Other chip stocks also finished solidly in the green, with Marvell Technology up 12.8%, Intel up 10.8%, Broadcom up 6.6% and Nvidia up 2.5%.",
+      "Memory makers Sandisk and Micron Technology saw their stocks rise 10.8% and 7.6%, respectively."
+    ],
+    "html": null
+  }
+}

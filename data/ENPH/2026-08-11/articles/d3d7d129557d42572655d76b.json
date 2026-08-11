@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/first-solar-stock-price-section-232-1f0ffea7?mod=bar_FV",
+    "fetched_at": "2026-08-11T07:00:16.191705-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "First Solar Is S&P 500’s Top Stock as Regulatory Decision Approaches<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "First Solar Stock Powers to the Top of the S&P 500 as Regulatory Decision Approaches\nFirst Solar was having itself a day Monday as investors piled into the stock, making it the top performer in the S&P 500.\nFirst Solar was having itself a day Monday as investors piled into the stock, making it the top performer in the S&P 500.",
+    "text_blocks": [
+      "First Solar Stock Powers to the Top of the S&P 500 as Regulatory Decision Approaches",
+      "First Solar was having itself a day Monday as investors piled into the stock, making it the top performer in the S&P 500.",
+      "First Solar was having itself a day Monday as investors piled into the stock, making it the top performer in the S&P 500."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/675c0d31-b73c-35f4-aa3e-a0eb148feb30/crowdstrike%2C-palo-alto.html",
+    "fetched_at": "2026-08-11T07:00:44.951161-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CrowdStrike, Palo Alto Networks stocks hit new highs after Black Hat",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Shares of CrowdStrike and Palo Alto Networks climbed more than 5% to record highs on Monday after the annual Black Hat cybersecurity conference in Las Vegas, where demand for artificial intelligence security tools dominated industry conversations, according to CNBC.\nBTIG analysts, writing to clients after the conference, said AI agents had emerged as the foremost attack vector and that the overall security environment was \"meaningfully worse,\" while noting that the rollout of AI-driven security tools remains nascent. \"The single most consistent theme across our conversations — partners, vendors, and customers alike — was that AI agents have fundamentally changed the threat landscape,\" the analysts wrote, according to CNBC.\nBTIG raised its price target on CrowdStrike to $237 per share, implying roughly 11% gains from where the stock closed on Friday. The firm said AI is catalyzing a fresh wave of modernization across endpoint security, with CrowdStrike standing to gain most directly given the nature of its core offerings. BTIG also raised its price target on Palo Alto Networks to $380 per share, about 4% higher than Friday's close, arguing that the company's identity platform and offerings such as XSIAM and Chronosphere are well placed to capitalize as AI agents proliferate across enterprise environments.\nAnalysts at Cantor described a broader shift in how the industry views AI. \"AI has moved from being a cybersecurity feature to a key pillar of both the attack surface and the attacker/defender infrastructure,\" the firm's analysts wrote.\nOther cybersecurity stocks also posted gains on Monday. Tenable and Rubrik were both up more than 7%, and Netskope and Zscaler added roughly 5% apiece.\nThe rally follows a period of sustained attention to the cost and complexity of AI adoption at the enterprise level. Palo Alto Networks CEO Nikesh Arora argued earlier this year that AI token prices need to fall by as much as 90% before large-scale enterprise AI deployment becomes practical, describing current pricing as a barrier to moving AI beyond pilot projects. Arora said costs should reach roughly a fifth of current levels within a year and a tenth within two years, though he stopped short of pessimism about the long-term trajectory.\nThat pricing concern reflects a broader tension in enterprise AI: per-token rates have dropped steeply, yet total enterprise AI spending has risen sharply as agentic applications chain together model calls in ways that multiply consumption faster than unit prices fall.",
+    "text_blocks": [
+      "Shares of CrowdStrike and Palo Alto Networks climbed more than 5% to record highs on Monday after the annual Black Hat cybersecurity conference in Las Vegas, where demand for artificial intelligence security tools dominated industry conversations, according to CNBC.",
+      "BTIG analysts, writing to clients after the conference, said AI agents had emerged as the foremost attack vector and that the overall security environment was \"meaningfully worse,\" while noting that the rollout of AI-driven security tools remains nascent. \"The single most consistent theme across our conversations — partners, vendors, and customers alike — was that AI agents have fundamentally changed the threat landscape,\" the analysts wrote, according to CNBC.",
+      "BTIG raised its price target on CrowdStrike to $237 per share, implying roughly 11% gains from where the stock closed on Friday. The firm said AI is catalyzing a fresh wave of modernization across endpoint security, with CrowdStrike standing to gain most directly given the nature of its core offerings. BTIG also raised its price target on Palo Alto Networks to $380 per share, about 4% higher than Friday's close, arguing that the company's identity platform and offerings such as XSIAM and Chronosphere are well placed to capitalize as AI agents proliferate across enterprise environments.",
+      "Analysts at Cantor described a broader shift in how the industry views AI. \"AI has moved from being a cybersecurity feature to a key pillar of both the attack surface and the attacker/defender infrastructure,\" the firm's analysts wrote.",
+      "Other cybersecurity stocks also posted gains on Monday. Tenable and Rubrik were both up more than 7%, and Netskope and Zscaler added roughly 5% apiece.",
+      "The rally follows a period of sustained attention to the cost and complexity of AI adoption at the enterprise level. Palo Alto Networks CEO Nikesh Arora argued earlier this year that AI token prices need to fall by as much as 90% before large-scale enterprise AI deployment becomes practical, describing current pricing as a barrier to moving AI beyond pilot projects. Arora said costs should reach roughly a fifth of current levels within a year and a tenth within two years, though he stopped short of pessimism about the long-term trajectory.",
+      "That pricing concern reflects a broader tension in enterprise AI: per-token rates have dropped steeply, yet total enterprise AI spending has risen sharply as agentic applications chain together model calls in ways that multiply consumption faster than unit prices fall."
+    ],
+    "html": null
+  }
+}

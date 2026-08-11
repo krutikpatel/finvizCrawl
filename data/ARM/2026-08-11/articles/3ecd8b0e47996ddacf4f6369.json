@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/business/earnings/arm-posts-higher-revenue-profit-as-ai-demand-drives-growth-8e035f8c?mod=wsj_FV",
+    "fetched_at": "2026-08-11T07:00:47.282213-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Posts Higher Revenue, Profit as AI Demand Drives Growth - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Arm ARM Holdings posted higher fiscal first-quarter profit and revenue as demand for its chip designs continued to grow across artificial intelligence infrastructure and data centers.\nThe British semiconductor design company reported a profit of $270 million, or 25 cents a share. That compares with a profit of $130 million, or 12 cents a share, a year earlier.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Arm ARM Holdings posted higher fiscal first-quarter profit and revenue as demand for its chip designs continued to grow across artificial intelligence infrastructure and data centers.",
+      "The British semiconductor design company reported a profit of $270 million, or 25 cents a share. That compares with a profit of $130 million, or 12 cents a share, a year earlier.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

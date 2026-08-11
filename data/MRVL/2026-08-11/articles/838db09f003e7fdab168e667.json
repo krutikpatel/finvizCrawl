@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-steady-start-investors-doubt-deal-iran-war/card/intel-s-stock-falls-on-raising-size-of-stock-offering-and-other-early-market-movers-LkZEfruLGIKwcLL3jZKD?mod=mw_FV",
+    "fetched_at": "2026-08-11T07:00:50.129407-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "404 Client Error: Not Found for url: https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-steady-start-investors-doubt-deal-iran-war/card/intel-s-stock-falls-on-raising-size-of-stock-offering-and-other-early-market-movers-LkZEfruLGIKwcLL3jZKD?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-steady-start-investors-doubt-deal-iran-war/card/intel-s-stock-falls-on-raising-size-of-stock-offering-and-other-early-market-movers-LkZEfruLGIKwcLL3jZKD?mod=mw_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

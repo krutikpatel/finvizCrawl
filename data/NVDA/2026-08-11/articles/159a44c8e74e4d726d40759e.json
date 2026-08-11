@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/89d3862f-0eff-3b18-a47b-12f788bf6d0e/ibm-and-together-ai-sign-%24240.html",
+    "fetched_at": "2026-08-11T07:00:36.739066-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IBM and Together AI sign $240 million AI inference deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "IBM and Together AI signed a multi-year $240 million agreement on Tuesday to build a large-scale AI inference cluster on IBM Cloud using Nvidia hardware, the companies said.\nThe cluster is built around Nvidia HGX B300 systems paired with Nvidia Spectrum-X Ethernet networking gear. IBM said it is the first dedicated, large-scale cluster built for inference on IBM Cloud using those systems. Availability is expected in the first quarter of 2027, the company said.\nTogether AI will use the cluster to run inference on open-source AI models. The San Francisco-based company operates a platform through which developers and enterprises can build and deploy AI workloads, and it reports serving 400 trillion tokens monthly.\n\"Enterprises want the performance of the best frontier models without the closed-model price tag, and that only works if the infrastructure underneath is fast and reliable at scale,\" Together AI CEO Vipul Ved Prakash said in a statement. \"This cluster lets us bring production-grade inference to more companies, faster.\"\nAlan Peacock, general manager of IBM Cloud, said in a statement that IBM and Nvidia are \"delivering scalable, economical, enterprise-grade AI infrastructure\" to help Together AI accelerate innovation.\nTogether AI raised an $800 million Series C financing round at an $8.3 billion valuation, the company said. It added that it selected IBM and Nvidia based on their product roadmaps and ability to deliver GPU capacity at the pace required for AI scaling at low token cost.\nIBM's push into open-source AI infrastructure follows a separate commitment to the open-source ecosystem. Earlier this year, IBM announced Project Lightwell, a $5 billion commitment with Red Hat to help enterprises secure open-source software using AI tools and more than 20,000 engineers. That initiative centers on a trusted enterprise clearinghouse that uses AI to vet and verify patches across large portions of the open-source ecosystem, with pilot participants including Bank of America, Goldman Sachs, and JPMorganChase.\nThe IBM and Together AI deal is part of a broader collaboration between IBM and Nvidia that also spans GPU-native data analytics, unstructured data extraction, on-premises and cloud infrastructure, and consulting services, IBM said.",
+    "text_blocks": [
+      "IBM and Together AI signed a multi-year $240 million agreement on Tuesday to build a large-scale AI inference cluster on IBM Cloud using Nvidia hardware, the companies said.",
+      "The cluster is built around Nvidia HGX B300 systems paired with Nvidia Spectrum-X Ethernet networking gear. IBM said it is the first dedicated, large-scale cluster built for inference on IBM Cloud using those systems. Availability is expected in the first quarter of 2027, the company said.",
+      "Together AI will use the cluster to run inference on open-source AI models. The San Francisco-based company operates a platform through which developers and enterprises can build and deploy AI workloads, and it reports serving 400 trillion tokens monthly.",
+      "\"Enterprises want the performance of the best frontier models without the closed-model price tag, and that only works if the infrastructure underneath is fast and reliable at scale,\" Together AI CEO Vipul Ved Prakash said in a statement. \"This cluster lets us bring production-grade inference to more companies, faster.\"",
+      "Alan Peacock, general manager of IBM Cloud, said in a statement that IBM and Nvidia are \"delivering scalable, economical, enterprise-grade AI infrastructure\" to help Together AI accelerate innovation.",
+      "Together AI raised an $800 million Series C financing round at an $8.3 billion valuation, the company said. It added that it selected IBM and Nvidia based on their product roadmaps and ability to deliver GPU capacity at the pace required for AI scaling at low token cost.",
+      "IBM's push into open-source AI infrastructure follows a separate commitment to the open-source ecosystem. Earlier this year, IBM announced Project Lightwell, a $5 billion commitment with Red Hat to help enterprises secure open-source software using AI tools and more than 20,000 engineers. That initiative centers on a trusted enterprise clearinghouse that uses AI to vet and verify patches across large portions of the open-source ecosystem, with pilot participants including Bank of America, Goldman Sachs, and JPMorganChase.",
+      "The IBM and Together AI deal is part of a broader collaboration between IBM and Nvidia that also spans GPU-native data analytics, unstructured data extraction, on-premises and cloud infrastructure, and consulting services, IBM said."
+    ],
+    "html": null
+  }
+}

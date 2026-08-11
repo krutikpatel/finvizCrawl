@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c333b6dd-eab1-34f3-9b35-0aeea4a5c171/intel-raises-%2420-billion-in.html",
+    "fetched_at": "2026-08-11T07:00:42.440803-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel Raises $20 Billion in Upsized Share Sale to Support Chip Manufacturing Expansion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Intel (NASDAQ:INTC) raised $20 billion through an expanded share offering on Tuesday, taking advantage of the sharp rally in its stock to secure additional funding for its capital-intensive push into contract chip manufacturing.\nThe chipmaker priced the offering at $95 per share, representing a 2.6% discount to its previous closing price. Intel had initially announced plans on Monday to raise $15 billion before increasing the size of the offering, which was first reported by Bloomberg.\nThe capital raise comes as Intel invests heavily in manufacturing facilities and advanced packaging technology as part of its effort to compete more effectively with leading contract chipmakers including TSMC.\nIntel taps stock rally to strengthen funding\nIntel shares fell more than 4% on Monday ahead of the expanded offering. Despite the decline, the stock had nearly tripled since the beginning of the year as of Monday, outperforming AMD, Nvidia and the Philadelphia Semiconductor Index, which had gained almost 75%.\nThe scale of Intel's share-price recovery had prompted several analysts to suggest that an equity offering was increasingly likely as the company looked for additional capital to finance its expansion.\nRuss Mould, investment director at AJ Bell, said: \"As a capital-intensive business that went a long way to wrecking its own balance sheet and prospects by focusing on financial engineering rather than physical engineering, courtesy of $82 billion of share buybacks in the 2010s, it makes perfect sense for Intel to raise money, especially after a five-fold increase in the stock price since last August.\"\nAI demand drives higher capital spending\nGrowing demand associated with AI agents has increased requirements for central processing units beyond Intel's existing manufacturing capacity.\nIn July, the company raised its capital expenditure forecast for the year to $20 billion from $18 billion, reflecting the additional investment required to expand production.\nIntel has also committed to beginning high-volume production using its 14A manufacturing process in 2028. The company had previously warned that the technology could be abandoned if it failed to secure a significant external customer.\nIts foundry operation has since won Tesla as a customer for 14A. Expectations for another major client also increased after U.S. President Donald Trump said Apple would manufacture processors with Intel, although neither Intel nor Apple confirmed the arrangement.",
+    "text_blocks": [
+      "Intel (NASDAQ:INTC) raised $20 billion through an expanded share offering on Tuesday, taking advantage of the sharp rally in its stock to secure additional funding for its capital-intensive push into contract chip manufacturing.",
+      "The chipmaker priced the offering at $95 per share, representing a 2.6% discount to its previous closing price. Intel had initially announced plans on Monday to raise $15 billion before increasing the size of the offering, which was first reported by Bloomberg.",
+      "The capital raise comes as Intel invests heavily in manufacturing facilities and advanced packaging technology as part of its effort to compete more effectively with leading contract chipmakers including TSMC.",
+      "Intel taps stock rally to strengthen funding",
+      "Intel shares fell more than 4% on Monday ahead of the expanded offering. Despite the decline, the stock had nearly tripled since the beginning of the year as of Monday, outperforming AMD, Nvidia and the Philadelphia Semiconductor Index, which had gained almost 75%.",
+      "The scale of Intel's share-price recovery had prompted several analysts to suggest that an equity offering was increasingly likely as the company looked for additional capital to finance its expansion.",
+      "Russ Mould, investment director at AJ Bell, said: \"As a capital-intensive business that went a long way to wrecking its own balance sheet and prospects by focusing on financial engineering rather than physical engineering, courtesy of $82 billion of share buybacks in the 2010s, it makes perfect sense for Intel to raise money, especially after a five-fold increase in the stock price since last August.\"",
+      "AI demand drives higher capital spending",
+      "Growing demand associated with AI agents has increased requirements for central processing units beyond Intel's existing manufacturing capacity.",
+      "In July, the company raised its capital expenditure forecast for the year to $20 billion from $18 billion, reflecting the additional investment required to expand production.",
+      "Intel has also committed to beginning high-volume production using its 14A manufacturing process in 2028. The company had previously warned that the technology could be abandoned if it failed to secure a significant external customer.",
+      "Its foundry operation has since won Tesla as a customer for 14A. Expectations for another major client also increased after U.S. President Donald Trump said Apple would manufacture processors with Intel, although neither Intel nor Apple confirmed the arrangement."
+    ],
+    "html": null
+  }
+}

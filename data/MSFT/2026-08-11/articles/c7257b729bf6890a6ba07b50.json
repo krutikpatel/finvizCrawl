@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sets-jaw-dropping-p-122816094.html",
+    "fetched_at": "2026-08-11T07:00:27.504061-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "JPMorgan Sets Jaw-Dropping S&P 500 Target for Year-End 2026",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nJPMorgan has raised its 2026 S&P 500 target to 8,000 from 7,800 for the end of 2026. The firm points to stronger corporate earnings and growing evidence that heavy AI spending is beginning to translate into business growth.\nWith 87% of S&P 500 companies reporting, JPMorgan said second-quarter results have remained broad across sectors. The bank lifted its 2026 earnings-per-share forecast to $365, implying 35% annual growth, above its previous estimate and the $358 consensus.\nJPMorgan also increased its 2027 EPS projection to $420, representing 15% growth. However, the bank kept its valuation assumption near 20 times forward earnings, citing elevated interest rates, geopolitical risks and continued equity and debt issuance.\nAI infrastructure spending remains a central factor behind the revised outlook. Microsoft (NASDAQ:MSFT), Amazon (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL) have posted stronger cloud trends, expanding backlogs and improving visibility into operating cash flow.\nJPMorgan estimates AI capital spending could approach $900 billion this year and exceed $1.2 trillion next year. Still, rising investment is weighing on free cash flow, leaving investors to balance stronger earnings against the costs of funding the AI expansion.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "JPMorgan has raised its 2026 S&P 500 target to 8,000 from 7,800 for the end of 2026. The firm points to stronger corporate earnings and growing evidence that heavy AI spending is beginning to translate into business growth.",
+      "With 87% of S&P 500 companies reporting, JPMorgan said second-quarter results have remained broad across sectors. The bank lifted its 2026 earnings-per-share forecast to $365, implying 35% annual growth, above its previous estimate and the $358 consensus.",
+      "JPMorgan also increased its 2027 EPS projection to $420, representing 15% growth. However, the bank kept its valuation assumption near 20 times forward earnings, citing elevated interest rates, geopolitical risks and continued equity and debt issuance.",
+      "AI infrastructure spending remains a central factor behind the revised outlook. Microsoft (NASDAQ:MSFT), Amazon (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL) have posted stronger cloud trends, expanding backlogs and improving visibility into operating cash flow.",
+      "JPMorgan estimates AI capital spending could approach $900 billion this year and exceed $1.2 trillion next year. Still, rising investment is weighing on free cash flow, leaving investors to balance stronger earnings against the costs of funding the AI expansion."
+    ],
+    "html": null
+  }
+}

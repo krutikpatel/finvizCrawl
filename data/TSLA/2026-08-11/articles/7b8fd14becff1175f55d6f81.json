@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-investors-banking-comeback-then-110059331.html",
+    "fetched_at": "2026-08-11T07:00:03.360152-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel investors are banking on a comeback — and then some",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Intel investors are banking on a comeback — and then some\nWhen is a good time for a company to raise equity? When its shares are expensive, according to financial lore. Intel, which said on Monday that it would issue at least $15bn of new stock, is following that rule to the letter. Its shares trade at nearly 55 times forecast earnings",
+    "text_blocks": [
+      "Intel investors are banking on a comeback — and then some",
+      "When is a good time for a company to raise equity? When its shares are expensive, according to financial lore. Intel, which said on Monday that it would issue at least $15bn of new stock, is following that rule to the letter. Its shares trade at nearly 55 times forecast earnings"
+    ],
+    "html": null
+  }
+}

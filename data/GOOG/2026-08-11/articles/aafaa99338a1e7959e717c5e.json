@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-ai-plan-125827950.html",
+    "fetched_at": "2026-08-11T07:00:24.821796-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia's $500 Billion AI Plan Gets Wall Street Backing",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia Corp. (NVDA, Financials), the leading provider of artificial intelligence chips, is in discussions with some of Wall Street's top firms on a strategy that may free up more than $500 billion for the next phase of the AI buildout.Goldman Sachs, BlackRock, Blackstone, KKR, Apollo, and Brookfield are among the companies involved. The notion is simple but potentially big: think of AI data centers and computing systems as revenue-generating infrastructure that can be financed much like other long-lived assets.That could matter if Microsoft, Amazon, Alphabet, Meta and others spend huge amounts on data centers and resort more to loan and equity markets for funding.Nvidia also might underwrite up to 25% of qualifying loans, potentially helping clients get better financing. Borrowers would utilize Nvidia-approved designs for the systems, which may be transferred to another operator if necessary.That might free up one of the main restraints on future demand for Nvidia chips: access to funding. The worry is Wall Street is subsidizing capacity faster than AI economics can ultimately support. But for now, Huang is trying to make sure money doesn't become a bottleneck.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia Corp. (NVDA, Financials), the leading provider of artificial intelligence chips, is in discussions with some of Wall Street's top firms on a strategy that may free up more than $500 billion for the next phase of the AI buildout.Goldman Sachs, BlackRock, Blackstone, KKR, Apollo, and Brookfield are among the companies involved. The notion is simple but potentially big: think of AI data centers and computing systems as revenue-generating infrastructure that can be financed much like other long-lived assets.That could matter if Microsoft, Amazon, Alphabet, Meta and others spend huge amounts on data centers and resort more to loan and equity markets for funding.Nvidia also might underwrite up to 25% of qualifying loans, potentially helping clients get better financing. Borrowers would utilize Nvidia-approved designs for the systems, which may be transferred to another operator if necessary.That might free up one of the main restraints on future demand for Nvidia chips: access to funding. The worry is Wall Street is subsidizing capacity faster than AI economics can ultimately support. But for now, Huang is trying to make sure money doesn't become a bottleneck."
+    ],
+    "html": null
+  }
+}

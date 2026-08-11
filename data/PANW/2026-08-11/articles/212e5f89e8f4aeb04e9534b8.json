@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_FV",
+    "fetched_at": "2026-08-11T07:00:44.665320-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why every tech giant wants to look like a cybersecurity company in the AI era - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nWhy every tech giant wants to look like a cybersecurity company in the AI era\nAs AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses\nA wave of artificial-intelligence adoption has come with an undesirable side effect: An explosion of cyberthreats.\nAI agents can churn out code with security flaws or be weaponized by bad actors to hack into computer systems. They might even act out on their own — as was the case earlier this month, when OpenAI reported that one of its AI agents escaped its internal testing environment and carried out a cyberattack against the AI platform Hugging Face.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Why every tech giant wants to look like a cybersecurity company in the AI era",
+      "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses",
+      "A wave of artificial-intelligence adoption has come with an undesirable side effect: An explosion of cyberthreats.",
+      "AI agents can churn out code with security flaws or be weaponized by bad actors to hack into computer systems. They might even act out on their own — as was the case earlier this month, when OpenAI reported that one of its AI agents escaped its internal testing environment and carried out a cyberattack against the AI platform Hugging Face."
+    ],
+    "html": null
+  }
+}

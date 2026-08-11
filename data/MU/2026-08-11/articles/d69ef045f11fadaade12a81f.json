@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_FV",
+    "fetched_at": "2026-08-11T07:00:13.596403-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This Nvidia change could spell good news for Micron - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nThis Nvidia change could spell good news for Micron\nAn analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory\nNvidia is making a change that could provide a further boost to Micron Technology, according to new analysis.\nUBS analyst Timothy Arcuri wrote Monday that he believes Nvidia NVDA has moved to “de-spec” its upcoming Rubin Ultra offering, referring to the practice of downgrading certain capabilities of its chip. The Information reported that Nvidia is testing different versions of the chip with less memory due to concerns over high-bandwidth-memory supply.",
+    "text_blocks": [
+      "Tech Stocks",
+      "This Nvidia change could spell good news for Micron",
+      "An analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory",
+      "Nvidia is making a change that could provide a further boost to Micron Technology, according to new analysis.",
+      "UBS analyst Timothy Arcuri wrote Monday that he believes Nvidia NVDA has moved to “de-spec” its upcoming Rubin Ultra offering, referring to the practice of downgrading certain capabilities of its chip. The Information reported that Nvidia is testing different versions of the chip with less memory due to concerns over high-bandwidth-memory supply."
+    ],
+    "html": null
+  }
+}
