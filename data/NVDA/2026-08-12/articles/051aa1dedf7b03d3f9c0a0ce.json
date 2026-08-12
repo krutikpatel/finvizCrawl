@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-revenue-doubled-debt-keeps-125217466.html",
+    "fetched_at": "2026-08-12T07:00:48.361632-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CoreWeave's Revenue Doubled, but Its Debt Keeps Climbing",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCoreWeave (NASDAQ:CRWV), an AI cloud provider that rents out Nvidia (NASDAQ:NVDA) chips, rose 15.64% premarket after reporting second-quarter revenue of $2.58 billion, up 112% from a year earlier and past the $2.56 billion analysts expected. The adjusted loss of $1.03 a share was narrower than expected, and the company raised its full-year revenue outlook to as much as $13.2 billion. It ended the quarter with revenue backlog at $104 billion. Adjusted EBITDA rose to $1.51 billion, a 59% margin.\nThe losses grew alongside the growth. The net loss widened to $626 million, or $1.14 a share, from $290 million a year earlier, weighed down by $640 million in net interest expense as CoreWeave borrows heavily to fund its buildout. The company raised more than $10 billion in debt and convertible bonds during the quarter, closed a $3.1 billion term loan, and took a $1 billion strategic investment from Jane Street, ending the quarter with $35 billion in debt. It spent $6.4 billion on property and equipment in the quarter alone and lifted its planned 2026 capital spending to between $35 billion and $39 billion.\nIt grew active power by about 500 megawatts to 1.5 gigawatts, with contracted power near 3.7 gigawatts.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "CoreWeave (NASDAQ:CRWV), an AI cloud provider that rents out Nvidia (NASDAQ:NVDA) chips, rose 15.64% premarket after reporting second-quarter revenue of $2.58 billion, up 112% from a year earlier and past the $2.56 billion analysts expected. The adjusted loss of $1.03 a share was narrower than expected, and the company raised its full-year revenue outlook to as much as $13.2 billion. It ended the quarter with revenue backlog at $104 billion. Adjusted EBITDA rose to $1.51 billion, a 59% margin.",
+      "The losses grew alongside the growth. The net loss widened to $626 million, or $1.14 a share, from $290 million a year earlier, weighed down by $640 million in net interest expense as CoreWeave borrows heavily to fund its buildout. The company raised more than $10 billion in debt and convertible bonds during the quarter, closed a $3.1 billion term loan, and took a $1 billion strategic investment from Jane Street, ending the quarter with $35 billion in debt. It spent $6.4 billion on property and equipment in the quarter alone and lifted its planned 2026 capital spending to between $35 billion and $39 billion.",
+      "It grew active power by about 500 megawatts to 1.5 gigawatts, with contracted power near 3.7 gigawatts."
+    ],
+    "html": null
+  }
+}

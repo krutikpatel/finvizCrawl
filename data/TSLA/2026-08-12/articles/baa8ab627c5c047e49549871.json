@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-loses-chinas-131417175.html",
+    "fetched_at": "2026-08-12T07:00:10.856481-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla's Model Y Loses China's Top Spot to Geely",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla Inc. (TSLA, Financials), the electric vehicle maker, lost the top spot among China's best-selling car models as lower-priced local competitors continue to gain ground.\nGeely's Xingyuan electric hatchback led the market with nearly 197,500 vehicles sold during the six months through July, according to Autohome data cited by CNBC.\nTesla's Model Y ranked second with more than 180,000 sales. The price gap is striking. Geely's Xingyuan starts below 100,000 yuan, or about $14,820, while the Model Y costs between 263,500 yuan and 313,500 yuan.\nStill, Tesla managed to outsell competing vehicles from Li Auto, Xiaomi and BYD, showing the Model Y retains considerable appeal despite its premium price.\nChina's market is also becoming increasingly electric. New-energy vehicles accounted for 65.1% of new passenger-car sales in July, up from 54% a year earlier.\nFor Tesla, the challenge is keeping the Model Y near the top as Chinese manufacturers offer increasingly capable EVs at far lower prices. The next question is whether Tesla can protect that position without relying more heavily on discounts.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla Inc. (TSLA, Financials), the electric vehicle maker, lost the top spot among China's best-selling car models as lower-priced local competitors continue to gain ground.",
+      "Geely's Xingyuan electric hatchback led the market with nearly 197,500 vehicles sold during the six months through July, according to Autohome data cited by CNBC.",
+      "Tesla's Model Y ranked second with more than 180,000 sales. The price gap is striking. Geely's Xingyuan starts below 100,000 yuan, or about $14,820, while the Model Y costs between 263,500 yuan and 313,500 yuan.",
+      "Still, Tesla managed to outsell competing vehicles from Li Auto, Xiaomi and BYD, showing the Model Y retains considerable appeal despite its premium price.",
+      "China's market is also becoming increasingly electric. New-energy vehicles accounted for 65.1% of new passenger-car sales in July, up from 54% a year earlier.",
+      "For Tesla, the challenge is keeping the Model Y near the top as Chinese manufacturers offer increasingly capable EVs at far lower prices. The next question is whether Tesla can protect that position without relying more heavily on discounts."
+    ],
+    "html": null
+  }
+}

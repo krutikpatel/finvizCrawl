@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-promises-free-ai-110000135.html",
+    "fetched_at": "2026-08-12T07:00:21.391698-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Mark Zuckerberg promises free AI for billions — then buries a bidding war in the fine print",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The metaverse appears to be long gone.\nAfter writing his recent 6,500-word manifesto called \"The Future is for Everyone,\" it's clear that Facebook founder Mark Zuckerberg is now hyperfocused on his parent company Meta's [NASDAQ: META] hyperscaling efforts.\nMust Read\n-\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n-\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n-\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\nBut this manifesto wasn't just about Zuckerberg's AI business objectives — at least not overtly. Instead, he used this text as an opportunity to spell out his philosophy on AI and why he favors an open infrastructure to bring \"personal superintelligence\" to \"billions of people.\"\nTo bring about his AI-enriched future, Zuckerberg claims Meta will offer everyone a \"personal agent\" that works \"24/7 on your behalf to improve your relationships, health, career, finances, home management, hobbies and more.\"\nBut as you read deeper into his post, you may notice these services aren't entirely free. Ironically, in the bullet point titled \"Everyone will have free or affordable access to these tools,\" Zuckerberg says, \"For those who want to pay to use more compute, there will be a dynamic auction mechanism that will guarantee that everyone gets the lowest price possible for the intelligence and compute they're using while also ensuring the capacity is used for whatever people collectively find most valuable.\"\nThis bidding war highlights the harsh reality of hardware scarcity. Even though an open source model makes intelligence accessible, it doesn't magically create more resources. People who are willing to pay the highest price for tokens will still have access to more superintelligence.\nZuckerberg admitted this later in his manifesto when he wrote, \"No matter how intelligent AI becomes, there will always be a finite amount of compute and therefore an opportunity cost for how we use it.\"\nMoneywise reached out to Meta for further comment but didn't hear back before publication.\nIs Zuckerberg more practical than philosophical?\nAlthough Zuckerberg's manifesto talks a lot about big ideas like \"individual empowerment as the source of prosperity,\" the support for open-source AI models might make good business sense.\nAI leaderboards like Artificial Analysis and LLM Stats consistently show Meta's AI model Muse Spark simply isn't as popular as those from closed-source competitors OpenAI and Anthropic. Meta is also struggling against rising open-source Chinese competitors like Moonshot AI's Kimi 3.",
+    "text_blocks": [
+      "The metaverse appears to be long gone.",
+      "After writing his recent 6,500-word manifesto called \"The Future is for Everyone,\" it's clear that Facebook founder Mark Zuckerberg is now hyperfocused on his parent company Meta's [NASDAQ: META] hyperscaling efforts.",
+      "Must Read",
+      "-",
+      "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+      "-",
+      "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP",
+      "-",
+      "Millionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going",
+      "But this manifesto wasn't just about Zuckerberg's AI business objectives — at least not overtly. Instead, he used this text as an opportunity to spell out his philosophy on AI and why he favors an open infrastructure to bring \"personal superintelligence\" to \"billions of people.\"",
+      "To bring about his AI-enriched future, Zuckerberg claims Meta will offer everyone a \"personal agent\" that works \"24/7 on your behalf to improve your relationships, health, career, finances, home management, hobbies and more.\"",
+      "But as you read deeper into his post, you may notice these services aren't entirely free. Ironically, in the bullet point titled \"Everyone will have free or affordable access to these tools,\" Zuckerberg says, \"For those who want to pay to use more compute, there will be a dynamic auction mechanism that will guarantee that everyone gets the lowest price possible for the intelligence and compute they're using while also ensuring the capacity is used for whatever people collectively find most valuable.\"",
+      "This bidding war highlights the harsh reality of hardware scarcity. Even though an open source model makes intelligence accessible, it doesn't magically create more resources. People who are willing to pay the highest price for tokens will still have access to more superintelligence.",
+      "Zuckerberg admitted this later in his manifesto when he wrote, \"No matter how intelligent AI becomes, there will always be a finite amount of compute and therefore an opportunity cost for how we use it.\"",
+      "Moneywise reached out to Meta for further comment but didn't hear back before publication.",
+      "Is Zuckerberg more practical than philosophical?",
+      "Although Zuckerberg's manifesto talks a lot about big ideas like \"individual empowerment as the source of prosperity,\" the support for open-source AI models might make good business sense.",
+      "AI leaderboards like Artificial Analysis and LLM Stats consistently show Meta's AI model Muse Spark simply isn't as popular as those from closed-source competitors OpenAI and Anthropic. Meta is also struggling against rising open-source Chinese competitors like Moonshot AI's Kimi 3."
+    ],
+    "html": null
+  }
+}

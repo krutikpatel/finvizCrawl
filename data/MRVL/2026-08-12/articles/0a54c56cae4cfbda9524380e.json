@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chip-could-big-192055770.html",
+    "fetched_at": "2026-08-12T07:01:03.341599-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) could soon give its in-house AI chip effort another test, with a potential Maia 300 launch drawing attention to Marvell Technology (NASDAQ:MRVL) and Taiwan Semiconductor Manufacturing (NYSE:TSM).\nWedbush Securities said a successful rollout could improve the outlook for suppliers involved in Microsoft's custom silicon program. Analyst Matt Bryson noted that Microsoft's hardware efforts may be reaching a stage where its chip designs could begin gaining more traction after several development cycles.\nMarvell could be among the companies with the most to gain if Microsoft places a sizable production order. Taiwan Semiconductor could also benefit because it is expected to provide manufacturing capacity for the chips.\nThe Maia 300 may also add another competitor to Nvidia (NASDAQ:NVDA) in AI inference, the process of running trained models to generate responses. Still, Wedbush expects limited near-term pressure on Nvidia, citing its ability to secure chip supplies.\nMedia reports suggest Microsoft could introduce Maia 300 as early as this fall. The company has also discussed securing capacity for more than 300,000 chips for delivery in 2027, while Maia 200 debuted in January.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) could soon give its in-house AI chip effort another test, with a potential Maia 300 launch drawing attention to Marvell Technology (NASDAQ:MRVL) and Taiwan Semiconductor Manufacturing (NYSE:TSM).",
+      "Wedbush Securities said a successful rollout could improve the outlook for suppliers involved in Microsoft's custom silicon program. Analyst Matt Bryson noted that Microsoft's hardware efforts may be reaching a stage where its chip designs could begin gaining more traction after several development cycles.",
+      "Marvell could be among the companies with the most to gain if Microsoft places a sizable production order. Taiwan Semiconductor could also benefit because it is expected to provide manufacturing capacity for the chips.",
+      "The Maia 300 may also add another competitor to Nvidia (NASDAQ:NVDA) in AI inference, the process of running trained models to generate responses. Still, Wedbush expects limited near-term pressure on Nvidia, citing its ability to secure chip supplies.",
+      "Media reports suggest Microsoft could introduce Maia 300 as early as this fall. The company has also discussed securing capacity for more than 300,000 chips for delivery in 2027, while Maia 200 debuted in January."
+    ],
+    "html": null
+  }
+}

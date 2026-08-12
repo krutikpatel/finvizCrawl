@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2597e46b-1a97-389e-a4a8-0ceb63b8271d/apple-is-testing-chinese-dram.html",
+    "fetched_at": "2026-08-12T07:00:15.319356-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple is testing Chinese DRAM even after CXMT refused to cut prices",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple's search for more memory supply has taken another step forward. The company is now testing DRAM from Chinese manufacturer CXMT across several products, including iPhones and MacBooks, according to The Wall Street Journal. Apple has also held early talks with CXMT about supplying memory for some devices sold in China and is seeking support from the US government before moving ahead.\nThe timing is particularly interesting. Just recently, we learned that a shortage of DRAM could already be holding up production of the A20 Pro chip expected inside the iPhone 18 Pro. TSMC is said to have around $1 billion worth of finished chips waiting for memory before packaging can continue.\nApple needs more memory, not just better prices\nThe iPhone maker had already approached CXMT as an additional DRAM supplier, but its attempt to negotiate cheaper pricing did not go as planned.CXMT quoted prices comparable to or even higher than Samsung and SK Hynix. Huawei, Xiaomi, and other Chinese manufacturers have also locked up much of its available output through long-term agreements, giving CXMT little reason to offer Apple the kind of discount it usually expects from suppliers.\nIf this report is accurate, then Apple might have abandoned the idea of securing cheaper DRAM in favor of securing enough DRAM for the fast-approaching fall launch window of its iPhone 18 Pro lineup.\nWashington could still get in the way\nEven if Apple is willing to buy CXMT memory at current prices, actually using it could be another challenge. The company is seeking support from the US government before moving ahead with plans to use the Chinese supplier in devices sold in China. Any deal would come at a sensitive time for US-China chip relations, and Apple may want political clearance before putting CXMT components inside one of its products.\nApple has already raised prices across several Macs and iPads after months of absorbing higher component costs. The iPhone has so far escaped the same treatment, but the iPhone 18 Pro could be next. Several analysts have suggested that the iPhone 18 Pro Max could see a price increase of around $200 to $300, while similar hikes are also expected for the iPhone 18 Pro.\nApple has also preemptively launched a new leasing program called Apple Upgrade, giving customers another way to move to the latest iPhone without paying the full price upfront. If Apple is now looking to CXMT simply to secure enough DRAM for the fall launch, keeping iPhone 18 Pro production moving may be a bigger concern than keeping prices down.",
+    "text_blocks": [
+      "Apple's search for more memory supply has taken another step forward. The company is now testing DRAM from Chinese manufacturer CXMT across several products, including iPhones and MacBooks, according to The Wall Street Journal. Apple has also held early talks with CXMT about supplying memory for some devices sold in China and is seeking support from the US government before moving ahead.",
+      "The timing is particularly interesting. Just recently, we learned that a shortage of DRAM could already be holding up production of the A20 Pro chip expected inside the iPhone 18 Pro. TSMC is said to have around $1 billion worth of finished chips waiting for memory before packaging can continue.",
+      "Apple needs more memory, not just better prices",
+      "The iPhone maker had already approached CXMT as an additional DRAM supplier, but its attempt to negotiate cheaper pricing did not go as planned.CXMT quoted prices comparable to or even higher than Samsung and SK Hynix. Huawei, Xiaomi, and other Chinese manufacturers have also locked up much of its available output through long-term agreements, giving CXMT little reason to offer Apple the kind of discount it usually expects from suppliers.",
+      "If this report is accurate, then Apple might have abandoned the idea of securing cheaper DRAM in favor of securing enough DRAM for the fast-approaching fall launch window of its iPhone 18 Pro lineup.",
+      "Washington could still get in the way",
+      "Even if Apple is willing to buy CXMT memory at current prices, actually using it could be another challenge. The company is seeking support from the US government before moving ahead with plans to use the Chinese supplier in devices sold in China. Any deal would come at a sensitive time for US-China chip relations, and Apple may want political clearance before putting CXMT components inside one of its products.",
+      "Apple has already raised prices across several Macs and iPads after months of absorbing higher component costs. The iPhone has so far escaped the same treatment, but the iPhone 18 Pro could be next. Several analysts have suggested that the iPhone 18 Pro Max could see a price increase of around $200 to $300, while similar hikes are also expected for the iPhone 18 Pro.",
+      "Apple has also preemptively launched a new leasing program called Apple Upgrade, giving customers another way to move to the latest iPhone without paying the full price upfront. If Apple is now looking to CXMT simply to secure enough DRAM for the fall launch, keeping iPhone 18 Pro production moving may be a bigger concern than keeping prices down."
+    ],
+    "html": null
+  }
+}

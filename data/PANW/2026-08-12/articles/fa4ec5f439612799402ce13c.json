@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/5cfac6c1-034d-3279-a52a-4ff0ad131bc5/palo-alto-networks-stock-ran.html",
+    "fetched_at": "2026-08-12T07:00:57.368214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks Stock Ran On A Threat That Management Had Already Named",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palo Alto Networks had described the AI attack problem, raised its long-term target and bought an observability platform before the stock repriced.\nPalo Alto Networks (PANW) stock has risen roughly 142% over the past six months, to $385.04, against 12.2% for the S&P 500. The move was not universal: peers CRWD and FTNT gained 127.7% and 98.4% over the same window, while ZS added just 5.6%. The demand behind this run, though, sat in the company's own reporting long before the price responded.\nThe 25-Minute Simulated Attack Was Already On The Record In May 2025\nIn its fiscal Q3 2025 report, in May 2025, the company said its own Unit 42 researchers had simulated an entire ransomware attack in under 25 minutes using AI at every stage. Management's commercial read followed directly: AI was pushing workloads to the cloud, that traffic had to be secured, and the software firewall business was about to inflect.\nThen The Company Started Paying For That Thesis\nThe case hardened in November 2025. Management described the first reported case of an AI agent autonomously running a large-scale nation-state attack, called it a turning point, and lifted its fiscal 2030 next-generation security ARR target to $20 billion, from $15 billion standalone, with the two pending acquisitions included. By then the company had launched a fifth generation of firewalls and had agreed to buy Chronosphere for $3.35 billion, because the observability industry was never designed for the AI era. That deal closed on January 29, 2026, a week before the run began. None of it showed in the reported figures: trailing-twelve-month revenue was $9.56 billion as of the fiscal Q1 2026 results, the last report public before the run, up 15.3% year over year. Steady growth that arrives without a headline is the sort of quality that characterizes the businesses held in the Trefis High Quality Portfolio.\nHardware's Best Quarter In A Decade Was Not What Management Had Expected\nThe payoff landed in the June 2026 report. Excluding the CyberArk and Chronosphere acquisitions, next-generation security ARR grew 28% year over year. The observability business the company had just bought passed $300 million in ARR, and Prisma AIRS, its AI security platform, tripled its customer count in fiscal Q3 2026, to over 300. What the earlier reporting did not carry was the scale of the appliance recovery: next-generation firewall bookings rose nearly 40% year over year and hardware turned in its best quarter in a decade, on Gen 5 appliances and AI data center build-outs. As late as August 2025 management had expected hardware to be a mid-single-digit grower in fiscal 2026.",
+    "text_blocks": [
+      "Palo Alto Networks had described the AI attack problem, raised its long-term target and bought an observability platform before the stock repriced.",
+      "Palo Alto Networks (PANW) stock has risen roughly 142% over the past six months, to $385.04, against 12.2% for the S&P 500. The move was not universal: peers CRWD and FTNT gained 127.7% and 98.4% over the same window, while ZS added just 5.6%. The demand behind this run, though, sat in the company's own reporting long before the price responded.",
+      "The 25-Minute Simulated Attack Was Already On The Record In May 2025",
+      "In its fiscal Q3 2025 report, in May 2025, the company said its own Unit 42 researchers had simulated an entire ransomware attack in under 25 minutes using AI at every stage. Management's commercial read followed directly: AI was pushing workloads to the cloud, that traffic had to be secured, and the software firewall business was about to inflect.",
+      "Then The Company Started Paying For That Thesis",
+      "The case hardened in November 2025. Management described the first reported case of an AI agent autonomously running a large-scale nation-state attack, called it a turning point, and lifted its fiscal 2030 next-generation security ARR target to $20 billion, from $15 billion standalone, with the two pending acquisitions included. By then the company had launched a fifth generation of firewalls and had agreed to buy Chronosphere for $3.35 billion, because the observability industry was never designed for the AI era. That deal closed on January 29, 2026, a week before the run began. None of it showed in the reported figures: trailing-twelve-month revenue was $9.56 billion as of the fiscal Q1 2026 results, the last report public before the run, up 15.3% year over year. Steady growth that arrives without a headline is the sort of quality that characterizes the businesses held in the Trefis High Quality Portfolio.",
+      "Hardware's Best Quarter In A Decade Was Not What Management Had Expected",
+      "The payoff landed in the June 2026 report. Excluding the CyberArk and Chronosphere acquisitions, next-generation security ARR grew 28% year over year. The observability business the company had just bought passed $300 million in ARR, and Prisma AIRS, its AI security platform, tripled its customer count in fiscal Q3 2026, to over 300. What the earlier reporting did not carry was the scale of the appliance recovery: next-generation firewall bookings rose nearly 40% year over year and hardware turned in its best quarter in a decade, on Gen 5 appliances and AI data center build-outs. As late as August 2025 management had expected hardware to be a mid-single-digit grower in fiscal 2026."
+    ],
+    "html": null
+  }
+}

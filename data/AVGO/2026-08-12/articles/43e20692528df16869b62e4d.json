@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/70e25055-7252-33bc-8f79-31e62876d0cd/what-is-the-market-really.html",
+    "fetched_at": "2026-08-12T07:00:41.020017-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Is The Market Really Expecting From AVGO Stock?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "At $422, Broadcom (AVGO) is being priced to deliver 26% revenue growth annually for the next 5 years simply to defend today's 68.4x multiple. That sits below the 32% the business is currently growing at, which is the unusual part. The multiple has already priced in a slowdown that has not yet appeared.\nBroadcom is in a period of extreme AI-driven acceleration. Its business centers on supplying custom accelerators and networking silicon to a handful of core customers like Google.\nThat explosive growth comes from lower-margin custom silicon, creating a drag on profitability. Management is now explicitly guiding for consolidated gross margins to fall as this new product mix takes hold.\nWith that as the operational backdrop, the question is whether 26% revenue growth for 5 years is reasonable for AVGO. Before we walk through how the math gets to that number, here are AVGO's current numbers as a reference point:\nLTM refers to last twelve months.\nFor the full historical trajectory of these lines, see AVGO's data page.\nWhere That 26% Comes From\nFirst, we give the business 5 years to grow into the multiple. Second, we assume the P/E settles at 25.2x at maturity, where mature, leading-edge semiconductor businesses typically clear. Third, margins land near 34%, anchored on the company's own track record, which already runs at or above what mature peers earn.\nWith those locked in, the mechanical arithmetic takes over. AVGO's $2.0T market cap divided by 25.2x implies $79.6B of net income at maturity. At a 34% margin, that requires $235.5B of revenue, up from $75.5B today. Compounded over 5 years, that lands on the 26% annual growth the lead opened with.\nCan AVGO Pull That Off?\nGrowth is underpinned by multi-year revenue guidance and specific contractual commitments with AI labs like OpenAI. Broadcom's claimed technology leadership in high-speed networking provides a crucial, complementary advantage for building out large compute clusters.\nThe business is highly concentrated, with analysts flagging concern about its share within key customer Google. Management acknowledges its largest partners will seek a diversity of sources, a reality that pressures both future growth and the margins on custom silicon.\nThe multiple has already priced in a slowdown that has not yet shown up. As long as the risks above do not land harder than priced, the math works in your favor.",
+    "text_blocks": [
+      "At $422, Broadcom (AVGO) is being priced to deliver 26% revenue growth annually for the next 5 years simply to defend today's 68.4x multiple. That sits below the 32% the business is currently growing at, which is the unusual part. The multiple has already priced in a slowdown that has not yet appeared.",
+      "Broadcom is in a period of extreme AI-driven acceleration. Its business centers on supplying custom accelerators and networking silicon to a handful of core customers like Google.",
+      "That explosive growth comes from lower-margin custom silicon, creating a drag on profitability. Management is now explicitly guiding for consolidated gross margins to fall as this new product mix takes hold.",
+      "With that as the operational backdrop, the question is whether 26% revenue growth for 5 years is reasonable for AVGO. Before we walk through how the math gets to that number, here are AVGO's current numbers as a reference point:",
+      "LTM refers to last twelve months.",
+      "For the full historical trajectory of these lines, see AVGO's data page.",
+      "Where That 26% Comes From",
+      "First, we give the business 5 years to grow into the multiple. Second, we assume the P/E settles at 25.2x at maturity, where mature, leading-edge semiconductor businesses typically clear. Third, margins land near 34%, anchored on the company's own track record, which already runs at or above what mature peers earn.",
+      "With those locked in, the mechanical arithmetic takes over. AVGO's $2.0T market cap divided by 25.2x implies $79.6B of net income at maturity. At a 34% margin, that requires $235.5B of revenue, up from $75.5B today. Compounded over 5 years, that lands on the 26% annual growth the lead opened with.",
+      "Can AVGO Pull That Off?",
+      "Growth is underpinned by multi-year revenue guidance and specific contractual commitments with AI labs like OpenAI. Broadcom's claimed technology leadership in high-speed networking provides a crucial, complementary advantage for building out large compute clusters.",
+      "The business is highly concentrated, with analysts flagging concern about its share within key customer Google. Management acknowledges its largest partners will seek a diversity of sources, a reality that pressures both future growth and the margins on custom silicon.",
+      "The multiple has already priced in a slowdown that has not yet shown up. As long as the risks above do not land harder than priced, the math works in your favor."
+    ],
+    "html": null
+  }
+}

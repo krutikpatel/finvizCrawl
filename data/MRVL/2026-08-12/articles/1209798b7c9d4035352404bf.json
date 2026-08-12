@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/79cd2636-6a01-36ea-84bf-a13646c56f02/the-options-market-says.html",
+    "fetched_at": "2026-08-12T07:01:03.367340-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Options Market Says Marvell Stock Could Halve Or More Than Double",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This band is not a panic premium; it sits close to what the stock has actually delivered over the past year, and a holder carries every bit of that width.\nMarvell Technology (MRVL) stock trades near $209, and its options are quoting a thirteen-month band running from $90 to about $492. Neither bound is a forecast; together they measure the uncertainty a holder is carrying. The width is not the market panicking, and that is the point: it is roughly what this stock has been doing on its own.\nLose More Than Half The Position, Or More Than Double It\nThe ceiling sits about 136% above today's price, the floor about 57% below, with roughly a two-in-three chance of finishing between them and about a 16% chance of ending under $90. The asymmetry is arithmetic, not opinion: a stock cannot fall below zero but can rise without limit. Thirteen months from now the position could be worth less than half of today's value, or more than twice as much.\nImplied Volatility Is Barely Above What The Stock Already Delivered\nAt-the-money implied volatility on those contracts is 81.5%, against realized volatility of 79.1% over the trailing year, a ratio of 1.03. The options are charging almost nothing extra for the risk; they are quoting this stock's own habit. And that habit is documented: over the trailing year the shares have traded between $62.18 and $316.35, and they still sit about 34% below that high. A holder who finds the band alarming has already held through a year that looked much the same.\nThe Interconnect And Custom Silicon Ramps Behind That Range\nVolatility that wide is what a business valued on years it has not reported yet looks like. Revenue over the trailing twelve months is $8.72 billion; management's outlook for fiscal 2028 is $16.5 billion, and it has been raised repeatedly over the past several quarters. The step-up rests on two lines still ramping: an interconnect business guided to grow more than 70% year over year in fiscal 2027, and a custom silicon franchise management expects to more than double in fiscal 2028, partly on a new tier 1 XPU program still in development.\nDelivering the step-up requires additional capacity, and the company says it is aggressively locking that in with roughly $1 billion of prepayments to suppliers in fiscal 2027. The demand behind all of it comes from the handful of companies driving the AI build-out, the kind of concentration the Trefis High Quality Portfolio avoids by not relying on the largest technology names for its returns.\nA Fall To $90 Would Not Be An Outlier Here",
+    "text_blocks": [
+      "This band is not a panic premium; it sits close to what the stock has actually delivered over the past year, and a holder carries every bit of that width.",
+      "Marvell Technology (MRVL) stock trades near $209, and its options are quoting a thirteen-month band running from $90 to about $492. Neither bound is a forecast; together they measure the uncertainty a holder is carrying. The width is not the market panicking, and that is the point: it is roughly what this stock has been doing on its own.",
+      "Lose More Than Half The Position, Or More Than Double It",
+      "The ceiling sits about 136% above today's price, the floor about 57% below, with roughly a two-in-three chance of finishing between them and about a 16% chance of ending under $90. The asymmetry is arithmetic, not opinion: a stock cannot fall below zero but can rise without limit. Thirteen months from now the position could be worth less than half of today's value, or more than twice as much.",
+      "Implied Volatility Is Barely Above What The Stock Already Delivered",
+      "At-the-money implied volatility on those contracts is 81.5%, against realized volatility of 79.1% over the trailing year, a ratio of 1.03. The options are charging almost nothing extra for the risk; they are quoting this stock's own habit. And that habit is documented: over the trailing year the shares have traded between $62.18 and $316.35, and they still sit about 34% below that high. A holder who finds the band alarming has already held through a year that looked much the same.",
+      "The Interconnect And Custom Silicon Ramps Behind That Range",
+      "Volatility that wide is what a business valued on years it has not reported yet looks like. Revenue over the trailing twelve months is $8.72 billion; management's outlook for fiscal 2028 is $16.5 billion, and it has been raised repeatedly over the past several quarters. The step-up rests on two lines still ramping: an interconnect business guided to grow more than 70% year over year in fiscal 2027, and a custom silicon franchise management expects to more than double in fiscal 2028, partly on a new tier 1 XPU program still in development.",
+      "Delivering the step-up requires additional capacity, and the company says it is aggressively locking that in with roughly $1 billion of prepayments to suppliers in fiscal 2027. The demand behind all of it comes from the handful of companies driving the AI build-out, the kind of concentration the Trefis High Quality Portfolio avoids by not relying on the largest technology names for its returns.",
+      "A Fall To $90 Would Not Be An Outlier Here"
+    ],
+    "html": null
+  }
+}
