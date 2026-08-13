@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-sees-another-30-rip-in-microsoft-stock-132716702.html",
+    "fetched_at": "2026-08-13T07:00:27.255735-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why this analyst sees another 30% rip in Microsoft stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft's (MSFT) revitalized stock price may have further room to run, simply based on signals the company sent in its latest earnings report.\nThe big call\nJPMorgan analyst Samik Chatterjee came out bullish on Microsoft stock in a note on Thursday, taking his price target to $625 from $550. The revised price target assumes about 30% upside from current trading levels.\nChatterjee made two important points in explaining his price target hike:\nPoint one: \"We have a favorable view on the growth outlook for the company, wherein we envision an acceleration in the growth of both Azure and M365 Commercial Cloud with AI infrastructure buildout being the key underlying driver for acceleration in both businesses,\" Chatterjee wrote. \"With M365 cloud products, including Copilot, acting as the internal customer for Microsoft's AI infrastructure, the company is well positioned to leverage the buildout in the form of a high-margin, differentiated application software offering, while at the same time benefiting from the demand for third-party AI infrastructure from AI natives and Enterprises.\"\nPoint two: \"We believe the combination of high revenue and earnings growth as well as lower capital needs than peers should justify a return to the historical premium relative to the broader market, if not higher,\" he added.\nKeep in mind\nMicrosoft's fiscal fourth quarter earnings recently quieted the bears, which largely explains why the stock has fallen back into the good graces of Wall Street — shares are up 25% in the past month — a notion reinforced by Chatterjee's note.\nThe tech titan posted a staggering $90 billion in revenue in Q4, up 18% year over year.\nAzure and other cloud services growth surged 43%. To put that in perspective, Azure officially crossed the noteworthy $100 billion annual revenue milestone, proving that enterprise clients aren't just experimenting with AI — they are deploying it at scale. In other words, Microsoft is monetizing its AI.\nThe company also demonstrated operating leverage, increasing operating income by 18% to $40.6 billion while significantly building out its data center capacity. CFO Amy Hood gave Wall Street confidence by pairing disciplined expense control with a whopping $10.2 billion cash return to shareholders via dividends and buybacks in the quarter alone.\nMicrosoft also didn't aggressively raise its capital expenditure plans like others in Big Tech, such as Alphabet (GOOG, GOOGL) and Meta (META).\nProfit estimates have trended higher since the late-July earnings report, according to Yahoo Finance AlphaSpace data.",
+    "text_blocks": [
+      "Microsoft's (MSFT) revitalized stock price may have further room to run, simply based on signals the company sent in its latest earnings report.",
+      "The big call",
+      "JPMorgan analyst Samik Chatterjee came out bullish on Microsoft stock in a note on Thursday, taking his price target to $625 from $550. The revised price target assumes about 30% upside from current trading levels.",
+      "Chatterjee made two important points in explaining his price target hike:",
+      "Point one: \"We have a favorable view on the growth outlook for the company, wherein we envision an acceleration in the growth of both Azure and M365 Commercial Cloud with AI infrastructure buildout being the key underlying driver for acceleration in both businesses,\" Chatterjee wrote. \"With M365 cloud products, including Copilot, acting as the internal customer for Microsoft's AI infrastructure, the company is well positioned to leverage the buildout in the form of a high-margin, differentiated application software offering, while at the same time benefiting from the demand for third-party AI infrastructure from AI natives and Enterprises.\"",
+      "Point two: \"We believe the combination of high revenue and earnings growth as well as lower capital needs than peers should justify a return to the historical premium relative to the broader market, if not higher,\" he added.",
+      "Keep in mind",
+      "Microsoft's fiscal fourth quarter earnings recently quieted the bears, which largely explains why the stock has fallen back into the good graces of Wall Street — shares are up 25% in the past month — a notion reinforced by Chatterjee's note.",
+      "The tech titan posted a staggering $90 billion in revenue in Q4, up 18% year over year.",
+      "Azure and other cloud services growth surged 43%. To put that in perspective, Azure officially crossed the noteworthy $100 billion annual revenue milestone, proving that enterprise clients aren't just experimenting with AI — they are deploying it at scale. In other words, Microsoft is monetizing its AI.",
+      "The company also demonstrated operating leverage, increasing operating income by 18% to $40.6 billion while significantly building out its data center capacity. CFO Amy Hood gave Wall Street confidence by pairing disciplined expense control with a whopping $10.2 billion cash return to shareholders via dividends and buybacks in the quarter alone.",
+      "Microsoft also didn't aggressively raise its capital expenditure plans like others in Big Tech, such as Alphabet (GOOG, GOOGL) and Meta (META).",
+      "Profit estimates have trended higher since the late-July earnings report, according to Yahoo Finance AlphaSpace data."
+    ],
+    "html": null
+  }
+}

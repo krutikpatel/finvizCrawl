@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/344688d5-f840-399c-b4af-59f4de871edf/apple-in-talks-to-pay.html",
+    "fetched_at": "2026-08-13T07:00:06.696986-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple in talks to pay publishers to power AI Siri",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple has been negotiating deals with news publishers to give its AI-powered Siri voice assistant access to current events and information, according to The Wall Street Journal.\nThe company has reached out to publishers in recent months to discuss multiyear licensing arrangements. Under the proposed structure, Apple would pay partner publishers each time their content is used, rather than through a fixed licensing fee — a departure from standard industry practice. The company has discussed a budget of up to nine figures for those payments, according to the Journal.\nApple Siri AI is expected to roll out later this year. Apple declined to comment.\nThe proposed deals would not be Apple's first arrangements with publishers. The company has operated Apple News+, a paid subscription news service, since 2019, and has previously struck separate deals that included rights to use publisher content for AI training purposes.\nThe negotiations come as publishers are increasingly forced to weigh litigation against licensing when dealing with AI companies. The New York Times is suing OpenAI and Microsoft over alleged unauthorized use of its content to train AI models. News Corp and Axel Springer have each chosen a different path, signing content agreements with OpenAI instead.\nApple's record on AI-generated news features has not been without problems. In late 2024, the company began offering users AI-generated news summaries, but the tool produced erroneous headlines, prompting concern from publishers. The company pulled the feature not long afterward.\nConventional deals struck between major AI companies and news organizations generally center on fixed, upfront fees covering wide-ranging content rights. Apple's usage-based arrangement would mark a clear departure from how such agreements have traditionally been structured.\nNews Corp, the owner of The Wall Street Journal, has a commercial agreement to provide news through Apple services.",
+    "text_blocks": [
+      "Apple has been negotiating deals with news publishers to give its AI-powered Siri voice assistant access to current events and information, according to The Wall Street Journal.",
+      "The company has reached out to publishers in recent months to discuss multiyear licensing arrangements. Under the proposed structure, Apple would pay partner publishers each time their content is used, rather than through a fixed licensing fee — a departure from standard industry practice. The company has discussed a budget of up to nine figures for those payments, according to the Journal.",
+      "Apple Siri AI is expected to roll out later this year. Apple declined to comment.",
+      "The proposed deals would not be Apple's first arrangements with publishers. The company has operated Apple News+, a paid subscription news service, since 2019, and has previously struck separate deals that included rights to use publisher content for AI training purposes.",
+      "The negotiations come as publishers are increasingly forced to weigh litigation against licensing when dealing with AI companies. The New York Times is suing OpenAI and Microsoft over alleged unauthorized use of its content to train AI models. News Corp and Axel Springer have each chosen a different path, signing content agreements with OpenAI instead.",
+      "Apple's record on AI-generated news features has not been without problems. In late 2024, the company began offering users AI-generated news summaries, but the tool produced erroneous headlines, prompting concern from publishers. The company pulled the feature not long afterward.",
+      "Conventional deals struck between major AI companies and news organizations generally center on fixed, upfront fees covering wide-ranging content rights. Apple's usage-based arrangement would mark a clear departure from how such agreements have traditionally been structured.",
+      "News Corp, the owner of The Wall Street Journal, has a commercial agreement to provide news through Apple services."
+    ],
+    "html": null
+  }
+}

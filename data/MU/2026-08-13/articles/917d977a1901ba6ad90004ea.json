@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-sends-fresh-signal-micron-201932503.html",
+    "fetched_at": "2026-08-13T07:00:13.222695-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Samsung Sends Fresh Signal to Micron Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSamsung (SSNLF) Electronics retained the top spot in the global NAND market during the second quarter, but SK Hynix (NASDAQ:SKHY) is closing the gap as artificial-intelligence workloads rapidly reshape demand for high-performance storage. The shift matters for investors in Samsung, SK Hynix and Micron Technology (NASDAQ:MU) because AI inference is turning enterprise SSDs into one of the memory industry's most important growth and pricing engines.\nSamsung captured 25% of global NAND shipments in Q2, followed by SK Hynix at 22%, according to Counterpoint Research. China's YMTC jumped to third with 14%, while Micron held roughly 13%.\nThe bigger development is where those NAND bits are going.\nEnterprise SSDs accounted for 48% of global NAND shipments during Q2, nearly doubling from 26% a year earlier. Counterpoint expects servers to consume more than half of all NAND bits by year-end as AI workloads move increasingly from model training toward inference.\n\"AI has become the defining variable for NAND demand,\" Counterpoint said.\nInference requires enormous amounts of fast storage for datasets and KV caches, pushing customers toward higher-capacity, higher-performance enterprise SSDs.\nThat shift is also changing competitive positioning. Samsung's NAND output was constrained partly because it prioritized higher-margin DRAM production, while SK Hynix benefited from a 40% sequential increase in bit shipments at its Solidigm subsidiary.\nShipment share does not tell the entire profitability story. YMTC ranked third in volume but only fifth in NAND revenue, behind Micron and Kioxia, reflecting its heavier exposure to lower-priced consumer products.\nInvestor Takeaway\nFor memory investors, product mix may now matter more than shipment leadership.\nWatch enterprise SSD pricing, server NAND demand and the percentage of production directed toward higher-value data-center products. Samsung can strengthen its lead if capacity expands without sacrificing DRAM economics, while SK Hynix stands to benefit if Solidigm maintains its momentum.\nMicron's lower shipment share is less concerning if its richer enterprise mix continues supporting revenue and margins.\nThe key risk is supply. If producers expand NAND capacity too aggressively, today's shortages and record pricing could reverse. But as long as AI inference keeps absorbing more storage, enterprise SSD exposure should remain the most important differentiator across the sector.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Samsung (SSNLF) Electronics retained the top spot in the global NAND market during the second quarter, but SK Hynix (NASDAQ:SKHY) is closing the gap as artificial-intelligence workloads rapidly reshape demand for high-performance storage. The shift matters for investors in Samsung, SK Hynix and Micron Technology (NASDAQ:MU) because AI inference is turning enterprise SSDs into one of the memory industry's most important growth and pricing engines.",
+      "Samsung captured 25% of global NAND shipments in Q2, followed by SK Hynix at 22%, according to Counterpoint Research. China's YMTC jumped to third with 14%, while Micron held roughly 13%.",
+      "The bigger development is where those NAND bits are going.",
+      "Enterprise SSDs accounted for 48% of global NAND shipments during Q2, nearly doubling from 26% a year earlier. Counterpoint expects servers to consume more than half of all NAND bits by year-end as AI workloads move increasingly from model training toward inference.",
+      "\"AI has become the defining variable for NAND demand,\" Counterpoint said.",
+      "Inference requires enormous amounts of fast storage for datasets and KV caches, pushing customers toward higher-capacity, higher-performance enterprise SSDs.",
+      "That shift is also changing competitive positioning. Samsung's NAND output was constrained partly because it prioritized higher-margin DRAM production, while SK Hynix benefited from a 40% sequential increase in bit shipments at its Solidigm subsidiary.",
+      "Shipment share does not tell the entire profitability story. YMTC ranked third in volume but only fifth in NAND revenue, behind Micron and Kioxia, reflecting its heavier exposure to lower-priced consumer products.",
+      "Investor Takeaway",
+      "For memory investors, product mix may now matter more than shipment leadership.",
+      "Watch enterprise SSD pricing, server NAND demand and the percentage of production directed toward higher-value data-center products. Samsung can strengthen its lead if capacity expands without sacrificing DRAM economics, while SK Hynix stands to benefit if Solidigm maintains its momentum.",
+      "Micron's lower shipment share is less concerning if its richer enterprise mix continues supporting revenue and margins.",
+      "The key risk is supply. If producers expand NAND capacity too aggressively, today's shortages and record pricing could reverse. But as long as AI inference keeps absorbing more storage, enterprise SSD exposure should remain the most important differentiator across the sector."
+    ],
+    "html": null
+  }
+}

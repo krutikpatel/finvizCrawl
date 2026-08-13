@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/quantum-computing-goes-mainstream-quantinuum-211500385.html",
+    "fetched_at": "2026-08-13T07:00:21.643940-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Quantum computing goes mainstream with Quantinuum and Oracle partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oops, something went wrong\nQuantinuum (QNT) CEO and president Rajeeb Hazra announces his partnership with Oracle (ORCL)and explains how its quantum computing technology will be integrated into Oracle's ecosystem.\nSure.\nWe're excited about this deal because it's an industry first deal, um, that that validates that all of the important use cases that we are seeing around quantum computing happens in close uh conjunction with classical computing and AI.\nIn this deal with Oracle, we will be placing Helios, uh, the world's most accurate quantum computer into the Oracle data center.\nNow, this is just not a statement of physical location. It's also a statement uh of how that integration is going to allow Oracle customers to deploy these hybrid workloads as we say, AI and then quantum quantum training, AI, um together and do so in a seamless environment where the customers don't have to worry about yet another piece or type of computing hardware in their in the infrastructure.\nThis will make it seamless for them.\nThe the Helios our quantum stack will integrate into the Oracle compute infrastructure.\nIt'll be offered as a service, and it will make the most powerful quantum computing along with some of the world's most advanced AI computing available in a seamless, easy to use manner for Oracle and our customers.",
+    "text_blocks": [
+      "Oops, something went wrong",
+      "Quantinuum (QNT) CEO and president Rajeeb Hazra announces his partnership with Oracle (ORCL)and explains how its quantum computing technology will be integrated into Oracle's ecosystem.",
+      "Sure.",
+      "We're excited about this deal because it's an industry first deal, um, that that validates that all of the important use cases that we are seeing around quantum computing happens in close uh conjunction with classical computing and AI.",
+      "In this deal with Oracle, we will be placing Helios, uh, the world's most accurate quantum computer into the Oracle data center.",
+      "Now, this is just not a statement of physical location. It's also a statement uh of how that integration is going to allow Oracle customers to deploy these hybrid workloads as we say, AI and then quantum quantum training, AI, um together and do so in a seamless environment where the customers don't have to worry about yet another piece or type of computing hardware in their in the infrastructure.",
+      "This will make it seamless for them.",
+      "The the Helios our quantum stack will integrate into the Oracle compute infrastructure.",
+      "It'll be offered as a service, and it will make the most powerful quantum computing along with some of the world's most advanced AI computing available in a seamless, easy to use manner for Oracle and our customers."
+    ],
+    "html": null
+  }
+}

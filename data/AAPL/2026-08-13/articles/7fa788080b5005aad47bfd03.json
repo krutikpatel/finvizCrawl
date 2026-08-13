@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-stock-focus-siri-ai-122533785.html",
+    "fetched_at": "2026-08-13T07:00:07.198918-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple stock in focus as Siri AI seeks new deals with publishers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple stock is in focus Thursday as the company explores agreements with publishers that could give its artificial-intelligence tools broader access to current news content, according to a Wall Street Journal report.\nApple (NASDAQ:AAPL) has approached multiple publishers in recent months as it works on upgrades to Siri. The proposed arrangements could run for several years and would allow Apple to use publishers' material to support the assistant's AI capabilities.\nThe effort comes as Apple prepares a more advanced version of Siri that is expected to become available later this year. The company has been working to expand the assistant's ability to handle more complex requests and provide more useful information.\nFor Apple, securing licensed news content could help strengthen Siri's ability to respond to questions involving recent events and other time-sensitive information. The discussions also highlight the growing importance of content partnerships as technology companies expand their AI services.\nThe report did not indicate whether Apple has finalized agreements with the publishers involved. Terms of any potential deals, including financial details, were also not disclosed.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple stock is in focus Thursday as the company explores agreements with publishers that could give its artificial-intelligence tools broader access to current news content, according to a Wall Street Journal report.",
+      "Apple (NASDAQ:AAPL) has approached multiple publishers in recent months as it works on upgrades to Siri. The proposed arrangements could run for several years and would allow Apple to use publishers' material to support the assistant's AI capabilities.",
+      "The effort comes as Apple prepares a more advanced version of Siri that is expected to become available later this year. The company has been working to expand the assistant's ability to handle more complex requests and provide more useful information.",
+      "For Apple, securing licensed news content could help strengthen Siri's ability to respond to questions involving recent events and other time-sensitive information. The discussions also highlight the growing importance of content partnerships as technology companies expand their AI services.",
+      "The report did not indicate whether Apple has finalized agreements with the publishers involved. Terms of any potential deals, including financial details, were also not disclosed."
+    ],
+    "html": null
+  }
+}

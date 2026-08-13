@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/burry-doubles-down-nebius-short-132626431.html",
+    "fetched_at": "2026-08-13T07:00:35.366850-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Burry doubles down on Nebius short after stock surges 34% on earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Nebius Group's stock surged 34% on August 12 after the AI cloud company posted second-quarter revenue of $582.3 million, up 454% year-over-year and ahead of analyst estimates of $572.75 million compiled by LSEG. The blowout results did not deter short seller Michael Burry, who added to his bearish bet on the same day, calling Nebius \"what the top of a boom looks like.\"\nNebius (NASDAQ: NBIS), the Nvidia-powered AI cloud provider spun out of Russian internet giant Yandex and now headquartered in Amsterdam, is the direct vehicle for Burry's trade. Nvidia itself remains the dominant hardware supplier underpinning the AI cloud boom, and any meaningful deceleration in infrastructure spending at companies like Nebius would weigh on GPU demand across the sector.\nBurry, the Scion Asset Management founder immortalized for predicting the 2008 housing collapse, had first disclosed his NBIS short on August 6 at approximately $212 per share. On August 12, via a Substack post, he added to the position and also raised short stakes in Micron and Oracle. With NBIS shares closing around $259 on August 12, his position is potentially underwater.\nThe 'Big Short' investor is also short NVIDIA, Palantir, Applied Materials and Caterpillar. On NVIDIA, Burry continually points to the circular financing concerns.\nThe Q2 numbers from Nebius that forced Burry to double down were striking by almost any measure. AI cloud revenue alone jumped 514% to $575 million. Nebius closed four landmark deals in the quarter averaging more than $1 billion each in total contract value, and new-customer TCV grew more than 9x quarter-over-quarter. The payback period on Q2 deals fell to one year and ten months, suggesting the economics of Nebius's infrastructure are tightening in its favor rather than deteriorating. The company ended June with $8 billion in cash on hand and generated $2.2 billion in operating cash flow for the quarter, though capital expenditures of roughly $5.7 billion exceeded analyst estimates of $4.7 billion.\nNebius also raised its 2026 contracted power target to 5 gigawatts, up from 4 gigawatts previously. CEO Arkady Volozh, in the company's quarterly shareholder letter, was direct about the demand picture: \"We could sell our entire 2027 capacity on these terms today.\"\nBurry's bear case is not about near-term revenue. His argument, laid out in earlier Substack posts, centers on depreciation accounting: he contends that AI infrastructure companies are stretching the assumed useful life of chips that realistically turn over in two to three years, thereby overstating earnings. He also points to mounting off-balance-sheet commitments, writing in August 7 post that \"the fish have gorged themselves on off-balance sheet liabilities. Backstops. Uncommenced leases. Purchase commitments. The fish have gotten very fat, very large, easy to shoot.\"",
+    "text_blocks": [
+      "Investing.com -- Nebius Group's stock surged 34% on August 12 after the AI cloud company posted second-quarter revenue of $582.3 million, up 454% year-over-year and ahead of analyst estimates of $572.75 million compiled by LSEG. The blowout results did not deter short seller Michael Burry, who added to his bearish bet on the same day, calling Nebius \"what the top of a boom looks like.\"",
+      "Nebius (NASDAQ: NBIS), the Nvidia-powered AI cloud provider spun out of Russian internet giant Yandex and now headquartered in Amsterdam, is the direct vehicle for Burry's trade. Nvidia itself remains the dominant hardware supplier underpinning the AI cloud boom, and any meaningful deceleration in infrastructure spending at companies like Nebius would weigh on GPU demand across the sector.",
+      "Burry, the Scion Asset Management founder immortalized for predicting the 2008 housing collapse, had first disclosed his NBIS short on August 6 at approximately $212 per share. On August 12, via a Substack post, he added to the position and also raised short stakes in Micron and Oracle. With NBIS shares closing around $259 on August 12, his position is potentially underwater.",
+      "The 'Big Short' investor is also short NVIDIA, Palantir, Applied Materials and Caterpillar. On NVIDIA, Burry continually points to the circular financing concerns.",
+      "The Q2 numbers from Nebius that forced Burry to double down were striking by almost any measure. AI cloud revenue alone jumped 514% to $575 million. Nebius closed four landmark deals in the quarter averaging more than $1 billion each in total contract value, and new-customer TCV grew more than 9x quarter-over-quarter. The payback period on Q2 deals fell to one year and ten months, suggesting the economics of Nebius's infrastructure are tightening in its favor rather than deteriorating. The company ended June with $8 billion in cash on hand and generated $2.2 billion in operating cash flow for the quarter, though capital expenditures of roughly $5.7 billion exceeded analyst estimates of $4.7 billion.",
+      "Nebius also raised its 2026 contracted power target to 5 gigawatts, up from 4 gigawatts previously. CEO Arkady Volozh, in the company's quarterly shareholder letter, was direct about the demand picture: \"We could sell our entire 2027 capacity on these terms today.\"",
+      "Burry's bear case is not about near-term revenue. His argument, laid out in earlier Substack posts, centers on depreciation accounting: he contends that AI infrastructure companies are stretching the assumed useful life of chips that realistically turn over in two to three years, thereby overstating earnings. He also points to mounting off-balance-sheet commitments, writing in August 7 post that \"the fish have gorged themselves on off-balance sheet liabilities. Backstops. Uncommenced leases. Purchase commitments. The fish have gotten very fat, very large, easy to shoot.\""
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/infiltrated-north-koreas-secret-u-010000073.html",
+    "fetched_at": "2026-08-13T07:00:37.798397-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Infiltrated: North Korea's Secret U.S. Workforce",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "North Korean operatives are using stolen identities, AI and American accomplices to land jobs at U.S. companies, funneling millions back to the regime. WSJ's yearlong investigation reveals how one team infiltrated eight companies in just a few months.",
+    "text_blocks": [
+      "North Korean operatives are using stolen identities, AI and American accomplices to land jobs at U.S. companies, funneling millions back to the regime. WSJ's yearlong investigation reveals how one team infiltrated eight companies in just a few months."
+    ],
+    "html": null
+  }
+}

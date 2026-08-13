@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/chip-stocks-are-closing-in-on-a-bull-market-heres-why-some-analysts-are-nervous-2a180b75?mod=mw_FV",
+    "fetched_at": "2026-08-13T07:00:41.124809-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip stocks are closing in on a bull market. Here’s why some analysts are nervous. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nChip stocks are closing in on a bull market. Here’s why some analysts are nervous.\nWall Street is excited about growing backlogs at some AI infrastructure companies, but some experts caution that there’s no guarantee all those orders will be carried out\nChip stocks are closing back in on a bull market, fueled by optimism around recent corporate earnings. But some analysts caution that the results don’t necessarily warrant widespread enthusiasm.\nIt was a strong day for the semiconductor sector on Wednesday, with shares of Sandisk SNDK and Micron Technology MU gaining about 6% and 5%, respectively. SK Hynix SKHY, another major beneficiary of memory-chip demand, saw its American depositary receipts rise 9%.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Chip stocks are closing in on a bull market. Here’s why some analysts are nervous.",
+      "Wall Street is excited about growing backlogs at some AI infrastructure companies, but some experts caution that there’s no guarantee all those orders will be carried out",
+      "Chip stocks are closing back in on a bull market, fueled by optimism around recent corporate earnings. But some analysts caution that the results don’t necessarily warrant widespread enthusiasm.",
+      "It was a strong day for the semiconductor sector on Wednesday, with shares of Sandisk SNDK and Micron Technology MU gaining about 6% and 5%, respectively. SK Hynix SKHY, another major beneficiary of memory-chip demand, saw its American depositary receipts rise 9%."
+    ],
+    "html": null
+  }
+}

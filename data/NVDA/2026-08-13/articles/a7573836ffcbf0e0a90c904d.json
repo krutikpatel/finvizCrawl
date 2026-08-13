@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-slumps-mixed-quarterly-results-121607873.html",
+    "fetched_at": "2026-08-13T07:00:35.364679-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cerebras slumps as mixed quarterly results test AI growth narrative",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 13 (Reuters) - Cerebras Systems slumped over 9% in early trading Thursday after it missed key estimates despite soaring cloud revenue, raising doubts about the ability of its AI chips to challenge Nvidia.\nExpectations were high for AI-linked companies including Cerebras and networking equipment maker Cisco, given the strong run-up in shares driven by Big Tech's ballooning spending, set to cross more than $740 billion for this year.\nHere are some details:\n• Cerebras, in its second earnings report as a public company, offered a mixed picture as it increasingly derived revenue from cloud computing rather than its AI chips.\n• The AI chips business had helped position Cerebras as a challenger to Nvidia and fueled a 41% rise in shares from the IPO price of $185.\n• The Sunnyvale, California-based company's cloud business roughly quadrupled to $126 million, versus the year-ago quarter.\n• But its hardware sales, including AI chips, declined to $54.1 million from $70.3 million a year ago.\n• Second-quarter adjusted gross margin fell to 40.6% from 46.5% in the prior quarter, while revenue missed analysts' estimates despite a higher annual outlook.\n• \"Execution remains the key debate given the scale and speed of the capacity build required to support the ramp,\" said analysts at Morgan Stanley.\n• Citi and Mizuho cut their price targets slightly; the median target as per estimates compiled by LSEG implied an upside of 15% from the previous close.\n• Separately, shares of Cisco Systems fell around 8% as its outlook fell short of lofty expectations tied to its rise as a beneficiary of the AI data center buildout. The stock has gained more than 60% this year.\n• Cisco expects $7.5 billion in revenue from AI infrastructure orders from hyperscalers in fiscal 2027.\n(Reporting by Joel Jose in Bengaluru; Editing by Sahal Muhammed)",
+    "text_blocks": [
+      "Aug 13 (Reuters) - Cerebras Systems slumped over 9% in early trading Thursday after it missed key estimates despite soaring cloud revenue, raising doubts about the ability of its AI chips to challenge Nvidia.",
+      "Expectations were high for AI-linked companies including Cerebras and networking equipment maker Cisco, given the strong run-up in shares driven by Big Tech's ballooning spending, set to cross more than $740 billion for this year.",
+      "Here are some details:",
+      "• Cerebras, in its second earnings report as a public company, offered a mixed picture as it increasingly derived revenue from cloud computing rather than its AI chips.",
+      "• The AI chips business had helped position Cerebras as a challenger to Nvidia and fueled a 41% rise in shares from the IPO price of $185.",
+      "• The Sunnyvale, California-based company's cloud business roughly quadrupled to $126 million, versus the year-ago quarter.",
+      "• But its hardware sales, including AI chips, declined to $54.1 million from $70.3 million a year ago.",
+      "• Second-quarter adjusted gross margin fell to 40.6% from 46.5% in the prior quarter, while revenue missed analysts' estimates despite a higher annual outlook.",
+      "• \"Execution remains the key debate given the scale and speed of the capacity build required to support the ramp,\" said analysts at Morgan Stanley.",
+      "• Citi and Mizuho cut their price targets slightly; the median target as per estimates compiled by LSEG implied an upside of 15% from the previous close.",
+      "• Separately, shares of Cisco Systems fell around 8% as its outlook fell short of lofty expectations tied to its rise as a beneficiary of the AI data center buildout. The stock has gained more than 60% this year.",
+      "• Cisco expects $7.5 billion in revenue from AI infrastructure orders from hyperscalers in fiscal 2027.",
+      "(Reporting by Joel Jose in Bengaluru; Editing by Sahal Muhammed)"
+    ],
+    "html": null
+  }
+}

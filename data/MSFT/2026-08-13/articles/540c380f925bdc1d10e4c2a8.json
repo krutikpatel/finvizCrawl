@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/goldman-sachs-microsoft-share-gains-lead-dow-s-184-point-jump-74ae9d49-831742116143?mod=mw_FV",
+    "fetched_at": "2026-08-13T07:00:27.008197-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman Sachs, Microsoft share gains lead Dow's 184-point jump - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nGoldman Sachs, Microsoft share gains lead Dow's 184-point jump\nShares of Goldman Sachs and Microsoft are seeing positive gains Thursday morning, sending the Dow Jones Industrial Average into positive territory.\nShares of Goldman Sachs Goldman Sachs Group Inc. and Microsoft Microsoft Corp. are contributing about a quarter of the index's intraday rally, as the Dow Dow Jones Industrial Average was most recently trading 184 points (0.3%) higher.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "Goldman Sachs, Microsoft share gains lead Dow's 184-point jump",
+      "Shares of Goldman Sachs and Microsoft are seeing positive gains Thursday morning, sending the Dow Jones Industrial Average into positive territory.",
+      "Shares of Goldman Sachs Goldman Sachs Group Inc. and Microsoft Microsoft Corp. are contributing about a quarter of the index's intraday rally, as the Dow Dow Jones Industrial Average was most recently trading 184 points (0.3%) higher.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

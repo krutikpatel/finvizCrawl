@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/gf-securities-revisits-ai-stock-193820856.html",
+    "fetched_at": "2026-08-13T07:00:41.642089-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GF Securities Revisits AI Stock Rebound",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nGF Securities is betting the pullback in artificial-intelligence stocks has largely run its course, adding Advanced Micro Devices (NASDAQ:AMD), Lumentum (NASDAQ:LITE), Foxconn and Semtech to its preferred list as valuations reset and hyperscalers show greater confidence in AI spending returns. The call favors GPUs, CPUs and optical-networking suppliers over the broader semiconductor sector, suggesting investors should be increasingly selective as the AI rebound enters its next phase.\nJuly was a difficult month, with the Nasdaq and SOX delivering their worst relative performance vs. the S&P 500 since 2012, GF Securities analysts said.\nBut the firm believes the worst may be over. Semiconductor valuations have corrected to roughly 27 times forward earnings, positioning has improved and sentiment around hyperscaler AI capex returns is recovering.\nGF Securities said it continues to prefer GPU/CPU/Optics, adding AMD and Lumentum while removing United Microelectronics, MediaTek and ASML from its preferred list.\nRecent fundamentals help explain that preference.\nAMD's second-quarter Data Center revenue surged 107% year over year to $6.7 billion, driven by strong demand for EPYC CPUs and Instinct GPUs. AMD shares were up roughly 3% Wednesday afternoon.\nLumentum offers an even more direct play on AI networking. Fiscal fourth-quarter revenue jumped 109% to $1.01 billion, while the company forecast $1.225 billion to $1.275 billion for the September quarter as demand for optical connections inside AI data centers accelerates. Shares jumped nearly 13% Wednesday.\nInvestor Takeaway\nThe key implication is that GF Securities is not making a blanket bullish call on semiconductors.\nInvestors should watch hyperscaler capex plans, AMD's data-center growth and Lumentum's ability to convert surging optical demand into higher revenue and margins. Continued AI spending and stronger inference demand would reinforce the rebound.\nThe risk is that parts of the semiconductor cycle may already be past peak. If hyperscalers become less confident in AI returns or earnings growth fails to justify still-elevated multiples, the recovery could quickly become more selective.\nFor now, GF Securities sees the strongest setup where AI spending remains most directly tied to GPUs, CPUs and the optical infrastructure connecting them.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "GF Securities is betting the pullback in artificial-intelligence stocks has largely run its course, adding Advanced Micro Devices (NASDAQ:AMD), Lumentum (NASDAQ:LITE), Foxconn and Semtech to its preferred list as valuations reset and hyperscalers show greater confidence in AI spending returns. The call favors GPUs, CPUs and optical-networking suppliers over the broader semiconductor sector, suggesting investors should be increasingly selective as the AI rebound enters its next phase.",
+      "July was a difficult month, with the Nasdaq and SOX delivering their worst relative performance vs. the S&P 500 since 2012, GF Securities analysts said.",
+      "But the firm believes the worst may be over. Semiconductor valuations have corrected to roughly 27 times forward earnings, positioning has improved and sentiment around hyperscaler AI capex returns is recovering.",
+      "GF Securities said it continues to prefer GPU/CPU/Optics, adding AMD and Lumentum while removing United Microelectronics, MediaTek and ASML from its preferred list.",
+      "Recent fundamentals help explain that preference.",
+      "AMD's second-quarter Data Center revenue surged 107% year over year to $6.7 billion, driven by strong demand for EPYC CPUs and Instinct GPUs. AMD shares were up roughly 3% Wednesday afternoon.",
+      "Lumentum offers an even more direct play on AI networking. Fiscal fourth-quarter revenue jumped 109% to $1.01 billion, while the company forecast $1.225 billion to $1.275 billion for the September quarter as demand for optical connections inside AI data centers accelerates. Shares jumped nearly 13% Wednesday.",
+      "Investor Takeaway",
+      "The key implication is that GF Securities is not making a blanket bullish call on semiconductors.",
+      "Investors should watch hyperscaler capex plans, AMD's data-center growth and Lumentum's ability to convert surging optical demand into higher revenue and margins. Continued AI spending and stronger inference demand would reinforce the rebound.",
+      "The risk is that parts of the semiconductor cycle may already be past peak. If hyperscalers become less confident in AI returns or earnings growth fails to justify still-elevated multiples, the recovery could quickly become more selective.",
+      "For now, GF Securities sees the strongest setup where AI spending remains most directly tied to GPUs, CPUs and the optical infrastructure connecting them."
+    ],
+    "html": null
+  }
+}

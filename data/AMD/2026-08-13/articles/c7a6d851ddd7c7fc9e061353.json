@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-server-cpu-tam-120133825.html",
+    "fetched_at": "2026-08-13T07:00:41.415375-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BofA lifts server CPU TAM to $210bn+ on the rise of AI agents",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Bank of America raised its forecast for the server CPU market, saying the rise of AI agents is expanding the opportunity for central processing units in data centers.\nAnalyst Vivek Arya lifted the firm's 2030 server CPU total addressable market to more than $210 billion, from around $170 billion, following second-quarter earnings and strong AI compute and memory demand trends.\nBofA said the new figure implies \"nearly 5x growth off the ~$35bn CY25 level,\" with the market now expected to grow at a 36% compound annual rate, up from 30% previously.\nCentral to the call is a shift in the balance between CPUs and GPUs. BofA said agentic inference is pushing the CPU-to-GPU ratio from about 1:4 in the training era toward roughly 1:1 for agentic AI, \"as CPUs become the orchestration control plane.\"\nAs a result, the firm now sees CPUs accounting for about 10% of the overall $2.2 trillion data center systems market by 2030, versus roughly 7% in the training era.\nBofA feels the key debate is around substitution versus expansion, arguing CPUs are \"additive to overall system TAM.\" It said near-record GPU rental and memory spot prices point to an across-the-board compute shortage that likely extends to CPUs.\nAMD remains the firm's top CPU pick on \"dual leadership\" across frequency and core count, while Nvidia is its overall sector top pick. BofA also flagged Intel's foundry optionality and said Arm remains the fastest share gainer.\nRelated articles\nBofA lifts server CPU TAM to $210bn+ on the rise of AI agents\nCiti pushes back Fed rate cuts to May after blowout January jobs report",
+    "text_blocks": [
+      "Investing.com -- Bank of America raised its forecast for the server CPU market, saying the rise of AI agents is expanding the opportunity for central processing units in data centers.",
+      "Analyst Vivek Arya lifted the firm's 2030 server CPU total addressable market to more than $210 billion, from around $170 billion, following second-quarter earnings and strong AI compute and memory demand trends.",
+      "BofA said the new figure implies \"nearly 5x growth off the ~$35bn CY25 level,\" with the market now expected to grow at a 36% compound annual rate, up from 30% previously.",
+      "Central to the call is a shift in the balance between CPUs and GPUs. BofA said agentic inference is pushing the CPU-to-GPU ratio from about 1:4 in the training era toward roughly 1:1 for agentic AI, \"as CPUs become the orchestration control plane.\"",
+      "As a result, the firm now sees CPUs accounting for about 10% of the overall $2.2 trillion data center systems market by 2030, versus roughly 7% in the training era.",
+      "BofA feels the key debate is around substitution versus expansion, arguing CPUs are \"additive to overall system TAM.\" It said near-record GPU rental and memory spot prices point to an across-the-board compute shortage that likely extends to CPUs.",
+      "AMD remains the firm's top CPU pick on \"dual leadership\" across frequency and core count, while Nvidia is its overall sector top pick. BofA also flagged Intel's foundry optionality and said Arm remains the fastest share gainer.",
+      "Related articles",
+      "BofA lifts server CPU TAM to $210bn+ on the rise of AI agents",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report"
+    ],
+    "html": null
+  }
+}

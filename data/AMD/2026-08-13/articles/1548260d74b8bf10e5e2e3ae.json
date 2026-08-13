@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-rises-3-ai-server-170547690.html",
+    "fetched_at": "2026-08-13T07:00:41.477798-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Rises 3% as AI Server Demand Stays Strong",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nShares of chipmaker Advanced Micro Devices Inc. (AMD, Financials), a rival to Nvidia in artificial intelligence, gained nearly 2.6% after good earnings and forecast from Super Micro Computer Inc. fueled hopes for ongoing demand for AI servers.Super Micro announced adjusted earnings of $1.70 a share. That was significantly ahead of Wall Street's estimate of $0.96. Its prospects were even better.The company forecast quarterly revenue of $14.5 billion to $15.5 billion, well above the roughly $12.9 billion analysts had projected. It also anticipated revenue of $65 billion to $72 billion for the fiscal year.That's important for AMD because the need for AI servers eventually feeds the demand for the processors and accelerators that go inside them.AMD also is going deeper into entire server systems with its Helios rack platform, giving it more direct exposure to the same infrastructure purchasing cycle. The rally also lifted other semiconductor names, such as Nvidia and Intel.The read-through for investors is simple: AI infrastructure spending still looks solid and AMD is one of the businesses positioned to benefit if that demand holds.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Shares of chipmaker Advanced Micro Devices Inc. (AMD, Financials), a rival to Nvidia in artificial intelligence, gained nearly 2.6% after good earnings and forecast from Super Micro Computer Inc. fueled hopes for ongoing demand for AI servers.Super Micro announced adjusted earnings of $1.70 a share. That was significantly ahead of Wall Street's estimate of $0.96. Its prospects were even better.The company forecast quarterly revenue of $14.5 billion to $15.5 billion, well above the roughly $12.9 billion analysts had projected. It also anticipated revenue of $65 billion to $72 billion for the fiscal year.That's important for AMD because the need for AI servers eventually feeds the demand for the processors and accelerators that go inside them.AMD also is going deeper into entire server systems with its Helios rack platform, giving it more direct exposure to the same infrastructure purchasing cycle. The rally also lifted other semiconductor names, such as Nvidia and Intel.The read-through for investors is simple: AI infrastructure spending still looks solid and AMD is one of the businesses positioned to benefit if that demand holds."
+    ],
+    "html": null
+  }
+}

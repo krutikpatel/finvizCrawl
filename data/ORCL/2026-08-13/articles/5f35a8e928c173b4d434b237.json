@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-drives-credit-risk-103014617.html",
+    "fetched_at": "2026-08-13T07:00:21.645608-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Big Tech Drives Up Credit Risk for Safe Firms With No AI Links",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world's safest firms.\nMost Read from Bloomberg\n-\nWalter Sells Lakers, Seeks More Cash to Pay Loans Amid DOJ Probe\n-\nPhoebe Gates Knew Phia Shopping App Took Credit for Sales It Didn't Drive\n-\nAnthropic Said in Talks to Buy Startup Decart for $6 Billion\n-\nTrump Weighs Call for Capital Gains Tax Cuts as Midterm Boost\nStrategists at BNP Paribas SA say these moves are a knock-on effect of intensifying competition for cash in the top end of the market. With Big Tech on a multi-billion dollar borrowing spree, this competition is pushing up the cost of credit default swaps even for companies that have nothing to do with data centers or artificial intelligence.\nBNP didn't disclose the individual companies it used in its analysis, yet swap spreads in the likes of luxury giant LVMH, drugmaker Sanofi and defense firm BAE Systems Plc have climbed by more than 10% since the end of last year, based on data compiled by Bloomberg.\n\"All high-quality credit competes with hyperscalers for capital,\" said Josh Farber, head of European credit strategy at BNP Paribas. There may eventually be consequences for sovereign debt as well, he added.\nIn Farber's analysis, which focused on the iTraxx Europe index of high-grade corporate CDS, the scramble for investor cash may be causing a \"super trend\" to emerge, where spreads converge toward the index average. They recommended a two-pronged trade to clients, involving buying a tight-spread basket while selling protection on the index.\nThe trend isn't immediately obvious when looking at risk premiums on CDS indexes, which are near their tightest levels in almost 20 years. That's partly because of crowding in the market for weaker credits, which has pushed their cost of protection lower.\nBut at the top end of the corporate bond market, competition for investor attention is fierce. Firms like Meta Platforms Inc., Alphabet Inc. and Amazon.com Inc. have raised hundreds of billions in dollars and other currencies this year to fund their AI ambitions. Out of the hyperscaler group, only Oracle Corp has ratings that are lower than double-A.\nCDS indexes protect a basket of names and trade independently to the underlying single-borrower contracts. They are among the most liquid instruments in the credit market, with tens of billions of dollars' worth of swaps changing hands each day in order to hedge or take directional views.",
+    "text_blocks": [
+      "(Bloomberg) -- As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world's safest firms.",
+      "Most Read from Bloomberg",
+      "-",
+      "Walter Sells Lakers, Seeks More Cash to Pay Loans Amid DOJ Probe",
+      "-",
+      "Phoebe Gates Knew Phia Shopping App Took Credit for Sales It Didn't Drive",
+      "-",
+      "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+      "-",
+      "Trump Weighs Call for Capital Gains Tax Cuts as Midterm Boost",
+      "Strategists at BNP Paribas SA say these moves are a knock-on effect of intensifying competition for cash in the top end of the market. With Big Tech on a multi-billion dollar borrowing spree, this competition is pushing up the cost of credit default swaps even for companies that have nothing to do with data centers or artificial intelligence.",
+      "BNP didn't disclose the individual companies it used in its analysis, yet swap spreads in the likes of luxury giant LVMH, drugmaker Sanofi and defense firm BAE Systems Plc have climbed by more than 10% since the end of last year, based on data compiled by Bloomberg.",
+      "\"All high-quality credit competes with hyperscalers for capital,\" said Josh Farber, head of European credit strategy at BNP Paribas. There may eventually be consequences for sovereign debt as well, he added.",
+      "In Farber's analysis, which focused on the iTraxx Europe index of high-grade corporate CDS, the scramble for investor cash may be causing a \"super trend\" to emerge, where spreads converge toward the index average. They recommended a two-pronged trade to clients, involving buying a tight-spread basket while selling protection on the index.",
+      "The trend isn't immediately obvious when looking at risk premiums on CDS indexes, which are near their tightest levels in almost 20 years. That's partly because of crowding in the market for weaker credits, which has pushed their cost of protection lower.",
+      "But at the top end of the corporate bond market, competition for investor attention is fierce. Firms like Meta Platforms Inc., Alphabet Inc. and Amazon.com Inc. have raised hundreds of billions in dollars and other currencies this year to fund their AI ambitions. Out of the hyperscaler group, only Oracle Corp has ratings that are lower than double-A.",
+      "CDS indexes protect a basket of names and trade independently to the underlying single-borrower contracts. They are among the most liquid instruments in the credit market, with tens of billions of dollars' worth of swaps changing hands each day in order to hedge or take directional views."
+    ],
+    "html": null
+  }
+}

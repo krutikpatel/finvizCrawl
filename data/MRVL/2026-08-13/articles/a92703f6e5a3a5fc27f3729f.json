@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-maia-300-could-win-151004887.html",
+    "fetched_at": "2026-08-13T07:00:50.339273-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft's Maia 300 Could Be a Win for Marvell and TSMC",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nChip designer Marvell Technology Inc. (MRVL, Financials) could be among the clearest benefactors if Microsoft's Maia 300 AI accelerator ever achieves considerable scale.Wedbush analyst Matt Bryson said a substantial Microsoft order would likely benefit both Marvell and TSMC, which could develop and build the custom silicon.Microsoft has had a tough time scaling previous versions of Maia, but Bryson believes the software may be reaching the point where years of work start to pay off.The business is said to be in discussions with TSMC to manufacture more than 300,000 Maia chips in 2027. That would matter to Marvell since custom AI silicon is an increasingly important segment of the semiconductor business as hyperscalers hunt for cheaper alternatives to Nvidia GPUs.Wedbush said Nvidia is unlikely to experience much immediate impact given its supply advantages and strong ecosystem.The biggest opportunity for investors may be with the suppliers that are helping Microsoft turn Maia from an internal concept into a true production program.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Chip designer Marvell Technology Inc. (MRVL, Financials) could be among the clearest benefactors if Microsoft's Maia 300 AI accelerator ever achieves considerable scale.Wedbush analyst Matt Bryson said a substantial Microsoft order would likely benefit both Marvell and TSMC, which could develop and build the custom silicon.Microsoft has had a tough time scaling previous versions of Maia, but Bryson believes the software may be reaching the point where years of work start to pay off.The business is said to be in discussions with TSMC to manufacture more than 300,000 Maia chips in 2027. That would matter to Marvell since custom AI silicon is an increasingly important segment of the semiconductor business as hyperscalers hunt for cheaper alternatives to Nvidia GPUs.Wedbush said Nvidia is unlikely to experience much immediate impact given its supply advantages and strong ecosystem.The biggest opportunity for investors may be with the suppliers that are helping Microsoft turn Maia from an internal concept into a true production program."
+    ],
+    "html": null
+  }
+}

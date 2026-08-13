@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/3f91b4c4-8c9c-3fd5-926f-caa11ed29509/cerebras-earnings-prediction.html",
+    "fetched_at": "2026-08-13T07:00:41.704487-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nCerebras Systems Inc. (NASDAQ:CBRS) reports second-quarter earnings after the bell today, its second report as a public company.\nAnalysts expect a loss of roughly 17 cents per share, while Cerebras has guided to core revenue of about 194 million dollars, up 88% from a year ago.\nOn Kalshi, traders are betting on which words CEO Andrew Feldman and his team will say on the call.\nWhat Kalshi Predicts Cerebras Will Say\n\"AMD\" leads the board at 96%, with \"Disaggregated\" at 90% and \"Helios\" close behind at 89%. Advanced Micro Devices (NASDAQ:AMD) and Cerebras announced a partnership in July that splits AI inference.\nAMD's Helios rack-scale systems process prompts and large context windows at high throughput, while Cerebras' Wafer-Scale Engine handles the latency-sensitive job of generating the answer token by token. The companies call that setup \"disaggregated inference,\" with Helios systems set to deploy in Cerebras data centers in the second half of 2026.\n\"AWS\" and \"OpenAI\" both trade at 94%. OpenAI has a 750-megawatt, multi-billion-dollar inference agreement with Cerebras. AWS is the first hyperscaler set to deploy Cerebras systems in its data centers, with revenue expected to begin in 2027.\n\"Europe\" sits at 86%. Cerebras is targeting 200 megawatts of capacity in Europe by the end of 2027, with initial sites in France and the Nordics expected online this year.\n\"CrowdStrike\" trades at 76% and \"Falcon\" at 59%. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) said in July it will use Cerebras inference to help power its Falcon AI Detection and Response product.\n\"Bell Canada\" is at 56%. Cerebras has signed on as a tenant at Bell's planned 300-megawatt data center campus outside Regina, Saskatchewan, part of Bell's broader push to build sovereign AI capacity in Canada.\nWhat Kalshi Predicts Cerebras Will Skip\n\"Kimi\" is a coin flip at 49%. Cerebras serves Moonshot AI's trillion-parameter Kimi K2.6 model at 981 output tokens per second, which independent benchmarker Artificial Analysis measured at roughly 6.7 times the speed of the next-fastest GPU-based cloud running the model.\nThe speed highlights Cerebras' central pitch: its giant wafer-scale processors can generate AI responses far faster than conventional GPU infrastructure.\n\"Flex\" trades at 47%. Flex Ltd. (NASDAQ:FLEX) is Cerebras' manufacturing partner, assembling and testing the CS-3 AI systems built around its giant Wafer-Scale Engine. The companies are adding production lines at Flex's Milpitas, California facilities, with plans to increase CS-3 manufacturing capacity roughly sevenfold through 2026.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Cerebras Systems Inc. (NASDAQ:CBRS) reports second-quarter earnings after the bell today, its second report as a public company.",
+      "Analysts expect a loss of roughly 17 cents per share, while Cerebras has guided to core revenue of about 194 million dollars, up 88% from a year ago.",
+      "On Kalshi, traders are betting on which words CEO Andrew Feldman and his team will say on the call.",
+      "What Kalshi Predicts Cerebras Will Say",
+      "\"AMD\" leads the board at 96%, with \"Disaggregated\" at 90% and \"Helios\" close behind at 89%. Advanced Micro Devices (NASDAQ:AMD) and Cerebras announced a partnership in July that splits AI inference.",
+      "AMD's Helios rack-scale systems process prompts and large context windows at high throughput, while Cerebras' Wafer-Scale Engine handles the latency-sensitive job of generating the answer token by token. The companies call that setup \"disaggregated inference,\" with Helios systems set to deploy in Cerebras data centers in the second half of 2026.",
+      "\"AWS\" and \"OpenAI\" both trade at 94%. OpenAI has a 750-megawatt, multi-billion-dollar inference agreement with Cerebras. AWS is the first hyperscaler set to deploy Cerebras systems in its data centers, with revenue expected to begin in 2027.",
+      "\"Europe\" sits at 86%. Cerebras is targeting 200 megawatts of capacity in Europe by the end of 2027, with initial sites in France and the Nordics expected online this year.",
+      "\"CrowdStrike\" trades at 76% and \"Falcon\" at 59%. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) said in July it will use Cerebras inference to help power its Falcon AI Detection and Response product.",
+      "\"Bell Canada\" is at 56%. Cerebras has signed on as a tenant at Bell's planned 300-megawatt data center campus outside Regina, Saskatchewan, part of Bell's broader push to build sovereign AI capacity in Canada.",
+      "What Kalshi Predicts Cerebras Will Skip",
+      "\"Kimi\" is a coin flip at 49%. Cerebras serves Moonshot AI's trillion-parameter Kimi K2.6 model at 981 output tokens per second, which independent benchmarker Artificial Analysis measured at roughly 6.7 times the speed of the next-fastest GPU-based cloud running the model.",
+      "The speed highlights Cerebras' central pitch: its giant wafer-scale processors can generate AI responses far faster than conventional GPU infrastructure.",
+      "\"Flex\" trades at 47%. Flex Ltd. (NASDAQ:FLEX) is Cerebras' manufacturing partner, assembling and testing the CS-3 AI systems built around its giant Wafer-Scale Engine. The companies are adding production lines at Flex's Milpitas, California facilities, with plans to increase CS-3 manufacturing capacity roughly sevenfold through 2026."
+    ],
+    "html": null
+  }
+}
