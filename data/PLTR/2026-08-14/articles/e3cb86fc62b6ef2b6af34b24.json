@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/62eae6de-ebbf-3dfa-ac9c-7971b53c12c0/chamath-palihapitiya-sees.html",
+    "fetched_at": "2026-08-14T07:00:34.534333-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chamath Palihapitiya Sees Palantir As A Potential Winner In 3-Year Shift To Model-Agnostic AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nChamath Palihapitiya said enterprises could shift toward model-agnostic AI platforms over the next 36 months as AI model costs converge.\n-\nHe expects companies to increasingly use third-party AI \"harnesses\" or control planes that can work with multiple AI models.\n-\nAccording to him, companies like Palantir could benefit from growing enterprise demand for AI control, data security and protection of proprietary information.\nVenture capitalist and All-In podcast co-host Chamath Palihapitiya said Friday that as the cost gap between open models narrows, businesses will pivot towards '3rd-party harnesses,' which could be good news for companies like Palantir (PLTR).\n\"As model costs converge, the next likely step will be the use of independent 3rd party harnesses/control planes (8090 Software Factory, Palantir, Nous' Hermes etc),\" Palihapitiya wrote in a post on X.\nPLTR stock edged 0.5% lower in pre-market trade, with retail sentiment on Stocktwits dipping to 'neutral' from 'bullish' territory over the past day.\nThe Pivot Will Happen In The Next 3 Years\nAccording to him, the shift from being tied to specific AI models to being AI-agnostic could happen within the next 36 months as businesses \"realize the importance of data/IP leakage.\"\nThird-party harnesses, or a third-party software layer that sits atop different AI models, would allow a company to switch between models more easily and use different models for different tasks. It would also keep them from being dependent on one AI provider and maintain control over the company's internal knowledge.\nWhy Is This Good For Palantir?\nPalantir's AIP product architecture, part of its Ontology operating layer, supports models from multiple providers, including OpenAI, Anthropic, Meta (META), Google (GOOGL), and SpaceX's (SPCX) xAI, as well as self-hosted and customer-provided models. Palantir explicitly describes AIP as \"model-agnostic.\"\nAny company on that architecture can use GPT for one task, Claude for another, an open-source model for a sensitive internal workload, and potentially switch to a new model when something better or cheaper arrives.\nThat becomes increasingly valuable if model performance and pricing converge, which is exactly the scenario Chamath is describing. It also makes the software sitting between the enterprise and the models more important than individual models themselves.\nThat doesn't mean Palantir will automatically win this market. Microsoft, Amazon's (AMZN) AWS, Google, and others are also building multi-model AI platforms.",
+    "text_blocks": [
+      "-",
+      "Chamath Palihapitiya said enterprises could shift toward model-agnostic AI platforms over the next 36 months as AI model costs converge.",
+      "-",
+      "He expects companies to increasingly use third-party AI \"harnesses\" or control planes that can work with multiple AI models.",
+      "-",
+      "According to him, companies like Palantir could benefit from growing enterprise demand for AI control, data security and protection of proprietary information.",
+      "Venture capitalist and All-In podcast co-host Chamath Palihapitiya said Friday that as the cost gap between open models narrows, businesses will pivot towards '3rd-party harnesses,' which could be good news for companies like Palantir (PLTR).",
+      "\"As model costs converge, the next likely step will be the use of independent 3rd party harnesses/control planes (8090 Software Factory, Palantir, Nous' Hermes etc),\" Palihapitiya wrote in a post on X.",
+      "PLTR stock edged 0.5% lower in pre-market trade, with retail sentiment on Stocktwits dipping to 'neutral' from 'bullish' territory over the past day.",
+      "The Pivot Will Happen In The Next 3 Years",
+      "According to him, the shift from being tied to specific AI models to being AI-agnostic could happen within the next 36 months as businesses \"realize the importance of data/IP leakage.\"",
+      "Third-party harnesses, or a third-party software layer that sits atop different AI models, would allow a company to switch between models more easily and use different models for different tasks. It would also keep them from being dependent on one AI provider and maintain control over the company's internal knowledge.",
+      "Why Is This Good For Palantir?",
+      "Palantir's AIP product architecture, part of its Ontology operating layer, supports models from multiple providers, including OpenAI, Anthropic, Meta (META), Google (GOOGL), and SpaceX's (SPCX) xAI, as well as self-hosted and customer-provided models. Palantir explicitly describes AIP as \"model-agnostic.\"",
+      "Any company on that architecture can use GPT for one task, Claude for another, an open-source model for a sensitive internal workload, and potentially switch to a new model when something better or cheaper arrives.",
+      "That becomes increasingly valuable if model performance and pricing converge, which is exactly the scenario Chamath is describing. It also makes the software sitting between the enterprise and the models more important than individual models themselves.",
+      "That doesn't mean Palantir will automatically win this market. Microsoft, Amazon's (AMZN) AWS, Google, and others are also building multi-model AI platforms."
+    ],
+    "html": null
+  }
+}

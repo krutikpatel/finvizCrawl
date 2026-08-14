@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/could-intel-return-red-hot-125725820.html",
+    "fetched_at": "2026-08-14T07:00:14.053492-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Could Intel return to the red-hot memory market after $20B raise and recent hire?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Intel CEO Lip-Bu Tan has flagged a potential return to the memory chip business, calling new memory architecture \"one of my pet projects\" in remarks on the TechSurge: Deep Tech VC Podcast on August 13.\nThe disclosure carries weight given Intel's simultaneous moves: a $20 billion common stock offering completed August 10 and the June 18 appointment of Seok-Hee Lee, former CEO of SK Hynix, as executive vice president of Intel Foundry.\nThe memory market has been on fire amid massive AI demand, with companies like Micron (NASDAQ: MU) sporting mid-80% margins, shortages, and a surging stock price.\n\"I used to not invest in memory because it was kind of a commodity business. But now it has become different — there is a lot of new technology coming out. So we are kind of looking at it,\" Tan said on the podcast. He then made his intent plainer by citing Lee's hire: \"So you kind of know something that I'm thinking about.\"\nTan stopped short of announcing a formal product or program. Intel's shares are up roughly 180% year-to-date and the company posted Q2 2026 revenue of $16.1 billion, up 25% year-over-year, with its data center chip segment growing 59%. That financial backdrop, combined with the equity raise, gives Intel resources it lacked during earlier, unsuccessful memory adjacency bets including Hybrid Memory Cube and MCDRAM.\nThe $20 billion offering, Intel's first equity raise since going public in 1971, was upsized from an initial $15 billion target and priced at $95 per share across 210.5 million shares. Proceeds are earmarked for capital expenditures and advanced packaging capabilities, language that aligns directly with what a memory initiative would require. Tan put in $12 million of his own and his family's money at the offering price.\nOn the technical side, Intel has filed a patent for \"cross-batch memory\" (XBM), an ultra-high-bandwidth architecture that aims to match HBM4's performance without the costly silicon interposer used in current HBM designs, relying instead on UCIe links and back-end-of-line thin-film transistors. The patent was filed December 26, 2024 and published July 2, 2026, according to TrendForce. Separately, Intel is co-developing Z-Angle Memory (ZAM) with SoftBank subsidiary SAIMEMORY, a nine-layer stacked DRAM positioned as a lower-power alternative to HBM.\nThe market Intel would be targeting is expanding rapidly. Micron estimates the global HBM market will grow from roughly $35 billion in 2025 to around $100 billion by 2028, a compound annual growth rate of approximately 40%, and has reportedly pulled its $100 billion milestone estimate forward by two years.",
+    "text_blocks": [
+      "Investing.com -- Intel CEO Lip-Bu Tan has flagged a potential return to the memory chip business, calling new memory architecture \"one of my pet projects\" in remarks on the TechSurge: Deep Tech VC Podcast on August 13.",
+      "The disclosure carries weight given Intel's simultaneous moves: a $20 billion common stock offering completed August 10 and the June 18 appointment of Seok-Hee Lee, former CEO of SK Hynix, as executive vice president of Intel Foundry.",
+      "The memory market has been on fire amid massive AI demand, with companies like Micron (NASDAQ: MU) sporting mid-80% margins, shortages, and a surging stock price.",
+      "\"I used to not invest in memory because it was kind of a commodity business. But now it has become different — there is a lot of new technology coming out. So we are kind of looking at it,\" Tan said on the podcast. He then made his intent plainer by citing Lee's hire: \"So you kind of know something that I'm thinking about.\"",
+      "Tan stopped short of announcing a formal product or program. Intel's shares are up roughly 180% year-to-date and the company posted Q2 2026 revenue of $16.1 billion, up 25% year-over-year, with its data center chip segment growing 59%. That financial backdrop, combined with the equity raise, gives Intel resources it lacked during earlier, unsuccessful memory adjacency bets including Hybrid Memory Cube and MCDRAM.",
+      "The $20 billion offering, Intel's first equity raise since going public in 1971, was upsized from an initial $15 billion target and priced at $95 per share across 210.5 million shares. Proceeds are earmarked for capital expenditures and advanced packaging capabilities, language that aligns directly with what a memory initiative would require. Tan put in $12 million of his own and his family's money at the offering price.",
+      "On the technical side, Intel has filed a patent for \"cross-batch memory\" (XBM), an ultra-high-bandwidth architecture that aims to match HBM4's performance without the costly silicon interposer used in current HBM designs, relying instead on UCIe links and back-end-of-line thin-film transistors. The patent was filed December 26, 2024 and published July 2, 2026, according to TrendForce. Separately, Intel is co-developing Z-Angle Memory (ZAM) with SoftBank subsidiary SAIMEMORY, a nine-layer stacked DRAM positioned as a lower-power alternative to HBM.",
+      "The market Intel would be targeting is expanding rapidly. Micron estimates the global HBM market will grow from roughly $35 billion in 2025 to around $100 billion by 2028, a compound annual growth rate of approximately 40%, and has reportedly pulled its $100 billion milestone estimate forward by two years."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-win-streak-6a58e246?mod=bar_FV",
+    "fetched_at": "2026-08-14T07:00:04.653472-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Tesla Stock Is on Track for a 2-Week Winning Streak<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Stock Is on Track for a 2-Week Winning Streak\nTesla stock was edging higher on Friday, putting the electric-vehicle maker on course to notch a two-week winning streak.\nTesla stock was edging higher on Friday, putting the electric-vehicle maker on course to notch a two-week winning streak.",
+    "text_blocks": [
+      "Tesla Stock Is on Track for a 2-Week Winning Streak",
+      "Tesla stock was edging higher on Friday, putting the electric-vehicle maker on course to notch a two-week winning streak.",
+      "Tesla stock was edging higher on Friday, putting the electric-vehicle maker on course to notch a two-week winning streak."
+    ],
+    "html": null
+  }
+}

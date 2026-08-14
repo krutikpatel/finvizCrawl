@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-focus-houston-ai-manufacturing-125105466.html",
+    "fetched_at": "2026-08-14T07:00:08.701598-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple in Focus as New Houston AI Manufacturing Hub Opens",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) is adding a training hub to its growing Houston manufacturing footprint, giving small and midsize companies access to equipment and instruction focused on advanced production methods.\nThe 20,000-square-foot center operates inside Apple's Houston complex, where the company already builds and ships advanced AI servers. Production of the Mac mini is also scheduled to begin at the location later this year.\nPrograms at the facility will cover manufacturing processes, circuit-board design, automation and machine-learning applications for quality monitoring. Apple also plans to extend the training program to college students over time.\nThe Houston site marks Apple's second U.S. location dedicated to manufacturing education. Its Detroit academy, which opened in 2025, has already worked with nearly 1,000 U.S. companies, according to Apple.\nApple shares climbed 0.5% in early trading Friday. The Houston expansion builds on the company's broader U.S. manufacturing push, including a $600 billion investment commitment announced last year and plans to expand domestic production of servers supporting Apple's artificial intelligence services.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) is adding a training hub to its growing Houston manufacturing footprint, giving small and midsize companies access to equipment and instruction focused on advanced production methods.",
+      "The 20,000-square-foot center operates inside Apple's Houston complex, where the company already builds and ships advanced AI servers. Production of the Mac mini is also scheduled to begin at the location later this year.",
+      "Programs at the facility will cover manufacturing processes, circuit-board design, automation and machine-learning applications for quality monitoring. Apple also plans to extend the training program to college students over time.",
+      "The Houston site marks Apple's second U.S. location dedicated to manufacturing education. Its Detroit academy, which opened in 2025, has already worked with nearly 1,000 U.S. companies, according to Apple.",
+      "Apple shares climbed 0.5% in early trading Friday. The Houston expansion builds on the company's broader U.S. manufacturing push, including a $600 billion investment commitment announced last year and plans to expand domestic production of servers supporting Apple's artificial intelligence services."
+    ],
+    "html": null
+  }
+}

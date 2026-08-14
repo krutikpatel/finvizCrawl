@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citizens-pays-higher-multiple-alphabet-123825602.html",
+    "fetched_at": "2026-08-14T07:00:25.500533-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Citizens Pays a Higher Multiple for Alphabet Than for Amazon",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCitizens analyst Andrew Boone reiterated Market Outperform ratings on Alphabet (NASDAQ:GOOGL) and Amazon (NASDAQ:AMZN), leaving price targets unchanged at $515 and $315. Alphabet and Amazon shares are little change in premarket.\nOn Alphabet, Boone applies roughly 32x an estimated $16.27 in 2027 earnings per share. The market is currently paying 21.3x that same number. His case runs on YouTube and search leadership, distribution across products with more than a billion users each, and high profitability.\nAmazon gets a slightly lower multiple, about 29x an estimated $10.99 per share in 2027, while the market is currently pricing it at 24.1x. He also has the stock at 11.0x a $262 billion 2027 EBITDA forecast. The argument is logistics capability underpinning retail, plus AWS leadership in cloud.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Citizens analyst Andrew Boone reiterated Market Outperform ratings on Alphabet (NASDAQ:GOOGL) and Amazon (NASDAQ:AMZN), leaving price targets unchanged at $515 and $315. Alphabet and Amazon shares are little change in premarket.",
+      "On Alphabet, Boone applies roughly 32x an estimated $16.27 in 2027 earnings per share. The market is currently paying 21.3x that same number. His case runs on YouTube and search leadership, distribution across products with more than a billion users each, and high profitability.",
+      "Amazon gets a slightly lower multiple, about 29x an estimated $10.99 per share in 2027, while the market is currently pricing it at 24.1x. He also has the stock at 11.0x a $262 billion 2027 EBITDA forecast. The argument is logistics capability underpinning retail, plus AWS leadership in cloud."
+    ],
+    "html": null
+  }
+}

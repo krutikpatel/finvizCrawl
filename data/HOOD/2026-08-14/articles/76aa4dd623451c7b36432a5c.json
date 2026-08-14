@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/small-business/articles/robinhood-raises-225-5-million-193019381.html",
+    "fetched_at": "2026-08-14T07:00:19.788399-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Raises $225.5 Million to Put Retail Money Into Startups",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRobinhood Markets (NASDAQ:HOOD) launched its second venture fund, listing Robinhood Ventures Fund II (RVII) on the NYSE after pricing 8 million shares at $25 each. The company said the offering raised $225.5 million. Robinhood shares were up 3.94% intraday.\nThe fund buys early-stage and growth-stage private companies, concentrating on current and former Y Combinator participants. The accelerator has financed more than 5,000 companies including 100 unicorns since 2005, among them Coinbase (NASDAQ:COIN), Reddit (NYSE:RDDT) and OpenAI. RVII opened at $22.50, below the $25 issue price.\nRobinhood listed its first fund in March, focused on late-stage startups, and the second one goes earlier in the cycle, where losses are more common and exits take longer. Sarah Pinto, head of Robinhood Ventures and president of RVII, said the company is \"already working on (funds) three, four, five, and six,\" adding that it doesn't want to rush. Companies are staying private longer and raising more before going public, which is the gap the funds are built to fill.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Robinhood Markets (NASDAQ:HOOD) launched its second venture fund, listing Robinhood Ventures Fund II (RVII) on the NYSE after pricing 8 million shares at $25 each. The company said the offering raised $225.5 million. Robinhood shares were up 3.94% intraday.",
+      "The fund buys early-stage and growth-stage private companies, concentrating on current and former Y Combinator participants. The accelerator has financed more than 5,000 companies including 100 unicorns since 2005, among them Coinbase (NASDAQ:COIN), Reddit (NYSE:RDDT) and OpenAI. RVII opened at $22.50, below the $25 issue price.",
+      "Robinhood listed its first fund in March, focused on late-stage startups, and the second one goes earlier in the cycle, where losses are more common and exits take longer. Sarah Pinto, head of Robinhood Ventures and president of RVII, said the company is \"already working on (funds) three, four, five, and six,\" adding that it doesn't want to rush. Companies are staying private longer and raising more before going public, which is the gap the funds are built to fill."
+    ],
+    "html": null
+  }
+}

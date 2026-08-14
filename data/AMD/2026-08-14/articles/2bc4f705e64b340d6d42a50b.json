@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e3902946-0310-3069-be6b-f3d7aca21433/bank-of-america%E2%80%99s-top-pick.html",
+    "fetched_at": "2026-08-14T07:00:42.999561-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bank of America’s Top Pick for a $210B Market Is AMD, But Traders Prefer This Other Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Bank of America raised its 2030 server CPU market forecast to more than $210 billion this week and kept AMD as its top pick. The options market disagrees, with traders now holding more bearish contracts on AMD stock than bullish ones.\nAMD closed at $483.01 yesterday, roughly double its April price. Behind the rally, positioning data shows protection buying, money outflows, and hedge funds trimming the stock. Instead, they are now choosing Nvidia.\nWhy Is Bank of America Betting on AMD?\nThe bank lifted its forecast from $170 billion, nearly five times the estimated 2025 market, and expects 36% annual growth through 2030. The driver is agentic AI, the software agents that complete multi-step tasks without waiting for human instructions.\nAnalyst Vivek Arya argues that those agents turn the CPU into the coordination layer of the data center. He calls agentic AI a powerful demand accelerant and sees the balance of one CPU for every four GPUs moving to one for one.\nWant more insights like this? Sign up for Editor Harsh Notariya's Daily Newsletter here.\nAMD remains the bank's preferred CPU name in the AI chip stocks race. The same thesis drove its rare double upgrade of Intel in June.\nWhy Are Options Traders Hedging AMD Stock Anyway?\nThe caution starts with the run itself. AMD beat second-quarter estimates on August 4 and still fell 8%, a sign the rally had priced in perfection.\nSince then, protection has kept building. The AMD stock put-to-call open interest ratio has climbed to 1.15, meaning more bearish contracts are outstanding than bullish ones. The daily volume ratio sits at 0.85.\nNvidia stock shows the opposite setup. Its open interest ratio reads 0.83 and its volume ratio just 0.52, so calls dominate the flows. Traders are paying to protect AMD gains while positioning for more Nvidia upside.\nWhere Is the Smart Money Actually Going?\nMoney flow confirms the split. AMD's 20-day Chaikin Money Flow, a gauge of institutional buying and selling pressure, reads -0.142, the weakest of 10 major chip names and firmly in distribution. Nvidia, Broadcom, TSMC, and Qualcomm all show accumulation.\nThat marks a sharp reversal. Only weeks ago, AMD had overtaken Nvidia in money flow as Wall Street's favored chip trade.\nTipRanks data widens the gap. Nvidia carries a Smart Score of 9, or Outperform, while AMD sits at a Neutral 6. Hedge funds added 15.1 million Nvidia shares last quarter and cut 4 million AMD shares.\nBoth stocks still hold Strong Buy analyst consensus. The AMD stock price target of $647 implies 34% upside, and momentum from its Anthropic chip deal keeps the bull case alive. However, the options market is favoring Nvidia as its put/call volume ratio is way lower at 0.52, as compared to AMD's 0.85.",
+    "text_blocks": [
+      "Bank of America raised its 2030 server CPU market forecast to more than $210 billion this week and kept AMD as its top pick. The options market disagrees, with traders now holding more bearish contracts on AMD stock than bullish ones.",
+      "AMD closed at $483.01 yesterday, roughly double its April price. Behind the rally, positioning data shows protection buying, money outflows, and hedge funds trimming the stock. Instead, they are now choosing Nvidia.",
+      "Why Is Bank of America Betting on AMD?",
+      "The bank lifted its forecast from $170 billion, nearly five times the estimated 2025 market, and expects 36% annual growth through 2030. The driver is agentic AI, the software agents that complete multi-step tasks without waiting for human instructions.",
+      "Analyst Vivek Arya argues that those agents turn the CPU into the coordination layer of the data center. He calls agentic AI a powerful demand accelerant and sees the balance of one CPU for every four GPUs moving to one for one.",
+      "Want more insights like this? Sign up for Editor Harsh Notariya's Daily Newsletter here.",
+      "AMD remains the bank's preferred CPU name in the AI chip stocks race. The same thesis drove its rare double upgrade of Intel in June.",
+      "Why Are Options Traders Hedging AMD Stock Anyway?",
+      "The caution starts with the run itself. AMD beat second-quarter estimates on August 4 and still fell 8%, a sign the rally had priced in perfection.",
+      "Since then, protection has kept building. The AMD stock put-to-call open interest ratio has climbed to 1.15, meaning more bearish contracts are outstanding than bullish ones. The daily volume ratio sits at 0.85.",
+      "Nvidia stock shows the opposite setup. Its open interest ratio reads 0.83 and its volume ratio just 0.52, so calls dominate the flows. Traders are paying to protect AMD gains while positioning for more Nvidia upside.",
+      "Where Is the Smart Money Actually Going?",
+      "Money flow confirms the split. AMD's 20-day Chaikin Money Flow, a gauge of institutional buying and selling pressure, reads -0.142, the weakest of 10 major chip names and firmly in distribution. Nvidia, Broadcom, TSMC, and Qualcomm all show accumulation.",
+      "That marks a sharp reversal. Only weeks ago, AMD had overtaken Nvidia in money flow as Wall Street's favored chip trade.",
+      "TipRanks data widens the gap. Nvidia carries a Smart Score of 9, or Outperform, while AMD sits at a Neutral 6. Hedge funds added 15.1 million Nvidia shares last quarter and cut 4 million AMD shares.",
+      "Both stocks still hold Strong Buy analyst consensus. The AMD stock price target of $647 implies 34% upside, and momentum from its Anthropic chip deal keeps the bull case alive. However, the options market is favoring Nvidia as its put/call volume ratio is way lower at 0.52, as compared to AMD's 0.85."
+    ],
+    "html": null
+  }
+}

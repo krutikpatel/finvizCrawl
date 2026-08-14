@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-jumps-aws-partnership-184839356.html",
+    "fetched_at": "2026-08-14T07:00:22.692199-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle stock jumps as AWS partnership expands to 22 regions",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) shares climbed 3% Thursday after the software company broadened its work with Amazon Web Services, expanding access to its AI Database service across 22 AWS regions.\nOracle AI Database@AWS now supports additional capabilities, including access to Exadata performance through a usage-based pricing model. The service is designed to allow customers to operate Oracle workloads within AWS environments without moving them to separate infrastructure.\nOracle said the offering has expanded across markets in Asia-Pacific, Europe and the Americas since becoming generally available a year ago. The company cited enterprise customers including CJ Olive Young, Kobalt Music Group and the Metropolitan Transport Authority of Barcelona.\nOracle's broader cloud strategy includes integrating its database technology with third-party infrastructure as companies increase spending on artificial intelligence applications. The expanded AWS availability could give enterprises more options for running business workloads and developing AI applications using existing data.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) shares climbed 3% Thursday after the software company broadened its work with Amazon Web Services, expanding access to its AI Database service across 22 AWS regions.",
+      "Oracle AI Database@AWS now supports additional capabilities, including access to Exadata performance through a usage-based pricing model. The service is designed to allow customers to operate Oracle workloads within AWS environments without moving them to separate infrastructure.",
+      "Oracle said the offering has expanded across markets in Asia-Pacific, Europe and the Americas since becoming generally available a year ago. The company cited enterprise customers including CJ Olive Young, Kobalt Music Group and the Metropolitan Transport Authority of Barcelona.",
+      "Oracle's broader cloud strategy includes integrating its database technology with third-party infrastructure as companies increase spending on artificial intelligence applications. The expanded AWS availability could give enterprises more options for running business workloads and developing AI applications using existing data."
+    ],
+    "html": null
+  }
+}

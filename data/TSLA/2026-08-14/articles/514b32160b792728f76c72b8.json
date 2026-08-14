@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?mod=bar_FV",
+    "fetched_at": "2026-08-14T07:00:04.643702-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Uber Stock Looks Cheap. Here’s Why. <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Uber Stock Looks Cheap. Here’s Why.\nRobo-taxis make up just 1% of U.S. rides. But the disruption threat of autonomous vehicles to Uber Technologies has become an obsession on Wall Street—and has depressed the value of the company’s stock.\nRobo-taxis make up just 1% of U.S. rides. But the disruption threat of autonomous vehicles to Uber Technologies has become an obsession on Wall Street—and has depressed the value of the company’s stock.",
+    "text_blocks": [
+      "Uber Stock Looks Cheap. Here’s Why.",
+      "Robo-taxis make up just 1% of U.S. rides. But the disruption threat of autonomous vehicles to Uber Technologies has become an obsession on Wall Street—and has depressed the value of the company’s stock.",
+      "Robo-taxis make up just 1% of U.S. rides. But the disruption threat of autonomous vehicles to Uber Technologies has become an obsession on Wall Street—and has depressed the value of the company’s stock."
+    ],
+    "html": null
+  }
+}

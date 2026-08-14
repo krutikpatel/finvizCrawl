@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/250-million-reason-why-micron-125412977.html",
+    "fetched_at": "2026-08-14T07:00:14.073874-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A $250 Million Reason Why Micron Stock Is in Focus",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) is putting $250 million behind startups working across the artificial intelligence ecosystem as it seeks earlier exposure to technologies that could shape future memory and storage demand.\nThe Micron Ventures Paradigm Fund is the company's third venture vehicle and brings total capital committed through the unit to $550 million. The latest fund is larger than its previous two, with the second vehicle still investing.\nInvestment targets span AI model development, data infrastructure, computing efficiency and data centers. Micron also plans to back enterprise uses such as chip design and manufacturing, along with physical AI applications including robotics and emerging device formats.\nThe move could give Micron closer relationships with young companies developing AI technologies while providing insight into changing hardware requirements. The company's strategy centers on identifying areas where future AI workloads may require greater memory and storage capacity.\nMicron shares climbed 2% in early Friday trading after the fund announcement. The company has been expanding its investment in memory production and infrastructure as demand tied to AI computing continues to reshape the semiconductor market.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) is putting $250 million behind startups working across the artificial intelligence ecosystem as it seeks earlier exposure to technologies that could shape future memory and storage demand.",
+      "The Micron Ventures Paradigm Fund is the company's third venture vehicle and brings total capital committed through the unit to $550 million. The latest fund is larger than its previous two, with the second vehicle still investing.",
+      "Investment targets span AI model development, data infrastructure, computing efficiency and data centers. Micron also plans to back enterprise uses such as chip design and manufacturing, along with physical AI applications including robotics and emerging device formats.",
+      "The move could give Micron closer relationships with young companies developing AI technologies while providing insight into changing hardware requirements. The company's strategy centers on identifying areas where future AI workloads may require greater memory and storage capacity.",
+      "Micron shares climbed 2% in early Friday trading after the fund announcement. The company has been expanding its investment in memory production and infrastructure as demand tied to AI computing continues to reshape the semiconductor market."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-stark-warning-investors-155418654.html",
+    "fetched_at": "2026-08-14T07:00:34.586126-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry Has a Stark Warning for Investors Betting on Today's Market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMichael Burry (Trades, Portfolio) renewed his criticism of current U.S. market valuations over the weekend, arguing that investors are placing too little weight on price and fundamentals.\nBurry, known for his bearish market calls, pointed to several technology and industrial names among his concerns. His holdings or bearish positions have included Micron Technology (NASDAQ:MU), Nvidia (NASDAQ:NVDA), Caterpillar (NYSE:CAT), Palantir Technologies (NASDAQ:PLTR) and Tesla (NASDAQ:TSLA).\nHis comments followed a sharp move in Palantir, which gained nearly 37% during the week after the company delivered better-than-expected second-quarter 2026 results. Burry has previously questioned whether rising valuations can be supported by underlying business performance.\nBurry compared the current environment with the period before the dot-com downturn, when investors largely ignored valuation concerns. He argued that markets eventually returned to a point where price mattered, leaving some investors exposed when sentiment reversed.\nBurry also referenced the collapse of Long-Term Capital Management and the subsequent technology selloff as examples of periods when market prices eventually reflected underlying risks. His latest remarks suggest he expects valuation concerns to become more important if market conditions change.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Michael Burry (Trades, Portfolio) renewed his criticism of current U.S. market valuations over the weekend, arguing that investors are placing too little weight on price and fundamentals.",
+      "Burry, known for his bearish market calls, pointed to several technology and industrial names among his concerns. His holdings or bearish positions have included Micron Technology (NASDAQ:MU), Nvidia (NASDAQ:NVDA), Caterpillar (NYSE:CAT), Palantir Technologies (NASDAQ:PLTR) and Tesla (NASDAQ:TSLA).",
+      "His comments followed a sharp move in Palantir, which gained nearly 37% during the week after the company delivered better-than-expected second-quarter 2026 results. Burry has previously questioned whether rising valuations can be supported by underlying business performance.",
+      "Burry compared the current environment with the period before the dot-com downturn, when investors largely ignored valuation concerns. He argued that markets eventually returned to a point where price mattered, leaving some investors exposed when sentiment reversed.",
+      "Burry also referenced the collapse of Long-Term Capital Management and the subsequent technology selloff as examples of periods when market prices eventually reflected underlying risks. His latest remarks suggest he expects valuation concerns to become more important if market conditions change."
+    ],
+    "html": null
+  }
+}

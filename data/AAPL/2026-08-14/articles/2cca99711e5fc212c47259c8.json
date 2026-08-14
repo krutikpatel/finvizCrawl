@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e890d008-07ac-3086-bccd-c242c109f6e7/apple-opens-houston-advanced.html",
+    "fetched_at": "2026-08-14T07:00:08.694583-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple opens Houston Advanced Manufacturing Center, Mac mini coming to Texas",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple opened a free manufacturing training center in Houston on Thursday and confirmed that Mac mini computers will begin rolling off an assembly line at the same Texas facility later this year.\nThe Advanced Manufacturing Center is a 20,000-square-foot facility embedded within a Foxconn campus where Apple's AI servers are already being assembled; it provides no-cost, hands-on instruction to small- and medium-sized businesses, the company said. Curriculum covers topics including machine-learning-driven quality control, advanced automation, and printed circuit board assembly design. The center is Apple's second U.S. manufacturing training site, following one that opened in Detroit in August 2025.\nCommerce Secretary Howard Lutnick, U.S. Senator Ted Cruz, and Houston Mayor John Whitmire were among the officials who attended the opening alongside Apple CEO Tim Cook. \"We believe in American workers and American ingenuity, and we are moving at an incredible pace because we want to build more than great products,\" Cook said in a statement.\nA newly built 170,000-square-foot section of the Foxconn facility houses the Mac mini assembly line, according to The Wall Street Journal. Apple said it had invested hundreds of millions of dollars in the Houston site in less than nine months, during which it built out the factory and shipped its first AI servers.\nUnder the arrangement at the Houston plant, Foxconn bears the cost of constructing the assembly lines and Apple agrees to buy the output, according to The Wall Street Journal. Apple announced earlier this year that it would bring Mac mini production to Houston, the company said.\nThursday's event was among Cook's final public appearances as Apple's chief executive. He is set to hand the CEO role to hardware engineering chief John Ternus on Sept. 1 and transition to executive chairman, according to CNBC.\nApple's Mac mini has attracted renewed interest as a platform for running AI models at home. During Apple's record June quarter, customers faced lengthening delivery delays on the Mac mini and Mac Studio amid a worldwide scarcity of memory chips and processors. Mac revenue reached $10.35 billion in that quarter.\nThe Houston center builds on the Detroit-based Apple Manufacturing Academy, which has helped close to 1,000 workers, students, and entrepreneurs learn smart manufacturing techniques since it opened, the company said. As programming at the Houston site expands, Apple said it plans to extend training to local college students as well.",
+    "text_blocks": [
+      "Apple opened a free manufacturing training center in Houston on Thursday and confirmed that Mac mini computers will begin rolling off an assembly line at the same Texas facility later this year.",
+      "The Advanced Manufacturing Center is a 20,000-square-foot facility embedded within a Foxconn campus where Apple's AI servers are already being assembled; it provides no-cost, hands-on instruction to small- and medium-sized businesses, the company said. Curriculum covers topics including machine-learning-driven quality control, advanced automation, and printed circuit board assembly design. The center is Apple's second U.S. manufacturing training site, following one that opened in Detroit in August 2025.",
+      "Commerce Secretary Howard Lutnick, U.S. Senator Ted Cruz, and Houston Mayor John Whitmire were among the officials who attended the opening alongside Apple CEO Tim Cook. \"We believe in American workers and American ingenuity, and we are moving at an incredible pace because we want to build more than great products,\" Cook said in a statement.",
+      "A newly built 170,000-square-foot section of the Foxconn facility houses the Mac mini assembly line, according to The Wall Street Journal. Apple said it had invested hundreds of millions of dollars in the Houston site in less than nine months, during which it built out the factory and shipped its first AI servers.",
+      "Under the arrangement at the Houston plant, Foxconn bears the cost of constructing the assembly lines and Apple agrees to buy the output, according to The Wall Street Journal. Apple announced earlier this year that it would bring Mac mini production to Houston, the company said.",
+      "Thursday's event was among Cook's final public appearances as Apple's chief executive. He is set to hand the CEO role to hardware engineering chief John Ternus on Sept. 1 and transition to executive chairman, according to CNBC.",
+      "Apple's Mac mini has attracted renewed interest as a platform for running AI models at home. During Apple's record June quarter, customers faced lengthening delivery delays on the Mac mini and Mac Studio amid a worldwide scarcity of memory chips and processors. Mac revenue reached $10.35 billion in that quarter.",
+      "The Houston center builds on the Detroit-based Apple Manufacturing Academy, which has helped close to 1,000 workers, students, and entrepreneurs learn smart manufacturing techniques since it opened, the company said. As programming at the Houston site expands, Apple said it plans to extend training to local college students as well."
+    ],
+    "html": null
+  }
+}

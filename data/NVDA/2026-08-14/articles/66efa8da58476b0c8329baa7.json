@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-doubles-revenue-run-rate-123221146.html",
+    "fetched_at": "2026-08-14T07:00:37.324111-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI Doubles Its Revenue Run Rate to $40 Billion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOpenAI's annualized revenue run rate has passed $40 billion, roughly doubling from late 2025, Bloomberg reported. CFO Sarah Friar had previously put the figure above $20 billion at the end of last year. Co-founder and president Greg Brockman told staff the monthly run rate grew more than 20% in July alone.\nSubscriptions do most of the work, but the growth is broadening into advertising and software, particularly the Codex coding agent and ChatGPT Work for enterprises. OpenAI recently cut prices on some models to attract developers, and hired a cybersecurity veteran as its second chief revenue officer in under a year.\nAnthropic reported a $47 billion run rate in May and has filed confidentially for a listing that could come as early as this fall. Different accounting methods make a clean comparison difficult, Bloomberg noted. Both are heading toward public markets while spending heavily on training and deployment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "OpenAI's annualized revenue run rate has passed $40 billion, roughly doubling from late 2025, Bloomberg reported. CFO Sarah Friar had previously put the figure above $20 billion at the end of last year. Co-founder and president Greg Brockman told staff the monthly run rate grew more than 20% in July alone.",
+      "Subscriptions do most of the work, but the growth is broadening into advertising and software, particularly the Codex coding agent and ChatGPT Work for enterprises. OpenAI recently cut prices on some models to attract developers, and hired a cybersecurity veteran as its second chief revenue officer in under a year.",
+      "Anthropic reported a $47 billion run rate in May and has filed confidentially for a listing that could come as early as this fall. Different accounting methods make a clean comparison difficult, Bloomberg noted. Both are heading toward public markets while spending heavily on training and deployment."
+    ],
+    "html": null
+  }
+}

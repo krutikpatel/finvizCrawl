@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/8c17d789-6964-3b7d-97ea-a9ae27db34f8/amd-stock-can-halve-or-nearly.html",
+    "fetched_at": "2026-08-14T07:00:51.029274-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Options are priced for a calmer stretch than the stock just delivered, and even that assumption leaves room to lose close to half a position or nearly double it.\nAdvanced Micro Devices (AMD) trades near $482.93, and the options market has already put a number on how far that can travel. On contracts expiring about 402 days out, it is pricing a range from roughly $250 to $926.66. The width, not the direction, is what a holder should be sizing against, and the odd part is where it comes from: an assumption that the stock calms down.\nWhat The $250 Floor And $926 Ceiling Mean For Shares You Own\nThe $250 floor is 48.2% below today's price, a loss of about $232.93 a share, close to half of what a share is worth now; the $926.66 ceiling is 91.9% higher, a gain of about $443.73. The gap between those distances is arithmetic, not a directional call: a stock cannot fall below zero, while the upside has no limit. And the floor is no exotic scenario: AMD traded as low as $151.14 inside the past 52 weeks.\nOptions Are Priced For Less Motion Than AMD Has Delivered\nThat band is not a fear premium. At-the-money implied volatility is 62.1% against realized volatility of 71.6% over the trailing year, so options are priced at 0.87 times the movement the stock has actually delivered. The width is what is left after assuming AMD settles down. The past twelve months show how much ground this stock covers: it returned 180.3% against 22.5% for the S&P 500, and even after that run it trades about 17% below its 52-week high.\nBoth Bounds Are Arguing About A Ramp That Has Barely Begun\nA range this wide reflects a core disagreement about AMD, whose business is currently mid-transformation. Data center is now 58% of revenue after more than doubling year over year to $6.7 billion in the second quarter of 2026, on EPYC processors and Instinct accelerators, while gaming revenue fell 31% to $779 million on lower semi-custom sales. What decides the next thirteen months has barely begun to ship: initial deliveries of Helios, its rack-scale AI platform, are on track to begin before the third quarter of 2026 ends, and management expects data center revenue to more than double again in 2027, calling the server CPU supply chain tight right now while expecting the 2027 supply situation to be better than 2026's. A market value near $788.1 billion sits on $41.31 billion of trailing revenue, roughly nineteen times sales, so the price is paying for that ramp rather than for what has already been built. A year's outcome resting on one very large technology name is the kind of dependence the Trefis High Quality Portfolio is built to do without.",
+    "text_blocks": [
+      "Options are priced for a calmer stretch than the stock just delivered, and even that assumption leaves room to lose close to half a position or nearly double it.",
+      "Advanced Micro Devices (AMD) trades near $482.93, and the options market has already put a number on how far that can travel. On contracts expiring about 402 days out, it is pricing a range from roughly $250 to $926.66. The width, not the direction, is what a holder should be sizing against, and the odd part is where it comes from: an assumption that the stock calms down.",
+      "What The $250 Floor And $926 Ceiling Mean For Shares You Own",
+      "The $250 floor is 48.2% below today's price, a loss of about $232.93 a share, close to half of what a share is worth now; the $926.66 ceiling is 91.9% higher, a gain of about $443.73. The gap between those distances is arithmetic, not a directional call: a stock cannot fall below zero, while the upside has no limit. And the floor is no exotic scenario: AMD traded as low as $151.14 inside the past 52 weeks.",
+      "Options Are Priced For Less Motion Than AMD Has Delivered",
+      "That band is not a fear premium. At-the-money implied volatility is 62.1% against realized volatility of 71.6% over the trailing year, so options are priced at 0.87 times the movement the stock has actually delivered. The width is what is left after assuming AMD settles down. The past twelve months show how much ground this stock covers: it returned 180.3% against 22.5% for the S&P 500, and even after that run it trades about 17% below its 52-week high.",
+      "Both Bounds Are Arguing About A Ramp That Has Barely Begun",
+      "A range this wide reflects a core disagreement about AMD, whose business is currently mid-transformation. Data center is now 58% of revenue after more than doubling year over year to $6.7 billion in the second quarter of 2026, on EPYC processors and Instinct accelerators, while gaming revenue fell 31% to $779 million on lower semi-custom sales. What decides the next thirteen months has barely begun to ship: initial deliveries of Helios, its rack-scale AI platform, are on track to begin before the third quarter of 2026 ends, and management expects data center revenue to more than double again in 2027, calling the server CPU supply chain tight right now while expecting the 2027 supply situation to be better than 2026's. A market value near $788.1 billion sits on $41.31 billion of trailing revenue, roughly nineteen times sales, so the price is paying for that ramp rather than for what has already been built. A year's outcome resting on one very large technology name is the kind of dependence the Trefis High Quality Portfolio is built to do without."
+    ],
+    "html": null
+  }
+}

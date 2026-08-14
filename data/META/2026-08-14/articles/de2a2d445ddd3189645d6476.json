@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-gains-12-joining-p-130240986.html",
+    "fetched_at": "2026-08-14T07:00:11.172179-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Reddit Gains 12% by Joining the S&P 500",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nReddit (NYSE:RDDT) rose 12.22% premarket after S&P Dow Jones Indices said the company will join the S&P 500 on August 18, replacing AvalonBay Communities (AVB). Stocks often climb on index inclusion because fund managers tracking the benchmark have to buy shares to match the changes.\nReddit posted its eighth consecutive quarter of sales growth above 60% in the second quarter, and the stock fell after management said search referrals were \"choppy.\" CEO Steve Huffman attributed that to Google increasingly pushing its Gemini-powered AI Overviews.\nInclusion makes Reddit only the second pureplay social media company in the index, after Meta (META). Pinterest (PINS) and Snap (SNAP) both listed years earlier but are smaller by market value. Twitter held a place until Elon Musk bought it in 2022. In the same reshuffle, Sun Communities (SUI) joins the S&P MidCap 400, replacing Webster Financial (WBS).",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Reddit (NYSE:RDDT) rose 12.22% premarket after S&P Dow Jones Indices said the company will join the S&P 500 on August 18, replacing AvalonBay Communities (AVB). Stocks often climb on index inclusion because fund managers tracking the benchmark have to buy shares to match the changes.",
+      "Reddit posted its eighth consecutive quarter of sales growth above 60% in the second quarter, and the stock fell after management said search referrals were \"choppy.\" CEO Steve Huffman attributed that to Google increasingly pushing its Gemini-powered AI Overviews.",
+      "Inclusion makes Reddit only the second pureplay social media company in the index, after Meta (META). Pinterest (PINS) and Snap (SNAP) both listed years earlier but are smaller by market value. Twitter held a place until Elon Musk bought it in 2022. In the same reshuffle, Sun Communities (SUI) joins the S&P MidCap 400, replacing Webster Financial (WBS)."
+    ],
+    "html": null
+  }
+}

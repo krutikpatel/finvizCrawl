@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_FV",
+    "fetched_at": "2026-08-14T07:00:39.513736-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Economic Report\nRetail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.\nRetail sales post largest decline in 14 months, but not because the economy is sputtering\nThe drop in sales in July was the biggest, not the first, in 14 months.\nSales at U.S. retailers in July had the largest decline in 14 months, but not because the economy sputtered. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza.",
+    "text_blocks": [
+      "Economic Report",
+      "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.",
+      "Retail sales post largest decline in 14 months, but not because the economy is sputtering",
+      "The drop in sales in July was the biggest, not the first, in 14 months.",
+      "Sales at U.S. retailers in July had the largest decline in 14 months, but not because the economy sputtered. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza."
+    ],
+    "html": null
+  }
+}

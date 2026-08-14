@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-tick-higher-102006057.html",
+    "fetched_at": "2026-08-14T07:00:31.753352-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "S&P 500 notches record-high close as rate-hike worries ease",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Noel Randewich and Avinash P\nAug 13 (Reuters) - The S&P 500 notched a record-high close on Thursday, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal Reserve will not raise interest rates at its September meeting.\nMemory chip makers Sandisk and Micron Technology surged 13.7% and 4.2%, respectively, while Microsoft added almost 1% and Meta Platforms rose 2.8%.\nShares of AI cloud company CoreWeave dipped 1.3%. The stock surged 19% a day earlier after the company lifted its annual capital spending forecast.\nStrong forecasts in recent weeks from companies including Microsoft and Amazon have reduced investors' concerns about massive spending on AI data centers.\n\"The AI earnings-driven tech boom continues,\" said Jay Hatfield, CEO of Infrastructure Capital Advisors in New York. \"It's an earnings boom, not a bubble.\"\nThe S&P 500 climbed 0.65% to end the session at 7,798.99 points, exceeding its record high close last Friday.\nThe Nasdaq gained 0.81% to 26,803.03 points, while the Dow Jones Industrial Average rose 0.13% to 53,839.99 points.\nSeven of the 11 S&P 500 sector indexes rose, led by communication services, up 1.56%, followed by a 1.34% gain in real estate.\nThe S&P 500 is up about 14% in 2026, while the Nasdaq has gained about 15%.\nCisco Systems dropped 8.4% after the networking equipment maker's upbeat revenue forecast did not satisfy investors with high expectations.\nIran and the United States remain at loggerheads over efforts to agree on a permanent end to the Iran war, according to a senior Iranian source, while traffic through the vital Strait of Hormuz remained severely curtailed.\nFresh data showed U.S. producer prices were unchanged in July as goods prices fell and the cost of services increased marginally, while the number of Americans filing claims for unemployment benefits increased moderately last week, pointing to a stable jobs market.\nTraders are pricing in a 63% chance that the Fed will keep interest rates unchanged at its meeting next month, according to CME's FedWatch tool.\nBrent crude oil futures closed about 2% lower at $87.07 a barrel.\nNetflix climbed 5.4% after billionaire investor Bill Ackman unveiled a new holding in the streaming company as part of Pershing Square's biggest portfolio overhaul in years.\nTapestry shares plunged more than 16% after the Coach owner forecast muted annual revenue growth.\nDell Technologies rose 2.1% and HP added 6.9% after quarterly results from China's Lenovo beat expectations.",
+    "text_blocks": [
+      "By Noel Randewich and Avinash P",
+      "Aug 13 (Reuters) - The S&P 500 notched a record-high close on Thursday, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal Reserve will not raise interest rates at its September meeting.",
+      "Memory chip makers Sandisk and Micron Technology surged 13.7% and 4.2%, respectively, while Microsoft added almost 1% and Meta Platforms rose 2.8%.",
+      "Shares of AI cloud company CoreWeave dipped 1.3%. The stock surged 19% a day earlier after the company lifted its annual capital spending forecast.",
+      "Strong forecasts in recent weeks from companies including Microsoft and Amazon have reduced investors' concerns about massive spending on AI data centers.",
+      "\"The AI earnings-driven tech boom continues,\" said Jay Hatfield, CEO of Infrastructure Capital Advisors in New York. \"It's an earnings boom, not a bubble.\"",
+      "The S&P 500 climbed 0.65% to end the session at 7,798.99 points, exceeding its record high close last Friday.",
+      "The Nasdaq gained 0.81% to 26,803.03 points, while the Dow Jones Industrial Average rose 0.13% to 53,839.99 points.",
+      "Seven of the 11 S&P 500 sector indexes rose, led by communication services, up 1.56%, followed by a 1.34% gain in real estate.",
+      "The S&P 500 is up about 14% in 2026, while the Nasdaq has gained about 15%.",
+      "Cisco Systems dropped 8.4% after the networking equipment maker's upbeat revenue forecast did not satisfy investors with high expectations.",
+      "Iran and the United States remain at loggerheads over efforts to agree on a permanent end to the Iran war, according to a senior Iranian source, while traffic through the vital Strait of Hormuz remained severely curtailed.",
+      "Fresh data showed U.S. producer prices were unchanged in July as goods prices fell and the cost of services increased marginally, while the number of Americans filing claims for unemployment benefits increased moderately last week, pointing to a stable jobs market.",
+      "Traders are pricing in a 63% chance that the Fed will keep interest rates unchanged at its meeting next month, according to CME's FedWatch tool.",
+      "Brent crude oil futures closed about 2% lower at $87.07 a barrel.",
+      "Netflix climbed 5.4% after billionaire investor Bill Ackman unveiled a new holding in the streaming company as part of Pershing Square's biggest portfolio overhaul in years.",
+      "Tapestry shares plunged more than 16% after the Coach owner forecast muted annual revenue growth.",
+      "Dell Technologies rose 2.1% and HP added 6.9% after quarterly results from China's Lenovo beat expectations."
+    ],
+    "html": null
+  }
+}

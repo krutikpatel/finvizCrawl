@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
+    "fetched_at": "2026-08-14T07:00:37.382232-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI build-out has a problem that $1 trillion in cash can't fix",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Now that earnings season is nearly done, there are new — and even bigger — forecasts of how much money hyperscalers will throw at the AI data center build-out this year.\nGoldman Sachs estimates the number will reach $1 trillion globally in 2026. JPMorgan forecasts spending of $697 billion in the US. And Bank of America sees a \"path toward ~$1.2 trillion\" by 2027.\nBut money's not going to get the job done.\nThat's because the bottleneck isn't cash.\nCompute is certainly an expensive proposition. We know memory chip prices have been soaring. Nvidia (NVDA) seems able to command whatever price it sets for its newest graphics processing units (GPUs) and software because of fierce demand. There's land to buy, buildings to construct, servers and cooling systems to install.\nDespite investment in new manufacturing capacity, chip shortages persist. Construction contractors have highlighted the lack of skilled labor to complete projects on their clients' desired timeline. Then there are the growing regulatory constraints stemming from public backlash against data centers, including a one-year moratorium in New York and an audit of power hookups in Texas.\nAnd power is perhaps the biggest bottleneck of all. Bloomberg New Energy Finance estimates a 19-gigawatt shortfall in power for AI data centers by 2035 if growth continues at its current pace.\n\"Not only do we need the equipment, not only do we need the permits, but we need the people,\" George Gianarikas, an analyst at Canaccord Genuity who covers power generation companies, said in an interview. \"And what's happening in conjunction with all that is the fact that people are rallying against data centers. I'm sure you've seen all the news across the country. There are protests, there are moratoria, there are pauses. And so when you put that all together, the ambitions of the data center companies to get the power that they need to train their algorithms — in our very strong view, it's not going to happen at the pace that they expect.\"\nWood Mackenzie recently reported that data center power generators are trying to mitigate anticipated rejections by filing multiple applications with different utilities. The energy analysis firm said utilities and grid operators may approve only 28% of the power requested, because of both those \"phantom\" applications and those submitted by less-experienced operators.\nAll of this suggests the data center build-out will progress at least more slowly and lumpier than the most optimistic outlooks. That's the best-case scenario.",
+    "text_blocks": [
+      "Now that earnings season is nearly done, there are new — and even bigger — forecasts of how much money hyperscalers will throw at the AI data center build-out this year.",
+      "Goldman Sachs estimates the number will reach $1 trillion globally in 2026. JPMorgan forecasts spending of $697 billion in the US. And Bank of America sees a \"path toward ~$1.2 trillion\" by 2027.",
+      "But money's not going to get the job done.",
+      "That's because the bottleneck isn't cash.",
+      "Compute is certainly an expensive proposition. We know memory chip prices have been soaring. Nvidia (NVDA) seems able to command whatever price it sets for its newest graphics processing units (GPUs) and software because of fierce demand. There's land to buy, buildings to construct, servers and cooling systems to install.",
+      "Despite investment in new manufacturing capacity, chip shortages persist. Construction contractors have highlighted the lack of skilled labor to complete projects on their clients' desired timeline. Then there are the growing regulatory constraints stemming from public backlash against data centers, including a one-year moratorium in New York and an audit of power hookups in Texas.",
+      "And power is perhaps the biggest bottleneck of all. Bloomberg New Energy Finance estimates a 19-gigawatt shortfall in power for AI data centers by 2035 if growth continues at its current pace.",
+      "\"Not only do we need the equipment, not only do we need the permits, but we need the people,\" George Gianarikas, an analyst at Canaccord Genuity who covers power generation companies, said in an interview. \"And what's happening in conjunction with all that is the fact that people are rallying against data centers. I'm sure you've seen all the news across the country. There are protests, there are moratoria, there are pauses. And so when you put that all together, the ambitions of the data center companies to get the power that they need to train their algorithms — in our very strong view, it's not going to happen at the pace that they expect.\"",
+      "Wood Mackenzie recently reported that data center power generators are trying to mitigate anticipated rejections by filing multiple applications with different utilities. The energy analysis firm said utilities and grid operators may approve only 28% of the power requested, because of both those \"phantom\" applications and those submitted by less-experienced operators.",
+      "All of this suggests the data center build-out will progress at least more slowly and lumpier than the most optimistic outlooks. That's the best-case scenario."
+    ],
+    "html": null
+  }
+}
