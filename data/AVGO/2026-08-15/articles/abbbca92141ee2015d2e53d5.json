@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/wall-street-ends-lower-investors-225242650.html",
+    "fetched_at": "2026-08-15T07:02:44.141787-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street ends lower as investors weigh data, Middle East tensions",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street ends lower as investors weigh data, Middle East tensions Reuters Videos Fri, August 14, 2026 at 3:53 PM PDT ^GSPC ^DJI INTC AVGO View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info",
+    "text_blocks": [
+      "Wall Street ends lower as investors weigh data, Middle East tensions Reuters Videos Fri, August 14, 2026 at 3:53 PM PDT ^GSPC ^DJI INTC AVGO View Comments Terms and Privacy Policy Your Privacy Choices CA Privacy Notice More Info"
+    ],
+    "html": null
+  }
+}

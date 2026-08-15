@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-sends-fresh-warning-154136593.html",
+    "fetched_at": "2026-08-15T07:02:46.731434-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry Sends Fresh Warning For Palantir Stock Fans",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMichael Burry (Trades, Portfolio) is positioning for a potential pullback in Palantir Technologies (NASDAQ:PLTR), opening a fresh options trade against the AI software company even as its business continues to post rapid growth, according to his Cassandra Unchained publication.\nBurry bought March 2027 put options with strike prices in the low-to-mid $100 range. The trade gives the investor downside exposure if Palantir falls below those levels before expiration, adding to his recent bearish stance after he previously covered part of his short position near $107.\nPalantir has given investors little reason to dismiss the bullish case on operating performance. Second-quarter revenue nearly doubled to $1.9 billion, supported by demand from commercial customers and government contracts tied to artificial intelligence.\nThe concern for Burry centers on valuation rather than the company's recent growth. Palantir shares remain near historically high levels, while bearish analysts have pointed to a valuation above 50 times expected 2026 sales and nearly 100 times free cash flow.\nBurry's latest trade therefore sets up a familiar debate around Palantir: whether its AI growth can continue to justify the premium investors are paying for the stock, or whether another sharp valuation-driven decline could follow.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Michael Burry (Trades, Portfolio) is positioning for a potential pullback in Palantir Technologies (NASDAQ:PLTR), opening a fresh options trade against the AI software company even as its business continues to post rapid growth, according to his Cassandra Unchained publication.",
+      "Burry bought March 2027 put options with strike prices in the low-to-mid $100 range. The trade gives the investor downside exposure if Palantir falls below those levels before expiration, adding to his recent bearish stance after he previously covered part of his short position near $107.",
+      "Palantir has given investors little reason to dismiss the bullish case on operating performance. Second-quarter revenue nearly doubled to $1.9 billion, supported by demand from commercial customers and government contracts tied to artificial intelligence.",
+      "The concern for Burry centers on valuation rather than the company's recent growth. Palantir shares remain near historically high levels, while bearish analysts have pointed to a valuation above 50 times expected 2026 sales and nearly 100 times free cash flow.",
+      "Burry's latest trade therefore sets up a familiar debate around Palantir: whether its AI growth can continue to justify the premium investors are paying for the stock, or whether another sharp valuation-driven decline could follow."
+    ],
+    "html": null
+  }
+}

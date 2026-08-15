@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-musk-teases-200519418.html",
+    "fetched_at": "2026-08-15T07:02:18.044548-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Rises as Musk Teases Potential 'Flying' Roadster Debut",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) shares advanced 1% Friday morning as attention returned to the company's long-delayed Roadster, with a redesigned version potentially set for a reveal as soon as August, according to reports.\nThe sports car could feature technology intended to create a hovering effect during a demonstration at SpaceX (SPCX) facilities in Texas. Elon Musk has previously suggested the vehicle could incorporate flight-related capabilities, although the final specifications and timing remain uncertain.\nAny limited version built around such technology would likely target a small group of buyers rather than Tesla's broader customer base. The vehicle could carry a price reaching well into six figures or higher and may not be designed for normal road use.\nTesla's original Roadster helped establish the company as an electric-car manufacturer. Sold between 2008 and 2012, the model used a modified Lotus Elise platform and offered roughly 200 miles of real-world range, with production totaling about 2,450 vehicles.\nTesla showed a successor prototype in 2017, promising rapid acceleration, a top speed above 250 mph and roughly 620 miles of range. The second-generation model has since faced at least eight delays.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) shares advanced 1% Friday morning as attention returned to the company's long-delayed Roadster, with a redesigned version potentially set for a reveal as soon as August, according to reports.",
+      "The sports car could feature technology intended to create a hovering effect during a demonstration at SpaceX (SPCX) facilities in Texas. Elon Musk has previously suggested the vehicle could incorporate flight-related capabilities, although the final specifications and timing remain uncertain.",
+      "Any limited version built around such technology would likely target a small group of buyers rather than Tesla's broader customer base. The vehicle could carry a price reaching well into six figures or higher and may not be designed for normal road use.",
+      "Tesla's original Roadster helped establish the company as an electric-car manufacturer. Sold between 2008 and 2012, the model used a modified Lotus Elise platform and offered roughly 200 miles of real-world range, with production totaling about 2,450 vehicles.",
+      "Tesla showed a successor prototype in 2017, promising rapid acceleration, a top speed above 250 mph and roughly 620 miles of range. The second-generation model has since faced at least eight delays."
+    ],
+    "html": null
+  }
+}

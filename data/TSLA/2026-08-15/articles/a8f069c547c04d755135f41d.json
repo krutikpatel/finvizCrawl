@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-ends-three-swedish-strike-172708591.html",
+    "fetched_at": "2026-08-15T07:02:18.148007-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Ends Three-Year Swedish Strike Without Union Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla Inc. (TSLA, Financials), the electric-vehicle maker, is ending a three-year labor dispute in Sweden without signing a collective agreement.\nThe company bought out the striking mechanics, effectively removing the workers at the center of the conflict.\nThe strike began with 120 mechanics and later spread through sympathy actions that disrupted ports, vehicle repairs, license-plate deliveries and Supercharger maintenance.\nTesla worked around some of those disruptions by routing vehicles through Germany and using legal action to keep deliveries moving.\nSweden's IF Metall union called the buyouts unprecedented and said the conflict would no longer have any effect. The strike is scheduled to end Aug. 19. For investors, the immediate operational risk is now lower.\nThe broader issue is whether Tesla's hard line on collective bargaining creates similar disputes elsewhere in Europe as the company expands its workforce and service operations.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla Inc. (TSLA, Financials), the electric-vehicle maker, is ending a three-year labor dispute in Sweden without signing a collective agreement.",
+      "The company bought out the striking mechanics, effectively removing the workers at the center of the conflict.",
+      "The strike began with 120 mechanics and later spread through sympathy actions that disrupted ports, vehicle repairs, license-plate deliveries and Supercharger maintenance.",
+      "Tesla worked around some of those disruptions by routing vehicles through Germany and using legal action to keep deliveries moving.",
+      "Sweden's IF Metall union called the buyouts unprecedented and said the conflict would no longer have any effect. The strike is scheduled to end Aug. 19. For investors, the immediate operational risk is now lower.",
+      "The broader issue is whether Tesla's hard line on collective bargaining creates similar disputes elsewhere in Europe as the company expands its workforce and service operations."
+    ],
+    "html": null
+  }
+}

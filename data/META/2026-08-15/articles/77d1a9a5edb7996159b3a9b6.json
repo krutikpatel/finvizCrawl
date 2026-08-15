@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+    "fetched_at": "2026-08-15T07:02:23.896547-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world's No. 1 artificial-intelligence model.\nMost Read from Bloomberg\n-\nSelena Gomez Accused of Fraud by Mental-Health Startup Investors\n-\nAnthropic Revenue Surges to Over $11.5 Billion in Second Quarter\n-\nCostliest US Bond Sale Since 2001 Is Investor Warning to Bessent\nQwen, Alibaba's family of AI models, has open-sourced more than 460 models and its ecosystem has spawned 300,000-plus derivatives, the Chinese technology company said in an emailed statement. Google, part of Alphabet, had 418 million downloads while Meta stood at 227 million in 2026, according to popular open-source AI hub Hugging Face Inc., which published a state of open models report on Aug. 14.\nOpen models can be downloaded, customized and used as building blocks for new AI products, making adoption a gauge of which technologies developers are choosing to build on. That has made download and derivative-model figures one measure of influence in the US-China AI race, as Chinese developers including Alibaba push capable models that are relatively cheap and easy to adapt. Qwen's rise suggests that strategy is gaining traction beyond China.\nQwen along with Moonshot AI Inc, DeepSeek and Chinese AI model builders are replicating frontier performance, seeking to bridge the gap with closed models in US, such as OpenAI Inc. and Anthropic PBC. Export controls on chips and AI systems, such as the brief ban on overseas access to Anthropic's Fable 5 model this summer, don't appear to be putting the brakes on Chinese competitors.\nAlibaba's download data for Qwen makes it \"one of the largest foundations of the open AI ecosystem,\" the Hugging Face report said. The Hangzhou-based cloud, e-commerce and AI tech company is making gains over local rivals DeepSeek, Moonshot Kimi and MiniMax as well as US models.\n\"Qwen has become part of the default workflow for developers deciding what models to fine-tune and deploy,\" the report said.\nA broad model family can create a self-reinforcing ecosystem: more developers adopt the models, more derivative versions are built, and that in turn draws in new users. Alibaba has bolstered that cycle by distributing Qwen through its cloud platform to enterprise customers in markets including Southeast Asia and Africa, giving it a reach that many rivals lack.",
+    "text_blocks": [
+      "(Bloomberg) -- Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world's No. 1 artificial-intelligence model.",
+      "Most Read from Bloomberg",
+      "-",
+      "Selena Gomez Accused of Fraud by Mental-Health Startup Investors",
+      "-",
+      "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
+      "-",
+      "Costliest US Bond Sale Since 2001 Is Investor Warning to Bessent",
+      "Qwen, Alibaba's family of AI models, has open-sourced more than 460 models and its ecosystem has spawned 300,000-plus derivatives, the Chinese technology company said in an emailed statement. Google, part of Alphabet, had 418 million downloads while Meta stood at 227 million in 2026, according to popular open-source AI hub Hugging Face Inc., which published a state of open models report on Aug. 14.",
+      "Open models can be downloaded, customized and used as building blocks for new AI products, making adoption a gauge of which technologies developers are choosing to build on. That has made download and derivative-model figures one measure of influence in the US-China AI race, as Chinese developers including Alibaba push capable models that are relatively cheap and easy to adapt. Qwen's rise suggests that strategy is gaining traction beyond China.",
+      "Qwen along with Moonshot AI Inc, DeepSeek and Chinese AI model builders are replicating frontier performance, seeking to bridge the gap with closed models in US, such as OpenAI Inc. and Anthropic PBC. Export controls on chips and AI systems, such as the brief ban on overseas access to Anthropic's Fable 5 model this summer, don't appear to be putting the brakes on Chinese competitors.",
+      "Alibaba's download data for Qwen makes it \"one of the largest foundations of the open AI ecosystem,\" the Hugging Face report said. The Hangzhou-based cloud, e-commerce and AI tech company is making gains over local rivals DeepSeek, Moonshot Kimi and MiniMax as well as US models.",
+      "\"Qwen has become part of the default workflow for developers deciding what models to fine-tune and deploy,\" the report said.",
+      "A broad model family can create a self-reinforcing ecosystem: more developers adopt the models, more derivative versions are built, and that in turn draws in new users. Alibaba has bolstered that cycle by distributing Qwen through its cloud platform to enterprise customers in markets including Southeast Asia and Africa, giving it a reach that many rivals lack."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/maryland-tax-court-voids-digital-230625946.html",
+    "fetched_at": "2026-08-15T07:02:21.081229-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "ANNAPOLIS, Md. (AP) — A Maryland state tax court has struck down the state's first-in-the-nation tax on digital advertising and ordered state officials to repay the tax money already collected from big tech firms.\nThe Maryland Tax Court said the tax violates the federal Internet Tax Freedom Act as well as the First Amendment and the commerce and due process clauses of the U.S. Constitution.\nThe legal fight has been watched by other states that are considering taxes for online ads. Maryland estimated the tax, approved in 2021, could raise about $250 million a year to help pay for a sweeping K-12 education measure.\nIn Friday's decision, the tax court ordered the state to repay the tax money already collected by Apple, Google and Peacock TV.\nThe law taxed revenue that large companies make on digital advertisements shown in Maryland. Companies making more than $100 million in global annual gross revenues were taxed at a 2.5% rate. The rate increased for companies with larger revenues, topping out at a 10% rate for companies making $15 billion or more in global gross annual revenues.\nSupporters of the law contended that Maryland needed to overhaul its tax methods in response to significant changes in how businesses advertise. But attorneys representing Big Tech companies including Meta and Amazon challenged the law in multiple legal venues, arguing in part that they were unfairly targeted.\nLast year, 4th U.S. Circuit Court of Appeals ruled part of the law violated the Constitution because it blocked Big Tech companies from telling customers about the tax. That, Judge Julius Richardson said, violated the right to free speech.\nMaryland Senate President Bill Ferguson and House Speaker Joseline Pena-Melnyk, both Democrats, issued a statement saying they \"respectfully disagree\" with the tax court ruling and expect the legal process to continue.\nThey said the tax was enacted to keep the state's tax system in pace with a changing economy.\n\"We remain committed to ensuring that Maryland's tax system is fair, sustainable, and reflects today's economy,\" they said. \"We will continue working with the Attorney General and Comptroller as this matter proceeds through the courts.\"\nThe tax court said Congress — not the state legislature — is tasked with regulating interstate commerce, and that the tax law was inappropriately based on global revenue rather than revenue from in-state advertising.\nThe federal Internet Tax Freedom Act bars the taxation of e-commerce if similar services are not taxed. At least for now, the tax court found, there isn't much of a difference between digital advertising and print or billboard ads, which means the bar on taxation applies.",
+    "text_blocks": [
+      "ANNAPOLIS, Md. (AP) — A Maryland state tax court has struck down the state's first-in-the-nation tax on digital advertising and ordered state officials to repay the tax money already collected from big tech firms.",
+      "The Maryland Tax Court said the tax violates the federal Internet Tax Freedom Act as well as the First Amendment and the commerce and due process clauses of the U.S. Constitution.",
+      "The legal fight has been watched by other states that are considering taxes for online ads. Maryland estimated the tax, approved in 2021, could raise about $250 million a year to help pay for a sweeping K-12 education measure.",
+      "In Friday's decision, the tax court ordered the state to repay the tax money already collected by Apple, Google and Peacock TV.",
+      "The law taxed revenue that large companies make on digital advertisements shown in Maryland. Companies making more than $100 million in global annual gross revenues were taxed at a 2.5% rate. The rate increased for companies with larger revenues, topping out at a 10% rate for companies making $15 billion or more in global gross annual revenues.",
+      "Supporters of the law contended that Maryland needed to overhaul its tax methods in response to significant changes in how businesses advertise. But attorneys representing Big Tech companies including Meta and Amazon challenged the law in multiple legal venues, arguing in part that they were unfairly targeted.",
+      "Last year, 4th U.S. Circuit Court of Appeals ruled part of the law violated the Constitution because it blocked Big Tech companies from telling customers about the tax. That, Judge Julius Richardson said, violated the right to free speech.",
+      "Maryland Senate President Bill Ferguson and House Speaker Joseline Pena-Melnyk, both Democrats, issued a statement saying they \"respectfully disagree\" with the tax court ruling and expect the legal process to continue.",
+      "They said the tax was enacted to keep the state's tax system in pace with a changing economy.",
+      "\"We remain committed to ensuring that Maryland's tax system is fair, sustainable, and reflects today's economy,\" they said. \"We will continue working with the Attorney General and Comptroller as this matter proceeds through the courts.\"",
+      "The tax court said Congress — not the state legislature — is tasked with regulating interstate commerce, and that the tax law was inappropriately based on global revenue rather than revenue from in-state advertising.",
+      "The federal Internet Tax Freedom Act bars the taxation of e-commerce if similar services are not taxed. At least for now, the tax court found, there isn't much of a difference between digital advertising and print or billboard ads, which means the bar on taxation applies."
+    ],
+    "html": null
+  }
+}

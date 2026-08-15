@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6a3e5f87-083e-3f6d-af47-8e3b6e546861/marvell%27s-year-was-made-in.html",
+    "fetched_at": "2026-08-15T07:03:03.405543-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell's Year Was Made In Interconnect, Not Yet In Custom Silicon",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The stock outran both Broadcom and NVIDIA over the past year, and the part of the company that did it moves data inside and between data centers rather than computing on it.\nMarvell Technology (MRVL) has returned about 181% over the past year while the S&P 500 gained 22%. A gain that size usually gets filed under a sector-wide AI trade, and inside Marvell under the custom silicon it designs for hyperscalers. Neither of those is what carried the year.\nBroadcom And NVIDIA Returned A Fraction Of That Gain\nOver the same twelve months, Broadcom returned 36% and NVIDIA 24%, closer to the market than to Marvell, while AMD, up 162%, was the only one of the three peers that kept pace. But a sector-wide tide would have carried Broadcom and NVIDIA too, and it did not. What re-rated this stock was specific to it: management has raised its own forecast multiple times over recent quarters, and on the most recent call, the biggest raise landed in one place.\nInterconnect Is Doing The Work, Custom Silicon Comes Later\nMarvell's interconnect business is the silicon that moves data inside and between data centers: optical DSPs, the TIAs and drivers beside them, and pluggable DCI modules. It is the largest piece of a data center business that was 76% of revenue in fiscal Q1 2027, and management now expects interconnect to grow more than 70% year over year in fiscal 2027, against the 50% guided before. Custom silicon was raised too, but further out: it remains on track to grow more than 20% in the same fiscal year, and the company now expects it to more than double in fiscal 2028. Management calls interconnect the standout of the group.\nSet against the base, the raises are large: trailing-twelve-month revenue is $8.7 billion, up 34%, while the fiscal 2028 target management now carries is $16.5 billion, roughly $1.5 billion higher than the number it gave a quarter earlier. By its own account the company has lifted its revenue outlook several quarters running. The mechanism is in the AI models: as reasoning and mixture-of-experts architectures spread, more of the work moves into the network. Marvell has been buying to stay in front of that, adding plasmonics-based silicon photonics through an acquisition in April.\nThe Outlook Is Only As Good As The Capacity Behind It\nEvery one of those numbers depends on supply Marvell does not own. The company says it is aggressively locking in additional capacity to ensure its growth, running the playbook from the last major supply crunch: give a small group of key suppliers a five-year forecast, then back it with cash. It expects about $1 billion of prepayments across fiscal 2027, funded from its balance sheet and operating cash flow. Balance-sheet strength of that kind is one of the things the Trefis High Quality Portfolio insists on in its holdings. Even so, Marvell's operating chief says everything that touches AI has been constrained from the beginning.",
+    "text_blocks": [
+      "The stock outran both Broadcom and NVIDIA over the past year, and the part of the company that did it moves data inside and between data centers rather than computing on it.",
+      "Marvell Technology (MRVL) has returned about 181% over the past year while the S&P 500 gained 22%. A gain that size usually gets filed under a sector-wide AI trade, and inside Marvell under the custom silicon it designs for hyperscalers. Neither of those is what carried the year.",
+      "Broadcom And NVIDIA Returned A Fraction Of That Gain",
+      "Over the same twelve months, Broadcom returned 36% and NVIDIA 24%, closer to the market than to Marvell, while AMD, up 162%, was the only one of the three peers that kept pace. But a sector-wide tide would have carried Broadcom and NVIDIA too, and it did not. What re-rated this stock was specific to it: management has raised its own forecast multiple times over recent quarters, and on the most recent call, the biggest raise landed in one place.",
+      "Interconnect Is Doing The Work, Custom Silicon Comes Later",
+      "Marvell's interconnect business is the silicon that moves data inside and between data centers: optical DSPs, the TIAs and drivers beside them, and pluggable DCI modules. It is the largest piece of a data center business that was 76% of revenue in fiscal Q1 2027, and management now expects interconnect to grow more than 70% year over year in fiscal 2027, against the 50% guided before. Custom silicon was raised too, but further out: it remains on track to grow more than 20% in the same fiscal year, and the company now expects it to more than double in fiscal 2028. Management calls interconnect the standout of the group.",
+      "Set against the base, the raises are large: trailing-twelve-month revenue is $8.7 billion, up 34%, while the fiscal 2028 target management now carries is $16.5 billion, roughly $1.5 billion higher than the number it gave a quarter earlier. By its own account the company has lifted its revenue outlook several quarters running. The mechanism is in the AI models: as reasoning and mixture-of-experts architectures spread, more of the work moves into the network. Marvell has been buying to stay in front of that, adding plasmonics-based silicon photonics through an acquisition in April.",
+      "The Outlook Is Only As Good As The Capacity Behind It",
+      "Every one of those numbers depends on supply Marvell does not own. The company says it is aggressively locking in additional capacity to ensure its growth, running the playbook from the last major supply crunch: give a small group of key suppliers a five-year forecast, then back it with cash. It expects about $1 billion of prepayments across fiscal 2027, funded from its balance sheet and operating cash flow. Balance-sheet strength of that kind is one of the things the Trefis High Quality Portfolio insists on in its holdings. Even so, Marvell's operating chief says everything that touches AI has been constrained from the beginning."
+    ],
+    "html": null
+  }
+}

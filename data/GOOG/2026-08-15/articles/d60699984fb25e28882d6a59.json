@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_FV",
+    "fetched_at": "2026-08-15T07:02:38.351524-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A decade of internal AI battles is finally catching up to Google - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nA decade of internal AI battles is finally catching up to Google\nDeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction\nAs 2025 drew to a close, Google looked like the ultimate artificial-intelligence winner.\nThe company’s newest Gemini 3 model swept industry benchmarks, beating out rivals OpenAI and Anthropic in performance after getting a late start to the large-language-model race. Google Search, which industry watchers previously declared dead due to the rise of conversational chatbots, was booming thanks to AI Overviews and AI Mode. With a frontier lab, custom silicon and a sprawling ecosystem with billions of existing users, Google parent Alphabet GOOGL GOOG was praised by Wall Street for its full-stack solutions.",
+    "text_blocks": [
+      "Tech Stocks",
+      "A decade of internal AI battles is finally catching up to Google",
+      "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction",
+      "As 2025 drew to a close, Google looked like the ultimate artificial-intelligence winner.",
+      "The company’s newest Gemini 3 model swept industry benchmarks, beating out rivals OpenAI and Anthropic in performance after getting a late start to the large-language-model race. Google Search, which industry watchers previously declared dead due to the rise of conversational chatbots, was booming thanks to AI Overviews and AI Mode. With a frontier lab, custom silicon and a sprawling ecosystem with billions of existing users, Google parent Alphabet GOOGL GOOG was praised by Wall Street for its full-stack solutions."
+    ],
+    "html": null
+  }
+}

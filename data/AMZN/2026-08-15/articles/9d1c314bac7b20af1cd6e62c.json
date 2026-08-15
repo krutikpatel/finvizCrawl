@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?mod=bar_FV",
+    "fetched_at": "2026-08-15T07:02:52.387193-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Review & Preview: Headline Fatigue<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Review & Preview: Headline Fatigue\nZen. The S&P 500 pulled back a touch from its record high today, but the index still wrapped a third-straight week of gains.\nZen. The S&P 500 pulled back a touch from its record high today, but the index still wrapped a third-straight week of gains.",
+    "text_blocks": [
+      "Review & Preview: Headline Fatigue",
+      "Zen. The S&P 500 pulled back a touch from its record high today, but the index still wrapped a third-straight week of gains.",
+      "Zen. The S&P 500 pulled back a touch from its record high today, but the index still wrapped a third-straight week of gains."
+    ],
+    "html": null
+  }
+}
