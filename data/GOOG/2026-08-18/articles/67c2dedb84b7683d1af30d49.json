@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-buys-dead-airlines-internal-120340423.html",
+    "fetched_at": "2026-08-18T07:00:28.608650-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Buys a Dead Airline's Internal Emails to Train AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet's (NASDAQ:GOOGL) Google is buying internal business data from bankrupt Spirit Airlines for $10 million, saying it plans to use the material for product development and to train its AI models. Alphabet shares were down 0.27% premarket.\nAlphabet will acquire employee emails, Microsoft Teams messages, spreadsheets and calendars, along with marketing, productivity and operations data. The data will be de-identified before the sale closes and will contain no customer information or personally identifiable information.\nA US bankruptcy judge considers the sale at a hearing on Wednesday. Spirit also received a competing bid of $7.5 million from Mercor, an AI data company, so the court has two offers in front of it. Spirit has been selling assets since shutting down operations in May under high debt and fuel costs, having already auctioned LaGuardia flight slots to JetBlue in July.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet's (NASDAQ:GOOGL) Google is buying internal business data from bankrupt Spirit Airlines for $10 million, saying it plans to use the material for product development and to train its AI models. Alphabet shares were down 0.27% premarket.",
+      "Alphabet will acquire employee emails, Microsoft Teams messages, spreadsheets and calendars, along with marketing, productivity and operations data. The data will be de-identified before the sale closes and will contain no customer information or personally identifiable information.",
+      "A US bankruptcy judge considers the sale at a hearing on Wednesday. Spirit also received a competing bid of $7.5 million from Mercor, an AI data company, so the court has two offers in front of it. Spirit has been selling assets since shutting down operations in May under high debt and fuel costs, having already auctioned LaGuardia flight slots to JetBlue in July."
+    ],
+    "html": null
+  }
+}

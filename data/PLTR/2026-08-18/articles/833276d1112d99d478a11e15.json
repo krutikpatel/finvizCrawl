@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-projects-200-billion-revenue-205306475.html",
+    "fetched_at": "2026-08-18T07:00:36.924806-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic Projects $200 Billion of Revenue by 2028",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAnthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar with the company's financials. That compares with the $47 billion run rate Anthropic publicized as recently as May, and it's the number underpinning how bankers are pricing what could be one of the largest listings on record.\nFour sources told Reuters that bankers and investors are applying enterprise value-to-revenue multiples to forecasts, and reaching two years forward. Revenue multiples are standard for high-growth software without a mature profit profile.\nThree public companies are serving as comparables ahead of Anthropic's analyst day. Palantir (NASDAQ:PLTR) trades at 53x this year's expected revenue, while Cloudflare (NYSE:NET) and SpaceX (NASDAQ:SPCX) both sit at 41.6x expected 2026 revenue, per LSEG data. Cerebras (NASDAQ:CBRS) backers cited 2028 figures before its listing this year, and SpaceX projections ran to 2029 before its June debut.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar with the company's financials. That compares with the $47 billion run rate Anthropic publicized as recently as May, and it's the number underpinning how bankers are pricing what could be one of the largest listings on record.",
+      "Four sources told Reuters that bankers and investors are applying enterprise value-to-revenue multiples to forecasts, and reaching two years forward. Revenue multiples are standard for high-growth software without a mature profit profile.",
+      "Three public companies are serving as comparables ahead of Anthropic's analyst day. Palantir (NASDAQ:PLTR) trades at 53x this year's expected revenue, while Cloudflare (NYSE:NET) and SpaceX (NASDAQ:SPCX) both sit at 41.6x expected 2026 revenue, per LSEG data. Cerebras (NASDAQ:CBRS) backers cited 2028 figures before its listing this year, and SpaceX projections ran to 2029 before its June debut."
+    ],
+    "html": null
+  }
+}

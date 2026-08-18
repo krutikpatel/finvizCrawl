@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/8e396492-e61b-3e32-be67-d85041de1f1e/robinhood-ventures-fund-ii.html",
+    "fetched_at": "2026-08-18T07:00:22.115571-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Ventures Fund II opens startup investing to retail",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood Markets Inc (NASDAQ:HOOD) has raised $225.5 million for a new publicly traded fund that gives everyday investors exposure to private startups.\nThe trading and investment company priced the initial public offering of Robinhood Ventures Fund II at $25 per share on the New York Stock Exchange.\nUnlike Robinhood's first venture fund, which targeted later-stage private companies, the new fund will focus on early and growth-stage startups, with particular emphasis on companies linked to Y Combinator, the Silicon Valley startup accelerator.\nY Combinator has backed more than 5,000 startups since 2005, with alumni including Coinbase, Airbnb, Stripe and OpenAI.\nRather than betting on a single winner, the fund plans to build a diversified portfolio across multiple industries.\nThe launch reflects a broader shift as companies stay private for longer, delaying the point at which retail investors can buy in.\nSarah Pinto, head of Robinhood Ventures, said the company is already developing additional venture funds as part of a longer-term push into private markets.\nThe expansion sits alongside Robinhood's wider move beyond stock trading into wealth management, retirement accounts and tokenised assets.",
+    "text_blocks": [
+      "Robinhood Markets Inc (NASDAQ:HOOD) has raised $225.5 million for a new publicly traded fund that gives everyday investors exposure to private startups.",
+      "The trading and investment company priced the initial public offering of Robinhood Ventures Fund II at $25 per share on the New York Stock Exchange.",
+      "Unlike Robinhood's first venture fund, which targeted later-stage private companies, the new fund will focus on early and growth-stage startups, with particular emphasis on companies linked to Y Combinator, the Silicon Valley startup accelerator.",
+      "Y Combinator has backed more than 5,000 startups since 2005, with alumni including Coinbase, Airbnb, Stripe and OpenAI.",
+      "Rather than betting on a single winner, the fund plans to build a diversified portfolio across multiple industries.",
+      "The launch reflects a broader shift as companies stay private for longer, delaying the point at which retail investors can buy in.",
+      "Sarah Pinto, head of Robinhood Ventures, said the company is already developing additional venture funds as part of a longer-term push into private markets.",
+      "The expansion sits alongside Robinhood's wider move beyond stock trading into wealth management, retirement accounts and tokenised assets."
+    ],
+    "html": null
+  }
+}

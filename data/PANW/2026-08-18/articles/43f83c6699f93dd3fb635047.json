@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/bca087f9-cfb1-315c-a71f-c035d50cea39/what-kept-coming-up-when.html",
+    "fetched_at": "2026-08-18T07:00:47.654252-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Kept Coming Up When Analysts Grilled CSCO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cisco is forecasting a large year of growth, but analysts on its latest call pressed on the sustainability of the boom and its cost. Here's what management's answers revealed.\nAfter a +50% run-up in six months, shares of Cisco Systems (CSCO) have cooled off, trading about 14% below their recent high. On its Q4 2026 (August 12, 2026) earnings call, management declared the start of a \"networking super cycle,\" backing it up with a forecast for 15% revenue growth next fiscal year. That number is so strong that analyst questions kept returning to two related themes: is this explosive growth a new, sustainable reality, and what is it costing the business?\nThe Growth Guide Has a 10% Problem\nThe first challenge was the most direct. If you strip out the headline-grabbing AI infrastructure sales, management's guidance implies the core business will still grow around 10%. That is double the midpoint of the company's own long-term model of 4% to 6% growth, a gap that practically invites skepticism about a cyclical peak. The worry is that this isn't a new normal, but a temporary pull-forward of demand that will leave a hole in future quarters.\nManagement's answer was a confident, panoramic view of the market. The CEO listed a confluence of powerful trends all firing at once: hyperscalers building out AI, telcos upgrading for the resulting traffic, enterprises modernizing their own networks, and a broad campus refresh cycle. The response framed the growth not as an anomaly, but as the logical outcome of a fundamental technology shift. It was an answer that laid out the strategic \"what,\" but was lighter on the specific numbers that would prove the durability of that 10% core growth.\nThe Margin Answer Had a Number In It\nIf the growth is real, the next question is what it costs. Shipping record volumes of hardware, especially to price-sensitive hyperscalers, puts immense pressure on profitability. The company's own guidance for non-GAAP gross margin in the 65%-66% range for the next quarter signals this pressure. This is the classic test of whether a company is sacrificing high-quality margin for lower-quality revenue.\nHere, the CFO's reply was direct and numbers-backed. Management acknowledged a \"slight gross margin headwind\" is coming as they ship high volumes of hardware. The key, however, is to look at operating margin, which is guided to a \"high-water mark\" of about 35% for the full year. The logic is that these large hyperscale deals require minimal additional sales expense. So even with a lower gross margin, they are highly profitable and drive significant operating leverage. This was a strong answer that conceded the premise but successfully reframed the debate around a different, and equally important, profitability metric.",
+    "text_blocks": [
+      "Cisco is forecasting a large year of growth, but analysts on its latest call pressed on the sustainability of the boom and its cost. Here's what management's answers revealed.",
+      "After a +50% run-up in six months, shares of Cisco Systems (CSCO) have cooled off, trading about 14% below their recent high. On its Q4 2026 (August 12, 2026) earnings call, management declared the start of a \"networking super cycle,\" backing it up with a forecast for 15% revenue growth next fiscal year. That number is so strong that analyst questions kept returning to two related themes: is this explosive growth a new, sustainable reality, and what is it costing the business?",
+      "The Growth Guide Has a 10% Problem",
+      "The first challenge was the most direct. If you strip out the headline-grabbing AI infrastructure sales, management's guidance implies the core business will still grow around 10%. That is double the midpoint of the company's own long-term model of 4% to 6% growth, a gap that practically invites skepticism about a cyclical peak. The worry is that this isn't a new normal, but a temporary pull-forward of demand that will leave a hole in future quarters.",
+      "Management's answer was a confident, panoramic view of the market. The CEO listed a confluence of powerful trends all firing at once: hyperscalers building out AI, telcos upgrading for the resulting traffic, enterprises modernizing their own networks, and a broad campus refresh cycle. The response framed the growth not as an anomaly, but as the logical outcome of a fundamental technology shift. It was an answer that laid out the strategic \"what,\" but was lighter on the specific numbers that would prove the durability of that 10% core growth.",
+      "The Margin Answer Had a Number In It",
+      "If the growth is real, the next question is what it costs. Shipping record volumes of hardware, especially to price-sensitive hyperscalers, puts immense pressure on profitability. The company's own guidance for non-GAAP gross margin in the 65%-66% range for the next quarter signals this pressure. This is the classic test of whether a company is sacrificing high-quality margin for lower-quality revenue.",
+      "Here, the CFO's reply was direct and numbers-backed. Management acknowledged a \"slight gross margin headwind\" is coming as they ship high volumes of hardware. The key, however, is to look at operating margin, which is guided to a \"high-water mark\" of about 35% for the full year. The logic is that these large hyperscale deals require minimal additional sales expense. So even with a lower gross margin, they are highly profitable and drive significant operating leverage. This was a strong answer that conceded the premise but successfully reframed the debate around a different, and equally important, profitability metric."
+    ],
+    "html": null
+  }
+}

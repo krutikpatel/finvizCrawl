@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/metas-latest-legal-fight-could-115935607.html",
+    "fetched_at": "2026-08-18T07:00:13.367402-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta's Latest Legal Fight Could Get Expensive",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms Inc. (META, Financials), the social media company, is facing another major legal test as opening arguments begin in a federal child-safety trial in California.\nThe attorneys general of California, Colorado, Kentucky and New Jersey are seeking financial damages and changes to the way Facebook and Instagram operate.\nThe lawsuit argues that Meta intentionally built elements that led to juvenile addiction and that it collected data from children under 13 without parental authorization. Meta has denied the allegations, saying it has invested extensively in protections for teens.\nThe trial is likely to take six to eight weeks and may involve testimony from CEO Mark Zuckerberg and other current and former executives.\nTiming is everything for investors. Meta had $2.4 billion in legal fees in the latest quarter, helping to cause an unusual decrease in profit. Another bad verdict might raise costs and potentially require modifications to product design or data procedures.\nThe biggest risk for investors is more than just another legal expenditure. It's whether an increasing number of child-safety issues starts to constrain how Meta runs its main platforms.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms Inc. (META, Financials), the social media company, is facing another major legal test as opening arguments begin in a federal child-safety trial in California.",
+      "The attorneys general of California, Colorado, Kentucky and New Jersey are seeking financial damages and changes to the way Facebook and Instagram operate.",
+      "The lawsuit argues that Meta intentionally built elements that led to juvenile addiction and that it collected data from children under 13 without parental authorization. Meta has denied the allegations, saying it has invested extensively in protections for teens.",
+      "The trial is likely to take six to eight weeks and may involve testimony from CEO Mark Zuckerberg and other current and former executives.",
+      "Timing is everything for investors. Meta had $2.4 billion in legal fees in the latest quarter, helping to cause an unusual decrease in profit. Another bad verdict might raise costs and potentially require modifications to product design or data procedures.",
+      "The biggest risk for investors is more than just another legal expenditure. It's whether an increasing number of child-safety issues starts to constrain how Meta runs its main platforms."
+    ],
+    "html": null
+  }
+}

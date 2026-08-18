@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/tesla-tests-cybercab-employees-first-120014878.html",
+    "fetched_at": "2026-08-18T07:00:05.957849-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Tests Cybercab on Employees First in Austin Rollout",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) has told employees it is preparing a public launch of Cybercab in Austin as soon as this month, The Information reported, citing people with knowledge of the plans. Tesla shares were down 1.41% premarket.\nThe sequence, according to that report, starts with rides for Tesla employees on public roads, followed a few days later by Cybercabs entering the robotaxi service in Austin. Groundwork over recent weeks has included test driving, employee rides on private roads, and training sessions with local first responders.\nCybercab is built without a steering wheel or pedals, which makes it the vehicle Tesla's robotaxi fleet ambitions depend on. Tesla began testing the production version on public roads in June, and production is expected to ramp later this year.\nTesla did not respond to Reuters' request for comment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) has told employees it is preparing a public launch of Cybercab in Austin as soon as this month, The Information reported, citing people with knowledge of the plans. Tesla shares were down 1.41% premarket.",
+      "The sequence, according to that report, starts with rides for Tesla employees on public roads, followed a few days later by Cybercabs entering the robotaxi service in Austin. Groundwork over recent weeks has included test driving, employee rides on private roads, and training sessions with local first responders.",
+      "Cybercab is built without a steering wheel or pedals, which makes it the vehicle Tesla's robotaxi fleet ambitions depend on. Tesla began testing the production version on public roads in June, and production is expected to ramp later this year.",
+      "Tesla did not respond to Reuters' request for comment."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sandisk-bofa-reveals-stock-111430153.html",
+    "fetched_at": "2026-08-18T07:00:10.516685-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Mega-cap technology stocks remain under-owned by active institutional investors relative to their weighting in the S&P 500, and that gap widened in the second quarter, according to Morgan Stanley's latest large-cap institutional ownership tracker. The analysis covers 28 large-cap technology companies within Morgan Stanley's U.S. technology equity research coverage.\nThe spread between institutional ownership and S&P 500 weighting for mega-cap tech names widened to -129 basis points exiting the second quarter, from -125 basis points at the end of the first quarter. The data is based on 13F filings tracking the top 100 actively managed institutional portfolios.\nNvidia remains the most under-owned large-cap tech stock, with the gap between its S&P 500 weighting and institutional ownership widening by 14 basis points quarter-over-quarter to -2.53%, near all-time highs. Apple follows at -2.33%, then Microsoft at -1.54% and Amazon at -1.29%.\nOutside of the seven mega-cap names, the remaining 21 large-cap tech stocks tracked are modestly over-owned, with the spread at +39 basis points, up from +32 basis points in the first quarter, Morgan Stanley noted.\nAt the stock level, Sandisk stands out as the most \"over-owned\" large-cap tech name, with a gap of +2.30% versus its S&P 500 weighting, about 1.5 times that of KLA, the next most over-owned stock. Sandisk's institutional ownership has been climbing steadily since its re-listing in the first quarter of 2025, and the premium has persisted even after its inclusion in the S&P 500 in the fourth quarter of last year.\nLam Research and Western Digital also rank among the most over-owned.\n\"Institutional active manager ownership remains notably high (vs. the S&P 500) in large cap memory/storage-related names... but notably low in software stocks,\" including IBM, Oracle, Palo Alto Networks, ServiceNow and Adobe, Morgan Stanley said. The bank sees this as \"a continued clear institutional bias towards AI 'picks and shovels' / bottlenecks.\"\nAfter adjusting for market cap and earnings beats, there is \"a statistically significant relationship between low active ownership relative to the S&P 500 and future stock performance,\" the firm continued, with under-owned stocks tending to see a technical pull higher, and over-owned stocks the reverse.\nRelated articles\nNvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded\nCiti pushes back Fed rate cuts to May after blowout January jobs report",
+    "text_blocks": [
+      "Investing.com -- Mega-cap technology stocks remain under-owned by active institutional investors relative to their weighting in the S&P 500, and that gap widened in the second quarter, according to Morgan Stanley's latest large-cap institutional ownership tracker. The analysis covers 28 large-cap technology companies within Morgan Stanley's U.S. technology equity research coverage.",
+      "The spread between institutional ownership and S&P 500 weighting for mega-cap tech names widened to -129 basis points exiting the second quarter, from -125 basis points at the end of the first quarter. The data is based on 13F filings tracking the top 100 actively managed institutional portfolios.",
+      "Nvidia remains the most under-owned large-cap tech stock, with the gap between its S&P 500 weighting and institutional ownership widening by 14 basis points quarter-over-quarter to -2.53%, near all-time highs. Apple follows at -2.33%, then Microsoft at -1.54% and Amazon at -1.29%.",
+      "Outside of the seven mega-cap names, the remaining 21 large-cap tech stocks tracked are modestly over-owned, with the spread at +39 basis points, up from +32 basis points in the first quarter, Morgan Stanley noted.",
+      "At the stock level, Sandisk stands out as the most \"over-owned\" large-cap tech name, with a gap of +2.30% versus its S&P 500 weighting, about 1.5 times that of KLA, the next most over-owned stock. Sandisk's institutional ownership has been climbing steadily since its re-listing in the first quarter of 2025, and the premium has persisted even after its inclusion in the S&P 500 in the fourth quarter of last year.",
+      "Lam Research and Western Digital also rank among the most over-owned.",
+      "\"Institutional active manager ownership remains notably high (vs. the S&P 500) in large cap memory/storage-related names... but notably low in software stocks,\" including IBM, Oracle, Palo Alto Networks, ServiceNow and Adobe, Morgan Stanley said. The bank sees this as \"a continued clear institutional bias towards AI 'picks and shovels' / bottlenecks.\"",
+      "After adjusting for market cap and earnings beats, there is \"a statistically significant relationship between low active ownership relative to the S&P 500 and future stock performance,\" the firm continued, with under-owned stocks tending to see a technical pull higher, and over-owned stocks the reverse.",
+      "Related articles",
+      "Nvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report"
+    ],
+    "html": null
+  }
+}

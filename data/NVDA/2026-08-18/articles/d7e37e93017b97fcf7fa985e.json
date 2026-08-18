@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/fabrinet-earnings-stock-price-nvidia-9aec8720?mod=bar_FV",
+    "fetched_at": "2026-08-18T07:00:39.170806-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This Nvidia Supplier Is Seeing Endless Data-Center Demand. Why Fabrinet Stock Is Sinking.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This Nvidia Supplier Is Seeing Endless Data-Center Demand. Why the Stock Is Sinking.\nShares of Fabrinet tumbled Tuesday as artificial-intelligence companies were under pressure and investors were concerned about some of the data-center component supplier’s business segments that outweighed a strong quarterly earnings report and guidance that was above estimates.",
+    "text_blocks": [
+      "This Nvidia Supplier Is Seeing Endless Data-Center Demand. Why the Stock Is Sinking.",
+      "Shares of Fabrinet tumbled Tuesday as artificial-intelligence companies were under pressure and investors were concerned about some of the data-center component supplier’s business segments that outweighed a strong quarterly earnings report and guidance that was above estimates."
+    ],
+    "html": null
+  }
+}

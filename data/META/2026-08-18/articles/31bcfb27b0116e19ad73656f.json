@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-gets-major-ai-115719809.html",
+    "fetched_at": "2026-08-18T07:00:13.582231-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell Stock Gets a Major AI Boost: UBS Sees Billions in New Revenue Ahead",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL) is approaching its Aug. 27 quarterly report with UBS pointing to several areas that could support growth as cloud companies increase spending on AI infrastructure.\nUBS analyst Timothy Arcuri said recent spending plans from Google, Meta and Amazon indicate that demand for AI-related infrastructure remains elevated. He also sees continued strength in Nvidia's Blackwell systems and an expected ramp of its Rubin platform as potential positives for Marvell's optical products.\nThe analyst also sees room for Marvell's custom ASIC business to outperform current expectations. Its work with Microsoft could generate another $1 billion to $2 billion in revenue if procurement rises beyond 1 million units, on top of roughly $2 billion already included in the company's guidance.\nArcuri also highlighted Marvell's CXL program at Google, where higher chip content could provide another source of growth. UBS expects switching revenue to approach $1.2 billion in 2027, compared with management's earlier view of about $1 billion. The firm continues to see long-term potential despite Marvell's valuation being above historical levels.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL) is approaching its Aug. 27 quarterly report with UBS pointing to several areas that could support growth as cloud companies increase spending on AI infrastructure.",
+      "UBS analyst Timothy Arcuri said recent spending plans from Google, Meta and Amazon indicate that demand for AI-related infrastructure remains elevated. He also sees continued strength in Nvidia's Blackwell systems and an expected ramp of its Rubin platform as potential positives for Marvell's optical products.",
+      "The analyst also sees room for Marvell's custom ASIC business to outperform current expectations. Its work with Microsoft could generate another $1 billion to $2 billion in revenue if procurement rises beyond 1 million units, on top of roughly $2 billion already included in the company's guidance.",
+      "Arcuri also highlighted Marvell's CXL program at Google, where higher chip content could provide another source of growth. UBS expects switching revenue to approach $1.2 billion in 2027, compared with management's earlier view of about $1 billion. The firm continues to see long-term potential despite Marvell's valuation being above historical levels."
+    ],
+    "html": null
+  }
+}

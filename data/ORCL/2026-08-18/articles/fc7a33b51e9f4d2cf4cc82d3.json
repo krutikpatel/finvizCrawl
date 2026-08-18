@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/fa2dee76-0129-399e-a96f-c006daaef282/microsoft%27s-cloud-pitch-moved.html",
+    "fetched_at": "2026-08-18T07:00:25.413725-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft's Cloud Pitch Moved From Migrations To Meters",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Management no longer opens on cloud migrations, and what replaced them is billed in a different way.\nTwo years of earnings calls have quietly changed the subject at Microsoft (MSFT). The growth story used to lead with moving customers' existing workloads into its cloud. It now leads with agents, model choice, and a usage meter. The pivot is working, and it changed the shape of the revenue a shareholder owns.\nMigrations Were A Named Growth Driver A Year Ago\nOn the fiscal 2025 first-quarter call the CEO described continued growth in cloud migration, and on the fiscal 2025 fourth-quarter call migrations were accelerating again. By the fiscal 2026 fourth-quarter results, cloud migration no longer leads the prepared remarks, which turn first to the AI platform and infrastructure. Its place has been taken by agents as the workload, inside a model system in which any single model is substitutable. The base is large: Microsoft Cloud passed $168 billion of annual revenue in fiscal 2025, up 23%, and $214 billion in fiscal 2026, up 27%. Company revenue for fiscal 2026 surpassed $331 billion, up 18%. The cloud grew faster even as management changed the driver it credits.\nPer Seat Plus Consumption Is A Different Revenue Shape\nAs Microsoft shifted toward usage-based pricing during the quarter, Copilot revenue on GitHub accelerated over 60% quarter over quarter. That same usage weighed on Intelligent Cloud gross margin, though management says margins improved through the quarter with that business model change. Azure's usage revenue is capacity-bound: management says demand still runs ahead of available capacity. The seat engine underneath is slower, with paid M365 Commercial seats up 6% year over year against 14% reported M365 Commercial cloud revenue growth in the same quarter, so the incremental dollars come from usage and premium suites on the existing base.\nThe Quiet Side Is The On-Premises Server Business\nOne reason the migration line went quiet sits in the business those migrations came from. Revenue in the on-premises server business was roughly unchanged year over year in the fiscal 2026 fourth quarter, down 1% in constant currency. Management guides it down in the low to mid single digits in fiscal Q1 2027 on an ongoing customer shift to cloud offerings and a prior-year comparable.\nThe shift itself has not stopped; it has stopped being the headline. The company-level numbers show no strain: trailing-twelve-month revenue growth accelerated to 17.8%, and net margin sits at 40.3%, its own three-year peak. Sustained growth with strong margins of that kind is what holdings in the Trefis High Quality Portfolio have in common.",
+    "text_blocks": [
+      "Management no longer opens on cloud migrations, and what replaced them is billed in a different way.",
+      "Two years of earnings calls have quietly changed the subject at Microsoft (MSFT). The growth story used to lead with moving customers' existing workloads into its cloud. It now leads with agents, model choice, and a usage meter. The pivot is working, and it changed the shape of the revenue a shareholder owns.",
+      "Migrations Were A Named Growth Driver A Year Ago",
+      "On the fiscal 2025 first-quarter call the CEO described continued growth in cloud migration, and on the fiscal 2025 fourth-quarter call migrations were accelerating again. By the fiscal 2026 fourth-quarter results, cloud migration no longer leads the prepared remarks, which turn first to the AI platform and infrastructure. Its place has been taken by agents as the workload, inside a model system in which any single model is substitutable. The base is large: Microsoft Cloud passed $168 billion of annual revenue in fiscal 2025, up 23%, and $214 billion in fiscal 2026, up 27%. Company revenue for fiscal 2026 surpassed $331 billion, up 18%. The cloud grew faster even as management changed the driver it credits.",
+      "Per Seat Plus Consumption Is A Different Revenue Shape",
+      "As Microsoft shifted toward usage-based pricing during the quarter, Copilot revenue on GitHub accelerated over 60% quarter over quarter. That same usage weighed on Intelligent Cloud gross margin, though management says margins improved through the quarter with that business model change. Azure's usage revenue is capacity-bound: management says demand still runs ahead of available capacity. The seat engine underneath is slower, with paid M365 Commercial seats up 6% year over year against 14% reported M365 Commercial cloud revenue growth in the same quarter, so the incremental dollars come from usage and premium suites on the existing base.",
+      "The Quiet Side Is The On-Premises Server Business",
+      "One reason the migration line went quiet sits in the business those migrations came from. Revenue in the on-premises server business was roughly unchanged year over year in the fiscal 2026 fourth quarter, down 1% in constant currency. Management guides it down in the low to mid single digits in fiscal Q1 2027 on an ongoing customer shift to cloud offerings and a prior-year comparable.",
+      "The shift itself has not stopped; it has stopped being the headline. The company-level numbers show no strain: trailing-twelve-month revenue growth accelerated to 17.8%, and net margin sits at 40.3%, its own three-year peak. Sustained growth with strong margins of that kind is what holdings in the Trefis High Quality Portfolio have in common."
+    ],
+    "html": null
+  }
+}
