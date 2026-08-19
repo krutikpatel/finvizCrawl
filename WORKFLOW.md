@@ -164,15 +164,19 @@ Output (`sentiment_summary.json`):
 
 After all summaries are rebuilt, `scripts/generate_dashboard.py` produces `dashboard.html` — a self-contained, zero-dependency HTML file that opens in any browser.
 
-**Script:** `scripts/generate_dashboard.py --tickers "..." --date YYYY-MM-DD --data-dir data --output dashboard.html`
+**Script:** `scripts/generate_dashboard.py --tickers "..." --date YYYY-MM-DD --data-dir data --reports-dir monitor/reports --output dashboard.html`
 
-The file has three sections:
+The file has five sections:
 
-**1. Today's Snapshot** — compact table: ticker, today's sentiment (color-coded), today's score avg, article count.
+**1. Today's Snapshot** — compact table: ticker, today's sentiment (color-coded), today's score avg, and article count. When article sentiment is unavailable, today’s monitor sentiment and scraped article count are shown instead.
 
-**2. Score by Day** — one row per ticker showing all-time sentiment + the last 7 dates that appear across any ticker's history. Each date cell is color-coded by that day's sentiment. Missing dates (ticker had no data) show `—`.
+**2. Score by Day** — one row per ticker showing all-time sentiment + the last 7 dates that appear across any ticker's history. Each date cell is color-coded by that day's sentiment. The current day falls back to monitor sentiment mapped from 1–5 to −1.0–+1.0 when article sentiment is unavailable.
 
-**3. Today's Headlines** — one block per ticker, reading directly from `sentiment_log.jsonl` (not from `sentiment_summary.json`):
+**3. Fundamentals** — signal scores and key statistics from today’s monitor ledger entry, with the Finviz quote snapshot used when no monitor entry exists.
+
+**4. Today's Monitor Reports** — one row per ticker with a daily verdict, monitor sentiment score, price, action zone, and a link to the full report under `monitor/reports/`.
+
+**5. Today's Headlines** — one block per ticker, reading directly from `sentiment_log.jsonl` (not from `sentiment_summary.json`):
 - Filtered to records where `run_date == today`
 - Sorted by `analyzed_at` descending — newest articles first
 - Up to **10** per ticker
@@ -187,8 +191,11 @@ Color scheme: green (`#dcfce7`) = bullish, red (`#fee2e2`) = bearish, grey (`#f3
   --tickers "TSLA AAPL META MU ENPH HOOD ORCL GOOG MSFT" \
   --date 2026-06-11 \
   --data-dir data \
+  --reports-dir monitor/reports \
   --output dashboard.html
 ```
+
+The daily monitor runner regenerates the dashboard after its reports finish, so it reflects monitor verdicts produced after the morning workflow scrape.
 
 ---
 

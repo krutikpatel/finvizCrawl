@@ -231,6 +231,7 @@ if [ "$ANYTHING_STAGED" = true ]; then
         --tickers "$TICKERS" \
         --date "$DATE" \
         --data-dir "$PROJECT_DIR/data" \
+        --reports-dir "$PROJECT_DIR/monitor/reports" \
         --output "$PROJECT_DIR/dashboard.html" >> "$LOG" 2>&1; then
         log "dashboard OK"
         git -C "$PROJECT_DIR" add "$PROJECT_DIR/dashboard.html" 2>/dev/null || true

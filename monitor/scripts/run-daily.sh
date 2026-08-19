@@ -292,10 +292,26 @@ for ticker in $TICKERS; do
     fi
 done
 
+# Refresh the dashboard after monitor reports are available so it reflects
+# today's verdicts instead of only the earlier workflow scrape.
+if [ -f "$REPO_ROOT/scripts/generate_dashboard.py" ]; then
+    log "generating dashboard.html from today's monitor reports..."
+    if "$PYTHON" "$REPO_ROOT/scripts/generate_dashboard.py" \
+        --tickers "$TICKERS" \
+        --date "$TODAY" \
+        --data-dir "$REPO_ROOT/data" \
+        --reports-dir "$REPORTS_DIR" \
+        --output "$REPO_ROOT/dashboard.html" >> "$LOG" 2>&1; then
+        log "dashboard OK"
+    else
+        log "dashboard generation failed"
+    fi
+fi
+
 if [ "$AUTO_GIT_COMMIT" = "true" ]; then
     cd "$REPO_ROOT"
-    if [ -n "$(git status --porcelain "$REPORTS_DIR" 2>/dev/null)" ]; then
-        git add "$REPORTS_DIR"
+    if [ -n "$(git status --porcelain "$REPORTS_DIR" dashboard.html 2>/dev/null)" ]; then
+        git add "$REPORTS_DIR" dashboard.html
         git commit -m "$GIT_MSG_PREFIX Daily sentinel $TODAY — $TICKERS" --quiet
         log "git: committed report changes"
         if git push >> "$LOG" 2>&1; then

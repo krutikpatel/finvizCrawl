@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate dashboard.html from per-ticker sentiment_summary.json + finviz_quote.json files."""
+"""Generate dashboard.html from sentiment, quote, and monitor report data."""
 from __future__ import annotations
 
 import argparse
@@ -67,6 +67,81 @@ def _load_today_headlines(data_root: Path, ticker: str, date: str) -> list[dict]
             pass
     records.sort(key=lambda r: r.get("analyzed_at", ""), reverse=True)
     return records[:MAX_HEADLINES]
+
+
+def _load_scraped_news_count(data_root: Path, ticker: str, date: str) -> int:
+    news_file = data_root / ticker / date / "finviz_news.json"
+    if not news_file.exists():
+        return 0
+    try:
+        payload = json.loads(news_file.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return 0
+    return len(payload.get("items", [])) if isinstance(payload, dict) else 0
+
+
+def _load_monitor_entry(reports_root: Path, ticker: str, date: str) -> dict | None:
+    """Read the structured LEDGER_ENTRY embedded in today's monitor report."""
+    report = reports_root / ticker / "daily" / f"{date}.md"
+    if not report.exists():
+        return None
+    text = report.read_text(encoding="utf-8")
+    marker = "```json LEDGER_ENTRY"
+    start = text.find(marker)
+    if start < 0:
+        return None
+    start += len(marker)
+    end = text.find("```", start)
+    if end < 0:
+        return None
+    try:
+        entry = json.loads(text[start:end].strip())
+    except json.JSONDecodeError:
+        return None
+    return entry if isinstance(entry, dict) else None
+
+
+def _verdict_class(verdict: str) -> str:
+    value = verdict.lower()
+    if any(word in value for word in ("buy", "accumulate")):
+        return "bull"
+    if any(word in value for word in ("sell", "trim", "avoid")):
+        return "bear"
+    return "neut"
+
+
+def _monitor_score(sentiment: object) -> float | None:
+    if not isinstance(sentiment, (int, float)):
+        return None
+    return round(max(-1.0, min(1.0, (float(sentiment) - 3.0) / 2.0)), 3)
+
+
+def _score_sentiment(score: float | None) -> str:
+    if score is None:
+        return "neutral"
+    if score > 0.1:
+        return "bullish"
+    if score < -0.1:
+        return "bearish"
+    return "neutral"
+
+
+def _action_zone(entry: dict) -> str:
+    price = entry.get("price")
+    zones = entry.get("action_zones") or {}
+    if not isinstance(price, (int, float)):
+        return "—"
+    accumulate = zones.get("accumulate_range")
+    hold = zones.get("hold_range")
+    if isinstance(accumulate, list) and len(accumulate) == 2 and price <= accumulate[1]:
+        return "Accumulate"
+    if isinstance(hold, list) and len(hold) == 2 and price <= hold[1]:
+        return "Hold"
+    if price >= zones.get("avoid_above", float("inf")):
+        return "Avoid"
+    if price >= zones.get("trim_above", float("inf")):
+        return "Trim"
+    return "—"
 
 
 # ── Sparkline ─────────────────────────────────────────────────────────────────
@@ -296,9 +371,100 @@ def compute_fundamental(data_root: Path, ticker: str) -> dict | None:
     }
 
 
+def compute_monitor_fundamental(entry: dict) -> dict:
+    """Build the fundamentals row from the monitor's structured daily entry."""
+    momentum_scores = []
+    momentum_parts = []
+    for key, label in (("vs_sma20", "SMA20"), ("vs_sma50", "SMA50"), ("vs_sma200", "SMA200")):
+        value = entry.get(key)
+        if value == "above":
+            momentum_scores.append(1.0)
+            momentum_parts.append(f"{label} above")
+        elif value == "below":
+            momentum_scores.append(-1.0)
+            momentum_parts.append(f"{label} below")
+    momentum_s = round(sum(momentum_scores) / len(momentum_scores), 3) if momentum_scores else None
+    momentum_d = " | ".join(momentum_parts) if momentum_parts else "—"
+
+    range_s = None
+    range_d = "—"
+    below_high = entry.get("pct_from_w52_high")
+    above_low = entry.get("pct_from_w52_low")
+    if isinstance(below_high, (int, float)) and isinstance(above_low, (int, float)):
+        total = abs(below_high) + above_low
+        if total:
+            position = above_low / total
+            range_s = round(position * 2 - 1, 3)
+            range_d = f"{position * 100:.0f}% of range"
+
+    analyst_map = {"strong buy": 1.0, "buy": 0.7, "hold": 0.0, "sell": -0.7, "strong sell": -1.0}
+    analyst_value = str(entry.get("analyst_consensus") or "").lower()
+    analyst_s = analyst_map.get(analyst_value)
+    analyst_d = entry.get("analyst_consensus") or "—"
+    recom_map = {"strong buy": 1.0, "buy": 2.0, "hold": 3.0, "sell": 4.0, "strong sell": 5.0}
+    target = entry.get("target_price")
+    price = entry.get("price")
+    if isinstance(target, (int, float)) and isinstance(price, (int, float)) and price > 0:
+        upside = (target - price) / price * 100
+        target_s = _clamp(upside / 25)
+        analyst_s = target_s if analyst_s is None else round((analyst_s + target_s) / 2, 3)
+        analyst_d = f"{analyst_d}; target {upside:+.1f}%"
+
+    short_float = entry.get("short_float_pct")
+    short_s = round(_clamp(-short_float / 20), 3) if isinstance(short_float, (int, float)) else None
+    short_d = f"{short_float:.1f}% short float" if isinstance(short_float, (int, float)) else "—"
+
+    rsi = entry.get("rsi")
+    rsi_s = round(_clamp((50 - rsi) / 20), 3) if isinstance(rsi, (int, float)) else None
+    rsi_d = f"RSI {rsi:.1f}" if isinstance(rsi, (int, float)) else "—"
+
+    earnings_scores = []
+    earnings_parts = []
+    for key, label, scale in (("eps_growth_yoy", "EPS growth", 30.0), ("revenue_growth_yoy", "Revenue growth", 20.0)):
+        value = entry.get(key)
+        if isinstance(value, (int, float)):
+            earnings_scores.append(_clamp(value / scale))
+            earnings_parts.append(f"{label} {value:+.1f}%")
+    earnings_s = round(sum(earnings_scores) / len(earnings_scores), 3) if earnings_scores else None
+    earnings_d = " | ".join(earnings_parts) if earnings_parts else "—"
+
+    component_scores = [momentum_s, range_s, analyst_s, short_s, rsi_s, earnings_s]
+    valid = [score for score in component_scores if score is not None]
+    overall = round(sum(valid) / len(valid), 3) if valid else None
+    return {
+        "quote_date": entry.get("date", "—"),
+        "overall": overall,
+        "sentiment": _score_sentiment(overall),
+        "components": {
+            "momentum": {"score": momentum_s, "detail": momentum_d},
+            "52w_range": {"score": range_s, "detail": range_d},
+            "analyst": {"score": analyst_s, "detail": analyst_d},
+            "short": {"score": short_s, "detail": short_d},
+            "rsi": {"score": rsi_s, "detail": rsi_d},
+            "earnings": {"score": earnings_s, "detail": earnings_d},
+        },
+        "key_stats": {
+            "pe": entry.get("pe"),
+            "forward_pe": entry.get("fwd_pe"),
+            "short_float": short_float,
+            "rsi": rsi,
+            "recom": recom_map.get(analyst_value),
+            "target": target,
+            "price": price,
+            "beta": entry.get("beta"),
+        },
+    }
+
+
 # ── Dashboard assembly ────────────────────────────────────────────────────────
 
-def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> None:
+def generate(
+    tickers: list[str],
+    date: str,
+    data_root: Path,
+    output: Path,
+    reports_root: Path,
+) -> None:
     now = datetime.now(PACIFIC_TZ)
     h   = html_lib.escape
 
@@ -309,18 +475,40 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
         if s:
             summaries[t] = s
 
+    monitor_entries = {
+        t: entry
+        for t in tickers
+        if (entry := _load_monitor_entry(reports_root, t, date)) is not None
+    }
+
     date_map:  dict[str, dict] = {}
     all_dates: set[str]        = set()
     for t, s in summaries.items():
         date_map[t] = {e["date"]: e for e in s.get("by_date", [])}
         all_dates.update(date_map[t])
 
+    # Monitor sentiment is the current-day fallback when article sentiment is
+    # disabled or has not been rebuilt yet. It is mapped from 1-5 to -1..+1.
+    for ticker, monitor_entry in monitor_entries.items():
+        monitor_score = _monitor_score(monitor_entry.get("sentiment"))
+        date_map.setdefault(ticker, {})
+        if date not in date_map[ticker]:
+            date_map[ticker][date] = {
+                "date": date,
+                "sentiment": _score_sentiment(monitor_score),
+                "score_avg": monitor_score,
+                "articles_analyzed": _load_scraped_news_count(data_root, ticker, date),
+                "source": "monitor",
+                "monitor_sentiment": monitor_entry.get("sentiment"),
+            }
+            all_dates.add(date)
+
     recent_dates = sorted(all_dates, reverse=True)[:7]
 
     # Load fundamental data
     fundamentals: dict[str, dict] = {}
     for t in tickers:
-        f = compute_fundamental(data_root, t)
+        f = compute_monitor_fundamental(monitor_entries[t]) if t in monitor_entries else compute_fundamental(data_root, t)
         if f:
             fundamentals[t] = f
 
@@ -328,13 +516,13 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
     today_rows = ""
     for ticker in tickers:
         summary = summaries.get(ticker)
-        if not summary:
+        entry = date_map.get(ticker, {}).get(date)
+        if not summary and not entry:
             today_rows += (
                 f"<tr><td><strong>{ticker}</strong></td>"
                 f'<td colspan="3" class="missing">no data</td></tr>\n'
             )
             continue
-        entry = date_map.get(ticker, {}).get(date)
         if entry:
             sent  = entry.get("sentiment", "neutral")
             score = entry.get("score_avg")
@@ -342,10 +530,11 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
         else:
             sent, score, count = "neutral", None, 0
         sc = _cls(sent)
+        source = " monitor" if entry and entry.get("source") == "monitor" else ""
         today_rows += (
             f"<tr>"
             f"<td><strong>{ticker}</strong></td>"
-            f'<td class="{sc}">{sent}</td>'
+            f'<td class="{sc}">{sent}{source}</td>'
             f"<td>{_score_html(score)}</td>"
             f'<td style="text-align:center">{count or "—"}</td>'
             f"</tr>\n"
@@ -439,6 +628,31 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
             + f"</tr>\n"
         )
 
+    # ── Today's monitor reports ──────────────────────────────────────────────
+    monitor_rows = ""
+    for ticker in tickers:
+        entry = monitor_entries.get(ticker)
+        if not entry:
+            continue
+        verdict = str(entry.get("verdict") or "—")
+        sentiment = entry.get("sentiment")
+        sentiment_text = f"{sentiment}/5" if sentiment is not None else "—"
+        price = entry.get("price")
+        price_text = f"${price:,.2f}" if isinstance(price, (int, float)) else "—"
+        report_href = f"monitor/reports/{ticker}/daily/{date}.md"
+        monitor_rows += (
+            f"<tr>"
+            f"<td><strong>{ticker}</strong></td>"
+            f'<td class="{_verdict_class(verdict)}">{h(verdict)}</td>'
+            f'<td style="text-align:center">{h(sentiment_text)}</td>'
+            f'<td style="text-align:right">{price_text}</td>'
+            f"<td>{h(_action_zone(entry))}</td>"
+            f'<td><a href="{report_href}">Open report</a></td>'
+            f"</tr>\n"
+        )
+    if not monitor_rows:
+        monitor_rows = '<tr><td colspan="6" class="missing">No monitor reports generated today.</td></tr>\n'
+
     # ── Today's headlines per ticker ──────────────────────────────────────────
     headlines_html = ""
     for ticker in tickers:
@@ -459,10 +673,17 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
             today_sign  = "+" if today_score >= 0 else ""
             today_count = entry.get("articles_analyzed", 0)
             sc_today    = _cls(today_sent)
-            subtitle    = (
-                f'Today: <span class="{sc_today}">{today_sent} {today_sign}{today_score:.2f}</span>'
-                f" &middot; {today_count} articles"
-            )
+            if entry.get("source") == "monitor":
+                monitor_sentiment = entry.get("monitor_sentiment", "—")
+                subtitle = (
+                    f'Monitor: <span class="{sc_today}">{today_sent} {today_sign}{today_score:.2f}</span>'
+                    f" ({monitor_sentiment}/5) &middot; {today_count} scraped articles"
+                )
+            else:
+                subtitle = (
+                    f'Today: <span class="{sc_today}">{today_sent} {today_sign}{today_score:.2f}</span>'
+                    f" &middot; {today_count} analyzed articles"
+                )
         else:
             subtitle = '<span class="missing">no articles today</span>'
 
@@ -533,6 +754,7 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
   .missing {{ color: #d1d5db; }}
   .pub {{ color: #9ca3af; font-size: 0.78rem; }}
   .summary-cell {{ color: #4b5563; font-size: 0.82rem; max-width: 480px; }}
+  a {{ color: #2563eb; }}
   .section-note {{ color: #9ca3af; font-size: 0.78rem; margin: 0.1rem 0 0.6rem; }}
 </style>
 </head>
@@ -542,6 +764,7 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
 <p class="meta">Generated {ts} &nbsp;&middot;&nbsp; {n} of {len(tickers)} tickers with data</p>
 
 <h2>News &mdash; Today&rsquo;s Snapshot</h2>
+<p class="section-note">Uses article sentiment when available; otherwise falls back to today&rsquo;s monitor sentiment and scraped article count.</p>
 <table>
   <thead><tr><th>Ticker</th><th>Sentiment</th><th>Score</th><th>Articles</th></tr></thead>
   <tbody>
@@ -549,6 +772,7 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
 </table>
 
 <h2>News &mdash; Score by Day (newest &rarr; oldest)</h2>
+<p class="section-note">Today&rsquo;s monitor sentiment is mapped from 1&ndash;5 to the dashboard&rsquo;s −1.0 to +1.0 scale when article sentiment is unavailable.</p>
 <table>
   <thead><tr>
     <th>Ticker</th><th>Trend (all history)</th><th>All-time</th>{date_headers}
@@ -578,6 +802,14 @@ def generate(tickers: list[str], date: str, data_root: Path, output: Path) -> No
 {fund_rows}  </tbody>
 </table>
 
+<h2>Monitor &mdash; Today&rsquo;s Reports</h2>
+<p class="section-note">Daily monitor verdicts generated from the latest structured report entries.</p>
+<table>
+  <thead><tr><th>Ticker</th><th>Verdict</th><th>Sentiment</th><th>Price</th><th>Zone</th><th>Report</th></tr></thead>
+  <tbody>
+{monitor_rows}  </tbody>
+</table>
+
 <h2>News &mdash; Today&rsquo;s Headlines (latest first, up to {MAX_HEADLINES} per ticker)</h2>
 {headlines_html}
 </body>
@@ -592,6 +824,7 @@ def main() -> None:
     parser.add_argument("--tickers",  required=True, help="Space-separated ticker list")
     parser.add_argument("--date",     required=True, help="Today's date YYYY-MM-DD")
     parser.add_argument("--data-dir", default="data")
+    parser.add_argument("--reports-dir", default="monitor/reports")
     parser.add_argument("--output",   default="dashboard.html")
     args = parser.parse_args()
 
@@ -600,6 +833,7 @@ def main() -> None:
         date=args.date,
         data_root=Path(args.data_dir),
         output=Path(args.output),
+        reports_root=Path(args.reports_dir),
     )
 
 

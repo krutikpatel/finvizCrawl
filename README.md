@@ -136,7 +136,7 @@ When enabled, the analysis step uses the `claude` CLI at `/opt/homebrew/bin/clau
 ### Management commands
 
 ```bash
-make workflow-install     # register the launchd job (runs at 8 AM + 4 PM local time)
+make workflow-install     # register the launchd job (runs at 7 AM weekdays)
 make workflow-uninstall   # remove the launchd job
 make workflow-status      # check whether the job is currently registered
 make workflow-logs        # tail today's workflow log
@@ -155,7 +155,7 @@ Or use the helper script directly:
 
 ### Schedule
 
-The launchd plist (`scripts/com.finzwiz.workflow.plist`) fires at **8:00 AM and 4:00 PM system local time**. It is installed to `~/Library/LaunchAgents/com.finzwiz.workflow.plist`.
+The launchd plist (`scripts/com.finzwiz.workflow.plist`) fires at **7:00 AM Monday–Friday system local time**. It is installed to `~/Library/LaunchAgents/com.finzwiz.workflow.plist`.
 
 If the Mac is asleep at a scheduled time, launchd **will not** run missed jobs automatically — the next scheduled slot will trigger instead. To run a missed execution manually: `make run-workflow`.
 
@@ -285,10 +285,24 @@ Or call the helper directly:
 
 | Job | Schedule | plist |
 |---|---|---|
-| Daily sentinel | 9:00 AM local time, Mon–Fri | `monitor/com.finzwiz.monitor.plist` → `~/Library/LaunchAgents/` |
+| Daily sentinel | 8:00 AM local time, daily | `monitor/com.finzwiz.monitor.plist` → `~/Library/LaunchAgents/` |
 | Weekly deep panel | Manual, or triggered by sentinel | `./monitor/scripts/run-weekly.sh` |
 
-The 9 AM daily time is intentionally one hour after the 8 AM scrape so `finviz_quote.json` is always ready. Missed runs are not retried automatically — use `make run-monitor` to catch up.
+The 8 AM daily time is intentionally one hour after the 7 AM workflow so `finviz_quote.json` is always ready. Missed runs are not retried automatically — use `make run-monitor` to catch up.
+
+### Dashboard refresh ownership
+
+Both launchd jobs regenerate `dashboard.html`. The workflow creates the initial dashboard from scraped Finviz and sentiment data; the monitor performs the final refresh after daily monitor reports are available.
+
+| Dashboard section | Workflow cron | Monitor cron |
+|---|---|---|
+| News — Today’s Snapshot | Updates from article sentiment when analysis is enabled | Uses monitor sentiment and scraped article counts as the current-day fallback |
+| News — Score by Day | Updates historical article-sentiment scores | Adds the current monitor score when article sentiment is unavailable |
+| Fundamentals — Signal Scores | Uses Finviz quote data | Refreshes from the current monitor ledger entry |
+| Monitor — Today’s Reports | Does not generate this section | Owns this section |
+| News — Today’s Headlines | Reads `sentiment_log.jsonl`; changes only when articles are analyzed | Does not add scored headlines |
+
+The monitor cron is the final dashboard update, scheduled for 8:00 AM in the current launchd configuration.
 
 ### Configuration
 
