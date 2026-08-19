@@ -34,11 +34,11 @@ The plist no longer sets `FINZWIZ_TICKERS` — it has a commented-out placeholde
 ## Pipeline
 
 ```
-Phase 1+2   Phase 3               Phase 4           Phase 5        Commit / Email
-──────────  ────────────────────  ────────────────  ─────────────  ──────────────
-Scrape      Single Claude call    Python rebuild    Generate        git commit
-Pre-filter  (all tickers, one     sentiment_summary dashboard.html  send email
-            session)              per ticker
+Phase 1     Optional Phase 2+3         Optional Phase 4  Phase 5        Commit / Email
+──────────  ─────────────────────────  ────────────────  ─────────────  ──────────────
+Scrape      Pre-filter + per-ticker    Python rebuild    Generate        git commit
+            Claude calls when          sentiment_summary dashboard.html  send email
+            sentiment.enabled=true     per ticker
 ```
 
 ### Phase 1 — Scrape
@@ -57,7 +57,9 @@ For each ticker, `finzwiz scrape --ticker <T>` is called. It:
 
 If the Finviz quote page fetch fails (exit ≥ 10), the ticker is skipped entirely. Scrape results are staged to git immediately after each ticker succeeds.
 
-### Phase 2 — Pre-filter (Python, inline in workflow.sh)
+### Optional Phase 2 — Pre-filter (Python, inline in workflow.sh)
+
+This phase runs only when `sentiment.enabled: true` in `config.yaml`. With the default `false`, workflow stops after scraping for each ticker and does not send article text to Claude/Codex.
 
 Immediately after a successful scrape, an inline Python script produces `data/<T>/<DATE>/analysis_input.json`. This step is what keeps Claude's context small (see [Context management](#context-management) below).
 
@@ -86,17 +88,19 @@ The script:
 
 The script prints the count of new articles. If the count is zero (all articles already analyzed), the ticker is excluded from the Claude call entirely.
 
-### Phase 3 — Single Claude analysis call
+### Optional Phase 3 — Per-ticker Claude analysis
 
-One `claude --print` session covers **all tickers that have new articles** in a single prompt. This is intentional — each `claude --print` invocation consumes a session against your Claude Code usage limit, so batching all tickers into one call uses one session instead of nine.
+This phase runs only when `sentiment.enabled: true`.
+
+One `claude --print` session per ticker (each ticker that has new articles gets its own independent call). Article data from `analysis_input.json` is embedded directly in the prompt string by the shell script — Claude never calls the Read tool. `--allowedTools "Read,Bash"` restricts Claude to Bash-only file I/O, preventing web searches, Write calls, or other tool use.
 
 The prompt tells Claude to:
-1. For each ticker, read its `analysis_input.json`.
+1. Read the article data embedded in the prompt (the full JSON from `analysis_input.json`).
 2. For each article, assign:
    - **`sentiment`** — `"bullish"`, `"bearish"`, or `"neutral"` based on likely market impact for that specific ticker.
    - **`score`** — float from `-1.0` (very bearish) to `+1.0` (very bullish). Magnitude reflects conviction (e.g. `+0.9` = strong bullish signal, `+0.2` = mildly positive).
    - **`summary`** — one sentence describing the market implication for the ticker (not just what the article says, but what it means for the stock).
-3. Append one JSON line per article to `data/<T>/sentiment_log.jsonl`:
+3. Use Bash to append one JSON line per article to `data/<T>/sentiment_log.jsonl`:
 
 ```json
 {
@@ -116,7 +120,7 @@ The prompt tells Claude to:
 
 4. Do **not** write `sentiment_summary.json` — that is Python's job in Phase 4.
 
-Claude processes tickers one by one within the single session. If the session fails mid-batch, whatever was written to `sentiment_log.jsonl` is preserved (append-only log), and Phase 4 still runs to rebuild summaries from what exists.
+Each ticker's Claude call is independent: a session limit or non-zero exit on one ticker is logged and skipped, while all remaining tickers continue processing normally. Phase 4 only rebuilds summaries for tickers where Claude exited successfully.
 
 ### Phase 4 — Python summary rebuild
 
@@ -194,15 +198,15 @@ Color scheme: green (`#dcfce7`) = bullish, red (`#fee2e2`) = bearish, grey (`#f3
 
 A naive approach sends all article files to Claude each run. With ~100 articles per ticker at ~25 KB each, that's ~2.5 MB per ticker. Nine tickers = ~23 MB of article data pushed into Claude's context, which exhausts the Claude Code session limit after 1–2 tickers.
 
-### The solution: pre-filter + truncate + batch
+### The solution: pre-filter + truncate + per-ticker sessions
 
-Three techniques reduce Claude's context from ~23 MB to ~200–300 KB per run:
+Three techniques keep each Claude session small:
 
-| Technique | How | Reduction |
+| Technique | How | Benefit |
 |---|---|---|
-| **Skip already-analyzed** | Python checks `article_id` against `sentiment_log.jsonl` before sending anything to Claude. On a second run for the same date, Claude sees zero articles. | ~90% on re-runs |
+| **Skip already-analyzed** | Python checks `article_id` against `sentiment_log.jsonl` before sending anything to Claude. On a second run for the same date, Claude sees zero articles. | ~90% reduction on re-runs |
 | **Text truncation** | Article text is capped at **2000 characters** in `analysis_input.json`. Full text is still stored in `articles/*.json` but Claude only sees the excerpt. | ~90% per article |
-| **One session for all tickers** | All tickers are batched into a single `claude --print` call instead of one call per ticker. | 9× fewer sessions consumed |
+| **Per-ticker sessions, data embedded** | Each `claude --print` call receives one ticker's `analysis_input.json` inline in the prompt string (no file reads inside Claude). Each session is bounded to ≤5 articles. `--allowedTools "Read,Bash"` prevents web searches and write tool calls. | Session budget cannot exceed one ticker's workload; a session limit on one ticker does not block others |
 
 ### Why older articles don't need to be re-sent
 
@@ -243,8 +247,7 @@ Each article is scored independently based on its own text. Claude doesn't need 
 |---|---|---|
 | Finviz quote page unreachable | Ticker skipped entirely; `run_manifest.json` still written | Re-run after network recovers |
 | Article fetch fails (403, timeout) | `articles/<ID>.json` written with `success: false`, `content.text: null`; excluded from `analysis_input.json` | Retried on next run if within `retention_days` |
-| Claude session limit hit mid-batch | Tickers already processed are written to `sentiment_log.jsonl`; remaining tickers get no new records | Phase 4 still rebuilds summaries from what exists; next run will analyze the missed articles |
-| Claude call fails entirely (exit 1) | `sentiment_log.jsonl` unchanged; Phase 4 still runs | `sentiment_summary.json` reflects previous state; next run retries all unanalyzed articles |
+| Claude call fails for one ticker (session limit, exit 1) | Only that ticker's articles are missed; all other tickers complete normally | Ticker logged as "analysis failed" in commit message; next run retries its unanalyzed articles |
 | `rebuild-summary` fails | `sentiment_summary.json` not updated for that ticker | Run `finzwiz rebuild-summary --ticker <T>` manually |
 | Dashboard generation fails | `dashboard.html` not updated; prior version remains committed | Run `python scripts/generate_dashboard.py ...` manually |
 

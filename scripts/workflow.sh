@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Daily finzwiz workflow — four phases:
 #   1. Scrape all tickers
-#   2. Python pre-filter — write analysis_input.json per ticker (new articles only, text ≤ 2000 chars)
-#   3. Single claude --print call covering all tickers with new articles
-#   4. Python rebuild-summary per ticker — aggregates sentiment_log.jsonl into sentiment_summary.json
+#   2. Optional Python pre-filter when sentiment.enabled=true
+#   3. Optional per-ticker claude --print calls when sentiment.enabled=true
+#   4. Optional Python rebuild-summary for tickers analyzed in phase 3
 # Tickers: space-separated in FINZWIZ_TICKERS env var, default TSLA.
 # Logs: logs/workflow-YYYY-MM-DD.log
 
@@ -21,6 +21,29 @@ try:
 except Exception:
     print('TSLA')
 " 2>/dev/null || echo "TSLA")}"
+CLAUDE_MODEL="${FINZWIZ_CLAUDE_MODEL:-$("$PYTHON" -c "
+import yaml
+try:
+    print(yaml.safe_load(open('$PROJECT_DIR/config.yaml')).get('sentiment', {}).get('model', 'claude-haiku-4-5-20251001'))
+except Exception:
+    print('claude-haiku-4-5-20251001')
+" 2>/dev/null || echo "claude-haiku-4-5-20251001")}"
+SENTIMENT_ENABLED="$("$PYTHON" -c "
+import os
+import yaml
+
+def as_bool(value):
+    if isinstance(value, bool):
+        return value
+    return str(value).strip().lower() in {'1', 'true', 'yes', 'on'}
+
+try:
+    config = yaml.safe_load(open('$PROJECT_DIR/config.yaml')) or {}
+    value = os.environ.get('FINZWIZ_SENTIMENT_ENABLED', config.get('sentiment', {}).get('enabled', False))
+    print('true' if as_bool(value) else 'false')
+except Exception:
+    print('false')
+" 2>/dev/null || echo "false")"
 DATE="$(TZ='America/Los_Angeles' date +%Y-%m-%d)"
 TIME="$(TZ='America/Los_Angeles' date '+%H:%M')"
 
@@ -35,6 +58,13 @@ ANYTHING_STAGED=false
 ANALYZE_TICKERS=""  # scraped OK + has new articles
 SKIPPED_TICKERS=""  # scraped OK + all articles already analyzed
 FAILED_TICKERS=""   # scrape failed
+FAILED_ANALYSIS_TICKERS=""
+
+if [ "$SENTIMENT_ENABLED" = "true" ]; then
+    log "article sentiment analysis enabled | model: $CLAUDE_MODEL"
+else
+    log "article sentiment analysis disabled by config"
+fi
 
 # ── Phase 1 + 2: scrape then pre-filter each ticker ───────────────────────────
 for TICKER in $TICKERS; do
@@ -51,6 +81,12 @@ for TICKER in $TICKERS; do
         "data/$TICKER/seen_urls.jsonl" \
         2>/dev/null || true
     ANYTHING_STAGED=true
+
+    if [ "$SENTIMENT_ENABLED" != "true" ]; then
+        log "[$TICKER] article analysis skipped"
+        SKIPPED_TICKERS="$SKIPPED_TICKERS $TICKER"
+        continue
+    fi
 
     # Pre-filter: dedup against sentiment_log.jsonl, extract compact fields, truncate text to 2000 chars.
     # Writes data/$TICKER/$DATE/analysis_input.json and prints the count of new articles.
@@ -129,49 +165,53 @@ done
 
 ANALYZE_TICKERS="${ANALYZE_TICKERS# }"
 
-# ── Phase 3: single batched Claude analysis ───────────────────────────────────
-if [ -n "$ANALYZE_TICKERS" ]; then
-    log "running single-pass analysis for: $ANALYZE_TICKERS"
+# ── Phase 3: per-ticker Claude analysis (one session per ticker) ──────────────
+if [ "$SENTIMENT_ENABLED" = "true" ] && [ -n "$ANALYZE_TICKERS" ]; then
+    log "running per-ticker analysis | model: $CLAUDE_MODEL"
 
-    TICKER_BLOCKS=""
+    ANALYZED_OK_TICKERS=""     # Claude succeeded (or 0 articles — no-op)
+
     for TICKER in $ANALYZE_TICKERS; do
-        TICKER_BLOCKS="$TICKER_BLOCKS
-=== $TICKER ===
-  input:  data/$TICKER/$DATE/analysis_input.json
-  append: data/$TICKER/sentiment_log.jsonl
-"
+        INPUT_FILE="$PROJECT_DIR/data/$TICKER/$DATE/analysis_input.json"
+        TICKER_DATA=$(cat "$INPUT_FILE")
+
+        PROMPT="Analyze stock sentiment for $TICKER. All article data is embedded below — do NOT use any Read tool calls to load files.
+
+TICKER: $TICKER
+DATE: $DATE
+WORKING DIRECTORY: $PROJECT_DIR
+
+ARTICLES:
+$TICKER_DATA
+
+For each article in the \"articles\" array above:
+1. Assign:
+   - sentiment: \"bullish\", \"bearish\", or \"neutral\"
+   - score: float -1.0 (very bearish) to +1.0 (very bullish)
+   - summary: one sentence on the key market implication for $TICKER
+2. Use Bash to append one JSON line per article to data/$TICKER/sentiment_log.jsonl:
+   {\"article_id\": \"...\", \"ticker\": \"$TICKER\", \"run_date\": \"$DATE\", \"analyzed_at\": \"<ISO 8601 Pacific time>\", \"headline\": \"...\", \"publisher\": \"...\", \"url\": \"...\", \"sentiment\": \"...\", \"score\": 0.0, \"summary\": \"...\", \"analysis_error\": null}
+3. Do NOT write sentiment_summary.json — Python rebuilds that in the next phase.
+4. Print one line: \"$TICKER $DATE: N analyzed\""
+
+        log "[$TICKER] running Claude analysis..."
+        if printf '%s\n' "$PROMPT" | "$CLAUDE" --model "$CLAUDE_MODEL" --print --allowedTools "Read,Bash" >> "$LOG" 2>&1; then
+            log "[$TICKER] analysis OK"
+            ANALYZED_OK_TICKERS="$ANALYZED_OK_TICKERS $TICKER"
+        else
+            log "[$TICKER] analysis failed (exit $?) — articles will be retried on next run"
+            FAILED_ANALYSIS_TICKERS="$FAILED_ANALYSIS_TICKERS $TICKER"
+        fi
     done
 
-    PROMPT="Analyze stock sentiment for multiple tickers. Each ticker's input file contains ONLY new articles (pre-filtered by Python — do NOT check for duplicates).
-
-Important token rule: read ONLY the listed analysis_input.json files. Do NOT read, inspect, grep, count, or verify sentiment_log.jsonl files; they are append targets only. Do NOT inspect prior runs or historical data.
-
-Working directory: $PROJECT_DIR
-
-$TICKER_BLOCKS
-
-For EACH ticker above:
-1. Read that ticker's analysis_input.json. The \"articles\" array lists every article to analyze.
-2. For each article, assign:
-   - sentiment: \"bullish\", \"bearish\", or \"neutral\"
-   - score: float -1.0 (very bearish) to 1.0 (very bullish)
-   - summary: one sentence on the key market implication for that ticker
-3. Append one JSON line per article to that ticker's sentiment_log.jsonl without reading the existing file:
-   {\"article_id\": \"...\", \"ticker\": \"$TICKER\", \"run_date\": \"$DATE\", \"analyzed_at\": \"<Pacific ISO>\", \"headline\": \"...\", \"publisher\": \"...\", \"url\": \"...\", \"sentiment\": \"...\", \"score\": 0.0, \"summary\": \"...\", \"analysis_error\": null}
-4. Do NOT write sentiment_summary.json — Python rebuilds that after this step.
-5. Print one line: \"<TICKER> $DATE: N analyzed\"
-
-Process all tickers. After finishing all, print: \"BATCH COMPLETE: N tickers\""
-
-    if "$CLAUDE" --print "$PROMPT" >> "$LOG" 2>&1; then
-        log "batch analysis OK"
-    else
-        log "batch analysis failed (exit $?) — summaries will still be rebuilt from whatever was written"
-    fi
+    ANALYZED_OK_TICKERS="${ANALYZED_OK_TICKERS# }"
+    FAILED_ANALYSIS_TICKERS="${FAILED_ANALYSIS_TICKERS# }"
+else
+    ANALYZED_OK_TICKERS=""
 fi
 
 # ── Phase 4: Python rebuilds sentiment_summary.json for each analyzed ticker ──
-for TICKER in $ANALYZE_TICKERS; do
+for TICKER in $ANALYZED_OK_TICKERS; do
     if PYTHONPATH=src "$PYTHON" -m finzwiz.cli rebuild-summary \
             --ticker "$TICKER" >> "$LOG" 2>&1; then
         log "[$TICKER] summary rebuilt"
@@ -206,7 +246,17 @@ for TICKER in $TICKERS; do
         *" $TICKER "*) COMMIT_LINES="$COMMIT_LINES  $(printf '%-6s' "$TICKER")  scrape failed\n"; continue ;;
     esac
     case " $SKIPPED_TICKERS " in
-        *" $TICKER "*) COMMIT_LINES="$COMMIT_LINES  $(printf '%-6s' "$TICKER")  no new articles\n"; continue ;;
+        *" $TICKER "*)
+            if [ "$SENTIMENT_ENABLED" = "true" ]; then
+                COMMIT_LINES="$COMMIT_LINES  $(printf '%-6s' "$TICKER")  no new articles\n"
+            else
+                COMMIT_LINES="$COMMIT_LINES  $(printf '%-6s' "$TICKER")  article analysis disabled\n"
+            fi
+            continue
+            ;;
+    esac
+    case " $FAILED_ANALYSIS_TICKERS " in
+        *" $TICKER "*) COMMIT_LINES="$COMMIT_LINES  $(printf '%-6s' "$TICKER")  analysis failed\n"; continue ;;
     esac
 
     SUMMARY=$("$PYTHON" - 2>/dev/null <<PYEOF || echo "analysis unavailable"

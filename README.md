@@ -14,7 +14,7 @@ Sentiment analysis runs via the **Claude Code CLI** — no separate Anthropic AP
 
 ### Scrape
 
-Fetches the Finviz quote page and up to 10 eligible linked news articles for one ticker:
+Fetches the Finviz quote page and up to 5 eligible linked news articles for one ticker:
 
 ```bash
 PYTHONPATH=src .venv/bin/python -m finzwiz.cli scrape --ticker AAPL
@@ -122,16 +122,16 @@ Aggregated view rebuilt after every `analyze` run:
 
 ## Automated twice-daily workflow (macOS)
 
-`scripts/workflow.sh` runs the full pipeline — scrape then sentiment analysis — for one or more tickers. It is designed to be called headlessly by the macOS `launchd` scheduler.
+`scripts/workflow.sh` runs the scrape workflow for one or more tickers. Optional article sentiment analysis is controlled by `sentiment.enabled` in `config.yaml`. It is designed to be called headlessly by the macOS `launchd` scheduler.
 
 ### How it works
 
 1. Loops over `$FINZWIZ_TICKERS` (space-separated, default `TSLA`).
 2. Runs `finzwiz scrape --ticker <TICKER>` for each ticker.
-3. Calls `claude --print "..."` (Claude Code CLI, non-interactive) with a structured prompt. Claude reads the new article files, skips any `article_id` already in `sentiment_log.jsonl`, analyzes sentiment, and writes `sentiment_log.jsonl` + `sentiment_summary.json` directly to disk.
+3. If `sentiment.enabled: true`, calls `claude --print` once per ticker with article data embedded directly in the prompt. If `sentiment.enabled: false`, no article text is sent to Claude/Codex.
 4. Logs everything to `logs/workflow-YYYY-MM-DD.log`.
 
-The analysis step uses the `claude` CLI at `/opt/homebrew/bin/claude` with your existing Claude Code subscription — **no `ANTHROPIC_API_KEY` required**.
+When enabled, the analysis step uses the `claude` CLI at `/opt/homebrew/bin/claude` with `--model` set from `sentiment.model` in `config.yaml` — **no `ANTHROPIC_API_KEY` required**.
 
 ### Management commands
 
@@ -330,8 +330,9 @@ Key fields in `config.yaml`:
 | `scraping.max_concurrency` | `5` | Parallel article fetch threads |
 | `scraping.delay_seconds` | `1` | Per-thread delay before each article fetch |
 | `scraping.user_agent` | Chrome UA | Browser UA string sent with every request |
-| `articles.max_articles_per_ticker` | `10` | Maximum article bodies fetched per ticker per scrape run |
+| `articles.max_articles_per_ticker` | `5` | Maximum article bodies fetched per ticker per scrape run |
 | `articles.max_text_chars` | `0` (no limit) | Truncate extracted article text to this length |
+| `sentiment.enabled` | `false` | Send new article excerpts to Claude for workflow sentiment scoring |
 | `sentiment.model` | `claude-haiku-4-5-20251001` | Claude model used for analysis |
 | `sentiment.max_articles_per_batch` | `20` | Articles sent per Claude API call |
 

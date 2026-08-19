@@ -64,14 +64,14 @@ The `finzwiz` entry point (from `pyproject.toml`) only works after `pip install 
 
 > Full detail in `WORKFLOW.md` — phases, data flow, scoring, context management, failure modes.
 
-`scripts/workflow.sh` is the twice-daily automation entry point. It runs four phases:
+`scripts/workflow.sh` is the twice-daily automation entry point. It always scrapes and only runs article sentiment analysis when `sentiment.enabled: true` in `config.yaml`. It runs these phases:
 
 1. **Scrape** — `finzwiz scrape` for each ticker; skips analysis if scrape fails.
-2. **Pre-filter (Python)** — for each ticker, reads `sentiment_log.jsonl` to find already-analyzed `article_id`s, then writes `data/<TICKER>/<DATE>/analysis_input.json` containing only new articles with text truncated to 2000 chars. Outputs the count of new articles.
-3. **Single Claude call** — one `claude --print` session covering all tickers that have new articles. Claude reads each ticker's `analysis_input.json` and appends scored records to `sentiment_log.jsonl`. Claude does **not** write `sentiment_summary.json`.
-4. **Rebuild summaries (Python)** — `finzwiz rebuild-summary --ticker <TICKER>` for each analyzed ticker. Pure aggregation over `sentiment_log.jsonl`; no Claude call.
+2. **Optional pre-filter (Python)** — only when `sentiment.enabled: true`; reads `sentiment_log.jsonl` to find already-analyzed `article_id`s, then writes `data/<TICKER>/<DATE>/analysis_input.json` containing only new articles with text truncated to 2000 chars.
+3. **Optional per-ticker Claude calls** — only when `sentiment.enabled: true`; one `claude --print` session per ticker with new articles. Article data from `analysis_input.json` is embedded in the prompt; Claude never reads files. `--allowedTools "Read,Bash"` blocks web searches and write tool calls. Claude does **not** write `sentiment_summary.json`.
+4. **Optional rebuild summaries (Python)** — only for tickers analyzed in phase 3. Pure aggregation over `sentiment_log.jsonl`; no Claude call.
 
-The sentiment analysis step uses Claude Code's own session (no `ANTHROPIC_API_KEY` required) via the `--print` flag of the `claude` CLI at `/opt/homebrew/bin/claude`.
+The sentiment analysis step is disabled by default. When enabled, it uses Claude Code's own session (no `ANTHROPIC_API_KEY` required) via the `--print` flag of the `claude` CLI at `/opt/homebrew/bin/claude`.
 
 ## Sentiment analysis design
 
@@ -82,7 +82,7 @@ Each article is scored in isolation — Claude reads the article text and decide
 `sentiment_summary.json` is pure aggregation — counts, averages, grouping by date, sorting by score. It draws on *all* historical records in `sentiment_log.jsonl`, not just today's. Python (`finzwiz rebuild-summary`) reads the full log and recomputes the summary after each run. This means the summary always reflects the complete history, and Claude's job is reduced to scoring new text only.
 
 **The split:**
-- Claude's responsibility: read `analysis_input.json` (new articles, pre-filtered, text-truncated) → append scored records to `sentiment_log.jsonl`.
+- Claude's responsibility: receive article data embedded in the prompt (new articles, pre-filtered, text-truncated) → append scored records to `sentiment_log.jsonl` via Bash.
 - Python's responsibility: dedup check, pre-filtering, `analysis_input.json` generation, and `sentiment_summary.json` aggregation.
 
 `scripts/com.finzwiz.workflow.plist` is a macOS `launchd` agent that fires at 8:00 AM and 4:00 PM local time. Managed via `scripts/manage_workflow.sh install|uninstall|status|logs`.

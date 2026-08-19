@@ -72,7 +72,7 @@ finvizCrawl/                     ← your repo root
 
 ### 1. Prerequisites
 
-- Claude Code CLI installed and authenticated (`ANTHROPIC_API_KEY` set)
+- Claude Code CLI or Codex CLI installed and authenticated
 - Python 3.10+
 - Your Finviz scraper already populating `data/`
 
@@ -89,6 +89,9 @@ Edit `monitor/config.env` for monitor-specific settings:
 ```bash
 # Where your Finviz scraper puts data (relative to repo root)
 FINVIZ_DATA_DIR="data"
+
+# AI provider for report generation: claude or codex
+MONITOR_AI_PROVIDER="claude"
 
 # Auto-commit reports to git after each run
 AUTO_GIT_COMMIT=true
