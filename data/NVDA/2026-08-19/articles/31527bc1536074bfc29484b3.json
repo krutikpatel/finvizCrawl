@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-investors-just-got-121258475.html",
+    "fetched_at": "2026-08-19T07:00:43.324052-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Stock Investors Just Got Good News From China",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) has started moving H200 processors into mainland China, with ByteDance (BDNCE) and Tencent (TCEHY) each receiving roughly 10,000 chips in recent weeks, according to a Financial Times report citing people familiar with the matter.\nThe shipments mark an early step in Nvidia's effort to restore part of its China business. Other Chinese technology companies could receive similar allocations if regulatory approvals are granted.\n-\nWarning! GuruFocus has detected 3 Warning Signs with WBO:BESI.\n-\nIs TCEHY fairly valued? Test your thesis with our free DCF calculator.\nU.S. licenses allow individual Chinese buyers to purchase as many as 100,000 H200 processors, but Beijing wants most of the chips kept outside mainland China to support local semiconductor producers. Companies have also been permitted to use the processors in Hong Kong, although limited data-center capacity and power availability could restrict deployment.\nNvidia has about 500,000 H200 chips available, with much of the inventory intended for Chinese customers. Lenovo (LNVGY) and other partners have resumed accepting orders for H200-based systems, subject to approval.\nThe shipments could give Nvidia a modest revenue opportunity in China, but regulatory limits may constrain the size and pace of the business.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) has started moving H200 processors into mainland China, with ByteDance (BDNCE) and Tencent (TCEHY) each receiving roughly 10,000 chips in recent weeks, according to a Financial Times report citing people familiar with the matter.",
+      "The shipments mark an early step in Nvidia's effort to restore part of its China business. Other Chinese technology companies could receive similar allocations if regulatory approvals are granted.",
+      "-",
+      "Warning! GuruFocus has detected 3 Warning Signs with WBO:BESI.",
+      "-",
+      "Is TCEHY fairly valued? Test your thesis with our free DCF calculator.",
+      "U.S. licenses allow individual Chinese buyers to purchase as many as 100,000 H200 processors, but Beijing wants most of the chips kept outside mainland China to support local semiconductor producers. Companies have also been permitted to use the processors in Hong Kong, although limited data-center capacity and power availability could restrict deployment.",
+      "Nvidia has about 500,000 H200 chips available, with much of the inventory intended for Chinese customers. Lenovo (LNVGY) and other partners have resumed accepting orders for H200-based systems, subject to approval.",
+      "The shipments could give Nvidia a modest revenue opportunity in China, but regulatory limits may constrain the size and pace of the business."
+    ],
+    "html": null
+  }
+}

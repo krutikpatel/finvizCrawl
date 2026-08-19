@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1bbc5978-90f7-3879-af82-3547ea575f6a/cathie-wood-is-betting.html",
+    "fetched_at": "2026-08-19T07:00:19.200201-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Is Betting Against The AI Memory Boom – And On Cerebras To Make HBM Less Necessary",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nShe argued that Cerebras and Groq can reduce or avoid external HBM when running AI inference workloads.\n-\nARK began buying CBRS after its May IPO and recently added about $28 million through ARKK and ARKW.\n-\nCerebras unveiled the CS-4, featuring three massive processors, 50% fewer components and a third-quarter availability target.\nCathie Wood is steering clear of memory stocks as the AI boom drives demand for high-bandwidth memory (HBM), betting instead that technologies from Cerebras Systems (CBRS) and Groq can reduce the industry's dependence on the costly chips.\nThe ARK Invest founder is avoiding memory stocks such as Micron (MU), SK Hynix (SKHY) and believes that it's the expensive memory that will incentivize engineers to build AI systems that will need less of it.\nSee what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox\nOn Tuesday, MU fell 7% and SKHY dropped 9%, with both snapping five-session winning streaks. The decline marked MU's worst day in nearly three weeks and SKHY's worst session in over a month.\nCathie Wood Sees A Problem With The AI Memory Chip Boom\nWhen asked in a recent podcast interview why ARK Investment Management does not own memory stocks, Wood called memory \"the most cyclical part of a semiconductor food chain\" and \"the most commoditized.\" Wood said that soaring tech costs typically encourage engineers to develop cheaper alternatives.\n\"When prices triple or quadruple or go up tenfold, that is not the normal state for technology,\" she said. \"That's actually a negative, but most people think it's a huge positive.\" Wood pointed to Cerebras and Groq, whose inference-focused architectures use fast on-chip memory and can reduce or avoid external HBM. Inference is the process through which a trained AI model generates answers and other outputs.\n\"Both of those, Cerebras and Groq, do not require high-bandwidth memory,\" Wood said. \"We're seeing engineering out the need for high-bandwidth memory when it comes to inference.\" Rising prices are \"an invitation for SK Hynix and Samsung\" to add supply, she warned.\n\"When I see a lot of capital flowing very quickly into a very cyclical industry, I basically say, you have it,\" Wood said. \"I'm going to be focused on how to solve that pricing problem.\"\nARK Is Putting Money Behind The CBRS Bet\nARK began buying Cerebras shortly after its May 2026 IPO and continued accumulating shares during subsequent weakness through the ARK Innovation ETF (ARKK) and ARK Next Generation Internet ETF (ARKW).\nARK also bought CBRS shares during late June and added about $28 million across the two funds last week and this week as well. Cerebras remains a relatively small ARK holding, but the repeated dip-buying signals conviction in its wafer-scale architecture. ARK's venture fund has also held Groq, which Wood acknowledged during the interview.\nCerebras Takes Aim At AI Bottleneck\nCerebras reinforced its pitch on Tuesday by unveiling the CS-4, a server system built around three dinner-plate-sized WSE-3 Turbo processors to accelerate chatbot responses. The chips' enormous size reduces the energy use and delays associated with moving data between separate processors. Cerebras also cut the system's component count by 50%, which it said could accelerate data-center construction.\nThe CS-4 is expected to become available in the third quarter. Cerebras plans another generation in 2027 and expects to deliver 600 megawatts of computing capacity by the end of that year.\nOpenAI has agreed to purchase up to 750 megawatts of Cerebras capacity through 2028 under a deal valued at more than $10 billion, primarily for faster inference. Nvidia (NVDA), meanwhile, struck a $20 billion non-exclusive licensing agreement involving Groq's inference technology and talent.\nSK Hynix Leads Global HBM Market\nSK Hynix controlled 58% of the global HBM market in the first quarter, while Samsung and Micron each held about 21%, according to Counterpoint Research data cited by CNBC.\nSK Hynix is pursuing around $720 billion in investments to triple capacity over time and has secured a long-term supply and development agreement with Nvidia. Micron is spending $50 billion on Idaho fabrication plants, with its first wafers targeted for 2027, alongside additional projects in New York.\nHow Do Retail Traders Feel About MU And SKHY?\nOn Stocktwits, retail sentiment was 'bearish' toward Micron and SK Hynix, with 'normal' message volume for MU and 'low' volume for SKHY.\nOver the past year, MU shares have surged 663%, while SKHY stock has declined 7%.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nRead Next: ASTS, RKLB, LUNR, RDW In Focus: Elon Musk Says Space Boom Will Be 'Much Bigger' Than Goldman's $1.8 Trillion Forecast\nDeepti Sri has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy. This article was originally published on StockTwits.\nRelated:",
+    "text_blocks": [
+      "-",
+      "She argued that Cerebras and Groq can reduce or avoid external HBM when running AI inference workloads.",
+      "-",
+      "ARK began buying CBRS after its May IPO and recently added about $28 million through ARKK and ARKW.",
+      "-",
+      "Cerebras unveiled the CS-4, featuring three massive processors, 50% fewer components and a third-quarter availability target.",
+      "Cathie Wood is steering clear of memory stocks as the AI boom drives demand for high-bandwidth memory (HBM), betting instead that technologies from Cerebras Systems (CBRS) and Groq can reduce the industry's dependence on the costly chips.",
+      "The ARK Invest founder is avoiding memory stocks such as Micron (MU), SK Hynix (SKHY) and believes that it's the expensive memory that will incentivize engineers to build AI systems that will need less of it.",
+      "See what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox",
+      "On Tuesday, MU fell 7% and SKHY dropped 9%, with both snapping five-session winning streaks. The decline marked MU's worst day in nearly three weeks and SKHY's worst session in over a month.",
+      "Cathie Wood Sees A Problem With The AI Memory Chip Boom",
+      "When asked in a recent podcast interview why ARK Investment Management does not own memory stocks, Wood called memory \"the most cyclical part of a semiconductor food chain\" and \"the most commoditized.\" Wood said that soaring tech costs typically encourage engineers to develop cheaper alternatives.",
+      "\"When prices triple or quadruple or go up tenfold, that is not the normal state for technology,\" she said. \"That's actually a negative, but most people think it's a huge positive.\" Wood pointed to Cerebras and Groq, whose inference-focused architectures use fast on-chip memory and can reduce or avoid external HBM. Inference is the process through which a trained AI model generates answers and other outputs.",
+      "\"Both of those, Cerebras and Groq, do not require high-bandwidth memory,\" Wood said. \"We're seeing engineering out the need for high-bandwidth memory when it comes to inference.\" Rising prices are \"an invitation for SK Hynix and Samsung\" to add supply, she warned.",
+      "\"When I see a lot of capital flowing very quickly into a very cyclical industry, I basically say, you have it,\" Wood said. \"I'm going to be focused on how to solve that pricing problem.\"",
+      "ARK Is Putting Money Behind The CBRS Bet",
+      "ARK began buying Cerebras shortly after its May 2026 IPO and continued accumulating shares during subsequent weakness through the ARK Innovation ETF (ARKK) and ARK Next Generation Internet ETF (ARKW).",
+      "ARK also bought CBRS shares during late June and added about $28 million across the two funds last week and this week as well. Cerebras remains a relatively small ARK holding, but the repeated dip-buying signals conviction in its wafer-scale architecture. ARK's venture fund has also held Groq, which Wood acknowledged during the interview.",
+      "Cerebras Takes Aim At AI Bottleneck",
+      "Cerebras reinforced its pitch on Tuesday by unveiling the CS-4, a server system built around three dinner-plate-sized WSE-3 Turbo processors to accelerate chatbot responses. The chips' enormous size reduces the energy use and delays associated with moving data between separate processors. Cerebras also cut the system's component count by 50%, which it said could accelerate data-center construction.",
+      "The CS-4 is expected to become available in the third quarter. Cerebras plans another generation in 2027 and expects to deliver 600 megawatts of computing capacity by the end of that year.",
+      "OpenAI has agreed to purchase up to 750 megawatts of Cerebras capacity through 2028 under a deal valued at more than $10 billion, primarily for faster inference. Nvidia (NVDA), meanwhile, struck a $20 billion non-exclusive licensing agreement involving Groq's inference technology and talent.",
+      "SK Hynix Leads Global HBM Market",
+      "SK Hynix controlled 58% of the global HBM market in the first quarter, while Samsung and Micron each held about 21%, according to Counterpoint Research data cited by CNBC.",
+      "SK Hynix is pursuing around $720 billion in investments to triple capacity over time and has secured a long-term supply and development agreement with Nvidia. Micron is spending $50 billion on Idaho fabrication plants, with its first wafers targeted for 2027, alongside additional projects in New York.",
+      "How Do Retail Traders Feel About MU And SKHY?",
+      "On Stocktwits, retail sentiment was 'bearish' toward Micron and SK Hynix, with 'normal' message volume for MU and 'low' volume for SKHY.",
+      "Over the past year, MU shares have surged 663%, while SKHY stock has declined 7%.",
+      "For updates and corrections, email newsroom[at]stocktwits[dot]com.",
+      "Read Next: ASTS, RKLB, LUNR, RDW In Focus: Elon Musk Says Space Boom Will Be 'Much Bigger' Than Goldman's $1.8 Trillion Forecast",
+      "Deepti Sri has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy. This article was originally published on StockTwits.",
+      "Related:"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?mod=wsj_FV",
+    "fetched_at": "2026-08-19T07:00:54.364074-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech Stocks Slide With Bond Yields at Decade Highs - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stocks are in the red and borrowing costs around the world are at multiyear highs, as investors fret over heavy fiscal spending and inflation.\nThe 30-year U.S. Treasury yield is hovering near 5.3% after hitting a 19-year intraday high earlier in the day; Japanese long-dated yields are close to a record high. One factor pushing up bond yields: The capital-hungry AI industry’s huge appetite for debt, which puts it in competition with traditional nation-state borrowers.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Stocks are in the red and borrowing costs around the world are at multiyear highs, as investors fret over heavy fiscal spending and inflation.",
+      "The 30-year U.S. Treasury yield is hovering near 5.3% after hitting a 19-year intraday high earlier in the day; Japanese long-dated yields are close to a record high. One factor pushing up bond yields: The capital-hungry AI industry’s huge appetite for debt, which puts it in competition with traditional nation-state borrowers.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

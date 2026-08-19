@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-risk-gauge-hits-095605564.html",
+    "fetched_at": "2026-08-19T07:00:28.022704-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - SoftBank Group is preparing to issue approximately 1 trillion yen ($6.26 billion) in seven-year corporate bonds targeting Japanese retail investors, a sale that would be the largest of its kind ever by a Japanese company.\nThe offering lands at a fraught moment for AI-linked credit globally, with Nvidia's 5-year credit default swap spread surpassing its late-July peak and long-term government yields reaching their highest levels in decades.\nSoftBank is the most visible Asian proxy for the AI financing wave, having already raised a 1.6 billion yen hybrid bond in May 2026. The scale of the planned retail deal — set against record-high sovereign yields — makes it a direct test of whether retail demand in Japan can absorb AI infrastructure debt as institutional credit markets grow more selective.\nLong-term borrowing costs from the U.S. to Germany and Japan hit their highest levels in decades, with investors pointing squarely at hyperscaler bond supply as a contributing force.\nAI infrastructure debt now accounts for as much as 30% of net new issuance in some investment-grade indexes this year, according to private credit market commentary cited by Reuters.\nLonger-duration corporate yields moved above 6% in July, raising all-in income from high-quality corporate credit but also driving greater investor selectivity given elevated issuance and tight starting valuations.\nJapan's broader retail-targeted corporate bond market is on pace to hit a record 2.8 trillion yen this year, per Nikkei, suggesting demand has not dried up, but SoftBank's offering would dwarf anything attempted before.\nNvidia illustrates the credit stress building across the AI complex. Its 5-year CDS bid spread climbed to 80.77 basis points as of August 19, surpassing its late-July peak. That spread has risen roughly 90% year-to-date and more than doubled since late May.\nSome of the widening reflects the simple mechanics of a larger debt stock to hedge rather than an imminent default scenario and Alphabet's recent bond sale in Australia still drew strong investor demand.\nHowever, the directional signal is hard to ignore ahead of Nvidia's earnings report scheduled for next Wednesday, the first major test of its $500 billion AI financing narrative under capital-market scrutiny.\nNvidia has said it may back no more than 25% of the total itself, meaning the bulk of that capital must be raised externally into a market where yield competition from sovereigns is intensifying.\nOracle offers the starkest credit warning in the sector. Its 5-year CDS spread surpassed 200 basis points in July 2026, approximately four times the investment-grade corporate index and a level not seen since the 2008 financial crisis.",
+    "text_blocks": [
+      "Investing.com - SoftBank Group is preparing to issue approximately 1 trillion yen ($6.26 billion) in seven-year corporate bonds targeting Japanese retail investors, a sale that would be the largest of its kind ever by a Japanese company.",
+      "The offering lands at a fraught moment for AI-linked credit globally, with Nvidia's 5-year credit default swap spread surpassing its late-July peak and long-term government yields reaching their highest levels in decades.",
+      "SoftBank is the most visible Asian proxy for the AI financing wave, having already raised a 1.6 billion yen hybrid bond in May 2026. The scale of the planned retail deal — set against record-high sovereign yields — makes it a direct test of whether retail demand in Japan can absorb AI infrastructure debt as institutional credit markets grow more selective.",
+      "Long-term borrowing costs from the U.S. to Germany and Japan hit their highest levels in decades, with investors pointing squarely at hyperscaler bond supply as a contributing force.",
+      "AI infrastructure debt now accounts for as much as 30% of net new issuance in some investment-grade indexes this year, according to private credit market commentary cited by Reuters.",
+      "Longer-duration corporate yields moved above 6% in July, raising all-in income from high-quality corporate credit but also driving greater investor selectivity given elevated issuance and tight starting valuations.",
+      "Japan's broader retail-targeted corporate bond market is on pace to hit a record 2.8 trillion yen this year, per Nikkei, suggesting demand has not dried up, but SoftBank's offering would dwarf anything attempted before.",
+      "Nvidia illustrates the credit stress building across the AI complex. Its 5-year CDS bid spread climbed to 80.77 basis points as of August 19, surpassing its late-July peak. That spread has risen roughly 90% year-to-date and more than doubled since late May.",
+      "Some of the widening reflects the simple mechanics of a larger debt stock to hedge rather than an imminent default scenario and Alphabet's recent bond sale in Australia still drew strong investor demand.",
+      "However, the directional signal is hard to ignore ahead of Nvidia's earnings report scheduled for next Wednesday, the first major test of its $500 billion AI financing narrative under capital-market scrutiny.",
+      "Nvidia has said it may back no more than 25% of the total itself, meaning the bulk of that capital must be raised externally into a market where yield competition from sovereigns is intensifying.",
+      "Oracle offers the starkest credit warning in the sector. Its 5-year CDS spread surpassed 200 basis points in July 2026, approximately four times the investment-grade corporate index and a level not seen since the 2008 financial crisis."
+    ],
+    "html": null
+  }
+}

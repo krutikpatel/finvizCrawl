@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/marvell-shares-jump-giving-google-132501905.html",
+    "fetched_at": "2026-08-19T07:00:57.222748-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell shares jump after giving Google warrants amid custom chip deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Marvell Technology Inc. shares rose nearly 11% in pre-market trading on Wednesday after the chipmaker announced a warrant agreement with Google linked to a custom chip partnership.\nUnder the agreement dated Monday, Marvell issued Google a warrant to purchase up to 58,970,907 shares of common stock at $206.58 per share. The warrant remains exercisable until August 18, 2033.\nThe vesting structure includes 1,360,867 shares that vest in equal quarterly installments during the first year. Additional shares vest based on Google's purchases of custom products, with one tranche vesting for each $500 million in custom product revenue that Marvell recognizes from its third quarter of fiscal 2027 through the end of fiscal year 2033.\nMarvell will develop AI inference accelerators, storage, networking and memory interface controllers, and near-memory computing technologies for Google.\nDemand for custom chips, including Google's tensor processing units used for AI workloads, has increased in recent years as companies look for alternatives to Nvidia Corp. graphics processors.\nRelated articles\nMarvell shares jump after giving Google warrants amid custom chip deal\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- Marvell Technology Inc. shares rose nearly 11% in pre-market trading on Wednesday after the chipmaker announced a warrant agreement with Google linked to a custom chip partnership.",
+      "Under the agreement dated Monday, Marvell issued Google a warrant to purchase up to 58,970,907 shares of common stock at $206.58 per share. The warrant remains exercisable until August 18, 2033.",
+      "The vesting structure includes 1,360,867 shares that vest in equal quarterly installments during the first year. Additional shares vest based on Google's purchases of custom products, with one tranche vesting for each $500 million in custom product revenue that Marvell recognizes from its third quarter of fiscal 2027 through the end of fiscal year 2033.",
+      "Marvell will develop AI inference accelerators, storage, networking and memory interface controllers, and near-memory computing technologies for Google.",
+      "Demand for custom chips, including Google's tensor processing units used for AI workloads, has increased in recent years as companies look for alternatives to Nvidia Corp. graphics processors.",
+      "Related articles",
+      "Marvell shares jump after giving Google warrants amid custom chip deal",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

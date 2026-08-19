@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e521a1dd-5631-3047-886d-8eba80eda1de/amazon-plans-drone-delivery.html",
+    "fetched_at": "2026-08-19T07:00:46.723579-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon plans drone delivery expansion to 500 U.S. cities by 2026",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon announced plans Wednesday to expand its Prime Air drone delivery service to nearly 500 cities and towns across the United States by the end of 2026, a sixfold increase from its current footprint.\nThe company said Prime Air currently operates in 11 metro areas across seven states — Arizona, Florida, Kansas, Louisiana, Michigan, Nebraska, and Texas — with each site covering approximately 175 square miles. The service is set to launch in the Chicago, Atlanta, Cleveland, Syracuse, and Boise metro areas soon, with additional locations to follow. Amazon said it has made hundreds of thousands of drone deliveries so far this year, with thousands completed daily.\n\"By the end of 2026 we plan to reach customers in nearly 500 cities and towns,\" David Carbon, vice president of Amazon Prime Air, said in a statement.\nPrime Air drones are rated for packages up to 5 pounds, a threshold the company said covers more than 60% of its most commonly ordered products. Eligible products include groceries, medications, electronics, and cosmetics. Deliveries can reach customers in as little as 30 minutes, though the typical window runs to about an hour from the time of purchase, the company said.\nPrime members receive free drone delivery on orders of $50 or more. Orders under $50 cost Prime members $2.99, while non-members pay $4.99.\nAmazon holds Federal Aviation Administration Part 135 certification, the same framework applied to commercial air carriers, and has received waivers to fly beyond the line of sight of pilots, the company said.\nThe expansion comes as Amazon faces competition in the drone delivery space. Rival Alphabet's Wing has surpassed 1 million commercial deliveries and is active in 20 U.S. markets, and drone company Zipline has logged 2 million deliveries spanning four continents, according to CNBC.\nAmazon's program has faced regulatory and operational challenges. A pair of its drones struck a crane in Tolleson, Arizona last October, triggering separate inquiries from both the National Transportation Safety Board and the FAA, according to CNBC. A separate FAA probe was opened after a drone snapped an internet cable in Waco, Texas in November. The U.K.'s Air Accidents Investigation Branch also opened an inquiry last month after a Prime Air drone crashed in Darlington, England.\nAmazon said its drones run entirely on electric power and rely on built-in cameras and sensors to navigate and detect obstacles, without any human watching a live video feed.",
+    "text_blocks": [
+      "Amazon announced plans Wednesday to expand its Prime Air drone delivery service to nearly 500 cities and towns across the United States by the end of 2026, a sixfold increase from its current footprint.",
+      "The company said Prime Air currently operates in 11 metro areas across seven states — Arizona, Florida, Kansas, Louisiana, Michigan, Nebraska, and Texas — with each site covering approximately 175 square miles. The service is set to launch in the Chicago, Atlanta, Cleveland, Syracuse, and Boise metro areas soon, with additional locations to follow. Amazon said it has made hundreds of thousands of drone deliveries so far this year, with thousands completed daily.",
+      "\"By the end of 2026 we plan to reach customers in nearly 500 cities and towns,\" David Carbon, vice president of Amazon Prime Air, said in a statement.",
+      "Prime Air drones are rated for packages up to 5 pounds, a threshold the company said covers more than 60% of its most commonly ordered products. Eligible products include groceries, medications, electronics, and cosmetics. Deliveries can reach customers in as little as 30 minutes, though the typical window runs to about an hour from the time of purchase, the company said.",
+      "Prime members receive free drone delivery on orders of $50 or more. Orders under $50 cost Prime members $2.99, while non-members pay $4.99.",
+      "Amazon holds Federal Aviation Administration Part 135 certification, the same framework applied to commercial air carriers, and has received waivers to fly beyond the line of sight of pilots, the company said.",
+      "The expansion comes as Amazon faces competition in the drone delivery space. Rival Alphabet's Wing has surpassed 1 million commercial deliveries and is active in 20 U.S. markets, and drone company Zipline has logged 2 million deliveries spanning four continents, according to CNBC.",
+      "Amazon's program has faced regulatory and operational challenges. A pair of its drones struck a crane in Tolleson, Arizona last October, triggering separate inquiries from both the National Transportation Safety Board and the FAA, according to CNBC. A separate FAA probe was opened after a drone snapped an internet cable in Waco, Texas in November. The U.K.'s Air Accidents Investigation Branch also opened an inquiry last month after a Prime Air drone crashed in Darlington, England.",
+      "Amazon said its drones run entirely on electric power and rely on built-in cameras and sensors to navigate and detect obstacles, without any human watching a live video feed."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-stumbles-child-safety-123027526.html",
+    "fetched_at": "2026-08-19T07:00:15.934183-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Stock Stumbles as Child Safety Trial Opens With Billions at Stake",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) is facing a major legal test in California after 29 states accused the company of harming young users through Facebook and Instagram, adding another source of uncertainty for investors. The trial began Tuesday in federal court in Oakland.\nShares of META fell about 4% on Tuesday.\nCalifornia Attorney General Rob Bonta said the case is focused on civil penalties, restitution and deterrence rather than damages. The proceeding is expected to last about six weeks, with the court ultimately determining Meta's liability and any penalties.\nThe financial stakes are substantial. Meta has said the potential penalties could reach $1.4 trillion, close to its market value, while state attorneys general have indicated a figure nearer $200 billion could be more realistic.\nThe states allege Meta designed its platforms to keep children engaged, misled the public about safety and improperly handled minors' data. Meta has rejected those claims and argues there is no established link between its services and adolescent harm.\nThe case could also require changes to products, including limits on features such as infinite scrolling and stronger protections for underage users. That makes the trial more than a potential financial liability for Meta.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) is facing a major legal test in California after 29 states accused the company of harming young users through Facebook and Instagram, adding another source of uncertainty for investors. The trial began Tuesday in federal court in Oakland.",
+      "Shares of META fell about 4% on Tuesday.",
+      "California Attorney General Rob Bonta said the case is focused on civil penalties, restitution and deterrence rather than damages. The proceeding is expected to last about six weeks, with the court ultimately determining Meta's liability and any penalties.",
+      "The financial stakes are substantial. Meta has said the potential penalties could reach $1.4 trillion, close to its market value, while state attorneys general have indicated a figure nearer $200 billion could be more realistic.",
+      "The states allege Meta designed its platforms to keep children engaged, misled the public about safety and improperly handled minors' data. Meta has rejected those claims and argues there is no established link between its services and adolescent harm.",
+      "The case could also require changes to products, including limits on features such as infinite scrolling and stronger protections for underage users. That makes the trial more than a potential financial liability for Meta."
+    ],
+    "html": null
+  }
+}

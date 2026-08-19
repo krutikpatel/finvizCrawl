@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_FV",
+    "fetched_at": "2026-08-19T07:00:30.486325-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell’s stock surges on news of Google chip deal — and Broadcom’s falls - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nMarvell’s stock surges on news of Google chip deal — and Broadcom’s falls\nGoogle will also get the option to purchase about $12 billion worth of Marvell’s stock\nMarvell Technology shares were rising more than 10% in premarket action on Wednesday after the company announced a new agreement with Alphabet related to custom artificial-intelligence chips.\nThe company disclosed Wednesday that it struck a commercial agreement related to Google’s GOOG GOOGL tensor processing units. “The expanded partnership spans a comprehensive range of custom silicon programs” related to TPUs, including accelerators and storage controllers.\nAbout the Author",
+    "text_blocks": [
+      "Tech Stocks",
+      "Marvell’s stock surges on news of Google chip deal — and Broadcom’s falls",
+      "Google will also get the option to purchase about $12 billion worth of Marvell’s stock",
+      "Marvell Technology shares were rising more than 10% in premarket action on Wednesday after the company announced a new agreement with Alphabet related to custom artificial-intelligence chips.",
+      "The company disclosed Wednesday that it struck a commercial agreement related to Google’s GOOG GOOGL tensor processing units. “The expanded partnership spans a comprehensive range of custom silicon programs” related to TPUs, including accelerators and storage controllers.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

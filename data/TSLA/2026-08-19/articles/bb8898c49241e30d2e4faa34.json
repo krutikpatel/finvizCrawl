@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-cybercab-event-018fc6bd?mod=bar_FV",
+    "fetched_at": "2026-08-19T07:00:07.701473-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Teases Cybercab Launch Event, But TSLA Stock Isn’t Biting<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla recently teased a Cybercab launch event, which could be a catalyst to send shares higher. The stock, however, hasn’t reacted yet, which says something about what market expectations.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Tesla recently teased a Cybercab launch event, which could be a catalyst to send shares higher. The stock, however, hasn’t reacted yet, which says something about what market expectations.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

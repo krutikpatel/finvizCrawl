@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/articles/shares-fall-asia-kospi-down-030536178.html",
+    "fetched_at": "2026-08-19T07:00:27.933697-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US stocks look to halt their 3-day slide as pressure from the bond market eases",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "NEW YORK (AP) — U.S. stocks are ticking higher Wednesday after an announcement by the U.S. Treasury Department that it may buy more U.S. government bonds eased pressure on financial markets worldwide. Strong profit reports for the spring from Estee Lauder and other U.S. companies also helped support the stock market.\nThe S&P 500 rose 0.3% and is on track for its first gain in four days after setting its all-time high last week. The Dow Jones Industrial Average was up 65 points, or 0.1%, as of 9:35 a.m. Eastern time, and the Nasdaq composite was 0.2% higher.\nThe stock market has been under growing strain recently as worries about inflation, big government debts and other factors drive Treasury yields higher in the bond market. That ultimately makes borrowing money more expensive for everyone, and it can undercut prices for stocks and other investments.\nBut Treasury yields fell in the morning after the U.S. Treasury Department said it will at least double the size of its planned purchases of longer-term Treasurys. The department said it's doing so \"to provide greater liquidity support in longer-dated nominal sectors where there is consistent strong sponsorship from market participants.\"\nThe yield on the 10-year Treasury sank to 4.65% from 4.71% late Tuesday, which is a notable move for the bond market. But it remains well above its 3.97% level from before the war with Iran sent oil prices and worries about Iran much higher.\nThe 30-year Treasury yield, which has recently touched its highest level since 2007, fell more sharply to 5.20% from 5.28% late Tuesday.\nOn Wall Street, Moderna and Merck helped lead the market after they announced encouraging results from a study of a cancer vaccine they co-developed. The new drug showed better recurrence-free survival in melanoma patients who had a combination of it and Keytruda, a prescription immunotherapy drug made by Merck, than with Keytruda alone.\nModerna soared 89.5%, while Merck jumped 9.7%.\nThe continuing parade of U.S. companies to report bigger profits for the spring than analysts expected, meanwhile, continues to support stocks.\nEstee Lauder rallied 15.7% after CEO Stéphane de La Faverie said a key measure of its revenue growth accelerated for a fourth straight quarter. It reported growth in revenue around the world, with the strongest in mainland China.\nThe skin care company reported earnings per share of 39 cents, after excluding some restructuring and other one-time expenses. That's up from just 9 cents a year earlier and was better than the 32 cents that analysts expected, according to FactSet.",
+    "text_blocks": [
+      "NEW YORK (AP) — U.S. stocks are ticking higher Wednesday after an announcement by the U.S. Treasury Department that it may buy more U.S. government bonds eased pressure on financial markets worldwide. Strong profit reports for the spring from Estee Lauder and other U.S. companies also helped support the stock market.",
+      "The S&P 500 rose 0.3% and is on track for its first gain in four days after setting its all-time high last week. The Dow Jones Industrial Average was up 65 points, or 0.1%, as of 9:35 a.m. Eastern time, and the Nasdaq composite was 0.2% higher.",
+      "The stock market has been under growing strain recently as worries about inflation, big government debts and other factors drive Treasury yields higher in the bond market. That ultimately makes borrowing money more expensive for everyone, and it can undercut prices for stocks and other investments.",
+      "But Treasury yields fell in the morning after the U.S. Treasury Department said it will at least double the size of its planned purchases of longer-term Treasurys. The department said it's doing so \"to provide greater liquidity support in longer-dated nominal sectors where there is consistent strong sponsorship from market participants.\"",
+      "The yield on the 10-year Treasury sank to 4.65% from 4.71% late Tuesday, which is a notable move for the bond market. But it remains well above its 3.97% level from before the war with Iran sent oil prices and worries about Iran much higher.",
+      "The 30-year Treasury yield, which has recently touched its highest level since 2007, fell more sharply to 5.20% from 5.28% late Tuesday.",
+      "On Wall Street, Moderna and Merck helped lead the market after they announced encouraging results from a study of a cancer vaccine they co-developed. The new drug showed better recurrence-free survival in melanoma patients who had a combination of it and Keytruda, a prescription immunotherapy drug made by Merck, than with Keytruda alone.",
+      "Moderna soared 89.5%, while Merck jumped 9.7%.",
+      "The continuing parade of U.S. companies to report bigger profits for the spring than analysts expected, meanwhile, continues to support stocks.",
+      "Estee Lauder rallied 15.7% after CEO Stéphane de La Faverie said a key measure of its revenue growth accelerated for a fourth straight quarter. It reported growth in revenue around the world, with the strongest in mainland China.",
+      "The skin care company reported earnings per share of 39 cents, after excluding some restructuring and other one-time expenses. That's up from just 9 cents a year earlier and was better than the 32 cents that analysts expected, according to FactSet."
+    ],
+    "html": null
+  }
+}

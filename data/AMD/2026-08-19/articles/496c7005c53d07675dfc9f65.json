@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-tumbles-5-5-201530387.html",
+    "fetched_at": "2026-08-19T07:00:49.572368-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Tumbles 5.5% Despite 107% Data-Center Growth",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (NASDAQ:AMD), the semiconductor giant chasing Nvidia in the AI accelerator race, slid approximately 5.5% to $478.26 Tuesday morning as surging Treasury yields hit the most aggressively valued AI stocks. The business story remains strong. The valuation story is where investors are starting to ask tougher questions.\nThe GF Value chart captures the tension perfectly. AMD trades around $479.56 per share versus a GF Value estimate of $272.45, putting the stock roughly 76% above that fair-value benchmark. Investors are betting on a massive AI opportunity but they are also paying a premium price that requires near-perfect execution.\nAMD's second-quarter results showed why Wall Street remains focused on the company. Revenue reached approximately $11.5 billion, driven by a breakout performance in data centers. That segment jumped 107% to $6.7 billion as demand for EPYC processors and Instinct AI accelerators accelerated. Client revenue also rose 23% to $3.1 billion, while gaming revenue declined 31% to $779 million.\nThe biggest shift is happening inside AMD's revenue mix. Data-center sales now represent roughly 58% of total revenue, turning AMD into a direct AI infrastructure play. The opportunity is enormous but so is the expectation. At a premium valuation, AMD must continue taking share from Nvidia, expand margins and prove that AI demand can justify today's price. Tuesday's selloff was a reminder that even the strongest AI winners are not immune when valuations get stretched.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (NASDAQ:AMD), the semiconductor giant chasing Nvidia in the AI accelerator race, slid approximately 5.5% to $478.26 Tuesday morning as surging Treasury yields hit the most aggressively valued AI stocks. The business story remains strong. The valuation story is where investors are starting to ask tougher questions.",
+      "The GF Value chart captures the tension perfectly. AMD trades around $479.56 per share versus a GF Value estimate of $272.45, putting the stock roughly 76% above that fair-value benchmark. Investors are betting on a massive AI opportunity but they are also paying a premium price that requires near-perfect execution.",
+      "AMD's second-quarter results showed why Wall Street remains focused on the company. Revenue reached approximately $11.5 billion, driven by a breakout performance in data centers. That segment jumped 107% to $6.7 billion as demand for EPYC processors and Instinct AI accelerators accelerated. Client revenue also rose 23% to $3.1 billion, while gaming revenue declined 31% to $779 million.",
+      "The biggest shift is happening inside AMD's revenue mix. Data-center sales now represent roughly 58% of total revenue, turning AMD into a direct AI infrastructure play. The opportunity is enormous but so is the expectation. At a premium valuation, AMD must continue taking share from Nvidia, expand margins and prove that AI demand can justify today's price. Tuesday's selloff was a reminder that even the strongest AI winners are not immune when valuations get stretched."
+    ],
+    "html": null
+  }
+}

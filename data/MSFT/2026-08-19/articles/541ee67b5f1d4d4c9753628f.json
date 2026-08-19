@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/google-spirit-airlines-ai-data-licensing-8b2f2532?mod=bar_FV",
+    "fetched_at": "2026-08-19T07:00:33.353687-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Buys Spirit Airlines Data as AI Labs Race to Purchase Real-World Information<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google Just Paid $10 Million for Spirit Airlines Data. Inside the Race to Feed AI Models.\nGoogle, OpenAI, and other AI companies are vacuuming up corporate data from both large public companies and small enterprises.\nThe race to build the most advanced artificial-intelligence tools has spawned a new market for real-world data. It comes with both opportunities and pitfalls for investors.",
+    "text_blocks": [
+      "Google Just Paid $10 Million for Spirit Airlines Data. Inside the Race to Feed AI Models.",
+      "Google, OpenAI, and other AI companies are vacuuming up corporate data from both large public companies and small enterprises.",
+      "The race to build the most advanced artificial-intelligence tools has spawned a new market for real-world data. It comes with both opportunities and pitfalls for investors."
+    ],
+    "html": null
+  }
+}

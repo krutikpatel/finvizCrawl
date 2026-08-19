@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/marvell-grants-google-12-2-123812695.html",
+    "fetched_at": "2026-08-19T07:00:37.264732-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 19 (Reuters) - Marvell Technology will help develop Google's in-demand custom chips and has given the tech giant the option to become one of its biggest investors through a stake purchase of as much as $12.2 billion, in its latest move to tap the AI boom.\nShares of the chipmaker jumped more than 11% in premarket trading, while larger rival Broadcom — which has been Alphabet-owned Google's main custom chip partner — fell over 2%.\nDemand for in-house chips such as Google's tensor processing units (TPUs) has surged as companies seek cheaper alternatives to Nvidia's graphics processors and technologies better suited for inference, the process of running trained AI models.\nThe new tie-up covers a broad range of chips and related technologies designed to work with Google's TPU ecosystem, which underpins much of the company's AI infrastructure.\nUnder the deal, Google received a warrant to buy up to 58.97 million Marvell shares at $206.58 apiece.\nIf fully exercised, the warrant would be worth about $12.18 billion, according to Reuters calculations. A stake of that size will make Google Marvell's fifth-largest investor, according to data from LSEG.\nMost of the warrant will become available only if Google meets agreed purchasing targets through fiscal 2033, linking the size of its potential Marvell stake to how much it buys from the chipmaker over time.\nThe agreement comes weeks after Big Tech companies reinforced expectations that they would spend more than $700 billion on AI infrastructure this year, an unprecedented sum that marks a big step up from last year's $400 billion outlay.\nMarvell faces stiff competition from Broadcom, which signed a long-term agreement with Google to develop and supply future generations of custom AI chips and other components for the company's next-generation AI racks through 2031.\n(Reporting by Anhata Rooprai in Bengaluru; Editing by Shilpi Majumdar)",
+    "text_blocks": [
+      "Aug 19 (Reuters) - Marvell Technology will help develop Google's in-demand custom chips and has given the tech giant the option to become one of its biggest investors through a stake purchase of as much as $12.2 billion, in its latest move to tap the AI boom.",
+      "Shares of the chipmaker jumped more than 11% in premarket trading, while larger rival Broadcom — which has been Alphabet-owned Google's main custom chip partner — fell over 2%.",
+      "Demand for in-house chips such as Google's tensor processing units (TPUs) has surged as companies seek cheaper alternatives to Nvidia's graphics processors and technologies better suited for inference, the process of running trained AI models.",
+      "The new tie-up covers a broad range of chips and related technologies designed to work with Google's TPU ecosystem, which underpins much of the company's AI infrastructure.",
+      "Under the deal, Google received a warrant to buy up to 58.97 million Marvell shares at $206.58 apiece.",
+      "If fully exercised, the warrant would be worth about $12.18 billion, according to Reuters calculations. A stake of that size will make Google Marvell's fifth-largest investor, according to data from LSEG.",
+      "Most of the warrant will become available only if Google meets agreed purchasing targets through fiscal 2033, linking the size of its potential Marvell stake to how much it buys from the chipmaker over time.",
+      "The agreement comes weeks after Big Tech companies reinforced expectations that they would spend more than $700 billion on AI infrastructure this year, an unprecedented sum that marks a big step up from last year's $400 billion outlay.",
+      "Marvell faces stiff competition from Broadcom, which signed a long-term agreement with Google to develop and supply future generations of custom AI chips and other components for the company's next-generation AI racks through 2031.",
+      "(Reporting by Anhata Rooprai in Bengaluru; Editing by Shilpi Majumdar)"
+    ],
+    "html": null
+  }
+}
