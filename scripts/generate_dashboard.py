@@ -144,6 +144,12 @@ def _action_zone(entry: dict) -> str:
     return "—"
 
 
+def _status_cell(available: bool, available_text: str = "available") -> str:
+    if available:
+        return f'<span class="status-ok">{available_text}</span>'
+    return '<span class="status-missing">missing</span>'
+
+
 # ── Sparkline ─────────────────────────────────────────────────────────────────
 
 def _sparkline_svg(by_date_entries: list[dict]) -> str:
@@ -505,6 +511,62 @@ def generate(
 
     recent_dates = sorted(all_dates, reverse=True)[:7]
 
+    availability: dict[str, dict[str, bool]] = {}
+    for ticker in tickers:
+        availability[ticker] = {
+            "quote": (data_root / ticker / date / "finviz_quote.json").exists(),
+            "news": (data_root / ticker / date / "finviz_news.json").exists(),
+            "monitor": ticker in monitor_entries,
+            "sentiment": bool(
+                date_map.get(ticker, {}).get(date)
+                and date_map[ticker][date].get("source") != "monitor"
+            ),
+        }
+
+    coverage_counts = {
+        key: sum(1 for status in availability.values() if status[key])
+        for key in ("quote", "news", "monitor", "sentiment")
+    }
+    print(
+        "dashboard data coverage | "
+        f"date={date} quote={coverage_counts['quote']}/{len(tickers)} "
+        f"news={coverage_counts['news']}/{len(tickers)} "
+        f"monitor={coverage_counts['monitor']}/{len(tickers)} "
+        f"article_sentiment={coverage_counts['sentiment']}/{len(tickers)}"
+    )
+
+    coverage_warnings = []
+    for key, label in (("quote", "quote data"), ("news", "news data"), ("monitor", "monitor reports")):
+        missing = [ticker for ticker, status in availability.items() if not status[key]]
+        if missing:
+            coverage_warnings.append(f"missing today's {label}: {', '.join(missing)}")
+            print(f"dashboard data warning | missing today's {label}: {' '.join(missing)}")
+    if coverage_counts["sentiment"] < len(tickers):
+        print(
+            "dashboard data note | article sentiment unavailable for "
+            f"{len(tickers) - coverage_counts['sentiment']} ticker(s); "
+            "monitor sentiment fallback is in use"
+        )
+
+    if coverage_warnings:
+        coverage_banner = (
+            '<div class="coverage-warning"><strong>Data availability warning:</strong> '
+            + h("; ".join(coverage_warnings))
+            + "</div>"
+        )
+    elif coverage_counts["sentiment"] < len(tickers):
+        coverage_banner = (
+            '<div class="coverage-info"><strong>Data note:</strong> '
+            f"article sentiment is unavailable for {len(tickers) - coverage_counts['sentiment']} ticker(s); "
+            "monitor sentiment fallback is being shown.</div>"
+        )
+    else:
+        coverage_banner = (
+            '<div class="coverage-ok"><strong>Data coverage:</strong> '
+            f"today's quote, news, and monitor data are available for {len(tickers)} ticker(s)."
+            "</div>"
+        )
+
     # Load fundamental data
     fundamentals: dict[str, dict] = {}
     for t in tickers:
@@ -756,12 +818,19 @@ def generate(
   .summary-cell {{ color: #4b5563; font-size: 0.82rem; max-width: 480px; }}
   a {{ color: #2563eb; }}
   .section-note {{ color: #9ca3af; font-size: 0.78rem; margin: 0.1rem 0 0.6rem; }}
+  .coverage-warning, .coverage-ok {{ padding: 0.65rem 0.8rem; margin: 0.8rem 0 1.2rem; border: 1px solid; font-size: 0.82rem; }}
+  .coverage-warning {{ background: #fff7ed; border-color: #fdba74; color: #9a3412; }}
+  .coverage-ok {{ background: #f0fdf4; border-color: #86efac; color: #166534; }}
+  .coverage-info {{ padding: 0.65rem 0.8rem; margin: 0.8rem 0 1.2rem; border: 1px solid #93c5fd; background: #eff6ff; color: #1e40af; font-size: 0.82rem; }}
+  .status-ok {{ color: #15803d; font-weight: 600; }}
+  .status-missing {{ color: #b91c1c; font-weight: 600; }}
 </style>
 </head>
 <body>
 
 <h1>finzwiz Dashboard &mdash; {date}</h1>
 <p class="meta">Generated {ts} &nbsp;&middot;&nbsp; {n} of {len(tickers)} tickers with data</p>
+{coverage_banner}
 
 <h2>News &mdash; Today&rsquo;s Snapshot</h2>
 <p class="section-note">Uses article sentiment when available; otherwise falls back to today&rsquo;s monitor sentiment and scraped article count.</p>

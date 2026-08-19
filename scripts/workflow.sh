@@ -238,6 +238,8 @@ if [ "$ANYTHING_STAGED" = true ]; then
     else
         log "dashboard generation failed"
     fi
+else
+    log "dashboard data warning | no ticker produced today's scrape; dashboard was not refreshed"
 fi
 
 # ── Build commit message body ─────────────────────────────────────────────────
