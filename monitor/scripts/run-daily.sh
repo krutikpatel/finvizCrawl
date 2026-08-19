@@ -35,6 +35,78 @@ else:
 PY
 }
 
+resolve_cli() {
+    local override="$1"
+    local name="$2"
+    shift 2
+
+    if [ -n "$override" ]; then
+        if [ -x "$override" ]; then
+            echo "$override"
+            return 0
+        fi
+        log "ERROR: configured $name path is not executable: $override"
+        return 1
+    fi
+
+    if command -v "$name" >/dev/null 2>&1; then
+        command -v "$name"
+        return 0
+    fi
+
+    local candidate
+    for candidate in "$@"; do
+        if [ -x "$candidate" ]; then
+            echo "$candidate"
+            return 0
+        fi
+    done
+
+    local config_var
+    case "$name" in
+        claude) config_var="MONITOR_CLAUDE_BIN" ;;
+        codex) config_var="MONITOR_CODEX_BIN" ;;
+        *) config_var="the corresponding MONITOR_*_BIN setting" ;;
+    esac
+    log "ERROR: $name CLI not found. Set $config_var in monitor/config.env or add $name to PATH."
+    return 1
+}
+
+run_ai() {
+    local prompt_file="$1"
+    local output_file="$2"
+    local use_websearch="${3:-true}"   # "false" when WEBSEARCH_OFF=true
+    local provider="${MONITOR_AI_PROVIDER:-claude}"
+
+    case "$provider" in
+        claude)
+            local args=(-p)
+            if [ "$use_websearch" = "true" ]; then
+                args+=(--allowedTools "WebSearch(query),WebFetch(url,prompt)")
+            fi
+            if [ -n "${MONITOR_CLAUDE_MODEL:-}" ]; then
+                args=(--model "$MONITOR_CLAUDE_MODEL" "${args[@]}")
+            fi
+            local claude_bin
+            claude_bin=$(resolve_cli "${MONITOR_CLAUDE_BIN:-}" claude) || return 1
+            "$claude_bin" "${args[@]}" < "$prompt_file" > "$output_file" 2>>"$LOG"
+            ;;
+        codex)
+            local args=(--search exec -C "$REPO_ROOT" --sandbox read-only --output-last-message "$output_file")
+            if [ -n "${MONITOR_CODEX_MODEL:-}" ]; then
+                args=(-m "$MONITOR_CODEX_MODEL" "${args[@]}")
+            fi
+            local codex_bin
+            codex_bin=$(resolve_cli "${MONITOR_CODEX_BIN:-}" codex) || return 1
+            "$codex_bin" "${args[@]}" - < "$prompt_file" >> "$LOG" 2>&1
+            ;;
+        *)
+            log "ERROR: unsupported MONITOR_AI_PROVIDER=$provider (expected claude or codex)"
+            return 2
+            ;;
+    esac
+}
+
 PROMPTS_DIR="$REPO_ROOT/$PROMPTS_DIR"
 REPORTS_DIR="$REPO_ROOT/$REPORTS_DIR"
 FINVIZ_DIR="$REPO_ROOT/$FINVIZ_DATA_DIR"
@@ -128,6 +200,28 @@ run_sentinel() {
     local system_prompt
     system_prompt=$(cat "$PROMPTS_DIR/daily-sentinel.md")
 
+    # ── Build optional scraped-articles section (WEBSEARCH_OFF mode) ────────────
+    local articles_section=""
+    local use_websearch="true"
+    if [ "${WEBSEARCH_OFF:-false}" = "true" ]; then
+        use_websearch="false"
+        log "[$ticker] webSearchOff=true — picking top articles from scraped data..."
+        local articles_text
+        articles_text=$("$PYTHON" "$SCRIPT_DIR/pick_articles.py" \
+            --ticker "$ticker" \
+            --date "$TODAY" \
+            --data-dir "$FINVIZ_DIR" \
+            --n 5 2>>"$LOG" || echo "No articles available.")
+        articles_section="
+═══════════════════════════════════════════════════════════════════════════
+RECENT NEWS ARTICLES — top 5 ranked from today's scrape (replaces Step 4 web search)
+═══════════════════════════════════════════════════════════════════════════
+${articles_text}
+
+NOTE: Web search is disabled (WEBSEARCH_OFF=true). For Step 4 of your
+instructions, use ONLY the articles above — do NOT call WebSearch or WebFetch."
+    fi
+
     local user_message
     user_message=$(cat <<PROMPT_END
 TICKER: $ticker
@@ -147,6 +241,7 @@ $ledger_context
 LAST WEEKLY DEEP ANALYSIS (baseline for zones and verdict)
 ═══════════════════════════════════════════════════════════════════════════
 $weekly_context
+$articles_section
 
 ═══════════════════════════════════════════════════════════════════════════
 TASK: Run the daily sentinel analysis for $ticker as of $TODAY.
@@ -156,19 +251,20 @@ first, then the full report.
 PROMPT_END
 )
 
-    log "[$ticker] running Claude analysis..."
+    log "[$ticker] running ${MONITOR_AI_PROVIDER:-claude} analysis..."
     local tmp_output="/tmp/stock-monitor-${ticker}-${TODAY}.md"
+    local tmp_prompt="/tmp/stock-monitor-${ticker}-${TODAY}.prompt"
 
-    echo "$system_prompt
+    printf '%s\n\n---\n\n%s\n' "$system_prompt" "$user_message" > "$tmp_prompt"
 
----
+    set +e
+    run_ai "$tmp_prompt" "$tmp_output" "$use_websearch"
+    local ai_exit=$?
+    set -e
+    rm -f "$tmp_prompt"
 
-$user_message" | claude -p \
-        --allowedTools "WebSearch(query),WebFetch(url,prompt)" \
-        > "$tmp_output" 2>>"$LOG"
-
-    if [ $? -ne 0 ] || [ ! -s "$tmp_output" ]; then
-        log "[$ticker] ERROR: Claude analysis failed or produced empty output"
+    if [ "$ai_exit" -ne 0 ] || [ ! -s "$tmp_output" ]; then
+        log "[$ticker] ERROR: ${MONITOR_AI_PROVIDER:-claude} analysis failed or produced empty output"
         rm -f "$tmp_output"
         return 1
     fi

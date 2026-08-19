@@ -35,6 +35,74 @@ else:
 PY
 }
 
+resolve_cli() {
+    local override="$1"
+    local name="$2"
+    shift 2
+
+    if [ -n "$override" ]; then
+        if [ -x "$override" ]; then
+            echo "$override"
+            return 0
+        fi
+        echo "  ERROR: configured $name path is not executable: $override"
+        return 1
+    fi
+
+    if command -v "$name" >/dev/null 2>&1; then
+        command -v "$name"
+        return 0
+    fi
+
+    local candidate
+    for candidate in "$@"; do
+        if [ -x "$candidate" ]; then
+            echo "$candidate"
+            return 0
+        fi
+    done
+
+    local config_var
+    case "$name" in
+        claude) config_var="MONITOR_CLAUDE_BIN" ;;
+        codex) config_var="MONITOR_CODEX_BIN" ;;
+        *) config_var="the corresponding MONITOR_*_BIN setting" ;;
+    esac
+    echo "  ERROR: $name CLI not found. Set $config_var in monitor/config.env or add $name to PATH."
+    return 1
+}
+
+run_ai() {
+    local prompt_file="$1"
+    local output_file="$2"
+    local provider="${MONITOR_AI_PROVIDER:-claude}"
+
+    case "$provider" in
+        claude)
+            local args=(-p --allowedTools "WebSearch(query),WebFetch(url,prompt)")
+            if [ -n "${MONITOR_CLAUDE_MODEL:-}" ]; then
+                args=(--model "$MONITOR_CLAUDE_MODEL" "${args[@]}")
+            fi
+            local claude_bin
+            claude_bin=$(resolve_cli "${MONITOR_CLAUDE_BIN:-}" claude) || return 1
+            "$claude_bin" "${args[@]}" < "$prompt_file" > "$output_file" 2>/dev/null
+            ;;
+        codex)
+            local args=(--search exec -C "$REPO_ROOT" --sandbox read-only --output-last-message "$output_file")
+            if [ -n "${MONITOR_CODEX_MODEL:-}" ]; then
+                args=(-m "$MONITOR_CODEX_MODEL" "${args[@]}")
+            fi
+            local codex_bin
+            codex_bin=$(resolve_cli "${MONITOR_CODEX_BIN:-}" codex) || return 1
+            "$codex_bin" "${args[@]}" - < "$prompt_file" >/dev/null 2>&1
+            ;;
+        *)
+            echo "  ERROR: unsupported MONITOR_AI_PROVIDER=$provider (expected claude or codex)"
+            return 2
+            ;;
+    esac
+}
+
 PROMPTS_DIR="$REPO_ROOT/$PROMPTS_DIR"
 REPORTS_DIR="$REPO_ROOT/$REPORTS_DIR"
 FINVIZ_DIR="$REPO_ROOT/$FINVIZ_DATA_DIR"
@@ -173,19 +241,20 @@ weekly deep dive, not the daily sentinel.
 PROMPT_END
 )
 
-    echo "  Running Claude deep analysis (this takes longer)..."
+    echo "  Running ${MONITOR_AI_PROVIDER:-claude} deep analysis (this takes longer)..."
     local tmp_output="/tmp/stock-monitor-weekly-${ticker}-${TODAY}.md"
+    local tmp_prompt="/tmp/stock-monitor-weekly-${ticker}-${TODAY}.prompt"
 
-    echo "$system_prompt
+    printf '%s\n\n---\n\n%s\n' "$system_prompt" "$user_message" > "$tmp_prompt"
 
----
+    set +e
+    run_ai "$tmp_prompt" "$tmp_output"
+    local ai_exit=$?
+    set -e
+    rm -f "$tmp_prompt"
 
-$user_message" | claude -p \
-        --allowedTools "WebSearch(query),WebFetch(url,prompt)" \
-        > "$tmp_output" 2>/dev/null
-
-    if [ $? -ne 0 ] || [ ! -s "$tmp_output" ]; then
-        echo "  ERROR: Claude analysis failed or produced empty output."
+    if [ "$ai_exit" -ne 0 ] || [ ! -s "$tmp_output" ]; then
+        echo "  ERROR: ${MONITOR_AI_PROVIDER:-claude} analysis failed or produced empty output."
         rm -f "$tmp_output"
         return 1
     fi
