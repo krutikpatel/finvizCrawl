@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-rally-regulatory-optimism-130900172.html",
+    "fetched_at": "2026-08-20T07:05:47.041214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crypto Stocks Rally on Regulatory Optimism After Washington Meeting",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCrypto-linked equities rose premarket on regulatory optimism as industry executives gathered in Washington. Strategy (NASDAQ:MSTR) gained 9.72%, Coinbase Global (NASDAQ:COIN) 7.77% and Robinhood Markets (NASDAQ:HOOD) 5.20%.\nThe optimism started with Bitcoin, which rose to $71,800, its highest since early June. The move broke a months-long trading range amid what Bloomberg described as regulatory optimism as officials assembled at the White House. The move triggered more than $1 billion of liquidations within an hour and carried Bitcoin above its 100-day and 200-day moving averages.\nTwo developments sit behind it. The SEC proposed this week exempting certain digital asset offerings from securities registration, aimed at companies at the startup and fundraising stages, moving ahead after legislation stalled in Congress. And President Donald Trump used Wednesday's meeting to press Congress to pass the Clarity Act, joined by executives including Coinbase's Brian Armstrong, Gemini's Tyler and Cameron Winklevoss, Kraken co-CEO Arjun Sethi and Robinhood's Vlad Tenev.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Crypto-linked equities rose premarket on regulatory optimism as industry executives gathered in Washington. Strategy (NASDAQ:MSTR) gained 9.72%, Coinbase Global (NASDAQ:COIN) 7.77% and Robinhood Markets (NASDAQ:HOOD) 5.20%.",
+      "The optimism started with Bitcoin, which rose to $71,800, its highest since early June. The move broke a months-long trading range amid what Bloomberg described as regulatory optimism as officials assembled at the White House. The move triggered more than $1 billion of liquidations within an hour and carried Bitcoin above its 100-day and 200-day moving averages.",
+      "Two developments sit behind it. The SEC proposed this week exempting certain digital asset offerings from securities registration, aimed at companies at the startup and fundraising stages, moving ahead after legislation stalled in Congress. And President Donald Trump used Wednesday's meeting to press Congress to pass the Clarity Act, joined by executives including Coinbase's Brian Armstrong, Gemini's Tyler and Cameron Winklevoss, Kraken co-CEO Arjun Sethi and Robinhood's Vlad Tenev."
+    ],
+    "html": null
+  }
+}

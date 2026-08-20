@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-inflection-point-0d4f3239?mod=bar_FV",
+    "fetched_at": "2026-08-20T07:05:31.167602-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Is at a ‘Major Inflection’ Point. Here’s What Could Drive It. <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Stock Is at a ‘Major Inflection’ Point. Here’s What Could Drive It.\nTesla stock dropped early Thursday despite what one analyst called a “major inflection” point.\nTesla stock dropped early Thursday despite what one analyst called a “major inflection” point.",
+    "text_blocks": [
+      "Tesla Stock Is at a ‘Major Inflection’ Point. Here’s What Could Drive It.",
+      "Tesla stock dropped early Thursday despite what one analyst called a “major inflection” point.",
+      "Tesla stock dropped early Thursday despite what one analyst called a “major inflection” point."
+    ],
+    "html": null
+  }
+}

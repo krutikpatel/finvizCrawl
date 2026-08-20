@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/micron-unveils-10-billion-ai-134438383.html",
+    "fetched_at": "2026-08-20T07:05:42.042826-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron unveils $10 billion AI memory research lab in Boise",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 20 (Reuters) - Micron Technology said on Thursday it plans to spend $10 billion on its newly established research lab at Boise, Idaho, over the next decade to advance memory technologies, develop compute systems and support future chip manufacturing.\nLarge memory chipmakers such as Micron, Samsung Electronics and SK Hynix have been benefiting from a surge in demand from the rapid expansion of AI infrastructure.\nHere are some details:\n• Micron Research Labs will bring together customers, academia, government and the broader semiconductor ecosystem to pursue breakthroughs, the company said.\n• The latest investment builds on the more than $250 billion that Micron had separately committed to manufacturing and R&D across the United States.\n• The lab will be connected to Micron's research and technology footprint across the U.S., Europe, Japan, India, Singapore and Taiwan.\n• Growing adoption of AI workloads and infrastructure buildout have boosted demand for high-bandwidth memory, which rapidly feeds data to AI accelerators, making it a critical component of modern computing infrastructure.\n• The Trump administration has prioritized domestic chip manufacturing in a bid to reduce foreign dependence, boost the economic output and maintain its lead in the AI race.\n• Micron expects to break ground on the facility in 2027, which will be capable of hosting hundreds of researchers and facilitating international conferences and workshops.\n(Reporting by Jaspreet Singh in Bengaluru; Editing by Shilpi Majumdar)",
+    "text_blocks": [
+      "Aug 20 (Reuters) - Micron Technology said on Thursday it plans to spend $10 billion on its newly established research lab at Boise, Idaho, over the next decade to advance memory technologies, develop compute systems and support future chip manufacturing.",
+      "Large memory chipmakers such as Micron, Samsung Electronics and SK Hynix have been benefiting from a surge in demand from the rapid expansion of AI infrastructure.",
+      "Here are some details:",
+      "• Micron Research Labs will bring together customers, academia, government and the broader semiconductor ecosystem to pursue breakthroughs, the company said.",
+      "• The latest investment builds on the more than $250 billion that Micron had separately committed to manufacturing and R&D across the United States.",
+      "• The lab will be connected to Micron's research and technology footprint across the U.S., Europe, Japan, India, Singapore and Taiwan.",
+      "• Growing adoption of AI workloads and infrastructure buildout have boosted demand for high-bandwidth memory, which rapidly feeds data to AI accelerators, making it a critical component of modern computing infrastructure.",
+      "• The Trump administration has prioritized domestic chip manufacturing in a bid to reduce foreign dependence, boost the economic output and maintain its lead in the AI race.",
+      "• Micron expects to break ground on the facility in 2027, which will be capable of hosting hundreds of researchers and facilitating international conferences and workshops.",
+      "(Reporting by Jaspreet Singh in Bengaluru; Editing by Shilpi Majumdar)"
+    ],
+    "html": null
+  }
+}

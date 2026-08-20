@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-xrp-cardano-increases-d352d763-b70d217ccec3?mod=mw_FV",
+    "fetched_at": "2026-08-20T07:05:31.149234-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Large cryptocurrencies climb on XRP, Cardano increases - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Crypto Update\nLarge cryptocurrencies climb on XRP, Cardano increases\nAll large cryptocurrencies were up during U.S. morning trading on Thursday, with XRP XRP USD seeing the biggest move, jumping 11.01% to $1.22.\nCardano Cardano USD increased 5.21% to 19 cents, while Dogecoin Dogecoin USD increased 4.26% to 8 cents.",
+    "text_blocks": [
+      "Crypto Update",
+      "Large cryptocurrencies climb on XRP, Cardano increases",
+      "All large cryptocurrencies were up during U.S. morning trading on Thursday, with XRP XRP USD seeing the biggest move, jumping 11.01% to $1.22.",
+      "Cardano Cardano USD increased 5.21% to 19 cents, while Dogecoin Dogecoin USD increased 4.26% to 8 cents."
+    ],
+    "html": null
+  }
+}

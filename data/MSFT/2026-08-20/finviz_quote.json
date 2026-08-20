@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=MSFT",
+    "fetched_at": "2026-08-20T07:05:54.849473-07:00"
+  },
+  "company": {
+    "name": "Microsoft Corp",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 481.82,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "DJIA, NDX, S&P 500",
+    "Market Cap": "3577.75B",
+    "Enterprise Value": "3629.72B",
+    "Income": "133.75B",
+    "Sales": "331.84B",
+    "Book/sh": "59.56",
+    "Cash/sh": "10.35",
+    "Dividend Est.": "3.90 (0.81%)",
+    "Dividend TTM": "3.64 (0.76%)",
+    "Dividend Ex-Date": "Aug 20, 2026",
+    "Dividend Gr. 3/5Y": "10.20% 10.20%",
+    "Payout": "20.28%",
+    "Employees": "223000",
+    "IPO": "Mar 13, 1986"
+  },
+  "raw": null
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/hudson-river-signs-multibillion-dollar-115000004.html",
+    "fetched_at": "2026-08-20T07:05:56.467037-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Hudson River Signs Multibillion-Dollar CoreWeave Deal for AI Cloud",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Hudson River Trading signed a multiyear deal with CoreWeave Inc. to build new trading research and models using the tech company's artificial intelligence computing services.\nMost Read from Bloomberg\n-\nBessent Deploys Debt Buybacks in Sign of Concern Over Yield Rise\n-\nChina Sentences Evergrande's Hui to Life for 'Heinous' Crime\n-\nNatalie Harp, Trump's Gatekeeper, Is at Center of Senator Jon Ossoff Clash\nThe multibillion-dollar agreement will build on an existing partnership between the two companies, CoreWeave Chief Revenue Officer Jon Jones said in an interview. \"This is a material expansion,\" Jones said, while declining to give specific financial details.\nAs part of the pact, HRT will become one of the first CoreWeave customers to get wide-scale access to Nvidia Corp.'s newest Vera Rubin AI chips, Jones said.\nHRT, which has grown into one of the largest nonbank trading firms in the US, is increasingly relying on CoreWeave and other so-called neoclouds — suppliers of high-performance cloud computing for AI workloads. Having more processing power lets firms like HRT handle a greater number of trades over longer time horizons.\n\"Having access to more compute resources just allows our researchers to try more things and hopefully find more interesting results,\" Kevin Lee, head of research and development at HRT, said in an interview. In an industry where many projects run late and AI chips typically don't operate at peak efficiency, CoreWeave has impressed HRT by delivering on time — or sometimes ahead of schedule — and showing prowess in running Nvidia chips efficiently, he said.\nAfter once relying on Microsoft Corp. for more than 70% of its sales, CoreWeave has been working to diversify its customer base. HRT first became a client in March.\nThe cloud company has been trying to expand its business beyond technology and AI lab customers and is particularly focusing on financial customers. CoreWeave touted that it was doing more business with HRT in its quarterly earnings report last week.\nJane Street, HRT's largest competitor, is also a backer and user of CoreWeave's technology. It agreed to spend $6 billion to tap CoreWeave's data center capacity, and took a $1 billion equity stake in the cloud service provider.\nIn June, CoreWeave raised billions in debt in a loan that was meant to fund capacity for HRT, as well as rival Jane Street, Bloomberg reported at the time.",
+    "text_blocks": [
+      "(Bloomberg) -- Hudson River Trading signed a multiyear deal with CoreWeave Inc. to build new trading research and models using the tech company's artificial intelligence computing services.",
+      "Most Read from Bloomberg",
+      "-",
+      "Bessent Deploys Debt Buybacks in Sign of Concern Over Yield Rise",
+      "-",
+      "China Sentences Evergrande's Hui to Life for 'Heinous' Crime",
+      "-",
+      "Natalie Harp, Trump's Gatekeeper, Is at Center of Senator Jon Ossoff Clash",
+      "The multibillion-dollar agreement will build on an existing partnership between the two companies, CoreWeave Chief Revenue Officer Jon Jones said in an interview. \"This is a material expansion,\" Jones said, while declining to give specific financial details.",
+      "As part of the pact, HRT will become one of the first CoreWeave customers to get wide-scale access to Nvidia Corp.'s newest Vera Rubin AI chips, Jones said.",
+      "HRT, which has grown into one of the largest nonbank trading firms in the US, is increasingly relying on CoreWeave and other so-called neoclouds — suppliers of high-performance cloud computing for AI workloads. Having more processing power lets firms like HRT handle a greater number of trades over longer time horizons.",
+      "\"Having access to more compute resources just allows our researchers to try more things and hopefully find more interesting results,\" Kevin Lee, head of research and development at HRT, said in an interview. In an industry where many projects run late and AI chips typically don't operate at peak efficiency, CoreWeave has impressed HRT by delivering on time — or sometimes ahead of schedule — and showing prowess in running Nvidia chips efficiently, he said.",
+      "After once relying on Microsoft Corp. for more than 70% of its sales, CoreWeave has been working to diversify its customer base. HRT first became a client in March.",
+      "The cloud company has been trying to expand its business beyond technology and AI lab customers and is particularly focusing on financial customers. CoreWeave touted that it was doing more business with HRT in its quarterly earnings report last week.",
+      "Jane Street, HRT's largest competitor, is also a backer and user of CoreWeave's technology. It agreed to spend $6 billion to tap CoreWeave's data center capacity, and took a $1 billion equity stake in the cloud service provider.",
+      "In June, CoreWeave raised billions in debt in a loan that was meant to fund capacity for HRT, as well as rival Jane Street, Bloomberg reported at the time."
+    ],
+    "html": null
+  }
+}

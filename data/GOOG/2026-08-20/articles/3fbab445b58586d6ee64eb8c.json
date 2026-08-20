@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/gains-in-ai-company-stakes-juice-second-quarter-earnings-for-sp-500-100419261.html",
+    "fetched_at": "2026-08-20T07:05:53.043381-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Gains in AI company stakes juice second-quarter earnings for S&P 500",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Caroline Valetkevitch\nNEW YORK, Aug 20 (Reuters) - S&P 500 companies are winding up a banner quarterly earnings season, fueled in large part by surging profits at AI-related companies.\nThe S&P 500 is on track for a 52% surge in aggregate second-quarter earnings from the year before, helped by a 74% profit jump in the technology sector. The figures include big mark-to-market boosts at Alphabet and Amazon, both of which recognized large gains in the period on investments in AI highfliers such as Anthropic (ANTH.PVT).\nExcluding those gains, the latest estimate for S&P 500 second-quarter profit growth would be 33%, according to Tajinder Dhillon, head of earnings research at LSEG. That is still the strongest quarter since 2021, in the wake of the pandemic's start, but the gap is worth considering because many investors view mark-to-market profit gains with caution as they can accentuate the impact of market swings on a company's performance.\n\"Mark-to-market gains can turn into losses just as fast,\" Savita Subramanian, equity and quant strategist at BofA Securities, wrote in a recent client note. \"We are not arguing mark-to-market gains are bad, though we remain cautious that increasing earnings dependence on (largely) uncontrollable factors reduces visibility.\"\nGoldman Sachs (GS) strategists said this month that AI infrastructure stocks account for roughly a third of S&P 500 earnings per share growth for the second quarter.\nINVESTOR CAUTION OVER AI VALUATIONS\nOptimism about AI-related companies has driven Wall Street higher in recent years, but investors have become increasingly nervous about elevated valuations and circular financing deals, including those between dominant AI chipmaker Nvidia and its customers.\nNvidia (NVDA), the world's most valuable company, said on Monday it would provide a guarantee of up to $105 billion to help OpenAI (OPAI.PVT) lease a sprawling data center in Ohio. Nvidia shares rose on Monday but declined the next day in a broad technology pullback centering on the cost of the AI buildout, particularly in a nervous U.S. bond market.\n\"As far as the hyperscalers go, they're borrowing money, they're selling stock,\" said Michael O'Rourke, chief market strategist at JonesTrading in Stamford, Connecticut.\n\"We're probably stealing from the future here. So as much as we're shooting to the upside in earnings, that sets us up for disappointments next year or the following year... Investors need to be cognizant of that.\"\nALPHABET, AMAZON GAINS DETAILED",
+    "text_blocks": [
+      "By Caroline Valetkevitch",
+      "NEW YORK, Aug 20 (Reuters) - S&P 500 companies are winding up a banner quarterly earnings season, fueled in large part by surging profits at AI-related companies.",
+      "The S&P 500 is on track for a 52% surge in aggregate second-quarter earnings from the year before, helped by a 74% profit jump in the technology sector. The figures include big mark-to-market boosts at Alphabet and Amazon, both of which recognized large gains in the period on investments in AI highfliers such as Anthropic (ANTH.PVT).",
+      "Excluding those gains, the latest estimate for S&P 500 second-quarter profit growth would be 33%, according to Tajinder Dhillon, head of earnings research at LSEG. That is still the strongest quarter since 2021, in the wake of the pandemic's start, but the gap is worth considering because many investors view mark-to-market profit gains with caution as they can accentuate the impact of market swings on a company's performance.",
+      "\"Mark-to-market gains can turn into losses just as fast,\" Savita Subramanian, equity and quant strategist at BofA Securities, wrote in a recent client note. \"We are not arguing mark-to-market gains are bad, though we remain cautious that increasing earnings dependence on (largely) uncontrollable factors reduces visibility.\"",
+      "Goldman Sachs (GS) strategists said this month that AI infrastructure stocks account for roughly a third of S&P 500 earnings per share growth for the second quarter.",
+      "INVESTOR CAUTION OVER AI VALUATIONS",
+      "Optimism about AI-related companies has driven Wall Street higher in recent years, but investors have become increasingly nervous about elevated valuations and circular financing deals, including those between dominant AI chipmaker Nvidia and its customers.",
+      "Nvidia (NVDA), the world's most valuable company, said on Monday it would provide a guarantee of up to $105 billion to help OpenAI (OPAI.PVT) lease a sprawling data center in Ohio. Nvidia shares rose on Monday but declined the next day in a broad technology pullback centering on the cost of the AI buildout, particularly in a nervous U.S. bond market.",
+      "\"As far as the hyperscalers go, they're borrowing money, they're selling stock,\" said Michael O'Rourke, chief market strategist at JonesTrading in Stamford, Connecticut.",
+      "\"We're probably stealing from the future here. So as much as we're shooting to the upside in earnings, that sets us up for disappointments next year or the following year... Investors need to be cognizant of that.\"",
+      "ALPHABET, AMAZON GAINS DETAILED"
+    ],
+    "html": null
+  }
+}

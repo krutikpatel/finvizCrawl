@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-quietly-become-one-microsoft-110000871.html",
+    "fetched_at": "2026-08-20T07:05:39.228718-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "(Bloomberg) -- Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.\nMost Read from Bloomberg\n-\nBessent Deploys Debt Buybacks in Sign of Concern Over Yield Rise\n-\nChina Sentences Evergrande's Hui to Life for 'Heinous' Crime\n-\nNatalie Harp, Trump's Gatekeeper, Is at Center of Senator Jon Ossoff Clash\nThe social media company is spending hundreds of millions of dollars a year to access artificial intelligence models through Microsoft's Azure cloud service, according to a person familiar with the matter.\nEach week, Meta uses trillions of tokens — the unit of consumption for AI computing — via the platform, said the person, who requested anonymity to discuss an internal matter.\nBoth companies declined to comment.\nA major prong of Microsoft's AI strategy is offering models from a variety of providers through a marketplace called Foundry, which had 100,000 customers as of July. Clients from traditional industries such as manufacturing or transportation are often featured in Microsoft promotional material.\nBut for now, most of its largest AI customers are other tech companies, according to people familiar with the matter. ByteDance, the Chinese maker of social media app TikTok, has generally been the biggest spender on Foundry, Bloomberg previously reported.\nOther big customers include Adobe Inc., AI firm Perplexity and Sierra, the customer service AI startup co-founded by OpenAI Chairman Bret Taylor, one of the people said.\nThe potential downsides of revenue concentration and circular business dealings have dogged the tech industry in recent years. For AI to live up to the hype, the technology must be widely adopted across the economy rather than just by sophisticated tech firms.\nMicrosoft is especially reliant on a handful of tech sector customers. OpenAI, the company's longtime partner, provided about 70% of Microsoft's overall AI revenue in its most recent fiscal year. In addition to model access, Microsoft offers an AI assistant, Copilot, and rents out AI-focused computing power.\nMeta is spending heavily on AI to assist its software development efforts, buying access to models through multiple platforms based on their availability and how much they cost, according to people with knowledge of the matter. Developers at Meta have used OpenAI technology through Foundry to help them assess the output of their own models, one of the people said.",
+    "text_blocks": [
+      "(Bloomberg) -- Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.",
+      "Most Read from Bloomberg",
+      "-",
+      "Bessent Deploys Debt Buybacks in Sign of Concern Over Yield Rise",
+      "-",
+      "China Sentences Evergrande's Hui to Life for 'Heinous' Crime",
+      "-",
+      "Natalie Harp, Trump's Gatekeeper, Is at Center of Senator Jon Ossoff Clash",
+      "The social media company is spending hundreds of millions of dollars a year to access artificial intelligence models through Microsoft's Azure cloud service, according to a person familiar with the matter.",
+      "Each week, Meta uses trillions of tokens — the unit of consumption for AI computing — via the platform, said the person, who requested anonymity to discuss an internal matter.",
+      "Both companies declined to comment.",
+      "A major prong of Microsoft's AI strategy is offering models from a variety of providers through a marketplace called Foundry, which had 100,000 customers as of July. Clients from traditional industries such as manufacturing or transportation are often featured in Microsoft promotional material.",
+      "But for now, most of its largest AI customers are other tech companies, according to people familiar with the matter. ByteDance, the Chinese maker of social media app TikTok, has generally been the biggest spender on Foundry, Bloomberg previously reported.",
+      "Other big customers include Adobe Inc., AI firm Perplexity and Sierra, the customer service AI startup co-founded by OpenAI Chairman Bret Taylor, one of the people said.",
+      "The potential downsides of revenue concentration and circular business dealings have dogged the tech industry in recent years. For AI to live up to the hype, the technology must be widely adopted across the economy rather than just by sophisticated tech firms.",
+      "Microsoft is especially reliant on a handful of tech sector customers. OpenAI, the company's longtime partner, provided about 70% of Microsoft's overall AI revenue in its most recent fiscal year. In addition to model access, Microsoft offers an AI assistant, Copilot, and rents out AI-focused computing power.",
+      "Meta is spending heavily on AI to assist its software development efforts, buying access to models through multiple platforms based on their availability and how much they cost, according to people with knowledge of the matter. Developers at Meta have used OpenAI technology through Foundry to help them assess the output of their own models, one of the people said."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/circle-strategy-lead-crypto-stocks-123645595.html",
+    "fetched_at": "2026-08-20T07:05:46.940012-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Circle, Strategy Lead Crypto Stocks Rally as Bitcoin Surges Above $71,000",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCircle Internet Group (NYSE:CRCL) shares climbed 5% on early Thursday as a sharp rebound in Bitcoin lifted a broad group of cryptocurrency-related stocks.\nCrypto-linked stocks moved higher alongside the cryptocurrency. Strategy (NASDAQ:MSTR) and Bullish (NYSE:BLSH) each gained 4%, while Riot Platforms (NASDAQ:RIOT) added 2%. Mara Holdings (NASDAQ:MARA) rose 4%, and Robinhood (HOOD) advanced 4%.\nBitcoin rose more than 9% to about $71,000, reaching its highest level since June 2. The move came as lower long-term Treasury yields improved the backdrop for risk-sensitive assets after the U.S. Treasury increased planned purchases of longer-dated government debt.\nCircle has remained closely linked to broader crypto-market sentiment through its role in the stablecoin ecosystem. A sustained Bitcoin rebound could provide additional support for sentiment toward the sector, although the shares may remain sensitive to changes in digital-asset prices and broader market conditions.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Circle Internet Group (NYSE:CRCL) shares climbed 5% on early Thursday as a sharp rebound in Bitcoin lifted a broad group of cryptocurrency-related stocks.",
+      "Crypto-linked stocks moved higher alongside the cryptocurrency. Strategy (NASDAQ:MSTR) and Bullish (NYSE:BLSH) each gained 4%, while Riot Platforms (NASDAQ:RIOT) added 2%. Mara Holdings (NASDAQ:MARA) rose 4%, and Robinhood (HOOD) advanced 4%.",
+      "Bitcoin rose more than 9% to about $71,000, reaching its highest level since June 2. The move came as lower long-term Treasury yields improved the backdrop for risk-sensitive assets after the U.S. Treasury increased planned purchases of longer-dated government debt.",
+      "Circle has remained closely linked to broader crypto-market sentiment through its role in the stablecoin ecosystem. A sustained Bitcoin rebound could provide additional support for sentiment toward the sector, although the shares may remain sensitive to changes in digital-asset prices and broader market conditions."
+    ],
+    "html": null
+  }
+}

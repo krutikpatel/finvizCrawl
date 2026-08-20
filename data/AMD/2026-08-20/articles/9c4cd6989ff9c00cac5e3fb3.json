@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/amd-is-betting-on-dirt-cheap-ai-chips-but-financing-them-is-a-major-question-mark-986afa99?mod=mw_FV",
+    "fetched_at": "2026-08-20T07:06:12.395327-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Opinion: AMD is betting on dirt-cheap AI chips, but financing them is a major question mark - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Your Digital Self\nOpinion: AMD is betting on dirt-cheap AI chips, but financing them is a major question mark\nAMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders\nThere is a chip that runs Meta’s Llama 3.1 and nothing else. Not by configuration. The model is stamped into the silicon during manufacturing, and it will never run anything else for as long as it exists. It is remarkably fast, and by its maker’s arithmetic, cheap to run. What nobody can tell you is what a bank would lend against it in three years.\nThe chip is called HC1, and on Aug. 6, AMD AMD reached an agreement to purchase its maker, Toronto-based startup Taalas. With the deal, which is expected to close later this year, AMD is betting customers will accept single-model hardware if it is fast enough and cheap enough.",
+    "text_blocks": [
+      "Your Digital Self",
+      "Opinion: AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
+      "AMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders",
+      "There is a chip that runs Meta’s Llama 3.1 and nothing else. Not by configuration. The model is stamped into the silicon during manufacturing, and it will never run anything else for as long as it exists. It is remarkably fast, and by its maker’s arithmetic, cheap to run. What nobody can tell you is what a bank would lend against it in three years.",
+      "The chip is called HC1, and on Aug. 6, AMD AMD reached an agreement to purchase its maker, Toronto-based startup Taalas. With the deal, which is expected to close later this year, AMD is betting customers will accept single-model hardware if it is fast enough and cheap enough."
+    ],
+    "html": null
+  }
+}

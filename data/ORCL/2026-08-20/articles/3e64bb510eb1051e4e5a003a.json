@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/healthcare/articles/oracle-makes-fresh-ai-push-191144816.html",
+    "fetched_at": "2026-08-20T07:05:50.075555-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Makes Fresh AI Push Into Healthcare",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) is expanding artificial intelligence deeper into healthcare workflows, adding automated coding, chart review and clinician-controlled dictation to its Clinical AI Agent as the software giant tries to make its healthcare platform a more valuable part of its fast-growing cloud ecosystem.\nOracle Health, built largely around the company's $28.3 billion acquisition of Cerner, sells electronic health-record and clinical software to hospitals and healthcare providers. The broader Oracle business generated a record $67.4 billion in fiscal 2026 revenue, with cloud revenue jumping 39% to $34 billion, making AI-enabled applications increasingly important to sustaining that growth.\nThe new coding capability analyzes conversations during patient visits and suggests professional-fee charge codes that clinicians can review before submission. Its chart-review tool pulls together relevant medical history, medications, lab results and other EHR information, while AI dictation lets doctors speak directly into text fields for real-time transcription.\nOracle says its existing Clinical AI Agent note-generation technology has already saved physicians more than 400,000 hours across U.S. healthcare organizations.\nThat productivity angle is important. Healthcare providers face persistent administrative workloads, and reducing time spent documenting visits or reviewing charts could make Oracle's platform harder to replace while giving customers a clearer economic case for adopting additional AI tools.\nOracle said clinicians remain responsible for final decisions, an important safeguard as AI moves into sensitive clinical workflows.\nInvestor Takeaway\nFor Oracle investors, the key question is whether these AI features drive measurable adoption and deeper spending from healthcare customers rather than simply improving the product set.\nInvestors should watch Oracle's cloud-application growth, healthcare customer retention and evidence that Clinical AI Agent usage is expanding beyond note generation. Oracle's fiscal 2026 cloud revenue already grew 39%, so continued AI monetization could help support that momentum.\nThe upside case strengthens if hospitals increasingly standardize coding, documentation and chart review on Oracle's platform, raising switching costs and recurring revenue.\nThe risk is execution. Healthcare deployments are complex, and accuracy, compliance and clinician trust will determine whether AI adoption scales. For now, the 400,000 hours saved provides an early usage signal investors can measure against future adoption milestones.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) is expanding artificial intelligence deeper into healthcare workflows, adding automated coding, chart review and clinician-controlled dictation to its Clinical AI Agent as the software giant tries to make its healthcare platform a more valuable part of its fast-growing cloud ecosystem.",
+      "Oracle Health, built largely around the company's $28.3 billion acquisition of Cerner, sells electronic health-record and clinical software to hospitals and healthcare providers. The broader Oracle business generated a record $67.4 billion in fiscal 2026 revenue, with cloud revenue jumping 39% to $34 billion, making AI-enabled applications increasingly important to sustaining that growth.",
+      "The new coding capability analyzes conversations during patient visits and suggests professional-fee charge codes that clinicians can review before submission. Its chart-review tool pulls together relevant medical history, medications, lab results and other EHR information, while AI dictation lets doctors speak directly into text fields for real-time transcription.",
+      "Oracle says its existing Clinical AI Agent note-generation technology has already saved physicians more than 400,000 hours across U.S. healthcare organizations.",
+      "That productivity angle is important. Healthcare providers face persistent administrative workloads, and reducing time spent documenting visits or reviewing charts could make Oracle's platform harder to replace while giving customers a clearer economic case for adopting additional AI tools.",
+      "Oracle said clinicians remain responsible for final decisions, an important safeguard as AI moves into sensitive clinical workflows.",
+      "Investor Takeaway",
+      "For Oracle investors, the key question is whether these AI features drive measurable adoption and deeper spending from healthcare customers rather than simply improving the product set.",
+      "Investors should watch Oracle's cloud-application growth, healthcare customer retention and evidence that Clinical AI Agent usage is expanding beyond note generation. Oracle's fiscal 2026 cloud revenue already grew 39%, so continued AI monetization could help support that momentum.",
+      "The upside case strengthens if hospitals increasingly standardize coding, documentation and chart review on Oracle's platform, raising switching costs and recurring revenue.",
+      "The risk is execution. Healthcare deployments are complex, and accuracy, compliance and clinician trust will determine whether AI adoption scales. For now, the 400,000 hours saved provides an early usage signal investors can measure against future adoption milestones."
+    ],
+    "html": null
+  }
+}

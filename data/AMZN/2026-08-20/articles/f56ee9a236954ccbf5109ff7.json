@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/the-ai-bond-bonanza-could-be-a-big-problem-for-the-stock-market-54f1d621?mod=bar_FV",
+    "fetched_at": "2026-08-20T07:06:09.247999-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI Bond Bonanza Could Be a Big Problem for the Stock Market<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The AI Bond Bonanza Could Be a Big Problem for the Stock Market\nAs U.S. companies raise billions of dollars to fund their AI dreams, they’re primarily tapping debt markets. But the burden of debt can hurt stock investors, too.\nAs U.S. companies raise billions of dollars to fund their AI dreams, they’re primarily tapping debt markets. But the burden of debt can hurt stock investors, too.",
+    "text_blocks": [
+      "The AI Bond Bonanza Could Be a Big Problem for the Stock Market",
+      "As U.S. companies raise billions of dollars to fund their AI dreams, they’re primarily tapping debt markets. But the burden of debt can hurt stock investors, too.",
+      "As U.S. companies raise billions of dollars to fund their AI dreams, they’re primarily tapping debt markets. But the burden of debt can hurt stock investors, too."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/food-distributor-sysco-adds-two-131722154.html",
+    "fetched_at": "2026-08-20T07:06:09.885005-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Food distributor Sysco adds two board members to advance AI transformation",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 20 (Reuters) - Sysco on Thursday said it has appointed two new directors with artificial intelligence and industry expertise, while also strengthening board oversight, as the food distributor pushes ahead with its AI-driven transformation.\nThe move comes as food and restaurant companies increasingly adopt AI tools to improve demand forecasting, inventory management, supply-chain planning and customer service.\nHere are the details:\n• Jason Murray, CEO of logistics technology firm Shipium and a former Amazon executive, and Tom Ondrof, former CFO of food service company Aramark, will join the board on September 1, increasing its size to 13 directors.\n• The Houston-based company also said its Technology Committee has been renamed the Artificial Intelligence Transformation & Technology Committee, with Murray joining the panel.\n• The company expects $100 million in savings from AI, automation and process improvements in fiscal 2027, contributing to revenue growth of 6% to 7% and adjusted EPS growth of 9% to 11%, per its August outlook.\n• Sysco said long-time shareholder D.E. Shaw supports its AI initiatives and expects to participate in the capital raise for the company's planned acquisition of Jetro Restaurant Depot.\n(Reporting by Krisha Bhatt in Bengaluru; Editing by Vijay Kishore)",
+    "text_blocks": [
+      "Aug 20 (Reuters) - Sysco on Thursday said it has appointed two new directors with artificial intelligence and industry expertise, while also strengthening board oversight, as the food distributor pushes ahead with its AI-driven transformation.",
+      "The move comes as food and restaurant companies increasingly adopt AI tools to improve demand forecasting, inventory management, supply-chain planning and customer service.",
+      "Here are the details:",
+      "• Jason Murray, CEO of logistics technology firm Shipium and a former Amazon executive, and Tom Ondrof, former CFO of food service company Aramark, will join the board on September 1, increasing its size to 13 directors.",
+      "• The Houston-based company also said its Technology Committee has been renamed the Artificial Intelligence Transformation & Technology Committee, with Murray joining the panel.",
+      "• The company expects $100 million in savings from AI, automation and process improvements in fiscal 2027, contributing to revenue growth of 6% to 7% and adjusted EPS growth of 9% to 11%, per its August outlook.",
+      "• Sysco said long-time shareholder D.E. Shaw supports its AI initiatives and expects to participate in the capital raise for the company's planned acquisition of Jetro Restaurant Depot.",
+      "(Reporting by Krisha Bhatt in Bengaluru; Editing by Vijay Kishore)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/spacex-stock-price-today-magnificent-seven-0a22f620?mod=bar_FV",
+    "fetched_at": "2026-08-20T07:05:35.409415-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Stock Isn’t Like the Magnificent Seven. Why There's No Great Eight.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Great Eight? Why SpaceX Stock Isn’t Like the Magnificent Seven.\nWhat exactly is SpaceX? It isn’t as easy to answer as investors might think. It’s part space pioneer, part aspiring AI giant, part telecom, part high-tech manufacturer, and part Elon Musk.",
+    "text_blocks": [
+      "Great Eight? Why SpaceX Stock Isn’t Like the Magnificent Seven.",
+      "What exactly is SpaceX? It isn’t as easy to answer as investors might think. It’s part space pioneer, part aspiring AI giant, part telecom, part high-tech manufacturer, and part Elon Musk."
+    ],
+    "html": null
+  }
+}

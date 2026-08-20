@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/good-news-amazon-stock-fans-122924505.html",
+    "fetched_at": "2026-08-20T07:06:09.738699-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Good News For Amazon Stock Fans",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN) is expanding its manufacturing footprint in Texas with plans for a new robotics facility in Austin, Texas Gov. Greg Abbott said in a Wednesday statement.\nThe site is expected to add between 300 and 500 manufacturing and engineering positions as Amazon expands its robotics operations. The facility will add to the company's existing investment base in the state, which has exceeded $100 billion since 2010.\nAmazon Vice President of Worldwide Economic Development Holly Sullivan pointed to Austin's workforce, universities and local partnerships as factors behind the company's decision to establish the facility there.\nThe investment adds to Amazon's broader presence in Texas across its businesses. The company has continued building out infrastructure and operations in the state as it expands its logistics and technology network.\nAmazon shares could see modest investor interest from the facility plans, although the direct financial contribution is likely to remain limited relative to the company's overall operations. The project may instead highlight Amazon's continued investment in automation and robotics capacity.\nThe Austin expansion is a positive operational development, but investors will likely view its near-term impact as limited compared with Amazon's larger growth initiatives.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN) is expanding its manufacturing footprint in Texas with plans for a new robotics facility in Austin, Texas Gov. Greg Abbott said in a Wednesday statement.",
+      "The site is expected to add between 300 and 500 manufacturing and engineering positions as Amazon expands its robotics operations. The facility will add to the company's existing investment base in the state, which has exceeded $100 billion since 2010.",
+      "Amazon Vice President of Worldwide Economic Development Holly Sullivan pointed to Austin's workforce, universities and local partnerships as factors behind the company's decision to establish the facility there.",
+      "The investment adds to Amazon's broader presence in Texas across its businesses. The company has continued building out infrastructure and operations in the state as it expands its logistics and technology network.",
+      "Amazon shares could see modest investor interest from the facility plans, although the direct financial contribution is likely to remain limited relative to the company's overall operations. The project may instead highlight Amazon's continued investment in automation and robotics capacity.",
+      "The Austin expansion is a positive operational development, but investors will likely view its near-term impact as limited compared with Amazon's larger growth initiatives."
+    ],
+    "html": null
+  }
+}

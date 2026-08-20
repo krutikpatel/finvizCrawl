@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/buy-formula-one-stock-price-pick-42caa170?mod=bar_FV",
+    "fetched_at": "2026-08-20T07:05:35.398784-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Formula One’s Drive to Capture American Viewers Makes the Stock a Buy<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Formula One’s Drive to Capture American Eyeballs Makes the Stock a Buy\nThe sport has finally made inroads in the elusive U.S. market. Its future looks bright.\nGiven the value of predictable performance and steady returns, boring is often beautiful when it comes to stocks. And then there’s Formula One car racing.",
+    "text_blocks": [
+      "Formula One’s Drive to Capture American Eyeballs Makes the Stock a Buy",
+      "The sport has finally made inroads in the elusive U.S. market. Its future looks bright.",
+      "Given the value of predictable performance and steady returns, boring is often beautiful when it comes to stocks. And then there’s Formula One car racing."
+    ],
+    "html": null
+  }
+}

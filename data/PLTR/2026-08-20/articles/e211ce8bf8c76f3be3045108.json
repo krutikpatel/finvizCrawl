@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/ai-regulation-coreweave-stock-a940ab5e?mod=bar_FV",
+    "fetched_at": "2026-08-20T07:06:02.827107-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "These AI Companies Have Little to Fear From Coming Regulation<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "These AI Companies Have Little to Fear From Coming Regulation\nNational security concerns are driving the White House to keep a closer eye on artificial-intelligence companies’ most advanced models. But the companies that supply the massive computing power needed for AI have little to fear.",
+    "text_blocks": [
+      "These AI Companies Have Little to Fear From Coming Regulation",
+      "National security concerns are driving the White House to keep a closer eye on artificial-intelligence companies’ most advanced models. But the companies that supply the massive computing power needed for AI have little to fear."
+    ],
+    "html": null
+  }
+}

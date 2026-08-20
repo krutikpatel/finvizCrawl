@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-google-warrant-could-add-130944536.html",
+    "fetched_at": "2026-08-20T07:06:00.542214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell's Google Warrant Could Add $6.15 to Earnings Per Share",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL) drew fresh estimates following its warrant agreement with Alphabet's (NASDAQ:GOOGL) Google, with Barclays reiterating an Overweight rating and $275 price target and describing a potential revenue opportunity of $120 billion through fiscal 2033 if all warrants are exercised. It estimates that at roughly $18.5 billion a year and about $6.15 of incremental earnings per share using a 35% operating margin for the ASIC business. Stifel reached the same $120 billion figure over roughly six and a half years. Marvell shares were down 0.48% premarket.\nBarclays expects the revenue to be backend loaded, and notes the warrant tranches may not be met in full. It also reads the project as a Google effort at a more tailored inference solution using Marvell intellectual property rather than a tensor processing unit program and maintains that Broadcom (AVGO) will remain the majority TPU supplier under its existing agreement.\nThe announcement also covers memory interface controllers and near-memory compute, which Barclays suggests could involve CXL. Marvell already expects $1 billion of CXL custom XPU attach revenue in calendar 2028. JPMorgan reiterated Overweight at $240 and Raymond James Strong Buy at $235.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL) drew fresh estimates following its warrant agreement with Alphabet's (NASDAQ:GOOGL) Google, with Barclays reiterating an Overweight rating and $275 price target and describing a potential revenue opportunity of $120 billion through fiscal 2033 if all warrants are exercised. It estimates that at roughly $18.5 billion a year and about $6.15 of incremental earnings per share using a 35% operating margin for the ASIC business. Stifel reached the same $120 billion figure over roughly six and a half years. Marvell shares were down 0.48% premarket.",
+      "Barclays expects the revenue to be backend loaded, and notes the warrant tranches may not be met in full. It also reads the project as a Google effort at a more tailored inference solution using Marvell intellectual property rather than a tensor processing unit program and maintains that Broadcom (AVGO) will remain the majority TPU supplier under its existing agreement.",
+      "The announcement also covers memory interface controllers and near-memory compute, which Barclays suggests could involve CXL. Marvell already expects $1 billion of CXL custom XPU attach revenue in calendar 2028. JPMorgan reiterated Overweight at $240 and Raymond James Strong Buy at $235."
+    ],
+    "html": null
+  }
+}

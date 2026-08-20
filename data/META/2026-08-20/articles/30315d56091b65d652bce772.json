@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-delivers-bullish-message-123021107.html",
+    "fetched_at": "2026-08-20T07:05:39.086852-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BNP Paribas Delivers Bullish Message on Meta Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) could generate additional revenue from surplus artificial intelligence computing capacity, helping support the company's heavy infrastructure spending.\nBNP Paribas analyst Nick Jones kept a Buy rating and set an $855 price target, implying roughly 55% upside from recent levels. Jones said Meta may eventually offer unused computing resources through short-term or strategic arrangements when internal AI demand is lower than expected.\nThe strategy would differ from operating a traditional cloud business, with most capacity remaining dedicated to Meta's own products. Chief Executive Mark Zuckerberg had previously indicated that monetizing excess compute remained an option, although the company had not started doing so because it expected to need the infrastructure internally.\nJones also expects Meta's advertising business to provide continued revenue growth while additional AI-related opportunities could help improve returns on capital spending over time. Supply constraints for computing infrastructure and power could become a consideration later in the decade.\nBNP's target points to potential upside if Meta can monetize unused AI capacity without diverting resources from its core products.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) could generate additional revenue from surplus artificial intelligence computing capacity, helping support the company's heavy infrastructure spending.",
+      "BNP Paribas analyst Nick Jones kept a Buy rating and set an $855 price target, implying roughly 55% upside from recent levels. Jones said Meta may eventually offer unused computing resources through short-term or strategic arrangements when internal AI demand is lower than expected.",
+      "The strategy would differ from operating a traditional cloud business, with most capacity remaining dedicated to Meta's own products. Chief Executive Mark Zuckerberg had previously indicated that monetizing excess compute remained an option, although the company had not started doing so because it expected to need the infrastructure internally.",
+      "Jones also expects Meta's advertising business to provide continued revenue growth while additional AI-related opportunities could help improve returns on capital spending over time. Supply constraints for computing infrastructure and power could become a consideration later in the decade.",
+      "BNP's target points to potential upside if Meta can monetize unused AI capacity without diverting resources from its core products."
+    ],
+    "html": null
+  }
+}
