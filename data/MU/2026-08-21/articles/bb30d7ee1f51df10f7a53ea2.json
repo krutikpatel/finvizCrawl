@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-ceo-delivers-blunt-message-121958557.html",
+    "fetched_at": "2026-08-21T07:00:19.926981-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron CEO Delivers Blunt Message For Stock Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) CEO Sanjay Mehrotra said AI is reshaping the memory market as demand for higher-capacity and faster components grows.\nSpeaking on CNBC's Mad Money, Mehrotra said data-center customers are seeking about 50% more memory supply than Micron can currently commit to. He also pointed to demand from autonomous vehicles, robotics and AI-enabled consumer products.\nThe comments come as Micron expands its focus on future memory technologies. The company recently introduced a U.S. research center in Boise, Idaho, supported by a planned $10 billion investment over the next decade.\nThe facility will work on advanced memory, computing architectures, packaging and semiconductor manufacturing. Micron has also outlined more than $250 billion in planned U.S. manufacturing and research spending.\nMicron shares climbed nearly 4% Thursday. The stock has benefited from rising expectations for AI-related memory demand, with revenue growth listed at nearly 167% year over year.\nPersistent supply constraints and expanding AI applications could support Micron's revenue outlook, although expectations for memory demand are already elevated.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) CEO Sanjay Mehrotra said AI is reshaping the memory market as demand for higher-capacity and faster components grows.",
+      "Speaking on CNBC's Mad Money, Mehrotra said data-center customers are seeking about 50% more memory supply than Micron can currently commit to. He also pointed to demand from autonomous vehicles, robotics and AI-enabled consumer products.",
+      "The comments come as Micron expands its focus on future memory technologies. The company recently introduced a U.S. research center in Boise, Idaho, supported by a planned $10 billion investment over the next decade.",
+      "The facility will work on advanced memory, computing architectures, packaging and semiconductor manufacturing. Micron has also outlined more than $250 billion in planned U.S. manufacturing and research spending.",
+      "Micron shares climbed nearly 4% Thursday. The stock has benefited from rising expectations for AI-related memory demand, with revenue growth listed at nearly 167% year over year.",
+      "Persistent supply constraints and expanding AI applications could support Micron's revenue outlook, although expectations for memory demand are already elevated."
+    ],
+    "html": null
+  }
+}

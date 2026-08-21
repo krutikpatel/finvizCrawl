@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tesla-said-fatal-autopilot-crash-113000478.html",
+    "fetched_at": "2026-08-21T07:00:08.551328-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla said fatal Autopilot crash data didn't exist — a $15K bug bounty hacker proved it did, costing Tesla $243 million",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla said fatal Autopilot crash data didn't exist — a $15K bug bounty hacker proved it did, costing Tesla $243 million\nElon Musk is planning to launch Cybercabs, fully autonomous vehicles without the means for a human to control them, any day now. But a lawsuit that closed this year indicates the electric car company may not be ready for the launch.\nIn March 2024, Neima Benavides and Dillon Angulo filed a lawsuit against Tesla after a self-driving Tesla ran into Angulo and Naibel Benavides Leon's parked car, killing Benavides Leon and seriously injuring Angulo. By August 2025, a jury had decided Tesla was partially at fault, and, in February 2026, a judge denied Tesla's appeal of the case.\nMust Read\n-\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n-\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n-\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\nTesla was required to pay $243 million in damages. It also changed the name of its Autopilot and Full-Self Driving features to make it clear that humans shouldn't actually let their cars drive without supervision.\nBut the car company might have avoided a guilty ruling entirely if not for one key piece of evidence. Here's how that evidence came to light — and what the lawsuit tells us about Musk's upcoming cybercab rollout.\nA Russian hacker turned a software vulnerability gig with Tesla into a $243 million payout for the grieving family\nAs part of the lawsuit, the jury was asked to figure out what percent of Angulo and Benavides Leon's fatal crash was Tesla's fault, and what percent of it was the Tesla driver's fault.\nTheoretically, Tesla Autopilot records crash data that would make determining fault easier. Autopilot is designed to send video of the five seconds leading up to any crash directly to Tesla headquarters if the car gets into a wreck.\nTesla said they didn't have it.\n\"The data transmitted to Tesla does not include either the crash video or snapshot data,\" said Thomas Branigan, Tesla's Outside Council, in a letter to the plaintiff's attorney. \"Tesla cannot produce an 'augmented' clip.\"\nThat's where hacker, known by his X handle as @greentheonly, comes into play. The hacker had been working for Tesla through its Bug Bounty program, reporting software vulnerabilities to the company for a $15,000 reward. He was able to recover the crash data and prove that Tesla did actually have access to it, which he alleges Tesla knew, the Washington Post reported.",
+    "text_blocks": [
+      "Tesla said fatal Autopilot crash data didn't exist — a $15K bug bounty hacker proved it did, costing Tesla $243 million",
+      "Elon Musk is planning to launch Cybercabs, fully autonomous vehicles without the means for a human to control them, any day now. But a lawsuit that closed this year indicates the electric car company may not be ready for the launch.",
+      "In March 2024, Neima Benavides and Dillon Angulo filed a lawsuit against Tesla after a self-driving Tesla ran into Angulo and Naibel Benavides Leon's parked car, killing Benavides Leon and seriously injuring Angulo. By August 2025, a jury had decided Tesla was partially at fault, and, in February 2026, a judge denied Tesla's appeal of the case.",
+      "Must Read",
+      "-",
+      "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+      "-",
+      "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP",
+      "-",
+      "The tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes",
+      "Tesla was required to pay $243 million in damages. It also changed the name of its Autopilot and Full-Self Driving features to make it clear that humans shouldn't actually let their cars drive without supervision.",
+      "But the car company might have avoided a guilty ruling entirely if not for one key piece of evidence. Here's how that evidence came to light — and what the lawsuit tells us about Musk's upcoming cybercab rollout.",
+      "A Russian hacker turned a software vulnerability gig with Tesla into a $243 million payout for the grieving family",
+      "As part of the lawsuit, the jury was asked to figure out what percent of Angulo and Benavides Leon's fatal crash was Tesla's fault, and what percent of it was the Tesla driver's fault.",
+      "Theoretically, Tesla Autopilot records crash data that would make determining fault easier. Autopilot is designed to send video of the five seconds leading up to any crash directly to Tesla headquarters if the car gets into a wreck.",
+      "Tesla said they didn't have it.",
+      "\"The data transmitted to Tesla does not include either the crash video or snapshot data,\" said Thomas Branigan, Tesla's Outside Council, in a letter to the plaintiff's attorney. \"Tesla cannot produce an 'augmented' clip.\"",
+      "That's where hacker, known by his X handle as @greentheonly, comes into play. The hacker had been working for Tesla through its Bug Bounty program, reporting software vulnerabilities to the company for a $15,000 reward. He was able to recover the crash data and prove that Tesla did actually have access to it, which he alleges Tesla knew, the Washington Post reported."
+    ],
+    "html": null
+  }
+}

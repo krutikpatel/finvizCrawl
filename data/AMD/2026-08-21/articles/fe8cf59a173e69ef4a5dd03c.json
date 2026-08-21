@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/waymo-builds-own-chip-reduces-195532671.html",
+    "fetched_at": "2026-08-21T07:00:47.837066-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Waymo Builds Its Own Chip and Reduces Its Nvidia Dependence",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet's (NASDAQ:GOOGL) Waymo has built a custom application-specific integrated circuit for its robotaxis, already in production in its latest generation, Bloomberg reported. Waymo said the chip speeds up sensor data processing and the AI models its vehicles use to read and respond to their surroundings. Alphabet shares were down 1.06% intraday.\nWaymo has relied on parts from Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD), integrating them into computers of its own design. The new chip runs above 1,000 TOPS, which puts it level with Nvidia's latest autonomous driving systems on that measure, and is made on Taiwan Semiconductor's (NYSE:TSM) 5-nanometer process.\nGoogle has been building out custom silicon to control AI infrastructure costs, including the warrant arrangement with Marvell (NASDAQ:MRVL) disclosed this week. Waymo's fleet has largely been Jaguar vehicles retrofitted with autonomous technology, but the robotaxi it launched with Geely's Zeekr is now being fitted with the new chip. Waymo said the shift toward purpose-built vehicles may cut costs while giving riders more space.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet's (NASDAQ:GOOGL) Waymo has built a custom application-specific integrated circuit for its robotaxis, already in production in its latest generation, Bloomberg reported. Waymo said the chip speeds up sensor data processing and the AI models its vehicles use to read and respond to their surroundings. Alphabet shares were down 1.06% intraday.",
+      "Waymo has relied on parts from Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD), integrating them into computers of its own design. The new chip runs above 1,000 TOPS, which puts it level with Nvidia's latest autonomous driving systems on that measure, and is made on Taiwan Semiconductor's (NYSE:TSM) 5-nanometer process.",
+      "Google has been building out custom silicon to control AI infrastructure costs, including the warrant arrangement with Marvell (NASDAQ:MRVL) disclosed this week. Waymo's fleet has largely been Jaguar vehicles retrofitted with autonomous technology, but the robotaxi it launched with Geely's Zeekr is now being fitted with the new chip. Waymo said the shift toward purpose-built vehicles may cut costs while giving riders more space."
+    ],
+    "html": null
+  }
+}

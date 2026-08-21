@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-us-corporate-ai-debt-100218069.html",
+    "fetched_at": "2026-08-21T07:00:44.730547-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Analysis-US corporate AI debt surge tests investor limits as fatigue emerges",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Gertrude Chavez-Dreyfuss\nNEW YORK, Aug 21 (Reuters) - The wave of debt issuance funding the artificial-intelligence buildout is testing the limits of investor demand, with some large bond buyers warning that the market is showing signs of indigestion.\nWhile fund managers remain comfortable with the credit quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of issuance. This has raised concerns that a tipping point could emerge if AI spending continues to escalate.\n\"You've started to see the indigestion show up in tech spreads in particular,\" said Neil Sutherland, head of U.S. fixed income at Schroders.\nTech corporate bond spreads are the extra yield investors demand to hold their debt over U.S. Treasuries; wider spreads signal higher perceived risk, while tighter spreads reflect stronger investor confidence.\n\"It's not really a credit issue with higher-quality technology companies, such as Amazon and Google. But the more they have to issue bonds, the more investors are demanding a premium to absorb that debt.\"\nAnalysts cited Amazon's recent long-dated $25 billion bond sale, which priced at roughly 120 basis points over Treasuries. Last year, the spread would have been roughly half of that, they said.\n\"Tech has gone from trading materially through the market to actually trading wider than the market,\" Sutherland said. \"The higher spreads ... make other parts of the market look more expensive on a relative value basis.\"\nAlphabet declined to comment. Amazon did not respond to a request for comment.\nTech spreads are currently at 89 basis points, 9 basis points wider than the overall investment grade market, according to Karen Choi, portfolio manager at Capital Group.\nThe widening reflects a major change for a sector that historically enjoyed some of the tightest spreads in corporate credit due to strong balance sheets and relatively modest borrowing needs.\nThe surge in AI-related bonds, at a time when governments are still spending heavily, has been a leading factor pushing up Treasury yields, as buyers demand higher returns to keep purchasing the flood of bonds hitting markets. Any pullback in tech issuance could support longer-dated Treasuries.\nLARGER CONCESSIONS\nGeorge Catrambone, head of fixed income, Americas, at DWS, said investors are beginning to demand larger concessions as issuance volumes reach record levels.\nAI hyperscalers' debt issuance has reached $220 billion in 2026, according to the latest BNP Paribas data as of August 10. That is roughly $207 billion higher than in the comparable period last year, when it totaled $12.5 billion.",
+    "text_blocks": [
+      "By Gertrude Chavez-Dreyfuss",
+      "NEW YORK, Aug 21 (Reuters) - The wave of debt issuance funding the artificial-intelligence buildout is testing the limits of investor demand, with some large bond buyers warning that the market is showing signs of indigestion.",
+      "While fund managers remain comfortable with the credit quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of issuance. This has raised concerns that a tipping point could emerge if AI spending continues to escalate.",
+      "\"You've started to see the indigestion show up in tech spreads in particular,\" said Neil Sutherland, head of U.S. fixed income at Schroders.",
+      "Tech corporate bond spreads are the extra yield investors demand to hold their debt over U.S. Treasuries; wider spreads signal higher perceived risk, while tighter spreads reflect stronger investor confidence.",
+      "\"It's not really a credit issue with higher-quality technology companies, such as Amazon and Google. But the more they have to issue bonds, the more investors are demanding a premium to absorb that debt.\"",
+      "Analysts cited Amazon's recent long-dated $25 billion bond sale, which priced at roughly 120 basis points over Treasuries. Last year, the spread would have been roughly half of that, they said.",
+      "\"Tech has gone from trading materially through the market to actually trading wider than the market,\" Sutherland said. \"The higher spreads ... make other parts of the market look more expensive on a relative value basis.\"",
+      "Alphabet declined to comment. Amazon did not respond to a request for comment.",
+      "Tech spreads are currently at 89 basis points, 9 basis points wider than the overall investment grade market, according to Karen Choi, portfolio manager at Capital Group.",
+      "The widening reflects a major change for a sector that historically enjoyed some of the tightest spreads in corporate credit due to strong balance sheets and relatively modest borrowing needs.",
+      "The surge in AI-related bonds, at a time when governments are still spending heavily, has been a leading factor pushing up Treasury yields, as buyers demand higher returns to keep purchasing the flood of bonds hitting markets. Any pullback in tech issuance could support longer-dated Treasuries.",
+      "LARGER CONCESSIONS",
+      "George Catrambone, head of fixed income, Americas, at DWS, said investors are beginning to demand larger concessions as issuance volumes reach record levels.",
+      "AI hyperscalers' debt issuance has reached $220 billion in 2026, according to the latest BNP Paribas data as of August 10. That is roughly $207 billion higher than in the comparable period last year, when it totaled $12.5 billion."
+    ],
+    "html": null
+  }
+}

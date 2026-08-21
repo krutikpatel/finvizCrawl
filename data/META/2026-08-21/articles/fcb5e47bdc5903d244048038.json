@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-dutch-regulator-fines-uber-120323411.html",
+    "fetched_at": "2026-08-21T07:00:16.270726-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Exclusive-Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Toby Sterling\nAMSTERDAM, Aug 21 (Reuters) - The Dutch Data Protection Authority (AP) has decided to fine Uber €825 million ($966 million) under European data protection rules for deactivating driver accounts through automated systems without adequately informing them, according to an August 17 decision reviewed by Reuters.\nThe penalty would be the second-largest ever issued under Europe's General Data Protection Regulation, behind a €1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring European Facebook users' data to the United States, which Meta is appealing.\nUber said it would also appeal.\n\"We strongly disagree with this decision and disproportionate fine,\" a spokesperson said, adding that the company takes drivers' rights seriously and its current policies include both human reviews and opportunities for drivers to dispute platform suspensions.\nThe AP confirmed the decision, but could not immediately comment further.\nEuropean regulators have imposed billions of euros in penalties on large U.S. technology companies in recent years under privacy, competition, and digital market rules, with Meta, Google, Apple and Amazon all facing multiple fines - though headline fines are often reduced or reversed after years-long appeals processes.\nSuch fines have been criticised by U.S. President Donald Trump and in April, a top U.S. State Department official said they were the \"biggest single source of friction\" in U.S.-EU economic relations.\nGDPR rules ban decisions made solely by computer algorithm when they have a significant impact on people's lives, saying such decisions require meaningful human review and a way to challenge a decision.\n\"The AP has determined that Uber violated drivers' rights, specifically the right not to be subject to automated decision-making that has...significant consequences,\" the decision said.\n\"Uber has also violated the right to be informed,\" the decision said, saying the agency considered it a serious matter worthy of the large fine.\nThe case concerns European incidents in 2020 to 2022, stemming initially from a French complaint. It was handled by the Dutch regulator because Uber's European headquarters are in the Netherlands.\nUber temporarily suspended accounts of some drivers who were suspected of fraud, including when its systems concluded drivers had taken unnecessary detours to inflate fares or accepted trips without intending to complete them.\nUber said such suspensions were usually brief, and it did not permanently deactivate such accounts without human review.",
+    "text_blocks": [
+      "By Toby Sterling",
+      "AMSTERDAM, Aug 21 (Reuters) - The Dutch Data Protection Authority (AP) has decided to fine Uber €825 million ($966 million) under European data protection rules for deactivating driver accounts through automated systems without adequately informing them, according to an August 17 decision reviewed by Reuters.",
+      "The penalty would be the second-largest ever issued under Europe's General Data Protection Regulation, behind a €1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring European Facebook users' data to the United States, which Meta is appealing.",
+      "Uber said it would also appeal.",
+      "\"We strongly disagree with this decision and disproportionate fine,\" a spokesperson said, adding that the company takes drivers' rights seriously and its current policies include both human reviews and opportunities for drivers to dispute platform suspensions.",
+      "The AP confirmed the decision, but could not immediately comment further.",
+      "European regulators have imposed billions of euros in penalties on large U.S. technology companies in recent years under privacy, competition, and digital market rules, with Meta, Google, Apple and Amazon all facing multiple fines - though headline fines are often reduced or reversed after years-long appeals processes.",
+      "Such fines have been criticised by U.S. President Donald Trump and in April, a top U.S. State Department official said they were the \"biggest single source of friction\" in U.S.-EU economic relations.",
+      "GDPR rules ban decisions made solely by computer algorithm when they have a significant impact on people's lives, saying such decisions require meaningful human review and a way to challenge a decision.",
+      "\"The AP has determined that Uber violated drivers' rights, specifically the right not to be subject to automated decision-making that has...significant consequences,\" the decision said.",
+      "\"Uber has also violated the right to be informed,\" the decision said, saying the agency considered it a serious matter worthy of the large fine.",
+      "The case concerns European incidents in 2020 to 2022, stemming initially from a French complaint. It was handled by the Dutch regulator because Uber's European headquarters are in the Netherlands.",
+      "Uber temporarily suspended accounts of some drivers who were suspected of fraud, including when its systems concluded drivers had taken unnecessary detours to inflate fares or accepted trips without intending to complete them.",
+      "Uber said such suspensions were usually brief, and it did not permanently deactivate such accounts without human review."
+    ],
+    "html": null
+  }
+}

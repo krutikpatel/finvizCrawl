@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9ab4ac51-74f5-368a-b550-8cc03ffb5baa/microsoft-advertising%27s.html",
+    "fetched_at": "2026-08-21T07:00:32.908189-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Advertising's Agentic Playbook",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft Advertising on Friday released an agenticcommerce blueprint to guide businesses, retailers, and developers when AI agents make purchases on behalf of humans.\nPart of the plan means helping companies prepare readable data to driveproduct recommendations and optimization.\nMicrosoft's \"Agentic Playbook\" focuses on three priorities:\n-\nGetting discovered by the agent (which many brands struggle withtoday).\n-\nEnsuring the purchase becomes seamless.\n-\nHaving the tools to optimize performance of the intended purchase.\nPart of the blueprintdetails a path for marketers to build a 90-day structure for agentic.\nThe first 45 days is about building the foundation like ensure the product feeds are ready and ensure a seamlesscheckout.\nThe second 45 days is about using that information to optimize the content.\nMicrosoft unveiled the blueprint during an online briefing with marketers. One Microsoft productmarketing director on the call focusing on product feeds said she can already see a major change in consumer behavior -- the way people shop.\nBehavioral change, uncertainty and experimentationcontinue to drive shifts in marketing and advertising, but that uncertainty also drives growth.\nBain & Company estimates the agentic U.S. ecommerce will account for 15% to 25% of themarket by 2030.\nMicrosoft Copilot runs on the same Universal Commerce Protocol (UPC) that many of its larger partners run on, the company said.\nThe framework connects Copilot withretail, including giants like Target, Ulta Beauty, and Stripe.\nUPC founding partners include Google and Shopify.\nOn Thursday, Microsoft officially began rolling out \"AIMax,\" its full suite of features for search advertising campaigns, to all accounts. It optimizes performance across Copilot Search and Bing.\nThe product provides search term matching thatexpands reach beyond keyword lists.\nIt uses keywords, ads, and landing pages, along with intent and contextual signals to find relevant searches campaign might not reach.\nIt alsocustomizes text by using a campaign's existing assets and website content to generate and test variations on messages.\nThe system then selects the most appropriate combinations atauction time.\nURL expansion sends people to the page on a brand's website that best matches their intent.\nInstead of always sending traffic to a static landing page, it can routepeople to the page that best matches what they seek.\nWith AI Max features turned on, advertisers importing existing search campaigns from Google, for example, will seamlessly carry overinto the corresponding Microsoft campaign.",
+    "text_blocks": [
+      "Microsoft Advertising on Friday released an agenticcommerce blueprint to guide businesses, retailers, and developers when AI agents make purchases on behalf of humans.",
+      "Part of the plan means helping companies prepare readable data to driveproduct recommendations and optimization.",
+      "Microsoft's \"Agentic Playbook\" focuses on three priorities:",
+      "-",
+      "Getting discovered by the agent (which many brands struggle withtoday).",
+      "-",
+      "Ensuring the purchase becomes seamless.",
+      "-",
+      "Having the tools to optimize performance of the intended purchase.",
+      "Part of the blueprintdetails a path for marketers to build a 90-day structure for agentic.",
+      "The first 45 days is about building the foundation like ensure the product feeds are ready and ensure a seamlesscheckout.",
+      "The second 45 days is about using that information to optimize the content.",
+      "Microsoft unveiled the blueprint during an online briefing with marketers. One Microsoft productmarketing director on the call focusing on product feeds said she can already see a major change in consumer behavior -- the way people shop.",
+      "Behavioral change, uncertainty and experimentationcontinue to drive shifts in marketing and advertising, but that uncertainty also drives growth.",
+      "Bain & Company estimates the agentic U.S. ecommerce will account for 15% to 25% of themarket by 2030.",
+      "Microsoft Copilot runs on the same Universal Commerce Protocol (UPC) that many of its larger partners run on, the company said.",
+      "The framework connects Copilot withretail, including giants like Target, Ulta Beauty, and Stripe.",
+      "UPC founding partners include Google and Shopify.",
+      "On Thursday, Microsoft officially began rolling out \"AIMax,\" its full suite of features for search advertising campaigns, to all accounts. It optimizes performance across Copilot Search and Bing.",
+      "The product provides search term matching thatexpands reach beyond keyword lists.",
+      "It uses keywords, ads, and landing pages, along with intent and contextual signals to find relevant searches campaign might not reach.",
+      "It alsocustomizes text by using a campaign's existing assets and website content to generate and test variations on messages.",
+      "The system then selects the most appropriate combinations atauction time.",
+      "URL expansion sends people to the page on a brand's website that best matches their intent.",
+      "Instead of always sending traffic to a static landing page, it can routepeople to the page that best matches what they seek.",
+      "With AI Max features turned on, advertisers importing existing search campaigns from Google, for example, will seamlessly carry overinto the corresponding Microsoft campaign."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2e4c8002-c571-3ab4-99a4-655ac35f074c/nvidia-in-talks-to-invest-in.html",
+    "fetched_at": "2026-08-21T07:00:27.460234-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia in talks to invest in Cloverleaf Infrastructure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia is close to finalizing an investment worth several hundred million dollars in Cloverleaf Infrastructure, a startup that helps data center developers lock in access to electricity, according to The Wall Street Journal. A deal announcement could come as soon as Friday.\nCloverleaf, which launched in 2024, focuses on securing contracts with utility companies that give data center developers confidence they can connect to the grid before breaking ground, according to the Journal. The company has sold projects totaling more than 7 gigawatts of powered land to data center developers, including sites in Wisconsin for Oracle and OpenAI, and holds a pipeline exceeding 10 gigawatts. Cloverleaf raised $300 million in its founding year from energy investors NGP and Sandbrook Capital.\nCloverleaf had recently engaged JPMorgan Chase to evaluate its options, with a full sale among the possibilities being considered.\nThe potential Cloverleaf deal reflects Nvidia's strategy of getting involved in data center development long before construction begins. Committing capital to power companies at such an early stage lets Nvidia work to guarantee that future data center supply keeps pace with demand for its chips.\nEarlier this week, Nvidia took an equity stake in SB Energy, the power subsidiary of Japan's SoftBank, in a deal tied to a large campus in Ohio that OpenAI has leased for 20 years. Nvidia now agreed to provide a roughly $250 billion financial backstop for OpenAI as part of that Ohio project, which is sited on a decommissioned uranium-enrichment facility and could cost more than $500 billion in full, including chips.\nEarlier this year, Nvidia put $2 billion into Lancium, the power developer whose campus in Abilene, Texas, hosts the Oracle infrastructure from which OpenAI rents computing capacity. That deal gave Nvidia a 20% ownership position in Lancium, and a further $1 billion outlay could push that share to 28%.",
+    "text_blocks": [
+      "Nvidia is close to finalizing an investment worth several hundred million dollars in Cloverleaf Infrastructure, a startup that helps data center developers lock in access to electricity, according to The Wall Street Journal. A deal announcement could come as soon as Friday.",
+      "Cloverleaf, which launched in 2024, focuses on securing contracts with utility companies that give data center developers confidence they can connect to the grid before breaking ground, according to the Journal. The company has sold projects totaling more than 7 gigawatts of powered land to data center developers, including sites in Wisconsin for Oracle and OpenAI, and holds a pipeline exceeding 10 gigawatts. Cloverleaf raised $300 million in its founding year from energy investors NGP and Sandbrook Capital.",
+      "Cloverleaf had recently engaged JPMorgan Chase to evaluate its options, with a full sale among the possibilities being considered.",
+      "The potential Cloverleaf deal reflects Nvidia's strategy of getting involved in data center development long before construction begins. Committing capital to power companies at such an early stage lets Nvidia work to guarantee that future data center supply keeps pace with demand for its chips.",
+      "Earlier this week, Nvidia took an equity stake in SB Energy, the power subsidiary of Japan's SoftBank, in a deal tied to a large campus in Ohio that OpenAI has leased for 20 years. Nvidia now agreed to provide a roughly $250 billion financial backstop for OpenAI as part of that Ohio project, which is sited on a decommissioned uranium-enrichment facility and could cost more than $500 billion in full, including chips.",
+      "Earlier this year, Nvidia put $2 billion into Lancium, the power developer whose campus in Abilene, Texas, hosts the Oracle infrastructure from which OpenAI rents computing capacity. That deal gave Nvidia a 20% ownership position in Lancium, and a further $1 billion outlay could push that share to 28%."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-ev-semi-truck-1c96e876?mod=bar_FV",
+    "fetched_at": "2026-08-21T07:00:07.995987-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Is Ready to Launch Its EV Semi Truck—and the Stock Is Rising<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Is Ready to Launch Its EV Semi Truck—and the Stock Is Rising\nTesla stock rose early Friday, trying to close out a solid week on a high note. An electric vehicle is helping, which is a surprise for the EV maker these days.\nTesla stock rose early Friday, trying to close out a solid week on a high note. An electric vehicle is helping, which is a surprise for the EV maker these days.",
+    "text_blocks": [
+      "Tesla Is Ready to Launch Its EV Semi Truck—and the Stock Is Rising",
+      "Tesla stock rose early Friday, trying to close out a solid week on a high note. An electric vehicle is helping, which is a surprise for the EV maker these days.",
+      "Tesla stock rose early Friday, trying to close out a solid week on a high note. An electric vehicle is helping, which is a surprise for the EV maker these days."
+    ],
+    "html": null
+  }
+}

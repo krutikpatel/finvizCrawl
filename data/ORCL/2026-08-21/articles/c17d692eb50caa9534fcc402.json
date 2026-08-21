@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7c8740cf-e957-38d0-b8ba-be967283f7e4/salesforce-stock-is-priced.html",
+    "fetched_at": "2026-08-21T07:00:27.485495-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Salesforce Stock Is Priced For A Wider Year Than The One It Just Had",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The option chain puts a floor beneath anything the stock has traded over the past year and a ceiling far above its high, and it is charging an ordinary premium to do it.\nSalesforce (CRM) trades near $206.09, and the options market has already marked the edges a holder should plan around. Contracts about a year out price a one-standard-deviation band running from $127 to $334. That is a great deal of ground, and the width has less to do with what options cost than with what the year ahead has to settle.\nWhat The $125 Floor Would Take Out Of A Position\nThose are boundaries, not forecasts: two chances in three that the stock ends inside the band, about one in six that it ends below the floor. That floor is about $81 a share gone, a fall of roughly 39%; the ceiling is about $128 a share the other way. The upper half is longer only because a stock cannot fall past zero and can rise without limit, so the gap is arithmetic rather than a directional lean.\nThe Width Comes From The Shares, Not The Option Price\nImplied volatility on those contracts is 46.5%, against the 41.8% the stock actually delivered over the trailing year. That is what sellers ordinarily charge for carrying risk. The band is wide because the shares have been volatile: down 14.8% over the trailing twelve months, up 15.2% over the trailing three months, inside a 52-week range of $150.12 to $264.88. So the priced floor sits below that low and the priced ceiling above that high: a usual premium on an unusually mobile stock still buys a very wide year.\nThe Re-acceleration Management Expects In The Second Half Of Fiscal 2027\nNone of that width is a distress signal. Salesforce grew 11% over the trailing twelve months at a 21.9% operating margin that sits above its own three-year average. Sustained growth with margins running above their own history is the kind of business the Trefis High Quality Portfolio owns.\nThe year the band spans is also the year of a promise. Agentforce ARR has passed $1 billion on a base of $42.83 billion of trailing-twelve-month revenue, and the company has processed 28.6 trillion tokens to date, up 152% quarter over quarter. The fiscal 2027 guidance it issued in May leans on momentum in Agentforce, Data 360, and Slack, partially offset by ongoing weakness in marketing and commerce and increased softness in Tableau bookings and renewals, and management expects organic revenue re-acceleration in the second half of fiscal 2027. The chain is not choosing between the momentum and the weakness; it is pricing room for both.",
+    "text_blocks": [
+      "The option chain puts a floor beneath anything the stock has traded over the past year and a ceiling far above its high, and it is charging an ordinary premium to do it.",
+      "Salesforce (CRM) trades near $206.09, and the options market has already marked the edges a holder should plan around. Contracts about a year out price a one-standard-deviation band running from $127 to $334. That is a great deal of ground, and the width has less to do with what options cost than with what the year ahead has to settle.",
+      "What The $125 Floor Would Take Out Of A Position",
+      "Those are boundaries, not forecasts: two chances in three that the stock ends inside the band, about one in six that it ends below the floor. That floor is about $81 a share gone, a fall of roughly 39%; the ceiling is about $128 a share the other way. The upper half is longer only because a stock cannot fall past zero and can rise without limit, so the gap is arithmetic rather than a directional lean.",
+      "The Width Comes From The Shares, Not The Option Price",
+      "Implied volatility on those contracts is 46.5%, against the 41.8% the stock actually delivered over the trailing year. That is what sellers ordinarily charge for carrying risk. The band is wide because the shares have been volatile: down 14.8% over the trailing twelve months, up 15.2% over the trailing three months, inside a 52-week range of $150.12 to $264.88. So the priced floor sits below that low and the priced ceiling above that high: a usual premium on an unusually mobile stock still buys a very wide year.",
+      "The Re-acceleration Management Expects In The Second Half Of Fiscal 2027",
+      "None of that width is a distress signal. Salesforce grew 11% over the trailing twelve months at a 21.9% operating margin that sits above its own three-year average. Sustained growth with margins running above their own history is the kind of business the Trefis High Quality Portfolio owns.",
+      "The year the band spans is also the year of a promise. Agentforce ARR has passed $1 billion on a base of $42.83 billion of trailing-twelve-month revenue, and the company has processed 28.6 trillion tokens to date, up 152% quarter over quarter. The fiscal 2027 guidance it issued in May leans on momentum in Agentforce, Data 360, and Slack, partially offset by ongoing weakness in marketing and commerce and increased softness in Tableau bookings and renewals, and management expects organic revenue re-acceleration in the second half of fiscal 2027. The chain is not choosing between the momentum and the weakness; it is pricing room for both."
+    ],
+    "html": null
+  }
+}

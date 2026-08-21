@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e5fb29db-4eb9-3668-b3ef-90af63fceee6/earn-17%25-on-amd-stock-now%2C.html",
+    "fetched_at": "2026-08-21T07:00:55.479700-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "For those holding Advanced Micro Devices, here is a way to get paid a real income now, money you keep no matter what, in exchange for capping your gains at a higher price.\nAdvanced Micro Devices (AMD) has been an absolute monster of a stock, and if you own it, you are likely sitting on a handsome gain. After a massive run, the stock now trades about 20% below its 52-week high, leaving many investors wondering what comes next. For those looking to generate cash from their shares today, there is a straightforward options trade that pays you a meaningful income upfront, which is yours to keep regardless of what the stock does, in exchange for agreeing to sell your shares at a price above today's level.\n17% annualized income on AMD shares you already own, with 24% of upside room, by selling a covered call.\n-\nYou own (or buy) 100 shares of AMD near today's price of $466.42.\n-\nSell one call option on AMD expiring 9/17/2027, with a strike price of $580, about 24% above today.\n-\nCollect roughly $8,663 in premium up front per contract (each contract covers 100 shares), which you keep no matter what the stock does.\n-\nThat premium is about 17.1% annualized on the $46,642 of stock income you earn just for holding.\n-\nIf AMD finishes above $580, your shares are called away at $580. Counting the premium, your total return works out to about 39% annualized, but you give up any gains above the strike.\nTwo Outcomes, You Keep The Income Either Way\nIf AMD finishes below $580 on 9/17/2027, the call expires worthless, and you keep the full $8,663 premium and all your shares. That is about 19% over 394 days, income earned just for holding, and you are free to sell another call.\nIf AMD finishes above $580, your 100 shares are called away at $580. You still keep the $8,663 premium, and counting it your total gain works out to about 43% over the holding period (about 39% annualized), a healthy exit. The cost of the trade is that any gain above $580 is no longer yours. And if the stock instead falls, you keep the premium but still ride the shares down: the premium offsets the first 19% of the decline over the holding period and nothing beyond it.\nThe Real Question: How Much Upside Is At Stake?\nThe only real cost is the opportunity you might forfeit if the stock launches into orbit well past your exit price. So the decision boils down to this: how much upside is really at stake? The bull case is a story of almost breathtaking scale. Management now sees the data center AI accelerator market growing to approximately $1.4 trillion by 2030, a staggering figure that has supercharged its own forecasts.",
+    "text_blocks": [
+      "For those holding Advanced Micro Devices, here is a way to get paid a real income now, money you keep no matter what, in exchange for capping your gains at a higher price.",
+      "Advanced Micro Devices (AMD) has been an absolute monster of a stock, and if you own it, you are likely sitting on a handsome gain. After a massive run, the stock now trades about 20% below its 52-week high, leaving many investors wondering what comes next. For those looking to generate cash from their shares today, there is a straightforward options trade that pays you a meaningful income upfront, which is yours to keep regardless of what the stock does, in exchange for agreeing to sell your shares at a price above today's level.",
+      "17% annualized income on AMD shares you already own, with 24% of upside room, by selling a covered call.",
+      "-",
+      "You own (or buy) 100 shares of AMD near today's price of $466.42.",
+      "-",
+      "Sell one call option on AMD expiring 9/17/2027, with a strike price of $580, about 24% above today.",
+      "-",
+      "Collect roughly $8,663 in premium up front per contract (each contract covers 100 shares), which you keep no matter what the stock does.",
+      "-",
+      "That premium is about 17.1% annualized on the $46,642 of stock income you earn just for holding.",
+      "-",
+      "If AMD finishes above $580, your shares are called away at $580. Counting the premium, your total return works out to about 39% annualized, but you give up any gains above the strike.",
+      "Two Outcomes, You Keep The Income Either Way",
+      "If AMD finishes below $580 on 9/17/2027, the call expires worthless, and you keep the full $8,663 premium and all your shares. That is about 19% over 394 days, income earned just for holding, and you are free to sell another call.",
+      "If AMD finishes above $580, your 100 shares are called away at $580. You still keep the $8,663 premium, and counting it your total gain works out to about 43% over the holding period (about 39% annualized), a healthy exit. The cost of the trade is that any gain above $580 is no longer yours. And if the stock instead falls, you keep the premium but still ride the shares down: the premium offsets the first 19% of the decline over the holding period and nothing beyond it.",
+      "The Real Question: How Much Upside Is At Stake?",
+      "The only real cost is the opportunity you might forfeit if the stock launches into orbit well past your exit price. So the decision boils down to this: how much upside is really at stake? The bull case is a story of almost breathtaking scale. Management now sees the data center AI accelerator market growing to approximately $1.4 trillion by 2030, a staggering figure that has supercharged its own forecasts."
+    ],
+    "html": null
+  }
+}

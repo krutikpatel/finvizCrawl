@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/731ac1ce-832b-3844-b577-9687943ecf8e/broadcom-seeks-more-than.html",
+    "fetched_at": "2026-08-21T07:00:35.596798-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom seeks more than $60bn in debt for AI chip deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Broadcom Inc (NASDAQ:AVGO, XETRA:1YD), the US semiconductor company, is in talks to raise more than $60 billion in debt to fund a financing deal that would supply AI chips to Anthropic and other companies.\nThat is according to Bloomberg, which cited people familiar with the matter.\nThe talks point to the scale of borrowing now being lined up to build out AI computing capacity.\nHow the deal is structured\nThe financing could include a junior debt tranche of roughly $30 billion, according to the report.\nA tranche is a slice of a larger borrowing, each carrying its own risk and repayment terms.\nBroadcom would guarantee part of a senior-secured tranche that could range from about $60 billion to $70 billion.\nSenior-secured debt ranks first for repayment and is backed by specific assets, making it lower risk than junior debt.\nTaken together, the sums under discussion could bring the total raise to as much as $100 billion.\nA deal of that size would rank among the largest corporate financings tied to the AI boom.\nWho is involved\nBlackstone and Apollo Global Management (NYSE:APO), two of the largest US private capital firms, are in talks to take part in the financing.\nTheir involvement would follow a partnership the three companies struck in June.\nPrivate capital firms have moved increasingly into lending for AI infrastructure as banks reach the limits of what they will underwrite alone.\nBroadcom, Apollo and Blackstone did not immediately respond to requests for comment on the Bloomberg report.\nThe figures under discussion have not been formally confirmed.\nWhy it matters for Anthropic\nThe deal would channel funding towards chips for Anthropic, the company behind the Claude chatbot.\nAccess to computing power has become one of the biggest constraints on AI companies, and securing it often requires financing on a scale usually seen in energy or infrastructure projects.\nAnthropic is separately preparing to file paperwork for an initial public offering that could rival the record set by SpaceX.\nBorrowing arrangements of this kind allow AI firms to lock in chip supply without carrying the full cost on their own balance sheets.\nThe reported talks underline how far the industry now depends on outside capital to keep pace with demand.",
+    "text_blocks": [
+      "Broadcom Inc (NASDAQ:AVGO, XETRA:1YD), the US semiconductor company, is in talks to raise more than $60 billion in debt to fund a financing deal that would supply AI chips to Anthropic and other companies.",
+      "That is according to Bloomberg, which cited people familiar with the matter.",
+      "The talks point to the scale of borrowing now being lined up to build out AI computing capacity.",
+      "How the deal is structured",
+      "The financing could include a junior debt tranche of roughly $30 billion, according to the report.",
+      "A tranche is a slice of a larger borrowing, each carrying its own risk and repayment terms.",
+      "Broadcom would guarantee part of a senior-secured tranche that could range from about $60 billion to $70 billion.",
+      "Senior-secured debt ranks first for repayment and is backed by specific assets, making it lower risk than junior debt.",
+      "Taken together, the sums under discussion could bring the total raise to as much as $100 billion.",
+      "A deal of that size would rank among the largest corporate financings tied to the AI boom.",
+      "Who is involved",
+      "Blackstone and Apollo Global Management (NYSE:APO), two of the largest US private capital firms, are in talks to take part in the financing.",
+      "Their involvement would follow a partnership the three companies struck in June.",
+      "Private capital firms have moved increasingly into lending for AI infrastructure as banks reach the limits of what they will underwrite alone.",
+      "Broadcom, Apollo and Blackstone did not immediately respond to requests for comment on the Bloomberg report.",
+      "The figures under discussion have not been formally confirmed.",
+      "Why it matters for Anthropic",
+      "The deal would channel funding towards chips for Anthropic, the company behind the Claude chatbot.",
+      "Access to computing power has become one of the biggest constraints on AI companies, and securing it often requires financing on a scale usually seen in energy or infrastructure projects.",
+      "Anthropic is separately preparing to file paperwork for an initial public offering that could rival the record set by SpaceX.",
+      "Borrowing arrangements of this kind allow AI firms to lock in chip supply without carrying the full cost on their own balance sheets.",
+      "The reported talks underline how far the industry now depends on outside capital to keep pace with demand."
+    ],
+    "html": null
+  }
+}

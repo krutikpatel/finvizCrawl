@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html",
+    "fetched_at": "2026-08-21T07:00:16.930466-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 20 (Reuters) - Broadcom is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic and other companies, Bloomberg News reported on Thursday, citing people familiar with the matter.\nThe financing could include a roughly $30 billion junior debt tranche, while the chip designer would guarantee a part of a senior-secured tranche that could range from about $60 billion to $70 billion, the report said.\nThe numbers under discussion would potentially bring the total raise to as much as $100 billion, according to the report.\nBroadcom plays a crucial role in helping design custom chips for firms like Alphabet and Meta, as tech companies look to develop chips in-house to reduce their reliance on market leader Nvidia. Broadcom also has chip supply deals with Anthropic and OpenAI.\nBlackstone and Apollo Global Management are in talks with Broadcom to participate in the financing, the report added.\nBlackstone declined to comment, while Broadcom and Apollo did not immediately respond to Reuters' requests for comment on the Bloomberg report.\nThe potential financing follows a partnership that Broadcom, Apollo and Blackstone struck in June to finance a $35 billion expansion of Anthropic's computing capacity using Broadcom's custom chips and networking solutions.\nThe initial commitment was expected to add one gigawatt of computing capacity, while the partnership overall aims to enable more than 20 gigawatts of compute power for leading AI labs by 2028.\nThe new debt would be issued by a special-purpose vehicle and could be similar to the $35 billion agreement, Bloomberg News said.\nTech companies have been increasingly turning to debt markets to fund their costly AI investments. The so-called hyperscalers, including Alphabet, Amazon and Microsoft, have signaled that spending on AI will remain elevated through 2026.\n(Reporting by Anzar Mehraj in Bengaluru; Editing by Diti Pujara and Leroy Leo)",
+    "text_blocks": [
+      "Aug 20 (Reuters) - Broadcom is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic and other companies, Bloomberg News reported on Thursday, citing people familiar with the matter.",
+      "The financing could include a roughly $30 billion junior debt tranche, while the chip designer would guarantee a part of a senior-secured tranche that could range from about $60 billion to $70 billion, the report said.",
+      "The numbers under discussion would potentially bring the total raise to as much as $100 billion, according to the report.",
+      "Broadcom plays a crucial role in helping design custom chips for firms like Alphabet and Meta, as tech companies look to develop chips in-house to reduce their reliance on market leader Nvidia. Broadcom also has chip supply deals with Anthropic and OpenAI.",
+      "Blackstone and Apollo Global Management are in talks with Broadcom to participate in the financing, the report added.",
+      "Blackstone declined to comment, while Broadcom and Apollo did not immediately respond to Reuters' requests for comment on the Bloomberg report.",
+      "The potential financing follows a partnership that Broadcom, Apollo and Blackstone struck in June to finance a $35 billion expansion of Anthropic's computing capacity using Broadcom's custom chips and networking solutions.",
+      "The initial commitment was expected to add one gigawatt of computing capacity, while the partnership overall aims to enable more than 20 gigawatts of compute power for leading AI labs by 2028.",
+      "The new debt would be issued by a special-purpose vehicle and could be similar to the $35 billion agreement, Bloomberg News said.",
+      "Tech companies have been increasingly turning to debt markets to fund their costly AI investments. The so-called hyperscalers, including Alphabet, Amazon and Microsoft, have signaled that spending on AI will remain elevated through 2026.",
+      "(Reporting by Anzar Mehraj in Bengaluru; Editing by Diti Pujara and Leroy Leo)"
+    ],
+    "html": null
+  }
+}

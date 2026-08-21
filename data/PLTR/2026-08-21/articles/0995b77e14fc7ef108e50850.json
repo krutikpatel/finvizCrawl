@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-sends-stark-warning-193127572.html",
+    "fetched_at": "2026-08-21T07:00:38.638288-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir CEO Sends Stark Warning for Businesses Betting Big on AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir (NASDAQ:PLTR) CEO Alex Karp is questioning whether businesses are getting enough economic value from their growing reliance on artificial intelligence, while criticizing the dependence that can develop around major AI providers, according to an interview with CNBC.\nKarp argued that companies could spend heavily on AI models and computing capacity without gaining greater control over the technology or retaining enough of the value it creates. He pointed to OpenAI and Anthropic as examples of frontier AI companies whose commercial models could deepen that dependence.\nPalantir has promoted the use of open-weight AI models, which can give organizations more flexibility to operate and modify systems. Karp said businesses should consider whether additional AI usage is producing measurable improvements before committing to larger spending.\nHis comments come as companies expand AI budgets and adopt models for a wider range of business functions. Karp has previously criticized the economics of paying for AI tokens, referring to the costs associated with processing model requests.\nPalantir has also supported open AI models in national-security discussions, arguing that greater access to adaptable systems can have strategic value for businesses and government agencies.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir (NASDAQ:PLTR) CEO Alex Karp is questioning whether businesses are getting enough economic value from their growing reliance on artificial intelligence, while criticizing the dependence that can develop around major AI providers, according to an interview with CNBC.",
+      "Karp argued that companies could spend heavily on AI models and computing capacity without gaining greater control over the technology or retaining enough of the value it creates. He pointed to OpenAI and Anthropic as examples of frontier AI companies whose commercial models could deepen that dependence.",
+      "Palantir has promoted the use of open-weight AI models, which can give organizations more flexibility to operate and modify systems. Karp said businesses should consider whether additional AI usage is producing measurable improvements before committing to larger spending.",
+      "His comments come as companies expand AI budgets and adopt models for a wider range of business functions. Karp has previously criticized the economics of paying for AI tokens, referring to the costs associated with processing model requests.",
+      "Palantir has also supported open AI models in national-security discussions, arguing that greater access to adaptable systems can have strategic value for businesses and government agencies."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/82e3b63b-299f-3225-8ea2-acda97e75ccb/coreweave-stock-fell-while.html",
+    "fetched_at": "2026-08-21T07:00:27.431286-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CoreWeave Stock Fell While The Price Of Its Compute Went Up",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "CoreWeave expects the contracts it signed in the June quarter to carry higher contribution margins than the ones before them, and the price increase it took in July is not in those numbers yet.\nCoreWeave (CRWV) trades at about $91, roughly 64% of its 52-week high, and is down 6.1% over the past twelve months while the S&P 500 returned 20.6%. The central bear argument centers on balance sheet leverage: debt-financed GPU deployments facing rapid depreciation cycles against a company that remains unprofitable on a GAAP basis. The countervailing indicator is not simply top-line expansion, but unit economics on the newest contracts on the books.\nCoreWeave Expects Its Newest Contracts To Carry Five To Ten Points More Contribution Margin\nManagement says the customer contracts signed in the June quarter carry contribution margins it expects to run 5 to 10 percentage points above those added in recent quarters. That is a claim about the price of new business rather than its volume; the volume was $7.6 billion of revenue over the past twelve months, more than double the year before. The CFO's account is that the value of the CoreWeave cloud's output has been rising faster than the cost of its inputs.\nVera Rubin Prices At New Highs While A 2020 GPU Is Contracted Into 2029\nA lot of that step-up is coming in the Vera Rubin SKU, the NVIDIA generation CoreWeave was the first cloud provider to bring up and validate, where management says pricing and margins are setting new highs. Less obvious is the installed base: a recently signed A100 contract extends into 2029 on a part introduced in 2020, and the CFO says that on the limited capacity up for renewal, pricing on the older generation is at or above where it was about a year ago. Newer still: booked ARR for the managed inference platform is up from $1 million to more than $100 million in the few months since launch, and management calls it a way to put GPUs coming off contract back to work.\nThe Interest Bill Is Still Well Ahead Of The Operating Line\nNone of this has reached the bottom line. Adjusted operating income was $128 million in the June quarter, rebounding from $21 million in the March quarter as margins expanded sequentially with scale, though still below the $200 million recorded a year earlier when operating margins were substantially higher. Capital spending for 2026 is guided to $35 billion to $39 billion, financed in part with debt, and the financing cost is evident: $640 million of interest expense in the June quarter, up from $267 million a year earlier. Financing pressure of that kind is the reason the Trefis High Quality Portfolio insists on defensible balance sheets in its holdings.",
+    "text_blocks": [
+      "CoreWeave expects the contracts it signed in the June quarter to carry higher contribution margins than the ones before them, and the price increase it took in July is not in those numbers yet.",
+      "CoreWeave (CRWV) trades at about $91, roughly 64% of its 52-week high, and is down 6.1% over the past twelve months while the S&P 500 returned 20.6%. The central bear argument centers on balance sheet leverage: debt-financed GPU deployments facing rapid depreciation cycles against a company that remains unprofitable on a GAAP basis. The countervailing indicator is not simply top-line expansion, but unit economics on the newest contracts on the books.",
+      "CoreWeave Expects Its Newest Contracts To Carry Five To Ten Points More Contribution Margin",
+      "Management says the customer contracts signed in the June quarter carry contribution margins it expects to run 5 to 10 percentage points above those added in recent quarters. That is a claim about the price of new business rather than its volume; the volume was $7.6 billion of revenue over the past twelve months, more than double the year before. The CFO's account is that the value of the CoreWeave cloud's output has been rising faster than the cost of its inputs.",
+      "Vera Rubin Prices At New Highs While A 2020 GPU Is Contracted Into 2029",
+      "A lot of that step-up is coming in the Vera Rubin SKU, the NVIDIA generation CoreWeave was the first cloud provider to bring up and validate, where management says pricing and margins are setting new highs. Less obvious is the installed base: a recently signed A100 contract extends into 2029 on a part introduced in 2020, and the CFO says that on the limited capacity up for renewal, pricing on the older generation is at or above where it was about a year ago. Newer still: booked ARR for the managed inference platform is up from $1 million to more than $100 million in the few months since launch, and management calls it a way to put GPUs coming off contract back to work.",
+      "The Interest Bill Is Still Well Ahead Of The Operating Line",
+      "None of this has reached the bottom line. Adjusted operating income was $128 million in the June quarter, rebounding from $21 million in the March quarter as margins expanded sequentially with scale, though still below the $200 million recorded a year earlier when operating margins were substantially higher. Capital spending for 2026 is guided to $35 billion to $39 billion, financed in part with debt, and the financing cost is evident: $640 million of interest expense in the June quarter, up from $267 million a year earlier. Financing pressure of that kind is the reason the Trefis High Quality Portfolio insists on defensible balance sheets in its holdings."
+    ],
+    "html": null
+  }
+}
