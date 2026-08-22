@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html",
+    "fetched_at": "2026-08-22T07:00:14.626034-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) remains the biggest AI stock that U.S. large-cap mutual funds are reluctant to fully own, according to Goldman Sachs data, creating a potentially important positioning setup for investors. With funds underweight Nvidia by roughly 100 basis points, continued earnings strength could force institutional managers to chase the stock, while any AI slowdown would validate their caution.\nGoldman's positioning data showed Nvidia with the largest underweight among major AI-related stocks tracked. Advanced Micro Devices (NASDAQ:AMD) was underweight by roughly 60 basis points, while Alphabet (GOOGL) and Microsoft (NASDAQ:MSFT) were underweight by about 70 and 50 basis points, respectively.\nMeta Platforms (NASDAQ:META) was also underweight, by roughly 30 basis points.\nThe notable exception was Micron Technology (NASDAQ:MU), where large-cap mutual funds were overweight by approximately 40 basis points. Seagate Technology (NASDAQ:STX) also appeared on the overweight side at roughly 15 basis points.\nThe positioning is striking because Nvidia remains at the center of record AI infrastructure spending. The company is due to report fiscal second-quarter earnings on Aug. 26, with investors looking for another major revenue beat and evidence that demand remains strong heading into the Vera Rubin product ramp.\nHeavy benchmark weights can make Nvidia difficult for active managers to own at full size. But the gap also matters mechanically: if Nvidia continues outperforming, underweight managers risk falling behind their benchmarks and may eventually need to increase exposure.\nInvestor Takeaway\nThe biggest near-term test is Nvidia's Aug. 26 earnings report. A strong revenue beat, better-than-expected guidance and confidence around Rubin shipments could make the roughly 100-basis-point mutual-fund underweight increasingly uncomfortable.\nInvestors should also watch whether positioning shifts across AMD, Alphabet and Microsoft, which could signal broader institutional confidence in the AI trade rather than enthusiasm concentrated in one company.\nMicron's overweight position is equally important. It suggests fund managers are already favoring parts of the AI supply chain where memory shortages and pricing strength can translate more directly into earnings.\nFor Nvidia, the positioning cuts both ways: persistent underownership provides potential buying fuel, but it also shows many professional managers still see valuation, concentration or AI-spending risks worth respecting.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) remains the biggest AI stock that U.S. large-cap mutual funds are reluctant to fully own, according to Goldman Sachs data, creating a potentially important positioning setup for investors. With funds underweight Nvidia by roughly 100 basis points, continued earnings strength could force institutional managers to chase the stock, while any AI slowdown would validate their caution.",
+      "Goldman's positioning data showed Nvidia with the largest underweight among major AI-related stocks tracked. Advanced Micro Devices (NASDAQ:AMD) was underweight by roughly 60 basis points, while Alphabet (GOOGL) and Microsoft (NASDAQ:MSFT) were underweight by about 70 and 50 basis points, respectively.",
+      "Meta Platforms (NASDAQ:META) was also underweight, by roughly 30 basis points.",
+      "The notable exception was Micron Technology (NASDAQ:MU), where large-cap mutual funds were overweight by approximately 40 basis points. Seagate Technology (NASDAQ:STX) also appeared on the overweight side at roughly 15 basis points.",
+      "The positioning is striking because Nvidia remains at the center of record AI infrastructure spending. The company is due to report fiscal second-quarter earnings on Aug. 26, with investors looking for another major revenue beat and evidence that demand remains strong heading into the Vera Rubin product ramp.",
+      "Heavy benchmark weights can make Nvidia difficult for active managers to own at full size. But the gap also matters mechanically: if Nvidia continues outperforming, underweight managers risk falling behind their benchmarks and may eventually need to increase exposure.",
+      "Investor Takeaway",
+      "The biggest near-term test is Nvidia's Aug. 26 earnings report. A strong revenue beat, better-than-expected guidance and confidence around Rubin shipments could make the roughly 100-basis-point mutual-fund underweight increasingly uncomfortable.",
+      "Investors should also watch whether positioning shifts across AMD, Alphabet and Microsoft, which could signal broader institutional confidence in the AI trade rather than enthusiasm concentrated in one company.",
+      "Micron's overweight position is equally important. It suggests fund managers are already favoring parts of the AI supply chain where memory shortages and pricing strength can translate more directly into earnings.",
+      "For Nvidia, the positioning cuts both ways: persistent underownership provides potential buying fuel, but it also shows many professional managers still see valuation, concentration or AI-spending risks worth respecting."
+    ],
+    "html": null
+  }
+}

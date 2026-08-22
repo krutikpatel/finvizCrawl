@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_FV",
+    "fetched_at": "2026-08-22T07:00:04.182367-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch\nThe EV maker got the nod to deploy thousands of vehicles in Nevada and plans to soon launch its Cybercab in Austin, Texas\nMajor autonomous-driving companies are getting ready to turn Las Vegas into a robotaxi battleground after Nevada gave three big players the OK to deploy more cars.\nThe Nevada Transportation Authority on Thursday approved Tesla TSLA, Uber Technologies UBER and Waymo to offer commercial robotaxi services in Clark County, which is home to Las Vegas and about 2.4 million people. Together, the companies are allowed to deploy as many as 7,000 self-driving vehicles in the county over the next 12 months.",
+    "text_blocks": [
+      "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+      "The EV maker got the nod to deploy thousands of vehicles in Nevada and plans to soon launch its Cybercab in Austin, Texas",
+      "Major autonomous-driving companies are getting ready to turn Las Vegas into a robotaxi battleground after Nevada gave three big players the OK to deploy more cars.",
+      "The Nevada Transportation Authority on Thursday approved Tesla TSLA, Uber Technologies UBER and Waymo to offer commercial robotaxi services in Clark County, which is home to Las Vegas and about 2.4 million people. Together, the companies are allowed to deploy as many as 7,000 self-driving vehicles in the county over the next 12 months."
+    ],
+    "html": null
+  }
+}

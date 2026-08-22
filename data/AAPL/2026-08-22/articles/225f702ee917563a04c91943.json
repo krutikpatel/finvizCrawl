@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-reportedly-cutting-hundreds-jobs-205807162.html",
+    "fetched_at": "2026-08-22T07:00:08.033815-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple is chopping down the team behind the Vision Pro, its long-suffering VR headset, while eliminating positions across a number of other teams, Bloomberg reported.\nOver 200 positions, all told, have been cut, sources told Bloomberg, with around 100 from the Vision Pro team. The other 100 have impacted the team behind Siri and another called Intelligent Systems Experience, which focuses on the integration of AI into devices. Sources say the company is reshuffling to focus on its newer AI efforts and new devices.\nApple confirmed the cuts to Bloomberg, saying it was looking \"to evolve our business to deliver the best experiences for our users.\" It added: \"While we will create new roles as part of this change, it will also impact a limited number of existing roles.\" TechCrunch reached out to Apple for more information.\nApple is currently enduring a bumpy period of transition. The company is attempting to fix its position in AI — while a memory shortage spurred by the AI buildout has also driven up the cost of producing its flagship products.\nApple raised prices on Macs and iPads earlier this summer, and the company recently introduced a leasing plan for all of its major hardware products — an effort to bring in a broader array of customers as it offsets new costs. The company is also currently suing OpenAI, which it has accused of trade theft.",
+    "text_blocks": [
+      "Apple is chopping down the team behind the Vision Pro, its long-suffering VR headset, while eliminating positions across a number of other teams, Bloomberg reported.",
+      "Over 200 positions, all told, have been cut, sources told Bloomberg, with around 100 from the Vision Pro team. The other 100 have impacted the team behind Siri and another called Intelligent Systems Experience, which focuses on the integration of AI into devices. Sources say the company is reshuffling to focus on its newer AI efforts and new devices.",
+      "Apple confirmed the cuts to Bloomberg, saying it was looking \"to evolve our business to deliver the best experiences for our users.\" It added: \"While we will create new roles as part of this change, it will also impact a limited number of existing roles.\" TechCrunch reached out to Apple for more information.",
+      "Apple is currently enduring a bumpy period of transition. The company is attempting to fix its position in AI — while a memory shortage spurred by the AI buildout has also driven up the cost of producing its flagship products.",
+      "Apple raised prices on Macs and iPads earlier this summer, and the company recently introduced a leasing plan for all of its major hardware products — an effort to bring in a broader array of customers as it offsets new costs. The company is also currently suing OpenAI, which it has accused of trade theft."
+    ],
+    "html": null
+  }
+}

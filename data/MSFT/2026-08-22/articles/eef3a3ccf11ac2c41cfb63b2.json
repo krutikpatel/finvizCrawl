@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html",
+    "fetched_at": "2026-08-22T07:00:29.020338-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Just Won One of Its Biggest AI Customers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META) has quietly become one of Microsoft's (NASDAQ:MSFT) largest AI customers, reportedly spending hundreds of millions of dollars annually through Azure. For investors, the relationship shows how AI demand is increasingly flowing between Big Tech rivals, giving Microsoft another major source of high-value cloud consumption while highlighting just how expensive Meta's AI ambitions have become.\nAccording to Bloomberg, Meta consumes trillions of AI tokens each week through Microsoft's Foundry platform, using outside models for tasks including software development and evaluating the output of its own AI systems.\nMicrosoft Foundry gives customers access to models from multiple providers rather than locking them into one AI developer. The platform had about 100,000 customers as of July, according to the report.\nThe scale of Meta's spending is significant because it comes despite the company building one of the world's largest internal AI infrastructures. Meta is simultaneously developing its own models, constructing data centers and paying outside providers when their models offer better availability, capability or economics.\nThat spending is already showing up in Meta's financials. The company reported $31.08 billion of capital expenditures in the second quarter and raised its 2026 capex outlook to $130 billion to $145 billion, largely to support AI infrastructure.\nFor Microsoft, Meta adds another large customer to an Azure business already growing rapidly. Azure and other cloud-services revenue rose 43% year over year in Microsoft's latest quarter, while Microsoft Cloud revenue reached $59.3 billion.\nInvestor Takeaway\nMicrosoft investors should watch whether customers like Meta reduce the company's heavy AI-revenue concentration around OpenAI and help sustain Azure growth above expectations.\nFor Meta shareholders, the bigger question is AI spending efficiency. Meta's second-quarter revenue increased 28% to $60.8 billion, but costs and expenses jumped 55%, while free cash flow fell to just $784 million amid massive infrastructure investment.\nIf external AI spending improves developer productivity and accelerates new products, the expense can be justified. But continued reliance on third-party models alongside record internal capex could raise tougher questions about returns on Meta's enormous AI investment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META) has quietly become one of Microsoft's (NASDAQ:MSFT) largest AI customers, reportedly spending hundreds of millions of dollars annually through Azure. For investors, the relationship shows how AI demand is increasingly flowing between Big Tech rivals, giving Microsoft another major source of high-value cloud consumption while highlighting just how expensive Meta's AI ambitions have become.",
+      "According to Bloomberg, Meta consumes trillions of AI tokens each week through Microsoft's Foundry platform, using outside models for tasks including software development and evaluating the output of its own AI systems.",
+      "Microsoft Foundry gives customers access to models from multiple providers rather than locking them into one AI developer. The platform had about 100,000 customers as of July, according to the report.",
+      "The scale of Meta's spending is significant because it comes despite the company building one of the world's largest internal AI infrastructures. Meta is simultaneously developing its own models, constructing data centers and paying outside providers when their models offer better availability, capability or economics.",
+      "That spending is already showing up in Meta's financials. The company reported $31.08 billion of capital expenditures in the second quarter and raised its 2026 capex outlook to $130 billion to $145 billion, largely to support AI infrastructure.",
+      "For Microsoft, Meta adds another large customer to an Azure business already growing rapidly. Azure and other cloud-services revenue rose 43% year over year in Microsoft's latest quarter, while Microsoft Cloud revenue reached $59.3 billion.",
+      "Investor Takeaway",
+      "Microsoft investors should watch whether customers like Meta reduce the company's heavy AI-revenue concentration around OpenAI and help sustain Azure growth above expectations.",
+      "For Meta shareholders, the bigger question is AI spending efficiency. Meta's second-quarter revenue increased 28% to $60.8 billion, but costs and expenses jumped 55%, while free cash flow fell to just $784 million amid massive infrastructure investment.",
+      "If external AI spending improves developer productivity and accelerates new products, the expense can be justified. But continued reliance on third-party models alongside record internal capex could raise tougher questions about returns on Meta's enormous AI investment."
+    ],
+    "html": null
+  }
+}

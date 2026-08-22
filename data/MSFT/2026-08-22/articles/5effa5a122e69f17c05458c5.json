@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html",
+    "fetched_at": "2026-08-22T07:00:28.984883-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic market debut could break SpaceX IPO record: media",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.\nElon Musk's space company went public in June at a value of $1.77 trillion and raised $85.7 billion in its blockbuster initial public offering, the largest in history.\nAnthropic, maker of the Claude AI models, \"expects to match or beat the size\" of SpaceX's deal, according to Bloomberg.\nThe company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowledge of the talks.\nThat would more than double the five-year-old company's previous valuation at $965 billion, reached in its last funding round in June.\nOnly a handful of companies including Apple, Microsoft and chip maker Nvidia have surpassed the $2 trillion mark.\nAnthropic declined AFP's request for comment.\nAfter filing to go public in June, the company could reveal its public offering prospectus in the coming weeks, the Times reported, with shares possibly listed in the autumn.\nAnthropic could then beat OpenAI, the maker of ChatGPT, to market. That company is hoping to list its shares in 2027.\nFounded in 2021 by siblings Dario and Daniela Amodei and other former executives at OpenAI, Anthropic has positioned itself as a safety-focused alternative in the AI race.\nClaude Code, its coding assistant for developers, has become one of its most popular products, helping push its projected annual revenue to $47 billion.\nAnthropic's commercial success has been accompanied by difficulties in meeting demand for computing power, amid a shortage of chips and servers.\nPotential investors could be dissuaded by the company's difficult relationship with President Donald Trump's administration.\nIn March, the government broke off its contracts with Anthropic and designated the company a supply chain risk after it refused to grant the military unfettered access to its AI models.\nAnthropic called the Defense Department's move unconstitutional retaliation.\nbl/lkd-sst/rmb",
+    "text_blocks": [
+      "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.",
+      "Elon Musk's space company went public in June at a value of $1.77 trillion and raised $85.7 billion in its blockbuster initial public offering, the largest in history.",
+      "Anthropic, maker of the Claude AI models, \"expects to match or beat the size\" of SpaceX's deal, according to Bloomberg.",
+      "The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowledge of the talks.",
+      "That would more than double the five-year-old company's previous valuation at $965 billion, reached in its last funding round in June.",
+      "Only a handful of companies including Apple, Microsoft and chip maker Nvidia have surpassed the $2 trillion mark.",
+      "Anthropic declined AFP's request for comment.",
+      "After filing to go public in June, the company could reveal its public offering prospectus in the coming weeks, the Times reported, with shares possibly listed in the autumn.",
+      "Anthropic could then beat OpenAI, the maker of ChatGPT, to market. That company is hoping to list its shares in 2027.",
+      "Founded in 2021 by siblings Dario and Daniela Amodei and other former executives at OpenAI, Anthropic has positioned itself as a safety-focused alternative in the AI race.",
+      "Claude Code, its coding assistant for developers, has become one of its most popular products, helping push its projected annual revenue to $47 billion.",
+      "Anthropic's commercial success has been accompanied by difficulties in meeting demand for computing power, amid a shortage of chips and servers.",
+      "Potential investors could be dissuaded by the company's difficult relationship with President Donald Trump's administration.",
+      "In March, the government broke off its contracts with Anthropic and designated the company a supply chain risk after it refused to grant the military unfettered access to its AI models.",
+      "Anthropic called the Defense Department's move unconstitutional retaliation.",
+      "bl/lkd-sst/rmb"
+    ],
+    "html": null
+  }
+}

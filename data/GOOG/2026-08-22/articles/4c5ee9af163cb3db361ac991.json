@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-creates-headache-ai-stocks-201711619.html",
+    "fetched_at": "2026-08-22T07:00:26.304388-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "DeepSeek Creates New Headache for AI Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nDeepSeek is escalating the AI price-performance race with a new multimodal model it says approaches Anthropic's Opus 4.8, a development that could matter for U.S. investors exposed to Anthropic through Amazon (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL). The bigger issue is not simply another model launch. DeepSeek is again arguing that frontier-like AI performance can be delivered at substantially lower costs, potentially pressuring the economics of premium AI models.\nDeepSeek is a privately held Chinese artificial-intelligence developer best known for its large language models and aggressively priced API services. It generates revenue by charging developers and businesses to access its models through APIs, competing with providers including Anthropic, OpenAI and Google.\nDeepSeek said V4-Flash-Vision-Exp is now available and matches its existing V4-Flash model across text-based reasoning, agent tasks and world knowledge while making a significant jump in visual capabilities.\nOn multimodal agent benchmarks, V4-Flash-Vision-Exp makes a major leap over V4-Flash, bringing multimodal agent performance close to Opus-4.8, DeepSeek said.\nImages are billed at up to 384 tokens each at V4-Flash pricing, potentially making the model particularly relevant for developers building visual agents. The release follows DeepSeek's recent V4-Pro launch and an API pricing overhaul that introduced peak and off-peak rates.\nThe competitive pressure matters because Anthropic is scaling rapidly. Its annualized revenue run rate surpassed $65 billion by the end of July, up from $47 billion in May, according to Reuters.\nInvestor Takeaway\nFor Amazon and Alphabet investors, the key metric is whether Anthropic can maintain rapid revenue growth and premium pricing as lower-cost models improve. Amazon has committed another $5 billion to Anthropic, with up to $20 billion more tied to commercial milestones, while Anthropic has committed more than $100 billion over 10 years to AWS infrastructure.\nInvestors should watch DeepSeek's real-world adoption, API usage and independent benchmarks. If V4-Flash-Vision-Exp proves competitive outside DeepSeek's own tests, it could intensify model-price compression and raise the bar for the enormous infrastructure spending supporting Anthropic's growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "DeepSeek is escalating the AI price-performance race with a new multimodal model it says approaches Anthropic's Opus 4.8, a development that could matter for U.S. investors exposed to Anthropic through Amazon (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL). The bigger issue is not simply another model launch. DeepSeek is again arguing that frontier-like AI performance can be delivered at substantially lower costs, potentially pressuring the economics of premium AI models.",
+      "DeepSeek is a privately held Chinese artificial-intelligence developer best known for its large language models and aggressively priced API services. It generates revenue by charging developers and businesses to access its models through APIs, competing with providers including Anthropic, OpenAI and Google.",
+      "DeepSeek said V4-Flash-Vision-Exp is now available and matches its existing V4-Flash model across text-based reasoning, agent tasks and world knowledge while making a significant jump in visual capabilities.",
+      "On multimodal agent benchmarks, V4-Flash-Vision-Exp makes a major leap over V4-Flash, bringing multimodal agent performance close to Opus-4.8, DeepSeek said.",
+      "Images are billed at up to 384 tokens each at V4-Flash pricing, potentially making the model particularly relevant for developers building visual agents. The release follows DeepSeek's recent V4-Pro launch and an API pricing overhaul that introduced peak and off-peak rates.",
+      "The competitive pressure matters because Anthropic is scaling rapidly. Its annualized revenue run rate surpassed $65 billion by the end of July, up from $47 billion in May, according to Reuters.",
+      "Investor Takeaway",
+      "For Amazon and Alphabet investors, the key metric is whether Anthropic can maintain rapid revenue growth and premium pricing as lower-cost models improve. Amazon has committed another $5 billion to Anthropic, with up to $20 billion more tied to commercial milestones, while Anthropic has committed more than $100 billion over 10 years to AWS infrastructure.",
+      "Investors should watch DeepSeek's real-world adoption, API usage and independent benchmarks. If V4-Flash-Vision-Exp proves competitive outside DeepSeek's own tests, it could intensify model-price compression and raise the bar for the enormous infrastructure spending supporting Anthropic's growth."
+    ],
+    "html": null
+  }
+}

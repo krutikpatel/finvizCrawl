@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html",
+    "fetched_at": "2026-08-22T07:00:42.766903-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (NASDAQ:AMD), the chipmaker fighting for a bigger slice of the AI boom, edged approximately 0.1% higher to $470.19 Friday afternoon. That tiny gain says plenty. Investors are holding their fire ahead of Nvidia's August 26 earnings, which could reset expectations for every AI-accelerator playerincluding AMD's Instinct business.\nAMD is no longer knocking politely on the AI market's door. Its second-quarter revenue surged to $11.5 billion, with data-center sales delivering roughly $6.7 billion. Anthropic has committed to buying up to two gigawatts of MI450 capacity beginning in 2027, while AMD could invest as much as $5 billion in the AI developer as deployment milestones are cleared. That is a huge endorsement. More importantly, it gives AMD a genuine route into the heavyweight AI workloads Nvidia has dominated.\nNow comes the hard part: execution. Big commitments mean little until chips ship, software performs and revenue lands. The valuation already assumes a knockout performance. At $470.19, AMD trades 72.58% above its $272.45 GF Value estimate, flashing a clear overvaluation warning. The market has priced in the AI victory lap before the race is finishedand AMD cannot afford to stumble.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (NASDAQ:AMD), the chipmaker fighting for a bigger slice of the AI boom, edged approximately 0.1% higher to $470.19 Friday afternoon. That tiny gain says plenty. Investors are holding their fire ahead of Nvidia's August 26 earnings, which could reset expectations for every AI-accelerator playerincluding AMD's Instinct business.",
+      "AMD is no longer knocking politely on the AI market's door. Its second-quarter revenue surged to $11.5 billion, with data-center sales delivering roughly $6.7 billion. Anthropic has committed to buying up to two gigawatts of MI450 capacity beginning in 2027, while AMD could invest as much as $5 billion in the AI developer as deployment milestones are cleared. That is a huge endorsement. More importantly, it gives AMD a genuine route into the heavyweight AI workloads Nvidia has dominated.",
+      "Now comes the hard part: execution. Big commitments mean little until chips ship, software performs and revenue lands. The valuation already assumes a knockout performance. At $470.19, AMD trades 72.58% above its $272.45 GF Value estimate, flashing a clear overvaluation warning. The market has priced in the AI victory lap before the race is finishedand AMD cannot afford to stumble."
+    ],
+    "html": null
+  }
+}

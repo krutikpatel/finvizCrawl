@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html",
+    "fetched_at": "2026-08-22T07:00:04.704825-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA), the electric-vehicle, energy-storage and autonomous-driving giant, rocketed approximately 5.0% to $362.37 Friday as two massive growth bets moved closer to the starting line. The long-delayed Semi is approaching its commercial launch, while permits involving Tesla, Waymo and Uber intensified the robotaxi race in Las Vegas.\nTesla is attacking transportation from both directions. Semi targets commercial trucking, where lower fuel bills, heavy utilization and operating efficiency can crush brand loyalty. Robotaxis could unlock recurring service revenue on top of vehicle sales. The company also has fresh momentum after second-quarter deliveries smashed a record at 480,126 vehicles, easily outrunning production of 451,758.\nBut the stock is already charging Tesla for success. At $362.37, the shares sit 8.75% above the GF Value estimate of $333.21 and trade around 332 times trailing earnings. That leaves zero room for sleepy execution. Tesla must ramp Semi production, win paying fleet customers and turn driverless vehicles into a real business. The rally says investors believe the next growth engines are finally firingbut belief this expensive demands proof.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA), the electric-vehicle, energy-storage and autonomous-driving giant, rocketed approximately 5.0% to $362.37 Friday as two massive growth bets moved closer to the starting line. The long-delayed Semi is approaching its commercial launch, while permits involving Tesla, Waymo and Uber intensified the robotaxi race in Las Vegas.",
+      "Tesla is attacking transportation from both directions. Semi targets commercial trucking, where lower fuel bills, heavy utilization and operating efficiency can crush brand loyalty. Robotaxis could unlock recurring service revenue on top of vehicle sales. The company also has fresh momentum after second-quarter deliveries smashed a record at 480,126 vehicles, easily outrunning production of 451,758.",
+      "But the stock is already charging Tesla for success. At $362.37, the shares sit 8.75% above the GF Value estimate of $333.21 and trade around 332 times trailing earnings. That leaves zero room for sleepy execution. Tesla must ramp Semi production, win paying fleet customers and turn driverless vehicles into a real business. The rally says investors believe the next growth engines are finally firingbut belief this expensive demands proof."
+    ],
+    "html": null
+  }
+}

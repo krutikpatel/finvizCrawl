@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-says-marvell-just-changed-201708452.html",
+    "fetched_at": "2026-08-22T07:00:51.165338-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wedbush Says Marvell Just Changed Its AI Story",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL) is emerging as a bigger beneficiary of the custom AI-chip boom after expanding its work with Alphabet (GOOGL), and Wedbush says the deal reinforces a broader point investors should not miss: companies that can design specialized silicon for hyperscalers are increasingly well positioned as AI infrastructure spending accelerates.\nMarvell designs semiconductors used in data centers, networking, storage and communications infrastructure. Its growing AI business centers on custom compute chips, high-speed connectivity and other silicon used by cloud providers building massive AI systems.\nNet, we don't see this outcome as necessarily unexpected, Wedbush analyst Matt Bryson wrote. More importantly, we believe this spate of news and speculation reiterates that in the current environment, companies with custom silicon design capabilities as well as IP blocks are in an advantageous position and that given the spate of opportunities, it's not necessarily a zero-sum game (e.g., if Marvell owns, AVGO (Google's largest TPU partner) or AMD, or NVDA are necessarily losers).\nMarvell expanded its Google partnership on July 29 across products tied to Google's TPU ecosystem, including AI inference accelerators, storage controllers, network interface controllers, memory interface controllers and near-memory computing.\nGoogle also received a warrant on Aug. 18 to buy as many as 58.97 million Marvell shares at $206.58 each, further aligning the companies economically.\nThe deal comes as Alphabet diversifies its AI-chip supply chain beyond Broadcom (NASDAQ:AVGO), while reports of potential future work with Advanced Micro Devices (NASDAQ:AMD) suggest Google is willing to use multiple semiconductor partners rather than rely on one supplier.\nThat supports Wedbush's argument that Nvidia (NASDAQ:NVDA), AMD, Broadcom and Marvell can all participate as AI spending expands.\nInvestor Takeaway\nMarvell's next major catalyst arrives Aug. 27, when the company reports fiscal second-quarter 2027 results. Investors should focus on data-center revenue growth, custom-silicon bookings, margins and any updated commentary on Google-related programs.\nThe setup is already strong: Marvell generated record fiscal 2026 revenue of $8.20 billion, up 42%, driven largely by AI demand.\nThe key risk is execution. Google's expanding supplier roster creates opportunity, but it also means design wins are not guaranteed. Stronger bookings and clearer revenue timing from custom AI programs would make the Google partnership materially more valuable to the MRVL thesis.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL) is emerging as a bigger beneficiary of the custom AI-chip boom after expanding its work with Alphabet (GOOGL), and Wedbush says the deal reinforces a broader point investors should not miss: companies that can design specialized silicon for hyperscalers are increasingly well positioned as AI infrastructure spending accelerates.",
+      "Marvell designs semiconductors used in data centers, networking, storage and communications infrastructure. Its growing AI business centers on custom compute chips, high-speed connectivity and other silicon used by cloud providers building massive AI systems.",
+      "Net, we don't see this outcome as necessarily unexpected, Wedbush analyst Matt Bryson wrote. More importantly, we believe this spate of news and speculation reiterates that in the current environment, companies with custom silicon design capabilities as well as IP blocks are in an advantageous position and that given the spate of opportunities, it's not necessarily a zero-sum game (e.g., if Marvell owns, AVGO (Google's largest TPU partner) or AMD, or NVDA are necessarily losers).",
+      "Marvell expanded its Google partnership on July 29 across products tied to Google's TPU ecosystem, including AI inference accelerators, storage controllers, network interface controllers, memory interface controllers and near-memory computing.",
+      "Google also received a warrant on Aug. 18 to buy as many as 58.97 million Marvell shares at $206.58 each, further aligning the companies economically.",
+      "The deal comes as Alphabet diversifies its AI-chip supply chain beyond Broadcom (NASDAQ:AVGO), while reports of potential future work with Advanced Micro Devices (NASDAQ:AMD) suggest Google is willing to use multiple semiconductor partners rather than rely on one supplier.",
+      "That supports Wedbush's argument that Nvidia (NASDAQ:NVDA), AMD, Broadcom and Marvell can all participate as AI spending expands.",
+      "Investor Takeaway",
+      "Marvell's next major catalyst arrives Aug. 27, when the company reports fiscal second-quarter 2027 results. Investors should focus on data-center revenue growth, custom-silicon bookings, margins and any updated commentary on Google-related programs.",
+      "The setup is already strong: Marvell generated record fiscal 2026 revenue of $8.20 billion, up 42%, driven largely by AI demand.",
+      "The key risk is execution. Google's expanding supplier roster creates opportunity, but it also means design wins are not guaranteed. Stronger bookings and clearer revenue timing from custom AI programs would make the Google partnership materially more valuable to the MRVL thesis."
+    ],
+    "html": null
+  }
+}

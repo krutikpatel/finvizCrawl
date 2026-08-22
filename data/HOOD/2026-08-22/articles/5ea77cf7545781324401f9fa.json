@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/robinhood-leads-friday-s-s-p-500-gains-bfqsEvdpn8a5YLzGR4ML?mod=wsj_FV",
+    "fetched_at": "2026-08-22T07:00:19.430835-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Leads Friday’s S&P 500 Gains",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Updated 16 hours ago\nRobinhood Leads Friday’s S&P 500 Gains\nRobinhood was Friday’s best performer in the S&P 500 index, up 13.7%. Shares of the fintech company saw their largest percent increase since February, when they rose 13.95%.\nThe company hit its highest close since July 15, with share prices closing at about $108.",
+    "text_blocks": [
+      "Updated 16 hours ago",
+      "Robinhood Leads Friday’s S&P 500 Gains",
+      "Robinhood was Friday’s best performer in the S&P 500 index, up 13.7%. Shares of the fintech company saw their largest percent increase since February, when they rose 13.95%.",
+      "The company hit its highest close since July 15, with share prices closing at about $108."
+    ],
+    "html": null
+  }
+}

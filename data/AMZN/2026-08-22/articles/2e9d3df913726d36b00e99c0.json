@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-hires-ex-google-chip-211528852.html",
+    "fetched_at": "2026-08-22T07:00:40.045230-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Anthropic (NASDAQ:ANTP) has hired former Google executive Amir Salek to join its compute team as the artificial intelligence lab lays the groundwork for an in-house semiconductor initiative, according to a report from Bloomberg. Salek, who previously led Alphabet Inc.'s custom silicon efforts and delivered seven generations of Tensor Processing Units, will report directly to Anthropic compute lead James Bradbury.\nThe executive recruitment underscores Anthropic's ambition to secure proprietary hardware architecture as hyperscalers and AI developers scramble for scarce data center infrastructure. While the maker of the Claude platform continues to buy chips from Nvidia Corp., Amazon.com Inc., and Google, establishing an internal silicon division is expected to help the company tailor hardware design to its operational requirements while mitigating ongoing supply chain bottlenecks. The strategy reflects a broader trend among leading AI labs working to decrease dependence on external hardware suppliers and lower long-term compute costs. Rival OpenAI has taken similar measures by co-developing its custom Jalapeno chip alongside Broadcom Inc., which is scheduled for operational deployment later this year.\nTo sustain its immediate compute demands alongside its long-term hardware development, Anthropic has been rapidly securing multi-vendor infrastructure agreements across the supply chain. Notably, the startup recently outlined an initial $250 million commitment to UK chip firm Fractile, while simultaneously securing additional data center capacity through deals with Riot Platforms Inc. and Volta Infra Holdings Ltd.\nSalek joins the San Francisco-based lab from private equity firm Cerberus Capital Management, where he served as senior managing director following his exit from Google in 2022. His background in scaling enterprise chip programs provides Anthropic with proven operational leadership as it begins active recruiting for its emerging hardware organization.\nRelated articles\nAnthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg\nGoldman expects lower but still attractive stock market returns in 2026\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- Anthropic (NASDAQ:ANTP) has hired former Google executive Amir Salek to join its compute team as the artificial intelligence lab lays the groundwork for an in-house semiconductor initiative, according to a report from Bloomberg. Salek, who previously led Alphabet Inc.'s custom silicon efforts and delivered seven generations of Tensor Processing Units, will report directly to Anthropic compute lead James Bradbury.",
+      "The executive recruitment underscores Anthropic's ambition to secure proprietary hardware architecture as hyperscalers and AI developers scramble for scarce data center infrastructure. While the maker of the Claude platform continues to buy chips from Nvidia Corp., Amazon.com Inc., and Google, establishing an internal silicon division is expected to help the company tailor hardware design to its operational requirements while mitigating ongoing supply chain bottlenecks. The strategy reflects a broader trend among leading AI labs working to decrease dependence on external hardware suppliers and lower long-term compute costs. Rival OpenAI has taken similar measures by co-developing its custom Jalapeno chip alongside Broadcom Inc., which is scheduled for operational deployment later this year.",
+      "To sustain its immediate compute demands alongside its long-term hardware development, Anthropic has been rapidly securing multi-vendor infrastructure agreements across the supply chain. Notably, the startup recently outlined an initial $250 million commitment to UK chip firm Fractile, while simultaneously securing additional data center capacity through deals with Riot Platforms Inc. and Volta Infra Holdings Ltd.",
+      "Salek joins the San Francisco-based lab from private equity firm Cerberus Capital Management, where he served as senior managing director following his exit from Google in 2022. His background in scaling enterprise chip programs provides Anthropic with proven operational leadership as it begins active recruiting for its emerging hardware organization.",
+      "Related articles",
+      "Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg",
+      "Goldman expects lower but still attractive stock market returns in 2026",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/3bbd9d3c-24ee-3306-9d08-9a0e641ca260/broadcom-seeks-up-to-%2480.html",
+    "fetched_at": "2026-08-22T07:00:31.877003-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Broadcom has entered discussions with lenders about securing $70 billion to $80 billion in debt to fund a chip financing arrangement benefiting artificial intelligence companies, Anthropic among them, according to CNBC. Lenders are targeting a senior tranche of roughly $45 billion and a junior tranche of about $35 billion, though both figures could still shift.\nBloomberg separately reported Thursday that the deal could include a roughly $30 billion junior tranche and a senior-secured tranche ranging from about $60 billion to $70 billion, according to Reuters. Under those figures, the total raise could reach as much as $100 billion.\nThe financing would flow through a special-purpose vehicle and mirror the architecture of the earlier $35 billion deal. CNBC reported that Blackstone and Apollo Global Management are among the investors in discussions about participating in the financing. Blackstone declined to comment on the deal, while Broadcom and Apollo did not respond to Reuters.\nThat raise would extend a partnership that Broadcom, Apollo, and Blackstone unveiled in June, under which the three companies agreed to pour $35 billion into expanding Anthropic's computing infrastructure through Broadcom's custom chips and networking solutions. The first commitment aimed to add one gigawatt of computing capacity, while the broader partnership has set a target of delivering over 20 gigawatts of compute to top AI labs by 2028.\nBroadcom designs custom chips for companies including Alphabet, Meta, Anthropic, and OpenAI, and plays a role in helping large technology firms reduce their dependence on Nvidia, the dominant supplier of AI chips.\nBroadcom stock rose a little more than 1% on Friday.",
+    "text_blocks": [
+      "Broadcom has entered discussions with lenders about securing $70 billion to $80 billion in debt to fund a chip financing arrangement benefiting artificial intelligence companies, Anthropic among them, according to CNBC. Lenders are targeting a senior tranche of roughly $45 billion and a junior tranche of about $35 billion, though both figures could still shift.",
+      "Bloomberg separately reported Thursday that the deal could include a roughly $30 billion junior tranche and a senior-secured tranche ranging from about $60 billion to $70 billion, according to Reuters. Under those figures, the total raise could reach as much as $100 billion.",
+      "The financing would flow through a special-purpose vehicle and mirror the architecture of the earlier $35 billion deal. CNBC reported that Blackstone and Apollo Global Management are among the investors in discussions about participating in the financing. Blackstone declined to comment on the deal, while Broadcom and Apollo did not respond to Reuters.",
+      "That raise would extend a partnership that Broadcom, Apollo, and Blackstone unveiled in June, under which the three companies agreed to pour $35 billion into expanding Anthropic's computing infrastructure through Broadcom's custom chips and networking solutions. The first commitment aimed to add one gigawatt of computing capacity, while the broader partnership has set a target of delivering over 20 gigawatts of compute to top AI labs by 2028.",
+      "Broadcom designs custom chips for companies including Alphabet, Meta, Anthropic, and OpenAI, and plays a role in helping large technology firms reduce their dependence on Nvidia, the dominant supplier of AI chips.",
+      "Broadcom stock rose a little more than 1% on Friday."
+    ],
+    "html": null
+  }
+}

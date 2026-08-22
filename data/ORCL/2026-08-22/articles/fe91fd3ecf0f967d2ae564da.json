@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/tiktok-reaches-400-million-settlement-000821978.html",
+    "fetched_at": "2026-08-22T07:00:23.659874-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "TikTok reaches $400 million settlement with US Justice Department over children's privacy",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "TikTok has reached a $400 million settlement with the U.S. Department of Justice, ending a 2024 lawsuit alleging the company violated federal children's privacy laws.\nThe DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.\n\"This settlement is a major victory for American children and parents,\" said U.S. Associate Attorney General Stanley E. Woodward Jr. in a statement. \"The Department's priority is ensuring that children are protected online and that companies entrusted with their personal information meet their legal obligations. This resolution secures a substantial recovery while reinforcing the protections that families expect and deserve.\"\nSince the DOJ's lawsuit in 2024, TikTok has undergone major changes, most notably in the ownership structure of its U.S. arm. In January, the social video platform company signed agreements with major investors including Oracle, Silver Lake and the Emirati investment firm MGX to form the new TikTok U.S. joint venture.\nRepresentatives for TikTok did not immediately respond to a message for comment Friday.\nThe latest lawsuit focused on allegations that TikTok and its China-based parent company ByteDance violated a federal law that requires kid-oriented apps and websites to get parental consent before collecting personal information of children under 13. It also says the companies failed to honor requests from parents who wanted their children's accounts deleted, and chose not to delete accounts even when the firms knew they belonged to kids under 13.\nThe settlement comes as social media companies face an avalanche of lawsuits over children's safety and privacy and a growing number of countries are banning young kids and teens from social media apps. Instagram's parent company, Meta Platforms, is currently on trial in federal court in Oakland, California, over allegations it violated the 1998 Children's Online Privacy Protection Act, or COPPA, along with various state statutes.",
+    "text_blocks": [
+      "TikTok has reached a $400 million settlement with the U.S. Department of Justice, ending a 2024 lawsuit alleging the company violated federal children's privacy laws.",
+      "The DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.",
+      "\"This settlement is a major victory for American children and parents,\" said U.S. Associate Attorney General Stanley E. Woodward Jr. in a statement. \"The Department's priority is ensuring that children are protected online and that companies entrusted with their personal information meet their legal obligations. This resolution secures a substantial recovery while reinforcing the protections that families expect and deserve.\"",
+      "Since the DOJ's lawsuit in 2024, TikTok has undergone major changes, most notably in the ownership structure of its U.S. arm. In January, the social video platform company signed agreements with major investors including Oracle, Silver Lake and the Emirati investment firm MGX to form the new TikTok U.S. joint venture.",
+      "Representatives for TikTok did not immediately respond to a message for comment Friday.",
+      "The latest lawsuit focused on allegations that TikTok and its China-based parent company ByteDance violated a federal law that requires kid-oriented apps and websites to get parental consent before collecting personal information of children under 13. It also says the companies failed to honor requests from parents who wanted their children's accounts deleted, and chose not to delete accounts even when the firms knew they belonged to kids under 13.",
+      "The settlement comes as social media companies face an avalanche of lawsuits over children's safety and privacy and a growing number of countries are banning young kids and teens from social media apps. Instagram's parent company, Meta Platforms, is currently on trial in federal court in Oakland, California, over allegations it violated the 1998 Children's Online Privacy Protection Act, or COPPA, along with various state statutes."
+    ],
+    "html": null
+  }
+}

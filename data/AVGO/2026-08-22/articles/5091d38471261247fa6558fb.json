@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-spots-bigger-nvidia-story-182819406.html",
+    "fetched_at": "2026-08-22T07:00:31.913525-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BMO Spots a Bigger Nvidia Story",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) just picked up another major Wall Street endorsement, with BMO naming the chipmaker its top semiconductor pick and launching coverage with an Outperform rating and a $340 price target. The call matters because BMO argues Nvidia's valuation still fails to reflect the durability of its hardware-software moat, even after the stock's massive AI-driven run.\nBMO analyst Harsh Kumar pointed to Nvidia's full-stack platform, dominant market share and the coming Vera Rubin ramp as key reasons for the bullish stance.\n\"Next-gen Vera Rubin NVL72 system ramps in 2H,\" Kumar wrote. \"Stock trades at an 18x forward P/E, a discount considering revenue growth of 84% and 50% in FY27 and FY28, respectively, based on our model. We believe market valuations are mispricing an opportunity given a defensible full systems end-to-end HW/SW moat.\"\nThat is the core of BMO's thesis. Nvidia is no longer simply selling GPUs. Its systems increasingly combine accelerators, CPUs, networking, software and rack-scale architecture, making it harder for rivals to displace the company on price alone.\nBMO was also bullish on several AI-linked peers, assigning Outperform ratings to Broadcom (NASDAQ:AVGO), Advanced Micro Devices (NASDAQ:AMD), Marvell Technology (NASDAQ:MRVL) and Semtech (NASDAQ:SMTC), with price targets of $455, $550, $250 and $155, respectively.\nStill, Nvidia stood out as the top pick.\nInvestor Takeaway\nThe most important near-term catalyst is Nvidia's Aug. 26 earnings report. Investors should watch whether revenue growth, guidance and gross margins support BMO's aggressive FY27 and FY28 growth assumptions.\nRubin execution is equally critical. A smooth second-half ramp would strengthen the argument that Nvidia can transition product generations without the delays and supply complications that accompanied Blackwell.\nThe risk is that expectations are already extremely high. Any slowdown in hyperscaler spending, weaker margins or evidence that custom chips from Broadcom, AMD or others are taking share could pressure the valuation.\nBut BMO's 18-times forward earnings framework makes the bull case unusually simple: if Nvidia can sustain growth anywhere near the bank's forecasts, the stock may still be cheaper than its headline valuation suggests.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) just picked up another major Wall Street endorsement, with BMO naming the chipmaker its top semiconductor pick and launching coverage with an Outperform rating and a $340 price target. The call matters because BMO argues Nvidia's valuation still fails to reflect the durability of its hardware-software moat, even after the stock's massive AI-driven run.",
+      "BMO analyst Harsh Kumar pointed to Nvidia's full-stack platform, dominant market share and the coming Vera Rubin ramp as key reasons for the bullish stance.",
+      "\"Next-gen Vera Rubin NVL72 system ramps in 2H,\" Kumar wrote. \"Stock trades at an 18x forward P/E, a discount considering revenue growth of 84% and 50% in FY27 and FY28, respectively, based on our model. We believe market valuations are mispricing an opportunity given a defensible full systems end-to-end HW/SW moat.\"",
+      "That is the core of BMO's thesis. Nvidia is no longer simply selling GPUs. Its systems increasingly combine accelerators, CPUs, networking, software and rack-scale architecture, making it harder for rivals to displace the company on price alone.",
+      "BMO was also bullish on several AI-linked peers, assigning Outperform ratings to Broadcom (NASDAQ:AVGO), Advanced Micro Devices (NASDAQ:AMD), Marvell Technology (NASDAQ:MRVL) and Semtech (NASDAQ:SMTC), with price targets of $455, $550, $250 and $155, respectively.",
+      "Still, Nvidia stood out as the top pick.",
+      "Investor Takeaway",
+      "The most important near-term catalyst is Nvidia's Aug. 26 earnings report. Investors should watch whether revenue growth, guidance and gross margins support BMO's aggressive FY27 and FY28 growth assumptions.",
+      "Rubin execution is equally critical. A smooth second-half ramp would strengthen the argument that Nvidia can transition product generations without the delays and supply complications that accompanied Blackwell.",
+      "The risk is that expectations are already extremely high. Any slowdown in hyperscaler spending, weaker margins or evidence that custom chips from Broadcom, AMD or others are taking share could pressure the valuation.",
+      "But BMO's 18-times forward earnings framework makes the bull case unusually simple: if Nvidia can sustain growth anywhere near the bank's forecasts, the stock may still be cheaper than its headline valuation suggests."
+    ],
+    "html": null
+  }
+}

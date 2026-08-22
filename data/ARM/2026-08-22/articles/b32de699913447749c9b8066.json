@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-deal-2-3-145012820.html",
+    "fetched_at": "2026-08-22T07:00:48.533986-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAs rivalry in AI inference intensifies, the leader in AI chips, Nvidia Corp. (NVDA, Financials), is apparently considering a transaction with South Korean startup Rebellions.Bloomberg said that the corporation is in early talks with the company on numerous possibilities including a technical cooperation, an investment or possibly an acquisition.The article also said that Rebellions CEO Sunghyun Park met with CEO Jensen Huang this week at Nvidia's headquarters in Santa Clara. The discussions are at an early stage and may not result in a transaction.Rebellions develops neural processing units built for AI inference, which is the phase of artificial intelligence where trained models process fresh data and provide outputs.The business has raised over $850 million from investors such as SK Hynix, Samsung Ventures and Arm Holdings plc (ARM, Financials). Its last valuation was roughly $2.3 billion. The interest is notable for Nvidia as Rebellions operates in a market seeking to challenge Nvidia's supremacy.Nvidia has shown a willingness to engage with smaller inference-chip players, including a licensing deal with Groq last year. A Rebellions transaction might offer another avenue for Nvidia to solidify its position as inference takes a bigger slice of total AI spending.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "As rivalry in AI inference intensifies, the leader in AI chips, Nvidia Corp. (NVDA, Financials), is apparently considering a transaction with South Korean startup Rebellions.Bloomberg said that the corporation is in early talks with the company on numerous possibilities including a technical cooperation, an investment or possibly an acquisition.The article also said that Rebellions CEO Sunghyun Park met with CEO Jensen Huang this week at Nvidia's headquarters in Santa Clara. The discussions are at an early stage and may not result in a transaction.Rebellions develops neural processing units built for AI inference, which is the phase of artificial intelligence where trained models process fresh data and provide outputs.The business has raised over $850 million from investors such as SK Hynix, Samsung Ventures and Arm Holdings plc (ARM, Financials). Its last valuation was roughly $2.3 billion. The interest is notable for Nvidia as Rebellions operates in a market seeking to challenge Nvidia's supremacy.Nvidia has shown a willingness to engage with smaller inference-chip players, including a licensing deal with Groq last year. A Rebellions transaction might offer another avenue for Nvidia to solidify its position as inference takes a bigger slice of total AI spending."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-puts-37-million-185518089.html",
+    "fetched_at": "2026-08-22T07:00:34.642518-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Puts $37 Million Into SpaceX",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSpace Exploration Technologies Corp. (SPCX, Financials), Elon Musk's space and AI company, became Cathie Wood's biggest stock purchase last week as ARK Invest leaned further into the post-earnings volatility. ARK bought 316,963 SpaceX shares across several funds for roughly $36.9 million.\nWood did not wait for the stock to settle. ARK bought about $19.7 million worth on Aug. 5 as SpaceX plunged 13.6% following its first public earnings report. The firm then added another roughly $13.2 million as shares rebounded nearly 16% Friday.\nThe purchases suggest ARK is treating the recent volatility as an opportunity rather than a warning.\nWood also increased exposure to other parts of the AI infrastructure trade, including CoreWeave, Nvidia and Cloudflare.\nAt the same time, ARK trimmed positions in Palantir, Shopify and Roblox, signaling a notable shift in where it sees the strongest upside.\nFor SpaceX investors, the bigger question is whether Wood is early or whether the post-IPO selloff has already created the kind of entry point ARK was waiting for.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Space Exploration Technologies Corp. (SPCX, Financials), Elon Musk's space and AI company, became Cathie Wood's biggest stock purchase last week as ARK Invest leaned further into the post-earnings volatility. ARK bought 316,963 SpaceX shares across several funds for roughly $36.9 million.",
+      "Wood did not wait for the stock to settle. ARK bought about $19.7 million worth on Aug. 5 as SpaceX plunged 13.6% following its first public earnings report. The firm then added another roughly $13.2 million as shares rebounded nearly 16% Friday.",
+      "The purchases suggest ARK is treating the recent volatility as an opportunity rather than a warning.",
+      "Wood also increased exposure to other parts of the AI infrastructure trade, including CoreWeave, Nvidia and Cloudflare.",
+      "At the same time, ARK trimmed positions in Palantir, Shopify and Roblox, signaling a notable shift in where it sees the strongest upside.",
+      "For SpaceX investors, the bigger question is whether Wood is early or whether the post-IPO selloff has already created the kind of entry point ARK was waiting for."
+    ],
+    "html": null
+  }
+}

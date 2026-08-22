@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/crypto-stocks-gain-as-bitcoin-heads-for-best-week-in-over-two-years-7ByUM0ukiGfwtnmJ5IaL?mod=wsj_FV",
+    "fetched_at": "2026-08-22T07:00:19.431411-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crypto Stocks Gain as Bitcoin Logs Best Week in Over Two Years",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Updated 16 hours ago\nCrypto Stocks Gain as Bitcoin Logs Best Week in Over Two Years\nCrypto stocks rose Friday as bitcoin recorded its best weekly performance in more than two years.\nShares of Coinbase Global, the largest crypto exchange in the U.S., were up 8.2%. Robinhood Markets jumped 14%. Strategy, the bitcoin accumulation firm led by Michael Saylor, gained 6.1%.\nBitcoin traded around $77,006 as of 4 p.m. ET, after spiking to $79,426 earlier in the day. It has been climbing since the Treasury Department announced its expanded bond buyback program, which continues to weigh on the dollar.",
+    "text_blocks": [
+      "Updated 16 hours ago",
+      "Crypto Stocks Gain as Bitcoin Logs Best Week in Over Two Years",
+      "Crypto stocks rose Friday as bitcoin recorded its best weekly performance in more than two years.",
+      "Shares of Coinbase Global, the largest crypto exchange in the U.S., were up 8.2%. Robinhood Markets jumped 14%. Strategy, the bitcoin accumulation firm led by Michael Saylor, gained 6.1%.",
+      "Bitcoin traded around $77,006 as of 4 p.m. ET, after spiking to $79,426 earlier in the day. It has been climbing since the Treasury Department announced its expanded bond buyback program, which continues to weigh on the dollar."
+    ],
+    "html": null
+  }
+}

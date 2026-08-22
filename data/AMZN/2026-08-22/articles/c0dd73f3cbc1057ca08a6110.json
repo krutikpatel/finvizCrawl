@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/exclusive-amazon-quietly-hiked-prices-235035811.html",
+    "fetched_at": "2026-08-22T07:00:40.163618-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset ‘significant increases’ in memory costs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset ‘significant increases’ in memory costs\nAmazon has raised prices for several of its first-party devices, including its Echo smart speakers and Fire TV line, making it the latest big tech company to increase consumer costs as memory chip shortages pressure several industries.\nThe company overnight raised prices across its hardware product line, according to a review by Fortune. This includes raising the cost of its base Echo Dot from $49.99 to $79.99 and its Echo Show 11 from $219.99 to $249.99. It also raised its 16-gigabyte Kindle from $109.99 to $149.99 and its 16-gigabyte Kindle Paperwhite from $159.99 to $199.99.\nIts Fire TV Stick HD model increased from $34.99 to $39.99, and its Fire TV Stick 4K Max went from $59.99 to $84.99. The Amazon eero 7 wireless mesh networking system increased from $349.99 to $399.99, and the eero Pro 7 rose from $699.99 to $799.99. Notably, Amazon did not increase prices for its Ring products. The website Pocket-lint earlier reported on the Fire TV increases.\nAn Amazon spokeswoman, who confirmed the price increases, said in a statement that the consumer electronics industry is \"facing significant increases in memory and storage component costs. After absorbing these increases for as long as we could, we recently adjusted pricing across our product lines.\"\nThe spokeswoman said the company aims to continue to offer products at accessible prices, and that Amazon will also offer promotions across its lineup throughout the year.\nCompanies big and small have been increasing prices due to a memory chip shortage brought on by immense demand for AI compute. In June, Apple was forced to raise prices for its Macs and iPads to account for the increased cost of memory chips. Chief Executive Tim Cook characterized the move as a \"100-year flood on memory pricing.\"\nMicrosoft also said recently it will increase the price of its Xbox game consoles by $100 to $150, depending on the version, and that it would no longer sell Xbox consoles with 2 terabytes of memory, its highest-end configuration. Dell, HP, Lenovo, and Asus have also raised prices or reduced the amount of memory in their products.\nAmazon's price increases are especially notable given the company's reputation for low costs and cheap hardware. The move also comes as the company prepares for an upcoming fall event to show off its newest devices.\nIn late July, Amazon Chief Executive Andy Jassy told investors that Amazon now expects to devote $220 billion this year to capital expenditures, primarily to build and equip the data centers that power AI services, up from its prior estimate of $200 billion, owing to higher memory costs. Even at the elevated level, however, Jassy said Amazon still won't \"have enough capacity to meet all the demand we have in 2026. And I believe this dynamic will also be true in 2027, too.\"",
+    "text_blocks": [
+      "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset ‘significant increases’ in memory costs",
+      "Amazon has raised prices for several of its first-party devices, including its Echo smart speakers and Fire TV line, making it the latest big tech company to increase consumer costs as memory chip shortages pressure several industries.",
+      "The company overnight raised prices across its hardware product line, according to a review by Fortune. This includes raising the cost of its base Echo Dot from $49.99 to $79.99 and its Echo Show 11 from $219.99 to $249.99. It also raised its 16-gigabyte Kindle from $109.99 to $149.99 and its 16-gigabyte Kindle Paperwhite from $159.99 to $199.99.",
+      "Its Fire TV Stick HD model increased from $34.99 to $39.99, and its Fire TV Stick 4K Max went from $59.99 to $84.99. The Amazon eero 7 wireless mesh networking system increased from $349.99 to $399.99, and the eero Pro 7 rose from $699.99 to $799.99. Notably, Amazon did not increase prices for its Ring products. The website Pocket-lint earlier reported on the Fire TV increases.",
+      "An Amazon spokeswoman, who confirmed the price increases, said in a statement that the consumer electronics industry is \"facing significant increases in memory and storage component costs. After absorbing these increases for as long as we could, we recently adjusted pricing across our product lines.\"",
+      "The spokeswoman said the company aims to continue to offer products at accessible prices, and that Amazon will also offer promotions across its lineup throughout the year.",
+      "Companies big and small have been increasing prices due to a memory chip shortage brought on by immense demand for AI compute. In June, Apple was forced to raise prices for its Macs and iPads to account for the increased cost of memory chips. Chief Executive Tim Cook characterized the move as a \"100-year flood on memory pricing.\"",
+      "Microsoft also said recently it will increase the price of its Xbox game consoles by $100 to $150, depending on the version, and that it would no longer sell Xbox consoles with 2 terabytes of memory, its highest-end configuration. Dell, HP, Lenovo, and Asus have also raised prices or reduced the amount of memory in their products.",
+      "Amazon's price increases are especially notable given the company's reputation for low costs and cheap hardware. The move also comes as the company prepares for an upcoming fall event to show off its newest devices.",
+      "In late July, Amazon Chief Executive Andy Jassy told investors that Amazon now expects to devote $220 billion this year to capital expenditures, primarily to build and equip the data centers that power AI services, up from its prior estimate of $200 billion, owing to higher memory costs. Even at the elevated level, however, Jassy said Amazon still won't \"have enough capacity to meet all the demand we have in 2026. And I believe this dynamic will also be true in 2027, too.\""
+    ],
+    "html": null
+  }
+}
