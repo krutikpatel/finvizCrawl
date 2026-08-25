@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apples-next-mac-mini-could-131828532.html",
+    "fetched_at": "2026-08-25T07:00:08.702545-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's Next Mac Mini Could Arrive Sooner Than Expected",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple Inc. (AAPL, Financials) may be getting ready to refresh the Mac mini sooner than expected. Bloomberg said, citing people familiar with the situation, that the business may introduce a new version of its desktop computer ahead of its annual fall product presentation.\nApple's M5 and M6 CPUs are said to have been tested in the new Mac mini, although the final chip combination is not yet evident. Timing is everything here, especially as the current model has been more in demand than Apple thought.\nEarlier this year Apple discontinued the 256GB version of the M4 Mac mini essentially raising the starting price from $599 to $799. Former CEO Tim Cook stated demand for the Mac mini and Mac Studio has created supply limitations that could take months to overcome.\nThe Mac mini has also gained a growing following among developers and those running AI tools locally, providing Apple another option to profit off of interest in on-device artificial intelligence.\nA new version of the device might help Apple continue that progress while offering users a cause to upgrade before the broader fall product cycle kicks off.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple Inc. (AAPL, Financials) may be getting ready to refresh the Mac mini sooner than expected. Bloomberg said, citing people familiar with the situation, that the business may introduce a new version of its desktop computer ahead of its annual fall product presentation.",
+      "Apple's M5 and M6 CPUs are said to have been tested in the new Mac mini, although the final chip combination is not yet evident. Timing is everything here, especially as the current model has been more in demand than Apple thought.",
+      "Earlier this year Apple discontinued the 256GB version of the M4 Mac mini essentially raising the starting price from $599 to $799. Former CEO Tim Cook stated demand for the Mac mini and Mac Studio has created supply limitations that could take months to overcome.",
+      "The Mac mini has also gained a growing following among developers and those running AI tools locally, providing Apple another option to profit off of interest in on-device artificial intelligence.",
+      "A new version of the device might help Apple continue that progress while offering users a cause to upgrade before the broader fall product cycle kicks off."
+    ],
+    "html": null
+  }
+}

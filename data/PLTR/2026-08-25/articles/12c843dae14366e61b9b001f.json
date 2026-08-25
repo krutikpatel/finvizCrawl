@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1d39e447-20c2-31bc-a5f3-c5add87b7650/snowflake-stock-is-priced-for.html",
+    "fetched_at": "2026-08-25T07:00:34.723423-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Snowflake Stock Is Priced For Growth That Arrives At A Lower Gross Margin",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Snowflake's acceleration is led by AI products that carry a lower gross margin than its core platform, and a bandwidth-cost offset is what holds the margin guide together.\nSnowflake (SNOW) stock has more than doubled over the trailing three months against a 3.1% return for the S&P 500 and now trades right at the top of its 52-week range. What that price buys is a growth acceleration the company attributes to its core platform and its newest AI products together, and those AI products are where its margin pressure sits.\nWhat The Top Of The Range Actually Costs\nThe stock carries a price-to-operating-cash-flow multiple of 92.9, against 15.6 for the S&P 500. That multiple is not being paid for scale: revenue over the trailing twelve months was $5.0 billion. It is being paid for the rate of change, because the operation underneath it does not yet make money on a GAAP basis, with an operating margin deeply negative at -26.1% against 18.4% for the index.\nCortex Code Drives The Raise And Carries The Lower Margin\nThe rate of change is real. Product revenue growth accelerated to 34% year over year in fiscal Q1 2027, and the company raised its fiscal 2027 product revenue outlook to 31% growth from 27%, naming Cortex Code, the natural-language tool it gives builders, as the largest driver of the increase. Snowflake Intelligence, its business-user counterpart, is the other product surface. By the company's own account, though, these AI products carry a lower gross margin than the core platform, and it holds its 75% non-GAAP product gross margin guide for fiscal 2027 by offsetting the drag with lower bandwidth costs under its AWS contract. The engine driving the growth is the same one pressing on gross margin, though in the same guidance the company raised its full-year non-GAAP operating margin outlook from 12.5% to 13.5%.\nThe Loss Does Not Show Up In The Cash\nThe reported loss is not cash going out the door. Snowflake converts 24.6% of revenue into operating cash flow, ahead of the market's 21.8%, and with earnings negative, that cash line is a sounder base for a multiple than reported profit. Nor is there funding pressure behind the loss: debt is 2.4% of the company's market value, against 19.2% for the market. Balance-sheet strength of that kind is one of the properties shared by the holdings of the Trefis High Quality Portfolio.\nWhat The Margin Guide Has To Survive\nTwo things decide whether the price is worth paying. The first is whether that gross margin guide holds as Cortex Code adoption widens, since what supports it is a cost offset under its AWS contract rather than the product's own economics. The second is consumption: the company's own forecast is built on existing consumption patterns, and the worry an analyst put to management directly is that customers govern or throttle the use of these tools to contain spend. Behind both sits the tape: the stock fell 66% during the 2022 inflation shock while the S&P 500 fell 24%, and recovery to its pre-crisis high took about 50 months from the trough. Snowflake reports fiscal Q2 2027 on September 2; until then, the five-factor scorecard that rates growth, profitability and risk in one place is the practical way to keep score.",
+    "text_blocks": [
+      "Snowflake's acceleration is led by AI products that carry a lower gross margin than its core platform, and a bandwidth-cost offset is what holds the margin guide together.",
+      "Snowflake (SNOW) stock has more than doubled over the trailing three months against a 3.1% return for the S&P 500 and now trades right at the top of its 52-week range. What that price buys is a growth acceleration the company attributes to its core platform and its newest AI products together, and those AI products are where its margin pressure sits.",
+      "What The Top Of The Range Actually Costs",
+      "The stock carries a price-to-operating-cash-flow multiple of 92.9, against 15.6 for the S&P 500. That multiple is not being paid for scale: revenue over the trailing twelve months was $5.0 billion. It is being paid for the rate of change, because the operation underneath it does not yet make money on a GAAP basis, with an operating margin deeply negative at -26.1% against 18.4% for the index.",
+      "Cortex Code Drives The Raise And Carries The Lower Margin",
+      "The rate of change is real. Product revenue growth accelerated to 34% year over year in fiscal Q1 2027, and the company raised its fiscal 2027 product revenue outlook to 31% growth from 27%, naming Cortex Code, the natural-language tool it gives builders, as the largest driver of the increase. Snowflake Intelligence, its business-user counterpart, is the other product surface. By the company's own account, though, these AI products carry a lower gross margin than the core platform, and it holds its 75% non-GAAP product gross margin guide for fiscal 2027 by offsetting the drag with lower bandwidth costs under its AWS contract. The engine driving the growth is the same one pressing on gross margin, though in the same guidance the company raised its full-year non-GAAP operating margin outlook from 12.5% to 13.5%.",
+      "The Loss Does Not Show Up In The Cash",
+      "The reported loss is not cash going out the door. Snowflake converts 24.6% of revenue into operating cash flow, ahead of the market's 21.8%, and with earnings negative, that cash line is a sounder base for a multiple than reported profit. Nor is there funding pressure behind the loss: debt is 2.4% of the company's market value, against 19.2% for the market. Balance-sheet strength of that kind is one of the properties shared by the holdings of the Trefis High Quality Portfolio.",
+      "What The Margin Guide Has To Survive",
+      "Two things decide whether the price is worth paying. The first is whether that gross margin guide holds as Cortex Code adoption widens, since what supports it is a cost offset under its AWS contract rather than the product's own economics. The second is consumption: the company's own forecast is built on existing consumption patterns, and the worry an analyst put to management directly is that customers govern or throttle the use of these tools to contain spend. Behind both sits the tape: the stock fell 66% during the 2022 inflation shock while the S&P 500 fell 24%, and recovery to its pre-crisis high took about 50 months from the trough. Snowflake reports fiscal Q2 2027 on September 2; until then, the five-factor scorecard that rates growth, profitability and risk in one place is the practical way to keep score."
+    ],
+    "html": null
+  }
+}

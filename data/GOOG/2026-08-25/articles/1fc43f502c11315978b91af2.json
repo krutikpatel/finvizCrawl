@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-expands-gemini-ai-platform-120333157.html",
+    "fetched_at": "2026-08-25T07:00:25.900456-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google expands Gemini AI platform for law firms, lawyers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Mike Scarcella\nWASHINGTON, Aug 25 (Reuters) - Alphabet's Google on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms, accelerating a race among technology companies to meet legal sector demand for AI.\nThe company said its Gemini Enterprise for Legal would help law firms use AI to manage routine and complex work to allow lawyers to focus on higher-value services, while keeping their data secure and confidential.\nThe new plug-in for Gemini Enterprise includes integration with legal software and data platforms and a stable of AI agents that Google said can handle specialized legal and administrative functions without significant human oversight.\nAlphabet launched Gemini Enterprise for business customers in October, in a bid to attract more corporate clients with its AI offerings. Google Cloud has become one of Alphabet's fastest-growing businesses.\nIn addition to legal, Google on Tuesday said it was unveiling industry tools for the financial services sector and would later roll out other industry-specific offerings.\nRival AI companies including Anthropic have also expanded their enterprise offerings in recent months, including in the legal sector. A 2026 report on the legal industry's adoption of AI from Deloitte found that law firms are investing heavily in the technology as part of a transformation that's still in its early stages.\nThomson Reuters, which owns Reuters and Westlaw's legal research database, is among the competitors for legal industry market share. On Monday it launched a proprietary large language model called Thomson 1.0 that is trained on its legal research content and built for professional work. It said the model is built on open-source technology and draws on decades of its own \"authoritative\" legal content.\nGoogle said its platform will connect directly and securely to other legal technology platforms owned by Thomson Reuters, legal AI software developer Harvey, data analytics and technology company LexisNexis and others.\nLaw firms are rapidly adopting generative AI tools that can assist with legal research, draft filings and perform other legal tasks. Many are also using AI for business operations like client and case management, seeking to cut costs and improve efficiency.\nGoogle's new offering is designed to be flexible for law firms, said Amrita Mehrok, a Google Cloud product director at the company, allowing them to choose among AI models embedded in the platform.",
+    "text_blocks": [
+      "By Mike Scarcella",
+      "WASHINGTON, Aug 25 (Reuters) - Alphabet's Google on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms, accelerating a race among technology companies to meet legal sector demand for AI.",
+      "The company said its Gemini Enterprise for Legal would help law firms use AI to manage routine and complex work to allow lawyers to focus on higher-value services, while keeping their data secure and confidential.",
+      "The new plug-in for Gemini Enterprise includes integration with legal software and data platforms and a stable of AI agents that Google said can handle specialized legal and administrative functions without significant human oversight.",
+      "Alphabet launched Gemini Enterprise for business customers in October, in a bid to attract more corporate clients with its AI offerings. Google Cloud has become one of Alphabet's fastest-growing businesses.",
+      "In addition to legal, Google on Tuesday said it was unveiling industry tools for the financial services sector and would later roll out other industry-specific offerings.",
+      "Rival AI companies including Anthropic have also expanded their enterprise offerings in recent months, including in the legal sector. A 2026 report on the legal industry's adoption of AI from Deloitte found that law firms are investing heavily in the technology as part of a transformation that's still in its early stages.",
+      "Thomson Reuters, which owns Reuters and Westlaw's legal research database, is among the competitors for legal industry market share. On Monday it launched a proprietary large language model called Thomson 1.0 that is trained on its legal research content and built for professional work. It said the model is built on open-source technology and draws on decades of its own \"authoritative\" legal content.",
+      "Google said its platform will connect directly and securely to other legal technology platforms owned by Thomson Reuters, legal AI software developer Harvey, data analytics and technology company LexisNexis and others.",
+      "Law firms are rapidly adopting generative AI tools that can assist with legal research, draft filings and perform other legal tasks. Many are also using AI for business operations like client and case management, seeking to cut costs and improve efficiency.",
+      "Google's new offering is designed to be flexible for law firms, said Amrita Mehrok, a Google Cloud product director at the company, allowing them to choose among AI models embedded in the platform."
+    ],
+    "html": null
+  }
+}

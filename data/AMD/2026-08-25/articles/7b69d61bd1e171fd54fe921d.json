@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amd-stock-nvidia-chips-cpu-3636f478?mod=bar_FV",
+    "fetched_at": "2026-08-25T07:00:42.518359-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Chips Away at Nvidia’s CPU Moat. How the Chip Maker Could Dominate the Market.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "AMD Chips Away at Nvidia’s Moat. The Chip Maker Could Dominate the CPU Market and Rise 40%.\nA key stock market event this week is earnings from Nvidia, but chip maker rival Advanced Micro Devices could be the better chip stock right now as the the market for central processing unit, or CPU, chips is expected to boom.",
+    "text_blocks": [
+      "AMD Chips Away at Nvidia’s Moat. The Chip Maker Could Dominate the CPU Market and Rise 40%.",
+      "A key stock market event this week is earnings from Nvidia, but chip maker rival Advanced Micro Devices could be the better chip stock right now as the the market for central processing unit, or CPU, chips is expected to boom."
+    ],
+    "html": null
+  }
+}

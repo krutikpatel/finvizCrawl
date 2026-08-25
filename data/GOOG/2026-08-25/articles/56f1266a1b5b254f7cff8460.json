@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/90da6747-ede7-3bea-8f8b-07dc86ee26bc/jim-cramer-says-data-center.html",
+    "fetched_at": "2026-08-25T07:00:25.877214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Jim Cramer says data center backlash favors big tech hyperscalers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Jim Cramer said Monday that growing political opposition to data center construction is shifting the advantage toward the largest technology companies at the expense of smaller, speculative developers.\n\"The data center thesis, perhaps the greatest investment theme in a generation, is now under attack and it may never be the same,\" the \"Mad Money\" host said on CNBC. Cramer cited Pennsylvania and Texas as illustrations of the trend, noting that both states' governors, once advocates for data center growth, have lately demanded more stringent conditions on new projects.\nAmazon, Alphabet, Microsoft, and Meta are best positioned to navigate the new landscape, Cramer argued, because the scale of their balance sheets lets them clear regulatory and community hurdles that would be prohibitive for smaller operators. \"They're the biggest beneficiaries, because they can afford to compensate local communities and get their warehouses full of servers built,\" he said.\nCramer added that if speculative developers exit the market, hyperscalers could face less pressure on land, power, and workforce availability, which might translate into lower construction costs as they press ahead with AI infrastructure. \"This political pushback is a godsend for the hyperscalers,\" he said.\nThe changed environment could work against other data center beneficiaries. Cramer cautioned that with the buildout trajectory in question, the market may no longer justify elevated multiples for suppliers like GE Vernova, which makes gas turbines, or memory-chip companies including Micron, Sandisk, Western Digital, and Seagate, regardless of how robust end demand proves to be.\nDespite his more cautious outlook for parts of the data center trade, Cramer stopped short of calling the broader theme finished. \"We know that rules can be crafted and communities can be appeased, but the unbridled buildout is most likely over,\" Cramer said on the program.\nThe political pushback comes as the data center industry's electricity demands have strained power grids across the United States, pushing average wholesale electricity prices 2% to 6% higher nationwide, according to CNN. Data centers consumed about 176 terawatt-hours of electricity in 2023, enough to power roughly 17 million homes, according to Lawrence Berkeley National Laboratory, and the Electric Power Research Institute projects that data centers could account for 9% to 17% of all U.S. electricity by 2030. Virginia alone now directs more than a quarter of its electricity to data centers, and the state would need to double its total electricity supply within the next decade if every planned project moved forward, according to a December 2024 forecast by the Virginia Joint Legislative Audit and Review Commission.\nCramer's Charitable Trust holds shares of Amazon, GE Vernova, Alphabet, Meta, Microsoft, and Micron.",
+    "text_blocks": [
+      "Jim Cramer said Monday that growing political opposition to data center construction is shifting the advantage toward the largest technology companies at the expense of smaller, speculative developers.",
+      "\"The data center thesis, perhaps the greatest investment theme in a generation, is now under attack and it may never be the same,\" the \"Mad Money\" host said on CNBC. Cramer cited Pennsylvania and Texas as illustrations of the trend, noting that both states' governors, once advocates for data center growth, have lately demanded more stringent conditions on new projects.",
+      "Amazon, Alphabet, Microsoft, and Meta are best positioned to navigate the new landscape, Cramer argued, because the scale of their balance sheets lets them clear regulatory and community hurdles that would be prohibitive for smaller operators. \"They're the biggest beneficiaries, because they can afford to compensate local communities and get their warehouses full of servers built,\" he said.",
+      "Cramer added that if speculative developers exit the market, hyperscalers could face less pressure on land, power, and workforce availability, which might translate into lower construction costs as they press ahead with AI infrastructure. \"This political pushback is a godsend for the hyperscalers,\" he said.",
+      "The changed environment could work against other data center beneficiaries. Cramer cautioned that with the buildout trajectory in question, the market may no longer justify elevated multiples for suppliers like GE Vernova, which makes gas turbines, or memory-chip companies including Micron, Sandisk, Western Digital, and Seagate, regardless of how robust end demand proves to be.",
+      "Despite his more cautious outlook for parts of the data center trade, Cramer stopped short of calling the broader theme finished. \"We know that rules can be crafted and communities can be appeased, but the unbridled buildout is most likely over,\" Cramer said on the program.",
+      "The political pushback comes as the data center industry's electricity demands have strained power grids across the United States, pushing average wholesale electricity prices 2% to 6% higher nationwide, according to CNN. Data centers consumed about 176 terawatt-hours of electricity in 2023, enough to power roughly 17 million homes, according to Lawrence Berkeley National Laboratory, and the Electric Power Research Institute projects that data centers could account for 9% to 17% of all U.S. electricity by 2030. Virginia alone now directs more than a quarter of its electricity to data centers, and the state would need to double its total electricity supply within the next decade if every planned project moved forward, according to a December 2024 forecast by the Virginia Joint Legislative Audit and Review Commission.",
+      "Cramer's Charitable Trust holds shares of Amazon, GE Vernova, Alphabet, Meta, Microsoft, and Micron."
+    ],
+    "html": null
+  }
+}

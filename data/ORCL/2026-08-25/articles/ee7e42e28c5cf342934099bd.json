@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
+    "fetched_at": "2026-08-25T07:00:23.035866-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) is reportedly preparing price increases of more than 15% on many AI servers using its chips as soaring memory costs collide with relentless data-center demand. The move highlights Nvidia's extraordinary pricing power ahead of Wednesday's earnings, but it also puts a new investor question into focus: whether rising component costs can be passed through without slowing hyperscaler AI spending or squeezing Nvidia's industry-leading margins.\nSome of Nvidia's largest customers have been told that systems containing Grace Blackwell and next-generation Vera Rubin chips will become more expensive when shipments begin early next year, Bloomberg reported. The increases will vary depending on the chip generation and memory configuration.\nContract manufacturers supplying Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL) and Oracle (NYSE:ORCL) have already notified customers of the increases, according to the report.\nMemory is the pressure point. AI servers require enormous amounts of high-bandwidth memory and conventional DRAM, while suppliers including Micron (NASDAQ:MU), Samsung and SK Hynix have struggled to expand capacity fast enough to match AI demand.\nThat creates an unusual setup for Nvidia. Higher memory prices raise the cost of delivering complete AI systems, but the company's ability to push those increases downstream also indicates customers remain willing to pay heavily for scarce computing capacity.\nThe stakes are significant. Nvidia generated $81.6 billion of revenue last quarter, up 85% year over year, with Data Center revenue surging 92% to $75.2 billion. Non-GAAP gross margin stood at 75%. Nvidia guided fiscal second-quarter revenue to roughly $91 billion and another 75% non-GAAP gross margin.\nInvestors Takeaway\nWednesday's fiscal second-quarter earnings will provide the clearest test. Nvidia reports Aug. 26 after the market closes.\nInvestors should focus closely on gross-margin guidance, Vera Rubin demand, supply availability and any commentary on memory inflation. If Nvidia can preserve margins while passing higher costs to customers, the price increases would reinforce its pricing-power thesis.\nThe risk is demand elasticity. Microsoft, Amazon (NASDAQ:AMZN), Alphabet and Meta (NASDAQ:META) are all developing proprietary accelerators. If rapidly rising Nvidia system costs accelerate those alternatives or force customers to moderate deployments, today's pricing strength could eventually become a headwind.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) is reportedly preparing price increases of more than 15% on many AI servers using its chips as soaring memory costs collide with relentless data-center demand. The move highlights Nvidia's extraordinary pricing power ahead of Wednesday's earnings, but it also puts a new investor question into focus: whether rising component costs can be passed through without slowing hyperscaler AI spending or squeezing Nvidia's industry-leading margins.",
+      "Some of Nvidia's largest customers have been told that systems containing Grace Blackwell and next-generation Vera Rubin chips will become more expensive when shipments begin early next year, Bloomberg reported. The increases will vary depending on the chip generation and memory configuration.",
+      "Contract manufacturers supplying Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL) and Oracle (NYSE:ORCL) have already notified customers of the increases, according to the report.",
+      "Memory is the pressure point. AI servers require enormous amounts of high-bandwidth memory and conventional DRAM, while suppliers including Micron (NASDAQ:MU), Samsung and SK Hynix have struggled to expand capacity fast enough to match AI demand.",
+      "That creates an unusual setup for Nvidia. Higher memory prices raise the cost of delivering complete AI systems, but the company's ability to push those increases downstream also indicates customers remain willing to pay heavily for scarce computing capacity.",
+      "The stakes are significant. Nvidia generated $81.6 billion of revenue last quarter, up 85% year over year, with Data Center revenue surging 92% to $75.2 billion. Non-GAAP gross margin stood at 75%. Nvidia guided fiscal second-quarter revenue to roughly $91 billion and another 75% non-GAAP gross margin.",
+      "Investors Takeaway",
+      "Wednesday's fiscal second-quarter earnings will provide the clearest test. Nvidia reports Aug. 26 after the market closes.",
+      "Investors should focus closely on gross-margin guidance, Vera Rubin demand, supply availability and any commentary on memory inflation. If Nvidia can preserve margins while passing higher costs to customers, the price increases would reinforce its pricing-power thesis.",
+      "The risk is demand elasticity. Microsoft, Amazon (NASDAQ:AMZN), Alphabet and Meta (NASDAQ:META) are all developing proprietary accelerators. If rapidly rising Nvidia system costs accelerate those alternatives or force customers to moderate deployments, today's pricing strength could eventually become a headwind."
+    ],
+    "html": null
+  }
+}

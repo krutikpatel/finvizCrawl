@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/00df4ed6-9b64-3d1f-9335-e15e0d5831a1/openai-uncovers-a-covert.html",
+    "fetched_at": "2026-08-25T07:00:12.161771-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nOpenAI has terminated a number of ChatGPT accounts from Russia, accusing them of participating in a clandestine online misinformation operation.\nThe Sam Altman-led company discovered the issue while analyzing AI-generated social media posts, leading to the identification of a broader influence operation, according to an OpenAI blog post on Tuesday.\nThe operation was primarily based around a website that hosted plagiarized and wrongly attributed academic work, a 'sovereignty' index favoring Vladimir Putin's Russia, and attempts to hide the operators' Russian roots, as per OpenAI. The operators leveraged Russian prompts to generate social media comments posted on platforms such as Substack, Telegram, Meta Platform Inc.'s (NASDAQ:META) Facebook, and LinkedIn. They also directed ChatGPT to mask any linguistic indications of their Russian origin.\nThe majority of the generated content promoted an organization called the International Burke Institute (IBI). The IBI's website features articles copied from legitimate academic sources, sometimes falsely attributed. The influence operation also created a 'sovereignty index' that lauded Russia and criticized Western nations.\nWhile the immediate impact of the operation appears to be limited, OpenAI stressed that the operation's significance lies in the infrastructure it had established. The AI-generated posts pointed to a seemingly credible institution, complete with alleged experts, republished academic work, and a purported proprietary risk index.\nOpenAI Flags Rising AI Influence Risks\nOpenAI said AI can help influence actors build authority, hide the origins of narratives, and create scalable assets for long-term influence campaigns.\nIn June, OpenAI said it disrupted multiple influence campaigns targeting U.S. debates over AI and data centers. One campaign, dubbed \"Data Center Bandwagon,\" spread claims that AI data centers were driving up household electricity costs.\nAnother group linked to a Chinese technology company with government ties allegedly sought to shape U.S. policy discussions. OpenAI also banned Chinese-speaking users who used ChatGPT to create anti-Trump slogans, cartoons and multilingual comments for social media and news platforms.\nDisclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.",
+    "text_blocks": [
+      "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media",
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "OpenAI has terminated a number of ChatGPT accounts from Russia, accusing them of participating in a clandestine online misinformation operation.",
+      "The Sam Altman-led company discovered the issue while analyzing AI-generated social media posts, leading to the identification of a broader influence operation, according to an OpenAI blog post on Tuesday.",
+      "The operation was primarily based around a website that hosted plagiarized and wrongly attributed academic work, a 'sovereignty' index favoring Vladimir Putin's Russia, and attempts to hide the operators' Russian roots, as per OpenAI. The operators leveraged Russian prompts to generate social media comments posted on platforms such as Substack, Telegram, Meta Platform Inc.'s (NASDAQ:META) Facebook, and LinkedIn. They also directed ChatGPT to mask any linguistic indications of their Russian origin.",
+      "The majority of the generated content promoted an organization called the International Burke Institute (IBI). The IBI's website features articles copied from legitimate academic sources, sometimes falsely attributed. The influence operation also created a 'sovereignty index' that lauded Russia and criticized Western nations.",
+      "While the immediate impact of the operation appears to be limited, OpenAI stressed that the operation's significance lies in the infrastructure it had established. The AI-generated posts pointed to a seemingly credible institution, complete with alleged experts, republished academic work, and a purported proprietary risk index.",
+      "OpenAI Flags Rising AI Influence Risks",
+      "OpenAI said AI can help influence actors build authority, hide the origins of narratives, and create scalable assets for long-term influence campaigns.",
+      "In June, OpenAI said it disrupted multiple influence campaigns targeting U.S. debates over AI and data centers. One campaign, dubbed \"Data Center Bandwagon,\" spread claims that AI data centers were driving up household electricity costs.",
+      "Another group linked to a Chinese technology company with government ties allegedly sought to shape U.S. policy discussions. OpenAI also banned Chinese-speaking users who used ChatGPT to create anti-Trump slogans, cartoons and multilingual comments for social media and news platforms.",
+      "Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors."
+    ],
+    "html": null
+  }
+}

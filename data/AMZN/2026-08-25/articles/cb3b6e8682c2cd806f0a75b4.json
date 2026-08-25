@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-tokenized-stocks-live-sec-094525267.html",
+    "fetched_at": "2026-08-25T07:00:40.361625-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Coinbase’s Tokenized Stocks Are Live on Base. The SEC’s Framework Isn’t.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Coinbase has launched tokenized U.S. equities on the Base blockchain. The August 24 rollout includes 13 stocks — NVDAc, METAc, AAPLc, GOOGLc, AMZN, COIN, CRCL, INTC, MSFT, MSTR, SNDK, SPCX, and TSLA — each representing a direct claim on the underlying share, not a synthetic derivative. The product is live. The U.S. regulatory framework that would have made this possible domestically is not.\nThe infrastructure tells the story Coinbase wants told. Tokens are issued under the B20 standard, Base's native ERC-20-compatible format built on Rust precompiles that went live on mainnet July 8. Alpaca Securities serves as the regulated broker-custodian, holding underlying shares in a bankruptcy-remote structure with 1:1 backing. Pricing runs through Chainlink Data Feeds — 24/5 continuous feeds with a 0.5% deviation threshold and 24-hour heartbeats, reporting Total Return Values that account for dividends. The oracle infrastructure is the same V3 aggregator interface used for crypto price feeds, which means existing DeFi protocols can integrate without custom engineering.\nThat integration is the real signal. At launch, nine DeFi protocols are live with tokenized stock support: Aerodrome for liquidity, Aave and Morpho and Euler for lending and borrowing, 0x and 1inch and KyberSwap for aggregated trading, CoW Swap for MEV-protected orders, and Wasabi for perpetuals and options. Day-one numbers: $10.8 million in 24-hour volume, roughly $4.5 million minted onchain, and $3 million in DEX liquidity. This is not a proof-of-concept. It is production plumbing.\nThe shareholder rights angle is the competitive differentiator that matters. Coinbase's tokens carry dividends and voting rights — actual ownership, not price exposure wrapped in a certificate. That distinction puts distance between Coinbase and the two incumbents it is chasing. Kraken's xStocks, issued by Backed Finance, have accumulated $25 billion in cumulative trading volume and over 80,000 holders across 100-plus names, but they are certificate-backed instruments without voting rights. Binance's bStocks reached $624 million in value by early August — enough to overtake xStocks by issuer value — but the same limitation applies. Ondo Global Markets leads on total value locked at $1 billion with 70-plus percent issuer market share, but its distribution model runs through partners like Binance and MetaMask rather than direct DeFi integration. Coinbase is betting that the combination of real ownership and native DeFi composability is worth more than a head start on volume.",
+    "text_blocks": [
+      "Coinbase has launched tokenized U.S. equities on the Base blockchain. The August 24 rollout includes 13 stocks — NVDAc, METAc, AAPLc, GOOGLc, AMZN, COIN, CRCL, INTC, MSFT, MSTR, SNDK, SPCX, and TSLA — each representing a direct claim on the underlying share, not a synthetic derivative. The product is live. The U.S. regulatory framework that would have made this possible domestically is not.",
+      "The infrastructure tells the story Coinbase wants told. Tokens are issued under the B20 standard, Base's native ERC-20-compatible format built on Rust precompiles that went live on mainnet July 8. Alpaca Securities serves as the regulated broker-custodian, holding underlying shares in a bankruptcy-remote structure with 1:1 backing. Pricing runs through Chainlink Data Feeds — 24/5 continuous feeds with a 0.5% deviation threshold and 24-hour heartbeats, reporting Total Return Values that account for dividends. The oracle infrastructure is the same V3 aggregator interface used for crypto price feeds, which means existing DeFi protocols can integrate without custom engineering.",
+      "That integration is the real signal. At launch, nine DeFi protocols are live with tokenized stock support: Aerodrome for liquidity, Aave and Morpho and Euler for lending and borrowing, 0x and 1inch and KyberSwap for aggregated trading, CoW Swap for MEV-protected orders, and Wasabi for perpetuals and options. Day-one numbers: $10.8 million in 24-hour volume, roughly $4.5 million minted onchain, and $3 million in DEX liquidity. This is not a proof-of-concept. It is production plumbing.",
+      "The shareholder rights angle is the competitive differentiator that matters. Coinbase's tokens carry dividends and voting rights — actual ownership, not price exposure wrapped in a certificate. That distinction puts distance between Coinbase and the two incumbents it is chasing. Kraken's xStocks, issued by Backed Finance, have accumulated $25 billion in cumulative trading volume and over 80,000 holders across 100-plus names, but they are certificate-backed instruments without voting rights. Binance's bStocks reached $624 million in value by early August — enough to overtake xStocks by issuer value — but the same limitation applies. Ondo Global Markets leads on total value locked at $1 billion with 70-plus percent issuer market share, but its distribution model runs through partners like Binance and MetaMask rather than direct DeFi integration. Coinbase is betting that the combination of real ownership and native DeFi composability is worth more than a head start on volume."
+    ],
+    "html": null
+  }
+}

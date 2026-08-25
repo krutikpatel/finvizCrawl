@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/114aa2fa-5c41-33f7-8780-b6387b3dcc89/coinbase-put-nvidia-and-apple.html",
+    "fetched_at": "2026-08-25T07:00:25.798495-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Coinbase Put Nvidia and Apple Stock Onchain: But Does Weekend Trading Create Liquidation Risk?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Coinbase tokenized US equities went live on Base on Monday, putting four technology stocks onchain as transferable tokens that eligible non-US users can hold in a self-custodial wallet with no brokerage account required.\nNVDAc, AAPLc, METAc, and GOOGLc track Nvidia, Apple, Meta, and Alphabet, and Chainlink now sits as the official oracle piping price data into roughly 50 Base apps that support the tokens.\nThe launch matters less for the four tickers than for what runs underneath them. Coinbase is an issuer, chain operator, and one of the trading venues simultaneously, and Chainlink's feed is the piece that determines whether these tokens function as passive holdings or as usable DeFi collateral.\nDiscover: The Best Crypto to Diversify Your Portfolio\nCoinbase Tokenized Stocks, A $2.48 Billion Market Getting Crowded\nTokenized public equities now total $2.49 billion, up 5.18% over 30 days, with 2.12 million holders and $27.28 billion in monthly transfer volume, according to rwa.xyz.\nOndo leads with $872.7 million across 406 assets, followed by Backed's xStocks at $588 million and Binance's bStocks at $552.7 million. Coinbase enters fourth with just four tickers and a promise of more.\nCombined onchain value for the four Coinbase tokens sat near $4.55 million late Monday against $3.06 million of DEX liquidity and $10.8 million in 24-hour volume.\nSource: RWA.XYZ\nNVDAc, the largest, had 6,794.49 tokens outstanding across 1,745 holders, according to BaseScan. Pricing tracked the underlying tightly: NVDAc changed hands at $208.51 against Nvidia's $208.48 close, AAPLc at $311.23 against Apple's $310.34, and METAc at $558.50 against Meta's $559.02.\nAerodrome captured the deepest liquidity for every token, holding $957,307 behind NVDAc and between $619,000 and $669,000 behind the others. AERO itself traded at $0.5334, up 11.3% on the day and 29% over the week on $94.3 million of volume, with the DEX carrying $265.8 million in total value locked against a $522 million market cap.\nBase's overall TVL stands at $5.49 billion, fourth among all chains behind Ethereum, BNB Chain and Solana, per DefiLlama, a base of onchain liquidity that networks like Ethereum continue to compete for as RWA infrastructure scales.\nChainlink Feeds and the Weekend Gap\nChainlink's feeds publish total return values that fold in dividend and split adjustments rather than raw equity prices, and they run 24/5, freezing during corporate actions. The tokens themselves trade 24/7, which creates a structural mismatch any integrator has to handle deliberately.",
+    "text_blocks": [
+      "Coinbase tokenized US equities went live on Base on Monday, putting four technology stocks onchain as transferable tokens that eligible non-US users can hold in a self-custodial wallet with no brokerage account required.",
+      "NVDAc, AAPLc, METAc, and GOOGLc track Nvidia, Apple, Meta, and Alphabet, and Chainlink now sits as the official oracle piping price data into roughly 50 Base apps that support the tokens.",
+      "The launch matters less for the four tickers than for what runs underneath them. Coinbase is an issuer, chain operator, and one of the trading venues simultaneously, and Chainlink's feed is the piece that determines whether these tokens function as passive holdings or as usable DeFi collateral.",
+      "Discover: The Best Crypto to Diversify Your Portfolio",
+      "Coinbase Tokenized Stocks, A $2.48 Billion Market Getting Crowded",
+      "Tokenized public equities now total $2.49 billion, up 5.18% over 30 days, with 2.12 million holders and $27.28 billion in monthly transfer volume, according to rwa.xyz.",
+      "Ondo leads with $872.7 million across 406 assets, followed by Backed's xStocks at $588 million and Binance's bStocks at $552.7 million. Coinbase enters fourth with just four tickers and a promise of more.",
+      "Combined onchain value for the four Coinbase tokens sat near $4.55 million late Monday against $3.06 million of DEX liquidity and $10.8 million in 24-hour volume.",
+      "Source: RWA.XYZ",
+      "NVDAc, the largest, had 6,794.49 tokens outstanding across 1,745 holders, according to BaseScan. Pricing tracked the underlying tightly: NVDAc changed hands at $208.51 against Nvidia's $208.48 close, AAPLc at $311.23 against Apple's $310.34, and METAc at $558.50 against Meta's $559.02.",
+      "Aerodrome captured the deepest liquidity for every token, holding $957,307 behind NVDAc and between $619,000 and $669,000 behind the others. AERO itself traded at $0.5334, up 11.3% on the day and 29% over the week on $94.3 million of volume, with the DEX carrying $265.8 million in total value locked against a $522 million market cap.",
+      "Base's overall TVL stands at $5.49 billion, fourth among all chains behind Ethereum, BNB Chain and Solana, per DefiLlama, a base of onchain liquidity that networks like Ethereum continue to compete for as RWA infrastructure scales.",
+      "Chainlink Feeds and the Weekend Gap",
+      "Chainlink's feeds publish total return values that fold in dividend and split adjustments rather than raw equity prices, and they run 24/5, freezing during corporate actions. The tokens themselves trade 24/7, which creates a structural mismatch any integrator has to handle deliberately."
+    ],
+    "html": null
+  }
+}

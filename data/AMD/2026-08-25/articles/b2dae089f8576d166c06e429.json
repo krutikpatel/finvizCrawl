@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/raymond-james-upgrades-amd-sees-124236586.html",
+    "fetched_at": "2026-08-25T07:00:42.888528-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Raymond James upgrades AMD, sees $201 billion server CPU market by 2030",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Raymond James upgraded Advanced Micro Devices (NASDAQ: AMD) to Strong Buy from Outperform in a note Tuesday, extending its AI Factory framework to the server CPU market and forecasting an expansion driven by agentic workloads.\nThe firm sees the server CPU market growing at a 44% five-year compound annual rate to roughly $201 billion by 2030, comprising $33.5 billion of conventional datacenter CPUs, $83 billion of AI head-end CPUs and $85 billion of agentic CPUs.\n\"AMD offers the strongest combination of direct earnings leverage, datacenter positioning and market-share gains,\" analyst Simon Leopold wrote.\nRaymond James described agentic AI as the principal new growth engine, with persistent agents generating orchestration, retrieval, database, sandbox and tool-execution workloads that largely run on CPUs.\nLeopold added that demand scales with active agents, workflow duration and concurrency rather than model parameters or token generation, the firm said.\nThe base case sits broadly in line with Nvidia's (NASDAQ: NVDA) $200 billion long-term framework and below AMD's own $220 billion estimate, which Raymond James said its model can reach under a more aggressive scenario tied to higher agent adoption.\nThe firm cautioned that workload growth will not translate one-for-one into shipments, as higher utilization, software efficiency, custom silicon and offload absorb part of the increase.\nOn other names, Raymond James said Arm (NASDAQ: ARM) benefits from server royalty growth and custom silicon, while Intel (NASDAQ: INTC) remains exposed to share loss despite a stronger market.\nRelated articles\nRaymond James upgrades AMD, sees $201 billion server CPU market by 2030\nCiti pushes back Fed rate cuts to May after blowout January jobs report",
+    "text_blocks": [
+      "Investing.com -- Raymond James upgraded Advanced Micro Devices (NASDAQ: AMD) to Strong Buy from Outperform in a note Tuesday, extending its AI Factory framework to the server CPU market and forecasting an expansion driven by agentic workloads.",
+      "The firm sees the server CPU market growing at a 44% five-year compound annual rate to roughly $201 billion by 2030, comprising $33.5 billion of conventional datacenter CPUs, $83 billion of AI head-end CPUs and $85 billion of agentic CPUs.",
+      "\"AMD offers the strongest combination of direct earnings leverage, datacenter positioning and market-share gains,\" analyst Simon Leopold wrote.",
+      "Raymond James described agentic AI as the principal new growth engine, with persistent agents generating orchestration, retrieval, database, sandbox and tool-execution workloads that largely run on CPUs.",
+      "Leopold added that demand scales with active agents, workflow duration and concurrency rather than model parameters or token generation, the firm said.",
+      "The base case sits broadly in line with Nvidia's (NASDAQ: NVDA) $200 billion long-term framework and below AMD's own $220 billion estimate, which Raymond James said its model can reach under a more aggressive scenario tied to higher agent adoption.",
+      "The firm cautioned that workload growth will not translate one-for-one into shipments, as higher utilization, software efficiency, custom silicon and offload absorb part of the increase.",
+      "On other names, Raymond James said Arm (NASDAQ: ARM) benefits from server royalty growth and custom silicon, while Intel (NASDAQ: INTC) remains exposed to share loss despite a stronger market.",
+      "Related articles",
+      "Raymond James upgrades AMD, sees $201 billion server CPU market by 2030",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report"
+    ],
+    "html": null
+  }
+}

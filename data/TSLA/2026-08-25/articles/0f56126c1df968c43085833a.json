@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/huge-news-tesla-stock-fans-121446775.html",
+    "fetched_at": "2026-08-25T07:00:04.802227-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Huge News for Tesla Stock Fans",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) has lifted prices on two Cybertruck versions in the U.S., adding $5,000 to each model as the electric pickup enters another pricing adjustment.\nThe Dual Motor all-wheel-drive model now starts at $74,990, up from $69,990. Tesla also raised the Premium all-wheel-drive version to $84,990 from $79,990. The increases amount to roughly 7.1% and 6.2%, respectively.\nTesla did not provide a reason for the changes. The top-end Cyberbeast remains priced at $99,990, leaving a narrower gap between that model and the Premium version.\nThe move comes after previous pricing changes for the Cybertruck and amid a difficult sales environment for the electric pickup. The latest increase could affect purchase demand while also changing the economics of higher-priced configurations.\nThe pricing move may support vehicle revenue per unit, but investors could watch whether higher prices weigh on Cybertruck demand.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) has lifted prices on two Cybertruck versions in the U.S., adding $5,000 to each model as the electric pickup enters another pricing adjustment.",
+      "The Dual Motor all-wheel-drive model now starts at $74,990, up from $69,990. Tesla also raised the Premium all-wheel-drive version to $84,990 from $79,990. The increases amount to roughly 7.1% and 6.2%, respectively.",
+      "Tesla did not provide a reason for the changes. The top-end Cyberbeast remains priced at $99,990, leaving a narrower gap between that model and the Premium version.",
+      "The move comes after previous pricing changes for the Cybertruck and amid a difficult sales environment for the electric pickup. The latest increase could affect purchase demand while also changing the economics of higher-priced configurations.",
+      "The pricing move may support vehicle revenue per unit, but investors could watch whether higher prices weigh on Cybertruck demand."
+    ],
+    "html": null
+  }
+}

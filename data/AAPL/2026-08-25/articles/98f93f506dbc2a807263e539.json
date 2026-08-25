@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/apple-mac-mini-m6-mac-studio-ai-upgrades-082526ni-with-its-first-m6-chip-as-ai-demand-drives-higher-prices",
+    "fetched_at": "2026-08-25T07:00:08.098903-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/apple-mac-mini-m6-mac-studio-ai-upgrades-082526ni-with-its-first-m6-chip-as-ai-demand-drives-higher-prices",
+      "context": {
+        "url": "https://qz.com/apple-mac-mini-m6-mac-studio-ai-upgrades-082526ni-with-its-first-m6-chip-as-ai-demand-drives-higher-prices"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}
