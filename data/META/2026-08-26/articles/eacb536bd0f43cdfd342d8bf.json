@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/meta-settles-18-billion-lawsuit-134301852.html",
+    "fetched_at": "2026-08-26T07:00:11.730646-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta has agreed to pay up to $18 billion to settle claims from 29 U.S. states over children's safety.\nThe lawsuit alleged that the social media giant knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users. The states also claimed that Meta knowingly collected data from children without parental knowledge, which violated the Children's Online Privacy Protection Act (COPPA).\nBy settling, Meta is not admitting that it's guilty of these claims, but it shows the company's reluctance to move forward with a juried trial.\nMeta is framing its settlement as a call to action for YouTube and TikTok to adopt a set of protections for teens and controls for parents, illustrated in a blog post.\n\"Ensuring teens have a safe and productive experience on our platforms is an absolute imperative for Meta,\" Meta wrote. \"We want to get this right for parents and teens, and that's why we partnered with state attorneys general to set a new industry standard.\"",
+    "text_blocks": [
+      "Meta has agreed to pay up to $18 billion to settle claims from 29 U.S. states over children's safety.",
+      "The lawsuit alleged that the social media giant knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users. The states also claimed that Meta knowingly collected data from children without parental knowledge, which violated the Children's Online Privacy Protection Act (COPPA).",
+      "By settling, Meta is not admitting that it's guilty of these claims, but it shows the company's reluctance to move forward with a juried trial.",
+      "Meta is framing its settlement as a call to action for YouTube and TikTok to adopt a set of protections for teens and controls for parents, illustrated in a blog post.",
+      "\"Ensuring teens have a safe and productive experience on our platforms is an absolute imperative for Meta,\" Meta wrote. \"We want to get this right for parents and teens, and that's why we partnered with state attorneys general to set a new industry standard.\""
+    ],
+    "html": null
+  }
+}

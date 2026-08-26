@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-slips-open-inflation-133549079.html",
+    "fetched_at": "2026-08-26T07:00:36.958106-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St slips at open after inflation data; Nvidia in focus",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 26 (Reuters) - Wall Street's main indexes opened lower on Wednesday after hotter-than-expected inflation data reinforced bets on another quarter-point Federal Reserve rate hike this year, as investors awaited results from AI chip leader Nvidia later in the day.\nThe Dow Jones Industrial Average fell 29.7 points, or 0.06%, at the open to 53,547.68. The S&P 500 fell 10.4 points, or 0.14%, at the open to 7,666.88, while the Nasdaq Composite dropped 51.7 points, or 0.20%, to 26,099.576 at the opening bell.\n(Reporting by Medha Singh in Bengaluru; Editing by Pooja Desai)",
+    "text_blocks": [
+      "Aug 26 (Reuters) - Wall Street's main indexes opened lower on Wednesday after hotter-than-expected inflation data reinforced bets on another quarter-point Federal Reserve rate hike this year, as investors awaited results from AI chip leader Nvidia later in the day.",
+      "The Dow Jones Industrial Average fell 29.7 points, or 0.06%, at the open to 53,547.68. The S&P 500 fell 10.4 points, or 0.14%, at the open to 7,666.88, while the Nasdaq Composite dropped 51.7 points, or 0.20%, to 26,099.576 at the opening bell.",
+      "(Reporting by Medha Singh in Bengaluru; Editing by Pooja Desai)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-2-98-million-194544517.html",
+    "fetched_at": "2026-08-26T07:00:05.581405-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Rises as 2.98 Million-Car Recall Tests China",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA), the electric-vehicle, energy-storage and robotics giant, climbed approximately 0.6% to $350.983 Tuesday morning despite facing China's largest automotive recall. Roughly 2.98 million locally produced and imported vehicles require a fix for emergency door-release risks. The headline is ugly. The stock's reaction says investors are not panicking.\nTesla delivered more than 480,000 vehicles during the second quarter while producing over 450,000. Energy-storage deployments hit 13.5 gigawatt-hours. Put the recall into perspective: the affected fleet equals roughly 6.2 quarters of Tesla's latest vehicle deliveries. This is not a minor batch. It reaches deep into the company's China footprint.\nHere is the key: software is cheaper than hardware. If Tesla can solve the problem remotely, the direct financial hit could stay manageable. The bigger threats are tougher regulators, shaken customer confidence and costly design changes. Meanwhile, the shares sit only 5.28% above the $333.39 GF Value estimate, suggesting valuation is not wildly overheated. Investors are betting this remains a software updatenot the start of a much larger safety bill.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA), the electric-vehicle, energy-storage and robotics giant, climbed approximately 0.6% to $350.983 Tuesday morning despite facing China's largest automotive recall. Roughly 2.98 million locally produced and imported vehicles require a fix for emergency door-release risks. The headline is ugly. The stock's reaction says investors are not panicking.",
+      "Tesla delivered more than 480,000 vehicles during the second quarter while producing over 450,000. Energy-storage deployments hit 13.5 gigawatt-hours. Put the recall into perspective: the affected fleet equals roughly 6.2 quarters of Tesla's latest vehicle deliveries. This is not a minor batch. It reaches deep into the company's China footprint.",
+      "Here is the key: software is cheaper than hardware. If Tesla can solve the problem remotely, the direct financial hit could stay manageable. The bigger threats are tougher regulators, shaken customer confidence and costly design changes. Meanwhile, the shares sit only 5.28% above the $333.39 GF Value estimate, suggesting valuation is not wildly overheated. Investors are betting this remains a software updatenot the start of a much larger safety bill."
+    ],
+    "html": null
+  }
+}

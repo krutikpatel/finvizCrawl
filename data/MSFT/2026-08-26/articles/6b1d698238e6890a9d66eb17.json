@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/dc955377-a2d4-3610-9220-eddff8fece07/moonshot-ai-seeks.html",
+    "fetched_at": "2026-08-26T07:00:28.565769-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Moonshot AI has entered into negotiations with Microsoft, Amazon, and Alphabet's Google over deals that would let the U.S. cloud giants offer its Kimi K3 model to customers, according to Reuters, which spoke with three people close to the matter. The startup is asking for as much as 30% of what Microsoft's Azure, Amazon Web Services, and Google Cloud earn from services tied to K3.\nThe discussions are at an early stage and may not result in agreements, Reuters reported. Moonshot did not respond to a request for comment. Microsoft, Google, and AWS declined to comment.\nAny deal would mark the first major revenue-sharing arrangement between a Chinese AI company and a leading U.S. cloud provider. Among the sticking points still to be worked out are the precise revenue split, questions around data access, and the mechanics of tracking token consumption. Tokens represent discrete chunks of text that a model reads and generates, and tallying how many are used forms the basis of consumption-based pricing.\nMoonshot has already signed similar agreements with smaller cloud platforms. Chinasoft International, a Chinese IT services firm, announced in July that it had struck a revenue-sharing deal with Moonshot, without revealing the financial details.\nThe talks come as Kimi K3 has gained attention in third-party evaluations. Third-party evaluators have taken notice: Arena.ai placed it at the top of a leaderboard for web interface construction, and Artificial Analysis found its results comparable to those of OpenAI's GPT-5.5 and Anthropic's Claude Opus 4.8 when tested on demanding, multi-step reasoning problems.\nKimi K3 is a 2.8-trillion-parameter open-weight model, making it the largest publicly available model of its kind. The model's weights are open to download and modification, but analysts note that operating a system of that scale on private infrastructure would require computing resources that most customers cannot justify. That dynamic positions major cloud providers as the primary route to enterprise adoption for models like Kimi K3.\nMoonshot made the weights of Kimi K3 available for unrestricted public download last month, a move that sent Chinese AI competitor stocks lower and drove Moonshot's daily revenue to at least six times its pre-launch level. The company reached $300 million in annual recurring revenue in June, up from $200 million in April, and is seeking new funding at a $50 billion valuation ahead of a potential Hong Kong initial public offering.\nMoonshot has faced scrutiny from U.S. officials. Treasury Secretary Scott Bessent said last month he might add the company to a trade blacklist, and U.S. officials have accused it of training Kimi K3 using banned Nvidia chips and distilling from Anthropic's Fable model. Moonshot has pushed back on the distillation allegations, saying in comments to China's National Business Daily that the model's capabilities reflect novel architectural innovations rather than copying from another system.",
+    "text_blocks": [
+      "Moonshot AI has entered into negotiations with Microsoft, Amazon, and Alphabet's Google over deals that would let the U.S. cloud giants offer its Kimi K3 model to customers, according to Reuters, which spoke with three people close to the matter. The startup is asking for as much as 30% of what Microsoft's Azure, Amazon Web Services, and Google Cloud earn from services tied to K3.",
+      "The discussions are at an early stage and may not result in agreements, Reuters reported. Moonshot did not respond to a request for comment. Microsoft, Google, and AWS declined to comment.",
+      "Any deal would mark the first major revenue-sharing arrangement between a Chinese AI company and a leading U.S. cloud provider. Among the sticking points still to be worked out are the precise revenue split, questions around data access, and the mechanics of tracking token consumption. Tokens represent discrete chunks of text that a model reads and generates, and tallying how many are used forms the basis of consumption-based pricing.",
+      "Moonshot has already signed similar agreements with smaller cloud platforms. Chinasoft International, a Chinese IT services firm, announced in July that it had struck a revenue-sharing deal with Moonshot, without revealing the financial details.",
+      "The talks come as Kimi K3 has gained attention in third-party evaluations. Third-party evaluators have taken notice: Arena.ai placed it at the top of a leaderboard for web interface construction, and Artificial Analysis found its results comparable to those of OpenAI's GPT-5.5 and Anthropic's Claude Opus 4.8 when tested on demanding, multi-step reasoning problems.",
+      "Kimi K3 is a 2.8-trillion-parameter open-weight model, making it the largest publicly available model of its kind. The model's weights are open to download and modification, but analysts note that operating a system of that scale on private infrastructure would require computing resources that most customers cannot justify. That dynamic positions major cloud providers as the primary route to enterprise adoption for models like Kimi K3.",
+      "Moonshot made the weights of Kimi K3 available for unrestricted public download last month, a move that sent Chinese AI competitor stocks lower and drove Moonshot's daily revenue to at least six times its pre-launch level. The company reached $300 million in annual recurring revenue in June, up from $200 million in April, and is seeking new funding at a $50 billion valuation ahead of a potential Hong Kong initial public offering.",
+      "Moonshot has faced scrutiny from U.S. officials. Treasury Secretary Scott Bessent said last month he might add the company to a trade blacklist, and U.S. officials have accused it of training Kimi K3 using banned Nvidia chips and distilling from Anthropic's Fable model. Moonshot has pushed back on the distillation allegations, saying in comments to China's National Business Daily that the model's capabilities reflect novel architectural innovations rather than copying from another system."
+    ],
+    "html": null
+  }
+}

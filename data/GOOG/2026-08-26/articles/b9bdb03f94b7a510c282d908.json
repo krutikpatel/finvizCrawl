@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a9c0bcaf-8046-302e-b4a6-26e774bb343e/msft%2C-amzn%2C-googl-reportedly.html",
+    "fetched_at": "2026-08-26T07:00:25.924115-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "MSFT, AMZN, GOOGL Reportedly In Revenue-Sharing Talks With China's Moonshot AI Over Kimi K3 Model",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nMoonshot AI is reportedly in early talks with Microsoft, Amazon and Alphabet's Google over agreements to host its Kimi K3 model on their cloud platforms.\n-\nAccording to Reuters, the discussions remain preliminary, with revenue splits, data access, and token-usage auditing still being negotiated.\n-\nMoonshot faces scrutiny from U.S. officials over allegations involving AI model distillation and access to Nvidia chips, which the company has denied.\nChinese AI startup Moonshot AI is reportedly in early talks with Microsoft (MSFT), Amazon (AMZN) and Alphabet's Google (GOOGL) over revenue-sharing agreements that would allow the three U.S. cloud giants to host its Kimi K3 model.\nAccording to a Reuters report, the Alibaba (BABA)-backed startup is seeking as much as a 30% share of revenue generated from K3-related services running on Microsoft Azure, Amazon Web Services and Google Cloud. The proposed terms are similar to those the startup has outlined for other major customers of its open-weight model.\nThe report added that the talks are still early, with unresolved issues including how revenue would be split, data access, and how to audit token usage, the basis for usage-based billing.\nShares of the hyperscalers in question traded flat in pre-market trade amid broader market weakness. MSFT stock was down 0.7%, while AMZN stock edged 0.2% higher and GOOGL stock was little changed.\nOn Stocktwits, retail sentiment around Alphabet fell to 'extremely bearish' from 'bearish' over the past day. Sentiment around Amazon remained in 'bearish' territory, while sentiment around Microsoft trended in the 'extremely bearish' zone.\nWhy Kimi K3 Still Needs Cloud Providers\nKimi K3 is an open-weight model that can be downloaded and modified, but that does not mean it is inexpensive to operate. The model has 2.8 trillion parameters, making it impractical for most companies to run at scale on their own infrastructure.\nThat creates an opening for Microsoft, Amazon and Google. The hyperscalers could provide the computing capacity and enterprise distribution, while Moonshot receives a portion of the resulting revenue.\nThe Bigger Risk Is Washington\nU.S. officials have accused Moonshot of using outputs from Anthropic's Fable model to help develop K3 and of illegally acquiring Nvidia (NVDA) chips. Moonshot has denied using distillation and attributed K3's gains to changes to its underlying architecture. Treasury Secretary Scott Bessent has also said last month he could add Moonshot to a trade blacklist.",
+    "text_blocks": [
+      "-",
+      "Moonshot AI is reportedly in early talks with Microsoft, Amazon and Alphabet's Google over agreements to host its Kimi K3 model on their cloud platforms.",
+      "-",
+      "According to Reuters, the discussions remain preliminary, with revenue splits, data access, and token-usage auditing still being negotiated.",
+      "-",
+      "Moonshot faces scrutiny from U.S. officials over allegations involving AI model distillation and access to Nvidia chips, which the company has denied.",
+      "Chinese AI startup Moonshot AI is reportedly in early talks with Microsoft (MSFT), Amazon (AMZN) and Alphabet's Google (GOOGL) over revenue-sharing agreements that would allow the three U.S. cloud giants to host its Kimi K3 model.",
+      "According to a Reuters report, the Alibaba (BABA)-backed startup is seeking as much as a 30% share of revenue generated from K3-related services running on Microsoft Azure, Amazon Web Services and Google Cloud. The proposed terms are similar to those the startup has outlined for other major customers of its open-weight model.",
+      "The report added that the talks are still early, with unresolved issues including how revenue would be split, data access, and how to audit token usage, the basis for usage-based billing.",
+      "Shares of the hyperscalers in question traded flat in pre-market trade amid broader market weakness. MSFT stock was down 0.7%, while AMZN stock edged 0.2% higher and GOOGL stock was little changed.",
+      "On Stocktwits, retail sentiment around Alphabet fell to 'extremely bearish' from 'bearish' over the past day. Sentiment around Amazon remained in 'bearish' territory, while sentiment around Microsoft trended in the 'extremely bearish' zone.",
+      "Why Kimi K3 Still Needs Cloud Providers",
+      "Kimi K3 is an open-weight model that can be downloaded and modified, but that does not mean it is inexpensive to operate. The model has 2.8 trillion parameters, making it impractical for most companies to run at scale on their own infrastructure.",
+      "That creates an opening for Microsoft, Amazon and Google. The hyperscalers could provide the computing capacity and enterprise distribution, while Moonshot receives a portion of the resulting revenue.",
+      "The Bigger Risk Is Washington",
+      "U.S. officials have accused Moonshot of using outputs from Anthropic's Fable model to help develop K3 and of illegally acquiring Nvidia (NVDA) chips. Moonshot has denied using distillation and attributed K3's gains to changes to its underlying architecture. Treasury Secretary Scott Bessent has also said last month he could add Moonshot to a trade blacklist."
+    ],
+    "html": null
+  }
+}

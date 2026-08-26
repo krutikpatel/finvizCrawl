@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-jensen-huang-chips/card/nvidia-stock-falls-in-early-trading-QyLTJ6bMYtP3v2l1FZAL?mod=bar_FV",
+    "fetched_at": "2026-08-26T07:00:36.606804-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Stock Falls in Early Trading",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "14 min ago\nNvidia slipped 0.3% to $212.42 at Wednesday's opening bell, as investors wait for the chip maker's fiscal second-quarter earnings report to be released after the market close.\nThe results will be an indicator of the health of the artificial-intelligence trade, which has dominated markets for more than a year. In the meantime, investors are taking a breath. The major stock indexes were mixed shortly after the open.\nThe iShares Semiconductor exchange-traded fund, which counts Nvidia as its largest holding, was about flat.",
+    "text_blocks": [
+      "14 min ago",
+      "Nvidia slipped 0.3% to $212.42 at Wednesday's opening bell, as investors wait for the chip maker's fiscal second-quarter earnings report to be released after the market close.",
+      "The results will be an indicator of the health of the artificial-intelligence trade, which has dominated markets for more than a year. In the meantime, investors are taking a breath. The major stock indexes were mixed shortly after the open.",
+      "The iShares Semiconductor exchange-traded fund, which counts Nvidia as its largest holding, was about flat."
+    ],
+    "html": null
+  }
+}

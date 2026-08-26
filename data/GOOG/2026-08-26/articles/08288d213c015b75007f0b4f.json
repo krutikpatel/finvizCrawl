@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/meta-settles-us-states-over-130318028.html",
+    "fetched_at": "2026-08-26T07:00:25.803913-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta reaches $16.68 billion settlement over social media harms to children",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Aug 26 (Reuters) - Meta Platforms agreed to pay a maximum $16.68 billion as part of a settlement to resolve claims brought by states across the country that the company designed Facebook and Instagram to addict children, misled consumers about their safety, and improperly collected personal data of children who used its platforms, court papers show.\nThe settlement was reached during a California federal trial over claims brought by 29 states, averting one of the highest-profile tests yet of allegations that social media companies harmed young users.\nMeta also agreed to make changes for teenage users of Facebook and Instagram nationwide, including daily usage limits and nighttime blocks, court papers show.\nThe Menlo Park, California-based company denied wrongdoing in agreeing to settle.\nShares of Meta rose 4.4% in pre-market trading.\nThe claims were part of a broader wave of litigation brought by states, local governments, school districts and individuals alleging Meta and other social media companies fueled a nationwide youth mental health crisis.\nThe federal trial covered claims from California, Colorado, Kentucky and New Jersey that Meta violated their state laws protecting consumers.\nIt also covered claims from 29 states that Meta violated the federal Children's Online Privacy Protection Act by collecting personal data from users it knew were children without parental notification or consent, and using the data to train machine learning and generative AI models.\nMeta has denied the allegations, saying it has worked hard to protect children on its platforms. The company had argued it could not have misled consumers about whether its services were addictive because \"social media addiction\" is not a recognized psychiatric condition.\nIn a filing before the trial, Meta said California, Colorado, Kentucky and New Jersey were seeking up to $1.4 trillion in penalties. The states suggested before the trial began that the figure would be closer to $200 billion. The states were also seeking additional monetary damages, plus an order directing Meta to make major changes to its platforms and to bar children from creating accounts.\nA MENTAL HEALTH CRISIS\nMeta, Snapchat and its parent Snap, YouTube and its parent Alphabet, and TikTok and its parent ByteDance still face thousands of lawsuits in federal and state courts over claims they knowingly designed their platforms to have features that are addictive to children and teens, fueling a mental health crisis.\nThe federal cases were consolidated before U.S. District Judge Yvonne Gonzalez Rogers in Oakland, and include lawsuits brought by individuals, school districts and state governments.",
+    "text_blocks": [
+      "Aug 26 (Reuters) - Meta Platforms agreed to pay a maximum $16.68 billion as part of a settlement to resolve claims brought by states across the country that the company designed Facebook and Instagram to addict children, misled consumers about their safety, and improperly collected personal data of children who used its platforms, court papers show.",
+      "The settlement was reached during a California federal trial over claims brought by 29 states, averting one of the highest-profile tests yet of allegations that social media companies harmed young users.",
+      "Meta also agreed to make changes for teenage users of Facebook and Instagram nationwide, including daily usage limits and nighttime blocks, court papers show.",
+      "The Menlo Park, California-based company denied wrongdoing in agreeing to settle.",
+      "Shares of Meta rose 4.4% in pre-market trading.",
+      "The claims were part of a broader wave of litigation brought by states, local governments, school districts and individuals alleging Meta and other social media companies fueled a nationwide youth mental health crisis.",
+      "The federal trial covered claims from California, Colorado, Kentucky and New Jersey that Meta violated their state laws protecting consumers.",
+      "It also covered claims from 29 states that Meta violated the federal Children's Online Privacy Protection Act by collecting personal data from users it knew were children without parental notification or consent, and using the data to train machine learning and generative AI models.",
+      "Meta has denied the allegations, saying it has worked hard to protect children on its platforms. The company had argued it could not have misled consumers about whether its services were addictive because \"social media addiction\" is not a recognized psychiatric condition.",
+      "In a filing before the trial, Meta said California, Colorado, Kentucky and New Jersey were seeking up to $1.4 trillion in penalties. The states suggested before the trial began that the figure would be closer to $200 billion. The states were also seeking additional monetary damages, plus an order directing Meta to make major changes to its platforms and to bar children from creating accounts.",
+      "A MENTAL HEALTH CRISIS",
+      "Meta, Snapchat and its parent Snap, YouTube and its parent Alphabet, and TikTok and its parent ByteDance still face thousands of lawsuits in federal and state courts over claims they knowingly designed their platforms to have features that are addictive to children and teens, fueling a mental health crisis.",
+      "The federal cases were consolidated before U.S. District Judge Yvonne Gonzalez Rogers in Oakland, and include lawsuits brought by individuals, school districts and state governments."
+    ],
+    "html": null
+  }
+}

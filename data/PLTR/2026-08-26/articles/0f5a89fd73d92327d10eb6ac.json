@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-movers-6a7eb3fe?mod=bar_FV",
+    "fetched_at": "2026-08-26T07:00:33.506300-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, Meta, Intuit, Salesforce, Zoom, Kohl’s, and More Stocks That Explain Today’s Market<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia, Meta, Intuit, Salesforce, Zoom, Kohl’s, and More Stocks That Explain Today’s Market\nStock futures traded mostly lower Wednesday as the personal consumption expenditures index, or PCE, for July revealed inflation was a bit stronger than expected.",
+    "text_blocks": [
+      "Nvidia, Meta, Intuit, Salesforce, Zoom, Kohl’s, and More Stocks That Explain Today’s Market",
+      "Stock futures traded mostly lower Wednesday as the personal consumption expenditures index, or PCE, for July revealed inflation was a bit stronger than expected."
+    ],
+    "html": null
+  }
+}

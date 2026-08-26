@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/arm-rises-2-8-272-195205428.html",
+    "fetched_at": "2026-08-26T07:00:48.589579-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Rises 2.8% as $272 Target Prices the CPU Tollbooth",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), the chip-architecture powerhouse sitting at the heart of smartphones and data centers, climbed approximately 2.3% to $244.27 Tuesday morning. Investor's Business Daily reported that Raymond James maintained its Outperform rating and boosted its price target to $272, betting that agentic AI will ignite another wave of server-CPU demand.\nThe growth is already landing. Arm's fiscal first-quarter revenue soared 22% to a record $1.29 billion. Royalty revenue jumped 22% to $715 million, licensing revenue surged 23% to $574 million and data-center royalties more than doubled. Better still, customer demand for the new Arm AGI CPU has already cleared $2 billion across fiscal 2027 and 2028.\nNow comes the valuation test. Raymond James' $272 target leaves roughly 11.4% upside from the current price, suggesting plenty of AI optimism is already baked in. Arm's royalty model is a beauty because it can win across multiple competing chipmakers, but investors are paying up for that advantage. The shares trade 28.12% above their $190.65 GF Value estimate, leaving little room for data-center momentum to cool.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), the chip-architecture powerhouse sitting at the heart of smartphones and data centers, climbed approximately 2.3% to $244.27 Tuesday morning. Investor's Business Daily reported that Raymond James maintained its Outperform rating and boosted its price target to $272, betting that agentic AI will ignite another wave of server-CPU demand.",
+      "The growth is already landing. Arm's fiscal first-quarter revenue soared 22% to a record $1.29 billion. Royalty revenue jumped 22% to $715 million, licensing revenue surged 23% to $574 million and data-center royalties more than doubled. Better still, customer demand for the new Arm AGI CPU has already cleared $2 billion across fiscal 2027 and 2028.",
+      "Now comes the valuation test. Raymond James' $272 target leaves roughly 11.4% upside from the current price, suggesting plenty of AI optimism is already baked in. Arm's royalty model is a beauty because it can win across multiple competing chipmakers, but investors are paying up for that advantage. The shares trade 28.12% above their $190.65 GF Value estimate, leaving little room for data-center momentum to cool."
+    ],
+    "html": null
+  }
+}

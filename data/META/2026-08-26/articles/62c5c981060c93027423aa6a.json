@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stocks-to-watch-nvidia-intuit-meta-8lhnGTlzHTeDfkPmYdMO?mod=wsj_FV",
+    "fetched_at": "2026-08-26T07:00:11.512525-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: Meta, Nvidia, Kohl’s",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 7 min ago\nStocks to Watch: Meta, Nvidia, Kohl’s\n🔎 Meta Platforms (META): The tech giant reached an $18 billion settlement to end a federal trial over social media’s harm to teenagers. Shares initially jumped but quickly reversed course.\n↗️ J.M. Smucker (SJM): The owner of Jif peanut butter and Folgers coffee beat expectations in the first quarter and offered an improved outlook for the net-sales decline it penciled in for fiscal 2027. Shares climbed.\n↘️ Kohl's (KSS): The department-store retailer recorded lower profit and sales in the second quarter, though it got a boost from tariff refunds. Shares slumped.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 7 min ago",
+      "Stocks to Watch: Meta, Nvidia, Kohl’s",
+      "🔎 Meta Platforms (META): The tech giant reached an $18 billion settlement to end a federal trial over social media’s harm to teenagers. Shares initially jumped but quickly reversed course.",
+      "↗️ J.M. Smucker (SJM): The owner of Jif peanut butter and Folgers coffee beat expectations in the first quarter and offered an improved outlook for the net-sales decline it penciled in for fiscal 2027. Shares climbed.",
+      "↘️ Kohl's (KSS): The department-store retailer recorded lower profit and sales in the second quarter, though it got a boost from tariff refunds. Shares slumped."
+    ],
+    "html": null
+  }
+}

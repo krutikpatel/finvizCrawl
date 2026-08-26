@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-tweaks-marvell-193635208.html",
+    "fetched_at": "2026-08-26T07:00:51.788690-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "5-Star Analyst Tweaks Marvell Stock Price Target Ahead of Earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL) shares jumped 5% Tuesday after Susquehanna raised its price target to $265 from $230, citing potential support from AI networking demand.\nAnalyst Christopher Rolland expects results and forward guidance to benefit from networking activity tied to artificial intelligence. He also pointed to Amazon's higher 2026 capital-spending outlook of $220 billion, up from about $200 billion previously, although higher memory expenses accounted for the increase.\nMarvell's custom XPU business, which develops specialized processors for AI workloads, remains another focus. Rolland said supply limitations at advanced manufacturing nodes and delays could slow the rollout of Amazon's Trainium 3 chips this year.\nThe analyst also highlighted Marvell's relationships with Amazon and Google. A Google agreement could represent about $120 billion in custom-product opportunities through 2033, while Marvell has retained its fiscal 2029 custom-business target of roughly $10 billion. Rolland said the Trainium platform could eventually find demand beyond Amazon, including potential use by Anthropic.\nFor the stock, the higher target points to increased analyst confidence in Marvell's AI-related growth prospects.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL) shares jumped 5% Tuesday after Susquehanna raised its price target to $265 from $230, citing potential support from AI networking demand.",
+      "Analyst Christopher Rolland expects results and forward guidance to benefit from networking activity tied to artificial intelligence. He also pointed to Amazon's higher 2026 capital-spending outlook of $220 billion, up from about $200 billion previously, although higher memory expenses accounted for the increase.",
+      "Marvell's custom XPU business, which develops specialized processors for AI workloads, remains another focus. Rolland said supply limitations at advanced manufacturing nodes and delays could slow the rollout of Amazon's Trainium 3 chips this year.",
+      "The analyst also highlighted Marvell's relationships with Amazon and Google. A Google agreement could represent about $120 billion in custom-product opportunities through 2033, while Marvell has retained its fiscal 2029 custom-business target of roughly $10 billion. Rolland said the Trainium platform could eventually find demand beyond Amazon, including potential use by Anthropic.",
+      "For the stock, the higher target points to increased analyst confidence in Marvell's AI-related growth prospects."
+    ],
+    "html": null
+  }
+}

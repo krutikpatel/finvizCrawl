@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_FV",
+    "fetched_at": "2026-08-26T07:00:48.117628-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Ratings Game\nWhy AMD can beat rivals Intel and Nvidia in the market for data-center CPUs\nAMD’s stock rallies after Raymond James turns more bullish given the company’s strength in the more than $200 billion market for server CPUs\nShares of Advanced Micro Devices climbed Tuesday after an analyst upgraded the stock and highlighted the company’s strength over competitors in the booming market for server central processing units.\nThe rise of agentic artificial intelligence and inference has led to a surge in demand for server CPUs, and AMD AMD has said it sees the total addressable market for those chips reaching $220 billion by the end of the decade.",
+    "text_blocks": [
+      "The Ratings Game",
+      "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
+      "AMD’s stock rallies after Raymond James turns more bullish given the company’s strength in the more than $200 billion market for server CPUs",
+      "Shares of Advanced Micro Devices climbed Tuesday after an analyst upgraded the stock and highlighted the company’s strength over competitors in the booming market for server central processing units.",
+      "The rise of agentic artificial intelligence and inference has led to a surge in demand for server CPUs, and AMD AMD has said it sees the total addressable market for those chips reaching $220 billion by the end of the decade."
+    ],
+    "html": null
+  }
+}

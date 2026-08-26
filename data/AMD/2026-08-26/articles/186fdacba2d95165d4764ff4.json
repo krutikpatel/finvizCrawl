@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/nvidias-ai-data-center-dominance-120000341.html",
+    "fetched_at": "2026-08-26T07:00:42.544363-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Is Nvidia's AI data center dominance slipping as the market expands?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead speaks with Josh Lipton about Nvidia's (NVDA) biggest competition in AI data centers, as he anticipates the company's market share could fall to 70% from 90% over the next two years.\nyou think Nvidia's AI data center market share could fall. It could fall from 90% you say Patrick to roughly 70% over the next two years. Who's taking that share, Patrick? and how much should that concern Nvidia Bulls who are listening right now?\nListen, the the market is is more than doubling every year. So on a percentage basis and particularly when you look at at at the number of chips versus the revenue, it's a foregone conclusion. Uh, the the number one uh taker of unit share is is the TPU uh with Google and all the benefit that companies like Broadcom and and Marvel and potentially even uh AMD will see um in the future.\nUh it's very closely uh followed on the on the roll your own uh with Amazon, who has uh Trainium that the base development of even Anthropic's model was on a Trainium. And I would say the the number one GPU alternative uh will be AMD. and I do expect them uh to take uh uh unit share as well because they've come out for the first time with an architecture, a rock architecture that's more similar uh to Nvidia's than uh was in there before. We call this a scale up architecture.\nSpeaking of competition, Bloomberg is reporting, you saw this Patrick. Open AI, Sam Albin saying that its new jalapeno chips created in partnership with with Broadcom performed better than Nvidia's current lineup during testing. What did you make of that headline?\nI'm not surprised at all and I've been talking for years on the the power, uh the the the power and performance capabilities of of non- GPU architectures lovingly referred to in the industry as Asix.\nAnd and it's really a balance though, right? GPU is infinitely more flexible and we have seen uh even six-year-old GPUs that people are are paying for. Uh with these custom designs, you're a lot more limited uh in in the potential longevity and the flexibility to move to the next model. So you have to be cranking these out every nine months and each of these designs costs between 200 and 500 million dollars.\nAnd the reason they're doing this, Josh, right, is because of Nvidia's uh 75% plus uh margins. So, um, I called this years ago and and it's taking its its shape. I still don't believe that this meaningfully takes a gigantic revenue uh pull out of Nvidia because the market is still growing uh so much. And and in the long term, it's going to be primarily a GPU world uh with a lot of different uh custom uh inference uh chips for people who roll their own software.",
+    "text_blocks": [
+      "Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead speaks with Josh Lipton about Nvidia's (NVDA) biggest competition in AI data centers, as he anticipates the company's market share could fall to 70% from 90% over the next two years.",
+      "you think Nvidia's AI data center market share could fall. It could fall from 90% you say Patrick to roughly 70% over the next two years. Who's taking that share, Patrick? and how much should that concern Nvidia Bulls who are listening right now?",
+      "Listen, the the market is is more than doubling every year. So on a percentage basis and particularly when you look at at at the number of chips versus the revenue, it's a foregone conclusion. Uh, the the number one uh taker of unit share is is the TPU uh with Google and all the benefit that companies like Broadcom and and Marvel and potentially even uh AMD will see um in the future.",
+      "Uh it's very closely uh followed on the on the roll your own uh with Amazon, who has uh Trainium that the base development of even Anthropic's model was on a Trainium. And I would say the the number one GPU alternative uh will be AMD. and I do expect them uh to take uh uh unit share as well because they've come out for the first time with an architecture, a rock architecture that's more similar uh to Nvidia's than uh was in there before. We call this a scale up architecture.",
+      "Speaking of competition, Bloomberg is reporting, you saw this Patrick. Open AI, Sam Albin saying that its new jalapeno chips created in partnership with with Broadcom performed better than Nvidia's current lineup during testing. What did you make of that headline?",
+      "I'm not surprised at all and I've been talking for years on the the power, uh the the the power and performance capabilities of of non- GPU architectures lovingly referred to in the industry as Asix.",
+      "And and it's really a balance though, right? GPU is infinitely more flexible and we have seen uh even six-year-old GPUs that people are are paying for. Uh with these custom designs, you're a lot more limited uh in in the potential longevity and the flexibility to move to the next model. So you have to be cranking these out every nine months and each of these designs costs between 200 and 500 million dollars.",
+      "And the reason they're doing this, Josh, right, is because of Nvidia's uh 75% plus uh margins. So, um, I called this years ago and and it's taking its its shape. I still don't believe that this meaningfully takes a gigantic revenue uh pull out of Nvidia because the market is still growing uh so much. And and in the long term, it's going to be primarily a GPU world uh with a lot of different uh custom uh inference uh chips for people who roll their own software."
+    ],
+    "html": null
+  }
+}

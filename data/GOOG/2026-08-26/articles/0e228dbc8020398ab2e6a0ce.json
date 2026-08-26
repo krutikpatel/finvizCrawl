@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/63f8d98b-9b9c-3d31-b0e5-f6132064efa0/exclusive%3A-google-targets-ai.html",
+    "fetched_at": "2026-08-26T07:00:25.922367-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Exclusive: Google targets AI sticker shock with suite of new tools",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google is launching new tools to help businesses control their AI bills, as the tech giant sees an opening to compete on one of the biggest obstacles to widespread corporate AI adoption: cost.\nThe big picture: Google sees a second AI market opening up around offering cheaper and more governable access to AI, while insisting it's still competing on frontier model offerings.\nDriving the news: Google Cloud is adding a pay-as-you-go option to Gemini Enterprise alongside its existing per-seat subscriptions, so companies can use the product without committing to fixed spend, the company shared exclusively with Axios.\n-\nCustomers can set monthly project spending limits that temporarily stop an agent's API calls once the budget is exhausted, and there's no spending minimum.\n-\nCustomers who commit to a set level of monthly Gemini Enterprise spending can receive discounts of 10% for one year or 20% for three years.\n-\nGoogle also plans to let customers defer some tasks until off-peak periods for token costs in exchange for discounts of up to 50%, the company said, through a feature that will be available in the near future.\nWhat they're saying: The goal is to give businesses a cheaper way to experiment with AI before they know how broadly employees will use it, Google Cloud VP Michael Gerstenhaber tells Axios.\n-\nPay-as-you-go gives companies \"a very smooth on-ramp\" to discover how employees use Gemini before making a bigger commitment, he says.\nBetween the lines: The rollout tackles corporate America's AI \"sticker shock,\" though it does not address Google's model-release delays.\n-\nGoogle's Gemini 3.5 Pro is months behind schedule, and Gemini 4 was still in pretraining as of July. Meanwhile the company did push out cheaper flash models last month.\n-\nIn that same timeframe, Google's AI lab, DeepMind, faced a massive executive shakeup, with CEO Demis Hassabis moving into the role of chairman of Google DeepMind and chief scientist of Alphabet.\n-\nGerstenhaber says Google will continue to compete aggressively at AI's frontier, but the company is also going after the \"white-space market,\" which he describes as AI productivity tools for the everyday office worker.\nZoom out: Google isn't alone in trying to solve the AI cost problem.\n-\nAnthropic has tools to allow customers to set monthly spending limits, with usage pausing once those limits are hit.\n-\nOpenAI also allows customers to impose hard monthly API limits on organizations or individual projects.\n-\nBoth labs are competing on price, though OpenAI has recently offered significant discounts, perhaps in an effort to take back share from Anthropic.\nThe bottom line: Google is hedging its bets on the frontier through investments in AI efficiencies that it hopes all enterprises will want.\nAI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.",
+    "text_blocks": [
+      "Google is launching new tools to help businesses control their AI bills, as the tech giant sees an opening to compete on one of the biggest obstacles to widespread corporate AI adoption: cost.",
+      "The big picture: Google sees a second AI market opening up around offering cheaper and more governable access to AI, while insisting it's still competing on frontier model offerings.",
+      "Driving the news: Google Cloud is adding a pay-as-you-go option to Gemini Enterprise alongside its existing per-seat subscriptions, so companies can use the product without committing to fixed spend, the company shared exclusively with Axios.",
+      "-",
+      "Customers can set monthly project spending limits that temporarily stop an agent's API calls once the budget is exhausted, and there's no spending minimum.",
+      "-",
+      "Customers who commit to a set level of monthly Gemini Enterprise spending can receive discounts of 10% for one year or 20% for three years.",
+      "-",
+      "Google also plans to let customers defer some tasks until off-peak periods for token costs in exchange for discounts of up to 50%, the company said, through a feature that will be available in the near future.",
+      "What they're saying: The goal is to give businesses a cheaper way to experiment with AI before they know how broadly employees will use it, Google Cloud VP Michael Gerstenhaber tells Axios.",
+      "-",
+      "Pay-as-you-go gives companies \"a very smooth on-ramp\" to discover how employees use Gemini before making a bigger commitment, he says.",
+      "Between the lines: The rollout tackles corporate America's AI \"sticker shock,\" though it does not address Google's model-release delays.",
+      "-",
+      "Google's Gemini 3.5 Pro is months behind schedule, and Gemini 4 was still in pretraining as of July. Meanwhile the company did push out cheaper flash models last month.",
+      "-",
+      "In that same timeframe, Google's AI lab, DeepMind, faced a massive executive shakeup, with CEO Demis Hassabis moving into the role of chairman of Google DeepMind and chief scientist of Alphabet.",
+      "-",
+      "Gerstenhaber says Google will continue to compete aggressively at AI's frontier, but the company is also going after the \"white-space market,\" which he describes as AI productivity tools for the everyday office worker.",
+      "Zoom out: Google isn't alone in trying to solve the AI cost problem.",
+      "-",
+      "Anthropic has tools to allow customers to set monthly spending limits, with usage pausing once those limits are hit.",
+      "-",
+      "OpenAI also allows customers to impose hard monthly API limits on organizations or individual projects.",
+      "-",
+      "Both labs are competing on price, though OpenAI has recently offered significant discounts, perhaps in an effort to take back share from Anthropic.",
+      "The bottom line: Google is hedging its bets on the frontier through investments in AI efficiencies that it hopes all enterprises will want.",
+      "AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com."
+    ],
+    "html": null
+  }
+}

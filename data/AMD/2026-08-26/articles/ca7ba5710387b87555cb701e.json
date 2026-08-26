@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/71b76a1a-c13a-315c-b3ac-f31f56d1b15f/the-options-market-says.html",
+    "fetched_at": "2026-08-26T07:00:42.548196-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Options Market Says Micron Stock Can Halve Or Double From Here",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Its new memory contracts were built to steady the earnings swing, and the options market still prices a range running from about half today's price to roughly twice it.\nMicron Technology (MU) trades at $932.97, and the options market has put a number on how far it thinks the stock can travel. Contracts expiring about thirteen months out give roughly two-in-three odds that the shares finish between $460 and $1,884. That range is not a direction call; it is the size of the position a holder is already carrying.\nOne In Three Says It Ends Outside That Band Altogether\nThat band is the middle of the distribution, not all of it: there is roughly a one-in-six chance the shares finish above $1,884, and the same odds they finish below $460. In a holder's own money, those edges are about half what the stock is worth today and about twice as much. The two bounds sit at different distances, which is arithmetic rather than a lean: a share price cannot fall past zero, but it has no ceiling going up.\nMicron Has Been Moving Harder Than Its Options Now Charge For\nImplied volatility of 68.1% reads as extreme until set beside what the stock actually delivered over the past year: 81.7% realized volatility. Options are charging for a calmer stretch than the stock has just been through, and a broader reading puts implied volatility only in the 38th percentile of its own trailing one-year range. The tape mostly agrees. Micron returned 694.1% over the past twelve months against 19.7% for the S&P 500, and 123.3% over the past six months. Over the past three months it has added just 4.2%, and it trades about 23% below its 52-week high. Calmer than its own record is not the same as calm.\nThe Largest Contracts Cut Both Tails And Cover Only Part Of The Book\nWhat swings this stock is memory pricing, and the operating line shows the amplitude: on $90.27 billion of revenue over the trailing twelve months, operating margin ran 65.7%, against a three-year average of 11.2%. Management has been signing its way out of that swing: by the fiscal Q3 2026 report it had 16 take-or-pay strategic customer agreements in place, typically five years long, the largest carrying both a floor price and a ceiling. A floor truncates the bad tail, and management expects gross margins even at those floor prices to land well above prior peaks; a ceiling truncates the good one.\nBut those deals cover only about 20% of DRAM volume and a third of NAND volume, so most of the book still reprices at whatever memory sells for. Management expects that coverage to reach roughly half or more of company revenue once every planned deal is signed. A trillion-dollar company whose profits still ride one commodity cycle is a different proposition from the Trefis High Quality Portfolio, which does not depend on the handful of largest technology names to produce its returns.",
+    "text_blocks": [
+      "Its new memory contracts were built to steady the earnings swing, and the options market still prices a range running from about half today's price to roughly twice it.",
+      "Micron Technology (MU) trades at $932.97, and the options market has put a number on how far it thinks the stock can travel. Contracts expiring about thirteen months out give roughly two-in-three odds that the shares finish between $460 and $1,884. That range is not a direction call; it is the size of the position a holder is already carrying.",
+      "One In Three Says It Ends Outside That Band Altogether",
+      "That band is the middle of the distribution, not all of it: there is roughly a one-in-six chance the shares finish above $1,884, and the same odds they finish below $460. In a holder's own money, those edges are about half what the stock is worth today and about twice as much. The two bounds sit at different distances, which is arithmetic rather than a lean: a share price cannot fall past zero, but it has no ceiling going up.",
+      "Micron Has Been Moving Harder Than Its Options Now Charge For",
+      "Implied volatility of 68.1% reads as extreme until set beside what the stock actually delivered over the past year: 81.7% realized volatility. Options are charging for a calmer stretch than the stock has just been through, and a broader reading puts implied volatility only in the 38th percentile of its own trailing one-year range. The tape mostly agrees. Micron returned 694.1% over the past twelve months against 19.7% for the S&P 500, and 123.3% over the past six months. Over the past three months it has added just 4.2%, and it trades about 23% below its 52-week high. Calmer than its own record is not the same as calm.",
+      "The Largest Contracts Cut Both Tails And Cover Only Part Of The Book",
+      "What swings this stock is memory pricing, and the operating line shows the amplitude: on $90.27 billion of revenue over the trailing twelve months, operating margin ran 65.7%, against a three-year average of 11.2%. Management has been signing its way out of that swing: by the fiscal Q3 2026 report it had 16 take-or-pay strategic customer agreements in place, typically five years long, the largest carrying both a floor price and a ceiling. A floor truncates the bad tail, and management expects gross margins even at those floor prices to land well above prior peaks; a ceiling truncates the good one.",
+      "But those deals cover only about 20% of DRAM volume and a third of NAND volume, so most of the book still reprices at whatever memory sells for. Management expects that coverage to reach roughly half or more of company revenue once every planned deal is signed. A trillion-dollar company whose profits still ride one commodity cycle is a different proposition from the Trefis High Quality Portfolio, which does not depend on the handful of largest technology names to produce its returns."
+    ],
+    "html": null
+  }
+}
