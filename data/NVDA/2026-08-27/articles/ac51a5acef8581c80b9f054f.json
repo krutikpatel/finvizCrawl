@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-earnings-losing-streak-growth-8dcc00d4?mod=bar_FV",
+    "fetched_at": "2026-08-27T07:00:40.738354-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Stock Breaks Unwanted Record. How It Finally Sold the Growth Story.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia Stock Breaks Unwanted Record. How It Finally Sold the Growth Story.\nIt’s fifth time lucky for Nvidia. After a run of four quarterly earnings reports in which the stock slumped the following trading session, the chip maker finally appears to have hit on a winner by overturning assumptions about how fast it can grow.",
+    "text_blocks": [
+      "Nvidia Stock Breaks Unwanted Record. How It Finally Sold the Growth Story.",
+      "It’s fifth time lucky for Nvidia. After a run of four quarterly earnings reports in which the stock slumped the following trading session, the chip maker finally appears to have hit on a winner by overturning assumptions about how fast it can grow."
+    ],
+    "html": null
+  }
+}

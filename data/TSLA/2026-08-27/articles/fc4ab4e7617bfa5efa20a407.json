@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/china-launches-long-auto-quality-115607875.html",
+    "fetched_at": "2026-08-27T07:00:08.397270-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "China launches year-long auto quality drive, mandates defect recalls",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "BEIJING, Aug 27 (Reuters) - Chinese regulators on Thursday ordered automakers to file proactive recall plans for any defects uncovered in self-audits, as part of a year-long campaign to improve vehicle quality and safety in the world's largest auto market.\nTesla and eight Chinese electric vehicle makers on August 21 announced fixes affecting a combined 4.3 million vehicles in China's largest-ever automotive recall, prompted by safety concerns involving emergency door-release mechanisms.\nUnder the campaign, automakers are required to conduct comprehensive inspections of product quality, reliability, durability and the testing and validation of new technologies across their operations and key suppliers. They must submit reports to local authorities by the end of 2026, according to a joint statement issued by the market regulator and the ministries of industry, public security, and environment.\nCompanies must promptly file recall plans with the market regulator and carry out voluntary recalls of defective products. Local authorities need to tighten oversight and ensure rigorous safety validation before introducing new vehicle technologies.\nThe audits will also scrutinise the safety of advanced driver-assistance and autonomous-driving systems, as well as automakers' capabilities in areas including functional safety, cybersecurity, data security, software updates, incident monitoring and emergency response.\nThe latest measures signal China's increasingly assertive approach to auto-safety regulation.\nAs domestic demand weakens amid a broader slowdown in the world's second-largest economy, China's auto industry has shifted its focus from defending market share through a prolonged price war to improving product quality and long-term competitiveness.\nIn a separate industry initiative issued shortly after the official mandate, the China Association of Automobile Manufacturers warned that \"irrational competition\" could erode production consistency and product safety, undermining the sector's high-quality development.\n(Reporting by Qiaoyi Li and Liz Lee; Editing by Sharon Singleton)",
+    "text_blocks": [
+      "BEIJING, Aug 27 (Reuters) - Chinese regulators on Thursday ordered automakers to file proactive recall plans for any defects uncovered in self-audits, as part of a year-long campaign to improve vehicle quality and safety in the world's largest auto market.",
+      "Tesla and eight Chinese electric vehicle makers on August 21 announced fixes affecting a combined 4.3 million vehicles in China's largest-ever automotive recall, prompted by safety concerns involving emergency door-release mechanisms.",
+      "Under the campaign, automakers are required to conduct comprehensive inspections of product quality, reliability, durability and the testing and validation of new technologies across their operations and key suppliers. They must submit reports to local authorities by the end of 2026, according to a joint statement issued by the market regulator and the ministries of industry, public security, and environment.",
+      "Companies must promptly file recall plans with the market regulator and carry out voluntary recalls of defective products. Local authorities need to tighten oversight and ensure rigorous safety validation before introducing new vehicle technologies.",
+      "The audits will also scrutinise the safety of advanced driver-assistance and autonomous-driving systems, as well as automakers' capabilities in areas including functional safety, cybersecurity, data security, software updates, incident monitoring and emergency response.",
+      "The latest measures signal China's increasingly assertive approach to auto-safety regulation.",
+      "As domestic demand weakens amid a broader slowdown in the world's second-largest economy, China's auto industry has shifted its focus from defending market share through a prolonged price war to improving product quality and long-term competitiveness.",
+      "In a separate industry initiative issued shortly after the official mandate, the China Association of Automobile Manufacturers warned that \"irrational competition\" could erode production consistency and product safety, undermining the sector's high-quality development.",
+      "(Reporting by Qiaoyi Li and Liz Lee; Editing by Sharon Singleton)"
+    ],
+    "html": null
+  }
+}

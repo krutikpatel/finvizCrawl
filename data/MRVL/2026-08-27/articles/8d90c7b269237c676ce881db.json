@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/broadcoms-apple-shield-faces-googles-120555319.html",
+    "fetched_at": "2026-08-27T07:00:53.836280-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom's Apple Shield Faces Google's Marvell Detour",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO), the semiconductor and infrastructure-software giant, traded at $350.66 Wednesday as Google handed Marvell a bigger role inside its custom-chip machine. The agreement covers AI accelerators, storage controllers and other components supporting Google's TPU platform. The message is blunt: Broadcom's AI empire is booming, but its biggest customers are keeping their options open.\nApple provides the financial armor. Its multiyear agreement with Broadcom exceeds $30 billion and covers more than 15 billion American-made wireless chips. Broadcom will pour $1.5 billion into its Colorado facility, putting roughly $5.30 of contracted Apple production behind every dollar invested. That is a serious demand floor, not a hopeful forecast.\nNow comes the real test. Broadcom's fiscal second-quarter AI semiconductor revenue exploded 143% to $10.8 billion, nearly half of its $22.2 billion in total revenue. Yet Apple cannot carry the AI premium alone. Google, Meta and other accelerator customers must keep spendingand keep choosing Broadcom. The chart offers little room for drama: the $350.66 share price sits just 1.17% above the $346.59 GF Value, placing the stock almost directly on its estimated fair-value line. Apple protects the floor. AI dominance must raise the ceiling.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO), the semiconductor and infrastructure-software giant, traded at $350.66 Wednesday as Google handed Marvell a bigger role inside its custom-chip machine. The agreement covers AI accelerators, storage controllers and other components supporting Google's TPU platform. The message is blunt: Broadcom's AI empire is booming, but its biggest customers are keeping their options open.",
+      "Apple provides the financial armor. Its multiyear agreement with Broadcom exceeds $30 billion and covers more than 15 billion American-made wireless chips. Broadcom will pour $1.5 billion into its Colorado facility, putting roughly $5.30 of contracted Apple production behind every dollar invested. That is a serious demand floor, not a hopeful forecast.",
+      "Now comes the real test. Broadcom's fiscal second-quarter AI semiconductor revenue exploded 143% to $10.8 billion, nearly half of its $22.2 billion in total revenue. Yet Apple cannot carry the AI premium alone. Google, Meta and other accelerator customers must keep spendingand keep choosing Broadcom. The chart offers little room for drama: the $350.66 share price sits just 1.17% above the $346.59 GF Value, placing the stock almost directly on its estimated fair-value line. Apple protects the floor. AI dominance must raise the ceiling."
+    ],
+    "html": null
+  }
+}

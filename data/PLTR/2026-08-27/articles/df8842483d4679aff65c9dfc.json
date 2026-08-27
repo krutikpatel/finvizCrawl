@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-alexander-karp-dumps-194530513.html",
+    "fetched_at": "2026-08-27T07:00:38.370132-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir CEO Alexander Karp Dumps $86 million in Palantir Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) CEO Alexander Karp sold nearly $86.1 million of company stock on Aug. 20.\nKarp disposed of 492,348 Class A shares at prices ranging from $172.19 to $176.37. About $70.3 million of the transactions were tied to tax withholding after restricted stock units vested, with those sales conducted under a Rule 10b5-1 trading plan.\nHe also sold another 90,000 shares for roughly $15.7 million under a separate trading plan established in March. The sales followed the conversion of Class B shares into Class A stock.\nThe transactions come after a strong run for Palantir. The shares were trading around $175.89, below their 52-week high of $207.52, while the stock had gained about 31% over the previous six months.\nRecent quarterly results have also drawn positive analyst attention, with several firms raising their price targets following stronger-than-expected revenue and profitability.\nKarp's sales may attract investor attention, but the filing indicates much of the activity was linked to taxes and prearranged trading plans.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) CEO Alexander Karp sold nearly $86.1 million of company stock on Aug. 20.",
+      "Karp disposed of 492,348 Class A shares at prices ranging from $172.19 to $176.37. About $70.3 million of the transactions were tied to tax withholding after restricted stock units vested, with those sales conducted under a Rule 10b5-1 trading plan.",
+      "He also sold another 90,000 shares for roughly $15.7 million under a separate trading plan established in March. The sales followed the conversion of Class B shares into Class A stock.",
+      "The transactions come after a strong run for Palantir. The shares were trading around $175.89, below their 52-week high of $207.52, while the stock had gained about 31% over the previous six months.",
+      "Recent quarterly results have also drawn positive analyst attention, with several firms raising their price targets following stronger-than-expected revenue and profitability.",
+      "Karp's sales may attract investor attention, but the filing indicates much of the activity was linked to taxes and prearranged trading plans."
+    ],
+    "html": null
+  }
+}

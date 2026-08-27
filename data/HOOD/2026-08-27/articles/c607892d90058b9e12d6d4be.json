@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html",
+    "fetched_at": "2026-08-27T07:00:24.060508-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Good morning. Stocks traded in the green at the open on Friday but were still pacing for weekly losses after this week's bond market intrigue. A rally in bitcoin (BTC-USD) lifted crypto stocks, while defensive names lagged.\nHere's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.\nStocks were broadly green, with the exception of Utilities (XLU). The Basic Materials (XLB) sector was the morning's leader as commodities like copper (HG=F) and gold (GC=F) rose. Financial stocks (XLF) also saw strength, propelled by gains in Robinhood (HOOD) and Coinbase (COIN) stocks. (Disclosure: Yahoo Finance has a partnership with Coinbase.)\nHere are some notable stocks that Yahoo Finance readers are viewing this morning: Strategy (MSTR), SK Hynix (SKHY), Coinbase, Circle (CRCL), Alibaba (BABA), Robinhood, Freeport-McMoRan (FCX).\nClick here for the latest stock market news and in-depth analysis, including events that move stocks\nRead the latest financial and business news from Yahoo Finance",
+    "text_blocks": [
+      "Good morning. Stocks traded in the green at the open on Friday but were still pacing for weekly losses after this week's bond market intrigue. A rally in bitcoin (BTC-USD) lifted crypto stocks, while defensive names lagged.",
+      "Here's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.",
+      "Stocks were broadly green, with the exception of Utilities (XLU). The Basic Materials (XLB) sector was the morning's leader as commodities like copper (HG=F) and gold (GC=F) rose. Financial stocks (XLF) also saw strength, propelled by gains in Robinhood (HOOD) and Coinbase (COIN) stocks. (Disclosure: Yahoo Finance has a partnership with Coinbase.)",
+      "Here are some notable stocks that Yahoo Finance readers are viewing this morning: Strategy (MSTR), SK Hynix (SKHY), Coinbase, Circle (CRCL), Alibaba (BABA), Robinhood, Freeport-McMoRan (FCX).",
+      "Click here for the latest stock market news and in-depth analysis, including events that move stocks",
+      "Read the latest financial and business news from Yahoo Finance"
+    ],
+    "html": null
+  }
+}

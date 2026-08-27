@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/40c55753-846f-3927-afc6-2234fb023f7f/big-tech%27s-ai-spending-is.html",
+    "fetched_at": "2026-08-27T07:00:29.895946-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Big Tech's AI spending is bigger than you think",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "To paraphrase Justin Timberlake in his iconic turn in the 2010 film \"The Social Network,\" a trillion dollars isn't cool. You know what is? $3 trillion.\nThe big picture: That's roughly how much money seven Big Tech companies, including Google, Microsoft and Nvidia, have committed to spending on AI-related infrastructure in off-balance-sheet commitments, according to a new analysis from Morgan Stanley.\n-\nAnd that's on top of the estimated $770 billion in debt and lease obligations that are on the balance sheets.\nWhy it matters: The analysis finds that the total amount of spending on AI is much bigger than the already-mind-blowing headlines suggest, and — more of a red flag — it's more leveraged than is perhaps appreciated.\nHow it works: Off-balance-sheet commitments are essentially financial obligations that don't show up in a company's official tally of what it owns and owes — it's not an official debt but an obligation to pay someone something in the future.\n-\nFor example, your household balance sheet would include your assets on one side — house, car, savings — and your debts on the other, mortgage, car loan, credit card.\n-\nBut it wouldn't include the lease you signed to rent a vacation house for the next five summers (you're living well, congrats). When the bank evaluates your creditworthiness for a loan, that Cape Cod promise to pay in the future doesn't count the same as your mortgage.\nZoom in: Morgan Stanley looked at filings from the hyperscalers Google, Meta, Microsoft, Oracle and Amazon, as well as the chipmakers Nvidia and Broadcom and broke down their off-balance-sheet commitments.\n-\nThe hyperscalers have committed to $1.1 trillion in payments for data center leases that haven't yet begun.\n-\nAll seven companies have also agreed to buy $1.7 trillion of other stuff — purchase commitments for chips, memory and networking gear.\n-\nThese purchase agreements have ramped up this year — Google's commitments totaled $707 billion in the most recent quarter — from $72.5 billion in all of 2025, per the research.\nMorgan Stanley Research\nFollow the money: This is future revenue for memory chipmakers like Micron Technology and helps explain the phenomenal growth in that business.\nThe intrigue: These commitments are a jumping-off point for suppliers and data center developers who take that guarantee of future payments and use it to borrow more.\n-\nHere's how the researchers explain it: \"Suppliers and data center developers can borrow against long-dated leases, guarantees, or purchase commitments from investment grade hyperscalers, allowing capacity to be built before the hyperscalers make any payments or recognize liabilities.\"",
+    "text_blocks": [
+      "To paraphrase Justin Timberlake in his iconic turn in the 2010 film \"The Social Network,\" a trillion dollars isn't cool. You know what is? $3 trillion.",
+      "The big picture: That's roughly how much money seven Big Tech companies, including Google, Microsoft and Nvidia, have committed to spending on AI-related infrastructure in off-balance-sheet commitments, according to a new analysis from Morgan Stanley.",
+      "-",
+      "And that's on top of the estimated $770 billion in debt and lease obligations that are on the balance sheets.",
+      "Why it matters: The analysis finds that the total amount of spending on AI is much bigger than the already-mind-blowing headlines suggest, and — more of a red flag — it's more leveraged than is perhaps appreciated.",
+      "How it works: Off-balance-sheet commitments are essentially financial obligations that don't show up in a company's official tally of what it owns and owes — it's not an official debt but an obligation to pay someone something in the future.",
+      "-",
+      "For example, your household balance sheet would include your assets on one side — house, car, savings — and your debts on the other, mortgage, car loan, credit card.",
+      "-",
+      "But it wouldn't include the lease you signed to rent a vacation house for the next five summers (you're living well, congrats). When the bank evaluates your creditworthiness for a loan, that Cape Cod promise to pay in the future doesn't count the same as your mortgage.",
+      "Zoom in: Morgan Stanley looked at filings from the hyperscalers Google, Meta, Microsoft, Oracle and Amazon, as well as the chipmakers Nvidia and Broadcom and broke down their off-balance-sheet commitments.",
+      "-",
+      "The hyperscalers have committed to $1.1 trillion in payments for data center leases that haven't yet begun.",
+      "-",
+      "All seven companies have also agreed to buy $1.7 trillion of other stuff — purchase commitments for chips, memory and networking gear.",
+      "-",
+      "These purchase agreements have ramped up this year — Google's commitments totaled $707 billion in the most recent quarter — from $72.5 billion in all of 2025, per the research.",
+      "Morgan Stanley Research",
+      "Follow the money: This is future revenue for memory chipmakers like Micron Technology and helps explain the phenomenal growth in that business.",
+      "The intrigue: These commitments are a jumping-off point for suppliers and data center developers who take that guarantee of future payments and use it to borrow more.",
+      "-",
+      "Here's how the researchers explain it: \"Suppliers and data center developers can borrow against long-dated leases, guarantees, or purchase commitments from investment grade hyperscalers, allowing capacity to be built before the hyperscalers make any payments or recognize liabilities.\""
+    ],
+    "html": null
+  }
+}

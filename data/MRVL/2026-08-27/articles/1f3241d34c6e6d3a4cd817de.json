@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082726/card/nasdaq-gets-an-nvidia-sized-boost-the-rest-of-the-market-is-lagging-behind--NyWJyuPULxJpN4kHcb4G?mod=bar_FV",
+    "fetched_at": "2026-08-27T07:00:53.400258-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq Gets an Nvidia-Sized Boost. The Rest of the Market Is Lagging Behind.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nLast Updated:\n25 min ago\nNvidia’s bold outlook got chip stocks rolling. Now if only it could do the same for the rest of the market.\nThe Dow Jones Industrial Average was down 70 points, or 0.1%. The S&P 500 was up 0.4%. The Nasdaq Composite was up 1%.\nNvidia stock rallied 7% after the firm’s earnings call updates won over Wall Street. Marvell Technology also popped on its own results. The iShares Semiconductor ETF, which has traded sideways for months, was back in rally mode, too. Software stocks were also rallying, after Salesforce earnings.",
+    "text_blocks": [
+      "LIVE",
+      "Last Updated:",
+      "25 min ago",
+      "Nvidia’s bold outlook got chip stocks rolling. Now if only it could do the same for the rest of the market.",
+      "The Dow Jones Industrial Average was down 70 points, or 0.1%. The S&P 500 was up 0.4%. The Nasdaq Composite was up 1%.",
+      "Nvidia stock rallied 7% after the firm’s earnings call updates won over Wall Street. Marvell Technology also popped on its own results. The iShares Semiconductor ETF, which has traded sideways for months, was back in rally mode, too. Software stocks were also rallying, after Salesforce earnings."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apples-m6-turns-ai-hardware-120656116.html",
+    "fetched_at": "2026-08-27T07:00:11.081582-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's M6 Turns AI Into a Hardware Upgrade Cycle",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL), the consumer-technology powerhouse behind the iPhone and Mac, unveiled its M6-powered Mac mini Tuesday, with the stock trading at $313.41 Wednesday. Apple says the tiny desktop delivers up to four times the AI performance and 40% faster central-processing performance than the M4 model. This is not a cosmetic refresh. Apple is putting serious AI muscle inside its cheapest desktop.\nThe M6 packs neural accelerators into every graphics core and doubles Neural Engine performance. Apple also rolled out a new Mac Studio, giving creators and developers even more power at the premium end. The strategy is sharp: sell customers the machines needed to run demanding AI and creative workloads locally. Apple collects the hardware revenue while hyperscalers keep pouring billions into servers, electricity and cloud capacity.\nInvestors are already paying for plenty of success. At $313.41, Apple stands 10.43% above its $283.82 GF Value estimate, placing the shares firmly on the expensive side of fair value. The M6 makes the Mac faster. That is the easy part. Apple Intelligence and third-party developers must now build experiences compelling enough to trigger a real replacement cycle. The chip provides the horsepower. Software must close the sale.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL), the consumer-technology powerhouse behind the iPhone and Mac, unveiled its M6-powered Mac mini Tuesday, with the stock trading at $313.41 Wednesday. Apple says the tiny desktop delivers up to four times the AI performance and 40% faster central-processing performance than the M4 model. This is not a cosmetic refresh. Apple is putting serious AI muscle inside its cheapest desktop.",
+      "The M6 packs neural accelerators into every graphics core and doubles Neural Engine performance. Apple also rolled out a new Mac Studio, giving creators and developers even more power at the premium end. The strategy is sharp: sell customers the machines needed to run demanding AI and creative workloads locally. Apple collects the hardware revenue while hyperscalers keep pouring billions into servers, electricity and cloud capacity.",
+      "Investors are already paying for plenty of success. At $313.41, Apple stands 10.43% above its $283.82 GF Value estimate, placing the shares firmly on the expensive side of fair value. The M6 makes the Mac faster. That is the easy part. Apple Intelligence and third-party developers must now build experiences compelling enough to trigger a real replacement cycle. The chip provides the horsepower. Software must close the sale."
+    ],
+    "html": null
+  }
+}

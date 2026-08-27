@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a9ad779f-0580-3b75-a26c-1517971ad1d3/is-panw-stock-gearing-up-for.html",
+    "fetched_at": "2026-08-27T07:00:48.848953-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Is PANW Stock Gearing Up For A Massive Volatility Shock?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The options market is charging more than this stock's own past year of movement would justify, and the range it prices runs from a level inside the past year's trading range to one well above the top of it.\nPalo Alto Networks (PANW) stock trades near $339.31 after more than doubling over six months. Its options now price a one-standard-deviation range of $190 to $600.7 over roughly the next thirteen months. That width, not a direction, is the thing to size against.\nWhat That Band Is Worth Per Share\nFrom today's price the ceiling sits about $261 above and the floor about $149 below. That band covers roughly two outcomes in three, leaving about a one-in-six chance of finishing outside it on either side. It is a probability, not a forecast, and the gap is wider upward only because a stock cannot fall past zero but can rise without limit.\nThe two ends are not equally familiar: over the trailing 52 weeks the stock has traded between a low of $141.67 and a high of $396, so the priced floor of $190 falls well inside ground it has already covered. The $600.7 ceiling is more than half again the top of that range.\nRealized Volatility Was 42.0%, And Options Are Priced At 55.4%\nAt-the-money implied volatility on that expiry is 55.4%, running at 1.32 times the 42.0% the stock actually realized over the trailing year. That realized figure already covers the six-month run, and options are charging a premium on top of it: a broader reading of implied volatility sits in the 89th percentile of its own trailing one-year range. The market is not pricing business as usual.\nFirewalls, A Regulator And September Sit Inside That Window\nThere is no shortage of candidates. Bookings for Palo Alto Networks' next-generation firewalls rose nearly 40% year over year in fiscal Q3 2026, its strongest hardware showing in ten years, pulled along by AI data center build-outs. The CEO expects that demand to run a few more quarters and possibly years, while conceding that the demand fades once data center growth tapers off or plateaus.\nA stock with an options band this wide concentrates sensitivity to speculative drivers like the AI data center build-out into a single name—the opposite of the Trefis High Quality Portfolio, which avoids relying on narrow technology narratives to drive returns. Even though hardware represents only about 10% of total revenue, shifts in that cycle can disproportionately swing sentiment across a $10.61 billion trailing-twelve-month base.\nOther risks are nearer than the cycle. Palo Alto Networks reports fiscal Q4 and full-year 2026 results on September 1, 2026, less than a week out, and China's cyberspace regulator has opened a cybersecurity review of the company's products sold in that market. Management is also still migrating Prisma Cloud customers to Cortex Cloud, work the CEO said in June was unfinished, though the company says the CyberArk identity-security acquisition has surpassed internal benchmarks.",
+    "text_blocks": [
+      "The options market is charging more than this stock's own past year of movement would justify, and the range it prices runs from a level inside the past year's trading range to one well above the top of it.",
+      "Palo Alto Networks (PANW) stock trades near $339.31 after more than doubling over six months. Its options now price a one-standard-deviation range of $190 to $600.7 over roughly the next thirteen months. That width, not a direction, is the thing to size against.",
+      "What That Band Is Worth Per Share",
+      "From today's price the ceiling sits about $261 above and the floor about $149 below. That band covers roughly two outcomes in three, leaving about a one-in-six chance of finishing outside it on either side. It is a probability, not a forecast, and the gap is wider upward only because a stock cannot fall past zero but can rise without limit.",
+      "The two ends are not equally familiar: over the trailing 52 weeks the stock has traded between a low of $141.67 and a high of $396, so the priced floor of $190 falls well inside ground it has already covered. The $600.7 ceiling is more than half again the top of that range.",
+      "Realized Volatility Was 42.0%, And Options Are Priced At 55.4%",
+      "At-the-money implied volatility on that expiry is 55.4%, running at 1.32 times the 42.0% the stock actually realized over the trailing year. That realized figure already covers the six-month run, and options are charging a premium on top of it: a broader reading of implied volatility sits in the 89th percentile of its own trailing one-year range. The market is not pricing business as usual.",
+      "Firewalls, A Regulator And September Sit Inside That Window",
+      "There is no shortage of candidates. Bookings for Palo Alto Networks' next-generation firewalls rose nearly 40% year over year in fiscal Q3 2026, its strongest hardware showing in ten years, pulled along by AI data center build-outs. The CEO expects that demand to run a few more quarters and possibly years, while conceding that the demand fades once data center growth tapers off or plateaus.",
+      "A stock with an options band this wide concentrates sensitivity to speculative drivers like the AI data center build-out into a single name—the opposite of the Trefis High Quality Portfolio, which avoids relying on narrow technology narratives to drive returns. Even though hardware represents only about 10% of total revenue, shifts in that cycle can disproportionately swing sentiment across a $10.61 billion trailing-twelve-month base.",
+      "Other risks are nearer than the cycle. Palo Alto Networks reports fiscal Q4 and full-year 2026 results on September 1, 2026, less than a week out, and China's cyberspace regulator has opened a cybersecurity review of the company's products sold in that market. Management is also still migrating Prisma Cloud customers to Cortex Cloud, work the CEO said in June was unfinished, though the company says the CyberArk identity-security acquisition has surpassed internal benchmarks."
+    ],
+    "html": null
+  }
+}

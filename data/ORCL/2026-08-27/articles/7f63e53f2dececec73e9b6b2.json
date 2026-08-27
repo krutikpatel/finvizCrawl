@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6744020b-620c-3756-98be-7da2ac645769/has-wall-street-given-up-on.html",
+    "fetched_at": "2026-08-27T07:00:27.178337-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Has Wall Street Given Up On Oracle Stock Too Soon?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The market has punished Oracle's stock like a laggard, even as its valuation multiple sits near the top of its peer group and profitability remains strong.\nOracle (ORCL)'s stock has delivered a -38% return over the last twelve months, the worst performance among its peer group. Yet it trades at 24.4 times earnings, a richer multiple than Alphabet, a company that grew faster. This is the disconnect investors are facing: a stock priced like a leader but performing like a laggard. Has the market correctly identified a coming problem, or is it overlooking a fundamental transformation already underway?\nOracle's price and performance are out of sync.\nIn any competitive group, you expect a certain order. The fastest-growing, most profitable companies typically command the highest valuations and, often, deliver strong returns. Oracle's standing in its peer group scrambles that logic. Its price-to-earnings multiple of 24.4 is the second highest in its group, trailing only Microsoft's 27.3. Its operating margin of 33.3% is also second, edging out Alphabet (33.1%) and trailing only Microsoft's 47%. Even its 17.4% revenue growth is a respectable third.\nBut the stock's performance tells a completely different story. The -38% one-year return places it last among its peers, a stark contrast to the +69% gain for Alphabet or even the modest -2.3% decline for Microsoft. The market is paying a premium for Oracle's fundamentals relative to most peers, while simultaneously punishing its stock more than any of them.\nA $638 billion backlog is forcing a large investment.\nThe reason for this mismatch is a single, enormous bet on artificial intelligence. Oracle is aggressively building out its cloud infrastructure to meet a tidal wave of demand, reflected in the huge growth of its backlog. The company's \"remaining performance obligations, or RPO, finished at $638 billion,\" a figure that provides unusual visibility into future sales. Management is confident enough in this pipeline to guide for full-year fiscal 2027 total revenue growth of roughly 34% in constant currency.\nHere is the catch, and it's the best explanation for the stock's poor performance. Fulfilling those contracts requires a capital investment of historic scale. Management has guided to an \"expected net cash outlay for capital expenditures of around $70 billion\" in fiscal 2027. To fund this, the company expects to \"raise around $40 billion in debt and equity.\" This has led some to ask if the price of admission for this AI infrastructure play is too high. The market sees the execution risk in this large build-out and is reacting to management's explicit warning that gross margins will step down in fiscal 2027 as data centers ramp up.",
+    "text_blocks": [
+      "The market has punished Oracle's stock like a laggard, even as its valuation multiple sits near the top of its peer group and profitability remains strong.",
+      "Oracle (ORCL)'s stock has delivered a -38% return over the last twelve months, the worst performance among its peer group. Yet it trades at 24.4 times earnings, a richer multiple than Alphabet, a company that grew faster. This is the disconnect investors are facing: a stock priced like a leader but performing like a laggard. Has the market correctly identified a coming problem, or is it overlooking a fundamental transformation already underway?",
+      "Oracle's price and performance are out of sync.",
+      "In any competitive group, you expect a certain order. The fastest-growing, most profitable companies typically command the highest valuations and, often, deliver strong returns. Oracle's standing in its peer group scrambles that logic. Its price-to-earnings multiple of 24.4 is the second highest in its group, trailing only Microsoft's 27.3. Its operating margin of 33.3% is also second, edging out Alphabet (33.1%) and trailing only Microsoft's 47%. Even its 17.4% revenue growth is a respectable third.",
+      "But the stock's performance tells a completely different story. The -38% one-year return places it last among its peers, a stark contrast to the +69% gain for Alphabet or even the modest -2.3% decline for Microsoft. The market is paying a premium for Oracle's fundamentals relative to most peers, while simultaneously punishing its stock more than any of them.",
+      "A $638 billion backlog is forcing a large investment.",
+      "The reason for this mismatch is a single, enormous bet on artificial intelligence. Oracle is aggressively building out its cloud infrastructure to meet a tidal wave of demand, reflected in the huge growth of its backlog. The company's \"remaining performance obligations, or RPO, finished at $638 billion,\" a figure that provides unusual visibility into future sales. Management is confident enough in this pipeline to guide for full-year fiscal 2027 total revenue growth of roughly 34% in constant currency.",
+      "Here is the catch, and it's the best explanation for the stock's poor performance. Fulfilling those contracts requires a capital investment of historic scale. Management has guided to an \"expected net cash outlay for capital expenditures of around $70 billion\" in fiscal 2027. To fund this, the company expects to \"raise around $40 billion in debt and equity.\" This has led some to ask if the price of admission for this AI infrastructure play is too high. The market sees the execution risk in this large build-out and is reacting to management's explicit warning that gross margins will step down in fiscal 2027 as data centers ramp up."
+    ],
+    "html": null
+  }
+}

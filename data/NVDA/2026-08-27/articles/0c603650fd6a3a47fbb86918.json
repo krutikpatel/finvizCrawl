@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082726/card/nvidia-is-the-only-reason-the-s-p-500-is-up-no-really--zykt3S8AadwpFzRHUPkE?mod=bar_FV",
+    "fetched_at": "2026-08-27T07:00:40.742960-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Is the Only Reason the S&P 500 Is Up. No, Really.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nLast Updated:\n2 min ago\nNvidia lived up to its billing.\nShares of the AI chip titan buoyed the S&P 500 on an otherwise mixed day. Only 161 S&P 500 stocks were rising, with the index up 0.3%.\nThe S&P 500 was recently up about $158.5 billion in market cap, at the same time Nvidia was up $334.4 billion. In other words, the S&P 500 would be down $175.9 billion in market value, if not for Nvidia.",
+    "text_blocks": [
+      "LIVE",
+      "Last Updated:",
+      "2 min ago",
+      "Nvidia lived up to its billing.",
+      "Shares of the AI chip titan buoyed the S&P 500 on an otherwise mixed day. Only 161 S&P 500 stocks were rising, with the index up 0.3%.",
+      "The S&P 500 was recently up about $158.5 billion in market cap, at the same time Nvidia was up $334.4 billion. In other words, the S&P 500 would be down $175.9 billion in market value, if not for Nvidia."
+    ],
+    "html": null
+  }
+}

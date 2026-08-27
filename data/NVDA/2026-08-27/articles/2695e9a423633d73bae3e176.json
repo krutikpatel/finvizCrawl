@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/stocks-to-watch-nvidia-crowdstrike-salesforce-WMjYUzoZiONJEvHqPpyp?mod=wsj_FV",
+    "fetched_at": "2026-08-27T07:00:40.750132-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: Nvidia, CrowdStrike, Salesforce",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n4 hours ago\nStocks to Watch: Nvidia, CrowdStrike, Salesforce\n↗️ Nvidia (NVDA): Shares of the world’s most valuable company jumped 7% premarket after the chip maker said it expects 70% revenue growth in the company’s 2028 fiscal year.\n↗️ Super Micro Computer (SMCI), Marvell Technology (MRVL), Sandisk (SNDK), Micron Technology (MU): Shares of other companies tied to AI are getting a premarket boost from Nvidia’s earnings.\n↗️ CrowdStrike (CRWD): Growing cybersecurity demand from AI adoption propelled the company to what it described as its best quarter on record. Shares jumped 8% premarket.",
+    "text_blocks": [
+      "LIVE",
+      "4 hours ago",
+      "Stocks to Watch: Nvidia, CrowdStrike, Salesforce",
+      "↗️ Nvidia (NVDA): Shares of the world’s most valuable company jumped 7% premarket after the chip maker said it expects 70% revenue growth in the company’s 2028 fiscal year.",
+      "↗️ Super Micro Computer (SMCI), Marvell Technology (MRVL), Sandisk (SNDK), Micron Technology (MU): Shares of other companies tied to AI are getting a premarket boost from Nvidia’s earnings.",
+      "↗️ CrowdStrike (CRWD): Growing cybersecurity demand from AI adoption propelled the company to what it described as its best quarter on record. Shares jumped 8% premarket."
+    ],
+    "html": null
+  }
+}

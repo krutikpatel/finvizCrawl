@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e682f2b3-7dff-335a-8e17-ce05922cb56d/nvidia-grew-106%25.-two-trends.html",
+    "fetched_at": "2026-08-27T07:00:46.269917-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Grew 106%. Two Trends Suggest It's Not Slowing Down",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia (NVDA) posted another blockbuster quarter, with revenue of $96.2 billion, up 106% year over year, and net income more than doubling from the same quarter last year - and the growth looks set to hold up. Management guided to roughly 70% revenue growth for fiscal 2028, a number the company says is being constrained by supply, particularly memory and packaging capacity. While the growth forecasts are strong on their own, two underlying trends from the earnings call suggest the AI demand wave has durable legs: the economics of AI compute are starting to work, and Nvidia's customer base is diversifying well beyond the hyperscalers.\nThe Economics Are Starting to Work\nThe clearest signal from this earnings cycle is that the payback math on AI compute has started to close. CEO Huang described AI as having reached an inflection point where deployed hardware runs production workloads generating measurable income, rather than sitting in an experimental training phase with no near-term return. Nvidia's own figures back this up: the company put revenue opportunity per gigawatt of data center capacity at roughly $18 billion for the Hopper generation, $25 billion for Blackwell, and $40 billion for the upcoming Vera Rubin platform. Each hardware cycle is monetizing at a materially higher rate than the one before it.\nThis matters because it changes what the spending is funding. Training-heavy budgets were speculative, justified by future potential. Inference-heavy budgets are more transactional. They are tied to live revenue from services such as chatbots, coding assistants, search, and enterprise agents. As inference volume scales, the addressable market for chipmakers could ramp up with it, and the return on each dollar of compute becomes easier to underwrite.\nThat said, competition is also mounting. Inference workloads are more fragmented and price-sensitive than training runs, opening the door to custom ASICs from hyperscalers, specialized inference chips from startups, and in-house silicon efforts at Google, Amazon, and Meta. These alternatives promise lower cost per token for specific workloads.\nStill, Nvidia has two advantages. Its GPUs remain the performance benchmark across both training and inference, and the CUDA software ecosystem creates switching costs that custom silicon has struggled to replicate. Developers, tooling, and optimized libraries are built around Nvidia's stack, giving the company considerable pricing power even as cheaper alternatives multiply. The rising per-gigawatt revenue figures across three straight hardware generations suggest that edge is compounding rather than eroding.",
+    "text_blocks": [
+      "Nvidia (NVDA) posted another blockbuster quarter, with revenue of $96.2 billion, up 106% year over year, and net income more than doubling from the same quarter last year - and the growth looks set to hold up. Management guided to roughly 70% revenue growth for fiscal 2028, a number the company says is being constrained by supply, particularly memory and packaging capacity. While the growth forecasts are strong on their own, two underlying trends from the earnings call suggest the AI demand wave has durable legs: the economics of AI compute are starting to work, and Nvidia's customer base is diversifying well beyond the hyperscalers.",
+      "The Economics Are Starting to Work",
+      "The clearest signal from this earnings cycle is that the payback math on AI compute has started to close. CEO Huang described AI as having reached an inflection point where deployed hardware runs production workloads generating measurable income, rather than sitting in an experimental training phase with no near-term return. Nvidia's own figures back this up: the company put revenue opportunity per gigawatt of data center capacity at roughly $18 billion for the Hopper generation, $25 billion for Blackwell, and $40 billion for the upcoming Vera Rubin platform. Each hardware cycle is monetizing at a materially higher rate than the one before it.",
+      "This matters because it changes what the spending is funding. Training-heavy budgets were speculative, justified by future potential. Inference-heavy budgets are more transactional. They are tied to live revenue from services such as chatbots, coding assistants, search, and enterprise agents. As inference volume scales, the addressable market for chipmakers could ramp up with it, and the return on each dollar of compute becomes easier to underwrite.",
+      "That said, competition is also mounting. Inference workloads are more fragmented and price-sensitive than training runs, opening the door to custom ASICs from hyperscalers, specialized inference chips from startups, and in-house silicon efforts at Google, Amazon, and Meta. These alternatives promise lower cost per token for specific workloads.",
+      "Still, Nvidia has two advantages. Its GPUs remain the performance benchmark across both training and inference, and the CUDA software ecosystem creates switching costs that custom silicon has struggled to replicate. Developers, tooling, and optimized libraries are built around Nvidia's stack, giving the company considerable pricing power even as cheaper alternatives multiply. The rising per-gigawatt revenue figures across three straight hardware generations suggest that edge is compounding rather than eroding."
+    ],
+    "html": null
+  }
+}

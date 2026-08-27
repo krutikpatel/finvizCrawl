@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_FV",
+    "fetched_at": "2026-08-27T07:00:26.417625-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Salesforce sparks a software-stock rally — and pushes back on AI doomsday fears - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nSalesforce sparks a software-stock rally — and pushes back on AI doomsday fears\nSalesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors\nSalesforce’s earnings just sent a confident signal to investors that artificial intelligence isn’t a “death knell” for the software sector, in the words of one analyst.\nSoftware stocks are broadly rallying in Thursday’s premarket trading as the commentary from Salesforce — as well as from companies like Okta OKTA and CrowdStrike Holdings CRWD — resonated with the investment community.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Salesforce sparks a software-stock rally — and pushes back on AI doomsday fears",
+      "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors",
+      "Salesforce’s earnings just sent a confident signal to investors that artificial intelligence isn’t a “death knell” for the software sector, in the words of one analyst.",
+      "Software stocks are broadly rallying in Thursday’s premarket trading as the commentary from Salesforce — as well as from companies like Okta OKTA and CrowdStrike Holdings CRWD — resonated with the investment community."
+    ],
+    "html": null
+  }
+}
