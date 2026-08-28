@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-insiders-dump-40-million-165940463.html",
+    "fetched_at": "2026-08-28T07:00:43.981860-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Insiders Dump $40 Million in Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices ( AMD ) insiders sold more than $40 million of company shares during August, adding a new factor for investors as the stock retreats from its June peak.\nAn Aug. 26 Securities and Exchange Commission filing showed Executive Vice President Forrest Norrod disposed of 17,261 shares for about $7.9 million at an average price of $459.95. The transaction followed several other sales by senior executives this month.\nChief Technology Officer Mark Papermaster made the largest disclosed sale, selling 28,811 shares on Aug. 20 for nearly $13.6 million at an average of $471.87. He also sold shares earlier in August for roughly $3.6 million.\nOther executives joined the selling. Ava Hahn reported two transactions that together amounted to about $1.5 million, lifting the month's insider sales above 85,000 shares.\nThe insider selling may draw greater investor attention as AMD trades below its recent peak.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices ( AMD ) insiders sold more than $40 million of company shares during August, adding a new factor for investors as the stock retreats from its June peak.",
+      "An Aug. 26 Securities and Exchange Commission filing showed Executive Vice President Forrest Norrod disposed of 17,261 shares for about $7.9 million at an average price of $459.95. The transaction followed several other sales by senior executives this month.",
+      "Chief Technology Officer Mark Papermaster made the largest disclosed sale, selling 28,811 shares on Aug. 20 for nearly $13.6 million at an average of $471.87. He also sold shares earlier in August for roughly $3.6 million.",
+      "Other executives joined the selling. Ava Hahn reported two transactions that together amounted to about $1.5 million, lifting the month's insider sales above 85,000 shares.",
+      "The insider selling may draw greater investor attention as AMD trades below its recent peak."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-signals-more-173137547.html",
+    "fetched_at": "2026-08-28T07:00:46.522350-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks Signals More Deals Are Coming",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalo Alto Networks (NASDAQ:PANW) reportedly explored acquisitions of Datadog (NASDAQ:DDOG) and Okta (NASDAQ:OKTA) in recent years, signaling that CEO Nikesh Arora is willing to consider large deals as the cybersecurity company expands beyond its traditional security platform. The talks went nowhere, but they highlight how aggressively Palo Alto may pursue observability, identity and AI-security assets to broaden its product ecosystem.\nPalo Alto Networks is one of the world's largest cybersecurity companies, selling cloud security, network security and security operations software to enterprises. Its strategy increasingly centers on platformization, or convincing customers to consolidate multiple security tools onto Palo Alto's broader suite.\nAccording to The Information, Arora met repeatedly with Okta CEO Todd McKinnon between late 2024 and early 2025, but discussions broke down over price.\nArora also met Datadog CEO Olivier Pomel in spring 2025. Pomel was reportedly not interested, and the discussions never progressed to a formal offer.\nThe strategic logic is significant. Okta would have added a major identity-security platform, while Datadog would have pushed Palo Alto deeper into cloud monitoring and observability, areas that increasingly overlap with security operations.\nArora is now reportedly looking at products that could complement Chronosphere, including areas served by Cribl and ClickHouse. Palo Alto is also evaluating possible AI-security deals.\nDatadog shares rose 2.9% Wednesday following the report.\nInvestor Takeaway\nThe bigger signal is that Palo Alto may still have an appetite for sizable acquisitions as it builds a broader security and observability platform. Investors should watch for any deal that expands Chronosphere, strengthens AI security or adds identity capabilities. The opportunity is greater cross-selling and deeper enterprise penetration, but valuation discipline matters. The failed Okta discussions suggest price remains a constraint, while a large acquisition could introduce integration risk and pressure margins. Any future transaction will be judged on whether it accelerates platformization without undermining Palo Alto's profitability or capital-return profile.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palo Alto Networks (NASDAQ:PANW) reportedly explored acquisitions of Datadog (NASDAQ:DDOG) and Okta (NASDAQ:OKTA) in recent years, signaling that CEO Nikesh Arora is willing to consider large deals as the cybersecurity company expands beyond its traditional security platform. The talks went nowhere, but they highlight how aggressively Palo Alto may pursue observability, identity and AI-security assets to broaden its product ecosystem.",
+      "Palo Alto Networks is one of the world's largest cybersecurity companies, selling cloud security, network security and security operations software to enterprises. Its strategy increasingly centers on platformization, or convincing customers to consolidate multiple security tools onto Palo Alto's broader suite.",
+      "According to The Information, Arora met repeatedly with Okta CEO Todd McKinnon between late 2024 and early 2025, but discussions broke down over price.",
+      "Arora also met Datadog CEO Olivier Pomel in spring 2025. Pomel was reportedly not interested, and the discussions never progressed to a formal offer.",
+      "The strategic logic is significant. Okta would have added a major identity-security platform, while Datadog would have pushed Palo Alto deeper into cloud monitoring and observability, areas that increasingly overlap with security operations.",
+      "Arora is now reportedly looking at products that could complement Chronosphere, including areas served by Cribl and ClickHouse. Palo Alto is also evaluating possible AI-security deals.",
+      "Datadog shares rose 2.9% Wednesday following the report.",
+      "Investor Takeaway",
+      "The bigger signal is that Palo Alto may still have an appetite for sizable acquisitions as it builds a broader security and observability platform. Investors should watch for any deal that expands Chronosphere, strengthens AI security or adds identity capabilities. The opportunity is greater cross-selling and deeper enterprise penetration, but valuation discipline matters. The failed Okta discussions suggest price remains a constraint, while a large acquisition could introduce integration risk and pressure margins. Any future transaction will be judged on whether it accelerates platformization without undermining Palo Alto's profitability or capital-return profile."
+    ],
+    "html": null
+  }
+}

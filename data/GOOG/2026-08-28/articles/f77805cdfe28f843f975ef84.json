@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-sinks-google-ai-121237203.html",
+    "fetched_at": "2026-08-28T07:00:27.341059-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell Stock Sinks as Google AI Deal Revenue Faces a Delay",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL) shares sank more than 7% in early Friday trading as investors focused on the delayed revenue contribution expected from its recently expanded Google AI chip relationship, despite higher forecasts for the next two fiscal years.\nThe chipmaker now expects fiscal 2027 revenue of about $12 billion, compared with its previous $11.5 billion outlook. Its fiscal 2028 forecast also increased to roughly $18 billion from $16.5 billion.\nThe revised projections come after Marvell secured a custom-chip agreement with Alphabet's Google (GOOGL) that could generate up to $120 billion in revenue through fiscal 2033. However, Chief Executive Matt Murphy said the program should have a larger financial impact from fiscal 2029.\nMarvell posted second-quarter revenue of $2.74 billion, up 37% year over year, while adjusted earnings reached 94 cents per share.\nInvestors may remain focused on the timing of Google-related revenue as Marvell works to convert AI demand into longer-term growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL) shares sank more than 7% in early Friday trading as investors focused on the delayed revenue contribution expected from its recently expanded Google AI chip relationship, despite higher forecasts for the next two fiscal years.",
+      "The chipmaker now expects fiscal 2027 revenue of about $12 billion, compared with its previous $11.5 billion outlook. Its fiscal 2028 forecast also increased to roughly $18 billion from $16.5 billion.",
+      "The revised projections come after Marvell secured a custom-chip agreement with Alphabet's Google (GOOGL) that could generate up to $120 billion in revenue through fiscal 2033. However, Chief Executive Matt Murphy said the program should have a larger financial impact from fiscal 2029.",
+      "Marvell posted second-quarter revenue of $2.74 billion, up 37% year over year, while adjusted earnings reached 94 cents per share.",
+      "Investors may remain focused on the timing of Google-related revenue as Marvell works to convert AI demand into longer-term growth."
+    ],
+    "html": null
+  }
+}

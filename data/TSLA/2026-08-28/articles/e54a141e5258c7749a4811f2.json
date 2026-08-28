@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_FV",
+    "fetched_at": "2026-08-28T07:00:07.975294-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Opinion: The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Lawrence G. McMillan\nOpinion: The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning\nOptions bets and volatility are sending buy signals, but breadth indicators are sitting on sell signals\nThe S&P 500 index is showing signs of coming out of its recent slumber, and most of the signals coming out of the options market are saying a big rally may be imminent.\nAfter making new all-time highs in August, the S&P 500 SPX has been stuck in a narrow 7,640 to 7,700 range. On Thursday, however, it climbed 0.5% to close above the top of that range, as Nvidia’s NVDA upbeat earnings appeared to be just what the S&P 500 needed to break out of that range.",
+    "text_blocks": [
+      "Lawrence G. McMillan",
+      "Opinion: The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
+      "Options bets and volatility are sending buy signals, but breadth indicators are sitting on sell signals",
+      "The S&P 500 index is showing signs of coming out of its recent slumber, and most of the signals coming out of the options market are saying a big rally may be imminent.",
+      "After making new all-time highs in August, the S&P 500 SPX has been stuck in a narrow 7,640 to 7,700 range. On Thursday, however, it climbed 0.5% to close above the top of that range, as Nvidia’s NVDA upbeat earnings appeared to be just what the S&P 500 needed to break out of that range."
+    ],
+    "html": null
+  }
+}

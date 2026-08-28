@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finviz.com/news/386493/crowdstrike-vs-okta-which-cybersecurity-stock-is-the-better-buy-after-q2-earnings",
+    "fetched_at": "2026-08-28T07:00:46.122588-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "parse_error",
+      "message": "No readable text extracted",
+      "context": {
+        "url": "https://finviz.com/news/386493/crowdstrike-vs-okta-which-cybersecurity-stock-is-the-better-buy-after-q2-earnings"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": "finviz.com",
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

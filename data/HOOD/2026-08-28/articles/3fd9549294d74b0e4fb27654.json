@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/87bed4e4-3cdb-3a4e-8983-159b218cc3ec/trump-says-cftc-working-to.html",
+    "fetched_at": "2026-08-28T07:00:22.164067-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Trump Says CFTC Working to Bring Hyperliquid to U.S.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "President Trump said yesterday that CFTC Chair Mike Selig is working to bring Hyperliquid into the U.S. \"in a fully compliant and legal fashion.\"\nWhat's the scoop?\n-\nWhite House Push: Trump made the comment during a White House meeting with crypto and finance executives, including those from Coinbase, Kraken, Ripple, Robinhood, Nasdaq and ICE, alongside Selig and SEC Chair Paul Atkins. Much of the event centered on the administration's push to pass the CLARITY Act and keep crypto innovation blossoming domestically.\n-\nRegulatory Groundwork: The comment follows months of engagement around bringing onchain markets under CFTC oversight. On July 9, the Hyperliquid Policy Center and Phantom filed a joint comment asking the CFTC to clarify that simply building onchain protocols does not trigger exchange registration while giving regulated firms a path to operate onchain. Six days later, Hyperliquid Strategic Inc. and Hyperliquid Labs met directly with the CFTC's Innovation Task Force.\n-\nDetails Still TBD: Trump did not explain how or when Hyperliquid could enter the U.S., and neither the CFTC nor Hyperliquid has announced an approval, regulatory structure or launch timeline. As of today, Hyperliquid remains officially unavailable to U.S. traders.",
+    "text_blocks": [
+      "President Trump said yesterday that CFTC Chair Mike Selig is working to bring Hyperliquid into the U.S. \"in a fully compliant and legal fashion.\"",
+      "What's the scoop?",
+      "-",
+      "White House Push: Trump made the comment during a White House meeting with crypto and finance executives, including those from Coinbase, Kraken, Ripple, Robinhood, Nasdaq and ICE, alongside Selig and SEC Chair Paul Atkins. Much of the event centered on the administration's push to pass the CLARITY Act and keep crypto innovation blossoming domestically.",
+      "-",
+      "Regulatory Groundwork: The comment follows months of engagement around bringing onchain markets under CFTC oversight. On July 9, the Hyperliquid Policy Center and Phantom filed a joint comment asking the CFTC to clarify that simply building onchain protocols does not trigger exchange registration while giving regulated firms a path to operate onchain. Six days later, Hyperliquid Strategic Inc. and Hyperliquid Labs met directly with the CFTC's Innovation Task Force.",
+      "-",
+      "Details Still TBD: Trump did not explain how or when Hyperliquid could enter the U.S., and neither the CFTC nor Hyperliquid has announced an approval, regulatory structure or launch timeline. As of today, Hyperliquid remains officially unavailable to U.S. traders."
+    ],
+    "html": null
+  }
+}

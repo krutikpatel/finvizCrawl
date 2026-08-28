@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?mod=wsj_FV",
+    "fetched_at": "2026-08-28T07:00:51.085836-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks Waver as Investors Await Warsh Speech - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "All eyes are on Jackson Hole, Wyo.\nFederal Reserve Chairman Kevin Warsh will deliver his first keynote address at the Kansas City Fed’s annual conference at 10 a.m. ET today—an event expected to play a big role in where government bond yields head next. Traders are hopeful that Warsh, more tight-lipped than his predecessors, will offer a read on the economy and reassure markets that the central bank remains ready to raise interest rates if needed.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "All eyes are on Jackson Hole, Wyo.",
+      "Federal Reserve Chairman Kevin Warsh will deliver his first keynote address at the Kansas City Fed’s annual conference at 10 a.m. ET today—an event expected to play a big role in where government bond yields head next. Traders are hopeful that Warsh, more tight-lipped than his predecessors, will offer a read on the economy and reassure markets that the central bank remains ready to raise interest rates if needed.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sends-20-million-191855720.html",
+    "fetched_at": "2026-08-28T07:00:43.975008-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Sends a $20 Million Signal on Broadcom Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCathie Wood's ARK Invest adjusted several technology holdings on Wednesday, adding to Broadcom while trimming its position in Advanced Micro Devices.\nARK purchased 57,705 Broadcom shares across multiple exchange-traded funds for about $20.6 million. The move extends its recent accumulation of the chipmaker.\nThe firm also sold 37,977 AMD shares for roughly $18.2 million across four ETFs. That follows another reduction earlier in the week, indicating a continued shift in exposure between major AI-chip companies.\nElsewhere, ARK acquired 69,585 Cerebras shares valued at about $12.8 million and bought 47,794 Cloudflare shares for approximately $13.3 million. It also added 304,851 shares of Generate Biomedicines through its biotech-focused ETF.\nThe latest trades show Wood continuing to reposition the portfolio toward selected AI, cloud and biotechnology names while reducing exposure to other holdings.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Cathie Wood's ARK Invest adjusted several technology holdings on Wednesday, adding to Broadcom while trimming its position in Advanced Micro Devices.",
+      "ARK purchased 57,705 Broadcom shares across multiple exchange-traded funds for about $20.6 million. The move extends its recent accumulation of the chipmaker.",
+      "The firm also sold 37,977 AMD shares for roughly $18.2 million across four ETFs. That follows another reduction earlier in the week, indicating a continued shift in exposure between major AI-chip companies.",
+      "Elsewhere, ARK acquired 69,585 Cerebras shares valued at about $12.8 million and bought 47,794 Cloudflare shares for approximately $13.3 million. It also added 304,851 shares of Generate Biomedicines through its biotech-focused ETF.",
+      "The latest trades show Wood continuing to reposition the portfolio toward selected AI, cloud and biotechnology names while reducing exposure to other holdings."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finviz.com/news/386607/stock-futures-on-edge-as-fed-chair-warsh-takes-centerstage",
+    "fetched_at": "2026-08-28T07:00:50.940762-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "parse_error",
+      "message": "No readable text extracted",
+      "context": {
+        "url": "https://finviz.com/news/386607/stock-futures-on-edge-as-fed-chair-warsh-takes-centerstage"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": "finviz.com",
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-why-its-falling-musk-7aad56c1?mod=bar_FV",
+    "fetched_at": "2026-08-28T07:00:07.999035-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "3 Reasons Why Tesla Stock Has Trailed the S&P 500 for 5 Years<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Stock Has Trailed the S&P 500 for 5 Years. There Are 3 Reasons Why.\nTesla stock has given investors incredible highs and lows over the years. Shares surged to a record $498.83 just a few months ago after trading below $220 following President Donald Trump’s Liberation Day tariff announcement in April 2025. All that volatility may be obscuring the fact that Tesla stock has trailed the S&P 500 over the past five years.",
+    "text_blocks": [
+      "Tesla Stock Has Trailed the S&P 500 for 5 Years. There Are 3 Reasons Why.",
+      "Tesla stock has given investors incredible highs and lows over the years. Shares surged to a record $498.83 just a few months ago after trading below $220 following President Donald Trump’s Liberation Day tariff announcement in April 2025. All that volatility may be obscuring the fact that Tesla stock has trailed the S&P 500 over the past five years."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/8-27-2026-nvidia-surge-193002330.html",
+    "fetched_at": "2026-08-28T07:00:32.760835-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "8-27-2026: Nvidia Surge, Oil Relief + Jackson Hole in Focus",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Eric Criscuolo, Market Strategist at the NYSE, recaps a week driven by three highly anticipated catalysts — PCE, Nvidia earnings, and Jackson Hole — following a quiet, range-bound start as markets awaited the key events. A breakthrough in Iran-Strait of Hormuz negotiations pulled oil sharply lower mid-week, lifting tech and setting a constructive tone heading into earnings. Nvidia delivered another blowout quarter with 75% revenue growth guidance for fiscal 2028, while Salesforce surged over 20% and helped the broader software group shake off AI disruption fears. Looking ahead, Fed Chair Warsh's Jackson Hole speech and next week's jobs report, ISM data, and earnings from Broadcom, Dell, and Snowflake will set the tone as summer unofficially comes to a close.",
+    "text_blocks": [
+      "Eric Criscuolo, Market Strategist at the NYSE, recaps a week driven by three highly anticipated catalysts — PCE, Nvidia earnings, and Jackson Hole — following a quiet, range-bound start as markets awaited the key events. A breakthrough in Iran-Strait of Hormuz negotiations pulled oil sharply lower mid-week, lifting tech and setting a constructive tone heading into earnings. Nvidia delivered another blowout quarter with 75% revenue growth guidance for fiscal 2028, while Salesforce surged over 20% and helped the broader software group shake off AI disruption fears. Looking ahead, Fed Chair Warsh's Jackson Hole speech and next week's jobs report, ISM data, and earnings from Broadcom, Dell, and Snowflake will set the tone as summer unofficially comes to a close."
+    ],
+    "html": null
+  }
+}

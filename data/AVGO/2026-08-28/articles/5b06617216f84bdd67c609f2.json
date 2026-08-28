@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/59f30196-fd39-35a4-a3b4-30823c074439/kyndryl%2C-broadcom-deepen.html",
+    "fetched_at": "2026-08-28T07:00:32.813578-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Kyndryl, Broadcom deepen partnership to build AI-ready private clouds",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Kyndryl has announced an expanded partnership with Broadcom aimed at delivering consulting services for VMware Cloud Foundation (VCF) to enterprises adopting private and hybrid cloud environments.\nThe development is intended to provide organisations with increased automation, security, and speed as they modernise systems to support AI adoption.\nThrough this extended collaboration, Kyndryl and Broadcom are focusing on building what they describe as \"AI-ready\" private clouds.\nThese environments are designed to address operational complexity, regulatory compliance, and the increasing security risks posed by AI-driven threats.\nAs part of the agreement, both firms are investing in training several thousand Kyndryl consultants, architects, and delivery specialists in VCF skills to enhance service delivery and support agentic workflows.\nKyndryl global strategic alliances leader Giovanni Carraro said: \"Against the backdrop of rising sovereignty demands, enterprises are rationalising their hybrid and private cloud environments, and they require a pragmatic, outcome-driven approach.\n\"By expanding our partnership with Broadcom and investing in VCF skills, we will help customers build modern, resilient, private clouds that enable AI adoption, support data modernisation, address the risk of AI-identified vulnerabilities and deliver real business value.\"\nThe announcement comes as many companies assess how to manage the risks and requirements of AI, particularly as rapid advances in AI models have accelerated the identification of security vulnerabilities.\nAccording to Kyndryl, effective protection now requires private clouds designed with policy guardrails and secure operational processes in place before workloads are deployed.\nUnder the partnership, Kyndryl is providing advisory, architecture, upgrade, and operational support for VCF and VMware Tanzu, addressing both virtual machine and containerised workloads.\nThe company aims to assist customers in financial services, healthcare, manufacturing, transportation, government, and other regulated sectors in meeting their technology transformation goals.\nBroadcom Americas president Regan McGrath said: \"Our expanded relationship with Kyndryl helps ensure that our mutual customers have the expert guidance required to fully leverage VMware Cloud Foundation as a strategic private cloud platform.\n\"Kyndryl's global delivery capabilities and investment in certified talent provide enterprises with the foundation they need to drive agility, modernise applications and scale AI-driven innovation.\"",
+    "text_blocks": [
+      "Kyndryl has announced an expanded partnership with Broadcom aimed at delivering consulting services for VMware Cloud Foundation (VCF) to enterprises adopting private and hybrid cloud environments.",
+      "The development is intended to provide organisations with increased automation, security, and speed as they modernise systems to support AI adoption.",
+      "Through this extended collaboration, Kyndryl and Broadcom are focusing on building what they describe as \"AI-ready\" private clouds.",
+      "These environments are designed to address operational complexity, regulatory compliance, and the increasing security risks posed by AI-driven threats.",
+      "As part of the agreement, both firms are investing in training several thousand Kyndryl consultants, architects, and delivery specialists in VCF skills to enhance service delivery and support agentic workflows.",
+      "Kyndryl global strategic alliances leader Giovanni Carraro said: \"Against the backdrop of rising sovereignty demands, enterprises are rationalising their hybrid and private cloud environments, and they require a pragmatic, outcome-driven approach.",
+      "\"By expanding our partnership with Broadcom and investing in VCF skills, we will help customers build modern, resilient, private clouds that enable AI adoption, support data modernisation, address the risk of AI-identified vulnerabilities and deliver real business value.\"",
+      "The announcement comes as many companies assess how to manage the risks and requirements of AI, particularly as rapid advances in AI models have accelerated the identification of security vulnerabilities.",
+      "According to Kyndryl, effective protection now requires private clouds designed with policy guardrails and secure operational processes in place before workloads are deployed.",
+      "Under the partnership, Kyndryl is providing advisory, architecture, upgrade, and operational support for VCF and VMware Tanzu, addressing both virtual machine and containerised workloads.",
+      "The company aims to assist customers in financial services, healthcare, manufacturing, transportation, government, and other regulated sectors in meeting their technology transformation goals.",
+      "Broadcom Americas president Regan McGrath said: \"Our expanded relationship with Kyndryl helps ensure that our mutual customers have the expert guidance required to fully leverage VMware Cloud Foundation as a strategic private cloud platform.",
+      "\"Kyndryl's global delivery capabilities and investment in certified talent provide enterprises with the foundation they need to drive agility, modernise applications and scale AI-driven innovation.\""
+    ],
+    "html": null
+  }
+}

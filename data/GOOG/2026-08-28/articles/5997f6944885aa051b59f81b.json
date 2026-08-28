@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-shares-tank-major-takeover-120821047.html",
+    "fetched_at": "2026-08-28T07:00:27.247674-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "PayPal Shares Tank After Major Takeover Talks Collapse",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPayPal Holdings (NASDAQ:PYPL) has lost a potential takeover bid after a group led by Advent International and Stripe ended discussions over a transaction that could have ranked among the largest leveraged buyouts, Bloomberg News reported.\nShares of Paypal sank 12% after the report.\nThe consortium had considered paying more than $50 billion for PayPal, a sharp discount to the company's roughly $360 billion valuation in 2021. The talks began with Block (NYSE:XYZ), Stripe and Advent in April, although Block later left the group.\nThe decision comes as PayPal works through a period of slower growth and tougher competition in digital payments. Apple Pay, operated by Apple (NASDAQ:AAPL), and Google Pay, part of Alphabet (GOOG) (GOOGL), have expanded their presence, adding pressure to PayPal's core business.\nFounded in the late 1990s, PayPal has been pursuing a turnaround as it seeks to restore growth and improve investor confidence. The end of the takeover effort leaves management's standalone strategy in greater focus.\nThe abandoned bid removes a potential takeover catalyst, leaving PayPal investors more dependent on the company's turnaround progress.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "PayPal Holdings (NASDAQ:PYPL) has lost a potential takeover bid after a group led by Advent International and Stripe ended discussions over a transaction that could have ranked among the largest leveraged buyouts, Bloomberg News reported.",
+      "Shares of Paypal sank 12% after the report.",
+      "The consortium had considered paying more than $50 billion for PayPal, a sharp discount to the company's roughly $360 billion valuation in 2021. The talks began with Block (NYSE:XYZ), Stripe and Advent in April, although Block later left the group.",
+      "The decision comes as PayPal works through a period of slower growth and tougher competition in digital payments. Apple Pay, operated by Apple (NASDAQ:AAPL), and Google Pay, part of Alphabet (GOOG) (GOOGL), have expanded their presence, adding pressure to PayPal's core business.",
+      "Founded in the late 1990s, PayPal has been pursuing a turnaround as it seeks to restore growth and improve investor confidence. The end of the takeover effort leaves management's standalone strategy in greater focus.",
+      "The abandoned bid removes a potential takeover catalyst, leaving PayPal investors more dependent on the company's turnaround progress."
+    ],
+    "html": null
+  }
+}
