@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/metas-9-9-jio-stake-222758011.html",
+    "fetched_at": "2026-08-29T07:00:13.702315-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta's 9.9% Jio Stake Finally Gets a Public Scoreboard",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (NASDAQ:META), the social-media, advertising and artificial-intelligence giant, jumped roughly 0.8% to $575.50 Friday as Jio Platforms cleared a critical IPO hurdle. India's securities regulator approved the proposed $3.8 billion offering, moving Meta's 9.9% stake closer to a public market valuation.\nMeta poured $5.7 billion into Jio in 2020, securing its position as the company's largest minority shareholder. Jio now commands more than 533 million mobile subscribers and spans telecom, cloud, artificial intelligence and enterprise networks. The IPO will issue 270 million shares, with approximately $3.3 billion earmarked for debt repayment at Reliance Jio Infocomm.\nMeta will not collect the IPO proceeds. The real prize is price discovery. Once Jio begins trading, investors can value Meta's stake using an observable market price instead of private assumptions. The valuation picture already looks striking: Meta's $575.50 share price sits 31.81% below its $843.91 GF Value estimate, signaling substantial potential upside if the company delivers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (NASDAQ:META), the social-media, advertising and artificial-intelligence giant, jumped roughly 0.8% to $575.50 Friday as Jio Platforms cleared a critical IPO hurdle. India's securities regulator approved the proposed $3.8 billion offering, moving Meta's 9.9% stake closer to a public market valuation.",
+      "Meta poured $5.7 billion into Jio in 2020, securing its position as the company's largest minority shareholder. Jio now commands more than 533 million mobile subscribers and spans telecom, cloud, artificial intelligence and enterprise networks. The IPO will issue 270 million shares, with approximately $3.3 billion earmarked for debt repayment at Reliance Jio Infocomm.",
+      "Meta will not collect the IPO proceeds. The real prize is price discovery. Once Jio begins trading, investors can value Meta's stake using an observable market price instead of private assumptions. The valuation picture already looks striking: Meta's $575.50 share price sits 31.81% below its $843.91 GF Value estimate, signaling substantial potential upside if the company delivers."
+    ],
+    "html": null
+  }
+}

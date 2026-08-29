@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-crashes-10-guidance-222120627.html",
+    "fetched_at": "2026-08-29T07:00:28.170241-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell Stock Crashes 10% After Guidance Disappoints Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL) fell nearly 10% Friday extending a sharp decline that pushed the shares below their short- and intermediate-term moving averages.\nThe selloff followed Marvell's forecast for its fiscal third quarter. The chipmaker expects revenue of $3.15 billion, plus or minus 5%, and adjusted earnings of $1.10 per share, plus or minus $0.05. Both figures were above the current Wall Street estimates cited in the report.\nThe market reaction has also raised questions around Marvell's recently disclosed business with Google. Investors have been looking for more clarity on the relationship and its potential contribution to future revenue.\nAt Friday's price, the shares remained above the 100-day moving average at $211.34. A break below that level could bring the stock's longer-term 200-day average of $148.67 into focus. Marvell's relative strength index was 49.83, pointing to balanced momentum.\nThe steep decline puts Marvell at a key technical level while investors reassess its outlook and Google opportunity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL) fell nearly 10% Friday extending a sharp decline that pushed the shares below their short- and intermediate-term moving averages.",
+      "The selloff followed Marvell's forecast for its fiscal third quarter. The chipmaker expects revenue of $3.15 billion, plus or minus 5%, and adjusted earnings of $1.10 per share, plus or minus $0.05. Both figures were above the current Wall Street estimates cited in the report.",
+      "The market reaction has also raised questions around Marvell's recently disclosed business with Google. Investors have been looking for more clarity on the relationship and its potential contribution to future revenue.",
+      "At Friday's price, the shares remained above the 100-day moving average at $211.34. A break below that level could bring the stock's longer-term 200-day average of $148.67 into focus. Marvell's relative strength index was 49.83, pointing to balanced momentum.",
+      "The steep decline puts Marvell at a key technical level while investors reassess its outlook and Google opportunity."
+    ],
+    "html": null
+  }
+}

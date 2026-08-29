@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-quietly-became-own-market-222531285.html",
+    "fetched_at": "2026-08-29T07:00:16.650040-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Quietly Became Its Own Market Category",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) is becoming increasingly detached from the semiconductor stocks it once traded alongside, a striking shift that suggests investors now view the AI leader as its own market category. Nvidia's three-month correlation with the PHLX Semiconductor Index has collapsed to just 0.03, according to Bespoke Investment Group data cited by The Kobeissi Letter, meaning movements in the broader chip sector have recently provided almost no indication of where Nvidia shares will go.\nThe contrast with Nvidia's peers is dramatic. Intel (NASDAQ:INTC) has maintained a correlation above 0.90 with the semiconductor index, while Taiwan Semiconductor (NYSE:TSM) and Micron (NASDAQ:MU) were just below 0.90. Several other chipmakers recorded readings above 0.80.\nNvidia, despite being the largest company in the semiconductor index by market capitalization, ranked lowest.\nThe Kobeissi Letter said Nvidia is \"no longer trading like a typical semiconductor stock,\" reflecting how its investment thesis has shifted from traditional chip-cycle dynamics toward AI infrastructure spending.\nThat distinction has become easier to justify financially. Nvidia reported fiscal second-quarter revenue of $96.2 billion, up 106% year over year, while Data Center revenue surged 117% to $89 billion. The company expects third-quarter sales of roughly $108 billion, excluding any Data Center compute revenue from China.\nNvidia also recently projected roughly 70% revenue growth for its next fiscal year, far above prevailing Wall Street expectations, reinforcing investor confidence that the AI infrastructure boom can continue well beyond the current quarter.\nInvestor Takeaway\nNvidia's near-zero semiconductor correlation cuts both ways. It suggests traditional chip-sector weakness may matter less to the stock, but it also means Nvidia increasingly depends on its own AI growth expectations staying exceptional. Investors should watch hyperscaler capital spending, Vera Rubin deployment, China restrictions and gross margins rather than relying heavily on broader semiconductor signals. Nvidia expects margins around 74% next quarter, while component constraints could pressure profitability later. A slowdown in AI infrastructure spending could therefore reconnect Nvidia with semiconductor fundamentals quickly, while continued outsized growth would reinforce its status as a standalone AI trade.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) is becoming increasingly detached from the semiconductor stocks it once traded alongside, a striking shift that suggests investors now view the AI leader as its own market category. Nvidia's three-month correlation with the PHLX Semiconductor Index has collapsed to just 0.03, according to Bespoke Investment Group data cited by The Kobeissi Letter, meaning movements in the broader chip sector have recently provided almost no indication of where Nvidia shares will go.",
+      "The contrast with Nvidia's peers is dramatic. Intel (NASDAQ:INTC) has maintained a correlation above 0.90 with the semiconductor index, while Taiwan Semiconductor (NYSE:TSM) and Micron (NASDAQ:MU) were just below 0.90. Several other chipmakers recorded readings above 0.80.",
+      "Nvidia, despite being the largest company in the semiconductor index by market capitalization, ranked lowest.",
+      "The Kobeissi Letter said Nvidia is \"no longer trading like a typical semiconductor stock,\" reflecting how its investment thesis has shifted from traditional chip-cycle dynamics toward AI infrastructure spending.",
+      "That distinction has become easier to justify financially. Nvidia reported fiscal second-quarter revenue of $96.2 billion, up 106% year over year, while Data Center revenue surged 117% to $89 billion. The company expects third-quarter sales of roughly $108 billion, excluding any Data Center compute revenue from China.",
+      "Nvidia also recently projected roughly 70% revenue growth for its next fiscal year, far above prevailing Wall Street expectations, reinforcing investor confidence that the AI infrastructure boom can continue well beyond the current quarter.",
+      "Investor Takeaway",
+      "Nvidia's near-zero semiconductor correlation cuts both ways. It suggests traditional chip-sector weakness may matter less to the stock, but it also means Nvidia increasingly depends on its own AI growth expectations staying exceptional. Investors should watch hyperscaler capital spending, Vera Rubin deployment, China restrictions and gross margins rather than relying heavily on broader semiconductor signals. Nvidia expects margins around 74% next quarter, while component constraints could pressure profitability later. A slowdown in AI infrastructure spending could therefore reconnect Nvidia with semiconductor fundamentals quickly, while continued outsized growth would reinforce its status as a standalone AI trade."
+    ],
+    "html": null
+  }
+}

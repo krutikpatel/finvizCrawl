@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html",
+    "fetched_at": "2026-08-29T07:00:40.081396-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The company is also moving beyond simply selling chips, helping to finance customers, and participating in rental revenue as Wall Street increasingly likens Nvidia to the central bank of AI.\nCEO Jensen Huang put the shift more simply: \"Now, compute is revenue.\"\nWall Street is preparing to put a tradable price on some of that computing power.\nCME Group plans to launch futures on Oct. 5 tied to the hourly rental cost of Nvidia's H100 and B200 graphics processors, pending regulatory approval. The contracts would settle against benchmarks from Silicon Data, which tracks what companies pay to rent those chips.\nSilicon Data's H100 benchmark is currently around $2.68 per GPU-hour, while its newer B200 benchmark is about $5.66. Both have moved substantially over the past year, and not always together.\nThink about hotel rooms. A night at the Ritz and one at a Motel 6 both buy a bed, but not at the same price.\nComputing power works much the same way. The chip matters, but so do the provider, location, rental term, networking, and availability.\nAnd a futures contract does not reserve the chips themselves. It pays out based on where the benchmark price goes.\nIf the hotel is sold out, even if room prices go up, it still doesn't give you somewhere to sleep.\nWall Street has a mixed record of creating new markets\nThe DRAM attempt ran into a problem that sounds familiar today. \"The biggest hurdle was getting agreement within the industry about what the standard chip would be,\" former exchange executive Charles Rose later recalled.\nWeather futures faced a different obstacle — a company's actual exposure can be too specific to fit neatly into one standardized contract.\nBandwidth may be the closest parallel. During the late-1990s fiber boom, Enron tried to turn network capacity into a commodity that could trade like energy, but the market never caught on. The same fiber glut has become a warning for today's AI infrastructure build-out, after excess capacity helped drive prices lower.\nIron ore shows the other path. After decades of private annual negotiations, the market shifted toward published daily indexes around 2009 and 2010. Futures and swaps took off, and those indexes eventually became widely used in physical contracts too.\nThat is the path compute would need to follow.\nThe US's futures watchdog — the Commodity Futures Trading Commission (CFTC) — is not assuming it will.\nCFTC Chair Michael Selig has said that \"America cannot win the AI race without a robust derivatives market for compute.\" But the agency is separately asking whether the market is standardized and transparent enough to support one.\nThe chair wants the racetrack built. His agency is still asking whether everyone agrees on the cars.\nCME still needs regulatory approval, while the CFTC's broader public comment period runs through Oct. 20 — after the planned Oct. 5 launch.\nRival benchmark provider Yggdrasil Financial Technologies has warned the CFTC that conflicts around privately produced benchmarks could reproduce \"the LIBOR dynamic ... in miniature.\"\nLibor was once a global borrowing benchmark before a manipulation scandal showed what can happen when enormous sums depend on a number controlled by a small group.\nFor investors, though, the market could become useful even if they never trade it.\nJessica Inskip, director of investor research at StockBrokers.com, is especially interested in what the futures curve could reveal about expectations months ahead.\n\"A stock or even a commodity is two-dimensional. Price, up or down. A derivatives curve adds a third dimension: time,\" she said. \"Compute can't be stored. An idle GPU hour is gone forever.\"\nThat could make the curve a new read on the AI build-out itself.\n\"Nvidia's revenue and hyperscaler capex tell you what's been booked; the compute curve tells you what's actually being consumed and what someone will pay for it a year out,\" Inskip said.\nThe divergence she would watch is semiconductor stocks and spending plans climbing while H100 and B200 rental prices soften — a sign that capacity may be arriving ahead of demand.\nBut she would only trust that signal if real buyers and sellers show up.\n\"Participation decides whether this is a signal or a sentiment index,\" Inskip said. \"If the open interest is all managed money, we've built a noisier way to be long or short Nvidia.\"\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.",
+    "text_blocks": [
+      "The company is also moving beyond simply selling chips, helping to finance customers, and participating in rental revenue as Wall Street increasingly likens Nvidia to the central bank of AI.",
+      "CEO Jensen Huang put the shift more simply: \"Now, compute is revenue.\"",
+      "Wall Street is preparing to put a tradable price on some of that computing power.",
+      "CME Group plans to launch futures on Oct. 5 tied to the hourly rental cost of Nvidia's H100 and B200 graphics processors, pending regulatory approval. The contracts would settle against benchmarks from Silicon Data, which tracks what companies pay to rent those chips.",
+      "Silicon Data's H100 benchmark is currently around $2.68 per GPU-hour, while its newer B200 benchmark is about $5.66. Both have moved substantially over the past year, and not always together.",
+      "Think about hotel rooms. A night at the Ritz and one at a Motel 6 both buy a bed, but not at the same price.",
+      "Computing power works much the same way. The chip matters, but so do the provider, location, rental term, networking, and availability.",
+      "And a futures contract does not reserve the chips themselves. It pays out based on where the benchmark price goes.",
+      "If the hotel is sold out, even if room prices go up, it still doesn't give you somewhere to sleep.",
+      "Wall Street has a mixed record of creating new markets",
+      "The DRAM attempt ran into a problem that sounds familiar today. \"The biggest hurdle was getting agreement within the industry about what the standard chip would be,\" former exchange executive Charles Rose later recalled.",
+      "Weather futures faced a different obstacle — a company's actual exposure can be too specific to fit neatly into one standardized contract.",
+      "Bandwidth may be the closest parallel. During the late-1990s fiber boom, Enron tried to turn network capacity into a commodity that could trade like energy, but the market never caught on. The same fiber glut has become a warning for today's AI infrastructure build-out, after excess capacity helped drive prices lower.",
+      "Iron ore shows the other path. After decades of private annual negotiations, the market shifted toward published daily indexes around 2009 and 2010. Futures and swaps took off, and those indexes eventually became widely used in physical contracts too.",
+      "That is the path compute would need to follow.",
+      "The US's futures watchdog — the Commodity Futures Trading Commission (CFTC) — is not assuming it will.",
+      "CFTC Chair Michael Selig has said that \"America cannot win the AI race without a robust derivatives market for compute.\" But the agency is separately asking whether the market is standardized and transparent enough to support one.",
+      "The chair wants the racetrack built. His agency is still asking whether everyone agrees on the cars.",
+      "CME still needs regulatory approval, while the CFTC's broader public comment period runs through Oct. 20 — after the planned Oct. 5 launch.",
+      "Rival benchmark provider Yggdrasil Financial Technologies has warned the CFTC that conflicts around privately produced benchmarks could reproduce \"the LIBOR dynamic ... in miniature.\"",
+      "Libor was once a global borrowing benchmark before a manipulation scandal showed what can happen when enormous sums depend on a number controlled by a small group.",
+      "For investors, though, the market could become useful even if they never trade it.",
+      "Jessica Inskip, director of investor research at StockBrokers.com, is especially interested in what the futures curve could reveal about expectations months ahead.",
+      "\"A stock or even a commodity is two-dimensional. Price, up or down. A derivatives curve adds a third dimension: time,\" she said. \"Compute can't be stored. An idle GPU hour is gone forever.\"",
+      "That could make the curve a new read on the AI build-out itself.",
+      "\"Nvidia's revenue and hyperscaler capex tell you what's been booked; the compute curve tells you what's actually being consumed and what someone will pay for it a year out,\" Inskip said.",
+      "The divergence she would watch is semiconductor stocks and spending plans climbing while H100 and B200 rental prices soften — a sign that capacity may be arriving ahead of demand.",
+      "But she would only trust that signal if real buyers and sellers show up.",
+      "\"Participation decides whether this is a signal or a sentiment index,\" Inskip said. \"If the open interest is all managed money, we've built a noisier way to be long or short Nvidia.\"",
+      "Jared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com."
+    ],
+    "html": null
+  }
+}

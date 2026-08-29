@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-16-billion-ai-quarter-171054558.html",
+    "fetched_at": "2026-08-29T07:00:33.683717-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom's $16 Billion AI Quarter Faces the Marvell Timing Trap",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO), the semiconductor and infrastructure-software giant, heads into a high-pressure AI earnings test on September 2, with shares priced at $372.76 Friday. Nvidia reignited the AI rally. Now Wall Street wants Broadcom to prove its custom-chip boom is arrivingnot waiting somewhere over the horizon.\nThe numbers are already enormous. Broadcom's second-quarter results delivered $22.19 billion in revenue and $10.26 billion in free cash flow. AI semiconductor revenue exploded 143% to $10.8 billion. Management expects third-quarter revenue near $29.4 billion, including approximately $16 billion from AI chipsgrowth above 200%.\nThe valuation snapshot is blunt: Broadcom's $372.76 share price stands 7.18% above its $347.79 GF Value estimate. AI would generate roughly 54% of projected quarterly revenue, up from approximately 49% last quarter. That mix is powerful, but the premium leaves little room for excuses. Marvell's (NASDAQ:MRVL)M Friday plunge showed what happens when giant AI contracts produce distant promises instead of immediate sales. Broadcom must show the chips are shipping and the revenue is landing now.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO), the semiconductor and infrastructure-software giant, heads into a high-pressure AI earnings test on September 2, with shares priced at $372.76 Friday. Nvidia reignited the AI rally. Now Wall Street wants Broadcom to prove its custom-chip boom is arrivingnot waiting somewhere over the horizon.",
+      "The numbers are already enormous. Broadcom's second-quarter results delivered $22.19 billion in revenue and $10.26 billion in free cash flow. AI semiconductor revenue exploded 143% to $10.8 billion. Management expects third-quarter revenue near $29.4 billion, including approximately $16 billion from AI chipsgrowth above 200%.",
+      "The valuation snapshot is blunt: Broadcom's $372.76 share price stands 7.18% above its $347.79 GF Value estimate. AI would generate roughly 54% of projected quarterly revenue, up from approximately 49% last quarter. That mix is powerful, but the premium leaves little room for excuses. Marvell's (NASDAQ:MRVL)M Friday plunge showed what happens when giant AI contracts produce distant promises instead of immediate sales. Broadcom must show the chips are shipping and the revenue is landing now."
+    ],
+    "html": null
+  }
+}

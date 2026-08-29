@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/8c746d5b-7728-32b9-abf9-246837fc7b0b/advanced-micro-devices-stock.html",
+    "fetched_at": "2026-08-29T07:00:45.590786-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The rack platform and the server line behind the run were both named in the company's own calls before the stock moved.\nAdvanced Micro Devices (AMD) stock has run from $166.62 to $476.67 since late August 2025, a gain of 186% against 20.5% for the S&P 500. A move that size usually gets filed as a surprise. This one was not: the rack platform behind it and the server line beside it were both described by management beforehand.\nThe Rack Was Bought Before It Was Built\nThe earliest sign was an acquisition. AMD closed its purchase of ZT Systems on March 31, 2025 to build rack-level AI systems from its own CPUs, GPUs, and networking. By early August 2025 management had named the machine: Helios, a rack-scale platform connecting up to 72 GPUs to work as one accelerator, and the MI400 series it was built around was dated to a 2026 launch.\nA Quieter Sign Sat In The Server Line\nAttention sat on the accelerator roadmap; the quieter line was about server chips. The company's own account in early August 2025 was that agentic AI was creating additional demand for general-purpose compute, because each token a GPU generates triggers multiple CPU-intensive tasks, and that the positive cloud capital spending numbers of the time carried significant CPU spending inside them. The trajectory underneath was already bending. Trailing-twelve-month revenue was $29.6 billion as of fiscal Q2 2025, up 27.2% year over year, against an average of 11.7% a year across the three fiscal years through that quarter.\nOne Thread Landed In Revenue, The Other In Commitments\nIn results reported August 4, 2026, data center revenue hit $6.7 billion of an $11.5 billion quarter, up 107% year over year and 58% of the total against 42% a year earlier. EPYC delivered a fifth straight quarter of record server CPU revenue, and management now guides server revenue to grow more than 80% year over year in the second half of 2026. Helios turned into commitments measured in power: one AI lab is set to deploy up to 2 gigawatts of MI450-series GPUs in Helios from the first half of 2027, and on July 28, 2026 AMD agreed with Core Scientific to secure up to 2.5 gigawatts of data center capacity. Not every line moved with it: gaming revenue fell 31% year over year in the same quarter. That data center concentration cuts both ways. A position sized on one theme's build-out is a different proposition from the Trefis High Quality Portfolio, which does not depend on the handful of largest technology names to produce its returns.",
+    "text_blocks": [
+      "The rack platform and the server line behind the run were both named in the company's own calls before the stock moved.",
+      "Advanced Micro Devices (AMD) stock has run from $166.62 to $476.67 since late August 2025, a gain of 186% against 20.5% for the S&P 500. A move that size usually gets filed as a surprise. This one was not: the rack platform behind it and the server line beside it were both described by management beforehand.",
+      "The Rack Was Bought Before It Was Built",
+      "The earliest sign was an acquisition. AMD closed its purchase of ZT Systems on March 31, 2025 to build rack-level AI systems from its own CPUs, GPUs, and networking. By early August 2025 management had named the machine: Helios, a rack-scale platform connecting up to 72 GPUs to work as one accelerator, and the MI400 series it was built around was dated to a 2026 launch.",
+      "A Quieter Sign Sat In The Server Line",
+      "Attention sat on the accelerator roadmap; the quieter line was about server chips. The company's own account in early August 2025 was that agentic AI was creating additional demand for general-purpose compute, because each token a GPU generates triggers multiple CPU-intensive tasks, and that the positive cloud capital spending numbers of the time carried significant CPU spending inside them. The trajectory underneath was already bending. Trailing-twelve-month revenue was $29.6 billion as of fiscal Q2 2025, up 27.2% year over year, against an average of 11.7% a year across the three fiscal years through that quarter.",
+      "One Thread Landed In Revenue, The Other In Commitments",
+      "In results reported August 4, 2026, data center revenue hit $6.7 billion of an $11.5 billion quarter, up 107% year over year and 58% of the total against 42% a year earlier. EPYC delivered a fifth straight quarter of record server CPU revenue, and management now guides server revenue to grow more than 80% year over year in the second half of 2026. Helios turned into commitments measured in power: one AI lab is set to deploy up to 2 gigawatts of MI450-series GPUs in Helios from the first half of 2027, and on July 28, 2026 AMD agreed with Core Scientific to secure up to 2.5 gigawatts of data center capacity. Not every line moved with it: gaming revenue fell 31% year over year in the same quarter. That data center concentration cuts both ways. A position sized on one theme's build-out is a different proposition from the Trefis High Quality Portfolio, which does not depend on the handful of largest technology names to produce its returns."
+    ],
+    "html": null
+  }
+}

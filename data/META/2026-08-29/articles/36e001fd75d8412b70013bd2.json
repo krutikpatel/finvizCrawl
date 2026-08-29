@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/dicks-hit-by-a-footware-apocalypse-a0c47825?mod=bar_FV",
+    "fetched_at": "2026-08-29T07:00:13.320668-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dick’s Hit by a Footware Apocalypse<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dick’s Hit by a Footware Apocalypse\nDick’s earnings per share, revenue, and same-store sales were all below expectations. Its stores and recently acquired Foot Locker disappointed, with the latter now an “albatross,” as Quo Vadis Capital President John Zolidis says. Competition is fierce too. Companies are using tariff refunds to cut prices, and management cited an “increasingly promotional” athletic apparel and footwear environment. Legacy styles were a problem, with discounts and fewer launches.",
+    "text_blocks": [
+      "Dick’s Hit by a Footware Apocalypse",
+      "Dick’s earnings per share, revenue, and same-store sales were all below expectations. Its stores and recently acquired Foot Locker disappointed, with the latter now an “albatross,” as Quo Vadis Capital President John Zolidis says. Competition is fierce too. Companies are using tariff refunds to cut prices, and management cited an “increasingly promotional” athletic apparel and footwear environment. Legacy styles were a problem, with discounts and fewer launches."
+    ],
+    "html": null
+  }
+}

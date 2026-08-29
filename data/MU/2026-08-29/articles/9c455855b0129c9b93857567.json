@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-breaks-ranks-chip-stocks-174824369.html",
+    "fetched_at": "2026-08-29T07:00:16.657869-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) is increasingly moving to its own rhythm within the chip industry, with recent trading data showing a far weaker link to semiconductor peers than is typical, according to Bespoke Investment Group data cited by The Kobeissi Letter on Friday.\nOver the past three months, Nvidia's correlation with the PHLX Semiconductor Index (SOX) was only 0.03. That compares with readings above 0.90 for Intel (NASDAQ:INTC) and just under 0.90 for Taiwan Semiconductor Manufacturing (NYSE:TSM) and Micron Technology (NASDAQ:MU).\nThe gap is notable because Nvidia remains the largest company in the semiconductor benchmark. Yet its market behavior has been less tied to the broader group, where many stocks remain more sensitive to traditional industry cycles.\nThe data point to Nvidia becoming a more company-specific trade. Investor expectations around artificial intelligence, rather than movements across the wider chip sector, may therefore have a greater influence on the stock.\nNvidia's growing independence from semiconductor peers could make AI demand, earnings expectations and company-specific developments increasingly important drivers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) is increasingly moving to its own rhythm within the chip industry, with recent trading data showing a far weaker link to semiconductor peers than is typical, according to Bespoke Investment Group data cited by The Kobeissi Letter on Friday.",
+      "Over the past three months, Nvidia's correlation with the PHLX Semiconductor Index (SOX) was only 0.03. That compares with readings above 0.90 for Intel (NASDAQ:INTC) and just under 0.90 for Taiwan Semiconductor Manufacturing (NYSE:TSM) and Micron Technology (NASDAQ:MU).",
+      "The gap is notable because Nvidia remains the largest company in the semiconductor benchmark. Yet its market behavior has been less tied to the broader group, where many stocks remain more sensitive to traditional industry cycles.",
+      "The data point to Nvidia becoming a more company-specific trade. Investor expectations around artificial intelligence, rather than movements across the wider chip sector, may therefore have a greater influence on the stock.",
+      "Nvidia's growing independence from semiconductor peers could make AI demand, earnings expectations and company-specific developments increasingly important drivers."
+    ],
+    "html": null
+  }
+}

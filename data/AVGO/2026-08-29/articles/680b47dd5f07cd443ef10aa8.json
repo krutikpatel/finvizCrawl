@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html",
+    "fetched_at": "2026-08-29T07:00:33.513219-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "6 things investors need to watch in the week ahead",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "00:00 Speaker A\nTime now for to watch the week of August 31st. It's another big week of earnings. We're going to be hearing from names across the tech sector like Dell and Palo Alto.\n00:08 Speaker A\nBut a big check on the AI trade is coming Wednesday with Broadcom reporting quarterly results after the markets close.\n00:15 Speaker A\nAfter Nvidia gave investors strong visibility into the AI spending cycle. Big question is whether Broadcom can offer a similarly confident outlook.\n00:23 Speaker A\nWe're also getting Snowflake's second quarter results on Wednesday. It's another important check on the software sector after strong reports from names like Salesforce and CrowdStrike.\n00:30 Speaker A\nOn the consumer side of things, Lululemon reporting Q2 earnings on Thursday. Analysts expecting sales in the Americas to fall by the high single digits, while China and other international markets remain the main growth engines.\n00:39 Speaker A\nAnd finally, got the big jobs report for August. That's coming out on Friday. Economists forecast the economy to add 58,000 jobs after posting job losses in July.\n00:50 Speaker A\nThe unemployment rate is expected to hold at 4.1%, while average hourly earnings tick up on a month over month basis.",
+    "text_blocks": [
+      "00:00 Speaker A",
+      "Time now for to watch the week of August 31st. It's another big week of earnings. We're going to be hearing from names across the tech sector like Dell and Palo Alto.",
+      "00:08 Speaker A",
+      "But a big check on the AI trade is coming Wednesday with Broadcom reporting quarterly results after the markets close.",
+      "00:15 Speaker A",
+      "After Nvidia gave investors strong visibility into the AI spending cycle. Big question is whether Broadcom can offer a similarly confident outlook.",
+      "00:23 Speaker A",
+      "We're also getting Snowflake's second quarter results on Wednesday. It's another important check on the software sector after strong reports from names like Salesforce and CrowdStrike.",
+      "00:30 Speaker A",
+      "On the consumer side of things, Lululemon reporting Q2 earnings on Thursday. Analysts expecting sales in the Americas to fall by the high single digits, while China and other international markets remain the main growth engines.",
+      "00:39 Speaker A",
+      "And finally, got the big jobs report for August. That's coming out on Friday. Economists forecast the economy to add 58,000 jobs after posting job losses in July.",
+      "00:50 Speaker A",
+      "The unemployment rate is expected to hold at 4.1%, while average hourly earnings tick up on a month over month basis."
+    ],
+    "html": null
+  }
+}

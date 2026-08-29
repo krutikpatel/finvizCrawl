@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html",
+    "fetched_at": "2026-08-29T07:00:13.807415-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How networking became the critical layer of AI",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.\nThe shift creates a particularly positive outlook for Nvidia (NASDAQ:NVDA), Broadcom (NASDAQ:AVGO), Arista Networks (NYSE:ANET), Lumentum (NASDAQ:LITE), Coherent (NYSE:COHR), Marvell Technology (NASDAQ:MRVL) and Astera Labs (NASDAQ:ALAB), Citi said.\nThe analysts noted that the first wave of AI infrastructure development focused heavily on faster GPUs, larger accelerators and greater training capacity.\nBut as AI systems expand toward trillions of parameters, larger context windows and autonomous agent workloads, efficiently moving data between chips, servers, racks and data centers is becoming a bigger bottleneck.\nCiti said presentations from Nvidia, Broadcom, Meta Platforms (NASDAQ:META), Alphabet's (NASDAQ:GOOGL) Google, Samsung and other companies pointed toward the same trend.\n\"The future AI winner is not necessarily the company with the fastest processor, but the company that can move data most efficiently throughout the entire system,\" the analysts said.\nMemory is also increasingly becoming part of the networking challenge. Technologies presented by Samsung, XCENA and Cerebras aim to keep more data close to where it is processed, reducing the amount that must travel across congested interconnects.\nEvery byte kept locally reduces communication overhead, making improvements in memory capacity, bandwidth and efficiency closely linked to network performance.\nCiti also highlighted Nvidia's concept of future data centers as \"AI factories.\" Unlike traditional data centers organized primarily around servers, these facilities are increasingly designed around data flows connecting compute, memory, networking, storage and security.\nThe shift could move more AI infrastructure value toward companies capable of optimizing the entire data movement stack rather than simply supplying standalone processors, Citi said.\nRelated articles\nHow networking became the critical layer of AI\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+    "text_blocks": [
+      "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
+      "The shift creates a particularly positive outlook for Nvidia (NASDAQ:NVDA), Broadcom (NASDAQ:AVGO), Arista Networks (NYSE:ANET), Lumentum (NASDAQ:LITE), Coherent (NYSE:COHR), Marvell Technology (NASDAQ:MRVL) and Astera Labs (NASDAQ:ALAB), Citi said.",
+      "The analysts noted that the first wave of AI infrastructure development focused heavily on faster GPUs, larger accelerators and greater training capacity.",
+      "But as AI systems expand toward trillions of parameters, larger context windows and autonomous agent workloads, efficiently moving data between chips, servers, racks and data centers is becoming a bigger bottleneck.",
+      "Citi said presentations from Nvidia, Broadcom, Meta Platforms (NASDAQ:META), Alphabet's (NASDAQ:GOOGL) Google, Samsung and other companies pointed toward the same trend.",
+      "\"The future AI winner is not necessarily the company with the fastest processor, but the company that can move data most efficiently throughout the entire system,\" the analysts said.",
+      "Memory is also increasingly becoming part of the networking challenge. Technologies presented by Samsung, XCENA and Cerebras aim to keep more data close to where it is processed, reducing the amount that must travel across congested interconnects.",
+      "Every byte kept locally reduces communication overhead, making improvements in memory capacity, bandwidth and efficiency closely linked to network performance.",
+      "Citi also highlighted Nvidia's concept of future data centers as \"AI factories.\" Unlike traditional data centers organized primarily around servers, these facilities are increasingly designed around data flows connecting compute, memory, networking, storage and security.",
+      "The shift could move more AI infrastructure value toward companies capable of optimizing the entire data movement stack rather than simply supplying standalone processors, Citi said.",
+      "Related articles",
+      "How networking became the critical layer of AI",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Wolfe Research outlines eight risks that could spark stock declines in 2026"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_FV",
+    "fetched_at": "2026-08-29T07:00:07.357513-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Market Extra\nThe S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.\nBig Tech has some ‘serious sway’ as investors keep a close pulse on AI\nInvestors’ intense focus on artificial intelligence is at times adding to the power of a small club of Big Tech stocks with mega market values to potentially make or break a single trading session for the S&P 500.\nJust this past week, AI chip designer Nvidia’s NVDA second-quarter earnings results and guidance appeared to thrill investors — triggering a 8.7% rally in the company’s shares on Thursday that Dow Jones Market Data calculated as a record $441.5 billion jump in its market value, to $5.49 trillion. As the S&P 500 SPX has outsize weightings in Big Tech companies including Nvidia, the chip giant’s rally propelled the index higher Thursday, even as the average stock underperformed the S&P 500.",
+    "text_blocks": [
+      "Market Extra",
+      "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.",
+      "Big Tech has some ‘serious sway’ as investors keep a close pulse on AI",
+      "Investors’ intense focus on artificial intelligence is at times adding to the power of a small club of Big Tech stocks with mega market values to potentially make or break a single trading session for the S&P 500.",
+      "Just this past week, AI chip designer Nvidia’s NVDA second-quarter earnings results and guidance appeared to thrill investors — triggering a 8.7% rally in the company’s shares on Thursday that Dow Jones Market Data calculated as a record $441.5 billion jump in its market value, to $5.49 trillion. As the S&P 500 SPX has outsize weightings in Big Tech companies including Nvidia, the chip giant’s rally propelled the index higher Thursday, even as the average stock underperformed the S&P 500."
+    ],
+    "html": null
+  }
+}
