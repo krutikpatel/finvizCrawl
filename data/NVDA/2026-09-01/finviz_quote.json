@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=NVDA",
+    "fetched_at": "2026-09-01T07:00:35.276039-07:00"
+  },
+  "company": {
+    "name": "NVIDIA Corp",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 217.02,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "DJIA, NDX, S&P 500",
+    "Market Cap": "5230.30B",
+    "Enterprise Value": "5169.79B",
+    "Income": "192.88B",
+    "Sales": "302.97B",
+    "Book/sh": "9.48",
+    "Cash/sh": "4.12",
+    "Dividend Est.": "0.71 (0.33%)",
+    "Dividend TTM": "0.28 (0.13%)",
+    "Dividend Ex-Date": "Sep 10, 2026",
+    "Dividend Gr. 3/5Y": "25.99% 14.87%",
+    "Payout": "0.82%",
+    "Employees": "42000",
+    "IPO": "Jan 22, 1999"
+  },
+  "raw": null
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/4b60aaf2-722d-3cc8-b38f-44cb84d0da85/apple-accuses-openai-of.html",
+    "fetched_at": "2026-09-01T07:00:10.001728-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple accuses OpenAI of destroying evidence in trade secrets case",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple filed a court brief Monday claiming that OpenAI has been destroying evidence in the companies' ongoing trade secrets dispute, and that former Apple engineer Chang Liu incorporated a proprietary Apple circuit schematic into his work after joining OpenAI.\nThe filing, submitted in support of Apple's motion for expedited pretrial fact-finding, centers on a forensic analysis of an Apple-issued MacBook that Liu had been using since leaving the company in January. Apple said OpenAI provided the laptop only after weeks of delay. The analysis found that Liu and others at OpenAI were aware of his continued unauthorized access to Apple's third-party cloud storage providers, according to Bloomberg.\nApple also claims that after Liu learned he was under investigation, he directed OpenAI colleague Yu-Ting Peng in June to destroy evidence, and that Peng agreed to do so. The filing additionally alleges that Liu used a tool at OpenAI that shares a name with an internal Apple engineering application. \"The MacBook represents the very limited information Defendants provided so far (and only after weeks of delay), and shows Apple is not conducting 'fishing expeditions' but that its trade secrets are being used and evidence is being destroyed,\" the filing states.\nOpenAI filed its own brief on Monday, calling the dispute \"a mess of Apple's own making\" and arguing that any Apple documents Liu accessed are irrelevant to his work at OpenAI. The company said Liu opened the files on behalf of Apple employees for Apple work purposes. OpenAI again took aim at Apple's handling of data security and offboarding procedures, and asked the court to limit the scope of any injunction so as not to restrict workers from changing jobs.\nApple has maintained that Liu's post-departure access to its files was the result of his exploitation of an obscure authentication vulnerability that had not been previously identified. OpenAI has responded that the root cause was Apple's own inadequate procedures for revoking system access when workers depart the company.\nThe two companies have been in court since Apple sued OpenAI in July, accusing it and two former employees — Liu and Chief Hardware Officer Tang Yew Tan — of misappropriating trade secrets to advance OpenAI's push into consumer hardware. More than 400 former Apple employees now work at OpenAI, according to the complaint. OpenAI filed a motion to dismiss the case earlier this month, arguing Apple failed to sufficiently describe what it claims as trade secrets or demonstrate it owns protectable intellectual property.\nApple is seeking monetary damages, a preliminary injunction blocking OpenAI from working on hardware based on Apple's technology, and an order requiring the destruction of any proprietary materials. A judge is scheduled to hear arguments on the injunction motion on Oct. 1.",
+    "text_blocks": [
+      "Apple filed a court brief Monday claiming that OpenAI has been destroying evidence in the companies' ongoing trade secrets dispute, and that former Apple engineer Chang Liu incorporated a proprietary Apple circuit schematic into his work after joining OpenAI.",
+      "The filing, submitted in support of Apple's motion for expedited pretrial fact-finding, centers on a forensic analysis of an Apple-issued MacBook that Liu had been using since leaving the company in January. Apple said OpenAI provided the laptop only after weeks of delay. The analysis found that Liu and others at OpenAI were aware of his continued unauthorized access to Apple's third-party cloud storage providers, according to Bloomberg.",
+      "Apple also claims that after Liu learned he was under investigation, he directed OpenAI colleague Yu-Ting Peng in June to destroy evidence, and that Peng agreed to do so. The filing additionally alleges that Liu used a tool at OpenAI that shares a name with an internal Apple engineering application. \"The MacBook represents the very limited information Defendants provided so far (and only after weeks of delay), and shows Apple is not conducting 'fishing expeditions' but that its trade secrets are being used and evidence is being destroyed,\" the filing states.",
+      "OpenAI filed its own brief on Monday, calling the dispute \"a mess of Apple's own making\" and arguing that any Apple documents Liu accessed are irrelevant to his work at OpenAI. The company said Liu opened the files on behalf of Apple employees for Apple work purposes. OpenAI again took aim at Apple's handling of data security and offboarding procedures, and asked the court to limit the scope of any injunction so as not to restrict workers from changing jobs.",
+      "Apple has maintained that Liu's post-departure access to its files was the result of his exploitation of an obscure authentication vulnerability that had not been previously identified. OpenAI has responded that the root cause was Apple's own inadequate procedures for revoking system access when workers depart the company.",
+      "The two companies have been in court since Apple sued OpenAI in July, accusing it and two former employees — Liu and Chief Hardware Officer Tang Yew Tan — of misappropriating trade secrets to advance OpenAI's push into consumer hardware. More than 400 former Apple employees now work at OpenAI, according to the complaint. OpenAI filed a motion to dismiss the case earlier this month, arguing Apple failed to sufficiently describe what it claims as trade secrets or demonstrate it owns protectable intellectual property.",
+      "Apple is seeking monetary damages, a preliminary injunction blocking OpenAI from working on hardware based on Apple's technology, and an order requiring the destruction of any proprietary materials. A judge is scheduled to hear arguments on the injunction motion on Oct. 1."
+    ],
+    "html": null
+  }
+}

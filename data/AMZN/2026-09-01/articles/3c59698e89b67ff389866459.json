@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-cybercab-b9059add?mod=bar_FV",
+    "fetched_at": "2026-09-01T07:00:39.102062-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Drops. Cybercab Hype Is Out of Control. <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Stock Drops. Cybercab Hype Is Out of Control.\nTesla stock started the week with a bang, rising 5.5% on Monday. Investors’ optimism wasn’t easy to explain. The likeliest reason, according to Future Fund co-founder Gary Black, was robo-taxis. Investors are getting more excited about a potential introduction of Tesla’s Cybercab into its fleet of self-driving cabs.",
+    "text_blocks": [
+      "Tesla Stock Drops. Cybercab Hype Is Out of Control.",
+      "Tesla stock started the week with a bang, rising 5.5% on Monday. Investors’ optimism wasn’t easy to explain. The likeliest reason, according to Future Fund co-founder Gary Black, was robo-taxis. Investors are getting more excited about a potential introduction of Tesla’s Cybercab into its fleet of self-driving cabs."
+    ],
+    "html": null
+  }
+}

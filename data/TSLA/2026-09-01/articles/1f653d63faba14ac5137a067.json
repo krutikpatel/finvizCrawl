@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-fans-just-got-122230268.html",
+    "fetched_at": "2026-09-01T07:00:06.366449-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Fans Just Got Good News From Europe",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) posted sharply different registration trends across major European markets in August, with gains in France and Denmark contrasting with declines in Norway and Sweden.\nNew registrations, which provide an indication of vehicle demand, jumped 279% from a year earlier in France and 104% in Denmark. Norway recorded a 79% decline, while registrations in Sweden fell 41%.\nThe uneven performance comes as Tesla works to regain momentum in Europe following two straight years of annual sales declines. Earlier comparisons, higher fuel costs, government support for electric vehicles and broader EV demand have contributed to the recovery this year.\nInvestors are now awaiting August figures from the United Kingdom and Germany, Europe's two largest vehicle markets. Those results could offer a broader indication of whether Tesla's recent European recovery is becoming more consistent across countries.\nThe mixed registration data suggests Tesla's European demand remains uneven, leaving upcoming results from its largest regional markets important for investor sentiment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) posted sharply different registration trends across major European markets in August, with gains in France and Denmark contrasting with declines in Norway and Sweden.",
+      "New registrations, which provide an indication of vehicle demand, jumped 279% from a year earlier in France and 104% in Denmark. Norway recorded a 79% decline, while registrations in Sweden fell 41%.",
+      "The uneven performance comes as Tesla works to regain momentum in Europe following two straight years of annual sales declines. Earlier comparisons, higher fuel costs, government support for electric vehicles and broader EV demand have contributed to the recovery this year.",
+      "Investors are now awaiting August figures from the United Kingdom and Germany, Europe's two largest vehicle markets. Those results could offer a broader indication of whether Tesla's recent European recovery is becoming more consistent across countries.",
+      "The mixed registration data suggests Tesla's European demand remains uneven, leaving upcoming results from its largest regional markets important for investor sentiment."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/3c48d17e-88d8-300d-a626-8d22e15a4537/oracle-cutting-3%2C000-india.html",
+    "fetched_at": "2026-09-01T07:00:23.352106-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle cutting 3,000 India jobs as Microsoft places 500 on PIPs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Economic Times reports that Oracle is eliminating roughly 3,000 positions in India, while Microsoft has moved somewhere between 400 and 500 of its India employees onto performance improvement plans. Both actions reflect a broader industry shift in which tech firms are reorienting their spending and headcount around emerging priorities.\nPareekh Jain, chief executive of market research firm EIIRTrend, said the affected employees amount to around 2% of Microsoft's India headcount, and that the performance improvement plan is being rolled out as part of a worldwide initiative at the company.\nThe Oracle cuts are part of a broader pattern of workforce reductions at the company. Oracle's headcount shrank by 21,000 people, a 13% decline, over the fiscal year ending May 31, bringing its total to approximately 141,000. The company attributed part of that decline to the adoption and deployment of AI technologies and recorded $1.8 billion in restructuring charges for the year under what it designated its 2026 Restructuring Plan, with total anticipated charges of as much as $2.1 billion.\nOracle's reductions have been driven in large part by the financial strain of its AI data center buildout. The company's capital expenditure for fiscal 2026 totaled $55.7 billion, up from $21.2 billion the prior year, resulting in a cash outflow of $23.7 billion more than it generated. To cover those costs, Oracle tapped debt markets for $43 billion and raised an additional $5 billion by selling stock in fiscal 2026.\nThe reductions are broader in scope than Oracle's typical rolling cuts, and some positions being eliminated fall into job categories the company expects to need less of due to AI, though financial pressure from the data center buildout is the primary driver. Oracle declined to comment.\nDespite the cuts, Oracle has continued to point to strong demand for its cloud infrastructure. Co-CEO Clay Magouyrk said on the company's most recent earnings call that customer demand for AI computing capacity has outpaced available supply, citing $553 billion in contracted but unrecognized revenue. Oracle posted 17% revenue growth in fiscal 2026, with its cloud infrastructure segment expanding by 77%.\nOracle stock rose about 5% on the news of the layoffs.",
+    "text_blocks": [
+      "The Economic Times reports that Oracle is eliminating roughly 3,000 positions in India, while Microsoft has moved somewhere between 400 and 500 of its India employees onto performance improvement plans. Both actions reflect a broader industry shift in which tech firms are reorienting their spending and headcount around emerging priorities.",
+      "Pareekh Jain, chief executive of market research firm EIIRTrend, said the affected employees amount to around 2% of Microsoft's India headcount, and that the performance improvement plan is being rolled out as part of a worldwide initiative at the company.",
+      "The Oracle cuts are part of a broader pattern of workforce reductions at the company. Oracle's headcount shrank by 21,000 people, a 13% decline, over the fiscal year ending May 31, bringing its total to approximately 141,000. The company attributed part of that decline to the adoption and deployment of AI technologies and recorded $1.8 billion in restructuring charges for the year under what it designated its 2026 Restructuring Plan, with total anticipated charges of as much as $2.1 billion.",
+      "Oracle's reductions have been driven in large part by the financial strain of its AI data center buildout. The company's capital expenditure for fiscal 2026 totaled $55.7 billion, up from $21.2 billion the prior year, resulting in a cash outflow of $23.7 billion more than it generated. To cover those costs, Oracle tapped debt markets for $43 billion and raised an additional $5 billion by selling stock in fiscal 2026.",
+      "The reductions are broader in scope than Oracle's typical rolling cuts, and some positions being eliminated fall into job categories the company expects to need less of due to AI, though financial pressure from the data center buildout is the primary driver. Oracle declined to comment.",
+      "Despite the cuts, Oracle has continued to point to strong demand for its cloud infrastructure. Co-CEO Clay Magouyrk said on the company's most recent earnings call that customer demand for AI computing capacity has outpaced available supply, citing $553 billion in contracted but unrecognized revenue. Oracle posted 17% revenue growth in fiscal 2026, with its cloud infrastructure segment expanding by 77%.",
+      "Oracle stock rose about 5% on the news of the layoffs."
+    ],
+    "html": null
+  }
+}

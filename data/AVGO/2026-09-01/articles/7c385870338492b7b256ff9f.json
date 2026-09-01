@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/636f0d45-f7ee-380f-af83-17f22f8721c7/the-biggest-risk-to-cerebras.html",
+    "fetched_at": "2026-09-01T07:00:31.298735-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The order book that makes Cerebras look de-risked came from a single deal, and the hyperscaler partnerships meant to broaden it are not yet producing revenue.\nCerebras Systems (CBRS) shares sit at about 58% of their 52-week high after a three-month decline, and the reflex is to weigh that against a $25.4 billion order book and call the selling overdone. The order book is real. It is also the clearest statement of this stock's largest risk, and that risk does not resolve inside calendar 2026.\nOne Contract Built The Order Book\nBy the company's own account, Cerebras entered 2026 having won one of the largest technology deals ever, a contract that created more than $25 billion of remaining performance obligations. The balance stood at $25.4 billion at June 30, 2026, and management said in August that it carries no backlog from AWS or any other hyperscaler. Against raised 2026 core revenue guidance of $880 million to $890 million, that balance is a multi-year total rather than anything calendar 2026 collects; management expects to more than triple annual core revenue in 2027. So the number that reads as safety is also the number that measures the concentration. A backlog resting on one contract is a different proposition from the Trefis High Quality Portfolio, which does not depend on the handful of largest technology names to produce its returns.\nDiversification Revenue Is Dated 2027\nThe cure is a wider customer list, already under construction. Solutions are expected to be generally available through AWS in Q1 2027, and management expects first revenue from hyperscalers to start in mid-2027 and ramp through 2028. The nearest checkpoint is disaggregated inference with GPUs, which management expects deployed and available in Q4 2026; one partnership pairs AMD's racks for prefill with Cerebras for decode. Six deals north of $30 million signed in the June quarter show the customer base widening, but by management's own account revenue from OpenAI will shrink as a share of the total only over time.\nThe Sequential Margin Dip Comes From Renting Its Own Systems Back\nThe nearer pressure is on gross margin, and its cause is operational rather than competitive: to serve fast-inference demand sooner the company is temporarily renting some of its own systems back from cloud customers at a higher cost, which took core gross margin to 40.6% in Q2 2026 from 46.5% in Q1 2026, still about 940 basis points above Q2 2025. Management has guided Q3 2026 core gross margin to 38% to 40% and calls that the low point, and the repair depends on filling new data centers with lower-cost Cerebras-owned systems: more than 600 megawatts is live or under contract, with delivery running to the end of 2027.",
+    "text_blocks": [
+      "The order book that makes Cerebras look de-risked came from a single deal, and the hyperscaler partnerships meant to broaden it are not yet producing revenue.",
+      "Cerebras Systems (CBRS) shares sit at about 58% of their 52-week high after a three-month decline, and the reflex is to weigh that against a $25.4 billion order book and call the selling overdone. The order book is real. It is also the clearest statement of this stock's largest risk, and that risk does not resolve inside calendar 2026.",
+      "One Contract Built The Order Book",
+      "By the company's own account, Cerebras entered 2026 having won one of the largest technology deals ever, a contract that created more than $25 billion of remaining performance obligations. The balance stood at $25.4 billion at June 30, 2026, and management said in August that it carries no backlog from AWS or any other hyperscaler. Against raised 2026 core revenue guidance of $880 million to $890 million, that balance is a multi-year total rather than anything calendar 2026 collects; management expects to more than triple annual core revenue in 2027. So the number that reads as safety is also the number that measures the concentration. A backlog resting on one contract is a different proposition from the Trefis High Quality Portfolio, which does not depend on the handful of largest technology names to produce its returns.",
+      "Diversification Revenue Is Dated 2027",
+      "The cure is a wider customer list, already under construction. Solutions are expected to be generally available through AWS in Q1 2027, and management expects first revenue from hyperscalers to start in mid-2027 and ramp through 2028. The nearest checkpoint is disaggregated inference with GPUs, which management expects deployed and available in Q4 2026; one partnership pairs AMD's racks for prefill with Cerebras for decode. Six deals north of $30 million signed in the June quarter show the customer base widening, but by management's own account revenue from OpenAI will shrink as a share of the total only over time.",
+      "The Sequential Margin Dip Comes From Renting Its Own Systems Back",
+      "The nearer pressure is on gross margin, and its cause is operational rather than competitive: to serve fast-inference demand sooner the company is temporarily renting some of its own systems back from cloud customers at a higher cost, which took core gross margin to 40.6% in Q2 2026 from 46.5% in Q1 2026, still about 940 basis points above Q2 2025. Management has guided Q3 2026 core gross margin to 38% to 40% and calls that the low point, and the repair depends on filling new data centers with lower-cost Cerebras-owned systems: more than 600 megawatts is live or under contract, with delivery running to the end of 2027."
+    ],
+    "html": null
+  }
+}

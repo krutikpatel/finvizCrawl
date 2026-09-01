@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-weighed-escalation-iran-us-manufacturing-pmi-august/card/palo-alto-dell-lead-tuesday-s-earnings-slate-5p4mz6Q0S98eI8fJEGfo?mod=mw_FV",
+    "fetched_at": "2026-09-01T07:00:45.530621-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto, Dell lead Tuesday's earnings slate - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "5 hours ago\nPalo Alto, Dell lead Tuesday's earnings slate\nHere are some of the companies presenting earnings on Tuesday:\nBefore the opening bell.\nMedtronic\nNIO\nSasol\nMiniMed\nRezolve AI\n5 hours ago\nHere are some of the companies presenting earnings on Tuesday:\nBefore the opening bell.\nMedtronic\nNIO\nSasol\nMiniMed\nRezolve AI",
+    "text_blocks": [
+      "5 hours ago",
+      "Palo Alto, Dell lead Tuesday's earnings slate",
+      "Here are some of the companies presenting earnings on Tuesday:",
+      "Before the opening bell.",
+      "Medtronic",
+      "NIO",
+      "Sasol",
+      "MiniMed",
+      "Rezolve AI",
+      "5 hours ago",
+      "Here are some of the companies presenting earnings on Tuesday:",
+      "Before the opening bell.",
+      "Medtronic",
+      "NIO",
+      "Sasol",
+      "MiniMed",
+      "Rezolve AI"
+    ],
+    "html": null
+  }
+}

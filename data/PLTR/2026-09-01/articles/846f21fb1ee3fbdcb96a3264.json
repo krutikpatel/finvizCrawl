@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-leads-tech-stocks-nasdaq-120949654.html",
+    "fetched_at": "2026-09-01T07:00:34.273637-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Leads Tech Stocks as Nasdaq Rebounds",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nThe Nasdaq Composite finished August with a 3.93% gain, recovering from back-to-back monthly declines as technology earnings helped lift sentiment, according to Yahoo Finance market data.\nThe rebound was led by several high-growth names. Palantir Technologies (NASDAQ:PLTR) surged 50% during the month, while Strategy (NASDAQ:MSTR) gained 42%. Space Exploration Technologies (NASDAQ:SPCX) advanced 32%, and Sandisk (NASDAQ:SNDK) rose 29%.\nThe broader market also absorbed renewed uncertainty late in the month. Rising oil prices and fresh U.S.-Iran tensions pressured stocks, while expectations for Federal Reserve policy shifted after hawkish comments from Chair Kevin Warsh. Markets were pricing in more than a 60% probability of a September rate increase.\nAugust's advance followed declines of 3.2% in July and 2.8% in June. Investors now face a potentially tougher backdrop in September as inflation, crude prices, labor-market data and monetary policy remain key market drivers.\nWhat it means for stocks: The Nasdaq enters September with stronger momentum, but higher rate expectations and geopolitical risks could make the next leg of the rally more volatile.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "The Nasdaq Composite finished August with a 3.93% gain, recovering from back-to-back monthly declines as technology earnings helped lift sentiment, according to Yahoo Finance market data.",
+      "The rebound was led by several high-growth names. Palantir Technologies (NASDAQ:PLTR) surged 50% during the month, while Strategy (NASDAQ:MSTR) gained 42%. Space Exploration Technologies (NASDAQ:SPCX) advanced 32%, and Sandisk (NASDAQ:SNDK) rose 29%.",
+      "The broader market also absorbed renewed uncertainty late in the month. Rising oil prices and fresh U.S.-Iran tensions pressured stocks, while expectations for Federal Reserve policy shifted after hawkish comments from Chair Kevin Warsh. Markets were pricing in more than a 60% probability of a September rate increase.",
+      "August's advance followed declines of 3.2% in July and 2.8% in June. Investors now face a potentially tougher backdrop in September as inflation, crude prices, labor-market data and monetary policy remain key market drivers.",
+      "What it means for stocks: The Nasdaq enters September with stronger momentum, but higher rate expectations and geopolitical risks could make the next leg of the rally more volatile."
+    ],
+    "html": null
+  }
+}

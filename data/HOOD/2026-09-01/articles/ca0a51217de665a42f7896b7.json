@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/f92113fb-e8a1-3696-ac69-6fb71d4e57e8/morgan-stanley-upgrades.html",
+    "fetched_at": "2026-09-01T07:00:20.641637-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morgan Stanley upgrades Robinhood stock, raises target to $150",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Morgan Stanley upgraded Robinhood Markets stock to overweight from equal weight on Tuesday, lifting its price target from $124 to $150 — implying 43% upside from Monday's close, according to CNBC.\nThe bank's analyst Michael Cyprys made the case that Robinhood's potential to extract greater revenue from the customers it already has remains undervalued by investors. \"HOOD's expanding platform is turning product velocity into stronger customer economics: more assets, activity and monetization per customer, supporting a longer growth runway than appreciated,\" Cyprys wrote in a note to clients.\nCyprys used prediction markets to illustrate how much earning power Robinhood holds within its roughly 28 million existing users. He noted that the activity was concentrated: a sub-two-million slice of Robinhood's user base drove $156 million in second-quarter prediction-market revenue and, in doing so, began using other parts of the platform as well. The analyst also highlighted Robinhood's derivatives exchange and clearinghouse, called Rothera, as a way for the company to extend its distribution advantage into financial infrastructure and potentially capture revenue from third parties.\nNotably, the upgrade arrived at a moment when cryptocurrency volumes are falling, per MarketWatch. Morgan Stanley's thesis centered on growing assets, increased trading activity, and new product lines rather than crypto-driven gains.\nMorgan Stanley's call aligns with broader Wall Street sentiment on the stock. LSEG data compiled by CNBC shows that 22 of the 28 analysts who cover the stock currently rate it a buy or strong buy. Robinhood stock is roughly flat over the past year.",
+    "text_blocks": [
+      "Morgan Stanley upgraded Robinhood Markets stock to overweight from equal weight on Tuesday, lifting its price target from $124 to $150 — implying 43% upside from Monday's close, according to CNBC.",
+      "The bank's analyst Michael Cyprys made the case that Robinhood's potential to extract greater revenue from the customers it already has remains undervalued by investors. \"HOOD's expanding platform is turning product velocity into stronger customer economics: more assets, activity and monetization per customer, supporting a longer growth runway than appreciated,\" Cyprys wrote in a note to clients.",
+      "Cyprys used prediction markets to illustrate how much earning power Robinhood holds within its roughly 28 million existing users. He noted that the activity was concentrated: a sub-two-million slice of Robinhood's user base drove $156 million in second-quarter prediction-market revenue and, in doing so, began using other parts of the platform as well. The analyst also highlighted Robinhood's derivatives exchange and clearinghouse, called Rothera, as a way for the company to extend its distribution advantage into financial infrastructure and potentially capture revenue from third parties.",
+      "Notably, the upgrade arrived at a moment when cryptocurrency volumes are falling, per MarketWatch. Morgan Stanley's thesis centered on growing assets, increased trading activity, and new product lines rather than crypto-driven gains.",
+      "Morgan Stanley's call aligns with broader Wall Street sentiment on the stock. LSEG data compiled by CNBC shows that 22 of the 28 analysts who cover the stock currently rate it a buy or strong buy. Robinhood stock is roughly flat over the past year."
+    ],
+    "html": null
+  }
+}

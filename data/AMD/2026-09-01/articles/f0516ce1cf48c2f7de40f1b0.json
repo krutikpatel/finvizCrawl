@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-26-million-134844178.html",
+    "fetched_at": "2026-09-01T07:00:43.086016-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood Sold $26 Million of Palantir to Buy These Two Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCathie Wood's ARK Invest announced another major portfolio rotation, pumping more than $50 million into Block and Rocket Lab while cutting Palantir and many other growth stocks.\nThe firm bought 456,059 shares of Block (XYZ, Financials) through certain exchange-traded funds, worth around $38.1 million. ARK also purchased 200,303 shares of Rocket Lab worth about $12.8 million.\nThe purchases are a sign that Wood is continuing to double down on fintech, online assets, and commercial space. The other side of the trade was equally amazing.\nARK liquidated roughly $26 million worth of Palantir shares, dumping 139,456 shares in a recent pullback in its position to the AI software business.\nThe company also sold around $4 million of Advanced Micro Devices, $12.3 million of Shopify and roughly $10.9 million of Tempus AI.\nRocket Lab reported record revenue of $234.1 million for the second quarter, up 62% year over year, but a loss of $0.08 per share that was more than projected.\nThe bigger message to investors is clear: Wood is shifting funds away from some of ARK's best performers and into fintech and space stocks where she seems to see more opportunity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Cathie Wood's ARK Invest announced another major portfolio rotation, pumping more than $50 million into Block and Rocket Lab while cutting Palantir and many other growth stocks.",
+      "The firm bought 456,059 shares of Block (XYZ, Financials) through certain exchange-traded funds, worth around $38.1 million. ARK also purchased 200,303 shares of Rocket Lab worth about $12.8 million.",
+      "The purchases are a sign that Wood is continuing to double down on fintech, online assets, and commercial space. The other side of the trade was equally amazing.",
+      "ARK liquidated roughly $26 million worth of Palantir shares, dumping 139,456 shares in a recent pullback in its position to the AI software business.",
+      "The company also sold around $4 million of Advanced Micro Devices, $12.3 million of Shopify and roughly $10.9 million of Tempus AI.",
+      "Rocket Lab reported record revenue of $234.1 million for the second quarter, up 62% year over year, but a loss of $0.08 per share that was more than projected.",
+      "The bigger message to investors is clear: Wood is shifting funds away from some of ARK's best performers and into fintech and space stocks where she seems to see more opportunity."
+    ],
+    "html": null
+  }
+}

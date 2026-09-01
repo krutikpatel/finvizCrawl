@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/quantum-data-center-ibm-diraq-4ef7729d?mod=bar_FV",
+    "fetched_at": "2026-09-01T07:00:22.885660-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Fresh Off a U.S. Funding Deal, This Quantum Start-Up Is Moving Into Data Centers<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Fresh Off a U.S. Funding Deal, This Quantum Start-Up Is Moving Into Data Centers\nQuantum computing has found its second act after breaking out of the lab: quietly taking up residence in data centers.\nQuantum computing has found its second act after breaking out of the lab: quietly taking up residence in data centers.",
+    "text_blocks": [
+      "Fresh Off a U.S. Funding Deal, This Quantum Start-Up Is Moving Into Data Centers",
+      "Quantum computing has found its second act after breaking out of the lab: quietly taking up residence in data centers.",
+      "Quantum computing has found its second act after breaking out of the lab: quietly taking up residence in data centers."
+    ],
+    "html": null
+  }
+}

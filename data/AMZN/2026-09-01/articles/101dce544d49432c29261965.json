@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-major-investor-dumps-nearly-122312805.html",
+    "fetched_at": "2026-09-01T07:00:39.591436-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Major Investor Dumps Nearly $800,000 in Shares",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon.com (NASDAQ:AMZN) drew fresh attention to shareholder positioning after Capital Investment Services of America trimmed its holding during the second quarter.\nThe investment firm sold 2,975 shares, reducing its position by 2.3% to 126,495 shares. The remaining stake was valued at about $30.1 million at the end of the quarter.\nThe transaction comes as institutional ownership remains high, with funds and other large investors holding about 72.2% of Amazon's shares. Company insiders have also sold 70,589 shares worth roughly $18.3 million over the past 90 days, according to the filing data.\nWall Street remains focused on Amazon's operating growth despite the recent selling. The company's latest quarter produced $200.6 billion in revenue, up 19.6% year over year, while AWS revenue increased 36.7% to $42.2 billion. Amazon also reported $5.75 in quarterly earnings per share, well above the $1.82 analyst estimate.\nThe reduced stake may attract attention, but strong AWS growth and earnings momentum remain key factors supporting the shares.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon.com (NASDAQ:AMZN) drew fresh attention to shareholder positioning after Capital Investment Services of America trimmed its holding during the second quarter.",
+      "The investment firm sold 2,975 shares, reducing its position by 2.3% to 126,495 shares. The remaining stake was valued at about $30.1 million at the end of the quarter.",
+      "The transaction comes as institutional ownership remains high, with funds and other large investors holding about 72.2% of Amazon's shares. Company insiders have also sold 70,589 shares worth roughly $18.3 million over the past 90 days, according to the filing data.",
+      "Wall Street remains focused on Amazon's operating growth despite the recent selling. The company's latest quarter produced $200.6 billion in revenue, up 19.6% year over year, while AWS revenue increased 36.7% to $42.2 billion. Amazon also reported $5.75 in quarterly earnings per share, well above the $1.82 analyst estimate.",
+      "The reduced stake may attract attention, but strong AWS growth and earnings momentum remain key factors supporting the shares."
+    ],
+    "html": null
+  }
+}

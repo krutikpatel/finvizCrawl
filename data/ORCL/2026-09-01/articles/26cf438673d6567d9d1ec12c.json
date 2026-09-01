@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a11a3dcd-1f64-3cc5-88b9-a8982db0813c/can-msft-stock-compound-its.html",
+    "fetched_at": "2026-09-01T07:00:23.305299-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Can MSFT Stock Compound Its Way Higher?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Beyond the headlines, Microsoft has quietly signed up over 30 million paid seats for its Microsoft 365 Copilot. This rapid adoption is not just an extension of its existing software business. It marks a fundamental pivot in how the company monetizes its core enterprise relationships, moving toward a consumption-based model.\nThis shift from per-seat licenses to a hybrid model is designed to capture value from actual usage, not just access. The company sees this as a way of expanding its total addressable market, making revenue the primary engine for upside.\nThat's the story. The cleanest way to interrogate it is to break the 3-year stock move in Microsoft (MSFT) into the three things that can drive it: revenue compounding, net margin trajectory, and the multiple itself. Then look at which one is doing the heavy lifting under conservative assumptions.\nThe Three Levers Of Upside\nToday's price is paying for some combination of these three. Under our conservative calibration:\n-\nRevenue compounding at 15.1% annually. Top line moves from $331.8B to $506.3B. Standalone contribution to the price move: 53%.\n-\nNet margin eases from 40% to 39%. Standalone contribution: -2.6%.\n-\nP/E multiple is held flat at today's 28.5x by assumption, so it contributes nothing to the target by construction. Standalone contribution: 0.0%.\nMultiplied through, the three combine to roughly 49% of upside over three years. Before we stress each one, here is the picture they are operating on top of:\n*LTM: Last Twelve Months\nWhat Happens To Upside If The Levers Change?\nThe base case lands at 49%. Soften revenue compounding by 200 basis points, so the top line grows at 13.1% instead of 15.1%, and the upside slides toward 41%. Let net margin give back to the 3-year average of 37%, below the 39% the base case holds, and it lands closer to 39%. And stretching the horizon from 3 years to 5 lifts the upside to 97%, with the math compounding in the patient investor's favor. If the valuation multiple expands toward its 3-year average of 31.6x rather than remaining flat at 28.5x, projected upside increases from 49% to approximately 65%.\nWhat Could Tilt The Levers Higher\nWhether the new Microsoft Frontier Co. services arm can accelerate AI revenue fast enough to absorb the guided structural decline in the Windows business remains the key variable to watch.",
+    "text_blocks": [
+      "Beyond the headlines, Microsoft has quietly signed up over 30 million paid seats for its Microsoft 365 Copilot. This rapid adoption is not just an extension of its existing software business. It marks a fundamental pivot in how the company monetizes its core enterprise relationships, moving toward a consumption-based model.",
+      "This shift from per-seat licenses to a hybrid model is designed to capture value from actual usage, not just access. The company sees this as a way of expanding its total addressable market, making revenue the primary engine for upside.",
+      "That's the story. The cleanest way to interrogate it is to break the 3-year stock move in Microsoft (MSFT) into the three things that can drive it: revenue compounding, net margin trajectory, and the multiple itself. Then look at which one is doing the heavy lifting under conservative assumptions.",
+      "The Three Levers Of Upside",
+      "Today's price is paying for some combination of these three. Under our conservative calibration:",
+      "-",
+      "Revenue compounding at 15.1% annually. Top line moves from $331.8B to $506.3B. Standalone contribution to the price move: 53%.",
+      "-",
+      "Net margin eases from 40% to 39%. Standalone contribution: -2.6%.",
+      "-",
+      "P/E multiple is held flat at today's 28.5x by assumption, so it contributes nothing to the target by construction. Standalone contribution: 0.0%.",
+      "Multiplied through, the three combine to roughly 49% of upside over three years. Before we stress each one, here is the picture they are operating on top of:",
+      "*LTM: Last Twelve Months",
+      "What Happens To Upside If The Levers Change?",
+      "The base case lands at 49%. Soften revenue compounding by 200 basis points, so the top line grows at 13.1% instead of 15.1%, and the upside slides toward 41%. Let net margin give back to the 3-year average of 37%, below the 39% the base case holds, and it lands closer to 39%. And stretching the horizon from 3 years to 5 lifts the upside to 97%, with the math compounding in the patient investor's favor. If the valuation multiple expands toward its 3-year average of 31.6x rather than remaining flat at 28.5x, projected upside increases from 49% to approximately 65%.",
+      "What Could Tilt The Levers Higher",
+      "Whether the new Microsoft Frontier Co. services arm can accelerate AI revenue fast enough to absorb the guided structural decline in the Windows business remains the key variable to watch."
+    ],
+    "html": null
+  }
+}

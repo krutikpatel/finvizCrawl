@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-soars-robotaxi-event-120855234.html",
+    "fetched_at": "2026-09-01T07:00:06.204092-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Soars. Robotaxi Event Could Be the Next Big Catalyst",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) shares jumped about 5.5% Monday as the stock moved above its 50-day moving average, with investors turning their attention to an upcoming robotaxi event scheduled for Sept. 3.\nThe stock reached $367 during the session before giving back part of the advance.\nThe move comes as expectations build around the Cybercab, Tesla's purpose-built vehicle for autonomous ride-hailing. The two-seat model is designed around driverless operation and is expected to use wireless charging, a feature that could fit autonomous fleet operations.\nInvestors are also weighing Tesla's wider push into autonomy, energy storage and humanoid robotics. The combination has helped shift attention beyond the company's traditional vehicle business, although expectations for these newer ventures remain a major factor in the stock's valuation.\nThe Sept. 3 event could therefore become an important near-term test for the autonomy narrative. Recent market commentary has highlighted both the potential for robotaxi expansion and concerns about whether future profits from these businesses are already reflected in the share price.\nThe upcoming Cybercab event could drive further volatility as investors look for evidence that Tesla can turn its autonomous-driving strategy into a scalable business.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) shares jumped about 5.5% Monday as the stock moved above its 50-day moving average, with investors turning their attention to an upcoming robotaxi event scheduled for Sept. 3.",
+      "The stock reached $367 during the session before giving back part of the advance.",
+      "The move comes as expectations build around the Cybercab, Tesla's purpose-built vehicle for autonomous ride-hailing. The two-seat model is designed around driverless operation and is expected to use wireless charging, a feature that could fit autonomous fleet operations.",
+      "Investors are also weighing Tesla's wider push into autonomy, energy storage and humanoid robotics. The combination has helped shift attention beyond the company's traditional vehicle business, although expectations for these newer ventures remain a major factor in the stock's valuation.",
+      "The Sept. 3 event could therefore become an important near-term test for the autonomy narrative. Recent market commentary has highlighted both the potential for robotaxi expansion and concerns about whether future profits from these businesses are already reflected in the share price.",
+      "The upcoming Cybercab event could drive further volatility as investors look for evidence that Tesla can turn its autonomous-driving strategy into a scalable business."
+    ],
+    "html": null
+  }
+}

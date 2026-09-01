@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6083605f-1923-3b86-9227-4cb859594662/dow-futures-fall-240-points.html",
+    "fetched_at": "2026-09-01T07:00:15.900183-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dow futures fall 240 points as bond yields, oil prices rise",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "U.S. stock futures fell Tuesday as rising oil prices and a global bond selloff pushed yields higher, stoking concerns about inflation and potential Federal Reserve action.\nThe Dow Jones Industrial Average futures were off 240 points, or 0.5%, with S&P 500 futures also losing 0.5% and Nasdaq-100 futures retreating close to 1%.\nTechnology shares came under broad pressure. Nvidia, AMD, and Micron each declined over 1%, while Microsoft dropped 1% and Google parent Alphabet gave back 0.6%.\nBond yields climbed in markets around the world. The U.S. 10-year Treasury yield rose to levels last seen in January 2025. Japan's 10-year government bond yield reached 3%, its highest level since 1996, according to The Wall Street Journal. Germany's benchmark yield also touched a 2011 high.\nA report in the Nikkei business daily flagged that Japan may be heading toward a record-breaking budget, deepening anxieties over the country's fiscal trajectory, according to The Wall Street Journal. Treasury Secretary Scott Bessent, speaking to CNBC, said he anticipates Japan will act to shore up the yen, a signal that markets read as pointing toward a potential rate increase in Tokyo.\nOil prices also climbed. West Texas Intermediate crude jumped more than 2%, reaching $87.81 a barrel, while Brent futures advanced 1.8% to $92.15. The gains came after the U.S. and Iranian militaries clashed over the weekend.\nTraders at Goldman Sachs pointed to a broadly cautious mood among investors. \"The market is exhibiting signs of nervousness across a myriad of indicators,\" they wrote, citing new American Association of Individual Investors Sentiment Survey data. \"This attitude toward risk is not just theoretical, investors are quite literally putting their money where their mouth is in terms of portfolio risk allocations.\"\nAsian markets ended the session with mixed results. Tokyo's Nikkei 225 slipped 0.15% and China's CSI 300 lost 0.30%, while Australia's S&P/ASX 200 edged down 0.10% and South Korea's Kospi bucked the trend with a 0.23% gain. In Europe, the pan-regional Stoxx 600 was trading 0.6% lower by mid-morning, though oil and gas stocks stood out as a bright spot, advancing 1.3% alongside rising crude prices.\nSeptember has historically been a weak month for equities, adding to the cautious tone heading into Tuesday's session.",
+    "text_blocks": [
+      "U.S. stock futures fell Tuesday as rising oil prices and a global bond selloff pushed yields higher, stoking concerns about inflation and potential Federal Reserve action.",
+      "The Dow Jones Industrial Average futures were off 240 points, or 0.5%, with S&P 500 futures also losing 0.5% and Nasdaq-100 futures retreating close to 1%.",
+      "Technology shares came under broad pressure. Nvidia, AMD, and Micron each declined over 1%, while Microsoft dropped 1% and Google parent Alphabet gave back 0.6%.",
+      "Bond yields climbed in markets around the world. The U.S. 10-year Treasury yield rose to levels last seen in January 2025. Japan's 10-year government bond yield reached 3%, its highest level since 1996, according to The Wall Street Journal. Germany's benchmark yield also touched a 2011 high.",
+      "A report in the Nikkei business daily flagged that Japan may be heading toward a record-breaking budget, deepening anxieties over the country's fiscal trajectory, according to The Wall Street Journal. Treasury Secretary Scott Bessent, speaking to CNBC, said he anticipates Japan will act to shore up the yen, a signal that markets read as pointing toward a potential rate increase in Tokyo.",
+      "Oil prices also climbed. West Texas Intermediate crude jumped more than 2%, reaching $87.81 a barrel, while Brent futures advanced 1.8% to $92.15. The gains came after the U.S. and Iranian militaries clashed over the weekend.",
+      "Traders at Goldman Sachs pointed to a broadly cautious mood among investors. \"The market is exhibiting signs of nervousness across a myriad of indicators,\" they wrote, citing new American Association of Individual Investors Sentiment Survey data. \"This attitude toward risk is not just theoretical, investors are quite literally putting their money where their mouth is in terms of portfolio risk allocations.\"",
+      "Asian markets ended the session with mixed results. Tokyo's Nikkei 225 slipped 0.15% and China's CSI 300 lost 0.30%, while Australia's S&P/ASX 200 edged down 0.10% and South Korea's Kospi bucked the trend with a 0.23% gain. In Europe, the pan-regional Stoxx 600 was trading 0.6% lower by mid-morning, though oil and gas stocks stood out as a bright spot, advancing 1.3% alongside rising crude prices.",
+      "September has historically been a weak month for equities, adding to the cautious tone heading into Tuesday's session."
+    ],
+    "html": null
+  }
+}

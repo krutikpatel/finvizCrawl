@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=GOOG",
+    "fetched_at": "2026-09-01T07:00:24.231528-07:00"
+  },
+  "company": {
+    "name": "Alphabet Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 332.9,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "4097.64B",
+    "Enterprise Value": "3990.54B",
+    "Income": "244.12B",
+    "Sales": "446.31B",
+    "Book/sh": "50.90",
+    "Cash/sh": "19.70",
+    "Dividend Est.": "0.80 (0.24%)",
+    "Dividend TTM": "0.85 (0.26%)",
+    "Dividend Ex-Date": "Sep 04, 2026",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "7.68%",
+    "Employees": "190820",
+    "IPO": "Mar 27, 2014"
+  },
+  "raw": null
+}

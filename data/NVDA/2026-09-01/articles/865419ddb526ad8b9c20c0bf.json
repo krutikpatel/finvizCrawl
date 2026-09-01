@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/nvidia-corp-caterpillar-share-losses-lead-dow-s-nearly-225-point-fall-3f2a9ae5-b08370521396?mod=mw_FV",
+    "fetched_at": "2026-09-01T07:00:36.554084-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NVIDIA Corp., Caterpillar share losses lead Dow's nearly 225-point fall - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nNVIDIA Corp., Caterpillar share losses lead Dow's nearly 225-point fall\nThe Dow Jones Industrial Average is trading down Tuesday morning with shares of NVIDIA Corp. and Caterpillar seeing the biggest losses for the blue-chip average.\nThe Dow Dow Jones Industrial Average was most recently trading 224 points, or 0.4%, lower, as shares of NVIDIA Corp. NVIDIA Corp. and Caterpillar Caterpillar Inc. have contributed to the blue-chip gauge's intraday decline.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "NVIDIA Corp., Caterpillar share losses lead Dow's nearly 225-point fall",
+      "The Dow Jones Industrial Average is trading down Tuesday morning with shares of NVIDIA Corp. and Caterpillar seeing the biggest losses for the blue-chip average.",
+      "The Dow Dow Jones Industrial Average was most recently trading 224 points, or 0.4%, lower, as shares of NVIDIA Corp. NVIDIA Corp. and Caterpillar Caterpillar Inc. have contributed to the blue-chip gauge's intraday decline.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

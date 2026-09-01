@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/6083605f-1923-3b86-9227-4cb859594662/dow-futures-fall-240-points.html",
+    "fetched_at": "2026-09-01T07:00:26.029095-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dow drops 363 points as bond yields surge on inflation fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "U.S. stocks fell Tuesday as rising oil prices stoked inflation fears and drove bond yields to multiyear highs around the world, adding uncertainty about whether the Federal Reserve will raise interest rates at its meeting later this month.\nThe Dow Jones Industrial Average dropped 363 points, or 0.7%. The S&P 500 declined by the same margin, and the Nasdaq Composite slid 1.3%.\nTechnology shares dragged on equities broadly. Nvidia, Advanced Micro Devices, and Micron Technology each dropped roughly 2%, and both Microsoft and Alphabet finished the session down more than 1%.\nThe U.S. 10-year Treasury yield climbed to its highest level since January 2025. Japan's 10-year yield reached 3%, its highest since 1996, while Germany's benchmark yield rose to a level last seen in 2011. Bond yields also rose to multiyear highs in France.\nU.S. crude climbed more than 2% on the session, topping $88 a barrel, while Brent futures advanced by a similar margin to trade near $92.\nRising yields reflect investor anxiety that persistently high oil prices could keep inflation elevated and prompt central banks to tighten policy further. The Fed's next policy decision is roughly two weeks away, and the seasonal backdrop offers little comfort given stocks' long track record of weakness in September.\nTensions in the Middle East contributed to the oil price climb. A tanker transiting the Strait of Hormuz was struck by three projectiles of unknown origin on Monday. President Donald Trump signaled retaliation over Iran's recent attacks on U.S. military installations in the area, stating on Fox News Monday that \"we are going to hit them hard.\"\n\"The market is exhibiting signs of nervousness across myriad of indicators,\" traders at Goldman Sachs wrote, pointing to new American Association of Individual Investors Sentiment Survey data. \"This attitude toward risk is not just theoretical, investors are quite literally putting their money where their mouth is in terms of portfolio risk allocations.\"\nThe Wall Street Journal also pointed to structural pressures on bond markets beyond the geopolitical backdrop, including widening government budget gaps globally, heavier issuance from corporate borrowers competing for capital, and Fed Chairman Kevin Warsh's preference for keeping future policy intentions opaque.",
+    "text_blocks": [
+      "U.S. stocks fell Tuesday as rising oil prices stoked inflation fears and drove bond yields to multiyear highs around the world, adding uncertainty about whether the Federal Reserve will raise interest rates at its meeting later this month.",
+      "The Dow Jones Industrial Average dropped 363 points, or 0.7%. The S&P 500 declined by the same margin, and the Nasdaq Composite slid 1.3%.",
+      "Technology shares dragged on equities broadly. Nvidia, Advanced Micro Devices, and Micron Technology each dropped roughly 2%, and both Microsoft and Alphabet finished the session down more than 1%.",
+      "The U.S. 10-year Treasury yield climbed to its highest level since January 2025. Japan's 10-year yield reached 3%, its highest since 1996, while Germany's benchmark yield rose to a level last seen in 2011. Bond yields also rose to multiyear highs in France.",
+      "U.S. crude climbed more than 2% on the session, topping $88 a barrel, while Brent futures advanced by a similar margin to trade near $92.",
+      "Rising yields reflect investor anxiety that persistently high oil prices could keep inflation elevated and prompt central banks to tighten policy further. The Fed's next policy decision is roughly two weeks away, and the seasonal backdrop offers little comfort given stocks' long track record of weakness in September.",
+      "Tensions in the Middle East contributed to the oil price climb. A tanker transiting the Strait of Hormuz was struck by three projectiles of unknown origin on Monday. President Donald Trump signaled retaliation over Iran's recent attacks on U.S. military installations in the area, stating on Fox News Monday that \"we are going to hit them hard.\"",
+      "\"The market is exhibiting signs of nervousness across myriad of indicators,\" traders at Goldman Sachs wrote, pointing to new American Association of Individual Investors Sentiment Survey data. \"This attitude toward risk is not just theoretical, investors are quite literally putting their money where their mouth is in terms of portfolio risk allocations.\"",
+      "The Wall Street Journal also pointed to structural pressures on bond markets beyond the geopolitical backdrop, including widening government budget gaps globally, heavier issuance from corporate borrowers competing for capital, and Fed Chairman Kevin Warsh's preference for keeping future policy intentions opaque."
+    ],
+    "html": null
+  }
+}

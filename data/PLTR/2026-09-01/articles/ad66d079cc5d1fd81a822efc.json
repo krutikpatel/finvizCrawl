@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-bullish-palantir-stock-020639623.html",
+    "fetched_at": "2026-09-01T07:00:34.173555-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Analysts Are Bullish on Palantir Stock?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) kept a bullish Wall Street call Monday after Baird left its Outperform rating and $200 target unchanged.\nThe view followed a technology demonstration attended by Baird analyst William Power, who pointed to Palantir's software platform as a potential advantage as companies adopt agent-based AI tools. He also cited opportunities tied to open-weight models and government-led AI projects.\nThe analyst's stance comes after Palantir reported second-quarter revenue of $1.94 billion, an increase of 93% from a year earlier. Adjusted earnings were 41 cents per share, while U.S. commercial sales climbed 149% to $764 million. The company raised its 2026 revenue forecast to $8.15 billion to $8.16 billion.\nOther analysts have also lifted targets in recent weeks. UBS raised its view to $220, Mizuho to $215 and Citigroup to $245, while Deutsche Bank moved to a Buy rating with a $200 target.\nBaird's stance keeps attention on Palantir's ability to convert rising AI adoption into sustained commercial and government growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) kept a bullish Wall Street call Monday after Baird left its Outperform rating and $200 target unchanged.",
+      "The view followed a technology demonstration attended by Baird analyst William Power, who pointed to Palantir's software platform as a potential advantage as companies adopt agent-based AI tools. He also cited opportunities tied to open-weight models and government-led AI projects.",
+      "The analyst's stance comes after Palantir reported second-quarter revenue of $1.94 billion, an increase of 93% from a year earlier. Adjusted earnings were 41 cents per share, while U.S. commercial sales climbed 149% to $764 million. The company raised its 2026 revenue forecast to $8.15 billion to $8.16 billion.",
+      "Other analysts have also lifted targets in recent weeks. UBS raised its view to $220, Mizuho to $215 and Citigroup to $245, while Deutsche Bank moved to a Buy rating with a $200 target.",
+      "Baird's stance keeps attention on Palantir's ability to convert rising AI adoption into sustained commercial and government growth."
+    ],
+    "html": null
+  }
+}
