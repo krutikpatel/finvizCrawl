@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/teslas-fsd-faces-fresh-scrutiny-123601899.html",
+    "fetched_at": "2026-09-02T07:00:06.854030-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla's FSD Faces Fresh Scrutiny After Fatal Illinois Crash",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla Inc. (TSLA, Financials) gets another tough question about Full Self-Driving after a study tied the technology to a deadly accident in Illinois.\nElectrek has uncovered a crash involving a Tesla Model Y that killed a mother of five in March, which was purportedly running Full Self-Driving at the time.\nSeeking Alpha cited the results of the probe along with a police report from Batavia, Ill. The report on its own does not prove that FSD caused the crash.\nThat's an important difference because Tesla's Full Self-Driving system remains a supervised driver-assistance device, meaning the driver must monitor the vehicle at all times and take over when needed.\nStill, the alleged engagement shines extra emphasis on the technology at a time when autonomy has been more and more vital to Tesla's investment story.\nThe business has long contended that advances in its software and artificial intelligence (AI) systems might one day make its massive vehicle fleet a crucial platform for autonomous driving.\nThis means fatal crashes involving vehicles being operated with FSD could have repercussions far beyond the individual crash, particularly if they receive further regulatory or legal scrutiny.\nInvestors will now await official conclusions into what transpired and whether Tesla's driver-assistance technology had any involvement.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla Inc. (TSLA, Financials) gets another tough question about Full Self-Driving after a study tied the technology to a deadly accident in Illinois.",
+      "Electrek has uncovered a crash involving a Tesla Model Y that killed a mother of five in March, which was purportedly running Full Self-Driving at the time.",
+      "Seeking Alpha cited the results of the probe along with a police report from Batavia, Ill. The report on its own does not prove that FSD caused the crash.",
+      "That's an important difference because Tesla's Full Self-Driving system remains a supervised driver-assistance device, meaning the driver must monitor the vehicle at all times and take over when needed.",
+      "Still, the alleged engagement shines extra emphasis on the technology at a time when autonomy has been more and more vital to Tesla's investment story.",
+      "The business has long contended that advances in its software and artificial intelligence (AI) systems might one day make its massive vehicle fleet a crucial platform for autonomous driving.",
+      "This means fatal crashes involving vehicles being operated with FSD could have repercussions far beyond the individual crash, particularly if they receive further regulatory or legal scrutiny.",
+      "Investors will now await official conclusions into what transpired and whether Tesla's driver-assistance technology had any involvement."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html",
+    "fetched_at": "2026-09-02T07:00:53.171485-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia (NVDA) is investing $3.5 billion in Taiwanese AI chip designer Mediatek (2454.TW). Yahoo Finance Senior Business Reporter Ines Ferré explains why this deal is a particularly crucial element of Nvidia's larger AI strategy.\nNvidia has been putting its cash to work, announcing a $3.5 billion deal with Taiwanese chip designer MediaTek. It's the largest investment the AI chip giant is making in a company abroad. And Inez Verrey is here with more on why such an agreement is important for Nvidia. Inez.\nJosh, if you're trying to figure out what Nvidia is doing here, don't look at this so much as a simple hardware deal. Look at it more like Nvidia making sure that it stays really in the loop when it comes to the revenue, even as hyperscalers build out their own custom AI chips. Right now, hyperscalers like Amazon, Google, Microsoft, and Meta, they're spending billions designing their own chips or XPUs to reduce their reliance really on Nvidia's GPUs.\nBut Nvidia isn't just fighting that trend, they're trying to profit from it, monetize from it. The MediaTek deal matters. This is because it will be designing chips using Nvidia's platform that's called NVLink Fusion. That means that custom AI chips or XPUs can plug directly into Nvidia's server racks, keeping those custom chips inside the ecosystem.\nSo, in other words, Nvidia is learning to really monetize from this competition, and this is really part of a bigger strategy. During its most recent earnings call, the company said that it had earmarked roughly 18 billion dollars for deals involving AI model developers, custom chip partners, infrastructure financing, power and software. And Nvidia has already put money into energy and infrastructure, into deals like OpenAI and Anthropic, custom Silicon partners, you've got the MediaTek and also Marvell, also an investment in Intel.\nSo the bigger Nvidia bet may not be about making sure that every customer buys an Nvidia GPU. It's making sure that whatever chip customers choose, Nvidia is still part of the system around it. The customers build the chip, Nvidia builds the entire ecosystem. Josh.\nAll right. Thank you, Inez.\nThank you.",
+    "text_blocks": [
+      "Nvidia (NVDA) is investing $3.5 billion in Taiwanese AI chip designer Mediatek (2454.TW). Yahoo Finance Senior Business Reporter Ines Ferré explains why this deal is a particularly crucial element of Nvidia's larger AI strategy.",
+      "Nvidia has been putting its cash to work, announcing a $3.5 billion deal with Taiwanese chip designer MediaTek. It's the largest investment the AI chip giant is making in a company abroad. And Inez Verrey is here with more on why such an agreement is important for Nvidia. Inez.",
+      "Josh, if you're trying to figure out what Nvidia is doing here, don't look at this so much as a simple hardware deal. Look at it more like Nvidia making sure that it stays really in the loop when it comes to the revenue, even as hyperscalers build out their own custom AI chips. Right now, hyperscalers like Amazon, Google, Microsoft, and Meta, they're spending billions designing their own chips or XPUs to reduce their reliance really on Nvidia's GPUs.",
+      "But Nvidia isn't just fighting that trend, they're trying to profit from it, monetize from it. The MediaTek deal matters. This is because it will be designing chips using Nvidia's platform that's called NVLink Fusion. That means that custom AI chips or XPUs can plug directly into Nvidia's server racks, keeping those custom chips inside the ecosystem.",
+      "So, in other words, Nvidia is learning to really monetize from this competition, and this is really part of a bigger strategy. During its most recent earnings call, the company said that it had earmarked roughly 18 billion dollars for deals involving AI model developers, custom chip partners, infrastructure financing, power and software. And Nvidia has already put money into energy and infrastructure, into deals like OpenAI and Anthropic, custom Silicon partners, you've got the MediaTek and also Marvell, also an investment in Intel.",
+      "So the bigger Nvidia bet may not be about making sure that every customer buys an Nvidia GPU. It's making sure that whatever chip customers choose, Nvidia is still part of the system around it. The customers build the chip, Nvidia builds the entire ecosystem. Josh.",
+      "All right. Thank you, Inez.",
+      "Thank you."
+    ],
+    "html": null
+  }
+}

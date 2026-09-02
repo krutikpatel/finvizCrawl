@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-ai-short-bets-120839277.html",
+    "fetched_at": "2026-09-02T07:00:24.699555-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry AI Short Bets Get Crushed as Palantir, Nvidia, Micron Soar",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMichael Burry (Trades, Portfolio)'s trades ran into a difficult stretch in August, with several bearish positions losing ground as the underlying stocks advanced, according to a Tuesday portfolio report.\nPalantir Technologies ([PLTR]) delivered the largest move against Burry's positioning, rising more than 50% during the month. The investor had positioned for a decline using put options.\nOther short exposures also moved higher. Nvidia (NASDAQ:NVDA) gained 10%, while Micron Technology (NASDAQ:MU) climbed 16.49%. Oracle (NYSE:ORCL) rose 14.8%, CoreWeave (CRWV) added 18% and Nebius (NASDAQ:NBIS) increased 8%.\nThese moves put pressure on several Burry bearish positions while rewarding some of his long selections.\nThe August performance shows how quickly contrarian trades can move against an investor when momentum remains strong in the targeted stocks.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Michael Burry (Trades, Portfolio)'s trades ran into a difficult stretch in August, with several bearish positions losing ground as the underlying stocks advanced, according to a Tuesday portfolio report.",
+      "Palantir Technologies ([PLTR]) delivered the largest move against Burry's positioning, rising more than 50% during the month. The investor had positioned for a decline using put options.",
+      "Other short exposures also moved higher. Nvidia (NASDAQ:NVDA) gained 10%, while Micron Technology (NASDAQ:MU) climbed 16.49%. Oracle (NYSE:ORCL) rose 14.8%, CoreWeave (CRWV) added 18% and Nebius (NASDAQ:NBIS) increased 8%.",
+      "These moves put pressure on several Burry bearish positions while rewarding some of his long selections.",
+      "The August performance shows how quickly contrarian trades can move against an investor when momentum remains strong in the targeted stocks."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/ai-powered-scams-retirees-savings-elder-fraud-6f440c54?mod=bar_FV",
+    "fetched_at": "2026-09-02T07:00:42.296927-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How AI-Powered Scams Are Wiping Out Retirees’ Savings—and How to Protect Yourself<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "AI Is Turbocharging Romance Scams and Draining Retirement Savings\nArtificial intelligence is making it easier to be an online swindler. Everyone is at risk, particularly the elderly.\nPamela, a 63-year-old New Englander, joined an online dating platform after her daughter suggested she might meet someone to bring to her wedding the following year. After a couple months, Pamela found a message from a wholesome-looking man who said all the right things.",
+    "text_blocks": [
+      "AI Is Turbocharging Romance Scams and Draining Retirement Savings",
+      "Artificial intelligence is making it easier to be an online swindler. Everyone is at risk, particularly the elderly.",
+      "Pamela, a 63-year-old New Englander, joined an online dating platform after her daughter suggested she might meet someone to bring to her wedding the following year. After a couple months, Pamela found a message from a wholesome-looking man who said all the right things."
+    ],
+    "html": null
+  }
+}

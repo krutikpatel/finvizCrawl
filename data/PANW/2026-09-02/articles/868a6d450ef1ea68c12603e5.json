@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/palo-alto-networks-earnings-beat-ai-security-090226",
+    "fetched_at": "2026-09-02T07:00:47.662202-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/palo-alto-networks-earnings-beat-ai-security-090226",
+      "context": {
+        "url": "https://qz.com/palo-alto-networks-earnings-beat-ai-security-090226"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

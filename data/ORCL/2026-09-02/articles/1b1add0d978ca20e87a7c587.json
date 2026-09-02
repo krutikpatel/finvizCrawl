@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-slides-4-1-cowen-201017168.html",
+    "fetched_at": "2026-09-02T07:00:24.730376-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Slides 4.1% as Cowen Cuts Target Despite $638 Billion Backlog",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL), the enterprise-software and AI cloud giant, tumbled approximately 4.1% to $142.995 Tuesday after TD Cowen chopped its price target from $300 to $240. The firm kept its Buy rating, but the message was clear: Oracle's October analyst meeting must deliver convincing cloud-growth targets and a credible path through its massive AI spending cycle.\nThe numbers are hugeand so is the bill. Oracle's fiscal 2026 revenue jumped 17% to $67.4 billion, while cloud-infrastructure revenue soared 77% to $18.1 billion. Remaining performance obligations exploded to $638 billion. Yet free cash flow sank to negative $23.7 billion as Oracle raced to build the data-center capacity required to serve that demand.\nCowen's reduced $240 target still points to approximately 67.8% upside from $142.995. The picture adds another valuation signal: the shares trade 26.15% below their $193.64 GF Value estimate. Oracle has already won an extraordinary pipeline equal to roughly 9.5 times annual revenue. Now comes the harder partturning that backlog into profit before cash burn, debt and potential dilution weaken the investment case.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL), the enterprise-software and AI cloud giant, tumbled approximately 4.1% to $142.995 Tuesday after TD Cowen chopped its price target from $300 to $240. The firm kept its Buy rating, but the message was clear: Oracle's October analyst meeting must deliver convincing cloud-growth targets and a credible path through its massive AI spending cycle.",
+      "The numbers are hugeand so is the bill. Oracle's fiscal 2026 revenue jumped 17% to $67.4 billion, while cloud-infrastructure revenue soared 77% to $18.1 billion. Remaining performance obligations exploded to $638 billion. Yet free cash flow sank to negative $23.7 billion as Oracle raced to build the data-center capacity required to serve that demand.",
+      "Cowen's reduced $240 target still points to approximately 67.8% upside from $142.995. The picture adds another valuation signal: the shares trade 26.15% below their $193.64 GF Value estimate. Oracle has already won an extraordinary pipeline equal to roughly 9.5 times annual revenue. Now comes the harder partturning that backlog into profit before cash burn, debt and potential dilution weaken the investment case."
+    ],
+    "html": null
+  }
+}

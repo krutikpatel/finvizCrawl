@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/98022a8e-a343-3baa-bed5-015689dc9605/palo-alto-networks-earnings.html",
+    "fetched_at": "2026-09-02T07:00:48.292924-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palo Alto Networks beat fiscal fourth-quarter estimates on Tuesday and issued a strong outlook for its new fiscal year, with CEO Nikesh Arora arguing that roughly $1 trillion in aging cybersecurity infrastructure must be replaced to defend against AI-powered threats.\n\"There's approximately $1 trillion of global cybersecurity debt that must be modernized to defend against automated threats because they operate instantaneously,\" Arora said on the company's earnings call. \"Nothing that was deployed seven or 10 years ago is prepared or ready to handle AI at machine speed.\"\nIn a separate interview with CNBC's Jim Cramer on \"Mad Money,\" Arora made clear that security modernization is a prerequisite for any AI ambitions. \"You cannot deploy AI successfully if you don't get cybersecurity right,\" he said. \"You have to rethink your cyber architecture.\"\nThe argument represents a notable turnaround in market thinking about AI and cybersecurity. Shares of Palo Alto Networks and peers had sold off earlier in the year amid concern that more advanced AI tools would render conventional security software obsolete, but sentiment shifted once investors grasped that threat actors could harness the same capabilities. The stock has climbed 113% since April 7.\nArora identified the arrival of Anthropic's Mythos model as the moment that changed corporate attitudes, saying its capacity to be used against software vulnerabilities jolted organizations into treating security as a priority. \"I've been trying for eight years to tell customers they're not ready, and [Anthropic CEO Dario Amodei] did it in one event, just by launching Mythos,\" Arora said.\nPalo Alto Networks disclosed that it has spoken with around 2,000 companies about its Frontier AI Critical Defense Program, an initiative launched in August that deploys AI models to probe customer defenses, surface vulnerabilities, and recommend security modernization steps.\nArora tempered expectations on timing, warning investors not to anticipate an immediate windfall. \"Not everything's going to happen next quarter,\" he told Cramer. \"But all I say is this changes the long-term growth rate and duration of cybersecurity, not just for Palo Alto, but as an industry.\"",
+    "text_blocks": [
+      "Palo Alto Networks beat fiscal fourth-quarter estimates on Tuesday and issued a strong outlook for its new fiscal year, with CEO Nikesh Arora arguing that roughly $1 trillion in aging cybersecurity infrastructure must be replaced to defend against AI-powered threats.",
+      "\"There's approximately $1 trillion of global cybersecurity debt that must be modernized to defend against automated threats because they operate instantaneously,\" Arora said on the company's earnings call. \"Nothing that was deployed seven or 10 years ago is prepared or ready to handle AI at machine speed.\"",
+      "In a separate interview with CNBC's Jim Cramer on \"Mad Money,\" Arora made clear that security modernization is a prerequisite for any AI ambitions. \"You cannot deploy AI successfully if you don't get cybersecurity right,\" he said. \"You have to rethink your cyber architecture.\"",
+      "The argument represents a notable turnaround in market thinking about AI and cybersecurity. Shares of Palo Alto Networks and peers had sold off earlier in the year amid concern that more advanced AI tools would render conventional security software obsolete, but sentiment shifted once investors grasped that threat actors could harness the same capabilities. The stock has climbed 113% since April 7.",
+      "Arora identified the arrival of Anthropic's Mythos model as the moment that changed corporate attitudes, saying its capacity to be used against software vulnerabilities jolted organizations into treating security as a priority. \"I've been trying for eight years to tell customers they're not ready, and [Anthropic CEO Dario Amodei] did it in one event, just by launching Mythos,\" Arora said.",
+      "Palo Alto Networks disclosed that it has spoken with around 2,000 companies about its Frontier AI Critical Defense Program, an initiative launched in August that deploys AI models to probe customer defenses, surface vulnerabilities, and recommend security modernization steps.",
+      "Arora tempered expectations on timing, warning investors not to anticipate an immediate windfall. \"Not everything's going to happen next quarter,\" he told Cramer. \"But all I say is this changes the long-term growth rate and duration of cybersecurity, not just for Palo Alto, but as an industry.\""
+    ],
+    "html": null
+  }
+}

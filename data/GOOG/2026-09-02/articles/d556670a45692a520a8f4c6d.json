@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-stock-rises-google-nears-121259041.html",
+    "fetched_at": "2026-09-02T07:00:27.506327-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Stock Rises as Google Nears Launch of Gemini 3.8 Flash",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL) shares gained about 1% on early Wednesday as Google moved closer to releasing a new Gemini model aimed at improving AI coding performance.\nThe potential Gemini 3.8 Flash launch, which could come as soon as Wednesday, would target a fast-growing area of AI software. Google is looking to improve its position against systems from Anthropic and OpenAI, particularly for coding-related tasks.\nInternal testing reportedly produced favorable results for the new model in Google's Jetski coding tool, including comparisons with Anthropic's Opus. Flash versions are designed to provide faster responses and lower computing costs than the company's largest AI models.\nGoogle has also increased its use of reinforcement learning to improve model performance. The effort comes after Gemini gained ground in late 2025 but faced renewed competition this year.\nProgress in AI coding could strengthen Google's competitive position, but investors will likely focus on adoption and commercial impact.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL) shares gained about 1% on early Wednesday as Google moved closer to releasing a new Gemini model aimed at improving AI coding performance.",
+      "The potential Gemini 3.8 Flash launch, which could come as soon as Wednesday, would target a fast-growing area of AI software. Google is looking to improve its position against systems from Anthropic and OpenAI, particularly for coding-related tasks.",
+      "Internal testing reportedly produced favorable results for the new model in Google's Jetski coding tool, including comparisons with Anthropic's Opus. Flash versions are designed to provide faster responses and lower computing costs than the company's largest AI models.",
+      "Google has also increased its use of reinforcement learning to improve model performance. The effort comes after Gemini gained ground in late 2025 but faced renewed competition this year.",
+      "Progress in AI coding could strengthen Google's competitive position, but investors will likely focus on adoption and commercial impact."
+    ],
+    "html": null
+  }
+}

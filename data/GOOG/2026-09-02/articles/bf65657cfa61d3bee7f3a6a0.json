@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/094018e0-930c-32b3-ade4-5bb94ff2781c/broadcom-earnings-prediction.html",
+    "fetched_at": "2026-09-02T07:00:27.514345-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Earnings Prediction Market Preview: Will Hock Tan Talk ‘Competition’?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nBroadcom Inc. (NASDAQ:AVGO) reports fiscal third-quarter earnings after the bell Wednesday, and prediction traders see little suspense over whether it beats expectations.\nThe bigger question may be what CEO Hock Tan says about Broadcom's AI customers and growing competition for Google's custom-chip business.\nPolymarket prices a 98% chance Broadcom beats quarterly earnings, while Kalshi traders are betting on which companies and technologies Tan will mention during the 5 p.m. ET earnings call.\nAnalysts expect Broadcom to report about $29.4 billion in revenue and adjusted earnings of $3.24 per share, according to Benzinga Pro. Broadcom has guided AI semiconductor revenue to $16 billion, up more than 200% year over year.\nWhat Kalshi Predicts Broadcom Will Say\n\"OpenAI\" leads at 96%. OpenAI designed its first custom inference chip, Jalapeño, with Broadcom turning it into production silicon and building the networking and rack systems around it.\nOpenAI says its own tests showed Jalapeño delivering up to 3.6 times lower end-to-end latency than the Nvidia systems it tested against, though the results have not been independently verified.\n\"VMware\" trades at 94%. Broadcom paid $69 billion for the software company in 2023, giving it a major foothold in the systems companies use to run private clouds and virtual servers. Tan says the AI buildout is now helping VMware too, as customers add more GPU-heavy servers and private-cloud infrastructure.\n\"Anthropic\" sits at 92%. Broadcom said it is providing Anthropic access to more than 1 gigawatt of TPU-based compute this year, with another 5 gigawatts of next-generation capacity beginning in 2027.\n\"Google\" trades at 84%. Google helped establish Broadcom's custom AI-chip business through its TPU program, so investors are watching for signs it is shifting work to rivals.\nAlphabet Inc. (NASDAQ:GOOGL) recently expanded its chip relationship with Broadcom competitor Marvell, sending Broadcom shares down more than 5%, although JPMorgan says Marvell has not won Google's core TPU accelerator and Broadcom remains the volume partner for the next four TPU generations.\n\"Tomahawk 6\" sits at 75%. Broadcom's 100-terabit Ethernet switch chip connects thousands of AI accelerators inside data centers, giving the company a way to profit from AI infrastructure even when Nvidia or another supplier provides the processors.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Broadcom Inc. (NASDAQ:AVGO) reports fiscal third-quarter earnings after the bell Wednesday, and prediction traders see little suspense over whether it beats expectations.",
+      "The bigger question may be what CEO Hock Tan says about Broadcom's AI customers and growing competition for Google's custom-chip business.",
+      "Polymarket prices a 98% chance Broadcom beats quarterly earnings, while Kalshi traders are betting on which companies and technologies Tan will mention during the 5 p.m. ET earnings call.",
+      "Analysts expect Broadcom to report about $29.4 billion in revenue and adjusted earnings of $3.24 per share, according to Benzinga Pro. Broadcom has guided AI semiconductor revenue to $16 billion, up more than 200% year over year.",
+      "What Kalshi Predicts Broadcom Will Say",
+      "\"OpenAI\" leads at 96%. OpenAI designed its first custom inference chip, Jalapeño, with Broadcom turning it into production silicon and building the networking and rack systems around it.",
+      "OpenAI says its own tests showed Jalapeño delivering up to 3.6 times lower end-to-end latency than the Nvidia systems it tested against, though the results have not been independently verified.",
+      "\"VMware\" trades at 94%. Broadcom paid $69 billion for the software company in 2023, giving it a major foothold in the systems companies use to run private clouds and virtual servers. Tan says the AI buildout is now helping VMware too, as customers add more GPU-heavy servers and private-cloud infrastructure.",
+      "\"Anthropic\" sits at 92%. Broadcom said it is providing Anthropic access to more than 1 gigawatt of TPU-based compute this year, with another 5 gigawatts of next-generation capacity beginning in 2027.",
+      "\"Google\" trades at 84%. Google helped establish Broadcom's custom AI-chip business through its TPU program, so investors are watching for signs it is shifting work to rivals.",
+      "Alphabet Inc. (NASDAQ:GOOGL) recently expanded its chip relationship with Broadcom competitor Marvell, sending Broadcom shares down more than 5%, although JPMorgan says Marvell has not won Google's core TPU accelerator and Broadcom remains the volume partner for the next four TPU generations.",
+      "\"Tomahawk 6\" sits at 75%. Broadcom's 100-terabit Ethernet switch chip connects thousands of AI accelerators inside data centers, giving the company a way to profit from AI infrastructure even when Nvidia or another supplier provides the processors."
+    ],
+    "html": null
+  }
+}

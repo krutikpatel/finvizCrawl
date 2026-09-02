@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/watch-broadcom-snowflake-earnings-adp-120000424.html",
+    "fetched_at": "2026-09-02T07:00:34.350167-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What to watch: Broadcom, Snowflake earnings and ADP jobs data",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oops, something went wrong\nAsking for a Trend Host Josh Lipton previews the stories that will be making headlines tomorrow, including earnings from Broadcom (AVGO) and Snowflake (SNOW), plus a fresh look at the labor market with ADP's private payrolls report ahead of Friday's highly anticipated jobs report.\nTime now for what to watch Wednesday, September 6th.\nMore tech earnings coming our way. Broadcom headlining the day, reporting third quarter results after the market's close.\nThe focus once again on AI. Analysts expecting Broadcom to benefit from accelerating custom chip demand and another leg higher in hyperscalar spending.\nCapital budgets across the five biggest hyperscalars are now up roughly 40% year to date to more than 700 billion.\nAlso reporting after the close, Snowflake.\nThey're coming after a run of strong software earnings including Salesforce, helping revive optimism around a sector that had been under pressure over fears of AI disruption.\nInvestors looking for signs that enterprise spending remains healthy and that demand for its AI products can keep that rebound going.\nAnd finally, we're getting another read on the labor market with August ADP private payrolls.\nEconomists forecasting a gain of 47,000 jobs, up slightly from July.\nThe new data helping set the tone ahead of Friday's big jobs report.",
+    "text_blocks": [
+      "Oops, something went wrong",
+      "Asking for a Trend Host Josh Lipton previews the stories that will be making headlines tomorrow, including earnings from Broadcom (AVGO) and Snowflake (SNOW), plus a fresh look at the labor market with ADP's private payrolls report ahead of Friday's highly anticipated jobs report.",
+      "Time now for what to watch Wednesday, September 6th.",
+      "More tech earnings coming our way. Broadcom headlining the day, reporting third quarter results after the market's close.",
+      "The focus once again on AI. Analysts expecting Broadcom to benefit from accelerating custom chip demand and another leg higher in hyperscalar spending.",
+      "Capital budgets across the five biggest hyperscalars are now up roughly 40% year to date to more than 700 billion.",
+      "Also reporting after the close, Snowflake.",
+      "They're coming after a run of strong software earnings including Salesforce, helping revive optimism around a sector that had been under pressure over fears of AI disruption.",
+      "Investors looking for signs that enterprise spending remains healthy and that demand for its AI products can keep that rebound going.",
+      "And finally, we're getting another read on the labor market with August ADP private payrolls.",
+      "Economists forecasting a gain of 47,000 jobs, up slightly from July.",
+      "The new data helping set the tone ahead of Friday's big jobs report."
+    ],
+    "html": null
+  }
+}

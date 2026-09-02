@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1fbbd79d-7060-3501-b4ac-8ed32a766799/apple-stock-becomes-hedge-as.html",
+    "fetched_at": "2026-09-02T07:00:10.579751-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple stock becomes hedge as AI trade wobbles in 2026",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple stock rose 2.6% on Tuesday as the broader technology sector sold off, extending a stretch of outperformance that has positioned the iPhone maker as a de facto hedge against turbulence in the AI trade.\nAccording to a CNBC analysis using ThinkOrSwim data, the 30-day correlation between Apple and the Nasdaq-100 bottomed out at -0.86 last Thursday and was sitting at -0.82 as of Wednesday, a degree of inverse movement between the two that has not been recorded since 2005. Apple commands a 7.5% weighting in the Nasdaq-100.\nApple shares have climbed 7% over the past month, a stretch during which the Nasdaq-100 managed only a 1% advance. Having trailed the index for the first half of 2026, Apple has climbed 20% for the year, outpacing the Nasdaq-100's 15% advance.\n\"When the AI trade gets questioned, Apple doesn't sell off with it, because it was never carrying that risk in the first place,\" Dave Mazza, chief executive officer at Roundhill Investments, told CNBC. \"It has become the hedge inside the Nasdaq.\" Mazza is the head of an Apple-focused exchange-traded fund whose strategy involves using swaps to pay out weekly income to shareholders.\nOptions market activity on Tuesday reinforced the bullish positioning. ThinkOrSwim data show call volume reached nearly 1.5 million contracts on Tuesday against fewer than 700,000 puts, with approximately 543,000 of those calls appearing to have been buyer-initiated, compared with under 220,000 on the put side. Flows analysis on Barchart showed the net delta across Apple's options market was skewed meaningfully in the bullish direction, according to CNBC. SpotGamma and Cboe LiveVol data indicate that Tuesday's Apple options volume came in at approximately double the trailing 30-day average.\nApple's divergence from its Magnificent Seven peers reflects its conservative posture on AI capital spending. As investors have grown wary of runaway infrastructure costs, Apple's restrained approach has drawn attention. Alphabet, Amazon, Meta Platforms, and Microsoft have committed hundreds of billions of dollars to chip purchases and data center construction, with industry-wide AI capital expenditures on track to exceed $700 billion in 2026, a roughly 70% year-over-year increase.\nApple reported its strongest June quarter on record last month, with revenue of $109.4 billion, up 16% year over year, and diluted earnings per share of $2.02, up 29%. The company has also crossed $5 trillion in market capitalization, becoming only the second publicly traded company to do so. John Ternus, the company's hardware engineering chief, took over as chief executive officer on Tuesday from Tim Cook.",
+    "text_blocks": [
+      "Apple stock rose 2.6% on Tuesday as the broader technology sector sold off, extending a stretch of outperformance that has positioned the iPhone maker as a de facto hedge against turbulence in the AI trade.",
+      "According to a CNBC analysis using ThinkOrSwim data, the 30-day correlation between Apple and the Nasdaq-100 bottomed out at -0.86 last Thursday and was sitting at -0.82 as of Wednesday, a degree of inverse movement between the two that has not been recorded since 2005. Apple commands a 7.5% weighting in the Nasdaq-100.",
+      "Apple shares have climbed 7% over the past month, a stretch during which the Nasdaq-100 managed only a 1% advance. Having trailed the index for the first half of 2026, Apple has climbed 20% for the year, outpacing the Nasdaq-100's 15% advance.",
+      "\"When the AI trade gets questioned, Apple doesn't sell off with it, because it was never carrying that risk in the first place,\" Dave Mazza, chief executive officer at Roundhill Investments, told CNBC. \"It has become the hedge inside the Nasdaq.\" Mazza is the head of an Apple-focused exchange-traded fund whose strategy involves using swaps to pay out weekly income to shareholders.",
+      "Options market activity on Tuesday reinforced the bullish positioning. ThinkOrSwim data show call volume reached nearly 1.5 million contracts on Tuesday against fewer than 700,000 puts, with approximately 543,000 of those calls appearing to have been buyer-initiated, compared with under 220,000 on the put side. Flows analysis on Barchart showed the net delta across Apple's options market was skewed meaningfully in the bullish direction, according to CNBC. SpotGamma and Cboe LiveVol data indicate that Tuesday's Apple options volume came in at approximately double the trailing 30-day average.",
+      "Apple's divergence from its Magnificent Seven peers reflects its conservative posture on AI capital spending. As investors have grown wary of runaway infrastructure costs, Apple's restrained approach has drawn attention. Alphabet, Amazon, Meta Platforms, and Microsoft have committed hundreds of billions of dollars to chip purchases and data center construction, with industry-wide AI capital expenditures on track to exceed $700 billion in 2026, a roughly 70% year-over-year increase.",
+      "Apple reported its strongest June quarter on record last month, with revenue of $109.4 billion, up 16% year over year, and diluted earnings per share of $2.02, up 29%. The company has also crossed $5 trillion in market capitalization, becoming only the second publicly traded company to do so. John Ternus, the company's hardware engineering chief, took over as chief executive officer on Tuesday from Tim Cook."
+    ],
+    "html": null
+  }
+}

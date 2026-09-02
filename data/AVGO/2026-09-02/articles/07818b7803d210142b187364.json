@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?mod=bar_FV",
+    "fetched_at": "2026-09-02T07:00:33.812003-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Earnings Today: Stock Looks for a Reset with Third-Quarter Results<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Will Broadcom Earnings Rebuild Confidence in Its AI Growth Story?\nBroadcom has the opportunity to reset the narrative with its third-quarter earnings on Wednesday afternoon after a tumultuous three months for the stock. Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June.",
+    "text_blocks": [
+      "Will Broadcom Earnings Rebuild Confidence in Its AI Growth Story?",
+      "Broadcom has the opportunity to reset the narrative with its third-quarter earnings on Wednesday afternoon after a tumultuous three months for the stock. Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June."
+    ],
+    "html": null
+  }
+}
