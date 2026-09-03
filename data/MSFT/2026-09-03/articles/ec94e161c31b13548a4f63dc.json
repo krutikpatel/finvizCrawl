@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/8e74dc3b-f1a5-3d2c-9c71-f2a807037062/microsoft%2C-amazon%2C-google.html",
+    "fetched_at": "2026-09-03T07:00:30.116954-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft, Amazon, Google Circle $50B Chinese AI Upstart as It Files for IPO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nMoonshot AI has confidentially filed for a Hong Kong IPO that could raise about $3 billion, Reuters reported Thursday, citing people familiar with the matter.\nThe Kimi developer is also in talks with Microsoft Corp. (NASDAQ:MSFT), Amazon.com Inc. (NASDAQ:AMZN) and Alphabet Inc. (NASDAQ:GOOGL) over deals that could bring its models deeper into U.S. cloud platforms.\nMoonshot is valued at $50 billion in a funding round still in progress and has raised more than $5.5 billion since 2023.\nU.S. Cloud Giants Eye Kimi K3\nMoonshot is in early-stage talks with Azure, Amazon Web Services and Google Cloud over revenue-sharing agreements for Kimi K3.\nReuters reported last week that Moonshot is seeking as much as 30% of K3-related revenue. Any agreement could mark the first major revenue-sharing pact between a Chinese AI developer and a major U.S. cloud provider.\nK3 has 2.8 trillion parameters, which Moonshot says makes it the world's largest open-weight model. Its size makes it expensive to run, helping explain why demand after its July launch strained Moonshot's computing capacity and why access to U.S. cloud infrastructure could matter.\nAlibaba Is Backer, Rival and Compute Supplier\nAlibaba Group Holding Ltd. (NYSE:BABA) invested about $800 million for roughly 36% of Moonshot in fiscal 2024, implying a valuation near $2.2 billion.\nMoonshot's reported $50 billion valuation is roughly 23 times higher. Later funding rounds mean Alibaba's current ownership is unclear.\nMoonshot has a computing agreement giving it access to about 20,000 Nvidia chips through Alibaba, Reuters reported in July. Alibaba also competes with Moonshot through its Qwen models.\nPolymarket traders give Alibaba a 76% chance of having China's highest-ranked AI model at the end of September, versus about 17% for Moonshot. Nearly $198,000 has traded on the market, which resolves using Arena.ai's Text Arena overall leaderboard on Sept. 30.\nWashington Risk Hangs Over IPO\nMoonshot also faces scrutiny in Washington. U.S. officials have accused the company of using restricted Nvidia Corp. (NASDAQ:NVDA) chips and distilling capabilities from Anthropic models.\nTreasury Secretary Scott Bessent has said he may add the company to a U.S. trade blacklist. Moonshot disputes the distillation allegation.\nThat puts its U.S. cloud talks in an unusual position. Microsoft, Amazon and Google are exploring deeper ties with one of China's leading AI companies just as it prepares to go public and faces possible restrictions from Washington.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Moonshot AI has confidentially filed for a Hong Kong IPO that could raise about $3 billion, Reuters reported Thursday, citing people familiar with the matter.",
+      "The Kimi developer is also in talks with Microsoft Corp. (NASDAQ:MSFT), Amazon.com Inc. (NASDAQ:AMZN) and Alphabet Inc. (NASDAQ:GOOGL) over deals that could bring its models deeper into U.S. cloud platforms.",
+      "Moonshot is valued at $50 billion in a funding round still in progress and has raised more than $5.5 billion since 2023.",
+      "U.S. Cloud Giants Eye Kimi K3",
+      "Moonshot is in early-stage talks with Azure, Amazon Web Services and Google Cloud over revenue-sharing agreements for Kimi K3.",
+      "Reuters reported last week that Moonshot is seeking as much as 30% of K3-related revenue. Any agreement could mark the first major revenue-sharing pact between a Chinese AI developer and a major U.S. cloud provider.",
+      "K3 has 2.8 trillion parameters, which Moonshot says makes it the world's largest open-weight model. Its size makes it expensive to run, helping explain why demand after its July launch strained Moonshot's computing capacity and why access to U.S. cloud infrastructure could matter.",
+      "Alibaba Is Backer, Rival and Compute Supplier",
+      "Alibaba Group Holding Ltd. (NYSE:BABA) invested about $800 million for roughly 36% of Moonshot in fiscal 2024, implying a valuation near $2.2 billion.",
+      "Moonshot's reported $50 billion valuation is roughly 23 times higher. Later funding rounds mean Alibaba's current ownership is unclear.",
+      "Moonshot has a computing agreement giving it access to about 20,000 Nvidia chips through Alibaba, Reuters reported in July. Alibaba also competes with Moonshot through its Qwen models.",
+      "Polymarket traders give Alibaba a 76% chance of having China's highest-ranked AI model at the end of September, versus about 17% for Moonshot. Nearly $198,000 has traded on the market, which resolves using Arena.ai's Text Arena overall leaderboard on Sept. 30.",
+      "Washington Risk Hangs Over IPO",
+      "Moonshot also faces scrutiny in Washington. U.S. officials have accused the company of using restricted Nvidia Corp. (NASDAQ:NVDA) chips and distilling capabilities from Anthropic models.",
+      "Treasury Secretary Scott Bessent has said he may add the company to a U.S. trade blacklist. Moonshot disputes the distillation allegation.",
+      "That puts its U.S. cloud talks in an unusual position. Microsoft, Amazon and Google are exploring deeper ties with one of China's leading AI companies just as it prepares to go public and faces possible restrictions from Washington."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/07a62de5-0ab7-3a25-82bf-5a42c8ac552d/the-real-risk-inside-cisco.html",
+    "fetched_at": "2026-09-03T07:00:48.111298-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Real Risk Inside Cisco Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.\nIf you hold Cisco (CSCO) stock, you've had a good year. The shares are up 62% over the last 12 months, fueled by a powerful narrative: the company is at the heart of a \"networking super cycle.\" Management just reported a record year, with revenue up 12%, and took in $9.3 billion in AI infrastructure orders in fiscal 2026 alone. The story is compelling.\nBut with success comes higher expectations, and that's where the risk for investors now lies. The central challenge for Cisco isn't whether the growth is real, it clearly is. The risk is that the quality of that growth is changing in a way the stock's high valuation may not be prepared for.\nThe AI Boom's Margin Squeeze\nThe first sign of this tension is showing up in the company's profitability. While Cisco is selling large amounts of hardware to hyperscalers, this new business comes at a cost. The company's non-GAAP gross margin came in at 66.3% in fiscal Q4 2026, and the outlook for the first quarter of fiscal 2027 points to a range of 65.0% to 66.0%, a step down of up to 130 basis points. Management has been direct about this, telling investors to expect a \"slight gross margin headwind\" because the revenue mix is shifting heavily toward hardware.\nThis is the core mechanism of the risk. The very AI boom driving record sales is also what's pressuring gross margins, a key measure of profitability. While the company is offsetting this with disciplined spending to boost operating margins, a persistent decline in gross margin could eventually weigh on earnings per share. It exposes AI, now guided at roughly 12% of revenue but central to the growth story, as a potential source of lower-quality revenue compared to its historical software and services mix.\nA Price That Leaves No Room for Error\nThis margin pressure becomes more pronounced when you look at the stock's valuation. Cisco currently trades at a price-to-sales multiple of 7.2, which is hovering near its 10-year high of 7.6. The stock is, in other words, priced for near-perfect execution. To justify the current share price, models suggest the company needs to deliver revenue growth of roughly 14.1% a year, a demanding pace.\nThis creates a challenging setup. The market has already priced in the super cycle, leaving very little cushion for disappointment. If the gross margin headwinds prove stronger than anticipated, or if the rapid pace of AI orders begins to normalize, the stock's premium multiple could be difficult to sustain. Implied volatility sits in the 64th percentile of its annual range, modestly elevated, though not extreme.",
+    "text_blocks": [
+      "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
+      "If you hold Cisco (CSCO) stock, you've had a good year. The shares are up 62% over the last 12 months, fueled by a powerful narrative: the company is at the heart of a \"networking super cycle.\" Management just reported a record year, with revenue up 12%, and took in $9.3 billion in AI infrastructure orders in fiscal 2026 alone. The story is compelling.",
+      "But with success comes higher expectations, and that's where the risk for investors now lies. The central challenge for Cisco isn't whether the growth is real, it clearly is. The risk is that the quality of that growth is changing in a way the stock's high valuation may not be prepared for.",
+      "The AI Boom's Margin Squeeze",
+      "The first sign of this tension is showing up in the company's profitability. While Cisco is selling large amounts of hardware to hyperscalers, this new business comes at a cost. The company's non-GAAP gross margin came in at 66.3% in fiscal Q4 2026, and the outlook for the first quarter of fiscal 2027 points to a range of 65.0% to 66.0%, a step down of up to 130 basis points. Management has been direct about this, telling investors to expect a \"slight gross margin headwind\" because the revenue mix is shifting heavily toward hardware.",
+      "This is the core mechanism of the risk. The very AI boom driving record sales is also what's pressuring gross margins, a key measure of profitability. While the company is offsetting this with disciplined spending to boost operating margins, a persistent decline in gross margin could eventually weigh on earnings per share. It exposes AI, now guided at roughly 12% of revenue but central to the growth story, as a potential source of lower-quality revenue compared to its historical software and services mix.",
+      "A Price That Leaves No Room for Error",
+      "This margin pressure becomes more pronounced when you look at the stock's valuation. Cisco currently trades at a price-to-sales multiple of 7.2, which is hovering near its 10-year high of 7.6. The stock is, in other words, priced for near-perfect execution. To justify the current share price, models suggest the company needs to deliver revenue growth of roughly 14.1% a year, a demanding pace.",
+      "This creates a challenging setup. The market has already priced in the super cycle, leaving very little cushion for disappointment. If the gross margin headwinds prove stronger than anticipated, or if the rapid pace of AI orders begins to normalize, the stock's premium multiple could be difficult to sustain. Implied volatility sits in the 64th percentile of its annual range, modestly elevated, though not extreme."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9a957f2e-40cf-34ef-b1ff-1575701627a6/waymo-raises-%243-billion-in.html",
+    "fetched_at": "2026-09-03T07:00:27.361714-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Waymo raises $3 billion in first-ever debt deal with Pimco, Blackstone",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Waymo is negotiating its first-ever debt financing, targeting more than $3 billion from a group of lenders that includes Pacific Investment Management Co., Blackstone Inc., and Sixth Street Partners, according to Bloomberg.\nThe Alphabet-owned autonomous vehicle unit has partnered with Goldman Sachs Group Inc. on the transaction and hopes to wrap up the deal within days, though the arrangement remains subject to change, according to Bloomberg, citing unnamed sources. Lenders would receive a spread of more than 500 basis points above the benchmark rate, with the debt expected to carry no credit rating.\nRepresentatives for Waymo, Goldman Sachs, Pimco, Blackstone, and Sixth Street all declined to comment.\nWaymo has long used equity markets as its primary funding mechanism, most recently pulling in $16 billion this year at a $126 billion valuation. The company is now pursuing debt financing to support growth in its driverless fleet amid mounting AI expenses. The move is intended to help the company access a broader range of capital as it matures.\nThe debt financing follows a similar path taken by other ride-hailing companies. Uber Technologies Inc. made its debut in debt markets in 2016, securing $1.15 billion from leveraged loan investors ahead of its initial public offering three years down the road.\nWaymo aims to reach 1 million paid rides per week across 20 cities worldwide by the end of this year. The company currently completes upward of 500,000 fare-paying trips each week in 14 American cities and is pursuing expansion into new markets that include London and Tokyo.\nThe company has been expanding its international footprint, announcing plans to launch a service in Munich, Germany — its first market in the European Union — with commercial service targeted for the end of 2027, pending regulatory approvals. Waymo also announced earlier this summer that it would begin operating fully driverless vehicles in four additional U.S. cities — San Diego, Las Vegas, Tampa, and Denver — initially limiting rides to employees before opening to the public.",
+    "text_blocks": [
+      "Waymo is negotiating its first-ever debt financing, targeting more than $3 billion from a group of lenders that includes Pacific Investment Management Co., Blackstone Inc., and Sixth Street Partners, according to Bloomberg.",
+      "The Alphabet-owned autonomous vehicle unit has partnered with Goldman Sachs Group Inc. on the transaction and hopes to wrap up the deal within days, though the arrangement remains subject to change, according to Bloomberg, citing unnamed sources. Lenders would receive a spread of more than 500 basis points above the benchmark rate, with the debt expected to carry no credit rating.",
+      "Representatives for Waymo, Goldman Sachs, Pimco, Blackstone, and Sixth Street all declined to comment.",
+      "Waymo has long used equity markets as its primary funding mechanism, most recently pulling in $16 billion this year at a $126 billion valuation. The company is now pursuing debt financing to support growth in its driverless fleet amid mounting AI expenses. The move is intended to help the company access a broader range of capital as it matures.",
+      "The debt financing follows a similar path taken by other ride-hailing companies. Uber Technologies Inc. made its debut in debt markets in 2016, securing $1.15 billion from leveraged loan investors ahead of its initial public offering three years down the road.",
+      "Waymo aims to reach 1 million paid rides per week across 20 cities worldwide by the end of this year. The company currently completes upward of 500,000 fare-paying trips each week in 14 American cities and is pursuing expansion into new markets that include London and Tokyo.",
+      "The company has been expanding its international footprint, announcing plans to launch a service in Munich, Germany — its first market in the European Union — with commercial service targeted for the end of 2027, pending regulatory approvals. Waymo also announced earlier this summer that it would begin operating fully driverless vehicles in four additional U.S. cities — San Diego, Las Vegas, Tampa, and Denver — initially limiting rides to employees before opening to the public."
+    ],
+    "html": null
+  }
+}

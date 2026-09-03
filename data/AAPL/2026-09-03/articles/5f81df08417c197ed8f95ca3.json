@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c32ee338-0c45-3b39-8610-55fde061ed93/apple-faces-%242.7-billion-u.k..html",
+    "fetched_at": "2026-09-03T07:00:11.421253-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple faces $2.7 billion U.K. lawsuit over app tracking rules",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple faces a £2 billion ($2.7 billion) lawsuit filed on Thursday at London's Competition Appeal Tribunal on behalf of thousands of app developers, with the company accused of abusing its market position through its App Tracking Transparency framework, according to Reuters.\nThe claim, brought by ATT Collective Action Limited, centers on Apple's App Tracking Transparency feature, which launched in April 2021. According to the suit, Apple held third-party apps to a double-consent standard before they could track users across apps and websites, yet imposed comparatively lighter obligations on its own advertising and data-collection operations. The claimants contend that this imbalance tilted the playing field in favor of Apple's own ad business, eroding the revenue streams and user-growth economics of developers reliant on the App Store.\nAnn Pope, a former senior director for antitrust at the U.K.'s Competition and Markets Authority and director of ATT Collective Action Limited, is leading the claim. \"The ATT policy was implemented without the transparency and objectivity you would expect from a company in Apple's position, and it resulted in very significant harm to businesses that depend on Apple as a gatekeeper,\" Pope said in a statement. She also warned that privacy protections \"cannot become a reason for digital platforms to play by one set of rules while forcing app developers to play by another.\"\nApple has previously described App Tracking Transparency as providing \"important privacy protections\" and did not comment on the new lawsuit.\nThe U.K. case follows regulatory action against the feature in several European countries. Germany's competition authority, acting last month, concluded that Apple's ATT prompts were engineered to yield more favorable consent outcomes for Apple's own services than for competing apps, and ordered a redesign that strips out discouraging wording — changes Apple accepted and that are set to take effect in most other E.U. markets as well, according to Silicon Republic. Elsewhere in Europe, Italian regulators levied a fine exceeding €98.6 million against Apple in December for its use of ATT, and French authorities followed with a €150 million penalty in April 2025. Regulators in Poland have also examined the framework.\nThe U.K. lawsuit is one of several collective actions recently brought at the Competition Appeal Tribunal targeting major technology platforms. The tribunal has also seen action against other technology giants: Alphabet, Google's parent, last month reached a £260 million settlement to end a separate class action alleging it had exploited its dominance to overcharge Android developers, according to Silicon Republic.",
+    "text_blocks": [
+      "Apple faces a £2 billion ($2.7 billion) lawsuit filed on Thursday at London's Competition Appeal Tribunal on behalf of thousands of app developers, with the company accused of abusing its market position through its App Tracking Transparency framework, according to Reuters.",
+      "The claim, brought by ATT Collective Action Limited, centers on Apple's App Tracking Transparency feature, which launched in April 2021. According to the suit, Apple held third-party apps to a double-consent standard before they could track users across apps and websites, yet imposed comparatively lighter obligations on its own advertising and data-collection operations. The claimants contend that this imbalance tilted the playing field in favor of Apple's own ad business, eroding the revenue streams and user-growth economics of developers reliant on the App Store.",
+      "Ann Pope, a former senior director for antitrust at the U.K.'s Competition and Markets Authority and director of ATT Collective Action Limited, is leading the claim. \"The ATT policy was implemented without the transparency and objectivity you would expect from a company in Apple's position, and it resulted in very significant harm to businesses that depend on Apple as a gatekeeper,\" Pope said in a statement. She also warned that privacy protections \"cannot become a reason for digital platforms to play by one set of rules while forcing app developers to play by another.\"",
+      "Apple has previously described App Tracking Transparency as providing \"important privacy protections\" and did not comment on the new lawsuit.",
+      "The U.K. case follows regulatory action against the feature in several European countries. Germany's competition authority, acting last month, concluded that Apple's ATT prompts were engineered to yield more favorable consent outcomes for Apple's own services than for competing apps, and ordered a redesign that strips out discouraging wording — changes Apple accepted and that are set to take effect in most other E.U. markets as well, according to Silicon Republic. Elsewhere in Europe, Italian regulators levied a fine exceeding €98.6 million against Apple in December for its use of ATT, and French authorities followed with a €150 million penalty in April 2025. Regulators in Poland have also examined the framework.",
+      "The U.K. lawsuit is one of several collective actions recently brought at the Competition Appeal Tribunal targeting major technology platforms. The tribunal has also seen action against other technology giants: Alphabet, Google's parent, last month reached a £260 million settlement to end a separate class action alleging it had exploited its dominance to overcharge Android developers, according to Silicon Republic."
+    ],
+    "html": null
+  }
+}

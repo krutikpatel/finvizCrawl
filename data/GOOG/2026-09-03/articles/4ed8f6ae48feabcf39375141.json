@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-upgraded-ultragenyx-downgraded-wall-133157671.html",
+    "fetched_at": "2026-09-03T07:00:27.480959-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom upgraded, Ultragenyx downgraded: Wall Street's top analyst calls",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today's research calls that investors need to know, as compiled by The Fly.\nTop 5 Upgrades:\n-\nMacquarie upgraded Broadcom (AVGO) to Outperform from Neutral with a $490 price target. The company reported inline fiscal Q3 results and the Google (GOOGL) insourcing risk seems priced in with the stock down 24% from the 2026 high, the firm says, adding that with Anthropic's initial public offering pending, Broadcom is the \"cleanest listed way to own the build.\"\n-\nJPMorgan upgraded Envista (NVST) to Overweight from Neutral with a price target of $32, up from $29, into the investor day on September 17. The firm believes the company is entering the event with improved execution, a more durable organic growth algorithm, and a valuation \"that has not fully kept pace with strengthening fundamentals.\"\n-\nJPMorgan upgraded Copart (CPRT) to Overweight from Neutral with a price target of $40, up from $32. The firm cites recent news flow around a potential acquisition and its \"encouraging\" salvage industry channel checks for the upgrade.\n-\nLake Street upgraded Argan (AGX) to Buy from Hold with a $600 price target. Argan remains in the early innings of a growth ramp from power demand growth, says the firm, which contends that new project wins expected in the next 7-15 months \"should increase confidence that the company can become a $2 billion revenue business.\"\n-\nFox Advisors upgraded Dell Technologies (DELL) to Outperform from Equal-Weight with a $625 price target following quarterly results.\nTop 5 Downgrades:\n-\nRBC Capital downgraded Ultragenyx (RARE) to Sector Perform from Outperform with a price target of $19, down from $40. The company announced that the Phase 3 Aspire study of GTX-102 in Angelman syndrome missed all endpoints, and while numerical data was not shared, the firm notes that the drug likely showed no signal at all, given the little spin in the press release, despite a very large unmet need with plenty of regulatory flexibility. Wells Fargo, Baird, Evercore ISI, William Blair, and JPMorgan also downgraded Ultragenyx to Neutral-equivalent ratings.\n-\nRothschild & Co Redburn downgraded Moderna (MRNA) to Sell from Neutral with a price target of $81, up from $40. The firm views the Phase 3 INTerpath-001 trial of intismeran autogene plus Keytruda in patients with completely resected stage IIB-IV melanoma as a \"great result,\" but says the subsequent share price reaction implies a near ubiquitous usage across tumor types for which it has seen little or no data, which it struggles to reconcile.\n-\nTruist downgraded PG&E (PCG) to Hold from Buy with a price target of $17, down from $21. Potential legislative changes in California represent a \"largely binary event this session,\" the firm says, adding that an unfavorable resolution to industry wildfire issues absent a special session has lowered its confidence in the path forward.\n-\nBofA downgraded Sonoco (SON) to Neutral from Buy with a price target of $60, down from $69. Estimates are more likely to move lower than higher over coming quarters, contends the firm, which lowered its FY26 EPS estimate to $5.70 on EBITDA of $1.26B.\n-\nJPMorgan downgraded ZTO Express (ZTO) to Neutral from Overweight with a price target of $22, down from $29, following the Q2 report. The firm cites the company's guidance cut and the \"sector-wide pivot to quality over quantity\" for the downgrade.",
+    "text_blocks": [
+      "The most talked about and market moving research calls around Wall Street are now in one place. Here are today's research calls that investors need to know, as compiled by The Fly.",
+      "Top 5 Upgrades:",
+      "-",
+      "Macquarie upgraded Broadcom (AVGO) to Outperform from Neutral with a $490 price target. The company reported inline fiscal Q3 results and the Google (GOOGL) insourcing risk seems priced in with the stock down 24% from the 2026 high, the firm says, adding that with Anthropic's initial public offering pending, Broadcom is the \"cleanest listed way to own the build.\"",
+      "-",
+      "JPMorgan upgraded Envista (NVST) to Overweight from Neutral with a price target of $32, up from $29, into the investor day on September 17. The firm believes the company is entering the event with improved execution, a more durable organic growth algorithm, and a valuation \"that has not fully kept pace with strengthening fundamentals.\"",
+      "-",
+      "JPMorgan upgraded Copart (CPRT) to Overweight from Neutral with a price target of $40, up from $32. The firm cites recent news flow around a potential acquisition and its \"encouraging\" salvage industry channel checks for the upgrade.",
+      "-",
+      "Lake Street upgraded Argan (AGX) to Buy from Hold with a $600 price target. Argan remains in the early innings of a growth ramp from power demand growth, says the firm, which contends that new project wins expected in the next 7-15 months \"should increase confidence that the company can become a $2 billion revenue business.\"",
+      "-",
+      "Fox Advisors upgraded Dell Technologies (DELL) to Outperform from Equal-Weight with a $625 price target following quarterly results.",
+      "Top 5 Downgrades:",
+      "-",
+      "RBC Capital downgraded Ultragenyx (RARE) to Sector Perform from Outperform with a price target of $19, down from $40. The company announced that the Phase 3 Aspire study of GTX-102 in Angelman syndrome missed all endpoints, and while numerical data was not shared, the firm notes that the drug likely showed no signal at all, given the little spin in the press release, despite a very large unmet need with plenty of regulatory flexibility. Wells Fargo, Baird, Evercore ISI, William Blair, and JPMorgan also downgraded Ultragenyx to Neutral-equivalent ratings.",
+      "-",
+      "Rothschild & Co Redburn downgraded Moderna (MRNA) to Sell from Neutral with a price target of $81, up from $40. The firm views the Phase 3 INTerpath-001 trial of intismeran autogene plus Keytruda in patients with completely resected stage IIB-IV melanoma as a \"great result,\" but says the subsequent share price reaction implies a near ubiquitous usage across tumor types for which it has seen little or no data, which it struggles to reconcile.",
+      "-",
+      "Truist downgraded PG&E (PCG) to Hold from Buy with a price target of $17, down from $21. Potential legislative changes in California represent a \"largely binary event this session,\" the firm says, adding that an unfavorable resolution to industry wildfire issues absent a special session has lowered its confidence in the path forward.",
+      "-",
+      "BofA downgraded Sonoco (SON) to Neutral from Buy with a price target of $60, down from $69. Estimates are more likely to move lower than higher over coming quarters, contends the firm, which lowered its FY26 EPS estimate to $5.70 on EBITDA of $1.26B.",
+      "-",
+      "JPMorgan downgraded ZTO Express (ZTO) to Neutral from Overweight with a price target of $22, down from $29, following the Q2 report. The firm cites the company's guidance cut and the \"sector-wide pivot to quality over quantity\" for the downgrade."
+    ],
+    "html": null
+  }
+}

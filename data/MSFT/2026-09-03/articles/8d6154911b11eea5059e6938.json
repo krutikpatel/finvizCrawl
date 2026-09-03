@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/salesforce-microsoft-share-gains-lead-dow-s-nearly-475-point-climb-d59fbe28-8a5898b7857d?mod=mw_FV",
+    "fetched_at": "2026-09-03T07:00:29.705493-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Salesforce, Microsoft share gains lead Dow's nearly 475-point climb - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nSalesforce, Microsoft share gains lead Dow's nearly 475-point climb\nLed by positive momentum for shares of Salesforce and Microsoft, the Dow Jones Industrial Average is climbing Thursday morning.\nShares of Salesforce Salesforce Inc. and Microsoft Microsoft Corp. are contributing around 25% of the blue-chip gauge's intraday rally, as the Dow Dow Jones Industrial Average is trading 470 points (0.9%) higher.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "Salesforce, Microsoft share gains lead Dow's nearly 475-point climb",
+      "Led by positive momentum for shares of Salesforce and Microsoft, the Dow Jones Industrial Average is climbing Thursday morning.",
+      "Shares of Salesforce Salesforce Inc. and Microsoft Microsoft Corp. are contributing around 25% of the blue-chip gauge's intraday rally, as the Dow Dow Jones Industrial Average is trading 470 points (0.9%) higher.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

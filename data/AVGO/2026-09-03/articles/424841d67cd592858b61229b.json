@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_FV",
+    "fetched_at": "2026-09-03T07:00:32.330849-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "As Broadcom’s stock falls, Wall Street focuses on the company’s forecast - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "As Broadcom’s stock falls, Wall Street focuses on the company’s forecast\nBroadcom perhaps came up short of true ‘market expectations’ with its latest outlook, though one analyst thinks management may be taking a conservative stance on its potential\nBroadcom says the market for its custom chips is expanding, but investors wanted to see that potential better reflected in near-term numbers.\nA big nitpick from Broadcom’s AVGO latest earnings report was its guidance. The company expects revenue to reach $34.8 billion in the October quarter, above the $34.7 billion expected from analysts tracked by FactSet. But, according to J.P. Morgan analyst Harlan Sur, “market expectations” were actually a bit higher than that.",
+    "text_blocks": [
+      "As Broadcom’s stock falls, Wall Street focuses on the company’s forecast",
+      "Broadcom perhaps came up short of true ‘market expectations’ with its latest outlook, though one analyst thinks management may be taking a conservative stance on its potential",
+      "Broadcom says the market for its custom chips is expanding, but investors wanted to see that potential better reflected in near-term numbers.",
+      "A big nitpick from Broadcom’s AVGO latest earnings report was its guidance. The company expects revenue to reach $34.8 billion in the October quarter, above the $34.7 billion expected from analysts tracked by FactSet. But, according to J.P. Morgan analyst Harlan Sur, “market expectations” were actually a bit higher than that."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-gets-problem-google-203038795.html",
+    "fetched_at": "2026-09-03T07:00:35.586485-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stock Gets New Problem From Google",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) shares dropped about 7% Wednesday after Google (NASDAQ:GOOGL) launched a new artificial-intelligence model aimed directly at government cybersecurity and national-security workloads. The selloff reflects a bigger investor concern than one new product: Google is moving into a lucrative corner of defense AI where Palantir has built a powerful competitive position.\nPalantir is best known for data and AI platforms used by government and defense customers to support mission-critical operations. That makes competition for federal AI workloads particularly important because government business has been a major part of the company's growth story.\nGoogle's new Gemini 3.8 Flash Cyber model can scan computer systems for vulnerabilities, identify threats and generate automated fixes in real time.\nFor now, the threat to Palantir is somewhat contained. Google is restricting access through its specialized Fairwind Program, making the model available only to vetted government authorities and trusted national-security defenders.\nStill, the strategic overlap is hard to ignore. Cybersecurity and defense-focused AI are areas where Palantir has differentiated itself, and Google's entry shows that some of the world's largest technology companies increasingly want the same mission-critical government workloads.\nThe launch does not mean Palantir has lost customers or contracts. But the 7% stock decline shows investors are increasingly sensitive to evidence that Big Tech could challenge its position.\nWall Street remains constructive overall, with 17 Buy ratings, four Holds and two Sells. The average analyst price target of $197.89 implies roughly 17.77% upside.\nInvestor takeaway\nPalantir investors should now watch whether Google's cybersecurity push expands beyond its limited initial rollout.\nThe critical indicators will be government contract wins, renewals and competitive procurement decisions, particularly whether agencies begin adopting Google's tools for workloads previously associated with Palantir.\nIf Gemini 3.8 Flash Cyber remains a specialized offering with limited deployment, Wednesday's selloff could prove excessive. But if Google broadens access and begins winning major defense-AI contracts, investors may need to reassess how much competitive protection Palantir's government business really provides.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) shares dropped about 7% Wednesday after Google (NASDAQ:GOOGL) launched a new artificial-intelligence model aimed directly at government cybersecurity and national-security workloads. The selloff reflects a bigger investor concern than one new product: Google is moving into a lucrative corner of defense AI where Palantir has built a powerful competitive position.",
+      "Palantir is best known for data and AI platforms used by government and defense customers to support mission-critical operations. That makes competition for federal AI workloads particularly important because government business has been a major part of the company's growth story.",
+      "Google's new Gemini 3.8 Flash Cyber model can scan computer systems for vulnerabilities, identify threats and generate automated fixes in real time.",
+      "For now, the threat to Palantir is somewhat contained. Google is restricting access through its specialized Fairwind Program, making the model available only to vetted government authorities and trusted national-security defenders.",
+      "Still, the strategic overlap is hard to ignore. Cybersecurity and defense-focused AI are areas where Palantir has differentiated itself, and Google's entry shows that some of the world's largest technology companies increasingly want the same mission-critical government workloads.",
+      "The launch does not mean Palantir has lost customers or contracts. But the 7% stock decline shows investors are increasingly sensitive to evidence that Big Tech could challenge its position.",
+      "Wall Street remains constructive overall, with 17 Buy ratings, four Holds and two Sells. The average analyst price target of $197.89 implies roughly 17.77% upside.",
+      "Investor takeaway",
+      "Palantir investors should now watch whether Google's cybersecurity push expands beyond its limited initial rollout.",
+      "The critical indicators will be government contract wins, renewals and competitive procurement decisions, particularly whether agencies begin adopting Google's tools for workloads previously associated with Palantir.",
+      "If Gemini 3.8 Flash Cyber remains a specialized offering with limited deployment, Wednesday's selloff could prove excessive. But if Google broadens access and begins winning major defense-AI contracts, investors may need to reassess how much competitive protection Palantir's government business really provides."
+    ],
+    "html": null
+  }
+}

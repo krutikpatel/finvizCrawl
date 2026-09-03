@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_FV",
+    "fetched_at": "2026-09-03T07:00:29.673047-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nHere’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\nThe acquisition will give Nvidia access to ‘one of the most important parcels of real estate in the AI market’ and promote open-source technology\nNvidia on Thursday announced a deal to buy Hugging Face, a repository for open-source artificial-intelligence models that has been growing in stature in recent years.\nNvidia NVDA will pay roughly $11.9 billion to Hugging Face shareholders, according to the deal’s terms, and $1 billion to Hugging Face employees.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
+      "The acquisition will give Nvidia access to ‘one of the most important parcels of real estate in the AI market’ and promote open-source technology",
+      "Nvidia on Thursday announced a deal to buy Hugging Face, a repository for open-source artificial-intelligence models that has been growing in stature in recent years.",
+      "Nvidia NVDA will pay roughly $11.9 billion to Hugging Face shareholders, according to the deal’s terms, and $1 billion to Hugging Face employees."
+    ],
+    "html": null
+  }
+}

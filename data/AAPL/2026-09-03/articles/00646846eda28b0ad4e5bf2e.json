@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apple-faces-2bn-uk-lawsuit-120358136.html",
+    "fetched_at": "2026-09-03T07:00:11.578277-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple faces £2bn UK lawsuit over app tracking rules",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Apple Inc is facing a £2 billion ($2.7 billion) lawsuit in London brought on behalf of app developers over its app tracking rules. The iPhone maker is accused of abusing its power to impose stricter restrictions on third parties than on its own services.\nThe lawsuit was filed Thursday at London's Competition Appeal Tribunal. The case follows years of regulatory scrutiny over Apple's App Tracking Transparency feature, which launched in 2021.\nApple has said it introduced the feature to allow users to control whether to grant apps permission to track their activity across other companies' apps and websites.\nLawyers bringing the lawsuit say the feature imposed stricter requirements on third-party app developers than on Apple's own services, giving its advertising ecosystem a competitive advantage.\nAnn Pope, a former senior official with Britain's Competition and Markets Authority who is leading the lawsuit, said Apple's policy \"resulted in very significant harm to businesses that depend on Apple as a gatekeeper.\"\n\"This action is important to protect the rights of British businesses that depend on Apple, to ensure that the rules that Apple applies are fair, and to compensate the losses that British companies have suffered,\" Pope said in a statement.\nApple has previously said its App Tracking Transparency provides \"important privacy protections.\"\nApple's App Tracking Transparency feature has been the subject of investigations across Europe. In Germany last month, Apple agreed to changes to rules on how app developers can use personal data for targeted advertising.\nThe German competition authority had accused Apple of abusing its market power, after Meta Platforms Inc plus publishers, advertisers and app developers criticized the tool.\nRegulators in France, Italy, Poland and elsewhere have also examined the App Tracking Transparency framework.\nRelated articles\nApple faces £2bn UK lawsuit over app tracking rules\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- Apple Inc is facing a £2 billion ($2.7 billion) lawsuit in London brought on behalf of app developers over its app tracking rules. The iPhone maker is accused of abusing its power to impose stricter restrictions on third parties than on its own services.",
+      "The lawsuit was filed Thursday at London's Competition Appeal Tribunal. The case follows years of regulatory scrutiny over Apple's App Tracking Transparency feature, which launched in 2021.",
+      "Apple has said it introduced the feature to allow users to control whether to grant apps permission to track their activity across other companies' apps and websites.",
+      "Lawyers bringing the lawsuit say the feature imposed stricter requirements on third-party app developers than on Apple's own services, giving its advertising ecosystem a competitive advantage.",
+      "Ann Pope, a former senior official with Britain's Competition and Markets Authority who is leading the lawsuit, said Apple's policy \"resulted in very significant harm to businesses that depend on Apple as a gatekeeper.\"",
+      "\"This action is important to protect the rights of British businesses that depend on Apple, to ensure that the rules that Apple applies are fair, and to compensate the losses that British companies have suffered,\" Pope said in a statement.",
+      "Apple has previously said its App Tracking Transparency provides \"important privacy protections.\"",
+      "Apple's App Tracking Transparency feature has been the subject of investigations across Europe. In Germany last month, Apple agreed to changes to rules on how app developers can use personal data for targeted advertising.",
+      "The German competition authority had accused Apple of abusing its market power, after Meta Platforms Inc plus publishers, advertisers and app developers criticized the tool.",
+      "Regulators in France, Italy, Poland and elsewhere have also examined the App Tracking Transparency framework.",
+      "Related articles",
+      "Apple faces £2bn UK lawsuit over app tracking rules",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

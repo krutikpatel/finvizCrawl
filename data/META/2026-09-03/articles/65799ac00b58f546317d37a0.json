@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/us-judge-rejects-bid-break-161532322.html",
+    "fetched_at": "2026-09-03T07:00:14.438456-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US judge rejects bid to break up Google's ad business",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A US federal judge on Wednesday refused to force Google to sell a division of its digital advertising business, rejecting the government's push to break up part of the company's ad empire.\nIn a court order, US District Court Judge Leonie Brinkema opted instead for a set of rules governing how Google must operate in the ad market.\nThe decision is the second time in recent years that a federal judge has declined to dismantle a piece of Google's business, after a judge last year refused to force the sale of its Chrome browser in a separate monopoly case over online search.\nThose cases are part of a broader effort by the Department of Justice (DOJ) to curtail the competitive dominance of big tech companies, including Apple, Amazon and Meta.\nResults have been mixed, with another judge deciding against government lawyers in a suit concerning Meta's social media empire but other decision going the government's way.\n\"We're very pleased the Court rejected the DOJ's proposal to break apart tools that help small businesses reach new customers and grow,\" Lee-Anne Mulholland, Google's vice president of regulatory affairs, said in a statement.\nMatt Schruers, president of the Computer & Communications Industry Association -- of which Google is a member -- said the decision \"confirms that antitrust remedies should be narrowly tailored to address specific identified harms.\"\n- Ruling under seal -\nThe reasoning behind today's decision was not immediately made public.\nBrinkema filed her opinion under seal for 14 days, leaving the details of how Google must change its ad business unknown for now.\nShe gave the two sides 30 days to submit a joint proposed final judgment.\nThe case focused on Google's ad tech \"stack\" -- the suite of tools that website publishers use to sell ads and advertisers use to buy them.\nBrinkema -- whose court is in Alexandria, Virginia, outside Washington -- ruled last year that Google had willfully monopolized both the publisher ad server and ad exchange markets, and had unlawfully tied the two products together.\nGoogle has said it will appeal the underlying liability ruling.\nThe government's case portrayed Google as simultaneously controlling multiple sides of the digital advertising marketplace, owning the platform that publishers use to sell ads as well as the exchange where transactions occur, all while commanding huge advertiser demand.\nAccording to the Department of Justice, Google once compared this arrangement to Goldman Sachs owning the New York Stock Exchange.",
+    "text_blocks": [
+      "A US federal judge on Wednesday refused to force Google to sell a division of its digital advertising business, rejecting the government's push to break up part of the company's ad empire.",
+      "In a court order, US District Court Judge Leonie Brinkema opted instead for a set of rules governing how Google must operate in the ad market.",
+      "The decision is the second time in recent years that a federal judge has declined to dismantle a piece of Google's business, after a judge last year refused to force the sale of its Chrome browser in a separate monopoly case over online search.",
+      "Those cases are part of a broader effort by the Department of Justice (DOJ) to curtail the competitive dominance of big tech companies, including Apple, Amazon and Meta.",
+      "Results have been mixed, with another judge deciding against government lawyers in a suit concerning Meta's social media empire but other decision going the government's way.",
+      "\"We're very pleased the Court rejected the DOJ's proposal to break apart tools that help small businesses reach new customers and grow,\" Lee-Anne Mulholland, Google's vice president of regulatory affairs, said in a statement.",
+      "Matt Schruers, president of the Computer & Communications Industry Association -- of which Google is a member -- said the decision \"confirms that antitrust remedies should be narrowly tailored to address specific identified harms.\"",
+      "- Ruling under seal -",
+      "The reasoning behind today's decision was not immediately made public.",
+      "Brinkema filed her opinion under seal for 14 days, leaving the details of how Google must change its ad business unknown for now.",
+      "She gave the two sides 30 days to submit a joint proposed final judgment.",
+      "The case focused on Google's ad tech \"stack\" -- the suite of tools that website publishers use to sell ads and advertisers use to buy them.",
+      "Brinkema -- whose court is in Alexandria, Virginia, outside Washington -- ruled last year that Google had willfully monopolized both the publisher ad server and ad exchange markets, and had unlawfully tied the two products together.",
+      "Google has said it will appeal the underlying liability ruling.",
+      "The government's case portrayed Google as simultaneously controlling multiple sides of the digital advertising marketplace, owning the platform that publishers use to sell ads as well as the exchange where transactions occur, all while commanding huge advertiser demand.",
+      "According to the Department of Justice, Google once compared this arrangement to Goldman Sachs owning the New York Stock Exchange."
+    ],
+    "html": null
+  }
+}

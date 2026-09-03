@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/microsoft-follows-amazon-alphabet-cloud-121419940.html",
+    "fetched_at": "2026-09-03T07:00:42.702433-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Follows Amazon and Alphabet on Cloud Disclosure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT) will report Azure revenue in dollars every quarter for the first time. The change comes with a wider overhaul that cuts operating segments from three to two, replacing a structure that had stood since 2015. Amazon (NASDAQ:AMZN) began disclosing AWS revenue in 2015 and Alphabet (NASDAQ:GOOGL) started reporting Google Cloud in 2020. Microsoft shares were up 0.56% premarket.\nThe new definition strips out GitHub cloud services, developer cloud services, the Security Copilot assistant and healthcare and life sciences cloud products. Under the new structure, Azure revenue grew 42% to $29.42 billion in the June quarter, against 43% under the old Azure and other cloud services measure. Chief executive Satya Nadella wrote that Azure \"becomes more purely our consumption-based platform and infrastructure business.\"\nMicrosoft will supply two years of recast results and adjusted guidance, but will stop showing costs and operating margins for the three former segments. The new reporting lines are Agents and Infra, guided to $75.15 billion to $75.75 billion, and Devices and Consumer, guided to $14.7 billion to $15.2 billion. Azure is expected to grow 44% to 45% at constant currency in the first quarter.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT) will report Azure revenue in dollars every quarter for the first time. The change comes with a wider overhaul that cuts operating segments from three to two, replacing a structure that had stood since 2015. Amazon (NASDAQ:AMZN) began disclosing AWS revenue in 2015 and Alphabet (NASDAQ:GOOGL) started reporting Google Cloud in 2020. Microsoft shares were up 0.56% premarket.",
+      "The new definition strips out GitHub cloud services, developer cloud services, the Security Copilot assistant and healthcare and life sciences cloud products. Under the new structure, Azure revenue grew 42% to $29.42 billion in the June quarter, against 43% under the old Azure and other cloud services measure. Chief executive Satya Nadella wrote that Azure \"becomes more purely our consumption-based platform and infrastructure business.\"",
+      "Microsoft will supply two years of recast results and adjusted guidance, but will stop showing costs and operating margins for the three former segments. The new reporting lines are Agents and Infra, guided to $75.15 billion to $75.75 billion, and Devices and Consumer, guided to $14.7 billion to $15.2 billion. Azure is expected to grow 44% to 45% at constant currency in the first quarter."
+    ],
+    "html": null
+  }
+}

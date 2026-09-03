@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a347a59f-f3d4-3f32-83db-54f00e8bca30/uniswap-%28uni%29-price-surges.html",
+    "fetched_at": "2026-09-03T07:00:22.088992-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Uniswap (UNI) Price Surges 100%, and One Chain Playing ‘Robin Hood' Explains Why",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Uniswap price has doubled since August 14, and the money comes from an unexpected place. Robinhood Chain, the network Robinhood launched on Arbitrum in July, now generates two thirds of everything Uniswap earns.\nThe original Robin Hood took from the rich and gave to the poor. This one takes from the chain it was built on and pays a protocol that has found it hard to keep its revenue.\nRobinhood's Record Month Ran on Uniswap\nRobinhood Chain traded $17.99 billion in August, 26% more than July, per DefiLlama's Robinhood Chain data, and September 1 was its biggest single day yet.\nAlmost all of it was Uniswap. On September 1, $1.75 billion of the chain's $1.95 billion passed through Uniswap pools, per Dune, so nearly every new dollar on the chain is a new dollar of Uniswap fees.\nThe number of traders barely changed. Wallets rose 22% since August 1 while volume rose 7.9 times, so each is trading about six times more.\nExisting users are putting more money to work, and since Uniswap earns a percentage of each trade, that deepening interest is worth more to it than a rush of new wallets.\nSo who collects those fees?\nTaking From Arbitrum, Paying Uniswap?\nNot the chain's landlord. Robinhood Chain is an Arbitrum Orbit chain, meaning Robinhood built it with Arbitrum's technology and in return hands Arbitrum 10% of the chain's net revenue, which came to $1.32 million in 30 days.\nUniswap, the exchange where the trading happens, collected $78.73 million in trading fees there over the same period. That is 60 times Arbitrum's share, and 66% of everything Uniswap earned across 47 chains. Arbitrum gets paid for lending the technology. Uniswap gets paid every time someone trades.\nThe DeFi protocol also earns more per dollar there, charging 0.465% of each dollar traded on Robinhood Chain against 0.214% globally, because Robinhood swaps land in higher fee tiers. In the two highest Uniswap v4 tiers, they paid 84 and 351 basis points against 45 and 241 on Ethereum, per Dune indexed data.\nThose tiers are where tokenized stocks trade, and their share of volume rose from under 0.1% in mid August to 4.1% on September 1. More volume at a higher rate means more fees.\nThe Weakness Robinhood Is Fixing\nMore fees matter because keeping them is where Uniswap falls short. Of $119.3 million in 30-day fees, only $9.45 million, or 7.9%, reached UNI holders through the burn approved last December. Aerodrome, the largest exchange on Base, passes 70% to holders. GMGN, a Solana meme coin trading app, passes 82%.\nRobinhood does not raise that 7.9%. It raises the fee total the 7.9% is taken from. Robinhood Chain's volume grew 26% in August, and Uniswap charges double its usual rate there. Therefore, every dollar traded on the chain produces more Uniswap fee than a dollar traded elsewhere.",
+    "text_blocks": [
+      "Uniswap price has doubled since August 14, and the money comes from an unexpected place. Robinhood Chain, the network Robinhood launched on Arbitrum in July, now generates two thirds of everything Uniswap earns.",
+      "The original Robin Hood took from the rich and gave to the poor. This one takes from the chain it was built on and pays a protocol that has found it hard to keep its revenue.",
+      "Robinhood's Record Month Ran on Uniswap",
+      "Robinhood Chain traded $17.99 billion in August, 26% more than July, per DefiLlama's Robinhood Chain data, and September 1 was its biggest single day yet.",
+      "Almost all of it was Uniswap. On September 1, $1.75 billion of the chain's $1.95 billion passed through Uniswap pools, per Dune, so nearly every new dollar on the chain is a new dollar of Uniswap fees.",
+      "The number of traders barely changed. Wallets rose 22% since August 1 while volume rose 7.9 times, so each is trading about six times more.",
+      "Existing users are putting more money to work, and since Uniswap earns a percentage of each trade, that deepening interest is worth more to it than a rush of new wallets.",
+      "So who collects those fees?",
+      "Taking From Arbitrum, Paying Uniswap?",
+      "Not the chain's landlord. Robinhood Chain is an Arbitrum Orbit chain, meaning Robinhood built it with Arbitrum's technology and in return hands Arbitrum 10% of the chain's net revenue, which came to $1.32 million in 30 days.",
+      "Uniswap, the exchange where the trading happens, collected $78.73 million in trading fees there over the same period. That is 60 times Arbitrum's share, and 66% of everything Uniswap earned across 47 chains. Arbitrum gets paid for lending the technology. Uniswap gets paid every time someone trades.",
+      "The DeFi protocol also earns more per dollar there, charging 0.465% of each dollar traded on Robinhood Chain against 0.214% globally, because Robinhood swaps land in higher fee tiers. In the two highest Uniswap v4 tiers, they paid 84 and 351 basis points against 45 and 241 on Ethereum, per Dune indexed data.",
+      "Those tiers are where tokenized stocks trade, and their share of volume rose from under 0.1% in mid August to 4.1% on September 1. More volume at a higher rate means more fees.",
+      "The Weakness Robinhood Is Fixing",
+      "More fees matter because keeping them is where Uniswap falls short. Of $119.3 million in 30-day fees, only $9.45 million, or 7.9%, reached UNI holders through the burn approved last December. Aerodrome, the largest exchange on Base, passes 70% to holders. GMGN, a Solana meme coin trading app, passes 82%.",
+      "Robinhood does not raise that 7.9%. It raises the fee total the 7.9% is taken from. Robinhood Chain's volume grew 26% in August, and Uniswap charges double its usual rate there. Therefore, every dollar traded on the chain produces more Uniswap fee than a dollar traded elsewhere."
+    ],
+    "html": null
+  }
+}

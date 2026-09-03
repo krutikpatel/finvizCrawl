@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_FV",
+    "fetched_at": "2026-09-03T07:00:42.137178-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI cloud math is broken, and it’s creating a power shift within Big Tech - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Outside the Box\nThe AI cloud math is broken, and it’s creating a power shift within Big Tech\nBuying AI hardware outright is becoming more economical than renting AI power through the cloud\nIn July, I spent €64,780, or about $75,500, on four artificial-intelligence graphics cards and the server that holds them, rather than renting the same processing power from Amazon.com AMZN by the hour. And if enough companies run that calculation at a much greater scale, it changes who profits from the AI boom.\nLet’s look at the math: When it went on sale in April 2025, the Nvidia NVDA RTX PRO 6000 Blackwell was initially listed at $8,565. By June 2026, the price jumped up to $13,250. In August 2026, those who wanted the graphics card needed to shell out a staggering $16,000, or roughly 87% above the initial price.",
+    "text_blocks": [
+      "Outside the Box",
+      "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
+      "Buying AI hardware outright is becoming more economical than renting AI power through the cloud",
+      "In July, I spent €64,780, or about $75,500, on four artificial-intelligence graphics cards and the server that holds them, rather than renting the same processing power from Amazon.com AMZN by the hour. And if enough companies run that calculation at a much greater scale, it changes who profits from the AI boom.",
+      "Let’s look at the math: When it went on sale in April 2025, the Nvidia NVDA RTX PRO 6000 Blackwell was initially listed at $8,565. By June 2026, the price jumped up to $13,250. In August 2026, those who wanted the graphics card needed to shell out a staggering $16,000, or roughly 87% above the initial price."
+    ],
+    "html": null
+  }
+}

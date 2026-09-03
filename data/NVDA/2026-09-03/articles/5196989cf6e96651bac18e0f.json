@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2788a6ce-3b75-3b5d-b681-e5334f6e0b75/nscale-touts-%24103-billion-in.html",
+    "fetched_at": "2026-09-03T07:00:39.803610-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nscale touts $103 billion in contracts ahead of IPO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nscale has presented prospective investors with a figure of approximately $103 billion in total contracted revenue as it moves toward a potential IPO that could arrive within the month, according to Reuters, which cited documents that The Information reviewed.\nSpread across an average contract length of 5.7 years, that total works out to roughly $18 billion per year, Reuters reported. One person with knowledge of the matter warned that the numbers should be treated as \"illustrative\" rather than any kind of official forecast.\nNscale, a U.K.-based cloud infrastructure provider backed by Nvidia, did not respond to a Reuters request for comment.\nThe $103 billion figure encompasses a series of large agreements Nscale has struck with major AI companies. Among them is a $45 billion deal under which Anthropic will lease roughly 460 megawatts of computing power from an Nscale data center campus in West Virginia. Under the terms of that agreement, Nscale will deploy Nvidia's Vera Rubin chips to support Anthropic's computing needs. The West Virginia facility is expected to come online at the end of 2027.\nAnthropic has been assembling computing capacity at a rapid pace. Beyond the Nscale agreement, the company signed a $35 billion cloud-computing deal with Lambda, a cloud provider also backed by Nvidia, for a Texas data center being developed by Hut 8. Anthropic has additionally signed deals worth $50 billion with neocloud Fluidstack Ltd. and $45 billion with SpaceX, according to Reuters. The infrastructure push followed a supply crunch earlier this year as usage of Anthropic's Claude models climbed, degrading reliability and performance when demand spiked.\nAnthropic is itself preparing for a public offering. The company submitted a confidential IPO filing to the Securities and Exchange Commission in June and has since begun meeting with potential investors. Anthropic investors expect the company to go public in October at a valuation of $2 trillion or more, according to the Financial Times. Anthropic surpassed OpenAI in quarterly revenue for the first time in the second quarter, posting $11.6 billion.\nNscale, founded in 2024, has previously struck deals with Microsoft, according to The Information.",
+    "text_blocks": [
+      "Nscale has presented prospective investors with a figure of approximately $103 billion in total contracted revenue as it moves toward a potential IPO that could arrive within the month, according to Reuters, which cited documents that The Information reviewed.",
+      "Spread across an average contract length of 5.7 years, that total works out to roughly $18 billion per year, Reuters reported. One person with knowledge of the matter warned that the numbers should be treated as \"illustrative\" rather than any kind of official forecast.",
+      "Nscale, a U.K.-based cloud infrastructure provider backed by Nvidia, did not respond to a Reuters request for comment.",
+      "The $103 billion figure encompasses a series of large agreements Nscale has struck with major AI companies. Among them is a $45 billion deal under which Anthropic will lease roughly 460 megawatts of computing power from an Nscale data center campus in West Virginia. Under the terms of that agreement, Nscale will deploy Nvidia's Vera Rubin chips to support Anthropic's computing needs. The West Virginia facility is expected to come online at the end of 2027.",
+      "Anthropic has been assembling computing capacity at a rapid pace. Beyond the Nscale agreement, the company signed a $35 billion cloud-computing deal with Lambda, a cloud provider also backed by Nvidia, for a Texas data center being developed by Hut 8. Anthropic has additionally signed deals worth $50 billion with neocloud Fluidstack Ltd. and $45 billion with SpaceX, according to Reuters. The infrastructure push followed a supply crunch earlier this year as usage of Anthropic's Claude models climbed, degrading reliability and performance when demand spiked.",
+      "Anthropic is itself preparing for a public offering. The company submitted a confidential IPO filing to the Securities and Exchange Commission in June and has since begun meeting with potential investors. Anthropic investors expect the company to go public in October at a valuation of $2 trillion or more, according to the Financial Times. Anthropic surpassed OpenAI in quarterly revenue for the first time in the second quarter, posting $11.6 billion.",
+      "Nscale, founded in 2024, has previously struck deals with Microsoft, according to The Information."
+    ],
+    "html": null
+  }
+}

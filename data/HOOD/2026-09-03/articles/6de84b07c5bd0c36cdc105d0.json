@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/morgan-stanley-upgrades-robinhood-stock-price-target-090126",
+    "fetched_at": "2026-09-03T07:00:21.485189-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/morgan-stanley-upgrades-robinhood-stock-price-target-090126",
+      "context": {
+        "url": "https://qz.com/morgan-stanley-upgrades-robinhood-stock-price-target-090126"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

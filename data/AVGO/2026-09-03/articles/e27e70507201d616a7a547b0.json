@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-just-put-massive-number-135425778.html",
+    "fetched_at": "2026-09-03T07:00:32.850464-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Just Put a Massive Number on Its AI Future",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom Inc. (AVGO, Financials) is putting forward one of the chip's most aggressive AI sales projections. The company estimates fiscal 2026 AI sales to be around $58 billion, increasing 186% from the previous year. Management forecasts a further strong acceleration from there.\nBroadcom said it has secured supply to support around $115 billion of AI revenue in fiscal 2027 and has line of sight to about $230 billion for fiscal 2028. That would mean two more doubling in the next two years. The momentum is already in place.\nBroadcom reported $16.7 billion in AI semiconductor revenue for fiscal Q3, increasing 221% year-over-year and 54% sequentially. The business sees Q4 AI revenue of $21.7 billion, a 236% year-over-year increase.\nBroadcom shipped the first-generation custom accelerator for OpenAI during the quarter and Anthropic is on track to be our largest XPU customer in 2027, said CEO Hock Tan. There are limits on the opportunity.\nLand, power, data center shells, cutting edge wafers, substrates and HBM memory could all influence the speed of capacity deployment, management said.\nBroadcom also sees capital requirements staying high as customers build up specialized artificial intelligence systems.\nThe concern for investors is whether the corporation can turn that huge demand pipeline into revenues without compromising margins or hitting supply difficulties.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom Inc. (AVGO, Financials) is putting forward one of the chip's most aggressive AI sales projections. The company estimates fiscal 2026 AI sales to be around $58 billion, increasing 186% from the previous year. Management forecasts a further strong acceleration from there.",
+      "Broadcom said it has secured supply to support around $115 billion of AI revenue in fiscal 2027 and has line of sight to about $230 billion for fiscal 2028. That would mean two more doubling in the next two years. The momentum is already in place.",
+      "Broadcom reported $16.7 billion in AI semiconductor revenue for fiscal Q3, increasing 221% year-over-year and 54% sequentially. The business sees Q4 AI revenue of $21.7 billion, a 236% year-over-year increase.",
+      "Broadcom shipped the first-generation custom accelerator for OpenAI during the quarter and Anthropic is on track to be our largest XPU customer in 2027, said CEO Hock Tan. There are limits on the opportunity.",
+      "Land, power, data center shells, cutting edge wafers, substrates and HBM memory could all influence the speed of capacity deployment, management said.",
+      "Broadcom also sees capital requirements staying high as customers build up specialized artificial intelligence systems.",
+      "The concern for investors is whether the corporation can turn that huge demand pipeline into revenues without compromising margins or hitting supply difficulties."
+    ],
+    "html": null
+  }
+}

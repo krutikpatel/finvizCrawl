@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-buying-artificial-intelligence-platform-122907265.html",
+    "fetched_at": "2026-09-03T07:00:14.441071-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Chipmaker Nvidia is buying artificial intelligence software platform Hugging Face for $12.93 billion.\nNvidia CEO Jensen Huang wrote in a blog post Thursday that more than 18 million developers, researchers and creators use Hugging Face to share more than 3 million models, 500,000 data sets and 1 million applications. There's also more than 200,000 companies that use the platform, he said.\nIn July, the data processing systems of Hugging Face were hacked and ChatGPT maker OpenAI acknowledged that its artificial intelligence system was to blame, sending shock waves through the security community amid heightened concerns about the capabilities of powerful AI models.\nJust over a week later, Anthropic said its artificial intelligence models hacked into three other organizations during testing, and that as followed closely by an announcement from Meta, which said its AI model accessed the internet on its own and hacked another company.\nThe wave of AI intrusions occurred just a month after President Donald Trump signed an executive order creating a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.\nOn Thursday, however, Nvidia's Huang said that Hugging face will remain an open platform.\n\"Developers will choose the models they want, the frameworks they want, the clouds and inference service providers they want and the computing platforms they want,\" Huang wrote in a blog post. \"Nvidia compute will not be required to build on or deploy through Hugging Face.\"\nHugging Face will still support multi-cloud and multi-accelerator development and deployment.\nNvidia has released more than 500 models on Hugging Face and more than 250 open datasets.\nNvidia's high-end chips have emerged as AI's best building blocks and they are highly sought after. The Santa Clara, California, late last month reported quarterly profits of $59.69 billion.\nWhile AI has powered stock market gains and U.S. economic growth in recent years, there's been growing skepticism about whether AI will justify the trillions of dollars that are being spent to develop the technology.\nThe AI industry is also increasingly facing pushback amid objections to the expansion in data centers and fears that the speed with which AI is being adopted could lead to widespread job losses worldwide.\nNvidia's shares jumped 3% at the opening bell. Hugging Face is not publicly traded.",
+    "text_blocks": [
+      "Chipmaker Nvidia is buying artificial intelligence software platform Hugging Face for $12.93 billion.",
+      "Nvidia CEO Jensen Huang wrote in a blog post Thursday that more than 18 million developers, researchers and creators use Hugging Face to share more than 3 million models, 500,000 data sets and 1 million applications. There's also more than 200,000 companies that use the platform, he said.",
+      "In July, the data processing systems of Hugging Face were hacked and ChatGPT maker OpenAI acknowledged that its artificial intelligence system was to blame, sending shock waves through the security community amid heightened concerns about the capabilities of powerful AI models.",
+      "Just over a week later, Anthropic said its artificial intelligence models hacked into three other organizations during testing, and that as followed closely by an announcement from Meta, which said its AI model accessed the internet on its own and hacked another company.",
+      "The wave of AI intrusions occurred just a month after President Donald Trump signed an executive order creating a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.",
+      "On Thursday, however, Nvidia's Huang said that Hugging face will remain an open platform.",
+      "\"Developers will choose the models they want, the frameworks they want, the clouds and inference service providers they want and the computing platforms they want,\" Huang wrote in a blog post. \"Nvidia compute will not be required to build on or deploy through Hugging Face.\"",
+      "Hugging Face will still support multi-cloud and multi-accelerator development and deployment.",
+      "Nvidia has released more than 500 models on Hugging Face and more than 250 open datasets.",
+      "Nvidia's high-end chips have emerged as AI's best building blocks and they are highly sought after. The Santa Clara, California, late last month reported quarterly profits of $59.69 billion.",
+      "While AI has powered stock market gains and U.S. economic growth in recent years, there's been growing skepticism about whether AI will justify the trillions of dollars that are being spent to develop the technology.",
+      "The AI industry is also increasingly facing pushback amid objections to the expansion in data centers and fears that the speed with which AI is being adopted could lead to widespread job losses worldwide.",
+      "Nvidia's shares jumped 3% at the opening bell. Hugging Face is not publicly traded."
+    ],
+    "html": null
+  }
+}

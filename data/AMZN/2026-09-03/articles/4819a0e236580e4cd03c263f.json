@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
+    "fetched_at": "2026-09-03T07:00:42.663109-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-driving ambitions.\nTesla's Cybercab is a two-seat EV with scissor-like doors and no steering wheel or pedals, designed to run entirely on Tesla's Full Self-Driving software.\nThe production version will likely look similar to various prototypes spotted testing around the country, including a few driving around Austin with safety drivers.\nAn interesting wrinkle would be if there is a version sold with a steering wheel and pedals, which would allow it to be sold to private individuals. But Tesla may have poured cold water on that notion, posting \"No steering wheel, no pedals\" from the Tesla Robotaxi X.com account.\nHardware aside, Tesla's big bet on autonomy is based on logistics and software. Wall Street believes Tesla needs to turn its robotaxi fleet into an autonomous ride-hailing network and sell Full Self-Driving subscriptions to private owners at software-like margins to justify its valuations.\nMorgan Stanley analyst Andrew Percoco wrote in a note to clients that Tesla heads into Thursday's event \"with a positive bias\" because, according to recent Texas DMV data, Tesla has registered around 40 additional Cybercabs for commercial operation. Percoco believes it's a sign that Tesla is preparing for a larger-scale rollout.\nIn Morgan Stanley's bull case, Tesla launches a fleet of unsupervised Cybercabs for paid retail rides across Austin, Houston, and Dallas. \"There is no magic number, but we believe the market needs to see more than a handful (~5-10) Cybercabs on the road,\" he wrote, adding that 25 to 50 vehicles across Texas would likely push the stock higher.\nThe bear case would entail \"retail demonstrations only, with limited to no deployed fleet in the field for commercial use.\" That would do little to reinvigorate excitement around Tesla's robotaxi business, and the stock would likely fade after the event, Percoco predicted.\nSeparately, a third-party robotaxi tracker shows Tesla's unsupervised fleet grew 200% since the end of the second quarter, from 57 vehicles on June 30 to 156 on Aug. 31. Continued growth in that fleet, whether Cybercab or Model Y, is \"key for the stock to outperform through year-end,\" the bank said.\nThe launch also comes days after Tesla won approval from the Nevada Transportation Authority for its robotaxi application in Las Vegas, clearing the way for up to 5,000 fully autonomous vehicles over the next 12 months, versus Waymo's 1,000-vehicle authorization in the area.",
+    "text_blocks": [
+      "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-driving ambitions.",
+      "Tesla's Cybercab is a two-seat EV with scissor-like doors and no steering wheel or pedals, designed to run entirely on Tesla's Full Self-Driving software.",
+      "The production version will likely look similar to various prototypes spotted testing around the country, including a few driving around Austin with safety drivers.",
+      "An interesting wrinkle would be if there is a version sold with a steering wheel and pedals, which would allow it to be sold to private individuals. But Tesla may have poured cold water on that notion, posting \"No steering wheel, no pedals\" from the Tesla Robotaxi X.com account.",
+      "Hardware aside, Tesla's big bet on autonomy is based on logistics and software. Wall Street believes Tesla needs to turn its robotaxi fleet into an autonomous ride-hailing network and sell Full Self-Driving subscriptions to private owners at software-like margins to justify its valuations.",
+      "Morgan Stanley analyst Andrew Percoco wrote in a note to clients that Tesla heads into Thursday's event \"with a positive bias\" because, according to recent Texas DMV data, Tesla has registered around 40 additional Cybercabs for commercial operation. Percoco believes it's a sign that Tesla is preparing for a larger-scale rollout.",
+      "In Morgan Stanley's bull case, Tesla launches a fleet of unsupervised Cybercabs for paid retail rides across Austin, Houston, and Dallas. \"There is no magic number, but we believe the market needs to see more than a handful (~5-10) Cybercabs on the road,\" he wrote, adding that 25 to 50 vehicles across Texas would likely push the stock higher.",
+      "The bear case would entail \"retail demonstrations only, with limited to no deployed fleet in the field for commercial use.\" That would do little to reinvigorate excitement around Tesla's robotaxi business, and the stock would likely fade after the event, Percoco predicted.",
+      "Separately, a third-party robotaxi tracker shows Tesla's unsupervised fleet grew 200% since the end of the second quarter, from 57 vehicles on June 30 to 156 on Aug. 31. Continued growth in that fleet, whether Cybercab or Model Y, is \"key for the stock to outperform through year-end,\" the bank said.",
+      "The launch also comes days after Tesla won approval from the Nevada Transportation Authority for its robotaxi application in Las Vegas, clearing the way for up to 5,000 fully autonomous vehicles over the next 12 months, versus Waymo's 1,000-vehicle authorization in the area."
+    ],
+    "html": null
+  }
+}

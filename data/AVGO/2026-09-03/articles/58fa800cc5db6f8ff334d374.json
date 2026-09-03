@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-targets-230-billion-ai-134408105.html",
+    "fetched_at": "2026-09-03T07:00:32.904851-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Targets $230 Billion of AI Revenue by Fiscal 2028",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom Inc. (NASDAQ:AVGO) fell 2.24% premarket after reporting third-quarter revenue of $29.59 billion, up 86% from a year ago, and non-GAAP diluted EPS of $3.32, both above LSEG consensus of $29.36 billion and $3.24. Net income more than tripled to $13.09 billion from $4.14 billion, while free cash flow reached $13.7 billion, or 46% of revenue.\nChief financial officer Amie Thuener told the call the company is helping two AI labs \"bridge the gap between their current cash flow and the significant upfront investments\" their businesses require, and said Broadcom might provide residual value guarantees that would sit as contingent liabilities.\nOn volumes, CEO Hock Tan said Broadcom expects Anthropic to deploy 5 gigawatts of TPU 8i chips in 2027, with line of sight to a further 10 gigawatts, and a 1.3 gigawatt deployment of the OpenAI Jalapeno chip next year.\nBroadcom expects AI revenue to double to $115 billion in fiscal 2027 and again to $230 billion in fiscal 2028, with earnings per share above $30. LSEG consensus for fiscal 2028 adjusted earnings per share sits at $25.86. Fourth-quarter revenue guidance of roughly $34.8 billion came in marginally below the $35.03 billion LSEG consensus.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom Inc. (NASDAQ:AVGO) fell 2.24% premarket after reporting third-quarter revenue of $29.59 billion, up 86% from a year ago, and non-GAAP diluted EPS of $3.32, both above LSEG consensus of $29.36 billion and $3.24. Net income more than tripled to $13.09 billion from $4.14 billion, while free cash flow reached $13.7 billion, or 46% of revenue.",
+      "Chief financial officer Amie Thuener told the call the company is helping two AI labs \"bridge the gap between their current cash flow and the significant upfront investments\" their businesses require, and said Broadcom might provide residual value guarantees that would sit as contingent liabilities.",
+      "On volumes, CEO Hock Tan said Broadcom expects Anthropic to deploy 5 gigawatts of TPU 8i chips in 2027, with line of sight to a further 10 gigawatts, and a 1.3 gigawatt deployment of the OpenAI Jalapeno chip next year.",
+      "Broadcom expects AI revenue to double to $115 billion in fiscal 2027 and again to $230 billion in fiscal 2028, with earnings per share above $30. LSEG consensus for fiscal 2028 adjusted earnings per share sits at $25.86. Fourth-quarter revenue guidance of roughly $34.8 billion came in marginally below the $35.03 billion LSEG consensus."
+    ],
+    "html": null
+  }
+}

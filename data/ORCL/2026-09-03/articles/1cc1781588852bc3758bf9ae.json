@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e492a859-319c-38cd-a3f2-4645790119c3/hpe-and-oracle-expand-ai-data.html",
+    "fetched_at": "2026-09-03T07:00:24.725206-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HPE and Oracle expand AI data center networking deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Hewlett Packard Enterprise and Oracle announced an expanded networking collaboration Wednesday, under which Oracle plans to deploy HPE Juniper routing and switching equipment across its AI data centers globally in a multi-year agreement.\nThe deal covers HPE Juniper PTX and MX routing platforms and QFX and EX switching platforms, along with multi-year networking support services and financing capabilities, the company said. As part of the agreement, HPE issued Oracle warrants to purchase shares of HPE common stock.\nHPE Juniper networking equipment already supports elements of Oracle Cloud Infrastructure's data center and edge networks. The expanded agreement targets Oracle's growing AI supercluster buildout, where large GPU clusters place heavy demands on bandwidth, latency, congestion management, and fault recovery, HPE said. The latest QFX switches will provide high-density connectivity and advanced congestion management for large AI backend networks using RoCEv2, or RDMA over Converged Ethernet version 2.\nThe two companies are also working on intelligent telemetry tools to give Oracle deeper visibility into network behavior, with the goal of detecting queue buildup, packet loss, and component degradation earlier to limit disruptions to GPU utilization and network availability, HPE said.\n\"Building AI infrastructure at Oracle's scale requires an integrated ecosystem where every layer of the stack works together,\" Mahesh Thiagarajan, executive vice president of Oracle Cloud Infrastructure, said in a statement. \"HPE Juniper Networking has been an important part of our cloud architecture and now plays a key role in our AI clusters, regional data centers, and edge networks.\"\nThe partnership announcement came alongside HPE's third-quarter earnings report, in which the company raised its fiscal 2026 revenue growth forecast to 34% to 37% after reporting record quarterly sales driven by demand for AI servers and networking equipment. Networking revenue jumped 75% to $2.9 billion in the quarter, with data center networking more than doubling and routing revenue surging 270%.\nOracle has been borrowing tens of billions of dollars to fund its AI data center expansion, with capital expenditures reaching $55.7 billion in fiscal 2026, up from $21.2 billion the prior year. Oracle's cloud infrastructure segment expanded 77% in fiscal 2026, and the company has guided for roughly $70 billion in net capital expenditure spending in fiscal 2027, according to statements made on its earnings call.",
+    "text_blocks": [
+      "Hewlett Packard Enterprise and Oracle announced an expanded networking collaboration Wednesday, under which Oracle plans to deploy HPE Juniper routing and switching equipment across its AI data centers globally in a multi-year agreement.",
+      "The deal covers HPE Juniper PTX and MX routing platforms and QFX and EX switching platforms, along with multi-year networking support services and financing capabilities, the company said. As part of the agreement, HPE issued Oracle warrants to purchase shares of HPE common stock.",
+      "HPE Juniper networking equipment already supports elements of Oracle Cloud Infrastructure's data center and edge networks. The expanded agreement targets Oracle's growing AI supercluster buildout, where large GPU clusters place heavy demands on bandwidth, latency, congestion management, and fault recovery, HPE said. The latest QFX switches will provide high-density connectivity and advanced congestion management for large AI backend networks using RoCEv2, or RDMA over Converged Ethernet version 2.",
+      "The two companies are also working on intelligent telemetry tools to give Oracle deeper visibility into network behavior, with the goal of detecting queue buildup, packet loss, and component degradation earlier to limit disruptions to GPU utilization and network availability, HPE said.",
+      "\"Building AI infrastructure at Oracle's scale requires an integrated ecosystem where every layer of the stack works together,\" Mahesh Thiagarajan, executive vice president of Oracle Cloud Infrastructure, said in a statement. \"HPE Juniper Networking has been an important part of our cloud architecture and now plays a key role in our AI clusters, regional data centers, and edge networks.\"",
+      "The partnership announcement came alongside HPE's third-quarter earnings report, in which the company raised its fiscal 2026 revenue growth forecast to 34% to 37% after reporting record quarterly sales driven by demand for AI servers and networking equipment. Networking revenue jumped 75% to $2.9 billion in the quarter, with data center networking more than doubling and routing revenue surging 270%.",
+      "Oracle has been borrowing tens of billions of dollars to fund its AI data center expansion, with capital expenditures reaching $55.7 billion in fiscal 2026, up from $21.2 billion the prior year. Oracle's cloud infrastructure segment expanded 77% in fiscal 2026, and the company has guided for roughly $70 billion in net capital expenditure spending in fiscal 2027, according to statements made on its earnings call."
+    ],
+    "html": null
+  }
+}

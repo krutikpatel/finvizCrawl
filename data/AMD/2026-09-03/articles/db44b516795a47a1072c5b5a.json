@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7e4ae8cb-caf0-3e8a-9541-d88161095f9c/beyond-the-cloud-giants%3A-what.html",
+    "fetched_at": "2026-09-03T07:00:45.430864-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The market is obsessed with a handful of hyperscalers, but the real story might be the thousands of customers you've never heard of.\nYou've seen the run in NVIDIA (NVDA) stock. You know the story about the artificial intelligence boom and the large-scale data centers being built by the world's biggest tech companies. It's a compelling narrative. But what if the most powerful driver for NVIDIA's future isn't about those familiar names at all?\nThe next leg of growth could come from an engine that's already huge, growing rapidly, and yet remains largely out of the spotlight.\nA $40 Billion Business Hiding In Plain Sight\nWhile everyone watches the hyperscalers, NVIDIA has quietly built another business that management says will soon represent \"roughly half of our data center business.\" They call it ACIE — a grouping of AI clouds, industrial clients, and enterprises. In the latest quarter, this segment's revenue hit $40 billion, a jump of 138% from the same quarter a year ago. Far from being a side project, this is a core pillar of the company that is rapidly expanding.\nThis is the part of the market composed of sovereign nations, regional cloud providers, and corporations in sectors from automotive to healthcare, all racing to build their own AI capabilities. It's a sprawling, diverse customer base that is creating a powerful second wave of demand.\nSelling the Entire AI Factory, Not Just the Chips\nHere's why that second wave plays directly to NVIDIA's strengths. These customers typically aren't designing their own custom chips. As management notes, they \"need an entire factory platform built for them.\" This is where NVIDIA's strategy of selling a complete, integrated system, from GPUs and CPUs to networking and software, becomes a formidable advantage. Instead of acting as a mere component supplier, the company serves as the general contractor for the global AI buildout.\nThe economics reflect this shift. Management noted its revenue opportunity per gigawatt of a data center has grown from roughly $18 billion in the Hopper generation to an expected $40 billion with the upcoming Vera Rubin platform. That's more than double the value captured from the same physical footprint.\nThe Standalone CPU Adds Another Engine\nReinforcing this platform strategy is the company's push into standalone CPUs. With its new Vera CPU, NVIDIA is targeting a market it has never directly addressed before. The company noted on a prior call that it has \"visibility to nearly $20 billion in total CPU revenue this year.\" Looking ahead, management's preliminary expectation is for its CPU revenue to \"more than double in fiscal '28.\" This new venture is more than an add-on; it represents a significant new business line that makes its \"AI factory\" offering even more comprehensive.",
+    "text_blocks": [
+      "The market is obsessed with a handful of hyperscalers, but the real story might be the thousands of customers you've never heard of.",
+      "You've seen the run in NVIDIA (NVDA) stock. You know the story about the artificial intelligence boom and the large-scale data centers being built by the world's biggest tech companies. It's a compelling narrative. But what if the most powerful driver for NVIDIA's future isn't about those familiar names at all?",
+      "The next leg of growth could come from an engine that's already huge, growing rapidly, and yet remains largely out of the spotlight.",
+      "A $40 Billion Business Hiding In Plain Sight",
+      "While everyone watches the hyperscalers, NVIDIA has quietly built another business that management says will soon represent \"roughly half of our data center business.\" They call it ACIE — a grouping of AI clouds, industrial clients, and enterprises. In the latest quarter, this segment's revenue hit $40 billion, a jump of 138% from the same quarter a year ago. Far from being a side project, this is a core pillar of the company that is rapidly expanding.",
+      "This is the part of the market composed of sovereign nations, regional cloud providers, and corporations in sectors from automotive to healthcare, all racing to build their own AI capabilities. It's a sprawling, diverse customer base that is creating a powerful second wave of demand.",
+      "Selling the Entire AI Factory, Not Just the Chips",
+      "Here's why that second wave plays directly to NVIDIA's strengths. These customers typically aren't designing their own custom chips. As management notes, they \"need an entire factory platform built for them.\" This is where NVIDIA's strategy of selling a complete, integrated system, from GPUs and CPUs to networking and software, becomes a formidable advantage. Instead of acting as a mere component supplier, the company serves as the general contractor for the global AI buildout.",
+      "The economics reflect this shift. Management noted its revenue opportunity per gigawatt of a data center has grown from roughly $18 billion in the Hopper generation to an expected $40 billion with the upcoming Vera Rubin platform. That's more than double the value captured from the same physical footprint.",
+      "The Standalone CPU Adds Another Engine",
+      "Reinforcing this platform strategy is the company's push into standalone CPUs. With its new Vera CPU, NVIDIA is targeting a market it has never directly addressed before. The company noted on a prior call that it has \"visibility to nearly $20 billion in total CPU revenue this year.\" Looking ahead, management's preliminary expectation is for its CPU revenue to \"more than double in fiscal '28.\" This new venture is more than an add-on; it represents a significant new business line that makes its \"AI factory\" offering even more comprehensive."
+    ],
+    "html": null
+  }
+}

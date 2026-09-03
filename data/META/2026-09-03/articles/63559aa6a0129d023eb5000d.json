@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a3a2a0a9-6af9-30da-8a62-b9569a75401f/meta-stock-jumps-to-best-day.html",
+    "fetched_at": "2026-09-03T07:00:14.378345-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "META Stock Jumps To Best Day In Nearly A Month — Meta Platforms Unveils Most Powerful AI Model To Compete With AI Rivals",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "META Stock Jumps To Best Day In Nearly A Month — Meta Platforms Unveils Most Powerful AI Model To Compete With AI Rivals\n-\nMuse Spark 1.3 offers greater efficiency, improved agentic capabilities, and stronger coding skills than top industry competitors.\n-\nAvailable to developers via the Meta Model API at the same price as its predecessor, the paid model will soon integrate into Meta's flagship consumer products, including Instagram, Facebook, and Meta AI.\n-\nMeta is holding off on deciding whether to publicly release the model's weights while continuing development on its next major AI project, \"Watermelon.\"\nMeta Platforms Inc. (META) on Wednesday introduced its newest flagship artificial intelligence model, Muse Spark 1.3, to rival market leaders OpenAI and Anthropic.\nThe updated model, made available to developers on Wednesday through the Meta Model API, represents the company's \"biggest jump so far on model performance,\" according to Alexandr Wang, Meta's chief AI officer.\nThe technology will soon roll out across Meta's family of social platforms, including Facebook, Instagram, and the Meta AI assistant. Wang said Muse Spark 1.3 demonstrates significant improvements in writing code and executing agentic tasks, in which AI independently performs multi-step actions on behalf of users.\nAccording to Wang, the model performs competitively against Anthropic's Claude Fable 5.1 and surpasses OpenAI's current GPT-5.6 Sol model in coding tasks.\nMETA stock gained about 2.5% on Wednesday to record its best single-day jump in nearly a month.\nBusiness Strategy And Pricing\nThe release comes as Meta faces increased investor scrutiny over its massive AI infrastructure investments. Under Chief Executive Officer Mark Zuckerberg, the Menlo Park-based company restructured its internal AI division into Meta Superintelligence Labs (MSL) and appointed Wang to lead the unit last year.\nMuse Spark 1.3 will be offered at the same price tier as Muse Spark 1.2. According to Wang, developer adoption for Meta's API services has grown rapidly, with some users processing trillions of tokens weekly.\nWhile Meta has historically championed open-source AI development, Wang said the company has not yet decided whether to publicly release the model's open weights, its internal blueprint. However, Meta still intends to publish the weights for Muse Spark 1.2.\nEnhanced Efficiency And Rigorous Safety\nMuse Spark 1.3 offers several architectural improvements over earlier versions. The model requires 25% fewer tokens to perform operations, improves context retention over lengthy instruction sets, and supports concurrent workflows within a single session.",
+    "text_blocks": [
+      "META Stock Jumps To Best Day In Nearly A Month — Meta Platforms Unveils Most Powerful AI Model To Compete With AI Rivals",
+      "-",
+      "Muse Spark 1.3 offers greater efficiency, improved agentic capabilities, and stronger coding skills than top industry competitors.",
+      "-",
+      "Available to developers via the Meta Model API at the same price as its predecessor, the paid model will soon integrate into Meta's flagship consumer products, including Instagram, Facebook, and Meta AI.",
+      "-",
+      "Meta is holding off on deciding whether to publicly release the model's weights while continuing development on its next major AI project, \"Watermelon.\"",
+      "Meta Platforms Inc. (META) on Wednesday introduced its newest flagship artificial intelligence model, Muse Spark 1.3, to rival market leaders OpenAI and Anthropic.",
+      "The updated model, made available to developers on Wednesday through the Meta Model API, represents the company's \"biggest jump so far on model performance,\" according to Alexandr Wang, Meta's chief AI officer.",
+      "The technology will soon roll out across Meta's family of social platforms, including Facebook, Instagram, and the Meta AI assistant. Wang said Muse Spark 1.3 demonstrates significant improvements in writing code and executing agentic tasks, in which AI independently performs multi-step actions on behalf of users.",
+      "According to Wang, the model performs competitively against Anthropic's Claude Fable 5.1 and surpasses OpenAI's current GPT-5.6 Sol model in coding tasks.",
+      "META stock gained about 2.5% on Wednesday to record its best single-day jump in nearly a month.",
+      "Business Strategy And Pricing",
+      "The release comes as Meta faces increased investor scrutiny over its massive AI infrastructure investments. Under Chief Executive Officer Mark Zuckerberg, the Menlo Park-based company restructured its internal AI division into Meta Superintelligence Labs (MSL) and appointed Wang to lead the unit last year.",
+      "Muse Spark 1.3 will be offered at the same price tier as Muse Spark 1.2. According to Wang, developer adoption for Meta's API services has grown rapidly, with some users processing trillions of tokens weekly.",
+      "While Meta has historically championed open-source AI development, Wang said the company has not yet decided whether to publicly release the model's open weights, its internal blueprint. However, Meta still intends to publish the weights for Muse Spark 1.2.",
+      "Enhanced Efficiency And Rigorous Safety",
+      "Muse Spark 1.3 offers several architectural improvements over earlier versions. The model requires 25% fewer tokens to perform operations, improves context retention over lengthy instruction sets, and supports concurrent workflows within a single session."
+    ],
+    "html": null
+  }
+}

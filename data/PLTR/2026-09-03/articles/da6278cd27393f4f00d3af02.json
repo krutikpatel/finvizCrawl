@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-shares-sink-despite-192-203219324.html",
+    "fetched_at": "2026-09-03T07:00:35.586286-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Shares Sink Despite $192 Million Army Contract",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (PLTR) shares fell about 7% Wednesday even after the U.S. Army moved its TITAN program into production with $192 million in awards involving Palantir and Anduril.\nThe initial orders cover eight systems, split between four advanced and four basic versions. Palantir will lead overall production and software work, while Anduril will handle hardware and shelter integration.\nThe contract gives Palantir a larger role in an Army program designed to combine information from multiple sensors and support faster battlefield targeting. The systems are expected to move from development into operational use, with deliveries planned over the next 18 months.\nThe market reaction was muted despite the defense award. Palantir had recently rallied sharply, leaving investors focused on valuation and profit-taking as the shares pulled back from recent highs.\nWhat it means for the stock: The Army order adds a new production milestone, but near-term trading may remain sensitive to valuation and investor profit-taking.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (PLTR) shares fell about 7% Wednesday even after the U.S. Army moved its TITAN program into production with $192 million in awards involving Palantir and Anduril.",
+      "The initial orders cover eight systems, split between four advanced and four basic versions. Palantir will lead overall production and software work, while Anduril will handle hardware and shelter integration.",
+      "The contract gives Palantir a larger role in an Army program designed to combine information from multiple sensors and support faster battlefield targeting. The systems are expected to move from development into operational use, with deliveries planned over the next 18 months.",
+      "The market reaction was muted despite the defense award. Palantir had recently rallied sharply, leaving investors focused on valuation and profit-taking as the shares pulled back from recent highs.",
+      "What it means for the stock: The Army order adds a new production milestone, but near-term trading may remain sensitive to valuation and investor profit-taking."
+    ],
+    "html": null
+  }
+}
