@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/satya-nadella-just-sold-43-122101706.html",
+    "fetched_at": "2026-09-04T07:00:30.668509-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Satya Nadella Just Sold $43 Million of Microsoft Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft Corp. (MSFT, Financials), the software and cloud computing business, saw a big insider sell by CEO Satya Nadella, with its stock trading near $500.Nadella sold 86,525 shares for around $43.4 million on Sept. 1, according to a regulatory filing. The sale of the shares took place in several transactions at values between $498 and $505. The figure is eye-popping, but the timing must be put in context.Nadella executed the transactions under a Rule 10b5-1 trading strategy issued March 8. Such strategies let executives set instructions for selling stock in advance, lessening the significance of the transaction as a new signal about management's view of the company.This was Mr Nadella's first selling of Microsoft stock this year. After the acquisition, he holds around 486,763 shares outright, giving him a significant personal stake in the corporation.So it stands out more for its enormity than what it means for Microsoft's prospects for investors. The company is still under intense scrutiny as investors balance huge expenditure on AI infrastructure with ongoing growth in Azure and other cloud operations.The next big test will be Microsoft's fiscal first-quarter results, when investors get another look at whether AI expenditure is translating into higher cloud growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft Corp. (MSFT, Financials), the software and cloud computing business, saw a big insider sell by CEO Satya Nadella, with its stock trading near $500.Nadella sold 86,525 shares for around $43.4 million on Sept. 1, according to a regulatory filing. The sale of the shares took place in several transactions at values between $498 and $505. The figure is eye-popping, but the timing must be put in context.Nadella executed the transactions under a Rule 10b5-1 trading strategy issued March 8. Such strategies let executives set instructions for selling stock in advance, lessening the significance of the transaction as a new signal about management's view of the company.This was Mr Nadella's first selling of Microsoft stock this year. After the acquisition, he holds around 486,763 shares outright, giving him a significant personal stake in the corporation.So it stands out more for its enormity than what it means for Microsoft's prospects for investors. The company is still under intense scrutiny as investors balance huge expenditure on AI infrastructure with ongoing growth in Azure and other cloud operations.The next big test will be Microsoft's fiscal first-quarter results, when investors get another look at whether AI expenditure is translating into higher cloud growth."
+    ],
+    "html": null
+  }
+}

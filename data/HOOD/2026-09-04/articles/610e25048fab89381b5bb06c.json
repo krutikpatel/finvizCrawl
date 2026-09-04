@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amc-stock-rises-5-ceo-133236202.html",
+    "fetched_at": "2026-09-04T07:00:20.921942-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMC Stock Rises 5% as CEO Calls Robinhood Tokens Vile",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAMC Entertainment Holdings Inc. (NYSE:AMC) rose 5.51% premarket after CEO Adam Aron attacked Robinhood Markets Inc. (NASDAQ:HOOD) over tokenized products tracking AMC shares. Robinhood slipped 2.04%. Aron called the practice \"contemptible, outrageous, disgusting, detestable, inexcusable, vile\" in a post on X, and asked how it could possibly be legal.\nThe stock tokens are not registered under US securities laws, Aron wrote, and cover AMC along with more than 190 other companies. AMC had no involvement in creating them. \"We have no connection to this at all, and do not condone it in any way,\" he wrote, adding that the company would put outside securities counsel on the matter immediately.\nRobinhood CEO Vlad Tenev replied publicly: \"What's the concern?\"\nAron said AMC spends millions a year complying with US securities rules, but Robinhood is skipping the same regime. Token holders get no vote and no ownership, whatever the disclosures say. He also argued the setup cuts a company off from controlling its own capital raising. He called for Robinhood to stop trading AMC tokens voluntarily, or AMC's securities counsel will look at forcing the issue. He said the company would be asking the SEC about it too.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AMC Entertainment Holdings Inc. (NYSE:AMC) rose 5.51% premarket after CEO Adam Aron attacked Robinhood Markets Inc. (NASDAQ:HOOD) over tokenized products tracking AMC shares. Robinhood slipped 2.04%. Aron called the practice \"contemptible, outrageous, disgusting, detestable, inexcusable, vile\" in a post on X, and asked how it could possibly be legal.",
+      "The stock tokens are not registered under US securities laws, Aron wrote, and cover AMC along with more than 190 other companies. AMC had no involvement in creating them. \"We have no connection to this at all, and do not condone it in any way,\" he wrote, adding that the company would put outside securities counsel on the matter immediately.",
+      "Robinhood CEO Vlad Tenev replied publicly: \"What's the concern?\"",
+      "Aron said AMC spends millions a year complying with US securities rules, but Robinhood is skipping the same regime. Token holders get no vote and no ownership, whatever the disclosures say. He also argued the setup cuts a company off from controlling its own capital raising. He called for Robinhood to stop trading AMC tokens voluntarily, or AMC's securities counsel will look at forcing the issue. He said the company would be asking the SEC about it too."
+    ],
+    "html": null
+  }
+}

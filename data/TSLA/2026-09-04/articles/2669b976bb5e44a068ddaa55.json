@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_FV",
+    "fetched_at": "2026-09-04T07:00:06.815611-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla’s stock falls as Cybercab launch lands with a thud - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nTesla’s stock falls as Cybercab launch lands with a thud\nThe company’s Cybercab rollout won’t be as broad as some investors had hoped\nTesla shares are trading lower on Friday, as a much-hyped robotaxi event appears to have fallen flat.\nThe electric-vehicle maker on Thursday held a launch event for the Cybercab, a two-seat, purpose-built autonomous vehicle that doesn’t have a steering wheel or pedals. The vehicle is expected to be cheaper to operate than other Tesla TSLA vehicles and to showcase the company’s technological progress.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Tesla’s stock falls as Cybercab launch lands with a thud",
+      "The company’s Cybercab rollout won’t be as broad as some investors had hoped",
+      "Tesla shares are trading lower on Friday, as a much-hyped robotaxi event appears to have fallen flat.",
+      "The electric-vehicle maker on Thursday held a launch event for the Cybercab, a two-seat, purpose-built autonomous vehicle that doesn’t have a steering wheel or pedals. The vehicle is expected to be cheaper to operate than other Tesla TSLA vehicles and to showcase the company’s technological progress."
+    ],
+    "html": null
+  }
+}

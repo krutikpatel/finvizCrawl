@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-makes-stunning-15-billion-133729756.html",
+    "fetched_at": "2026-09-04T07:00:41.592359-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic Makes Stunning $15 Billion Move Before IPO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN)-backed Anthropic is preparing for an IPO with a financing package that shows how expensive the AI race has become.\nThe Claude developer is nearing a $15 billion revolving credit facility, Bloomberg reported on September 4. That would be six times the $2.5 billion line secured in 2025 and could exceed the company's original $10 billion target.\nMorgan Stanley (MS) is leading the arrangement. Goldman Sachs (GS), JPMorgan Chase (NYSE:JPM) and Citigroup (NYSE:C) are also prominent, while Bank of America (NYSE:BAC), Wells Fargo (NYSE:WFC), Barclays (BARC), Deutsche Bank (DB) and UBS (NYSE:UBS) may participate.\nThe bank group does more than provide liquidity. It deepens Anthropic's relationships with institutions that could underwrite a future offering. The company reportedly wants to raise as much money as SpaceX, or more, positioning it for one of technology's largest IPOs.\nAnthropic's momentum helps explain the ambition. The company is reportedly approaching $65 billion in annualized revenue, more than seven times its pace at the end of 2025. Its latest funding round also raised $65 billion at a $965 billion post-money valuation.\nThe credit line also exposes the industry's central tension. Rapid revenue growth is being matched by enormous spending on chips, data centers, research and the computing capacity required to operate Claude.\nCompetitive pressure could complicate that equation. Anthropic says it does not want to slash prices simply to capture market share, even as OpenAI lowers model prices and cheaper Chinese systems from DeepSeek and Moonshot pressure the market.\nThat strategy may protect margins if enterprise customers keep paying for stronger performance and reliability. It could become harder to defend if competing models narrow the quality gap.\nFor investors, the $15 billion facility is both an IPO signal and a reminder: even the fastest-growing AI companies need extraordinary amounts of outside capital to maintain their lead.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN)-backed Anthropic is preparing for an IPO with a financing package that shows how expensive the AI race has become.",
+      "The Claude developer is nearing a $15 billion revolving credit facility, Bloomberg reported on September 4. That would be six times the $2.5 billion line secured in 2025 and could exceed the company's original $10 billion target.",
+      "Morgan Stanley (MS) is leading the arrangement. Goldman Sachs (GS), JPMorgan Chase (NYSE:JPM) and Citigroup (NYSE:C) are also prominent, while Bank of America (NYSE:BAC), Wells Fargo (NYSE:WFC), Barclays (BARC), Deutsche Bank (DB) and UBS (NYSE:UBS) may participate.",
+      "The bank group does more than provide liquidity. It deepens Anthropic's relationships with institutions that could underwrite a future offering. The company reportedly wants to raise as much money as SpaceX, or more, positioning it for one of technology's largest IPOs.",
+      "Anthropic's momentum helps explain the ambition. The company is reportedly approaching $65 billion in annualized revenue, more than seven times its pace at the end of 2025. Its latest funding round also raised $65 billion at a $965 billion post-money valuation.",
+      "The credit line also exposes the industry's central tension. Rapid revenue growth is being matched by enormous spending on chips, data centers, research and the computing capacity required to operate Claude.",
+      "Competitive pressure could complicate that equation. Anthropic says it does not want to slash prices simply to capture market share, even as OpenAI lowers model prices and cheaper Chinese systems from DeepSeek and Moonshot pressure the market.",
+      "That strategy may protect margins if enterprise customers keep paying for stronger performance and reliability. It could become harder to defend if competing models narrow the quality gap.",
+      "For investors, the $15 billion facility is both an IPO signal and a reminder: even the fastest-growing AI companies need extraordinary amounts of outside capital to maintain their lead."
+    ],
+    "html": null
+  }
+}

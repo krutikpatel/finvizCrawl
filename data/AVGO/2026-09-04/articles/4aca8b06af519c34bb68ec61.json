@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-5-6-212020285.html",
+    "fetched_at": "2026-09-04T07:00:33.283447-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO), the AI-chip and infrastructure-software powerhouse, tumbled 5.64% to $346.54 on Thursdayeven after quarterly revenue rocketed 86%. A separate Reuters report exposed the problem. The quarter was huge. The bar was brutal. The stock paid the price.\nBroadcom's third-quarter release delivered $29.59 billion in revenue, including $16.7 billion from AI semiconductors. Free cash flow surged to $13.67 billionan extraordinary 46% of sales. Management expects fourth-quarter revenue of approximately $34.8 billion, with AI-chip sales jumping to roughly $21.7 billion. Those are blockbuster numbers. Wall Street wanted fireworks on top of fireworks.\nAI chips could climb from 56.4% of third-quarter revenue to approximately 62.4% next quarter, with the business expanding nearly 30% sequentially. But the valuation picture flashes a warning: Broadcom's $346.537 share price sits just 1.4% below its $351.46 GF Value, leaving almost no cushion for a merely excellent quarter. The AI engine is roaring. The cash machine is humming. Yet when perfection is already priced in, even spectacular growth can land like a disappointment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO), the AI-chip and infrastructure-software powerhouse, tumbled 5.64% to $346.54 on Thursdayeven after quarterly revenue rocketed 86%. A separate Reuters report exposed the problem. The quarter was huge. The bar was brutal. The stock paid the price.",
+      "Broadcom's third-quarter release delivered $29.59 billion in revenue, including $16.7 billion from AI semiconductors. Free cash flow surged to $13.67 billionan extraordinary 46% of sales. Management expects fourth-quarter revenue of approximately $34.8 billion, with AI-chip sales jumping to roughly $21.7 billion. Those are blockbuster numbers. Wall Street wanted fireworks on top of fireworks.",
+      "AI chips could climb from 56.4% of third-quarter revenue to approximately 62.4% next quarter, with the business expanding nearly 30% sequentially. But the valuation picture flashes a warning: Broadcom's $346.537 share price sits just 1.4% below its $351.46 GF Value, leaving almost no cushion for a merely excellent quarter. The AI engine is roaring. The cash machine is humming. Yet when perfection is already priced in, even spectacular growth can land like a disappointment."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-await-august-jobs-data?mod=mw_FV",
+    "fetched_at": "2026-09-04T07:00:15.327369-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock Market Today: S&P 500, Dow open lower but Nasdaq edges up; Treasury yields get a lift as jobs data raises rate hike odds - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Sept. 4, 2026 at 9:45am ET\n3 hours ago\n4 hours ago\n6 hours ago\nHere are the top stories to read ahead of Friday's trading:\nWall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling\nNvidia takes back control of the AI trade as Big Tech nears record highs\nHow to invest in a booming stock market that’s way cheaper than the S&P 500",
+    "text_blocks": [
+      "Sept. 4, 2026 at 9:45am ET",
+      "3 hours ago",
+      "4 hours ago",
+      "6 hours ago",
+      "Here are the top stories to read ahead of Friday's trading:",
+      "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling",
+      "Nvidia takes back control of the AI trade as Big Tech nears record highs",
+      "How to invest in a booming stock market that’s way cheaper than the S&P 500"
+    ],
+    "html": null
+  }
+}

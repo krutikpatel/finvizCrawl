@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/a5e7758f-b83b-3776-9e3e-739713308204/apple-cancels-major-foldable.html",
+    "fetched_at": "2026-09-04T07:00:09.952804-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Cancels Major Foldable MacBook Plan",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple is reshaping its MacBook roadmap, dropping plans for two larger OLED models while keeping its broader transition to OLED screens on track, Omdia said.\nThe canceled products included a foldable MacBook designed to reach 16.1 to 18 inches when opened and another notebook planned with a 14.4-inch to 16.1-inch OLED panel. The move leaves the existing MacBook Pro size range of 14.3 to 16.3 inches intact.\nApple (AAPL) still plans to expand OLED technology across its MacBook and iPad products. Omdia expects 14.3-inch and 16.3-inch OLED MacBook Pro versions to arrive in late 2026, while current mini-LED models could stay available through at least 2028.\nLooking further ahead, Apple is expected to introduce a 13.8-inch MacBook in 2029. The device could sit between the MacBook Air and Pro and feature touch-sensitive OLED technology and an under-display camera, according to Omdia.\nThe changes could keep Apple's OLED strategy in focus while raising questions about its longer-term MacBook product lineup.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple is reshaping its MacBook roadmap, dropping plans for two larger OLED models while keeping its broader transition to OLED screens on track, Omdia said.",
+      "The canceled products included a foldable MacBook designed to reach 16.1 to 18 inches when opened and another notebook planned with a 14.4-inch to 16.1-inch OLED panel. The move leaves the existing MacBook Pro size range of 14.3 to 16.3 inches intact.",
+      "Apple (AAPL) still plans to expand OLED technology across its MacBook and iPad products. Omdia expects 14.3-inch and 16.3-inch OLED MacBook Pro versions to arrive in late 2026, while current mini-LED models could stay available through at least 2028.",
+      "Looking further ahead, Apple is expected to introduce a 13.8-inch MacBook in 2029. The device could sit between the MacBook Air and Pro and feature touch-sensitive OLED technology and an under-display camera, according to Omdia.",
+      "The changes could keep Apple's OLED strategy in focus while raising questions about its longer-term MacBook product lineup."
+    ],
+    "html": null
+  }
+}

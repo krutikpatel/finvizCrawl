@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-just-gave-search-maps-121236554.html",
+    "fetched_at": "2026-09-04T07:00:27.405551-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Just Gave Search, Maps and Gemini a New AI Advantage",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet Inc. (GOOGL, Financials), the parent company of Google, is bringing a new artificial intelligence weather model directly into some of its largest consumer and enterprise products.\nWeatherNext 3 uses live satellite observations to generate a new forecast every hour, with resolution as fine as 5 kilometers for some variables.\nThat is a meaningful jump from WeatherNext 2. Google says the new model can deliver forecasts up to five times sharper while avoiding the roughly six-hour data lag common in traditional numerical weather models. The technology is already moving beyond the research lab.\nGoogle is rolling WeatherNext 3 into Search, the Gemini app, Google Maps, Google Maps Platform and Earth Engine. For forecasts a day or more ahead, the company says precipitation accuracy can improve by as much as 50%.\nThe investor angle is broader than weather. More accurate forecasting could make Google's existing products more useful while giving Cloud customers in energy, agriculture, transportation and supply chains another reason to use its data and AI infrastructure.\nThe next test is whether businesses begin adopting WeatherNext 3 through Google Cloud and Maps APIs at enough scale to turn the technical improvement into deeper enterprise usage.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet Inc. (GOOGL, Financials), the parent company of Google, is bringing a new artificial intelligence weather model directly into some of its largest consumer and enterprise products.",
+      "WeatherNext 3 uses live satellite observations to generate a new forecast every hour, with resolution as fine as 5 kilometers for some variables.",
+      "That is a meaningful jump from WeatherNext 2. Google says the new model can deliver forecasts up to five times sharper while avoiding the roughly six-hour data lag common in traditional numerical weather models. The technology is already moving beyond the research lab.",
+      "Google is rolling WeatherNext 3 into Search, the Gemini app, Google Maps, Google Maps Platform and Earth Engine. For forecasts a day or more ahead, the company says precipitation accuracy can improve by as much as 50%.",
+      "The investor angle is broader than weather. More accurate forecasting could make Google's existing products more useful while giving Cloud customers in energy, agriculture, transportation and supply chains another reason to use its data and AI infrastructure.",
+      "The next test is whether businesses begin adopting WeatherNext 3 through Google Cloud and Maps APIs at enough scale to turn the technical improvement into deeper enterprise usage."
+    ],
+    "html": null
+  }
+}

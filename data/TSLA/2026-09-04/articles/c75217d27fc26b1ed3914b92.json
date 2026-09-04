@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-hands-elon-musk-134208064.html",
+    "fetched_at": "2026-09-04T07:00:07.379813-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Morgan Stanley Hands Elon Musk a New X Headache",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nTesla (NASDAQ:TSLA) CEO Elon Musk has another moderation headache at X, and this time it is coming from one of Wall Street's most powerful banks.\nMorgan Stanley (MS) has complained to X about users posting screenshots of its copyright-protected charts and research, Bloomberg reported Friday, September 4. The bank filed Digital Millennium Copyright Act complaints against at least 16 accounts, according to a document shared by Carson Group chief market strategist Ryan Detrick.\nOne consequence arrived quickly. Carson Group's X account was temporarily locked Wednesday, highlighting how the dispute could affect financial professionals who circulate Wall Street charts online.\nMorgan Stanley sends certain reports exclusively to paying clients and does not authorize them for public distribution. Once screenshots appear on X, however, institutional research can reach thousands of investors instantly, weakening the exclusivity banks sell and exposing the platform to repeated takedown demands.\nThat creates a delicate problem for Musk. X's value to finance users rests on real-time sharing and commentary, including charts that originate inside banks, brokerages and research firms. Enforcing copyright claims too aggressively could frustrate market voices. Moving too slowly could invite further complaints from institutions protecting costly intellectual property.\nFor Morgan Stanley, the action is less about silencing market debate than maintaining control over proprietary material. Its research operation depends on clients paying for access, making widespread reposting a commercial concern.\nThe immediate financial impact on X is likely limited. Yet complaints spanning at least 16 accounts suggest this may not be an isolated enforcement request. If other banks follow Morgan Stanley's lead, Musk could face a broader fight over where financial commentary ends and copyright infringement begins.\nThat boundary is especially difficult on a platform built around speed. The latest dispute leaves X balancing the users who drive financial engagement against the institutions whose content often fuels it.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Tesla (NASDAQ:TSLA) CEO Elon Musk has another moderation headache at X, and this time it is coming from one of Wall Street's most powerful banks.",
+      "Morgan Stanley (MS) has complained to X about users posting screenshots of its copyright-protected charts and research, Bloomberg reported Friday, September 4. The bank filed Digital Millennium Copyright Act complaints against at least 16 accounts, according to a document shared by Carson Group chief market strategist Ryan Detrick.",
+      "One consequence arrived quickly. Carson Group's X account was temporarily locked Wednesday, highlighting how the dispute could affect financial professionals who circulate Wall Street charts online.",
+      "Morgan Stanley sends certain reports exclusively to paying clients and does not authorize them for public distribution. Once screenshots appear on X, however, institutional research can reach thousands of investors instantly, weakening the exclusivity banks sell and exposing the platform to repeated takedown demands.",
+      "That creates a delicate problem for Musk. X's value to finance users rests on real-time sharing and commentary, including charts that originate inside banks, brokerages and research firms. Enforcing copyright claims too aggressively could frustrate market voices. Moving too slowly could invite further complaints from institutions protecting costly intellectual property.",
+      "For Morgan Stanley, the action is less about silencing market debate than maintaining control over proprietary material. Its research operation depends on clients paying for access, making widespread reposting a commercial concern.",
+      "The immediate financial impact on X is likely limited. Yet complaints spanning at least 16 accounts suggest this may not be an isolated enforcement request. If other banks follow Morgan Stanley's lead, Musk could face a broader fight over where financial commentary ends and copyright infringement begins.",
+      "That boundary is especially difficult on a platform built around speed. The latest dispute leaves X balancing the users who drive financial engagement against the institutions whose content often fuels it."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/tesla-launches-cybercab-austin-132708389.html",
+    "fetched_at": "2026-09-04T07:00:07.335646-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla launches Cybercab service in Austin",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla (TSLA) has launched its new driverless Cybercab at an event last night, rolling out the new autonomous vehicle as part of its robotaxi service in Austin, Texas, starting Friday night.\nMorning Brief Host Julie Hyman is joined by Yahoo Finance Breaking Business News Reporter Jake Conley and Interactive Brokers Chief Strategist Steve Sosnick to discuss the latest autonomous addition to Tesla's lineup.",
+    "text_blocks": [
+      "Tesla (TSLA) has launched its new driverless Cybercab at an event last night, rolling out the new autonomous vehicle as part of its robotaxi service in Austin, Texas, starting Friday night.",
+      "Morning Brief Host Julie Hyman is joined by Yahoo Finance Breaking Business News Reporter Jake Conley and Interactive Brokers Chief Strategist Steve Sosnick to discuss the latest autonomous addition to Tesla's lineup."
+    ],
+    "html": null
+  }
+}

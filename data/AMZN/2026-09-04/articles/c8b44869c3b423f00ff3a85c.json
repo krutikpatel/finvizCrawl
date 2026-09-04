@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stocks-today-fed-waller-comments-boost-indexes-464502fd?mod=bar_FV",
+    "fetched_at": "2026-09-04T07:00:41.087193-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Review & Preview: Manifesting Steady Rates<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Review & Preview: Manifesting Steady Rates\nFeeling Dovish. Federal Reserve Chair Kevin Warsh may be taking a pared-back approach to official communications, but that’s not stopping other Fed governors from saying their piece—and moving markets in the process.",
+    "text_blocks": [
+      "Review & Preview: Manifesting Steady Rates",
+      "Feeling Dovish. Federal Reserve Chair Kevin Warsh may be taking a pared-back approach to official communications, but that’s not stopping other Fed governors from saying their piece—and moving markets in the process."
+    ],
+    "html": null
+  }
+}

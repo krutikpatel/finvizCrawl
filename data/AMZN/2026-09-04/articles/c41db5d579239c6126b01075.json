@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/29cec02b-e6fd-3e9d-bafa-09f7c34f6a70/nvidia-ai-equity-investments.html",
+    "fetched_at": "2026-09-04T07:00:41.601715-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia AI equity investments hit $99 billion in one year",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia's equity investments in AI companies hit $99 billion as of July 26, a figure the company disclosed that represents a jump from approximately $7 billion twelve months prior and around $2.2 billion at the same point two years ago. The chip giant has committed more than $40 billion in 2026 alone as it moves to expand its position across the AI sector.\nThe total places Nvidia in rare company among corporate tech investors worldwide, though it remains behind Alphabet and Amazon, each of which disclosed equity holdings above $100 billion in their most recent earnings reports.\nFrontier AI labs have drawn the largest share of Nvidia's capital. In an earnings call, CFO Colette Kress said the company had invested \"nearly $50 billion in the frontier AI labs.\" Kress noted that these labs were scaling at a pace that outstripped what their balance sheets and credit profiles could bear, even as they contended with \"extraordinary\" demand for compute. That February, Nvidia announced a $30 billion commitment to OpenAI, joining a $110 billion funding round.\nNeoclouds — infrastructure providers that acquire Nvidia GPUs and lease computing capacity to enterprise customers — have similarly attracted significant capital from the company. CoreWeave received a $2 billion commitment from Nvidia at the start of the year, followed by a $2 billion deal with Nebius two months later, according to CNBC.\nNvidia has also funneled at least $6.5 billion into the photonics and optical technology space since March, a sector that transmits data via light and is seen as a more energy-efficient alternative to conventional electrical data transfer. Nvidia deployed $2 billion apiece into Lumentum, Coherent, and Marvell. Nvidia's $5 billion stake in Intel had appreciated to $30 billion, and its position in SpaceX was valued at $21 billion as of June.\nIan Fogg, research director at CCS Insight, told CNBC that Nvidia's equity strategy serves dual purposes. \"Nvidia has a clear interest in ensuring that its customers and partners prosper to provide future business for Nvidia,\" Fogg said. \"Equity investments help companies to innovate, but also give Nvidia a degree of control to encourage companies to take a Nvidia-related innovation path.\"\nIn August, Nvidia struck deals with prominent investment firms targeting more than $500 billion in GPU financing and separately committed up to $105 billion in conditional credit backing for an OpenAI data center being built in Ohio. Nvidia also agreed to acquire open-source AI model platform Hugging Face for $12.9 billion, a deal expected to close in the first half of 2027.\nEarlier this week, Nvidia and MediaTek announced a partnership backed by a $3.5 billion convertible bond investment, centered on MediaTek adopting Nvidia's NVLink Fusion platform for building custom AI chips. Nvidia's stock has risen 33% over the past 12 months.",
+    "text_blocks": [
+      "Nvidia's equity investments in AI companies hit $99 billion as of July 26, a figure the company disclosed that represents a jump from approximately $7 billion twelve months prior and around $2.2 billion at the same point two years ago. The chip giant has committed more than $40 billion in 2026 alone as it moves to expand its position across the AI sector.",
+      "The total places Nvidia in rare company among corporate tech investors worldwide, though it remains behind Alphabet and Amazon, each of which disclosed equity holdings above $100 billion in their most recent earnings reports.",
+      "Frontier AI labs have drawn the largest share of Nvidia's capital. In an earnings call, CFO Colette Kress said the company had invested \"nearly $50 billion in the frontier AI labs.\" Kress noted that these labs were scaling at a pace that outstripped what their balance sheets and credit profiles could bear, even as they contended with \"extraordinary\" demand for compute. That February, Nvidia announced a $30 billion commitment to OpenAI, joining a $110 billion funding round.",
+      "Neoclouds — infrastructure providers that acquire Nvidia GPUs and lease computing capacity to enterprise customers — have similarly attracted significant capital from the company. CoreWeave received a $2 billion commitment from Nvidia at the start of the year, followed by a $2 billion deal with Nebius two months later, according to CNBC.",
+      "Nvidia has also funneled at least $6.5 billion into the photonics and optical technology space since March, a sector that transmits data via light and is seen as a more energy-efficient alternative to conventional electrical data transfer. Nvidia deployed $2 billion apiece into Lumentum, Coherent, and Marvell. Nvidia's $5 billion stake in Intel had appreciated to $30 billion, and its position in SpaceX was valued at $21 billion as of June.",
+      "Ian Fogg, research director at CCS Insight, told CNBC that Nvidia's equity strategy serves dual purposes. \"Nvidia has a clear interest in ensuring that its customers and partners prosper to provide future business for Nvidia,\" Fogg said. \"Equity investments help companies to innovate, but also give Nvidia a degree of control to encourage companies to take a Nvidia-related innovation path.\"",
+      "In August, Nvidia struck deals with prominent investment firms targeting more than $500 billion in GPU financing and separately committed up to $105 billion in conditional credit backing for an OpenAI data center being built in Ohio. Nvidia also agreed to acquire open-source AI model platform Hugging Face for $12.9 billion, a deal expected to close in the first half of 2027.",
+      "Earlier this week, Nvidia and MediaTek announced a partnership backed by a $3.5 billion convertible bond investment, centered on MediaTek adopting Nvidia's NVLink Fusion platform for building custom AI chips. Nvidia's stock has risen 33% over the past 12 months."
+    ],
+    "html": null
+  }
+}

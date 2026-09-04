@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/google-cloud-trails-azure-4-121937732.html",
+    "fetched_at": "2026-09-04T07:00:30.656585-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Cloud Trails Azure by $4.6 Billion--But Growth Still Has Leverage",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL), Google's advertising, cloud and artificial-intelligence machine, faced a blunt new benchmark at $338.31 per share. Microsoft (NASDAQ:MSFT) disclosed $29.4 billion in quarterly Azure revenue, while Google Cloud produced $24.8 billion. Azure is ahead by $4.6 billion. The cloud race finally has a clean scoreboard.\nAlphabet is not answering with small checks. Its second-quarter filing showed $119.8 billion in total revenue, with Google Services contributing $94.5 billion. Capital expenditures exploded to $44.9 billion as Alphabet raced to build the data centers, networks and computing muscle behind its AI and cloud push.\nHere is the pressure point. Azure's lead equals roughly 18.5% of Google Cloud's revenue, while Google Cloud already generates 20.7% of Alphabet's total sales. Meanwhile, the stock's $338.31 price stands 34.27% above its $251.97 GF Value estimate. That is a rich premium. Alphabet now needs its enormous infrastructure bet to close the cloud gap, win profitable market share and prove investors are not paying tomorrow's price too early.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL), Google's advertising, cloud and artificial-intelligence machine, faced a blunt new benchmark at $338.31 per share. Microsoft (NASDAQ:MSFT) disclosed $29.4 billion in quarterly Azure revenue, while Google Cloud produced $24.8 billion. Azure is ahead by $4.6 billion. The cloud race finally has a clean scoreboard.",
+      "Alphabet is not answering with small checks. Its second-quarter filing showed $119.8 billion in total revenue, with Google Services contributing $94.5 billion. Capital expenditures exploded to $44.9 billion as Alphabet raced to build the data centers, networks and computing muscle behind its AI and cloud push.",
+      "Here is the pressure point. Azure's lead equals roughly 18.5% of Google Cloud's revenue, while Google Cloud already generates 20.7% of Alphabet's total sales. Meanwhile, the stock's $338.31 price stands 34.27% above its $251.97 GF Value estimate. That is a rich premium. Alphabet now needs its enormous infrastructure bet to close the cloud gap, win profitable market share and prove investors are not paying tomorrow's price too early."
+    ],
+    "html": null
+  }
+}

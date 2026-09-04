@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-reportedly-raises-3b-30b-004842708.html",
+    "fetched_at": "2026-09-04T07:00:24.344327-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported.\nThe deal is being co-led by Atreides Management and Valor Equity Partners, and includes participation from Mubadala Capital, the asset management subsidiary of Abu Dhabi's sovereign wealth fund Mubadala.\nThe company recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported.\nThe fresh fundraise comes 10 months after Crusoe raised a $1.38 billion round at a $10 billion valuation last October.\nLaunched in 2018 as a crypto mining operation powered by flared natural gas, Crusoe has since pivoted into a major AI infrastructure and cloud provider that is best known for developing hyperscale data center campuses for clients like Oracle and OpenAI.\nThe company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential near-term IPO, Axios reported last month.",
+    "text_blocks": [
+      "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported.",
+      "The deal is being co-led by Atreides Management and Valor Equity Partners, and includes participation from Mubadala Capital, the asset management subsidiary of Abu Dhabi's sovereign wealth fund Mubadala.",
+      "The company recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported.",
+      "The fresh fundraise comes 10 months after Crusoe raised a $1.38 billion round at a $10 billion valuation last October.",
+      "Launched in 2018 as a crypto mining operation powered by flared natural gas, Crusoe has since pivoted into a major AI infrastructure and cloud provider that is best known for developing hyperscale data center campuses for clients like Oracle and OpenAI.",
+      "The company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential near-term IPO, Axios reported last month."
+    ],
+    "html": null
+  }
+}

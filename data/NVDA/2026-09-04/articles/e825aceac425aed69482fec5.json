@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/analyst-says-nvidias-huge-ai-134306285.html",
+    "fetched_at": "2026-09-04T07:00:38.708369-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Analyst Says Nvidia's Huge AI Deal Goes Beyond Chips",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) is spending $12.93 billion to acquire Hugging Face, one of the world's most important AI developer platforms, in a deal analysts see as strengthening the chipmaker's position far beyond GPUs. Raymond James analyst Simon Leopold called the acquisition a strategically valuable move, arguing that Hugging Face gives Nvidia a critical foothold in how developers discover, customize and deploy AI models.\nHugging Face operates a massive open AI ecosystem used by more than 18 million developers and over 200,000 companies. Its platform hosts more than 3 million models, 500,000 datasets and 1 million applications, making it something of a GitHub-style hub for artificial intelligence.\nThat reach explains why Nvidia may be willing to pay such a large premium. Hugging Face was valued at roughly $4.5 billion in 2023, meaning the acquisition price is nearly three times that level. Nvidia will pay about $11.9 billion to shareholders, with another roughly $1 billion tied to employee retention incentives.\nFor Nvidia, the strategic logic goes beyond Hugging Face's current revenue. Owning a platform sitting between AI developers, models and computing infrastructure could make Nvidia increasingly important earlier in the development process, potentially steering more workloads toward its broader software and hardware ecosystem.\nNvidia says Hugging Face will remain open and interoperable, and developers will not be required to use Nvidia computing hardware. That promise will be important because Hugging Face also supports rival accelerators, while companies including AMD and Amazon have previously invested in the business.\nThe deal comes from a position of extraordinary financial strength. Nvidia's fiscal Q2 revenue surged 106% to $96.2 billion, while Data Center sales jumped 117% to $89 billion.\nInvestors Takeaway\nThe biggest question is whether Hugging Face helps Nvidia become the default platform for AI development, not merely AI computing.\nInvestors should watch developer adoption, integration with Nvidia software, open-model usage and whether the acquisition generates additional GPU demand. Preserving Hugging Face's neutrality will also be critical. Developers could become wary if Nvidia appears to favor its own hardware over competing platforms.\nThe acquisition may contribute relatively little to Nvidia's earnings initially, but strategically it gives the company influence over another crucial layer of the AI stack. If Nvidia can retain Hugging Face's developer trust while connecting that ecosystem more closely with its computing platform, the $12.93 billion purchase could reinforce its AI dominance well beyond chips.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) is spending $12.93 billion to acquire Hugging Face, one of the world's most important AI developer platforms, in a deal analysts see as strengthening the chipmaker's position far beyond GPUs. Raymond James analyst Simon Leopold called the acquisition a strategically valuable move, arguing that Hugging Face gives Nvidia a critical foothold in how developers discover, customize and deploy AI models.",
+      "Hugging Face operates a massive open AI ecosystem used by more than 18 million developers and over 200,000 companies. Its platform hosts more than 3 million models, 500,000 datasets and 1 million applications, making it something of a GitHub-style hub for artificial intelligence.",
+      "That reach explains why Nvidia may be willing to pay such a large premium. Hugging Face was valued at roughly $4.5 billion in 2023, meaning the acquisition price is nearly three times that level. Nvidia will pay about $11.9 billion to shareholders, with another roughly $1 billion tied to employee retention incentives.",
+      "For Nvidia, the strategic logic goes beyond Hugging Face's current revenue. Owning a platform sitting between AI developers, models and computing infrastructure could make Nvidia increasingly important earlier in the development process, potentially steering more workloads toward its broader software and hardware ecosystem.",
+      "Nvidia says Hugging Face will remain open and interoperable, and developers will not be required to use Nvidia computing hardware. That promise will be important because Hugging Face also supports rival accelerators, while companies including AMD and Amazon have previously invested in the business.",
+      "The deal comes from a position of extraordinary financial strength. Nvidia's fiscal Q2 revenue surged 106% to $96.2 billion, while Data Center sales jumped 117% to $89 billion.",
+      "Investors Takeaway",
+      "The biggest question is whether Hugging Face helps Nvidia become the default platform for AI development, not merely AI computing.",
+      "Investors should watch developer adoption, integration with Nvidia software, open-model usage and whether the acquisition generates additional GPU demand. Preserving Hugging Face's neutrality will also be critical. Developers could become wary if Nvidia appears to favor its own hardware over competing platforms.",
+      "The acquisition may contribute relatively little to Nvidia's earnings initially, but strategically it gives the company influence over another crucial layer of the AI stack. If Nvidia can retain Hugging Face's developer trust while connecting that ecosystem more closely with its computing platform, the $12.93 billion purchase could reinforce its AI dominance well beyond chips."
+    ],
+    "html": null
+  }
+}

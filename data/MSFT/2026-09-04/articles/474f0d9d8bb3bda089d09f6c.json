@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-warns-ai-stock-121336433.html",
+    "fetched_at": "2026-09-04T07:00:30.580845-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman Sachs Warns AI Stock Investors of New Risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nGoldman Sachs is flagging a new risk hiding inside the artificial intelligence boom: AI is getting cheaper so quickly that the industry could eventually build more computing capacity than customers can profitably consume. The bank's Delta One desk warned that collapsing prices for AI tokens could threaten technology-stock valuations unless usage grows fast enough to absorb the enormous amount of infrastructure coming online.\nTokens are the basic units AI models process when generating text, code and other outputs. Lower token prices make AI cheaper for customers and can accelerate adoption, but they also reduce the revenue generated from each unit of AI activity.\nThat tradeoff is becoming increasingly important.\nGoldman highlighted an industry benchmark from Silicon Data that recently fell to $0.97 per million tokens, including a 29% decline during August alone. Competition between frontier-model developers, cheaper open models and more inference moving toward lower-cost or local hardware are all pushing prices down.\nAdd more inference moving toward cheaper/local hardware and I struggle with per token pricing as a durable end state model, Goldman said.\nThe danger is straightforward: if AI prices fall faster than overall usage grows, demand for expensive data-center capacity may eventually disappoint.\nGoldman warned that periods of compute oversupply become plausible unless future models produce major improvements that stimulate substantially more consumption.\nThat matters because the industry is still spending extraordinary amounts on infrastructure. Microsoft said capital expenditures reached $41 billion in its latest quarter and expects roughly $175 billion of calendar-2026 investment, while Alphabet expects $175 billion to $185 billion of 2026 capital expenditures as it expands AI and cloud capacity.\nWhat AI investors should watch next\nGoldman's warning does not necessarily mean AI demand is weakening. In fact, lower prices could dramatically expand usage.\nThe critical question is whether token consumption grows faster than token prices decline.\nThat makes AI utilization, cloud revenue growth and data-center returns increasingly important metrics for investors in Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL), Meta (NASDAQ:META) and the broader AI infrastructure trade.\nIf cheaper AI triggers an explosion in applications and usage, today's massive compute buildout could still prove justified. But if prices continue collapsing while consumption grows more slowly, investors may eventually discover that the AI boom created plenty of demand but even more supply.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Goldman Sachs is flagging a new risk hiding inside the artificial intelligence boom: AI is getting cheaper so quickly that the industry could eventually build more computing capacity than customers can profitably consume. The bank's Delta One desk warned that collapsing prices for AI tokens could threaten technology-stock valuations unless usage grows fast enough to absorb the enormous amount of infrastructure coming online.",
+      "Tokens are the basic units AI models process when generating text, code and other outputs. Lower token prices make AI cheaper for customers and can accelerate adoption, but they also reduce the revenue generated from each unit of AI activity.",
+      "That tradeoff is becoming increasingly important.",
+      "Goldman highlighted an industry benchmark from Silicon Data that recently fell to $0.97 per million tokens, including a 29% decline during August alone. Competition between frontier-model developers, cheaper open models and more inference moving toward lower-cost or local hardware are all pushing prices down.",
+      "Add more inference moving toward cheaper/local hardware and I struggle with per token pricing as a durable end state model, Goldman said.",
+      "The danger is straightforward: if AI prices fall faster than overall usage grows, demand for expensive data-center capacity may eventually disappoint.",
+      "Goldman warned that periods of compute oversupply become plausible unless future models produce major improvements that stimulate substantially more consumption.",
+      "That matters because the industry is still spending extraordinary amounts on infrastructure. Microsoft said capital expenditures reached $41 billion in its latest quarter and expects roughly $175 billion of calendar-2026 investment, while Alphabet expects $175 billion to $185 billion of 2026 capital expenditures as it expands AI and cloud capacity.",
+      "What AI investors should watch next",
+      "Goldman's warning does not necessarily mean AI demand is weakening. In fact, lower prices could dramatically expand usage.",
+      "The critical question is whether token consumption grows faster than token prices decline.",
+      "That makes AI utilization, cloud revenue growth and data-center returns increasingly important metrics for investors in Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL), Meta (NASDAQ:META) and the broader AI infrastructure trade.",
+      "If cheaper AI triggers an explosion in applications and usage, today's massive compute buildout could still prove justified. But if prices continue collapsing while consumption grows more slowly, investors may eventually discover that the AI boom created plenty of demand but even more supply."
+    ],
+    "html": null
+  }
+}

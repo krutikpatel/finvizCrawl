@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/b1ef0925-85ad-366e-a81c-ec8fd11f3c0f/google-says-your-weather.html",
+    "fetched_at": "2026-09-04T07:00:27.896553-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Says Your Weather Forecasts Are About to Get Better",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nGoogle (NASDAQ:GOOGL) is making a major upgrade to weather forecasting that could eventually mean faster, sharper and more frequently updated forecasts for everyday users. The company has launched WeatherNext 3, its most advanced global weather-prediction model yet, using artificial intelligence and live satellite observations to refresh forecasts every hour.\nThe consumer impact could be significant. Instead of relying on forecasts built from data that may already be several hours old, WeatherNext 3 continuously incorporates fresh satellite information, potentially allowing Google products to react more quickly when storms, rainfall, temperature shifts or other conditions change.\nBy ingesting a mosaic of live, global geostationary satellite data, our new model gains a rich, continuously updating view of the atmosphere, Google said.\nThe company says WeatherNext 3 can generate a new forecast every hour, compared with roughly six-hour update gaps common with existing forecasting systems.\nThe model also offers substantially more detailed geographic information. It can map temperature and moisture conditions at resolutions as fine as 5 kilometers, surface variables at around 10 kilometers, and atmospheric factors such as wind speed at roughly 25 kilometers.\nThat makes its weather picture up to five times sharper than WeatherNext 2.\nGoogle developed the system through Google DeepMind and Google Research, combining AI with raw satellite observations rather than relying exclusively on traditional forecasting techniques.\nFor consumers, the most important development is where those forecasts appear. Google says WeatherNext 3 predictions will be made available across its products globally, potentially improving the weather information people encounter through Google services.\nThe technology also has broader commercial implications. More precise short-term forecasts could help airlines, transportation companies, energy operators, commodity traders and supply-chain managers respond faster to changing weather.\nFor Google users, however, the pitch is much simpler: weather forecasts could become more current, more local and potentially more useful when conditions change quickly.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Google (NASDAQ:GOOGL) is making a major upgrade to weather forecasting that could eventually mean faster, sharper and more frequently updated forecasts for everyday users. The company has launched WeatherNext 3, its most advanced global weather-prediction model yet, using artificial intelligence and live satellite observations to refresh forecasts every hour.",
+      "The consumer impact could be significant. Instead of relying on forecasts built from data that may already be several hours old, WeatherNext 3 continuously incorporates fresh satellite information, potentially allowing Google products to react more quickly when storms, rainfall, temperature shifts or other conditions change.",
+      "By ingesting a mosaic of live, global geostationary satellite data, our new model gains a rich, continuously updating view of the atmosphere, Google said.",
+      "The company says WeatherNext 3 can generate a new forecast every hour, compared with roughly six-hour update gaps common with existing forecasting systems.",
+      "The model also offers substantially more detailed geographic information. It can map temperature and moisture conditions at resolutions as fine as 5 kilometers, surface variables at around 10 kilometers, and atmospheric factors such as wind speed at roughly 25 kilometers.",
+      "That makes its weather picture up to five times sharper than WeatherNext 2.",
+      "Google developed the system through Google DeepMind and Google Research, combining AI with raw satellite observations rather than relying exclusively on traditional forecasting techniques.",
+      "For consumers, the most important development is where those forecasts appear. Google says WeatherNext 3 predictions will be made available across its products globally, potentially improving the weather information people encounter through Google services.",
+      "The technology also has broader commercial implications. More precise short-term forecasts could help airlines, transportation companies, energy operators, commodity traders and supply-chain managers respond faster to changing weather.",
+      "For Google users, however, the pitch is much simpler: weather forecasts could become more current, more local and potentially more useful when conditions change quickly."
+    ],
+    "html": null
+  }
+}

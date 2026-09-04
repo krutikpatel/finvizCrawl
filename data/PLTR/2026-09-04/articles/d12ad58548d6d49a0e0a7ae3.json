@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-stock-jumps-expanded-pwc-212850892.html",
+    "fetched_at": "2026-09-04T07:00:36.078771-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stock Jumps on Expanded PwC AI Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR) is gaining after expanding its work with PwC US, giving the software company another channel to bring its artificial intelligence tools into large corporate projects.\nThe collaboration will cover areas including mergers and acquisitions, enterprise AI deployments and complex business planning. The expanded relationship could help broaden Palantir's exposure to commercial customers as companies increase spending on data and automation.\nThe company still faces risks tied to its customer mix and the timing of large contracts. Shifts in government spending or delays in major renewals could make quarterly results less predictable.\nThe PwC expansion may strengthen Palantir's commercial AI opportunity, but investors will likely watch whether new partnerships translate into recurring revenue.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR) is gaining after expanding its work with PwC US, giving the software company another channel to bring its artificial intelligence tools into large corporate projects.",
+      "The collaboration will cover areas including mergers and acquisitions, enterprise AI deployments and complex business planning. The expanded relationship could help broaden Palantir's exposure to commercial customers as companies increase spending on data and automation.",
+      "The company still faces risks tied to its customer mix and the timing of large contracts. Shifts in government spending or delays in major renewals could make quarterly results less predictable.",
+      "The PwC expansion may strengthen Palantir's commercial AI opportunity, but investors will likely watch whether new partnerships translate into recurring revenue."
+    ],
+    "html": null
+  }
+}
