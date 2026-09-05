@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/self-drivings-next-task-potholes-a696a3f5?mod=bar_FV",
+    "fetched_at": "2026-09-05T07:00:07.978129-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Self-Driving’s Next Task: Potholes<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Self-Driving’s Next Task: Potholes\nOn Monday, shares of Tesla jumped 5.5%, closing at $367.95, up 18% for the month after dropping 26% in July. Why the rise? There were no Wall Street upgrades or price-target changes. One Global exchange-traded fund co-founder Gary Black speculated investors might be anticipating the launch of Cybercab, Tesla’s robo-taxi, which lacks a steering wheel.",
+    "text_blocks": [
+      "Self-Driving’s Next Task: Potholes",
+      "On Monday, shares of Tesla jumped 5.5%, closing at $367.95, up 18% for the month after dropping 26% in July. Why the rise? There were no Wall Street upgrades or price-target changes. One Global exchange-traded fund co-founder Gary Black speculated investors might be anticipating the launch of Cybercab, Tesla’s robo-taxi, which lacks a steering wheel."
+    ],
+    "html": null
+  }
+}

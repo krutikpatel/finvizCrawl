@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-turns-three-everyday-apps-193846909.html",
+    "fetched_at": "2026-09-05T07:00:29.077939-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Turns Three Everyday Apps Into Paid Gemini Microphones",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL), Google's search, cloud and artificial-intelligence giant, traded at $335.35 as Gemini moved deeper into Gmail, Docs and Keep. Gmail Live can search an inbox through natural conversation. Docs Live turns spoken ideas into working drafts. Keep Live transforms rambling thoughts into organized notes.\nGoogle is putting its newest AI tools behind the paywall. Gmail Live and Keep Live are rolling out first to Google AI Plus, Pro and Ultra subscribers, while Docs Live requires a Pro or Ultra plan. Workspace business customers will gain access later. Alphabet's quarterly filing showed subscriptions, platforms and devices revenue surging 15% to approximately $12.9 billion.\nThe strategy is simpleand powerful. Google does not need users to discover another AI app because Gemini is entering products they already use every day. But the stock leaves little room for a slow payoff. At $335.35, Alphabet trades 33.01% above its $252.12 GF Value estimate. These voice tools now need to drive more subscriptions, stronger retention or higher pricing before convenience becomes meaningful shareholder value.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL), Google's search, cloud and artificial-intelligence giant, traded at $335.35 as Gemini moved deeper into Gmail, Docs and Keep. Gmail Live can search an inbox through natural conversation. Docs Live turns spoken ideas into working drafts. Keep Live transforms rambling thoughts into organized notes.",
+      "Google is putting its newest AI tools behind the paywall. Gmail Live and Keep Live are rolling out first to Google AI Plus, Pro and Ultra subscribers, while Docs Live requires a Pro or Ultra plan. Workspace business customers will gain access later. Alphabet's quarterly filing showed subscriptions, platforms and devices revenue surging 15% to approximately $12.9 billion.",
+      "The strategy is simpleand powerful. Google does not need users to discover another AI app because Gemini is entering products they already use every day. But the stock leaves little room for a slow payoff. At $335.35, Alphabet trades 33.01% above its $252.12 GF Value estimate. These voice tools now need to drive more subscriptions, stronger retention or higher pricing before convenience becomes meaningful shareholder value."
+    ],
+    "html": null
+  }
+}

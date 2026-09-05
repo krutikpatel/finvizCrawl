@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazons-100-billion-anthropic-contract-193720942.html",
+    "fetched_at": "2026-09-05T07:00:42.304898-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon's $100 Billion Anthropic Contract Gets a 45% Cheaper Engine",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon.com (NASDAQ:AMZN), the cloud and e-commerce heavyweight, rolled Anthropic's Claude Fable 5.1 into Amazon Bedrock and Claude Platform on AWS as its shares traded at $256.67. That price sits 3.84% above the stock's $247.18 GF Value estimatea modest premium, but one that leaves little room for Amazon's AI strategy to stumble.\nThe real hook is cost. Anthropic expects its new cache pricing to make typical token-based workloads 25% cheaper than Fable 5. Savings could reach roughly 45% for highly agentic work. That price cut lands inside a monster partnership: Anthropic has committed more than $100 billion to AWS technology over ten years, reserved up to five gigawatts of capacity and spread its workloads across more than one million Trainium2 chips. More than 100,000 customers already access Claude through Bedrock.\nNow comes the $100 billion question: will cheaper AI unleash enough demand to lift AWS faster? Amazon's latest quarterly results showed $42.2 billion in AWS revenue, equal to a $168.8 billion annualized pace. Anthropic's average $10 billion yearly commitment represents about 5.9% of that run rate. Lower prices can pull more customers and agents onto AWS, but they also shrink the computing needed for each task. Amazon wins if the workload boom overwhelms the efficiency gains.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon.com (NASDAQ:AMZN), the cloud and e-commerce heavyweight, rolled Anthropic's Claude Fable 5.1 into Amazon Bedrock and Claude Platform on AWS as its shares traded at $256.67. That price sits 3.84% above the stock's $247.18 GF Value estimatea modest premium, but one that leaves little room for Amazon's AI strategy to stumble.",
+      "The real hook is cost. Anthropic expects its new cache pricing to make typical token-based workloads 25% cheaper than Fable 5. Savings could reach roughly 45% for highly agentic work. That price cut lands inside a monster partnership: Anthropic has committed more than $100 billion to AWS technology over ten years, reserved up to five gigawatts of capacity and spread its workloads across more than one million Trainium2 chips. More than 100,000 customers already access Claude through Bedrock.",
+      "Now comes the $100 billion question: will cheaper AI unleash enough demand to lift AWS faster? Amazon's latest quarterly results showed $42.2 billion in AWS revenue, equal to a $168.8 billion annualized pace. Anthropic's average $10 billion yearly commitment represents about 5.9% of that run rate. Lower prices can pull more customers and agents onto AWS, but they also shrink the computing needed for each task. Amazon wins if the workload boom overwhelms the efficiency gains."
+    ],
+    "html": null
+  }
+}

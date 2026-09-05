@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/ev-luxury-used-bargains-lease-f501dcc7?mod=bar_FV",
+    "fetched_at": "2026-09-05T07:00:07.975490-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Consider a Used EV if You Want to Buy a Luxury Car<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "A Used EV Is the Way to Get Those Luxury Wheels\nChris Blaydon was used-car shopping for his teenage daughter this summer. Then he and his wife discovered lightly used, higher-end electric vehicles were selling for nearly half of their original sticker price.",
+    "text_blocks": [
+      "A Used EV Is the Way to Get Those Luxury Wheels",
+      "Chris Blaydon was used-car shopping for his teenage daughter this summer. Then he and his wife discovered lightly used, higher-end electric vehicles were selling for nearly half of their original sticker price."
+    ],
+    "html": null
+  }
+}

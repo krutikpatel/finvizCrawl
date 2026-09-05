@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=PANW",
+    "fetched_at": "2026-09-05T07:00:46.097146-07:00"
+  },
+  "company": {
+    "name": "Palo Alto Networks Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 333.26,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "271.61B",
+    "Enterprise Value": "271.04B",
+    "Income": "307.00M",
+    "Sales": "11.48B",
+    "Book/sh": "34.03",
+    "Cash/sh": "3.77",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "16068",
+    "IPO": "Jul 20, 2012"
+  },
+  "raw": null
+}

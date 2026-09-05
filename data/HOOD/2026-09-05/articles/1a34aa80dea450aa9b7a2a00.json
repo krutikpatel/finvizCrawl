@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/1ceb8836-dcf4-3a18-93e0-fa116cf5812d/crypto-traders-are-pairing.html",
+    "fetched_at": "2026-09-05T07:00:23.644366-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "A meme coin called BONER locked up more than half the tokenized shares of Hims & Hers Health on Robinhood's blockchain over the weekend of August 30. The stunt briefly pushed the wrapped version of the stock to $132.64, more than four times Friday's real close of HIMS stock at $28.84.\nThe actual HIMS shares barely budged, but that's not gonna stop the meme coin traders from trying again.\nRobinhood Chain, the company's network that went live in July, is a permissionless layer-2 chain that lets developers build just about anything they want, including meme coins that trade directly against tokenized stocks instead of stablecoins.\nTokenized stocks are digital tokens meant to track a real share's price one-to-one. Buy the meme coin, and the stock tokens you pay with get locked inside its liquidity pool, the crypto reserve that sets the trading price.\nTen days of buying pushed 31,198 of the 58,714 tokenized HIMS shares in existence into the BONER pool alone. Robinhood lets only one licensed partner mint or burn those tokens, so supply stayed fixed at roughly one tokenized share for every 4,000 real ones. With the NYSE shut for the weekend and no live price to check against, a few thousand dollars of trading was enough to move it.\nThe goal was a short squeeze, a scramble where traders who bet a stock will drop get forced to buy it back at a rising price, pushing that price even higher. HIMS is a popular short target, with about a quarter of its real shares sold short on the NYSE.\nBut BONER's own website admits the math doesn't work: every tokenized HIMS share combined equals just 0.1% of that short position.\nBONER isn't the only one running this playbook on a chain where meme coins have already outpaced tokenized stocks in trading volume.\n'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens\nArtificial Inu is pegged to tokenized Nvidia stock, Saylormoon holds tokenized Strategy stocks and Clippy XP holds Microsoft. Of course, there are many other low-liquidity meme coins for those with a high risk appetite.\nThe setup echoes 2021's GameStop saga, when Reddit's WallStreetBets forum piled into a real short squeeze that forced hedge funds to cover at a massive loss. That squeeze moved actual shares on a real stock exchange. The BONER play only moved a thinly traded IOU that reset once the market reopened and new tokens got minted.\nSo while the meme coin pairs may not be putting the squeeze on the targeted stocks like those GameStop traders of old, these tokens are working to bring a whole lot of attention, and liquidity, to the brand new Robinhood Chain network.",
+    "text_blocks": [
+      "A meme coin called BONER locked up more than half the tokenized shares of Hims & Hers Health on Robinhood's blockchain over the weekend of August 30. The stunt briefly pushed the wrapped version of the stock to $132.64, more than four times Friday's real close of HIMS stock at $28.84.",
+      "The actual HIMS shares barely budged, but that's not gonna stop the meme coin traders from trying again.",
+      "Robinhood Chain, the company's network that went live in July, is a permissionless layer-2 chain that lets developers build just about anything they want, including meme coins that trade directly against tokenized stocks instead of stablecoins.",
+      "Tokenized stocks are digital tokens meant to track a real share's price one-to-one. Buy the meme coin, and the stock tokens you pay with get locked inside its liquidity pool, the crypto reserve that sets the trading price.",
+      "Ten days of buying pushed 31,198 of the 58,714 tokenized HIMS shares in existence into the BONER pool alone. Robinhood lets only one licensed partner mint or burn those tokens, so supply stayed fixed at roughly one tokenized share for every 4,000 real ones. With the NYSE shut for the weekend and no live price to check against, a few thousand dollars of trading was enough to move it.",
+      "The goal was a short squeeze, a scramble where traders who bet a stock will drop get forced to buy it back at a rising price, pushing that price even higher. HIMS is a popular short target, with about a quarter of its real shares sold short on the NYSE.",
+      "But BONER's own website admits the math doesn't work: every tokenized HIMS share combined equals just 0.1% of that short position.",
+      "BONER isn't the only one running this playbook on a chain where meme coins have already outpaced tokenized stocks in trading volume.",
+      "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+      "Artificial Inu is pegged to tokenized Nvidia stock, Saylormoon holds tokenized Strategy stocks and Clippy XP holds Microsoft. Of course, there are many other low-liquidity meme coins for those with a high risk appetite.",
+      "The setup echoes 2021's GameStop saga, when Reddit's WallStreetBets forum piled into a real short squeeze that forced hedge funds to cover at a massive loss. That squeeze moved actual shares on a real stock exchange. The BONER play only moved a thinly traded IOU that reset once the market reopened and new tokens got minted.",
+      "So while the meme coin pairs may not be putting the squeeze on the targeted stocks like those GameStop traders of old, these tokens are working to bring a whole lot of attention, and liquidity, to the brand new Robinhood Chain network."
+    ],
+    "html": null
+  }
+}

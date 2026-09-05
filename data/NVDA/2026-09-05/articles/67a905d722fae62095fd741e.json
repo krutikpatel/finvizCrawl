@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/thinking-machines-lab-seeks-40b-022414055.html",
+    "fetched_at": "2026-09-05T07:00:39.759780-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space\nThinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is in talks to raise between $5 billion and $6 billion at a pre-money valuation of at least $40 billion. Nvidia is separately in discussions to invest approximately $2.5 billion, while existing backer Accel is reportedly in talks to lead the round.\nThe valuation represents a significant correction from the company's previous fundraise ambitions. Thinking Machines had sought a $50 billion to $60 billion valuation in a round that collapsed earlier this year, with three co-founders returning to OpenAI. The current talks price the lab at 3.3 times its July 2025 seed round, which raised $2 billion at a $12 billion valuation led by Andreessen Horowitz with participation from Nvidia, AMD, Cisco, ServiceNow, Accel, and Jane Street.\nThe Nvidia dimension is what makes this more than a fundraise story. The chipmaker's reported $2.5 billion investment in Thinking Machines completes a five-week pattern of model-space capital deployment that has no historical precedent from a hardware company. Nvidia's reported $12.9 billion acquisition of Hugging Face (Aug 26-27) targeted model distribution. Its investment in SSI (Jul 28) backed safety-aligned frontier research. Its $30 billion-plus investment in Perplexity (Aug 24) bet on AI-native search. And now the Thinking Machines talks target open-weights frontier infrastructure.\nEach investment occupies a different layer of the emerging AI stack. Together they suggest Nvidia is no longer content to sell compute to frontier labs. It is becoming the capital allocator that determines which of them survive and on what terms.\nThe partnership infrastructure reinforces the pattern. In March 2026, Thinking Machines and Nvidia announced a multiyear arrangement under which the lab will deploy at least one gigawatt of Nvidia's next-generation Vera Rubin systems, with first rollout targeted for early 2027. Capital investment and hardware supply are no longer separate conversations.\nFor Thinking Machines, the round arrives at a critical juncture. The lab shipped Inkling-Small on July 15 – a 276 billion-parameter open-weights model with 12 billion active parameters that scored 80.2 percent on SWE-Bench Verified and 64.7 percent on Terminal Bench 2.1. The Tinker fine-tuning-as-a-service platform launched alongside it, positioning the lab to generate recurring revenue from enterprise customization rather than relying on inference fees alone.\nThe open-weights positioning carries strategic weight in the current market. Thinking Machines is the only US-based lab shipping frontier-class open-weights models that compete directly with Chinese releases from DeepSeek, Moonshot, Qwen, and GLM on both capability and price. For investors weighing geopolitical risk and supply-chain provenance, that distinction commands a premium – though it has not yet translated to the valuations the company once sought.",
+    "text_blocks": [
+      "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
+      "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is in talks to raise between $5 billion and $6 billion at a pre-money valuation of at least $40 billion. Nvidia is separately in discussions to invest approximately $2.5 billion, while existing backer Accel is reportedly in talks to lead the round.",
+      "The valuation represents a significant correction from the company's previous fundraise ambitions. Thinking Machines had sought a $50 billion to $60 billion valuation in a round that collapsed earlier this year, with three co-founders returning to OpenAI. The current talks price the lab at 3.3 times its July 2025 seed round, which raised $2 billion at a $12 billion valuation led by Andreessen Horowitz with participation from Nvidia, AMD, Cisco, ServiceNow, Accel, and Jane Street.",
+      "The Nvidia dimension is what makes this more than a fundraise story. The chipmaker's reported $2.5 billion investment in Thinking Machines completes a five-week pattern of model-space capital deployment that has no historical precedent from a hardware company. Nvidia's reported $12.9 billion acquisition of Hugging Face (Aug 26-27) targeted model distribution. Its investment in SSI (Jul 28) backed safety-aligned frontier research. Its $30 billion-plus investment in Perplexity (Aug 24) bet on AI-native search. And now the Thinking Machines talks target open-weights frontier infrastructure.",
+      "Each investment occupies a different layer of the emerging AI stack. Together they suggest Nvidia is no longer content to sell compute to frontier labs. It is becoming the capital allocator that determines which of them survive and on what terms.",
+      "The partnership infrastructure reinforces the pattern. In March 2026, Thinking Machines and Nvidia announced a multiyear arrangement under which the lab will deploy at least one gigawatt of Nvidia's next-generation Vera Rubin systems, with first rollout targeted for early 2027. Capital investment and hardware supply are no longer separate conversations.",
+      "For Thinking Machines, the round arrives at a critical juncture. The lab shipped Inkling-Small on July 15 – a 276 billion-parameter open-weights model with 12 billion active parameters that scored 80.2 percent on SWE-Bench Verified and 64.7 percent on Terminal Bench 2.1. The Tinker fine-tuning-as-a-service platform launched alongside it, positioning the lab to generate recurring revenue from enterprise customization rather than relying on inference fees alone.",
+      "The open-weights positioning carries strategic weight in the current market. Thinking Machines is the only US-based lab shipping frontier-class open-weights models that compete directly with Chinese releases from DeepSeek, Moonshot, Qwen, and GLM on both capability and price. For investors weighing geopolitical risk and supply-chain provenance, that distinction commands a premium – though it has not yet translated to the valuations the company once sought."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-put-100-154110908.html",
+    "fetched_at": "2026-09-05T07:00:37.077379-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry Just Put a $100 Billion Warning on Palantir",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nData analytics and artificial intelligence startup Palantir Technologies Inc. (PLTR, Financials) is back on Michael Burry (Trades, Portfolio)'s radar.\nThe Big Short investor said Palantir's market valuation, which is around $432 billion, may eventually sink below $100 billion, saying investors are pricing the company more like a high-margin software platform than the business its financial profile suggests.\nThe biggest threat to Burry is Palantir's software story. And deferred revenue was roughly 32% of revenue, a ratio he claimed is closer to Accenture than subscription software businesses like Salesforce and ServiceNow.\nHe also mentioned the rise in accounts receivable. At June 30, Palantir had $1.49 billion of receivables, compared with $1.04 billion at the end of 2025, with one customer accounting for 27% of the total.\nStock-based pay and capital allocation also factor into Burry's thesis. He said Palantir ended a $1 billion share buyback authorization in 2025 after repurchasing just over $75 million of stock, and attacked the company's substantial tax benefits connected to remuneration.\nThe big question for investors is whether Palantir can keep growing enough to justify a value that offers little room for error.\nThe next catalyst will be whether next earnings can demonstrate enough growth, cash generation and operating leverage to prevent the market from focusing more heavily on Burry's valuation problems.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Data analytics and artificial intelligence startup Palantir Technologies Inc. (PLTR, Financials) is back on Michael Burry (Trades, Portfolio)'s radar.",
+      "The Big Short investor said Palantir's market valuation, which is around $432 billion, may eventually sink below $100 billion, saying investors are pricing the company more like a high-margin software platform than the business its financial profile suggests.",
+      "The biggest threat to Burry is Palantir's software story. And deferred revenue was roughly 32% of revenue, a ratio he claimed is closer to Accenture than subscription software businesses like Salesforce and ServiceNow.",
+      "He also mentioned the rise in accounts receivable. At June 30, Palantir had $1.49 billion of receivables, compared with $1.04 billion at the end of 2025, with one customer accounting for 27% of the total.",
+      "Stock-based pay and capital allocation also factor into Burry's thesis. He said Palantir ended a $1 billion share buyback authorization in 2025 after repurchasing just over $75 million of stock, and attacked the company's substantial tax benefits connected to remuneration.",
+      "The big question for investors is whether Palantir can keep growing enough to justify a value that offers little room for error.",
+      "The next catalyst will be whether next earnings can demonstrate enough growth, cash generation and operating leverage to prevent the market from focusing more heavily on Burry's valuation problems."
+    ],
+    "html": null
+  }
+}

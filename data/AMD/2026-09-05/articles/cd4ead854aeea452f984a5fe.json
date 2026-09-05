@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c0bba596-2831-37c9-8e08-a386f04747ae/how-far-amd-stock-can-swing.html",
+    "fetched_at": "2026-09-05T07:00:45.181008-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How Far AMD Stock Can Swing In Its Calm Case",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Advanced Micro Devices (AMD) trades at about $456.16, and its option chain has already put numbers on how far the stock can travel from here. Over roughly the next 380 days that chain marks out a band running from $260 to $792.23. The width is what matters if you hold the shares. That is the risk you are carrying, whichever way it breaks.\nA Two-In-Three Chance Of Landing Between $260 And $792\nFrom $456.16, the $792.23 ceiling sits about 73.7% higher and the $260 floor about 43.0% lower. Neither end is a forecast. The chain prices roughly a two-in-three chance of finishing inside the band, leaving about a 16% chance above the ceiling and about a 16% chance below the floor.\nIn your own money, that is more than 40% of the position at risk on the downside, against a gain of close to three quarters at the other end. The two ends are not equally far from here because a stock cannot fall below zero but can rise without limit. That asymmetry is also why the $260 put costs $12.25 while the $790 call costs $33.92, which says nothing about where the market thinks this goes.\nAMD Has Already Moved More Than This\nAMD's realized volatility over the trailing year was 71.8%. The implied volatility quoted on those year-out options is 54.1%, running at 0.75 times it. Separately, a broad reading of AMD implied volatility sits in the 13th percentile of its own trailing one-year range. Options usually charge more than history justifies. Here they are charging less.\nThe recent past has not been calm. AMD has returned 181.4% over the trailing twelve months, and it still trades about 21% below its 52-week high after giving back 12.8% over the trailing three months. So the $260-to-$792.23 span is what a market expecting things to settle down still leaves open.\nThe Ramp That Sits Under Both Ends Of That Band\nThe width is a ramp problem. Helios, the rack-scale platform that pairs Instinct GPUs with EPYC CPUs, is in production, with initial shipments due to begin in the third quarter of 2026 and a ramp into 2027. The commitments behind it land later: one customer has agreed to deploy up to 2 gigawatts of MI450 series GPUs in Helios, the first gigawatt from the first half of 2027. Management expects data center segment revenue to more than double year-over-year in 2027.\nNone of that has reached the income statement yet, and the nearer picture cuts both ways. Gaming revenue fell 31% year-over-year on the console cycle. Management is planning for a softer PC market as memory and component costs rise, though it expects its own client business to outperform that market, and calls the server CPU supply chain tight now while expecting 2027 supply to be better than 2026. A ramp of that size either arrives or slips, and either way the range stays wide.",
+    "text_blocks": [
+      "Advanced Micro Devices (AMD) trades at about $456.16, and its option chain has already put numbers on how far the stock can travel from here. Over roughly the next 380 days that chain marks out a band running from $260 to $792.23. The width is what matters if you hold the shares. That is the risk you are carrying, whichever way it breaks.",
+      "A Two-In-Three Chance Of Landing Between $260 And $792",
+      "From $456.16, the $792.23 ceiling sits about 73.7% higher and the $260 floor about 43.0% lower. Neither end is a forecast. The chain prices roughly a two-in-three chance of finishing inside the band, leaving about a 16% chance above the ceiling and about a 16% chance below the floor.",
+      "In your own money, that is more than 40% of the position at risk on the downside, against a gain of close to three quarters at the other end. The two ends are not equally far from here because a stock cannot fall below zero but can rise without limit. That asymmetry is also why the $260 put costs $12.25 while the $790 call costs $33.92, which says nothing about where the market thinks this goes.",
+      "AMD Has Already Moved More Than This",
+      "AMD's realized volatility over the trailing year was 71.8%. The implied volatility quoted on those year-out options is 54.1%, running at 0.75 times it. Separately, a broad reading of AMD implied volatility sits in the 13th percentile of its own trailing one-year range. Options usually charge more than history justifies. Here they are charging less.",
+      "The recent past has not been calm. AMD has returned 181.4% over the trailing twelve months, and it still trades about 21% below its 52-week high after giving back 12.8% over the trailing three months. So the $260-to-$792.23 span is what a market expecting things to settle down still leaves open.",
+      "The Ramp That Sits Under Both Ends Of That Band",
+      "The width is a ramp problem. Helios, the rack-scale platform that pairs Instinct GPUs with EPYC CPUs, is in production, with initial shipments due to begin in the third quarter of 2026 and a ramp into 2027. The commitments behind it land later: one customer has agreed to deploy up to 2 gigawatts of MI450 series GPUs in Helios, the first gigawatt from the first half of 2027. Management expects data center segment revenue to more than double year-over-year in 2027.",
+      "None of that has reached the income statement yet, and the nearer picture cuts both ways. Gaming revenue fell 31% year-over-year on the console cycle. Management is planning for a softer PC market as memory and component costs rise, though it expects its own client business to outperform that market, and calls the server CPU supply chain tight now while expecting 2027 supply to be better than 2026. A ramp of that size either arrives or slips, and either way the range stays wide."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracles-next-earnings-report-could-183334437.html",
+    "fetched_at": "2026-09-05T07:00:26.366802-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle's Next Earnings Report Could Move the Stock 11%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle Corp. (ORCL, Financials) has been aggressive in building out its AI cloud business. Now investors want to see what that spending is delivering.\nOracle announces fiscal first-quarter results Sept. 10 and the options market is pricing in a move of around 11.2% in either direction. That's a tremendous swing for a corporation the size of Oracle.\nStreet analysts expect about $19.13 billion in revenue, up nearly 28% from a year ago, and earnings of $1.74 a share.\nThe good news is demand has been strong. As companies spend more on AI computing, Oracle Cloud Infrastructure has been climbing rapidly. The trouble is the cost.\nOracle has spent billions on data centers and equipment, sending free cash flow deep into the red last year and raising questions about how quickly those investments will pay off.\nSo this quarter is more of an earnings beat. Investors want to see the cloud continue to grow strongly with no further big jump in spending pressure.\nOracle reports profits Sept. 10, and will tell investors about AI demand, capital spending and cash flow.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle Corp. (ORCL, Financials) has been aggressive in building out its AI cloud business. Now investors want to see what that spending is delivering.",
+      "Oracle announces fiscal first-quarter results Sept. 10 and the options market is pricing in a move of around 11.2% in either direction. That's a tremendous swing for a corporation the size of Oracle.",
+      "Street analysts expect about $19.13 billion in revenue, up nearly 28% from a year ago, and earnings of $1.74 a share.",
+      "The good news is demand has been strong. As companies spend more on AI computing, Oracle Cloud Infrastructure has been climbing rapidly. The trouble is the cost.",
+      "Oracle has spent billions on data centers and equipment, sending free cash flow deep into the red last year and raising questions about how quickly those investments will pay off.",
+      "So this quarter is more of an earnings beat. Investors want to see the cloud continue to grow strongly with no further big jump in spending pressure.",
+      "Oracle reports profits Sept. 10, and will tell investors about AI demand, capital spending and cash flow."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_FV",
+    "fetched_at": "2026-09-05T07:00:25.904523-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nWhy Oracle’s stock looks like a compelling buy ahead of earnings\nWhile there are long-term debates around Oracle’s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week\nOracle’s stock has been volatile following recent earnings reports, but analysts think the company’s upcoming results could garner a strongly positive reaction.\nA big concern for Oracle ORCL investors this year has been the company’s high capital expenditures, or spending allocated toward things like data centers. The company has also had to take on debt to finance its artificial-intelligence efforts.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Why Oracle’s stock looks like a compelling buy ahead of earnings",
+      "While there are long-term debates around Oracle’s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week",
+      "Oracle’s stock has been volatile following recent earnings reports, but analysts think the company’s upcoming results could garner a strongly positive reaction.",
+      "A big concern for Oracle ORCL investors this year has been the company’s high capital expenditures, or spending allocated toward things like data centers. The company has also had to take on debt to finance its artificial-intelligence efforts."
+    ],
+    "html": null
+  }
+}

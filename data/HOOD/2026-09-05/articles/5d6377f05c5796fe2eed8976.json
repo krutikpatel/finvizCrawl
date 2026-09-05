@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/c5762fd3-b9e6-3235-94dc-8aa7f069c0ad/robinhood-and-amc-clash-over.html",
+    "fetched_at": "2026-09-05T07:00:23.551343-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood and AMC Clash Over Tokenized Stock Listing",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AMC, the world's largest movie theater chain, wants its tokenized stocks removed from Robinhood, and it's causing a huge meltdown on social media.\nAMC wants the tokens removed because they trade on Robinhood using its stock price and branding even though buyers do not actually own AMC shares. CEO Adam Aron argues that investors could mistake the products for real shares and says the structure should face regulatory scrutiny.\nRobinhood is refusing to remove anything. Their message is \"Send the Lawyers\". Robinhood Chief Legal Officer Dan Gallagher, a former SEC commissioner, responded publicly.\nRobinhood Draws a Line on Stock Tokens\nThe fight exposes the strange legal world behind stock tokens.\nRobinhood's products track listed shares, but buyers do not actually own those shares. They hold an offshore-issued debt instrument linked to the stock price. There are no voting rights and, generally, no right to exchange the token for the underlying equity.\nFintech lawyer Ariel Givner highlighted that gap, an issue BeInCrypto previously examined across the $37 billion tokenized-assets market.\n\"The token isn't the asset. It's a representation of a claim,\" AMINA Bank Chief Product Officer Myles Harrison told BeInCrypto. \"Those answers live in the record of ownership, not in the token itself.\"\nInvestor Ross Gerber went much further, calling synthetic securities a Ponzi scheme and warning they could eventually threaten Robinhood.\nAron has called the structure \"contemptible\" and said he will raise it with the SEC. Yet Robinhood has one important defense: these tokens are not offered to US investors.\nFor now, no lawsuit has been filed. Aron's next move will decide whether this remains a corporate shouting match or becomes a serious test of how far tokenized stocks can go.\nRead the Original story Robinhood and AMC Clash Over Tokenized Stock Listing by Lockridge Okoth at beincrypto.com",
+    "text_blocks": [
+      "AMC, the world's largest movie theater chain, wants its tokenized stocks removed from Robinhood, and it's causing a huge meltdown on social media.",
+      "AMC wants the tokens removed because they trade on Robinhood using its stock price and branding even though buyers do not actually own AMC shares. CEO Adam Aron argues that investors could mistake the products for real shares and says the structure should face regulatory scrutiny.",
+      "Robinhood is refusing to remove anything. Their message is \"Send the Lawyers\". Robinhood Chief Legal Officer Dan Gallagher, a former SEC commissioner, responded publicly.",
+      "Robinhood Draws a Line on Stock Tokens",
+      "The fight exposes the strange legal world behind stock tokens.",
+      "Robinhood's products track listed shares, but buyers do not actually own those shares. They hold an offshore-issued debt instrument linked to the stock price. There are no voting rights and, generally, no right to exchange the token for the underlying equity.",
+      "Fintech lawyer Ariel Givner highlighted that gap, an issue BeInCrypto previously examined across the $37 billion tokenized-assets market.",
+      "\"The token isn't the asset. It's a representation of a claim,\" AMINA Bank Chief Product Officer Myles Harrison told BeInCrypto. \"Those answers live in the record of ownership, not in the token itself.\"",
+      "Investor Ross Gerber went much further, calling synthetic securities a Ponzi scheme and warning they could eventually threaten Robinhood.",
+      "Aron has called the structure \"contemptible\" and said he will raise it with the SEC. Yet Robinhood has one important defense: these tokens are not offered to US investors.",
+      "For now, no lawsuit has been filed. Aron's next move will decide whether this remains a corporate shouting match or becomes a serious test of how far tokenized stocks can go.",
+      "Read the Original story Robinhood and AMC Clash Over Tokenized Stock Listing by Lockridge Okoth at beincrypto.com"
+    ],
+    "html": null
+  }
+}

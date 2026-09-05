@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-hiring-boom-could-turn-010734269.html",
+    "fetched_at": "2026-09-05T07:00:31.683569-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI hiring boom could turn into a surprise tailwind for software: Bernstein",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Artificial intelligence could prove a surprise tailwind for software companies if productivity gains spur businesses to hire more workers rather than cut headcount, Bernstein analysts said, challenging one of the sector's key bearish narratives.\nConcerns that AI will replace white-collar workers have weighed on the outlook for application software companies that traditionally charge customers through seat-based licenses. Fewer employees could mean fewer paid software seats.\nBernstein argues the opposite outcome may be emerging. Research based on Ramp data found companies that heavily adopted AI were hiring more aggressively than businesses with low or no adoption. Heavy adopters recorded headcount growth more than 10% above control companies and lower-adoption peers on average.\nThat could support software vendors retaining seat-based pricing alongside newer models linked to AI token consumption, infrastructure usage or returns on investment.\nEnterprise customers also continue to favor seats partly for their predictable costs, Bernstein said. If AI-driven productivity results in businesses expanding their workforces, seat-based licensing could become less of a concern for software companies.\nThe hiring gains were not confined to engineers and salespeople. Administrative, customer service and entry-level positions also showed growth among heavy AI adopters, countering expectations that AI adoption would disproportionately eliminate junior and back-office positions.\nBernstein compared the trend with previous productivity booms triggered by PCs and the internet, when companies largely reinvested efficiency gains into growth rather than sharply expanding margins. White-collar employment increased during the PC era despite significant productivity improvements.\nThere are caveats. Finance, scientist, and operations roles showed weaker or no statistically significant positive growth, suggesting software targeting those functions could receive less support.\nBernstein made no changes to its software models, price targets, or recommendations based on the analysis.\nRelated articles\nAI hiring boom could turn into a surprise tailwind for software: Bernstein\nCiti pushes back Fed rate cuts to May after blowout January jobs report\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+    "text_blocks": [
+      "Investing.com -- Artificial intelligence could prove a surprise tailwind for software companies if productivity gains spur businesses to hire more workers rather than cut headcount, Bernstein analysts said, challenging one of the sector's key bearish narratives.",
+      "Concerns that AI will replace white-collar workers have weighed on the outlook for application software companies that traditionally charge customers through seat-based licenses. Fewer employees could mean fewer paid software seats.",
+      "Bernstein argues the opposite outcome may be emerging. Research based on Ramp data found companies that heavily adopted AI were hiring more aggressively than businesses with low or no adoption. Heavy adopters recorded headcount growth more than 10% above control companies and lower-adoption peers on average.",
+      "That could support software vendors retaining seat-based pricing alongside newer models linked to AI token consumption, infrastructure usage or returns on investment.",
+      "Enterprise customers also continue to favor seats partly for their predictable costs, Bernstein said. If AI-driven productivity results in businesses expanding their workforces, seat-based licensing could become less of a concern for software companies.",
+      "The hiring gains were not confined to engineers and salespeople. Administrative, customer service and entry-level positions also showed growth among heavy AI adopters, countering expectations that AI adoption would disproportionately eliminate junior and back-office positions.",
+      "Bernstein compared the trend with previous productivity booms triggered by PCs and the internet, when companies largely reinvested efficiency gains into growth rather than sharply expanding margins. White-collar employment increased during the PC era despite significant productivity improvements.",
+      "There are caveats. Finance, scientist, and operations roles showed weaker or no statistically significant positive growth, suggesting software targeting those functions could receive less support.",
+      "Bernstein made no changes to its software models, price targets, or recommendations based on the analysis.",
+      "Related articles",
+      "AI hiring boom could turn into a surprise tailwind for software: Bernstein",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "As Claude disrupts stock market, Anthropic researcher warns 'world is in peril'"
+    ],
+    "html": null
+  }
+}

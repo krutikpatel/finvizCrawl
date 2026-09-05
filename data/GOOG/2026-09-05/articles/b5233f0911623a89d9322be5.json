@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-flash-strong-signal-195139729.html",
+    "fetched_at": "2026-09-05T07:00:29.123075-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Magnificent Seven Flash Strong Signal Never Seen Before",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nThe Magnificent Seven have flashed a signal never recorded before, breaking from the momentum trade that defined the AI-led bull market.\nA Sherwood News analysis of rolling 21-session correlations between moves in the Roundhill Magnificent Seven ETF (MAGS) and the iShares MSCI USA Momentum Factor ETF (MTUM) found that the relationship turned negative. Historically, both moved together as mega-cap technology anchored index returns and momentum strategies.\nThis is the first such inversion in the data.\nMAGS tracks Apple, Microsoft, Nvidia, Amazon, Meta, Alphabet and Tesla. MTUM holds large- and mid-cap stocks with recent outperformance. The negative reading means the Magnificent Seven and current leaders moved in opposite directions during the measured window.\nThe shift reflects a broader rotation. Capital has moved toward memory-chip producers, other semiconductor stocks and a broader group of S&P 500 companies. Meanwhile, the seven giants have stopped moving as a unified block, weakening their influence on momentum.\nFor investors, the signal has two interpretations. The bearish reading is that leadership from the largest technology companies is fading as valuations and diverging fundamentals force the stocks to trade individually. If leaders lag, capitalization-weighted indexes could lose a major source of support.\nConstructively, expanding momentum beyond seven companies reduces concentration risk and may make the rally healthier. Broader gains are less dependent on Nvidia, Microsoft or any other mega-cap stock.\nThe metric is not a timing tool. A 21-session correlation is short-term and can reverse quickly. A negative reading neither predicts a correction nor proves the Magnificent Seven are entering a sustained decline.\nStill, the inversion changes the practical portfolio question. Buying momentum no longer automatically means buying the Magnificent Seven. Investors should watch whether the negative correlation persists and market breadth keeps expanding rather than treating one unusual reading as the definitive end of the AI trade.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "The Magnificent Seven have flashed a signal never recorded before, breaking from the momentum trade that defined the AI-led bull market.",
+      "A Sherwood News analysis of rolling 21-session correlations between moves in the Roundhill Magnificent Seven ETF (MAGS) and the iShares MSCI USA Momentum Factor ETF (MTUM) found that the relationship turned negative. Historically, both moved together as mega-cap technology anchored index returns and momentum strategies.",
+      "This is the first such inversion in the data.",
+      "MAGS tracks Apple, Microsoft, Nvidia, Amazon, Meta, Alphabet and Tesla. MTUM holds large- and mid-cap stocks with recent outperformance. The negative reading means the Magnificent Seven and current leaders moved in opposite directions during the measured window.",
+      "The shift reflects a broader rotation. Capital has moved toward memory-chip producers, other semiconductor stocks and a broader group of S&P 500 companies. Meanwhile, the seven giants have stopped moving as a unified block, weakening their influence on momentum.",
+      "For investors, the signal has two interpretations. The bearish reading is that leadership from the largest technology companies is fading as valuations and diverging fundamentals force the stocks to trade individually. If leaders lag, capitalization-weighted indexes could lose a major source of support.",
+      "Constructively, expanding momentum beyond seven companies reduces concentration risk and may make the rally healthier. Broader gains are less dependent on Nvidia, Microsoft or any other mega-cap stock.",
+      "The metric is not a timing tool. A 21-session correlation is short-term and can reverse quickly. A negative reading neither predicts a correction nor proves the Magnificent Seven are entering a sustained decline.",
+      "Still, the inversion changes the practical portfolio question. Buying momentum no longer automatically means buying the Magnificent Seven. Investors should watch whether the negative correlation persists and market breadth keeps expanding rather than treating one unusual reading as the definitive end of the AI trade."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/seattle-times-newsday-sue-openai-062913073.html",
+    "fetched_at": "2026-09-05T07:00:31.611443-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- The Seattle Times and Newsday sued OpenAI and Microsoft (NASDAQ:MSFT) on Friday, accusing the technology companies of using their journalism without permission to train artificial intelligence systems, Reuters reported.\nThe lawsuit, filed in the U.S. District Court for the Southern District of New York, alleges the companies scraped content from the newspapers' websites, including articles behind paywalls, and incorporated the material into datasets used to train and operate AI products.\nThose products include OpenAI's ChatGPT, Microsoft's Copilot and AI features integrated into Bing, according to the complaint.\nThe newspapers argue that the AI systems can reproduce passages from their reporting and closely paraphrase articles. They also allege that AI-generated answers can reduce the need for users to visit their websites or purchase subscriptions.\nSeattle Times President and CEO Alan Fisco said the newspaper spends millions of dollars annually producing its journalism and needs to protect that content from being used without consent or compensation.\nOpenAI said its models are trained on publicly available data and that its practices are grounded in fair use, but did not comment specifically on the lawsuit.\nMicrosoft said it was surprised by the legal action, adding that it recognizes the importance of local journalism and is willing to discuss potential solutions to such disputes.\nThe Seattle Times and Newsday are seeking an order requiring the destruction of copies of their copyrighted works, along with training datasets or AI models incorporating the material.\nThe case adds to a growing number of copyright disputes involving AI developers and publishers. The New York Times sued OpenAI and Microsoft in 2023 over similar allegations, while other copyright holders have brought cases against AI companies including Anthropic and Meta Platforms.\nRelated articles\nSeattle Times, Newsday sue OpenAI and Microsoft over AI training\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+    "text_blocks": [
+      "Investing.com -- The Seattle Times and Newsday sued OpenAI and Microsoft (NASDAQ:MSFT) on Friday, accusing the technology companies of using their journalism without permission to train artificial intelligence systems, Reuters reported.",
+      "The lawsuit, filed in the U.S. District Court for the Southern District of New York, alleges the companies scraped content from the newspapers' websites, including articles behind paywalls, and incorporated the material into datasets used to train and operate AI products.",
+      "Those products include OpenAI's ChatGPT, Microsoft's Copilot and AI features integrated into Bing, according to the complaint.",
+      "The newspapers argue that the AI systems can reproduce passages from their reporting and closely paraphrase articles. They also allege that AI-generated answers can reduce the need for users to visit their websites or purchase subscriptions.",
+      "Seattle Times President and CEO Alan Fisco said the newspaper spends millions of dollars annually producing its journalism and needs to protect that content from being used without consent or compensation.",
+      "OpenAI said its models are trained on publicly available data and that its practices are grounded in fair use, but did not comment specifically on the lawsuit.",
+      "Microsoft said it was surprised by the legal action, adding that it recognizes the importance of local journalism and is willing to discuss potential solutions to such disputes.",
+      "The Seattle Times and Newsday are seeking an order requiring the destruction of copies of their copyrighted works, along with training datasets or AI models incorporating the material.",
+      "The case adds to a growing number of copyright disputes involving AI developers and publishers. The New York Times sued OpenAI and Microsoft in 2023 over similar allegations, while other copyright holders have brought cases against AI companies including Anthropic and Meta Platforms.",
+      "Related articles",
+      "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
+      "Citi pushes back Fed rate cuts to May after blowout January jobs report",
+      "5 reasons why Jefferies thinks Meta's pullback is a buying opportunity"
+    ],
+    "html": null
+  }
+}
