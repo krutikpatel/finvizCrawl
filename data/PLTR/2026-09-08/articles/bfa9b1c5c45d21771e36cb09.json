@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-just-gave-nebius-major-124254012.html",
+    "fetched_at": "2026-09-08T07:00:34.507543-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Just Gave Nebius a Major Sovereign AI Endorsemen",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies Inc. (PLTR, Financials) has made a name for itself helping governments and enterprises leverage AI on sensitive data. Now it wants more control over where that AI runs.Palantir has chosen Nebius as its preferred sovereign AI infrastructure partner, bringing Nebius computation and inference capabilities into the Palantir ecosystem. That concerns because sovereign AI is becoming an increasingly important part of the infrastructure race.Governments and regulated organizations increasingly demand standard artificial intelligence (AI) solutions which put sensitive data under stricter geographic and security limits.Palantir already provides the software layer. Nebius takes the computing infrastructure under it. The companies also said they will work together to add new AI capacity faster. Nebius's growing GPU infrastructure has another path to monetize with enterprise demand in the alliance.Palantir gets extra computational resource, without forcing clients to shift sensitive workloads out of the Palantir perimeter.That makes the arrangement more than just another AI alliance. Palantir is striving to make its software easy to deploy for secure AI wherever its customers need it.Nebius is striving to get its infrastructure right when they do it. Then we'll need to see if the agreement results in substantial client deployments and extra infrastructure investments.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies Inc. (PLTR, Financials) has made a name for itself helping governments and enterprises leverage AI on sensitive data. Now it wants more control over where that AI runs.Palantir has chosen Nebius as its preferred sovereign AI infrastructure partner, bringing Nebius computation and inference capabilities into the Palantir ecosystem. That concerns because sovereign AI is becoming an increasingly important part of the infrastructure race.Governments and regulated organizations increasingly demand standard artificial intelligence (AI) solutions which put sensitive data under stricter geographic and security limits.Palantir already provides the software layer. Nebius takes the computing infrastructure under it. The companies also said they will work together to add new AI capacity faster. Nebius's growing GPU infrastructure has another path to monetize with enterprise demand in the alliance.Palantir gets extra computational resource, without forcing clients to shift sensitive workloads out of the Palantir perimeter.That makes the arrangement more than just another AI alliance. Palantir is striving to make its software easy to deploy for secure AI wherever its customers need it.Nebius is striving to get its infrastructure right when they do it. Then we'll need to see if the agreement results in substantial client deployments and extra infrastructure investments."
+    ],
+    "html": null
+  }
+}

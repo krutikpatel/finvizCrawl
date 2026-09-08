@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mizuho-sees-oracle-320-ai-130138247.html",
+    "fetched_at": "2026-09-08T07:00:23.112486-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Mizuho Sees Oracle at $320 as AI Cloud Capacity Jumps",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle Corp. (ORCL, Financials) has spent billions of dollars attempting to keep up with the top cloud providers. Mizuho says investors are about to get the pay-off. The brokerage maintained its Outperform rating and $320 price target ahead of Oracle's fiscal first-quarter earnings on Sept. 10. The answer is capacity.\nMizuho estimates that around 1 gigawatt of new Oracle Cloud Infrastructure capacity will be deployed in the quarter. By comparison, Oracle added around 1.2 gigawatts for all of fiscal 2026. That's a tremendous jump in a short period of time. And Oracle needs that.\nAI customers demand large quantities of computational power, but Oracle won't be able to transform that demand into income until the data centers are in place. Mizuho predicts the extra capacity will help Oracle outperform consensus projections. But there's a catch.\nThe cost of building AI infrastructure is high. Investors have fretted about financing, data-center delays and when Oracle's massive spending will eventually translate into higher free cash flow. That makes this earnings report pretty straightforward. Oracle already has demand for AI.\nNow it has to prove it can bring capacity online fast enough to serve it without the cost of the buildout overwhelming the business.\nInvestors get another chance to assess whether that balance is improving after earnings at Oracle's Investor Day on Oct. 28.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle Corp. (ORCL, Financials) has spent billions of dollars attempting to keep up with the top cloud providers. Mizuho says investors are about to get the pay-off. The brokerage maintained its Outperform rating and $320 price target ahead of Oracle's fiscal first-quarter earnings on Sept. 10. The answer is capacity.",
+      "Mizuho estimates that around 1 gigawatt of new Oracle Cloud Infrastructure capacity will be deployed in the quarter. By comparison, Oracle added around 1.2 gigawatts for all of fiscal 2026. That's a tremendous jump in a short period of time. And Oracle needs that.",
+      "AI customers demand large quantities of computational power, but Oracle won't be able to transform that demand into income until the data centers are in place. Mizuho predicts the extra capacity will help Oracle outperform consensus projections. But there's a catch.",
+      "The cost of building AI infrastructure is high. Investors have fretted about financing, data-center delays and when Oracle's massive spending will eventually translate into higher free cash flow. That makes this earnings report pretty straightforward. Oracle already has demand for AI.",
+      "Now it has to prove it can bring capacity online fast enough to serve it without the cost of the buildout overwhelming the business.",
+      "Investors get another chance to assess whether that balance is improving after earnings at Oracle's Investor Day on Oct. 28."
+    ],
+    "html": null
+  }
+}

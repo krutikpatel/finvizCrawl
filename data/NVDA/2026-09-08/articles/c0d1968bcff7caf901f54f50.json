@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/54fd3872-6bd6-339c-b1d8-29695b195b50/qualcomm-lands-amazon-deal-to.html",
+    "fetched_at": "2026-09-08T07:00:37.363747-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm lands Amazon deal to build custom AI data center chips",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Qualcomm announced a partnership with Amazon Web Services on Tuesday to develop custom chips for AI data center infrastructure, sending Qualcomm stock up 10%.\nThe two companies will work together across multiple generations of customized silicon, with a focus on inference workloads, the company said. The collaboration is aimed at combining Amazon's AI infrastructure with Qualcomm's power-efficient processing and silicon design capabilities, according to the press release.\nThe deal represents a significant step for Qualcomm as it works to establish itself as a supplier of data center chips alongside Nvidia. The company built its reputation on chips for smartphones and mobile handsets, according to CNBC.\nQualcomm entered the data center market in June, when it unveiled a central processing unit called the Dragonfly C1000. Meta was named as the launch customer, with production expected to begin in 2028, and Qualcomm told investors it was aiming for $15 billion in data center revenue by fiscal 2029, according to CNBC.\nThe AWS agreement gives Qualcomm a second major hyperscaler partner. Like Meta, Amazon commits capital expenditures on AI infrastructure that run into the hundreds of billions of dollars each year.\nAmazon has been expanding its ambitions in custom silicon on multiple fronts. Amazon CEO Andy Jassy first raised the prospect of selling chip racks to outside customers in his April 2026 shareholder letter, putting the company's annualized chip revenue at roughly $20 billion across its Trainium, Graviton, and Nitro product lines and suggesting that selling to external customers could push that figure toward $50 billion annually.\nAmazon's senior vice president overseeing semiconductor, AI, and quantum efforts, Peter DeSantis, has separately confirmed that Amazon is in talks to sell its Trainium AI chips — previously available only through AWS — to other companies' data centers. \"We view AI infrastructure as rapidly evolving,\" DeSantis said. \"And we're constantly looking at ways to get to more customers.\" He positioned Amazon as a direct peer to Nvidia in chip development, saying the company is \"one of a very few players who have the ability to design a chip, design the physical attributes of that chip, and then do the production of that chip.\"",
+    "text_blocks": [
+      "Qualcomm announced a partnership with Amazon Web Services on Tuesday to develop custom chips for AI data center infrastructure, sending Qualcomm stock up 10%.",
+      "The two companies will work together across multiple generations of customized silicon, with a focus on inference workloads, the company said. The collaboration is aimed at combining Amazon's AI infrastructure with Qualcomm's power-efficient processing and silicon design capabilities, according to the press release.",
+      "The deal represents a significant step for Qualcomm as it works to establish itself as a supplier of data center chips alongside Nvidia. The company built its reputation on chips for smartphones and mobile handsets, according to CNBC.",
+      "Qualcomm entered the data center market in June, when it unveiled a central processing unit called the Dragonfly C1000. Meta was named as the launch customer, with production expected to begin in 2028, and Qualcomm told investors it was aiming for $15 billion in data center revenue by fiscal 2029, according to CNBC.",
+      "The AWS agreement gives Qualcomm a second major hyperscaler partner. Like Meta, Amazon commits capital expenditures on AI infrastructure that run into the hundreds of billions of dollars each year.",
+      "Amazon has been expanding its ambitions in custom silicon on multiple fronts. Amazon CEO Andy Jassy first raised the prospect of selling chip racks to outside customers in his April 2026 shareholder letter, putting the company's annualized chip revenue at roughly $20 billion across its Trainium, Graviton, and Nitro product lines and suggesting that selling to external customers could push that figure toward $50 billion annually.",
+      "Amazon's senior vice president overseeing semiconductor, AI, and quantum efforts, Peter DeSantis, has separately confirmed that Amazon is in talks to sell its Trainium AI chips — previously available only through AWS — to other companies' data centers. \"We view AI infrastructure as rapidly evolving,\" DeSantis said. \"And we're constantly looking at ways to get to more customers.\" He positioned Amazon as a direct peer to Nvidia in chip development, saying the company is \"one of a very few players who have the ability to design a chip, design the physical attributes of that chip, and then do the production of that chip.\""
+    ],
+    "html": null
+  }
+}

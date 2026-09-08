@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-121604961.html",
+    "fetched_at": "2026-09-08T07:00:45.905163-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bloom Energy Joins the S&P 500 as The Trade Desk Leaves",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBloom Energy Corp. (NYSE:BE) rose 5.63% premarket after S&P Dow Jones Indices said it will join the S&P 500 before the open on September 21, part of the quarterly rebalance. Illumina Inc. (NASDAQ:ILMN) and Everpure (NYSE:P) join alongside it. Illumina rose 1.04% and Everpure 2.70%.\nThe Trade Desk Inc. (NASDAQ:TTD), Molson Coors Beverage Co. (NYSE:TAP) and Builders FirstSource Inc. (NYSE:BLDR) all leave the S&P 500, and none of them lands in the MidCap 400. All three go straight to the SmallCap 600.\nDell Technologies Inc. (NYSE:DELL), Palo Alto Networks Inc. (NASDAQ:PANW), Arista Networks Inc. (NYSE:ANET) and Sandisk Corp. (NASDAQ:SNDK) all join the S&P 100, and every one is classified Information Technology. Out go Honeywell Aerospace (NASDAQ:HONA), NIKE Inc. (NYSE:NKE), Simon Property Group Inc. (NYSE:SPG) and Colgate-Palmolive Co. (NYSE:CL), spanning industrials, consumer discretionary, real estate and consumer staples.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Bloom Energy Corp. (NYSE:BE) rose 5.63% premarket after S&P Dow Jones Indices said it will join the S&P 500 before the open on September 21, part of the quarterly rebalance. Illumina Inc. (NASDAQ:ILMN) and Everpure (NYSE:P) join alongside it. Illumina rose 1.04% and Everpure 2.70%.",
+      "The Trade Desk Inc. (NASDAQ:TTD), Molson Coors Beverage Co. (NYSE:TAP) and Builders FirstSource Inc. (NYSE:BLDR) all leave the S&P 500, and none of them lands in the MidCap 400. All three go straight to the SmallCap 600.",
+      "Dell Technologies Inc. (NYSE:DELL), Palo Alto Networks Inc. (NASDAQ:PANW), Arista Networks Inc. (NYSE:ANET) and Sandisk Corp. (NASDAQ:SNDK) all join the S&P 100, and every one is classified Information Technology. Out go Honeywell Aerospace (NASDAQ:HONA), NIKE Inc. (NYSE:NKE), Simon Property Group Inc. (NYSE:SPG) and Colgate-Palmolive Co. (NYSE:CL), spanning industrials, consumer discretionary, real estate and consumer staples."
+    ],
+    "html": null
+  }
+}

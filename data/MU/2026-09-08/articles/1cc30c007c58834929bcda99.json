@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
+    "fetched_at": "2026-09-08T07:00:14.805945-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL), the consumer-technology giant, faces a tightening memory crunch as artificial-intelligence data centers swallow an expanding share of global chip capacity. The Verge reported Monday that some smartphone-memory prices have more than quadrupled, with meaningful relief potentially delayed until late 2027 or 2028. Apple shares last closed at $319.97 because U.S. markets were shut Monday.\nSamsung, SK Hynix and Micron command roughly 90% of the memory market. Manufacturers can earn more by steering scarce wafer capacity toward the high-bandwidth memory demanded by deep-pocketed AI customers, leaving smartphone producers fighting over conventional DRAM supply. Apple's enormous purchasing power offers leverage, but it cannot manufacture new factories overnight.\nThe financial stakes are substantial. Apple's latest statements show $54.25 billion of iPhone revenue, representing 49.6% of quarterly sales, while companywide gross margin reached 50.1%. The shares trade 12.35% above the GF Value estimate of $284.79, signaling that investors already expect Apple to defend margins despite rising component costs. Premium models and price increases could absorb part of the pressure, but customers must remain willing to pay more for each upgrade.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL), the consumer-technology giant, faces a tightening memory crunch as artificial-intelligence data centers swallow an expanding share of global chip capacity. The Verge reported Monday that some smartphone-memory prices have more than quadrupled, with meaningful relief potentially delayed until late 2027 or 2028. Apple shares last closed at $319.97 because U.S. markets were shut Monday.",
+      "Samsung, SK Hynix and Micron command roughly 90% of the memory market. Manufacturers can earn more by steering scarce wafer capacity toward the high-bandwidth memory demanded by deep-pocketed AI customers, leaving smartphone producers fighting over conventional DRAM supply. Apple's enormous purchasing power offers leverage, but it cannot manufacture new factories overnight.",
+      "The financial stakes are substantial. Apple's latest statements show $54.25 billion of iPhone revenue, representing 49.6% of quarterly sales, while companywide gross margin reached 50.1%. The shares trade 12.35% above the GF Value estimate of $284.79, signaling that investors already expect Apple to defend margins despite rising component costs. Premium models and price increases could absorb part of the pressure, but customers must remain willing to pay more for each upgrade."
+    ],
+    "html": null
+  }
+}

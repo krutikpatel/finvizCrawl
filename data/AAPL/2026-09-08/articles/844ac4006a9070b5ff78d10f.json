@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-kicks-off-new-era-wednesday-anthropic-s1-watch-125343211.html",
+    "fetched_at": "2026-09-08T07:00:07.919609-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech stocks kicked off the holiday shortened weak lower on Tuesday, as the Nasdaq fell 0.14%. On Wednesday, Apple (AAPL) will enter a new era as CEO John Ternus hosts his first iPhone event at the company's headquarters in Cupertino, Calif.\nTernus took over from former CEO Tim Cook on Sept. 1 and he'll have some rather large shoes to fill after Cook helped turn Apple into a $4.6 trillion behemoth.\nThe company is widely expected to debut its first foldable iPhone during the presentation, as well as its iPhone 18 Pro and Pro Max models and the Apple Watch Series 12 and Ultra 4.\nElsewhere, Wall Street is waiting with bated breath for Anthropic (ANTH.PVT) to publicly drop its S1 investing prospectus. The filing with the Securities and Exchange Commission will provide potential investors with their first look at the AI startup's financials and outlook, as well as more information about its data center spending.\nRumors have swirled that the paperwork could come as early as this week, though more recent rumblings point to October.",
+    "text_blocks": [
+      "Tech stocks kicked off the holiday shortened weak lower on Tuesday, as the Nasdaq fell 0.14%. On Wednesday, Apple (AAPL) will enter a new era as CEO John Ternus hosts his first iPhone event at the company's headquarters in Cupertino, Calif.",
+      "Ternus took over from former CEO Tim Cook on Sept. 1 and he'll have some rather large shoes to fill after Cook helped turn Apple into a $4.6 trillion behemoth.",
+      "The company is widely expected to debut its first foldable iPhone during the presentation, as well as its iPhone 18 Pro and Pro Max models and the Apple Watch Series 12 and Ultra 4.",
+      "Elsewhere, Wall Street is waiting with bated breath for Anthropic (ANTH.PVT) to publicly drop its S1 investing prospectus. The filing with the Securities and Exchange Commission will provide potential investors with their first look at the AI startup's financials and outlook, as well as more information about its data center spending.",
+      "Rumors have swirled that the paperwork could come as early as this week, though more recent rumblings point to October."
+    ],
+    "html": null
+  }
+}

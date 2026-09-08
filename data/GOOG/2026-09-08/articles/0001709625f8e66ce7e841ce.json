@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-slashes-contrail-warming-215343560.html",
+    "fetched_at": "2026-09-08T07:00:25.934063-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google's AI Slashes Contrail Warming 40% in a Real-World Test",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet (NASDAQ:GOOGL), Google's search, cloud and artificial-intelligence powerhouse, expanded its contrail-fighting AI program with Cathay Pacific Monday. More than 80 flights in the initial trial delivered an estimated 40% reduction in contrail-related warming. U.S. markets were closed, leaving Alphabet at its previous closing price of $335.31.\nThe partnership takes Google's technology into Asia-Pacific and, for the first time, onto ultra-long-haul routes. Its platform blends satellite images, weather intelligence and AI-generated forecasts to flag atmospheric zones where pilots can change altitude and reduce persistent contrail formation.\nAlphabet's latest quarter generated $119.8 billion in revenue, with Google Cloud contributing $24.8 billion. The chart shows Alphabet trading 32.75% above its $252.58 GF Value estimate, signaling that investors already expect plenty from its AI ambitions. Cathay disclosed neither a contract value nor a commercialization plan, making this a sharp demonstration of real-world AI utilitybut not yet a meaningful revenue engine.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet (NASDAQ:GOOGL), Google's search, cloud and artificial-intelligence powerhouse, expanded its contrail-fighting AI program with Cathay Pacific Monday. More than 80 flights in the initial trial delivered an estimated 40% reduction in contrail-related warming. U.S. markets were closed, leaving Alphabet at its previous closing price of $335.31.",
+      "The partnership takes Google's technology into Asia-Pacific and, for the first time, onto ultra-long-haul routes. Its platform blends satellite images, weather intelligence and AI-generated forecasts to flag atmospheric zones where pilots can change altitude and reduce persistent contrail formation.",
+      "Alphabet's latest quarter generated $119.8 billion in revenue, with Google Cloud contributing $24.8 billion. The chart shows Alphabet trading 32.75% above its $252.58 GF Value estimate, signaling that investors already expect plenty from its AI ambitions. Cathay disclosed neither a contract value nor a commercialization plan, making this a sharp demonstration of real-world AI utilitybut not yet a meaningful revenue engine."
+    ],
+    "html": null
+  }
+}

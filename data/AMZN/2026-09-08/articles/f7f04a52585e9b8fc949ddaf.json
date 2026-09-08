@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-surges-9-5-133951934.html",
+    "fetched_at": "2026-09-08T07:00:40.197732-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm stock surges 9.5% on Amazon AI deal & 25M share warrant",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Qualcomm Technologies (NASDAQ: QCOM) shares spiked 9.5% following the announcement of a multi-generational collaboration with Amazon to build customized silicon and ultra-fast optical connectivity solutions for AI data centers. Under the agreement, Qualcomm will issue a warrant to Amazon to purchase up to 25 million shares of QCOM common stock, signaling a deep, long-term alignment between the two tech giants.\nThe partnership centers on heavy-duty AI inference workloads and optical connectivity extending up to 1.6T. As generative AI applications accelerate, the collaboration aims to smash compute and bandwidth bottlenecks in next-generation cloud infrastructure.\nCustom Silicon & Next-Gen Connectivity at Scale\nQualcomm will work directly with Amazon Web Services (AWS) to design and deliver energy-efficient, customized silicon tailored for massive AI data centers. The joint effort pairs AWS's vast infrastructure with Qualcomm's high-performance processing and low-power silicon design.\n\"As AI demand accelerates, data center infrastructure will require advances in both computing and connectivity to deliver greater performance with more efficiency,\" said Cristiano Amon, President and CEO of Qualcomm Incorporated. He noted that the company is bringing decades of leadership in power-efficient compute to \"deliver breakthrough performance and enable the next generation of AI infrastructure.\"\nSimultaneously, the companies are co-developing high-speed optical connectivity solutions built on Qualcomm's advanced SerDes and optical DSP technologies to handle exploding data center traffic. Prasad Kalyanaraman, Vice President at AWS, emphasized that the collaboration \"builds on a strong foundation of partnership and reflects our shared commitment to pushing the boundaries of what's possible.\"\nAs part of the expanded deal, Qualcomm will also scale up its own use of AWS AI infrastructure—including Amazon Bedrock—to power its electronic design automation workflows, aiming to drastically cut chip design cycles.\nRelated articles\nQualcomm stock surges 9.5% on Amazon AI deal & 25M share warrant\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
+    "text_blocks": [
+      "Investing.com -- Qualcomm Technologies (NASDAQ: QCOM) shares spiked 9.5% following the announcement of a multi-generational collaboration with Amazon to build customized silicon and ultra-fast optical connectivity solutions for AI data centers. Under the agreement, Qualcomm will issue a warrant to Amazon to purchase up to 25 million shares of QCOM common stock, signaling a deep, long-term alignment between the two tech giants.",
+      "The partnership centers on heavy-duty AI inference workloads and optical connectivity extending up to 1.6T. As generative AI applications accelerate, the collaboration aims to smash compute and bandwidth bottlenecks in next-generation cloud infrastructure.",
+      "Custom Silicon & Next-Gen Connectivity at Scale",
+      "Qualcomm will work directly with Amazon Web Services (AWS) to design and deliver energy-efficient, customized silicon tailored for massive AI data centers. The joint effort pairs AWS's vast infrastructure with Qualcomm's high-performance processing and low-power silicon design.",
+      "\"As AI demand accelerates, data center infrastructure will require advances in both computing and connectivity to deliver greater performance with more efficiency,\" said Cristiano Amon, President and CEO of Qualcomm Incorporated. He noted that the company is bringing decades of leadership in power-efficient compute to \"deliver breakthrough performance and enable the next generation of AI infrastructure.\"",
+      "Simultaneously, the companies are co-developing high-speed optical connectivity solutions built on Qualcomm's advanced SerDes and optical DSP technologies to handle exploding data center traffic. Prasad Kalyanaraman, Vice President at AWS, emphasized that the collaboration \"builds on a strong foundation of partnership and reflects our shared commitment to pushing the boundaries of what's possible.\"",
+      "As part of the expanded deal, Qualcomm will also scale up its own use of AWS AI infrastructure—including Amazon Bedrock—to power its electronic design automation workflows, aiming to drastically cut chip design cycles.",
+      "Related articles",
+      "Qualcomm stock surges 9.5% on Amazon AI deal & 25M share warrant",
+      "JPMorgan outlines ten strategic themes that could shape the outlook for 2026"
+    ],
+    "html": null
+  }
+}

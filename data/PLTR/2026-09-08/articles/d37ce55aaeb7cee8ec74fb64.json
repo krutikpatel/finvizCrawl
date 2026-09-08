@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/dab01216-932b-3207-8edc-d419f8432601/nbis-stock-jumps-after.html",
+    "fetched_at": "2026-09-08T07:00:34.491101-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NBIS Stock Jumps After Palantir, Nebius Team Up to Let Companies Own Their AI Models, Not Rent Them",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nThe partnership will integrate Nebius' AI computing and inference infrastructure directly into Palantir's enterprise software.\n-\nThe arrangement is designed to give commercial customers greater control over their AI models, computing resources and data.\n-\nPalantir and Nebius also plan to expand computing capacity through modular data centers, including at locations where power is already available.\nNebius Group's (NBIS) shares rallied in early morning trade on Monday, outpeforming the broader market, after Palantir (PLTR) announced to that the Nvidia (NVDA)-backed company would be its preferred 'soveriegn AI' partner.\nUnder the partnership, Nebius' AI computing infrastructure will run directly within Palantir's enterprise software. The arrangement gives commercial customers another way to run their own AI models on infrastructure they control, rather than renting computing capacity from a third-party provider on a pay-per-use basis.\nNBIS stock stock rose as much as 2.5% in pre-market trade, while PLTR stock edged 0.2% lower. Both were among the top trending tickers on Stocktwits at the time of writing but retail sentiment around them remained in 'bearish' territory.\nPalantir, Nebius Push AI Compute Control\nOnce the integration is complete, eligible Palantir customers will be able to access Nebius' cloud and inference infrastructure from within Palantir's enterprise environment. That would give companies more direct control over their computing resources, data and AI models.\nThe companies also plan to work together to accelerate the deployment of new computing capacity, including through modular data-center deployments at locations where power is already available. The focus reflects a growing constraint in the AI infrastructure buildout: securing usable electricity and data-center capacity is becoming nearly as important as securing advanced chips.\n\"Nebius' compute infrastructure powers your ability to run your own AI models under conditions you control,\" said Palatir CEO Alex Karp. \"Our ontology and their infrastructure will undergird the sovereignty our partners are demanding.\"\nNebius CEO Arkady Volozh echoed that sentiment, stating the partnership lets organizations \"run their optimized open models on trusted infrastructure\" without sacrificing performance.\nKarp Takes Aim At Pay-Per-Token AI\nThe partnership also fits into a broader strategy Karp has been developing around what Palantir calls sovereign AI. Karp has spent much of 2026 criticizing the pay-per-token pricing model used by frontier AI companies including OpenAI and Anthropic.",
+    "text_blocks": [
+      "-",
+      "The partnership will integrate Nebius' AI computing and inference infrastructure directly into Palantir's enterprise software.",
+      "-",
+      "The arrangement is designed to give commercial customers greater control over their AI models, computing resources and data.",
+      "-",
+      "Palantir and Nebius also plan to expand computing capacity through modular data centers, including at locations where power is already available.",
+      "Nebius Group's (NBIS) shares rallied in early morning trade on Monday, outpeforming the broader market, after Palantir (PLTR) announced to that the Nvidia (NVDA)-backed company would be its preferred 'soveriegn AI' partner.",
+      "Under the partnership, Nebius' AI computing infrastructure will run directly within Palantir's enterprise software. The arrangement gives commercial customers another way to run their own AI models on infrastructure they control, rather than renting computing capacity from a third-party provider on a pay-per-use basis.",
+      "NBIS stock stock rose as much as 2.5% in pre-market trade, while PLTR stock edged 0.2% lower. Both were among the top trending tickers on Stocktwits at the time of writing but retail sentiment around them remained in 'bearish' territory.",
+      "Palantir, Nebius Push AI Compute Control",
+      "Once the integration is complete, eligible Palantir customers will be able to access Nebius' cloud and inference infrastructure from within Palantir's enterprise environment. That would give companies more direct control over their computing resources, data and AI models.",
+      "The companies also plan to work together to accelerate the deployment of new computing capacity, including through modular data-center deployments at locations where power is already available. The focus reflects a growing constraint in the AI infrastructure buildout: securing usable electricity and data-center capacity is becoming nearly as important as securing advanced chips.",
+      "\"Nebius' compute infrastructure powers your ability to run your own AI models under conditions you control,\" said Palatir CEO Alex Karp. \"Our ontology and their infrastructure will undergird the sovereignty our partners are demanding.\"",
+      "Nebius CEO Arkady Volozh echoed that sentiment, stating the partnership lets organizations \"run their optimized open models on trusted infrastructure\" without sacrificing performance.",
+      "Karp Takes Aim At Pay-Per-Token AI",
+      "The partnership also fits into a broader strategy Karp has been developing around what Palantir calls sovereign AI. Karp has spent much of 2026 criticizing the pay-per-token pricing model used by frontier AI companies including OpenAI and Anthropic."
+    ],
+    "html": null
+  }
+}

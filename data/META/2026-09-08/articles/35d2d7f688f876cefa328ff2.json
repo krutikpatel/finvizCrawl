@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/data-center-laws-congress-ai-election-2a3e5322?mod=bar_FV",
+    "fetched_at": "2026-09-08T07:00:11.645356-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Local Data Center Fights Are Reshaping the Midterms—Here’s How<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Local Data Center Fights Are Reshaping the Midterms—Here’s How\nGrowing data center backlash in key midterm races raises the risk of local policies becoming national legislation.\nData center opposition is on the rise, with a patchwork of local moratoriums and rezoning fights popping up across the United States. As the midterm elections approach, that backlash could push the issue from local actions into federal policy.",
+    "text_blocks": [
+      "Local Data Center Fights Are Reshaping the Midterms—Here’s How",
+      "Growing data center backlash in key midterm races raises the risk of local policies becoming national legislation.",
+      "Data center opposition is on the rise, with a patchwork of local moratoriums and rezoning fights popping up across the United States. As the midterm elections approach, that backlash could push the issue from local actions into federal policy."
+    ],
+    "html": null
+  }
+}

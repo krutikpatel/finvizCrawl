@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9050f829-b684-3f82-b127-5d2be38dda96/archtis-wins-a%24445%2C000-us.html",
+    "fetched_at": "2026-09-08T07:00:28.881664-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "archTIS wins A$445,000 US private aviation security contract",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "archTIS Ltd (ASX:AR9, OTCQB:ARHLF) has secured a three-year contract worth about A$445,000 with a leading US-based private aviation services company, extending the reach of its data-centric security technology beyond its traditional government and defence markets.\nThe customer will deploy archTIS' Spirion Sensitive Data Platform (SDP) across its Microsoft 365 environment, workstations and enterprise file shares to improve the discovery, classification and protection of sensitive information.\nThe platform is intended to provide greater automation and accuracy while reducing false positives, alongside the customer's existing Microsoft Purview investment.\nContract opens wider commercial opportunity\nThe agreement comprises software licensing, premium support and professional services, with the customer committed to the full three-year term and payments due annually.\narchTIS said the initial deployment could also expand into additional enterprise data sources and applications, as well as other products within its portfolio including NC Protect and Trusted Data Integration.\nChief strategy officer and US president Kurt A. Mueffelmann said the significance of the deal extended beyond its headline value.\n\"This three-year agreement matters less for its value than for what it demonstrates,\" he said.\n\"Organisations across commercial industries face the same fundamental data security challenges as our government and defence customers.\"\nMueffelmann said archTIS saw a significant opportunity to apply technology developed for demanding security environments to a broader range of regulated commercial markets as the company expanded in North America.\nPrivate aviation adds new vertical\nThe contract marks archTIS' entry into the private aviation sector, where operators handle substantial volumes of customer, operational and personally identifiable information across cloud systems, endpoints and legacy repositories.\nThe customer selected Spirion SDP following an evaluation of its data environment, citing the technology's accuracy, customisation, low false-positive rates, automation and integration with Microsoft Purview.\narchTIS said the deal supported its strategy of building longer-term recurring customer relationships while broadening its addressable market across commercial industries including aviation, financial services, healthcare, critical infrastructure and technology.\nAbout archTIS\narchTIS develops data-centric security software for protecting and securely sharing sensitive information across cloud, on-premises and hybrid environments.\nIts portfolio includes Trusted Data Integration, Kojensi, NC Protect and Spirion, with customers across government, defence, enterprise and regulated industries.",
+    "text_blocks": [
+      "archTIS Ltd (ASX:AR9, OTCQB:ARHLF) has secured a three-year contract worth about A$445,000 with a leading US-based private aviation services company, extending the reach of its data-centric security technology beyond its traditional government and defence markets.",
+      "The customer will deploy archTIS' Spirion Sensitive Data Platform (SDP) across its Microsoft 365 environment, workstations and enterprise file shares to improve the discovery, classification and protection of sensitive information.",
+      "The platform is intended to provide greater automation and accuracy while reducing false positives, alongside the customer's existing Microsoft Purview investment.",
+      "Contract opens wider commercial opportunity",
+      "The agreement comprises software licensing, premium support and professional services, with the customer committed to the full three-year term and payments due annually.",
+      "archTIS said the initial deployment could also expand into additional enterprise data sources and applications, as well as other products within its portfolio including NC Protect and Trusted Data Integration.",
+      "Chief strategy officer and US president Kurt A. Mueffelmann said the significance of the deal extended beyond its headline value.",
+      "\"This three-year agreement matters less for its value than for what it demonstrates,\" he said.",
+      "\"Organisations across commercial industries face the same fundamental data security challenges as our government and defence customers.\"",
+      "Mueffelmann said archTIS saw a significant opportunity to apply technology developed for demanding security environments to a broader range of regulated commercial markets as the company expanded in North America.",
+      "Private aviation adds new vertical",
+      "The contract marks archTIS' entry into the private aviation sector, where operators handle substantial volumes of customer, operational and personally identifiable information across cloud systems, endpoints and legacy repositories.",
+      "The customer selected Spirion SDP following an evaluation of its data environment, citing the technology's accuracy, customisation, low false-positive rates, automation and integration with Microsoft Purview.",
+      "archTIS said the deal supported its strategy of building longer-term recurring customer relationships while broadening its addressable market across commercial industries including aviation, financial services, healthcare, critical infrastructure and technology.",
+      "About archTIS",
+      "archTIS develops data-centric security software for protecting and securely sharing sensitive information across cloud, on-premises and hybrid environments.",
+      "Its portfolio includes Trusted Data Integration, Kojensi, NC Protect and Spirion, with customers across government, defence, enterprise and regulated industries."
+    ],
+    "html": null
+  }
+}

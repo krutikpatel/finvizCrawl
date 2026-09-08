@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/18-summer-selloff-chip-stocks-105437359.html",
+    "fetched_at": "2026-09-08T07:00:43.110750-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "After an 18% summer selloff in chip stocks, Citi asks what comes next",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Citi told clients in a note Tuesday that it expects semiconductor stocks to rebound after a summer slump, arguing that a heavy conference schedule and resilient data center demand should support a sector that had run ahead of expectations.\nThe bank noted the Philadelphia Semiconductor Index fell 18% over the summer as \"the group ran into high expectations and a modest deceleration in earnings momentum.\"\nEven so, Citi looks for a recovery heading into its Global TMT conference, \"where we expect positive semis commentary led by AMD, MRVL, LITE, ALAB, and semi caps,\" the analysts wrote.\nData center demand remains strong, accounting for 34% of the industry's total addressable market, while autos and industrials, at 21%, continue to recover, according to the note.\nDemand from PCs and handsets, which make up 42% of the market, is said to remain weak amid memory cost inflation and supply constraints.\nThe bank turned more bullish on central processing units after recent earnings and the Hot Chips conference, lifting its CPU market forecast to $237 billion by 2030 from $29 billion in 2025, a 52% compound annual growth rate.\nThat is above forecasts from AMD, Arm and Nvidia. Citi expects AMD to be the key beneficiary of what it called a \"CPU renaissance,\" with Intel a secondary winner.\nFurthermore, Citi raised its outlook for wafer fabrication equipment spending, citing a stronger hyperscaler capital expenditure model. It now sees a 2028 bull case approaching $300 billion, with base-case spending of $257 billion, up from $250 billion previously.\nRelated articles\nAfter an 18% summer selloff in chip stocks, Citi asks what comes next",
+    "text_blocks": [
+      "Investing.com -- Citi told clients in a note Tuesday that it expects semiconductor stocks to rebound after a summer slump, arguing that a heavy conference schedule and resilient data center demand should support a sector that had run ahead of expectations.",
+      "The bank noted the Philadelphia Semiconductor Index fell 18% over the summer as \"the group ran into high expectations and a modest deceleration in earnings momentum.\"",
+      "Even so, Citi looks for a recovery heading into its Global TMT conference, \"where we expect positive semis commentary led by AMD, MRVL, LITE, ALAB, and semi caps,\" the analysts wrote.",
+      "Data center demand remains strong, accounting for 34% of the industry's total addressable market, while autos and industrials, at 21%, continue to recover, according to the note.",
+      "Demand from PCs and handsets, which make up 42% of the market, is said to remain weak amid memory cost inflation and supply constraints.",
+      "The bank turned more bullish on central processing units after recent earnings and the Hot Chips conference, lifting its CPU market forecast to $237 billion by 2030 from $29 billion in 2025, a 52% compound annual growth rate.",
+      "That is above forecasts from AMD, Arm and Nvidia. Citi expects AMD to be the key beneficiary of what it called a \"CPU renaissance,\" with Intel a secondary winner.",
+      "Furthermore, Citi raised its outlook for wafer fabrication equipment spending, citing a stronger hyperscaler capital expenditure model. It now sees a 2028 bull case approaching $300 billion, with base-case spending of $257 billion, up from $250 billion previously.",
+      "Related articles",
+      "After an 18% summer selloff in chip stocks, Citi asks what comes next"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-jumps-unveiling-100-213621532.html",
+    "fetched_at": "2026-09-08T07:00:43.060939-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAMD (NASDAQ:AMD) shares climbed 2% in asian markets after the chipmaker introduced a new workstation aimed at running very large artificial intelligence models without relying entirely on cloud infrastructure.\nThe Threadripper Halo Station combines AMD's 96-core Ryzen Threadripper PRO 9995WX processor with two liquid-cooled Instinct MI350P accelerators. The system can be expanded to four accelerators, offering between 288 GB and 576 GB of HBM3E memory.\nAMD said the workstation is designed for AI development and inference involving models with as many as one trillion parameters. Its architecture provides up to 16 TB per second of pooled memory bandwidth, while a closed-loop cooling system is designed to manage roughly 1,550 watts of thermal output.\nThe product targets corporate AI teams, researchers and developers that need to process sensitive workloads locally. It also places AMD in competition with Nvidia's DGX Station systems.\nAMD has not disclosed pricing or a specific launch date, although commercial availability is expected in 2027.\nThe workstation could give AMD another avenue to challenge Nvidia in high-end AI infrastructure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AMD (NASDAQ:AMD) shares climbed 2% in asian markets after the chipmaker introduced a new workstation aimed at running very large artificial intelligence models without relying entirely on cloud infrastructure.",
+      "The Threadripper Halo Station combines AMD's 96-core Ryzen Threadripper PRO 9995WX processor with two liquid-cooled Instinct MI350P accelerators. The system can be expanded to four accelerators, offering between 288 GB and 576 GB of HBM3E memory.",
+      "AMD said the workstation is designed for AI development and inference involving models with as many as one trillion parameters. Its architecture provides up to 16 TB per second of pooled memory bandwidth, while a closed-loop cooling system is designed to manage roughly 1,550 watts of thermal output.",
+      "The product targets corporate AI teams, researchers and developers that need to process sensitive workloads locally. It also places AMD in competition with Nvidia's DGX Station systems.",
+      "AMD has not disclosed pricing or a specific launch date, although commercial availability is expected in 2027.",
+      "The workstation could give AMD another avenue to challenge Nvidia in high-end AI infrastructure."
+    ],
+    "html": null
+  }
+}

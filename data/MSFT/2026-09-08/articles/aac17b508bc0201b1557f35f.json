@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-could-nearly-triple-americas-122955990.html",
+    "fetched_at": "2026-09-08T07:00:28.921470-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Could Nearly Triple America's Data Center Footprint by 2030",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet Inc. (GOOGL, Financials) and its Big Tech rivals can buy plenty of AI chips. Finding somewhere to plug all of them in is becoming harder.\nThe number of large-scale U.S. data centers could nearly triple by 2030 as companies pour money into AI infrastructure, according to estimates highlighted by Seeking Alpha.\nThat changes the AI story. The first phase was about chips. The next one increasingly looks like electricity, land, cooling systems and transmission lines.\nCompanies such as Alphabet, Microsoft, Amazon and Meta are building enormous facilities to train and run AI models. Each new generation of computing equipment demands more power. Eventually, electricity can become the bottleneck.\nA data center cannot simply appear wherever a technology company wants one. It needs a large and dependable power supply, grid connections, cooling and years of construction work.\nThat is why the infrastructure surrounding AI is starting to matter almost as much as the chips themselves. For companies such as Nvidia, more data centers can mean more processors sold.\nFor hyperscalers such as Alphabet, it also means billions more in capital spending before AI revenue catches up. The next phase of the AI boom may therefore depend less on who has the smartest model and more on who can secure enough power to run it.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet Inc. (GOOGL, Financials) and its Big Tech rivals can buy plenty of AI chips. Finding somewhere to plug all of them in is becoming harder.",
+      "The number of large-scale U.S. data centers could nearly triple by 2030 as companies pour money into AI infrastructure, according to estimates highlighted by Seeking Alpha.",
+      "That changes the AI story. The first phase was about chips. The next one increasingly looks like electricity, land, cooling systems and transmission lines.",
+      "Companies such as Alphabet, Microsoft, Amazon and Meta are building enormous facilities to train and run AI models. Each new generation of computing equipment demands more power. Eventually, electricity can become the bottleneck.",
+      "A data center cannot simply appear wherever a technology company wants one. It needs a large and dependable power supply, grid connections, cooling and years of construction work.",
+      "That is why the infrastructure surrounding AI is starting to matter almost as much as the chips themselves. For companies such as Nvidia, more data centers can mean more processors sold.",
+      "For hyperscalers such as Alphabet, it also means billions more in capital spending before AI revenue catches up. The next phase of the AI boom may therefore depend less on who has the smartest model and more on who can secure enough power to run it."
+    ],
+    "html": null
+  }
+}

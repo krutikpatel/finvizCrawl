@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tech-giants-flash-stunning-123419569.html",
+    "fetched_at": "2026-09-08T07:00:11.891724-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, Tech Giants Flash Stunning Market Signal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NVDA) and major cloud companies are no longer reshaping only the chip market. Their AI buildout is changing supply and demand in long-duration bonds.\nGlobal Macro reported that debt issuance from hyperscalers and Nvidia, including special-purpose vehicles, rose to nearly 70% of U.S. Treasury bond issuance in 2026. The measure uses annual net changes converted into 10-year Treasury equivalents, comparing how much interest-rate duration each group adds.\nThe ratio climbed from about 1% in 2023 to 7% in 2024, 30% in 2025 and nearly 70% in 2026. Between 2015 and 2024, it remained in single- or low-double-digit territory, except for a decline to negative 8% in 2019.\nHyperscalers include companies including Microsoft, Amazon, Alphabet, Meta, Oracle and Alibaba, which are spending on the data centers, chips and power infrastructure required for AI.\nThe implication: Investors are absorbing almost as much new duration from this corporate group as the Treasury supplies through coupon issuance. More long-dated corporate paper competes for buyers with government bonds and other issuers. Depending on demand, that added supply could pressure yields and credit spreads or require more attractive pricing.\nThe figure does not mean these companies borrowed 70% as much as the entire U.S. government. It is a duration-adjusted ratio based on annual net changes. Corporate bonds also carry credit, liquidity and spread risks that Treasuries do not.\nFor stock investors, the surge shows the AI race is increasingly being financed through balance sheets and special-purpose vehicles, rather than simply operating cash flow. That can accelerate capacity construction but increases exposure to interest rates, refinancing conditions and demand for long-dated debt.\nInvestors should now watch whether the ratio keeps rising. If AI spending outpaces internal cash generation, corporate duration supply could become a lasting bond-market force. If issuance slows, the extraordinary 2026 spike may prove temporary.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NVDA) and major cloud companies are no longer reshaping only the chip market. Their AI buildout is changing supply and demand in long-duration bonds.",
+      "Global Macro reported that debt issuance from hyperscalers and Nvidia, including special-purpose vehicles, rose to nearly 70% of U.S. Treasury bond issuance in 2026. The measure uses annual net changes converted into 10-year Treasury equivalents, comparing how much interest-rate duration each group adds.",
+      "The ratio climbed from about 1% in 2023 to 7% in 2024, 30% in 2025 and nearly 70% in 2026. Between 2015 and 2024, it remained in single- or low-double-digit territory, except for a decline to negative 8% in 2019.",
+      "Hyperscalers include companies including Microsoft, Amazon, Alphabet, Meta, Oracle and Alibaba, which are spending on the data centers, chips and power infrastructure required for AI.",
+      "The implication: Investors are absorbing almost as much new duration from this corporate group as the Treasury supplies through coupon issuance. More long-dated corporate paper competes for buyers with government bonds and other issuers. Depending on demand, that added supply could pressure yields and credit spreads or require more attractive pricing.",
+      "The figure does not mean these companies borrowed 70% as much as the entire U.S. government. It is a duration-adjusted ratio based on annual net changes. Corporate bonds also carry credit, liquidity and spread risks that Treasuries do not.",
+      "For stock investors, the surge shows the AI race is increasingly being financed through balance sheets and special-purpose vehicles, rather than simply operating cash flow. That can accelerate capacity construction but increases exposure to interest rates, refinancing conditions and demand for long-dated debt.",
+      "Investors should now watch whether the ratio keeps rising. If AI spending outpaces internal cash generation, corporate duration supply could become a lasting bond-market force. If issuance slows, the extraordinary 2026 spike may prove temporary."
+    ],
+    "html": null
+  }
+}

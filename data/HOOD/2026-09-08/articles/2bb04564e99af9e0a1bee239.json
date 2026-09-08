@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/strategy-stock-bitcoin-9cb4a336?mod=bar_FV",
+    "fetched_at": "2026-09-08T07:00:19.807748-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Strategy Didn’t Touch Bitcoin Last Week After Making First Purchase Since June<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Strategy Didn’t Touch Bitcoin Last Week After Making First Purchase Since June\nStrategy Inc., the largest corporate holder of Bitcoin, announced Tuesday it didn’t purchase or sell any cryptocurrency last week. The decision came after the company made its first Bitcoin purchase since late June at the end of August.",
+    "text_blocks": [
+      "Strategy Didn’t Touch Bitcoin Last Week After Making First Purchase Since June",
+      "Strategy Inc., the largest corporate holder of Bitcoin, announced Tuesday it didn’t purchase or sell any cryptocurrency last week. The decision came after the company made its first Bitcoin purchase since late June at the end of August."
+    ],
+    "html": null
+  }
+}

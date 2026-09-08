@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-makes-bold-claim-131540783.html",
+    "fetched_at": "2026-09-08T07:00:37.424820-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia CEO Makes Bold Claim About Aging AI Chips",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNvidia (NASDAQ:NVDA) CEO Jensen Huang is challenging the assumption that costly AI processors rapidly lose economic value as newer chips arrive.\nNVIDIA compute is fungible, durable and highly rentable. It is a productive, revenue-generating asset, Huang wrote on X.\nHe cited data showing three-year-old H100 rental prices rose 22% last month to $3.28 an hour. Conventional depreciation captures declining accounting value but may miss the hardwares continuing cash generation.\nThat matters for cloud providers and companies spending billions on Nvidia systems. If older GPUs remain utilized and rentable, customers can recover their investments over longer periods, improving lifetime returns and supporting continued purchases of newer products.\nIt also strengthens Nvidias ecosystem. Older chips can serve less demanding inference and training workloads, while premium models migrate to newer architectures. That creates a tiered computing market instead of making each previous generation immediately obsolete.\nWhy Huangs Claim Matters for Nvidia Stock\nThe bullish interpretation is straightforward: durable rental demand reduces customers fear that enormous AI investments will become stranded assets. Better economics could sustain Nvidias orders even as the installed base expands.\nHowever, one month of higher H100 rental prices does not establish permanent residual value. Pricing can rise because of temporary capacity shortages, and older GPUs still face competition from faster Nvidia systems, rival accelerators and custom chips.\nHuang separately highlighted how quickly top-end demand is scaling. He said OpenAIs GPT-6 Astra was trained on more than 100,000 Nvidia Grace Blackwell NVLink72 chips and added, 400K GPUs coming online next.\nHe also declared that AGI has arrived, underscoring his confidence that increasingly capable models will require vastly more compute.\nFor investors, utilization is the key metric. If rental rates, occupancy and resale values remain strong as new generations launch, Nvidia hardware increasingly resembles productive infrastructure. If they weaken, depreciation and AI spending returns become much harder to defend.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nvidia (NASDAQ:NVDA) CEO Jensen Huang is challenging the assumption that costly AI processors rapidly lose economic value as newer chips arrive.",
+      "NVIDIA compute is fungible, durable and highly rentable. It is a productive, revenue-generating asset, Huang wrote on X.",
+      "He cited data showing three-year-old H100 rental prices rose 22% last month to $3.28 an hour. Conventional depreciation captures declining accounting value but may miss the hardwares continuing cash generation.",
+      "That matters for cloud providers and companies spending billions on Nvidia systems. If older GPUs remain utilized and rentable, customers can recover their investments over longer periods, improving lifetime returns and supporting continued purchases of newer products.",
+      "It also strengthens Nvidias ecosystem. Older chips can serve less demanding inference and training workloads, while premium models migrate to newer architectures. That creates a tiered computing market instead of making each previous generation immediately obsolete.",
+      "Why Huangs Claim Matters for Nvidia Stock",
+      "The bullish interpretation is straightforward: durable rental demand reduces customers fear that enormous AI investments will become stranded assets. Better economics could sustain Nvidias orders even as the installed base expands.",
+      "However, one month of higher H100 rental prices does not establish permanent residual value. Pricing can rise because of temporary capacity shortages, and older GPUs still face competition from faster Nvidia systems, rival accelerators and custom chips.",
+      "Huang separately highlighted how quickly top-end demand is scaling. He said OpenAIs GPT-6 Astra was trained on more than 100,000 Nvidia Grace Blackwell NVLink72 chips and added, 400K GPUs coming online next.",
+      "He also declared that AGI has arrived, underscoring his confidence that increasingly capable models will require vastly more compute.",
+      "For investors, utilization is the key metric. If rental rates, occupancy and resale values remain strong as new generations launch, Nvidia hardware increasingly resembles productive infrastructure. If they weaken, depreciation and AI spending returns become much harder to defend."
+    ],
+    "html": null
+  }
+}

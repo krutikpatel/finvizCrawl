@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_FV",
+    "fetched_at": "2026-09-08T07:00:39.813498-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors some much-needed good news - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nQualcomm’s stock climbs as Amazon chip deal offers investors some much-needed good news\nQualcomm shares have missed out on the chip sector’s big rally this year. The company is now working on various chip projects with Amazon.\nQualcomm’s stock was popping Tuesday morning after the company announced a collaboration with Amazon.com for multiple generations of custom chips for large-scale artificial-intelligence data centers.\nThe company also issued a stock warrant, giving Amazon the option to purchase up to 25 million shares at $161.26 each, according to the company’s 8-K filing. The warrant expires in September 2036 and is tied to potential revenue of up to $60 billion.\nAbout the Author",
+    "text_blocks": [
+      "Tech Stocks",
+      "Qualcomm’s stock climbs as Amazon chip deal offers investors some much-needed good news",
+      "Qualcomm shares have missed out on the chip sector’s big rally this year. The company is now working on various chip projects with Amazon.",
+      "Qualcomm’s stock was popping Tuesday morning after the company announced a collaboration with Amazon.com for multiple generations of custom chips for large-scale artificial-intelligence data centers.",
+      "The company also issued a stock warrant, giving Amazon the option to purchase up to 25 million shares at $161.26 each, according to the company’s 8-K filing. The warrant expires in September 2036 and is tied to potential revenue of up to $60 billion.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}
