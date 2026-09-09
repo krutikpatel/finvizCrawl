@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html",
+    "fetched_at": "2026-09-09T07:00:30.581727-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google to invest $15 billion AI infrastructure in Finland",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "HELSINKI, Sept 9 (Reuters) - Alphabet's Google will invest at least €13 billion ($15.1 billion) in artificial intelligence infrastructure in Finland over the next two years, it said on Wednesday, calling it the company's single largest investment in Europe.\nFinland has become a magnet for data centres as companies including Microsoft and TikTok owner ByteDance seek to reduce energy costs and meet climate goals.\nIts cold climate makes coping with the heat produced by data centres cheaper and it also has large amounts of low-carbon electricity.\nAlphabet this year increased its global investment to between $195 billion and $205 billion as it seeks to capture growing computing demand.\nThe investments in Finland will include data centres, electricity grid improvements and clean energy and battery projects driving services such as Gemini, Search, Maps and YouTube, Google said in a statement.\n\"The new digital infrastructure will serve as building blocks for Finnish and broader European digital readiness, innovation, and AI development,\" the company said.\nThe investment, to be undertaken in 2027 and 2028, will contribute some $3.6 billion to Finland's gross domestic product during the construction phase, and is projected to support some 7,000 jobs annually once operational, Google said.\nFinland's Prime Minister Petteri Orpo said in a statement Google's decision was \"a clear testament to our strengths\".\n\"The value of the data economy extends far beyond direct investment into spurring innovation, research, and development,\" he added.\n($1 = 0.8603 euros)\n(Reporting by Essi Lehto, editing by Terje Solsvik and Barbara Lewis)",
+    "text_blocks": [
+      "HELSINKI, Sept 9 (Reuters) - Alphabet's Google will invest at least €13 billion ($15.1 billion) in artificial intelligence infrastructure in Finland over the next two years, it said on Wednesday, calling it the company's single largest investment in Europe.",
+      "Finland has become a magnet for data centres as companies including Microsoft and TikTok owner ByteDance seek to reduce energy costs and meet climate goals.",
+      "Its cold climate makes coping with the heat produced by data centres cheaper and it also has large amounts of low-carbon electricity.",
+      "Alphabet this year increased its global investment to between $195 billion and $205 billion as it seeks to capture growing computing demand.",
+      "The investments in Finland will include data centres, electricity grid improvements and clean energy and battery projects driving services such as Gemini, Search, Maps and YouTube, Google said in a statement.",
+      "\"The new digital infrastructure will serve as building blocks for Finnish and broader European digital readiness, innovation, and AI development,\" the company said.",
+      "The investment, to be undertaken in 2027 and 2028, will contribute some $3.6 billion to Finland's gross domestic product during the construction phase, and is projected to support some 7,000 jobs annually once operational, Google said.",
+      "Finland's Prime Minister Petteri Orpo said in a statement Google's decision was \"a clear testament to our strengths\".",
+      "\"The value of the data economy extends far beyond direct investment into spurring innovation, research, and development,\" he added.",
+      "($1 = 0.8603 euros)",
+      "(Reporting by Essi Lehto, editing by Terje Solsvik and Barbara Lewis)"
+    ],
+    "html": null
+  }
+}

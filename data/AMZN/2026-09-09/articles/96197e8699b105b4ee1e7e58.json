@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/34378bc9-c00f-3ef3-8817-59761b6ddc56/deutsche-bank-expects.html",
+    "fetched_at": "2026-09-09T07:00:42.011755-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Deutsche Bank expects European consumer staples to underperform as structural pressures mount",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "European consumer staples stocks are trading at 18-year lows relative to the broader market, yet Deutsche Bank expects the sector to continue to underperform as consumer spending fails to keep pace with nominal economic growth.\nAnalyst Tom Sykes said the bank has repeatedly tested the hypothesis that staples would recover but continues to expect consumer wallets to lag nominal GDP, putting pressure on earnings and valuations relative to the broader market.\nConsumer staples companies face increased structural pressures and competition, with channel shift emerging as a central issue for household and personal care and food companies as Amazon, Costco and, to a lesser extent, Walmart dominate category growth.\nThis is putting pressure on the drug channel and increasingly on grocery outside Walmart.\nDeutsche Bank said the shift is likely to pressure sell-in rates relative to sell-out in the key US market.\nIt said it is wary of investment cases based on a US recovery, adding that channel shift is expected to become an increasingly global issue.\nThe cautious outlook prompted several rating and target price changes. Beiersdorf, the German personal care group, was cut to 'sell' from 'hold' with the target unchanged at €70.\nDanone (OTCQX:DANOY)'s target was trimmed to €61 from €63, retaining 'sell'. Haleon PLC (LSE:HLN, NYSE:HLN) target was cut to 320p from 335p, also retaining 'sell'.\nHenkel was raised to €81 from €76, keeping a 'buy' rating, while The Magnum Ice Cream Company (EURONEXT:MICC, LSE:MICC, NYSE:MICC) target was lifted to €15.50 from €13.50, retaining 'hold'.",
+    "text_blocks": [
+      "European consumer staples stocks are trading at 18-year lows relative to the broader market, yet Deutsche Bank expects the sector to continue to underperform as consumer spending fails to keep pace with nominal economic growth.",
+      "Analyst Tom Sykes said the bank has repeatedly tested the hypothesis that staples would recover but continues to expect consumer wallets to lag nominal GDP, putting pressure on earnings and valuations relative to the broader market.",
+      "Consumer staples companies face increased structural pressures and competition, with channel shift emerging as a central issue for household and personal care and food companies as Amazon, Costco and, to a lesser extent, Walmart dominate category growth.",
+      "This is putting pressure on the drug channel and increasingly on grocery outside Walmart.",
+      "Deutsche Bank said the shift is likely to pressure sell-in rates relative to sell-out in the key US market.",
+      "It said it is wary of investment cases based on a US recovery, adding that channel shift is expected to become an increasingly global issue.",
+      "The cautious outlook prompted several rating and target price changes. Beiersdorf, the German personal care group, was cut to 'sell' from 'hold' with the target unchanged at €70.",
+      "Danone (OTCQX:DANOY)'s target was trimmed to €61 from €63, retaining 'sell'. Haleon PLC (LSE:HLN, NYSE:HLN) target was cut to 320p from 335p, also retaining 'sell'.",
+      "Henkel was raised to €81 from €76, keeping a 'buy' rating, while The Magnum Ice Cream Company (EURONEXT:MICC, LSE:MICC, NYSE:MICC) target was lifted to €15.50 from €13.50, retaining 'hold'."
+    ],
+    "html": null
+  }
+}

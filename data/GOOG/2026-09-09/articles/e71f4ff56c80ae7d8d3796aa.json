@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-unveils-biggest-european-investment-123528985.html",
+    "fetched_at": "2026-09-09T07:00:27.765766-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Unveils Biggest European Investment Yet",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nGoogle parent Alphabet (NASDAQ:GOOGL) plans to invest at least 13 billion in Finland within two years, its largest European commitment. The project shows power, cooling, and connectivity are becoming decisive in the AI race.\nGoogle will build at least three data centers in Kajaani, Muhos, and Vaala and expand its Hamina facility. Finland's cold climate reduces cooling needs, while carbon-free electricity supports cleaner computing expansion.\nWhy Google Is Making Its Biggest European Bet\nThe project could support more than 37,000 Finnish jobs during construction and approximately 7,000 once operational, including positions created among suppliers and local service providers.\nGoogle is proud to deepen our roots in Finland with the company's largest single investment in Europe, Chief Investment Officer Ruth Porat said.\nThe scale fits Alphabet's broader spending acceleration. In July, the company raised its 2026 capital-expenditure forecast to as much as $205 billion as it races to secure enough infrastructure for AI models, cloud customers, and consumer products.\nEnergy arrangements reveal why Finland stands out. Google plans a new wind-power agreement and a 94-megawatt battery-storage system at its Kajaani site. Finnish utility Fortum also signed a 22-year power-purchase agreement with Google covering 2030 through 2049.\nThat nuclear-power agreement will represent 50% of the capacity from Fortum's two-reactor Loviisa plant. Elisa and Nokia (NOK) will provide telecommunications and network infrastructure connecting the new facilities.\nFor Alphabet investors, the spending strengthens Google's ability to meet AI demand, but it also raises the bar for monetization. Data centers generate returns only when computing capacity is utilized efficiently and produces durable cloud, advertising, or subscription revenue.\nFinland offers attractive operating advantages, yet 13 billion remains a major commitment with construction, energy-price, and execution risks. The investment is therefore both defensive and offensive: Google is securing scarce infrastructure before rivals can, while betting that future AI demand will justify today's unprecedented capital intensity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Google parent Alphabet (NASDAQ:GOOGL) plans to invest at least 13 billion in Finland within two years, its largest European commitment. The project shows power, cooling, and connectivity are becoming decisive in the AI race.",
+      "Google will build at least three data centers in Kajaani, Muhos, and Vaala and expand its Hamina facility. Finland's cold climate reduces cooling needs, while carbon-free electricity supports cleaner computing expansion.",
+      "Why Google Is Making Its Biggest European Bet",
+      "The project could support more than 37,000 Finnish jobs during construction and approximately 7,000 once operational, including positions created among suppliers and local service providers.",
+      "Google is proud to deepen our roots in Finland with the company's largest single investment in Europe, Chief Investment Officer Ruth Porat said.",
+      "The scale fits Alphabet's broader spending acceleration. In July, the company raised its 2026 capital-expenditure forecast to as much as $205 billion as it races to secure enough infrastructure for AI models, cloud customers, and consumer products.",
+      "Energy arrangements reveal why Finland stands out. Google plans a new wind-power agreement and a 94-megawatt battery-storage system at its Kajaani site. Finnish utility Fortum also signed a 22-year power-purchase agreement with Google covering 2030 through 2049.",
+      "That nuclear-power agreement will represent 50% of the capacity from Fortum's two-reactor Loviisa plant. Elisa and Nokia (NOK) will provide telecommunications and network infrastructure connecting the new facilities.",
+      "For Alphabet investors, the spending strengthens Google's ability to meet AI demand, but it also raises the bar for monetization. Data centers generate returns only when computing capacity is utilized efficiently and produces durable cloud, advertising, or subscription revenue.",
+      "Finland offers attractive operating advantages, yet 13 billion remains a major commitment with construction, energy-price, and execution risks. The investment is therefore both defensive and offensive: Google is securing scarce infrastructure before rivals can, while betting that future AI demand will justify today's unprecedented capital intensity."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_FV",
+    "fetched_at": "2026-09-09T07:00:27.278838-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern\nOne analyst called the Muse agents a ‘significant step’ toward justifying Meta’s AI spending\nMeta shares are getting a boost on Wednesday as investors cheer on the company’s latest artificial-intelligence push.\nThe social-media giant this week introduced Muse, a personal AI agent designed to help the average consumer. Meta Platforms META described the tool as a “widely available personal AI agent” that is easy to use and can make people’s lives easier by working on their behalf.",
+    "text_blocks": [
+      "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern",
+      "One analyst called the Muse agents a ‘significant step’ toward justifying Meta’s AI spending",
+      "Meta shares are getting a boost on Wednesday as investors cheer on the company’s latest artificial-intelligence push.",
+      "The social-media giant this week introduced Muse, a personal AI agent designed to help the average consumer. Meta Platforms META described the tool as a “widely available personal AI agent” that is easy to use and can make people’s lives easier by working on their behalf."
+    ],
+    "html": null
+  }
+}

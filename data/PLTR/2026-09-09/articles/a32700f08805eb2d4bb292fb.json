@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-names-nebius-preferred-sovereign-172309521.html",
+    "fetched_at": "2026-09-09T07:00:36.066838-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Names Nebius Its Preferred Sovereign AI Partner",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNebius Group N.V. (NASDAQ:NBIS), the Amsterdam-based AI cloud company, rose 2.26% after Palantir Technologies Inc. (NASDAQ:PLTR) named it a preferred sovereign AI infrastructure partner. Under the agreement, Nebius compute and inference endpoints will run inside Palantir's enterprise perimeter, giving eligible commercial customers access to Nebius infrastructure while keeping control of their compute, data and models. Palantir shares slipped 0.42%.\nCustomers can deploy open models on Nebius hardware and keep adapting them with proprietary data, which the companies argue produces better results for a specific domain than general-purpose closed systems. Palantir's Sovereign AI Operating System, built on AIP, Ontology, Foundry and Apollo, supplies the authorization and isolation layer. \"Our ontology and their infrastructure will undergird the sovereignty our partners are demanding,\" said Palantir CEO Alex Karp.\nThe two also plan to bring new capacity online faster, including modular data-center deployments at sites where power is already available. Neither side disclosed a contract value, duration or commitment.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nebius Group N.V. (NASDAQ:NBIS), the Amsterdam-based AI cloud company, rose 2.26% after Palantir Technologies Inc. (NASDAQ:PLTR) named it a preferred sovereign AI infrastructure partner. Under the agreement, Nebius compute and inference endpoints will run inside Palantir's enterprise perimeter, giving eligible commercial customers access to Nebius infrastructure while keeping control of their compute, data and models. Palantir shares slipped 0.42%.",
+      "Customers can deploy open models on Nebius hardware and keep adapting them with proprietary data, which the companies argue produces better results for a specific domain than general-purpose closed systems. Palantir's Sovereign AI Operating System, built on AIP, Ontology, Foundry and Apollo, supplies the authorization and isolation layer. \"Our ontology and their infrastructure will undergird the sovereignty our partners are demanding,\" said Palantir CEO Alex Karp.",
+      "The two also plan to bring new capacity online faster, including modular data-center deployments at sites where power is already available. Neither side disclosed a contract value, duration or commitment."
+    ],
+    "html": null
+  }
+}

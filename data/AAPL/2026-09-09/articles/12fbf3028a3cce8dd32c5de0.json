@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-focus-2-000-122946849.html",
+    "fetched_at": "2026-09-09T07:00:10.840312-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Stock in Focus -- $2,000 Foldable iPhone Is Its Biggest Gamble Yet",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (AAPL) is preparing to put its most expensive iPhone yet at the center of Wednesday's product showcase, with a foldable model expected to cost about $2,000.\nThe event is scheduled to begin at 10 a.m. local time in Cupertino, California. Alongside the new device, Apple is expected to introduce the iPhone 18 Pro, refreshed Apple Watch models and updated AirPods.\nThe foldable iPhone Duo is likely to draw the most attention because of its premium price and new form factor. The device could give Apple another way to compete in the high-end smartphone market while addressing questions around the company's pace of product innovation.\nFor investors, the launch could provide a closer look at Apple's strategy for expanding the iPhone lineup beyond its traditional designs. The pricing will also be watched closely as the company seeks to position the foldable as a premium product.\nThe event comes as Apple faces expectations to deliver new products capable of generating fresh consumer interest and supporting its broader hardware business.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (AAPL) is preparing to put its most expensive iPhone yet at the center of Wednesday's product showcase, with a foldable model expected to cost about $2,000.",
+      "The event is scheduled to begin at 10 a.m. local time in Cupertino, California. Alongside the new device, Apple is expected to introduce the iPhone 18 Pro, refreshed Apple Watch models and updated AirPods.",
+      "The foldable iPhone Duo is likely to draw the most attention because of its premium price and new form factor. The device could give Apple another way to compete in the high-end smartphone market while addressing questions around the company's pace of product innovation.",
+      "For investors, the launch could provide a closer look at Apple's strategy for expanding the iPhone lineup beyond its traditional designs. The pricing will also be watched closely as the company seeks to position the foldable as a premium product.",
+      "The event comes as Apple faces expectations to deliver new products capable of generating fresh consumer interest and supporting its broader hardware business."
+    ],
+    "html": null
+  }
+}

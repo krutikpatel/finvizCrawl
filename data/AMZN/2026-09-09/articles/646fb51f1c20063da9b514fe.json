@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-qualcomm-amazon-28cb9ee5?mod=bar_FV",
+    "fetched_at": "2026-09-09T07:00:41.613142-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Stock: Qualcomm’s Amazon Deal Shows NVDA Is Still Top Dog<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog\nChalk up another in the seemingly endless string of artificial-intelligence chip deals. Qualcomm has signed up Amazon.com as a customer for its processors but the size and structure of the deal shows it’s still far from being a major threat to Nvidia.",
+    "text_blocks": [
+      "Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog",
+      "Chalk up another in the seemingly endless string of artificial-intelligence chip deals. Qualcomm has signed up Amazon.com as a customer for its processors but the size and structure of the deal shows it’s still far from being a major threat to Nvidia."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/7f59de52-6df1-3731-b08b-fa2f6ddced11/palantir-and-nebius-form.html",
+    "fetched_at": "2026-09-09T07:00:36.477162-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir and Nebius form sovereign AI infrastructure partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palantir Technologies has named Nebius as its preferred sovereign AI infrastructure partner and will give eligible customers access to the latter's cloud and inference services after integration.\nThe strategic partnership covers Nebius's AI-native compute infrastructure and cloud platform for Palantir's commercial customers. Following an integration period, Palantir will bring Nebius compute and inference endpoints within its enterprise perimeter.\nEligible customers will be able to access Nebius cloud and inference infrastructure while retaining control over their compute, data and models. They will also be able to deploy open models on Nebius systems and continually adapt them with their own data for specific domains.\nPalantir describes its Sovereign AI Operating System, built on AIP, Ontology, Foundry and Apollo, as providing an authorisation and isolation layer for organisations training models with proprietary data. The system is intended to enable customers to maintain control over their underlying computing resources, models, data and the advantages produced by those models.\nPalantir co-founder and CEO Alex Karp said: \"Nebius' compute infrastructure powers your ability to run your own AI models under conditions you control. Our ontology and their infrastructure will undergird the sovereignty our partners are demanding.\"\nThe companies also intend to accelerate the deployment of new computing capacity for Palantir customers, including through modular data-centre installations at sites where power is already available.\nPalantir cited Nebius's AI-first design, in which its infrastructure and software were developed together for demanding AI workloads, as well as the platform's ability to be directly integrated with the Sovereign AI Operating System.\nNebius founder and CEO Arkady Volozh said: \"Organisations need both the performance of large-scale AI infrastructure and control over their data and models. Together with Palantir, we are bringing this to commercial clients enabling them to run their optimised open models on trusted infrastructure.\"\nIn July 2026, Nebius entered into its first senior secured debt facility, raising approximately $775m to support the worldwide expansion of its full-stack AI cloud platform.\nThe financing is secured against deployed graphics processing unit (GPU) assets and contracted cash flows under an agreement with an investment-grade customer. It is due to mature on 31 October 2030, with pricing set at secured overnight financing rate (SOFR) plus 2.50%.",
+    "text_blocks": [
+      "Palantir Technologies has named Nebius as its preferred sovereign AI infrastructure partner and will give eligible customers access to the latter's cloud and inference services after integration.",
+      "The strategic partnership covers Nebius's AI-native compute infrastructure and cloud platform for Palantir's commercial customers. Following an integration period, Palantir will bring Nebius compute and inference endpoints within its enterprise perimeter.",
+      "Eligible customers will be able to access Nebius cloud and inference infrastructure while retaining control over their compute, data and models. They will also be able to deploy open models on Nebius systems and continually adapt them with their own data for specific domains.",
+      "Palantir describes its Sovereign AI Operating System, built on AIP, Ontology, Foundry and Apollo, as providing an authorisation and isolation layer for organisations training models with proprietary data. The system is intended to enable customers to maintain control over their underlying computing resources, models, data and the advantages produced by those models.",
+      "Palantir co-founder and CEO Alex Karp said: \"Nebius' compute infrastructure powers your ability to run your own AI models under conditions you control. Our ontology and their infrastructure will undergird the sovereignty our partners are demanding.\"",
+      "The companies also intend to accelerate the deployment of new computing capacity for Palantir customers, including through modular data-centre installations at sites where power is already available.",
+      "Palantir cited Nebius's AI-first design, in which its infrastructure and software were developed together for demanding AI workloads, as well as the platform's ability to be directly integrated with the Sovereign AI Operating System.",
+      "Nebius founder and CEO Arkady Volozh said: \"Organisations need both the performance of large-scale AI infrastructure and control over their data and models. Together with Palantir, we are bringing this to commercial clients enabling them to run their optimised open models on trusted infrastructure.\"",
+      "In July 2026, Nebius entered into its first senior secured debt facility, raising approximately $775m to support the worldwide expansion of its full-stack AI cloud platform.",
+      "The financing is secured against deployed graphics processing unit (GPU) assets and contracted cash flows under an agreement with an investment-grade customer. It is due to mature on 31 October 2030, with pricing set at secured overnight financing rate (SOFR) plus 2.50%."
+    ],
+    "html": null
+  }
+}

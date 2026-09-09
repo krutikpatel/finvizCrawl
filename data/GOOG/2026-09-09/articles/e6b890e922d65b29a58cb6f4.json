@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/google-warns-worse-search-results-123432636.html",
+    "fetched_at": "2026-09-09T07:00:27.679691-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Warns of Worse Search Results Under New EU Rules",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet's Google is preparing changes to its European search results that could alter how users discover comparison and booking services, while the company warns the new framework may reduce the usefulness of Search.\nThe changes stem from the European Union's Digital Markets Act, which requires Google to provide greater exposure to competing services. Under the revised setup, comparison providers for hotels, flights and restaurants could receive more prominent placement in results.\nGoogle also plans to remove certain features from listings, including live pricing information. The company said earlier changes tied to the EU rules reduced unpaid direct booking traffic to European businesses by 30%, while tests involving millions of users indicated dissatisfaction with parts of the revised experience.\nThe dispute adds to Alphabet's regulatory burden in Europe. The company has accumulated 10.38 billion in EU antitrust fines over nearly two decades, while legal and regulatory matters account for 17.2% of its overall risk profile, according to TipRanks.\nDespite those concerns, Wall Street remains positive on Alphabet. Analysts have a Strong Buy consensus based on 24 Buy ratings and four Holds, with an average price target of $426.04, representing 25.9% potential upside.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet's Google is preparing changes to its European search results that could alter how users discover comparison and booking services, while the company warns the new framework may reduce the usefulness of Search.",
+      "The changes stem from the European Union's Digital Markets Act, which requires Google to provide greater exposure to competing services. Under the revised setup, comparison providers for hotels, flights and restaurants could receive more prominent placement in results.",
+      "Google also plans to remove certain features from listings, including live pricing information. The company said earlier changes tied to the EU rules reduced unpaid direct booking traffic to European businesses by 30%, while tests involving millions of users indicated dissatisfaction with parts of the revised experience.",
+      "The dispute adds to Alphabet's regulatory burden in Europe. The company has accumulated 10.38 billion in EU antitrust fines over nearly two decades, while legal and regulatory matters account for 17.2% of its overall risk profile, according to TipRanks.",
+      "Despite those concerns, Wall Street remains positive on Alphabet. Analysts have a Strong Buy consensus based on 24 Buy ratings and four Holds, with an average price target of $426.04, representing 25.9% potential upside."
+    ],
+    "html": null
+  }
+}

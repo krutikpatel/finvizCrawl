@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/63dcc414-db36-3e50-bf26-9483691fe243/palantir-taps-nebius-for.html",
+    "fetched_at": "2026-09-09T07:00:36.084882-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir taps Nebius for sovereign AI services. Here’s what that means",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palantir has named Nebius its preferred sovereign AI infrastructure partner, giving eligible Palantir commercial customers a new way to access Nebius compute while keeping sensitive data and models inside Palantir's…\nPalantir has named Nebius its preferred sovereign AI infrastructure partner, giving eligible Palantir commercial customers a new way to access Nebius compute while keeping sensitive data and models inside Palantir's…",
+    "text_blocks": [
+      "Palantir has named Nebius its preferred sovereign AI infrastructure partner, giving eligible Palantir commercial customers a new way to access Nebius compute while keeping sensitive data and models inside Palantir's…",
+      "Palantir has named Nebius its preferred sovereign AI infrastructure partner, giving eligible Palantir commercial customers a new way to access Nebius compute while keeping sensitive data and models inside Palantir's…"
+    ],
+    "html": null
+  }
+}

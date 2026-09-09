@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/three-firms-raise-palo-alto-160829180.html",
+    "fetched_at": "2026-09-09T07:00:48.410374-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Three Firms Raise Palo Alto Targets as the Stock Falls 8%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nDA Davidson raised its price target on Palo Alto Networks (NASDAQ:PANW) to $420 from $345 and kept a Buy rating. Analyst Rudy Kessinger called fourth quarter results ahead of expectations and initial fiscal 2027 guidance well ahead of consensus on all figures. Palo Alto shares were down 7.75% intraday.\nDavidson estimates implied organic next-generation ARR growth for fiscal 2027 at approximately flat year over year, which it identified as the main pushback from investors. That compares with initial fiscal 2026 guidance, which implied 10% to 18% organic growth. Palo Alto has not disclosed the exact inorganic contribution to its results. On the quarter itself, Davidson put organic next-generation ARR growth in the mid-30s percent range.\nOther firms moved in the same direction on price. Piper Sandler went to $410 from $345, citing progress integrating acquired businesses, and RBC Capital raised to $475 from $434. StoneX reiterated Buy at $400, BMO stayed Outperform at $415, and JPMorgan kept Overweight. Palo Alto reaffirmed its fiscal 2028 target of a 40% free cash flow margin.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "DA Davidson raised its price target on Palo Alto Networks (NASDAQ:PANW) to $420 from $345 and kept a Buy rating. Analyst Rudy Kessinger called fourth quarter results ahead of expectations and initial fiscal 2027 guidance well ahead of consensus on all figures. Palo Alto shares were down 7.75% intraday.",
+      "Davidson estimates implied organic next-generation ARR growth for fiscal 2027 at approximately flat year over year, which it identified as the main pushback from investors. That compares with initial fiscal 2026 guidance, which implied 10% to 18% organic growth. Palo Alto has not disclosed the exact inorganic contribution to its results. On the quarter itself, Davidson put organic next-generation ARR growth in the mid-30s percent range.",
+      "Other firms moved in the same direction on price. Piper Sandler went to $410 from $345, citing progress integrating acquired businesses, and RBC Capital raised to $475 from $434. StoneX reiterated Buy at $400, BMO stayed Outperform at $415, and JPMorgan kept Overweight. Palo Alto reaffirmed its fiscal 2028 target of a 40% free cash flow margin."
+    ],
+    "html": null
+  }
+}

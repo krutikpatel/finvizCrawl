@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/different-cases-different-tokenization-krupetsky-183622045.html",
+    "fetched_at": "2026-09-09T07:00:22.055608-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Different Use Cases For Different Tokenization: Krupetsky",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Morgan Krupetsky, vice president of Onchain Finance at Ava Labs, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They the recent spat between AMC and Robinhood over tokenized trading and the different use cases for different tokenization models.",
+    "text_blocks": [
+      "Morgan Krupetsky, vice president of Onchain Finance at Ava Labs, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They the recent spat between AMC and Robinhood over tokenized trading and the different use cases for different tokenization models."
+    ],
+    "html": null
+  }
+}

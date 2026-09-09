@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-guggenheim-sees-oracle-decade-121923459.html",
+    "fetched_at": "2026-09-09T07:00:24.753355-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Guggenheim Sees Oracle as a Decade Stock",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) stock heads into fiscal first-quarter earnings with an aggressive Wall Street endorsement. Guggenheim analyst John DiFucci reiterated a Buy rating and $400 price target, calling Oracle the firm's Best Idea and a Decade Stock.\nOracle is scheduled to report on Sept. 10, with Wall Street expecting earnings of $1.74 a share on $19.13 billion in revenue. That implies respective year-over-year growth of 18.4% and 28.1%, powered by AI-infrastructure demand.\nOracle's Cloud Boom Faces a Capital Test\nDiFucci believes first-quarter cloud-services guidance for 57% to 63% constant-currency growth points to a dramatic infrastructure ramp. His estimates suggest Oracle may bring over $9 billion in new infrastructure-as-a-service annual recurring revenue online during the quarter, versus roughly $4.2 billion in the prior quarter.\nThat expansion carries costs before customers begin generating revenue. Guggenheim expects cloud gross margins to face pressure during the buildout, although operating margins may prove more resilient through efficiencies. The analyst also expects fiscal 2028 capital spending to exceed fiscal 2027 levels, challenging expectations that investment will flatten.\nFinancing is the immediate concern. DiFucci said Oracle's $20 billion at-the-market equity program has weighed on shares more heavily than worries about customer concentration around OpenAI. Investors will want evidence that Oracle made substantial progress on the offering.\nMore capital could still be required. Oracle plans to raise $40 billion in fiscal 2027, including the equity program. Although many investors expect the remaining $20 billion to come from debt, DiFucci believes equity may remain part of the mix, creating potential dilution.\nThe earnings setup therefore combines exceptional cloud growth with a demanding funding test. Oracle must show that new capacity is turning into contracted revenue while keeping margins and its balance sheet credible. A clean update on equity issuance could lift sentiment quickly; heavier financing needs or delayed customer deployments could revive concerns despite the bullish $400 target.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) stock heads into fiscal first-quarter earnings with an aggressive Wall Street endorsement. Guggenheim analyst John DiFucci reiterated a Buy rating and $400 price target, calling Oracle the firm's Best Idea and a Decade Stock.",
+      "Oracle is scheduled to report on Sept. 10, with Wall Street expecting earnings of $1.74 a share on $19.13 billion in revenue. That implies respective year-over-year growth of 18.4% and 28.1%, powered by AI-infrastructure demand.",
+      "Oracle's Cloud Boom Faces a Capital Test",
+      "DiFucci believes first-quarter cloud-services guidance for 57% to 63% constant-currency growth points to a dramatic infrastructure ramp. His estimates suggest Oracle may bring over $9 billion in new infrastructure-as-a-service annual recurring revenue online during the quarter, versus roughly $4.2 billion in the prior quarter.",
+      "That expansion carries costs before customers begin generating revenue. Guggenheim expects cloud gross margins to face pressure during the buildout, although operating margins may prove more resilient through efficiencies. The analyst also expects fiscal 2028 capital spending to exceed fiscal 2027 levels, challenging expectations that investment will flatten.",
+      "Financing is the immediate concern. DiFucci said Oracle's $20 billion at-the-market equity program has weighed on shares more heavily than worries about customer concentration around OpenAI. Investors will want evidence that Oracle made substantial progress on the offering.",
+      "More capital could still be required. Oracle plans to raise $40 billion in fiscal 2027, including the equity program. Although many investors expect the remaining $20 billion to come from debt, DiFucci believes equity may remain part of the mix, creating potential dilution.",
+      "The earnings setup therefore combines exceptional cloud growth with a demanding funding test. Oracle must show that new capacity is turning into contracted revenue while keeping margins and its balance sheet credible. A clean update on equity issuance could lift sentiment quickly; heavier financing needs or delayed customer deployments could revive concerns despite the bullish $400 target."
+    ],
+    "html": null
+  }
+}

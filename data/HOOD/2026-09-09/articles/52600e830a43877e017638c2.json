@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/amc-robinhood-ceos-feud-over-183135848.html",
+    "fetched_at": "2026-09-09T07:00:22.154612-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMC, Robinhood CEOs Feud Over Tokenization",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Bloomberg's Anna Irrerea joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" AMC CEO Adam Aron traded barbs with Robinhood CEO Vlad Tenev last week after discovering a token bearing the theater chain's name was trading on the brokerage's blockchain. AMC CEO dubbed it \"outrageous\" and demanded that Robinhood cease trading it.",
+    "text_blocks": [
+      "Bloomberg's Anna Irrerea joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" AMC CEO Adam Aron traded barbs with Robinhood CEO Vlad Tenev last week after discovering a token bearing the theater chain's name was trading on the brokerage's blockchain. AMC CEO dubbed it \"outrageous\" and demanded that Robinhood cease trading it."
+    ],
+    "html": null
+  }
+}

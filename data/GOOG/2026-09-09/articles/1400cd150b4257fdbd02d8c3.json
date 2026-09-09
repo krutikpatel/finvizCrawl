@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/5e78354e-aa58-3651-b1b2-c7910e41737a/google-to-invest-%E2%82%AC13-billion.html",
+    "fetched_at": "2026-09-09T07:00:27.622091-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google to invest €13 billion in Finland AI data centers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google announced plans on Wednesday to pour at least €13 billion ($15.1 billion) into AI infrastructure in Finland, a figure the company described as the single largest European investment in its history.\nThe capital will be deployed in 2027 and 2028 across data centers and supporting infrastructure in Hamina, Kajaani, Muhos, and Vaala, the company said. During the construction phase, the investment is expected to contribute an average of €3.6 billion annually to Finland's GDP and support more than 37,000 jobs. Once the facilities are operational, they are projected to sustain 7,000 jobs annually at wages averaging 24% above Finland's median.\nGoogle has operated in Finland for more than 15 years, having converted a former paper mill in Hamina into a data center in 2009. The new investment builds on that presence to power services including Gemini, Search, Maps, and YouTube.\nAs part of the announcement, Google signed a 22-year life extension power purchase agreement with Finnish energy company Fortum for the Loviisa nuclear power plant, which currently supplies roughly 10% of Finland's electricity and employs approximately 580 people. Without the agreement, the plant would not have been able to continue operations beyond 2030, the company said. Shares of Fortum climbed 11% following the announcement, according to CNBC.\nGoogle also announced new onshore wind power purchase agreements with Valorem and Suomen Hyötytuuli, bringing its total contracted new-to-the-grid onshore wind capacity in Finland to 629 MW. A 94 MW battery storage system near the Kajaani site is expected to come online in late 2027.\nThe company said it worked with grid operator Fingrid and Business Finland to site new data centers in northern Finland, where existing grid infrastructure sits close to carbon-free energy sources. A study commissioned by Google found that locating 1 GW of new energy demand in the Oulu-Kajaani region rather than southern Finland could save energy consumers across Finland an estimated €520 million over 20 years, according to the company.\nGoogle also committed €31 million over four years to community programs in the four host municipalities, with €10 million designated for research and innovation. Workforce initiatives include AI skills training for more than 4,400 workers through Google.org's AI Opportunity Fund and a program to train up to 100 Finnish students for data center careers.\nIn a statement, Finland Prime Minister Petteri Orpo said Google's investment reflects \"a clear testament to our strengths\" and argued that \"the value of the data economy extends far beyond direct investment into spurring innovation, research, and development.\"",
+    "text_blocks": [
+      "Google announced plans on Wednesday to pour at least €13 billion ($15.1 billion) into AI infrastructure in Finland, a figure the company described as the single largest European investment in its history.",
+      "The capital will be deployed in 2027 and 2028 across data centers and supporting infrastructure in Hamina, Kajaani, Muhos, and Vaala, the company said. During the construction phase, the investment is expected to contribute an average of €3.6 billion annually to Finland's GDP and support more than 37,000 jobs. Once the facilities are operational, they are projected to sustain 7,000 jobs annually at wages averaging 24% above Finland's median.",
+      "Google has operated in Finland for more than 15 years, having converted a former paper mill in Hamina into a data center in 2009. The new investment builds on that presence to power services including Gemini, Search, Maps, and YouTube.",
+      "As part of the announcement, Google signed a 22-year life extension power purchase agreement with Finnish energy company Fortum for the Loviisa nuclear power plant, which currently supplies roughly 10% of Finland's electricity and employs approximately 580 people. Without the agreement, the plant would not have been able to continue operations beyond 2030, the company said. Shares of Fortum climbed 11% following the announcement, according to CNBC.",
+      "Google also announced new onshore wind power purchase agreements with Valorem and Suomen Hyötytuuli, bringing its total contracted new-to-the-grid onshore wind capacity in Finland to 629 MW. A 94 MW battery storage system near the Kajaani site is expected to come online in late 2027.",
+      "The company said it worked with grid operator Fingrid and Business Finland to site new data centers in northern Finland, where existing grid infrastructure sits close to carbon-free energy sources. A study commissioned by Google found that locating 1 GW of new energy demand in the Oulu-Kajaani region rather than southern Finland could save energy consumers across Finland an estimated €520 million over 20 years, according to the company.",
+      "Google also committed €31 million over four years to community programs in the four host municipalities, with €10 million designated for research and innovation. Workforce initiatives include AI skills training for more than 4,400 workers through Google.org's AI Opportunity Fund and a program to train up to 100 Finnish students for data center careers.",
+      "In a statement, Finland Prime Minister Petteri Orpo said Google's investment reflects \"a clear testament to our strengths\" and argued that \"the value of the data economy extends far beyond direct investment into spurring innovation, research, and development.\""
+    ],
+    "html": null
+  }
+}

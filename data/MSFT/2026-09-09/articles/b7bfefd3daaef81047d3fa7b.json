@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50?mod=bar_FV",
+    "fetched_at": "2026-09-09T07:00:30.002634-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google Has a Cool $15 Billion Fix to the AI Energy Problem\nGoogle has found an interesting way to combat the sky-high energy costs involved in data centers—build them in an extremely cold country.\nGoogle has found an interesting way to combat the sky-high energy costs involved in data centers—build them in an extremely cold country.",
+    "text_blocks": [
+      "Google Has a Cool $15 Billion Fix to the AI Energy Problem",
+      "Google has found an interesting way to combat the sky-high energy costs involved in data centers—build them in an extremely cold country.",
+      "Google has found an interesting way to combat the sky-high energy costs involved in data centers—build them in an extremely cold country."
+    ],
+    "html": null
+  }
+}
