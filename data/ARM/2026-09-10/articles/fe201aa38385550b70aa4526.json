@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/articles/wall-st-futures-muted-oil-093919353.html",
+    "fetched_at": "2026-09-10T07:00:49.665192-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "S&P 500 ends down as oil tops $100 per barrel",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Noel Randewich and Tharuniyaa Lakshmi\nSept 9 (Reuters) - U.S. stocks closed lower on Wednesday as oil prices soared above $100 a barrel, while Apple dipped and Treasury yields rose ahead of crucial inflation data expected later in the week.\nWorries about the global oil supply and a flare-up in Middle East tensions pushed Brent crude above $100 a barrel, a sensitive level for the stock market. The U.S.-Israeli war on Iran, now in its seventh month, has stoked fears of a broader regional conflict, with high oil prices fueling inflation.\nThe S&P 500 energy index rose 1.1%, while all other sector indexes fell.\nApple ended down 0.3% after it held its first smartphone launch under new CEO John Ternus.\nThe yield on the benchmark 10-year U.S. Treasury note climbed to its highest since November 2023 after the Treasury Department said it would buy up to $6 billion in 10- to 20-year government bonds. Some analysts had expected a larger purchase, in the range of $8 billion to $10 billion.\nHigher yields on risk-free government bonds make it less attractive for investors to own stocks.\n\"That's leaving markets a little concerned, particularly as we don't have a lot to go on in terms of earnings expectations until we start to get into third-quarter reporting season,\" said Rob Haworth, senior investment strategist at U.S. Bank Wealth Management in Seattle.\nU.S. Producer Price Index data on Thursday and consumer price data on Friday will be in focus for clues on the Federal Reserve's interest-rate path. Traders are pricing in a 60% chance the Fed will raise interest rates at its policy meeting next week.\nThe S&P 500 declined 0.48% to end the session at 7,636.46 points.\nThe Nasdaq declined 0.64% to 26,253.34 points, while the Dow Jones Industrial Average declined 0.77% to 52,381.02 points.\nThe S&P 500 is down around 2% from its August 13 record high close, and it remains up about 12% in 2026.\nMeta jumped over 6% and limited the S&P 500's decline after the social media company rolled out a long-touted AI assistant that can autonomously send emails, sell a car or make travel bookings on behalf of users.\nAlphabet declined 2.3% after the Google parent said it would invest at least $15.1 billion in AI infrastructure in Finland over the next two years, including a major deal for the supply of nuclear power.\nThe Philadelphia Semiconductor Index rose 0.37%, with Advanced Micro Devices gaining 3%.\nDow fell 0.6% after Bloomberg News reported the chemicals maker was considering exiting its $20 billion partnership with Saudi Aramco.",
+    "text_blocks": [
+      "By Noel Randewich and Tharuniyaa Lakshmi",
+      "Sept 9 (Reuters) - U.S. stocks closed lower on Wednesday as oil prices soared above $100 a barrel, while Apple dipped and Treasury yields rose ahead of crucial inflation data expected later in the week.",
+      "Worries about the global oil supply and a flare-up in Middle East tensions pushed Brent crude above $100 a barrel, a sensitive level for the stock market. The U.S.-Israeli war on Iran, now in its seventh month, has stoked fears of a broader regional conflict, with high oil prices fueling inflation.",
+      "The S&P 500 energy index rose 1.1%, while all other sector indexes fell.",
+      "Apple ended down 0.3% after it held its first smartphone launch under new CEO John Ternus.",
+      "The yield on the benchmark 10-year U.S. Treasury note climbed to its highest since November 2023 after the Treasury Department said it would buy up to $6 billion in 10- to 20-year government bonds. Some analysts had expected a larger purchase, in the range of $8 billion to $10 billion.",
+      "Higher yields on risk-free government bonds make it less attractive for investors to own stocks.",
+      "\"That's leaving markets a little concerned, particularly as we don't have a lot to go on in terms of earnings expectations until we start to get into third-quarter reporting season,\" said Rob Haworth, senior investment strategist at U.S. Bank Wealth Management in Seattle.",
+      "U.S. Producer Price Index data on Thursday and consumer price data on Friday will be in focus for clues on the Federal Reserve's interest-rate path. Traders are pricing in a 60% chance the Fed will raise interest rates at its policy meeting next week.",
+      "The S&P 500 declined 0.48% to end the session at 7,636.46 points.",
+      "The Nasdaq declined 0.64% to 26,253.34 points, while the Dow Jones Industrial Average declined 0.77% to 52,381.02 points.",
+      "The S&P 500 is down around 2% from its August 13 record high close, and it remains up about 12% in 2026.",
+      "Meta jumped over 6% and limited the S&P 500's decline after the social media company rolled out a long-touted AI assistant that can autonomously send emails, sell a car or make travel bookings on behalf of users.",
+      "Alphabet declined 2.3% after the Google parent said it would invest at least $15.1 billion in AI infrastructure in Finland over the next two years, including a major deal for the supply of nuclear power.",
+      "The Philadelphia Semiconductor Index rose 0.37%, with Advanced Micro Devices gaining 3%.",
+      "Dow fell 0.6% after Bloomberg News reported the chemicals maker was considering exiting its $20 billion partnership with Saudi Aramco."
+    ],
+    "html": null
+  }
+}

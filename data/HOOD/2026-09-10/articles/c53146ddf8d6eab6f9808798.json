@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/robinhood-ceo-responds-to-amc-tokenization-criticism-7jojfxTEPi4yplkABv4a?mod=wsj_FV",
+    "fetched_at": "2026-09-10T07:00:22.004296-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood CEO Responds to AMC Tokenization Criticism",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Last Updated:\n11 hours ago\nRobinhood CEO Responds to AMC Tokenization Criticism\nRobinhood Chief Executive Vlad Tenev defended the company's push into tokenized stocks in a CNBC interview Wednesday. Tenev's remarks come on the heels of fiery criticism from AMC Chief Executive Adam Aron, whose company's shares are among those being tokenized.\nTenev said companies can't control the financial products created around their shares once public. “Issuers should have control and do have control over the rights and obligations of the stock that they issue, but that doesn’t mean they control everything about it,” he said. “In particular, they don’t control other companies issuing their own securities that reference those shares.”\nStock tokens represent publicly traded shares on a blockchain network. Holders however don't receive a direct stake in a company and the associated protections guaranteed to equity investors. And in Robinhood's case, stock tokens are structured as debt securities.",
+    "text_blocks": [
+      "Last Updated:",
+      "11 hours ago",
+      "Robinhood CEO Responds to AMC Tokenization Criticism",
+      "Robinhood Chief Executive Vlad Tenev defended the company's push into tokenized stocks in a CNBC interview Wednesday. Tenev's remarks come on the heels of fiery criticism from AMC Chief Executive Adam Aron, whose company's shares are among those being tokenized.",
+      "Tenev said companies can't control the financial products created around their shares once public. “Issuers should have control and do have control over the rights and obligations of the stock that they issue, but that doesn’t mean they control everything about it,” he said. “In particular, they don’t control other companies issuing their own securities that reference those shares.”",
+      "Stock tokens represent publicly traded shares on a blockchain network. Holders however don't receive a direct stake in a company and the associated protections guaranteed to equity investors. And in Robinhood's case, stock tokens are structured as debt securities."
+    ],
+    "html": null
+  }
+}

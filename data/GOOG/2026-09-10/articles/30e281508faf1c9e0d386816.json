@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/9997c1c1-f115-3209-8354-3e621d241963/amazon-opens-chatgpt-ads-to.html",
+    "fetched_at": "2026-09-10T07:00:28.543417-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon opens ChatGPT ads to its advertisers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon announced a partnership with OpenAI on Thursday, giving brands on its advertising platform the ability to place ads within ChatGPT, with a U.S. rollout starting among a limited group of brands.\nThe deal represents a significant turn for a company that had blocked AI assistants such as ChatGPT, Anthropic's Claude, and Google's Gemini from tapping into its online retail ecosystem, even as it developed competing AI-powered shopping features of its own. In a blog post, Amazon described conversational ad formats of the kind found in AI chatbots as the \"fastest growing engagement opportunity\" available to brands trying to connect with shoppers.\nAccording to an Amazon spokesperson, the company takes responsibility for building and running ad campaigns, whereas decisions about how and when those ads are delivered fall to OpenAI's ad system. Ad units will appear as text or images beneath ChatGPT responses.\n\"With Access to ChatGPT Ads, advertisers can now extend their campaigns further into where their customers are actively spending time in conversational chat platforms,\" according to a statement from Chris Conetta, who serves as director of omnichannel supply at Amazon's demand-side advertising platform.\nOpenAI began offering paid placements inside ChatGPT to U.S. advertisers in February, with early partners drawn from the retail sector, among them Best Buy and Williams-Sonoma. The company said at the time that ChatGPT had 900 million weekly active users. OpenAI's ad business has since reached a $1 billion annualized revenue run rate, according to CNBC.\nPrior to Thursday's announcement, Amazon had itself been purchasing ChatGPT ads, and Sensor Tower data cited by CNBC showed it ranked as the leading retail advertiser on the platform from April through August.\nBy opening ChatGPT's ad inventory to its broader advertiser base, Amazon is signaling that the AI chatbot has become a significant marketing channel for brands seeking to reach consumers.",
+    "text_blocks": [
+      "Amazon announced a partnership with OpenAI on Thursday, giving brands on its advertising platform the ability to place ads within ChatGPT, with a U.S. rollout starting among a limited group of brands.",
+      "The deal represents a significant turn for a company that had blocked AI assistants such as ChatGPT, Anthropic's Claude, and Google's Gemini from tapping into its online retail ecosystem, even as it developed competing AI-powered shopping features of its own. In a blog post, Amazon described conversational ad formats of the kind found in AI chatbots as the \"fastest growing engagement opportunity\" available to brands trying to connect with shoppers.",
+      "According to an Amazon spokesperson, the company takes responsibility for building and running ad campaigns, whereas decisions about how and when those ads are delivered fall to OpenAI's ad system. Ad units will appear as text or images beneath ChatGPT responses.",
+      "\"With Access to ChatGPT Ads, advertisers can now extend their campaigns further into where their customers are actively spending time in conversational chat platforms,\" according to a statement from Chris Conetta, who serves as director of omnichannel supply at Amazon's demand-side advertising platform.",
+      "OpenAI began offering paid placements inside ChatGPT to U.S. advertisers in February, with early partners drawn from the retail sector, among them Best Buy and Williams-Sonoma. The company said at the time that ChatGPT had 900 million weekly active users. OpenAI's ad business has since reached a $1 billion annualized revenue run rate, according to CNBC.",
+      "Prior to Thursday's announcement, Amazon had itself been purchasing ChatGPT ads, and Sensor Tower data cited by CNBC showed it ranked as the leading retail advertiser on the platform from April through August.",
+      "By opening ChatGPT's ad inventory to its broader advertiser base, Amazon is signaling that the AI chatbot has become a significant marketing channel for brands seeking to reach consumers."
+    ],
+    "html": null
+  }
+}

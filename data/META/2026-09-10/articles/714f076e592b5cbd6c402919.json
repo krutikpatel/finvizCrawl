@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-shares-sink-ceo-warns-122813491.html",
+    "fetched_at": "2026-09-10T07:00:14.186417-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Pinterest Shares Sink as CEO Warns of Fresh International Pressure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPinterest (NYSE:PINS) shares fell more than 9% Wednesday after Chief Executive Bill Ready pointed to mounting challenges in international markets, adding to concerns about the company's growth outlook.\nReady said at the Goldman Sachs Communacopia + Technology Conference that regulatory changes in Europe are creating difficulties for cross-border merchants from Asia. Pinterest is also changing its global go-to-market strategy, a process he expects could create pressure on the business in the near term.\nInvestor sentiment has also been affected by the late-August departure of Chief Financial Officer Julia Brau Donnelly. Pinterest's third-quarter outlook calls for revenue growth of 13% to 15%, compared with 18.2% in the second quarter.\nThe company is continuing to invest in artificial intelligence tools, including Performance+, while competing with Meta and Google in digital advertising and visual discovery. Pinterest has more than 600 million monthly users and has entered a $4 billion agreement with Amazon Web Services to support its AI and computer-vision capabilities.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Pinterest (NYSE:PINS) shares fell more than 9% Wednesday after Chief Executive Bill Ready pointed to mounting challenges in international markets, adding to concerns about the company's growth outlook.",
+      "Ready said at the Goldman Sachs Communacopia + Technology Conference that regulatory changes in Europe are creating difficulties for cross-border merchants from Asia. Pinterest is also changing its global go-to-market strategy, a process he expects could create pressure on the business in the near term.",
+      "Investor sentiment has also been affected by the late-August departure of Chief Financial Officer Julia Brau Donnelly. Pinterest's third-quarter outlook calls for revenue growth of 13% to 15%, compared with 18.2% in the second quarter.",
+      "The company is continuing to invest in artificial intelligence tools, including Performance+, while competing with Meta and Google in digital advertising and visual discovery. Pinterest has more than 600 million monthly users and has entered a $4 billion agreement with Amazon Web Services to support its AI and computer-vision capabilities."
+    ],
+    "html": null
+  }
+}

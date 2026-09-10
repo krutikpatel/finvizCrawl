@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html",
+    "fetched_at": "2026-09-10T07:00:17.124540-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nFund exposure to semiconductor stocks has broadened in recent months, with Nvidia and Broadcom remaining among the most widely held names while ownership of memory and other chip groups increased, Bank of America said in its August Equity Strategy data.\nSemiconductor stocks carried a relative weighting of 1.15 times among active U.S. fund managers, up from 1.08 times in May and close to the post-ChatGPT peak of 1.18 times reached in April 2023.\nNvidia (NVDA) remained the most widely owned semiconductor stock at 82%, while Broadcom (AVGO) also ranked among the sector leaders. AMD (AMD) reached 51% ownership, while Micron (MU) climbed to 50% after gaining 608 basis points month over month.\nMemory stocks recorded the largest monthly increase in ownership, rising 612 basis points, followed by semiconductor equipment at 324 basis points. Sandisk (NASDAQ:SNDK) saw the biggest individual increase, with ownership rising 897 basis points to 24%.\nBank of America analyst Vivek Arya said fund positioning remained concentrated in compute, memory and semiconductor equipment, while consumer exposure declined during the month.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Fund exposure to semiconductor stocks has broadened in recent months, with Nvidia and Broadcom remaining among the most widely held names while ownership of memory and other chip groups increased, Bank of America said in its August Equity Strategy data.",
+      "Semiconductor stocks carried a relative weighting of 1.15 times among active U.S. fund managers, up from 1.08 times in May and close to the post-ChatGPT peak of 1.18 times reached in April 2023.",
+      "Nvidia (NVDA) remained the most widely owned semiconductor stock at 82%, while Broadcom (AVGO) also ranked among the sector leaders. AMD (AMD) reached 51% ownership, while Micron (MU) climbed to 50% after gaining 608 basis points month over month.",
+      "Memory stocks recorded the largest monthly increase in ownership, rising 612 basis points, followed by semiconductor equipment at 324 basis points. Sandisk (NASDAQ:SNDK) saw the biggest individual increase, with ownership rising 897 basis points to 24%.",
+      "Bank of America analyst Vivek Arya said fund positioning remained concentrated in compute, memory and semiconductor equipment, while consumer exposure declined during the month."
+    ],
+    "html": null
+  }
+}

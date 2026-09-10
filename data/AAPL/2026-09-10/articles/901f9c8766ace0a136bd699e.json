@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-iphone-18-123557823.html",
+    "fetched_at": "2026-09-10T07:00:11.656237-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple stock rises. iPhone 18 Pro and foldable Duo debut under new CEO",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) stock rose about 1% in early Thursday trading after the tech company unveiled its iPhone 18 Pro and first foldable iPhone Duo on Sept. 9, giving new CEO John Ternus a major product debut less than two weeks after taking the top job.\nThe iPhone 18 Pro starts at $1,199 and adds upgraded camera capabilities, longer battery life and a faster chip designed to support on-device artificial intelligence. Apple also introduced new AirPods and Apple Watch models.\nThe foldable Duo starts at $1,999 and opens into a 7.6-inch display. Apple said the device is its first iPhone with a foldable screen, making the model a key test of demand for a higher-priced form factor.\nTernus became CEO on Sept. 1 after serving as senior vice president of hardware engineering. The launch also follows strong iPhone 17 sales, raising questions about whether the latest lineup can sustain upgrade demand. Apple shares closed at $315.34, down about 0.3% Wednesday.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) stock rose about 1% in early Thursday trading after the tech company unveiled its iPhone 18 Pro and first foldable iPhone Duo on Sept. 9, giving new CEO John Ternus a major product debut less than two weeks after taking the top job.",
+      "The iPhone 18 Pro starts at $1,199 and adds upgraded camera capabilities, longer battery life and a faster chip designed to support on-device artificial intelligence. Apple also introduced new AirPods and Apple Watch models.",
+      "The foldable Duo starts at $1,999 and opens into a 7.6-inch display. Apple said the device is its first iPhone with a foldable screen, making the model a key test of demand for a higher-priced form factor.",
+      "Ternus became CEO on Sept. 1 after serving as senior vice president of hardware engineering. The launch also follows strong iPhone 17 sales, raising questions about whether the latest lineup can sustain upgrade demand. Apple shares closed at $315.34, down about 0.3% Wednesday."
+    ],
+    "html": null
+  }
+}

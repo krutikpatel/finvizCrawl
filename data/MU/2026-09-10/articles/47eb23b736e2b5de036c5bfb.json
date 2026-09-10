@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-gains-2-4-memorys-182526527.html",
+    "fetched_at": "2026-09-10T07:00:17.421724-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Gains 2.4% as Memory's 86% Margin Era Refuses to Break",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU), the memory-chip manufacturer powering AI servers, climbed roughly 2.4% to $1,023.85 Wednesday. Investors are betting that scarce DRAM and high-bandwidth memory will keep prices firm well into 2027. The AI buildout still needs more memory, and Micron is selling into a market where supplynot demandis setting the pace.\nThe numbers explain the enthusiasm. Micron's fiscal third-quarter results delivered $41.46 billion in revenue, an 84.9% adjusted gross margin and $18.30 billion in adjusted free cash flow. Cloud-memory and core data-center sales reached $25.29 billion, or about 61% of total revenue. Management expects roughly $50 billion in fourth-quarter sales alongside an 86% gross margin.\nThat outlook implies another 20.6% sequential revenue surge. At $50 billion in quarterly sales, each gross-margin percentage point represents approximately $500 million of gross profit. The chart adds a valuation warning: Micron's $1,023.85 share price stands 63.58% above its $625.92 GF Value estimate. AI has turned memory into a prized capacity bottleneck, but Micron's next report must prove that exceptional pricing power can survive the industry's supply response.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU), the memory-chip manufacturer powering AI servers, climbed roughly 2.4% to $1,023.85 Wednesday. Investors are betting that scarce DRAM and high-bandwidth memory will keep prices firm well into 2027. The AI buildout still needs more memory, and Micron is selling into a market where supplynot demandis setting the pace.",
+      "The numbers explain the enthusiasm. Micron's fiscal third-quarter results delivered $41.46 billion in revenue, an 84.9% adjusted gross margin and $18.30 billion in adjusted free cash flow. Cloud-memory and core data-center sales reached $25.29 billion, or about 61% of total revenue. Management expects roughly $50 billion in fourth-quarter sales alongside an 86% gross margin.",
+      "That outlook implies another 20.6% sequential revenue surge. At $50 billion in quarterly sales, each gross-margin percentage point represents approximately $500 million of gross profit. The chart adds a valuation warning: Micron's $1,023.85 share price stands 63.58% above its $625.92 GF Value estimate. AI has turned memory into a prized capacity bottleneck, but Micron's next report must prove that exceptional pricing power can survive the industry's supply response."
+    ],
+    "html": null
+  }
+}

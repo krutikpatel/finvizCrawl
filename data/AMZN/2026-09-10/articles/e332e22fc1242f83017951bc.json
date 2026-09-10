@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/amazon-meta-google-confront-data-120046627.html",
+    "fetched_at": "2026-09-10T07:00:41.658506-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon, Meta and Google Confront Data Center Backlash",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN), Meta Platforms (NASDAQ:META) and Google (NASDAQ:GOOGL) face an obstacle in the AI infrastructure race: states are reconsidering tax exemptions supporting America's data-center boom.\nMore than a dozen states are reducing subsidies as lawmakers question whether jobs and investment justify lost revenue and grid costs. That could raise expenses, complicate site selection and slow hyperscaler expansion.\nOhio illustrates the shift. It once exempted servers and data-center equipment from sales taxes to attract investment. The policy worked, but AI pushed its annual cost above $1.5 billion last year, ten times the original estimate.\nBig Tech's Tax Advantage Faces a Political Test\nState Rep. Tristan Rader wants Ohio to repeal the exemption, reconsider older agreements and require developers to pay more toward power infrastructure. Some Amazon, Meta and Google contracts secured benefits lasting decades, making renegotiation financially and legally consequential.\nAmazon says it invested nearly $40 billion in Ohio data centers since 2015, created thousands of jobs and paid almost $11 million in state property taxes and fees last year. Meta and Google declined to comment to The Wall Street Journal.\nThe resistance extends beyond Ohio. Arizona and Illinois have paused or eliminated exemptions, while a Missouri council member lost reelection after supporting billions of dollars in data-center incentives. More than 35 states still offer comparable benefits, leaving technology companies alternatives if one market becomes less welcoming.\nPresident Donald Trump has urged communities to embrace data centers, arguing they create wealth, strengthen local tax bases and increase property values. Critics counter that facilities consume significant electricity while providing fewer permanent jobs than traditional industrial projects.\nFor investors, the issue is unlikely to derail AI spending, but it could change its economics. Losing tax breaks or funding more grid infrastructure would increase capital requirements for Amazon, Meta and Google. The next risk is not whether they build, but where, how quickly and who pays.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN), Meta Platforms (NASDAQ:META) and Google (NASDAQ:GOOGL) face an obstacle in the AI infrastructure race: states are reconsidering tax exemptions supporting America's data-center boom.",
+      "More than a dozen states are reducing subsidies as lawmakers question whether jobs and investment justify lost revenue and grid costs. That could raise expenses, complicate site selection and slow hyperscaler expansion.",
+      "Ohio illustrates the shift. It once exempted servers and data-center equipment from sales taxes to attract investment. The policy worked, but AI pushed its annual cost above $1.5 billion last year, ten times the original estimate.",
+      "Big Tech's Tax Advantage Faces a Political Test",
+      "State Rep. Tristan Rader wants Ohio to repeal the exemption, reconsider older agreements and require developers to pay more toward power infrastructure. Some Amazon, Meta and Google contracts secured benefits lasting decades, making renegotiation financially and legally consequential.",
+      "Amazon says it invested nearly $40 billion in Ohio data centers since 2015, created thousands of jobs and paid almost $11 million in state property taxes and fees last year. Meta and Google declined to comment to The Wall Street Journal.",
+      "The resistance extends beyond Ohio. Arizona and Illinois have paused or eliminated exemptions, while a Missouri council member lost reelection after supporting billions of dollars in data-center incentives. More than 35 states still offer comparable benefits, leaving technology companies alternatives if one market becomes less welcoming.",
+      "President Donald Trump has urged communities to embrace data centers, arguing they create wealth, strengthen local tax bases and increase property values. Critics counter that facilities consume significant electricity while providing fewer permanent jobs than traditional industrial projects.",
+      "For investors, the issue is unlikely to derail AI spending, but it could change its economics. Losing tax breaks or funding more grid infrastructure would increase capital requirements for Amazon, Meta and Google. The next risk is not whether they build, but where, how quickly and who pays."
+    ],
+    "html": null
+  }
+}

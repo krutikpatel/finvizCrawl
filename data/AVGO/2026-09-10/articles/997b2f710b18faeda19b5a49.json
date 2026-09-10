@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-samsung-pivot-reality-manufacturing-073216260.html",
+    "fetched_at": "2026-09-10T07:00:33.991604-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI’s Samsung Pivot: The Reality of Manufacturing Diversification",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "At a press conference in Seoul on September 9, 2026, Harrison Kim, General Manager of OpenAI Korea, offered a clear signal regarding the company's hardware strategy: \"One of the areas where we have made the most progress and gained the most recognition with Samsung Electronics is our joint production and research on the next-generation chips we are developing.\" This statement confirms that OpenAI is moving beyond its initial reliance on TSMC for its custom AI silicon, specifically the Jalapeno chip co-designed with Broadcom.\nFor those tracking the compute landlord thesis, this is the manufacturing diversification chapter in action. The goal is simple: reduce the systemic risk of relying on a single foundry partner. However, what that actually means for OpenAI is a complex trade-off between supply chain security and immediate performance reliability. By exploring dual-sourcing, OpenAI is attempting to build a hedge against the capacity constraints and geopolitical sensitivities that define the current semiconductor landscape.\nThe part that gets hidden in the excitement of this partnership is Samsung's unique value proposition: vertical integration. Unlike pure-play foundries, Samsung controls the entire stack – from memory (HBM4/HBM4E) to foundry services and advanced packaging. This is a critical advantage for a company like OpenAI, which is already a strategic memory partner for the Stargate data center initiative. The Samsung-Broadcom $200 billion MOU signed in July 2026, covering foundry, memory, and packaging through 2030, demonstrates the scale of this vertical integration play. Samsung is offering a one-stop shop that could theoretically accelerate the time-to-market for custom accelerators, provided they can solve their persistent manufacturing hurdles.\nThe question is whether Samsung can bridge the performance gap. The current yield reality is stark: Samsung's 2nm process is reportedly yielding between 50% and 60%, while TSMC consistently maintains yields above 80%. For an organization like OpenAI, which requires massive, reliable compute power to train its models, a 20-30% yield deficit is not just a technical metric – it is a significant operational cost and a potential bottleneck for the deployment of next-generation AI infrastructure.\nThis move threads directly into the broader ecosystem shifts we have been tracking. Samsung's recent €1 billion investment in Mistral's Series D signals a desire to be the foundational infrastructure provider for the next wave of AI developers, not just a component supplier. When viewed alongside the 10GW accelerator supply agreement with Broadcom and the ongoing development of the Terafab initiative, it becomes clear that OpenAI is not just buying chips; it is attempting to architect a new, proprietary supply chain that reduces dependency on the TSMC-NVIDIA axis.",
+    "text_blocks": [
+      "At a press conference in Seoul on September 9, 2026, Harrison Kim, General Manager of OpenAI Korea, offered a clear signal regarding the company's hardware strategy: \"One of the areas where we have made the most progress and gained the most recognition with Samsung Electronics is our joint production and research on the next-generation chips we are developing.\" This statement confirms that OpenAI is moving beyond its initial reliance on TSMC for its custom AI silicon, specifically the Jalapeno chip co-designed with Broadcom.",
+      "For those tracking the compute landlord thesis, this is the manufacturing diversification chapter in action. The goal is simple: reduce the systemic risk of relying on a single foundry partner. However, what that actually means for OpenAI is a complex trade-off between supply chain security and immediate performance reliability. By exploring dual-sourcing, OpenAI is attempting to build a hedge against the capacity constraints and geopolitical sensitivities that define the current semiconductor landscape.",
+      "The part that gets hidden in the excitement of this partnership is Samsung's unique value proposition: vertical integration. Unlike pure-play foundries, Samsung controls the entire stack – from memory (HBM4/HBM4E) to foundry services and advanced packaging. This is a critical advantage for a company like OpenAI, which is already a strategic memory partner for the Stargate data center initiative. The Samsung-Broadcom $200 billion MOU signed in July 2026, covering foundry, memory, and packaging through 2030, demonstrates the scale of this vertical integration play. Samsung is offering a one-stop shop that could theoretically accelerate the time-to-market for custom accelerators, provided they can solve their persistent manufacturing hurdles.",
+      "The question is whether Samsung can bridge the performance gap. The current yield reality is stark: Samsung's 2nm process is reportedly yielding between 50% and 60%, while TSMC consistently maintains yields above 80%. For an organization like OpenAI, which requires massive, reliable compute power to train its models, a 20-30% yield deficit is not just a technical metric – it is a significant operational cost and a potential bottleneck for the deployment of next-generation AI infrastructure.",
+      "This move threads directly into the broader ecosystem shifts we have been tracking. Samsung's recent €1 billion investment in Mistral's Series D signals a desire to be the foundational infrastructure provider for the next wave of AI developers, not just a component supplier. When viewed alongside the 10GW accelerator supply agreement with Broadcom and the ongoing development of the Terafab initiative, it becomes clear that OpenAI is not just buying chips; it is attempting to architect a new, proprietary supply chain that reduces dependency on the TSMC-NVIDIA axis."
+    ],
+    "html": null
+  }
+}

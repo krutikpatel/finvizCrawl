@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-put-palantir-center-121516008.html",
+    "fetched_at": "2026-09-10T07:00:36.527601-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Just Put Palantir at the Center of a Massive AI Bet",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies Inc. (PLTR, Financials), the data analytics and artificial intelligence software company, is getting a bigger test from one of the most important names in AI.\nNvidia is working with Palantir to deploy a sovereign AI stack across critical supply chains, starting with Nvidia's own internal operations. That detail matters.\nPalantir is not simply selling another software contract. Nvidia is putting the technology into its own workflows first, giving the partnership a high-profile proving ground.\nThe two companies have already been working together on operational AI. Palantir's platform combines its Ontology software with Nvidia's accelerated computing, CUDA-X libraries and Nemotron models to help companies and government agencies use AI on sensitive data and complex operations.\nSovereign AI is becoming more important as governments and companies try to keep strategic data, models and infrastructure under tighter local control. Nvidia has also been pushing sovereign AI systems for U.S. agencies and critical infrastructure operators.\nFor Palantir investors, the real opportunity is what happens after Nvidia. If the deployment works well inside one of the world's largest AI companies, it could give Palantir a stronger case when competing for similar projects across defense, manufacturing and government.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies Inc. (PLTR, Financials), the data analytics and artificial intelligence software company, is getting a bigger test from one of the most important names in AI.",
+      "Nvidia is working with Palantir to deploy a sovereign AI stack across critical supply chains, starting with Nvidia's own internal operations. That detail matters.",
+      "Palantir is not simply selling another software contract. Nvidia is putting the technology into its own workflows first, giving the partnership a high-profile proving ground.",
+      "The two companies have already been working together on operational AI. Palantir's platform combines its Ontology software with Nvidia's accelerated computing, CUDA-X libraries and Nemotron models to help companies and government agencies use AI on sensitive data and complex operations.",
+      "Sovereign AI is becoming more important as governments and companies try to keep strategic data, models and infrastructure under tighter local control. Nvidia has also been pushing sovereign AI systems for U.S. agencies and critical infrastructure operators.",
+      "For Palantir investors, the real opportunity is what happens after Nvidia. If the deployment works well inside one of the world's largest AI companies, it could give Palantir a stronger case when competing for similar projects across defense, manufacturing and government."
+    ],
+    "html": null
+  }
+}

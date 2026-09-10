@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/401f6bb2-9447-31a9-b66e-dc3d88f03b3d/wall-street-set-for-mixed.html",
+    "fetched_at": "2026-09-10T07:00:25.897081-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street set for mixed start with inflation print imminent",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Ahead of the bell\nWall Street looks set for a mixed open on Thursday, with Dow and S&P 500 futures nudging 0.1% higher while Nasdaq contracts slipped 0.1%.\nThe main event comes after the close, when Oracle reports earnings in what should be a reality check on AI spending and demand.\nBefore that, wholesale inflation data lands, with economists pencilling in a 5.2% annual rise in producer prices, setting the stage for Friday's consumer inflation report.\nOil at least paused for breath after Brent topped $100 a barrel this week, though President Trump warned prices may not ease until after November's midterms.\nThe 10-year Treasury yield hit a three-year high on Wednesday after the Treasury said it would buy up to $6 billion of longer-dated debt.\nTrump, meanwhile, floated sending every American adult a $5,000 cheque if Republicans hold Congress, a promise with a price tag north of $1 trillion.\nBusy day, then.",
+    "text_blocks": [
+      "Ahead of the bell",
+      "Wall Street looks set for a mixed open on Thursday, with Dow and S&P 500 futures nudging 0.1% higher while Nasdaq contracts slipped 0.1%.",
+      "The main event comes after the close, when Oracle reports earnings in what should be a reality check on AI spending and demand.",
+      "Before that, wholesale inflation data lands, with economists pencilling in a 5.2% annual rise in producer prices, setting the stage for Friday's consumer inflation report.",
+      "Oil at least paused for breath after Brent topped $100 a barrel this week, though President Trump warned prices may not ease until after November's midterms.",
+      "The 10-year Treasury yield hit a three-year high on Wednesday after the Treasury said it would buy up to $6 billion of longer-dated debt.",
+      "Trump, meanwhile, floated sending every American adult a $5,000 cheque if Republicans hold Congress, a promise with a price tag north of $1 trillion.",
+      "Busy day, then."
+    ],
+    "html": null
+  }
+}

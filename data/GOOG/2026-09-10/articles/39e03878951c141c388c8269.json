@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/google-signs-biggest-rice-methane-133401495.html",
+    "fetched_at": "2026-09-10T07:00:28.606495-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google has agreed to buy 1 million carbon credits from Indian climate-tech startup Mitti Labs through 2030, in what the companies say is the largest publicly announced deal to date for credits generated from cutting methane emissions in rice farming.\nThe four-year agreement will cover rice farms across the Indian states of Karnataka, Andhra Pradesh, and Telangana, reaching about 100,000 hectares at peak delivery, Mitti Labs co-founder Xavier Laguarta said in an interview. Financial terms were not disclosed.\nThe project will pay farmers to adopt practices that reduce how long rice fields remain flooded, cutting methane released during cultivation while also reducing water use. Mitti Labs says the technique can cut methane emissions by about 50% and irrigation water use by about 40% without reducing crop yields.\nThe deal comes as Google faces the challenge of reaching its goal of going net-zero emissions by 2030 amid investing heavily in artificial-intelligence infrastructure. Its greenhouse gas emissions in 2025 grew 18% year-over-year to about 14.5 million metric tons of carbon dioxide equivalent, per its environmental report (PDF) released in June.\nMitti Labs began talks with Google about a year ago, Laguarta told TechCrunch, as the tech company explored adding methane-reduction projects to its carbon-credit portfolio. Google was drawn in part to the project's water savings and Mitti Labs' ability to operate at scale, he stated.\nThe startup's projects have saved more than 500 billion liters of water over the past two years. The Google deal, Laguarta said, would allow Mitti Labs to expand further, giving it the scale needed to work with large corporate buyers.\n\"Having Google, one of the most sophisticated buyers in the market with rigorous due diligence processes, is obviously a good signal for us,\" Laguarta said, adding that the deal would allow Mitti to scale significantly.\nGoogle's evaluation included scrutiny of Mitti Labs' monitoring technology and visits to farms before the companies signed the agreement, Laguarta said. Founded in 2023, the New York- and Bengaluru-based startup has built a GeoAI platform that combines satellite radar imagery with field measurements to remotely track crop growth, soil moisture and flooding across smallholder farms.\nThe platform uses synthetic aperture radar imagery from commercial and public satellites, with resolutions ranging from 50 centimeters to 10 meters. Mitti also uses proprietary data collected in the field to train its AI models, Laguarta said.",
+    "text_blocks": [
+      "Google has agreed to buy 1 million carbon credits from Indian climate-tech startup Mitti Labs through 2030, in what the companies say is the largest publicly announced deal to date for credits generated from cutting methane emissions in rice farming.",
+      "The four-year agreement will cover rice farms across the Indian states of Karnataka, Andhra Pradesh, and Telangana, reaching about 100,000 hectares at peak delivery, Mitti Labs co-founder Xavier Laguarta said in an interview. Financial terms were not disclosed.",
+      "The project will pay farmers to adopt practices that reduce how long rice fields remain flooded, cutting methane released during cultivation while also reducing water use. Mitti Labs says the technique can cut methane emissions by about 50% and irrigation water use by about 40% without reducing crop yields.",
+      "The deal comes as Google faces the challenge of reaching its goal of going net-zero emissions by 2030 amid investing heavily in artificial-intelligence infrastructure. Its greenhouse gas emissions in 2025 grew 18% year-over-year to about 14.5 million metric tons of carbon dioxide equivalent, per its environmental report (PDF) released in June.",
+      "Mitti Labs began talks with Google about a year ago, Laguarta told TechCrunch, as the tech company explored adding methane-reduction projects to its carbon-credit portfolio. Google was drawn in part to the project's water savings and Mitti Labs' ability to operate at scale, he stated.",
+      "The startup's projects have saved more than 500 billion liters of water over the past two years. The Google deal, Laguarta said, would allow Mitti Labs to expand further, giving it the scale needed to work with large corporate buyers.",
+      "\"Having Google, one of the most sophisticated buyers in the market with rigorous due diligence processes, is obviously a good signal for us,\" Laguarta said, adding that the deal would allow Mitti to scale significantly.",
+      "Google's evaluation included scrutiny of Mitti Labs' monitoring technology and visits to farms before the companies signed the agreement, Laguarta said. Founded in 2023, the New York- and Bengaluru-based startup has built a GeoAI platform that combines satellite radar imagery with field measurements to remotely track crop growth, soil moisture and flooding across smallholder farms.",
+      "The platform uses synthetic aperture radar imagery from commercial and public satellites, with resolutions ranging from 50 centimeters to 10 meters. Mitti also uses proprietary data collected in the field to train its AI models, Laguarta said."
+    ],
+    "html": null
+  }
+}

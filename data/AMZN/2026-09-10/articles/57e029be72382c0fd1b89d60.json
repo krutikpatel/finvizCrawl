@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/walmart-slump-stock-buy-52c872e9?mod=bar_FV",
+    "fetched_at": "2026-09-10T07:00:41.443143-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Walmart’s Slump Makes the Stock a Buy<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Walmart’s Slump Makes the Stock a Buy\nThe company still dominates retail and is growing ancillary revenue streams.\nThe world’s largest bricks-and-mortar retailer hit a wall last month. That won’t last.\nThe world’s largest bricks-and-mortar retailer hit a wall last month. That won’t last.",
+    "text_blocks": [
+      "Walmart’s Slump Makes the Stock a Buy",
+      "The company still dominates retail and is growing ancillary revenue streams.",
+      "The world’s largest bricks-and-mortar retailer hit a wall last month. That won’t last.",
+      "The world’s largest bricks-and-mortar retailer hit a wall last month. That won’t last."
+    ],
+    "html": null
+  }
+}

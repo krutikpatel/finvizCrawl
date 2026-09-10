@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/dow-falls-175-points-on-losses-for-nvidia-corp-honeywell-stocks-1b8d3141-339d2620d6fd?mod=mw_FV",
+    "fetched_at": "2026-09-10T07:00:38.808280-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dow falls 175 points on losses for NVIDIA Corp., Honeywell stocks - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nDow falls 175 points on losses for NVIDIA Corp., Honeywell stocks\nThe Dow Jones Industrial Average is falling Thursday morning with shares of NVIDIA Corp. and Honeywell delivering the stiffest headwinds for the index.\nThe Dow Dow Jones Industrial Average was most recently trading 176 points lower (-0.3%), as shares of NVIDIA Corp. NVIDIA Corp. and Honeywell Honeywell International Inc. have contributed to the blue-chip gauge's intraday decline.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "Dow falls 175 points on losses for NVIDIA Corp., Honeywell stocks",
+      "The Dow Jones Industrial Average is falling Thursday morning with shares of NVIDIA Corp. and Honeywell delivering the stiffest headwinds for the index.",
+      "The Dow Dow Jones Industrial Average was most recently trading 176 points lower (-0.3%), as shares of NVIDIA Corp. NVIDIA Corp. and Honeywell Honeywell International Inc. have contributed to the blue-chip gauge's intraday decline.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

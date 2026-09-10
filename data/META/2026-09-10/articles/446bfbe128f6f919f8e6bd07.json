@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-gets-stunning-jpmorgan-121151743.html",
+    "fetched_at": "2026-09-10T07:00:14.252438-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Stock Gets Stunning JPMorgan Upgrade on AI Growth",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nJPMorgan lifted its view on Meta Platforms (NASDAQ:META), pointing to the company's expanding artificial-intelligence efforts and the potential for new products to add to its longer-term growth.\nThe bank moved its rating to overweight from neutral and assigned an $820 price target. That target represents about 25% upside from Meta's previous close, while the shares gained about 1% in premarket trading Thursday.\nThe shift follows Meta's rollout of its AI assistant and broader efforts to commercialize advanced models beyond its advertising business. JPMorgan analyst Douglas Anmuth highlighted Muse AI and access to the Meta Model API as developments that could widen the company's technology offering.\nJPMorgan expects Meta's newer AI models to play a role in product development and monetization over several years. The firm also views privacy and security features around Muse as potentially useful as AI agents take on tasks involving sensitive information.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "JPMorgan lifted its view on Meta Platforms (NASDAQ:META), pointing to the company's expanding artificial-intelligence efforts and the potential for new products to add to its longer-term growth.",
+      "The bank moved its rating to overweight from neutral and assigned an $820 price target. That target represents about 25% upside from Meta's previous close, while the shares gained about 1% in premarket trading Thursday.",
+      "The shift follows Meta's rollout of its AI assistant and broader efforts to commercialize advanced models beyond its advertising business. JPMorgan analyst Douglas Anmuth highlighted Muse AI and access to the Meta Model API as developments that could widen the company's technology offering.",
+      "JPMorgan expects Meta's newer AI models to play a role in product development and monetization over several years. The firm also views privacy and security features around Muse as potentially useful as AI agents take on tasks involving sensitive information."
+    ],
+    "html": null
+  }
+}

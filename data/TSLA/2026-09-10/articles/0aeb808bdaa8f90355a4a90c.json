@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-china-threat-c6846c86?mod=bar_FV",
+    "fetched_at": "2026-09-10T07:00:08.413319-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Stock Falls. It Faces This China Threat.  <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla Stock Falls. It Faces This China Threat.\nThe Tesla news of the day isn’t really about Tesla. It’s about China and its plans to dominate the global auto market.\nThe Tesla news of the day isn’t really about Tesla. It’s about China and its plans to dominate the global auto market.",
+    "text_blocks": [
+      "Tesla Stock Falls. It Faces This China Threat.",
+      "The Tesla news of the day isn’t really about Tesla. It’s about China and its plans to dominate the global auto market.",
+      "The Tesla news of the day isn’t really about Tesla. It’s about China and its plans to dominate the global auto market."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/piper-sandler-lists-5-chip-112947928.html",
+    "fetched_at": "2026-09-10T07:00:52.434504-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Piper Sandler lists 5 chip stocks to buy",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Piper Sandler launched coverage of the artificial intelligence chip sector on Thursday, initiating five semiconductor stocks at Overweight and framing the group as prime beneficiaries of surging demand for AI compute.\nAnalyst David O'Connor started Nvidia with a $300 price target, calling it the \"outright leader in AI compute with 80% market share.\"\nHe said the takeoff of agentic AI workloads this year has driven a step-change in demand, with supply likely to stay constrained for the next two to three years, and described the stock as \"among the cheapest in AI universe\" at about 14 times fiscal 2028 estimates.\nHe initiated Broadcom at $460, calling it the leader in custom ASIC chips with a 75% share, and flagged a supply crunch.\n\"Demand is 2x supply, so securing additional supply is key going forward,\" O'Connor wrote, noting the company has line of sight to 12 gigawatts of demand in fiscal 2027.\nAdvanced Micro Devices was started at $600, which O'Connor called an \"Agentic AI Sweetspot,\" pointing to share gains in server CPUs and a ramp in its Helios GPUs with anchor clients including OpenAI, Meta and Anthropic. He forecast earnings growing at a 65% compound annual rate through 2030.\nMarvell Technology was initiated at $270, with the analyst pointing to its data center franchises and a $120 billion Google agreement he called transformative. He flagged an Oct. 6 analyst day as a potential catalyst.\nArm Holdings rounded out the group at $320, with O'Connor highlighting its dominance in CPU intellectual property and an expansion into custom silicon and accelerator IP that he said could double earnings.\nRelated articles\nPiper Sandler lists 5 chip stocks to buy\nNvidia's new Alpamayo project: What it means for Tesla?\nGoldman expects lower but still attractive stock market returns in 2026",
+    "text_blocks": [
+      "Investing.com -- Piper Sandler launched coverage of the artificial intelligence chip sector on Thursday, initiating five semiconductor stocks at Overweight and framing the group as prime beneficiaries of surging demand for AI compute.",
+      "Analyst David O'Connor started Nvidia with a $300 price target, calling it the \"outright leader in AI compute with 80% market share.\"",
+      "He said the takeoff of agentic AI workloads this year has driven a step-change in demand, with supply likely to stay constrained for the next two to three years, and described the stock as \"among the cheapest in AI universe\" at about 14 times fiscal 2028 estimates.",
+      "He initiated Broadcom at $460, calling it the leader in custom ASIC chips with a 75% share, and flagged a supply crunch.",
+      "\"Demand is 2x supply, so securing additional supply is key going forward,\" O'Connor wrote, noting the company has line of sight to 12 gigawatts of demand in fiscal 2027.",
+      "Advanced Micro Devices was started at $600, which O'Connor called an \"Agentic AI Sweetspot,\" pointing to share gains in server CPUs and a ramp in its Helios GPUs with anchor clients including OpenAI, Meta and Anthropic. He forecast earnings growing at a 65% compound annual rate through 2030.",
+      "Marvell Technology was initiated at $270, with the analyst pointing to its data center franchises and a $120 billion Google agreement he called transformative. He flagged an Oct. 6 analyst day as a potential catalyst.",
+      "Arm Holdings rounded out the group at $320, with O'Connor highlighting its dominance in CPU intellectual property and an expansion into custom silicon and accelerator IP that he said could double earnings.",
+      "Related articles",
+      "Piper Sandler lists 5 chip stocks to buy",
+      "Nvidia's new Alpamayo project: What it means for Tesla?",
+      "Goldman expects lower but still attractive stock market returns in 2026"
+    ],
+    "html": null
+  }
+}

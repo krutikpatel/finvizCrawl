@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2416e148-4658-3446-bd45-7007907bbbb2/should-you-get-paid-to-wait.html",
+    "fetched_at": "2026-09-10T07:00:47.220674-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Should You Get Paid To Wait For Palo Alto Networks To Slow Down?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palo Alto Networks (PANW) has returned 71.4% over the past year and trades about 15% below its 52-week high. You can be paid now for agreeing to buy the shares well below today's price, and you keep that payment either way. The catch: the stock has to fall a long way first, and the slowdown management has already guided to is in the growth measures, not in the company total.\n13% annualized yield at a 29% margin of safety, by selling put options.\n-\nSell a put option on PANW expiring 9/17/2027, with a strike price of $240.\n-\nCollect roughly $2,128 in premium per contract (each contract covers 100 shares).\n-\nThat works out to about 8.6% annualized on the $24,000 of cash you set aside to secure the trade.\n-\nPark that cash in Treasury bills or a Treasury money-market fund yielding roughly 3.9%, and your total yield climbs to about 12.6%.\n-\nAnd if PANW falls below $240, you buy it at $240, an effective entry near $218.73 a share after the premium, about a 35% discount to today's $336.98.\nWin Or Wait, You Still Pocket The Premium\nIf PANW stays above $240 through 9/17/2027, the put expires worthless, and you keep the full $2,128 premium. That is about 8.6% annualized on the $24,000 you set aside over 374 days, while that same collateral keeps earning the ~3.9% T-bill yield on top, for ~12.6% total. You never buy the stock, and you keep the income, free to do it again.\nIf PANW closes below $240, you are assigned and buy 100 shares at $240. The $2,128 premium you already pocketed lowers your effective cost to about $218.73 a share, roughly a 35% discount to today's price, though if the stock has fallen further by then, you would be holding a paper loss.\nSo everything depends on what you would be buying if PANW does fall that far.\nWould You Want The Shares After A Fall That Big?\nA lot is working here. Revenue reached $11.5 billion in fiscal 2026, up 24%, and the company took real share along the way: in SASE it displaced legacy incumbents in nearly 100 accounts worth more than $400 million in total contract value, close to double the volume of displacements a year earlier. XSIAM, its security operations platform, ended fiscal 2026 above $700 million in ARR. Profitability has also cooled: net margin sits at 7.9%, versus a 17.9% three-year average.\nBut the headline growth rate was partly bought. Next-generation security ARR ended fiscal 2026 up 63%, with CyberArk and Chronosphere, the two largest acquisitions in the company's history, inside that figure. Management guides the same measure to 22% to 23% growth in fiscal 2027. Nothing has broken; the acquisitions simply stop being new.",
+    "text_blocks": [
+      "Palo Alto Networks (PANW) has returned 71.4% over the past year and trades about 15% below its 52-week high. You can be paid now for agreeing to buy the shares well below today's price, and you keep that payment either way. The catch: the stock has to fall a long way first, and the slowdown management has already guided to is in the growth measures, not in the company total.",
+      "13% annualized yield at a 29% margin of safety, by selling put options.",
+      "-",
+      "Sell a put option on PANW expiring 9/17/2027, with a strike price of $240.",
+      "-",
+      "Collect roughly $2,128 in premium per contract (each contract covers 100 shares).",
+      "-",
+      "That works out to about 8.6% annualized on the $24,000 of cash you set aside to secure the trade.",
+      "-",
+      "Park that cash in Treasury bills or a Treasury money-market fund yielding roughly 3.9%, and your total yield climbs to about 12.6%.",
+      "-",
+      "And if PANW falls below $240, you buy it at $240, an effective entry near $218.73 a share after the premium, about a 35% discount to today's $336.98.",
+      "Win Or Wait, You Still Pocket The Premium",
+      "If PANW stays above $240 through 9/17/2027, the put expires worthless, and you keep the full $2,128 premium. That is about 8.6% annualized on the $24,000 you set aside over 374 days, while that same collateral keeps earning the ~3.9% T-bill yield on top, for ~12.6% total. You never buy the stock, and you keep the income, free to do it again.",
+      "If PANW closes below $240, you are assigned and buy 100 shares at $240. The $2,128 premium you already pocketed lowers your effective cost to about $218.73 a share, roughly a 35% discount to today's price, though if the stock has fallen further by then, you would be holding a paper loss.",
+      "So everything depends on what you would be buying if PANW does fall that far.",
+      "Would You Want The Shares After A Fall That Big?",
+      "A lot is working here. Revenue reached $11.5 billion in fiscal 2026, up 24%, and the company took real share along the way: in SASE it displaced legacy incumbents in nearly 100 accounts worth more than $400 million in total contract value, close to double the volume of displacements a year earlier. XSIAM, its security operations platform, ended fiscal 2026 above $700 million in ARR. Profitability has also cooled: net margin sits at 7.9%, versus a 17.9% three-year average.",
+      "But the headline growth rate was partly bought. Next-generation security ARR ended fiscal 2026 up 63%, with CyberArk and Chronosphere, the two largest acquisitions in the company's history, inside that figure. Management guides the same measure to 22% to 23% growth in fiscal 2027. Nothing has broken; the acquisitions simply stop being new."
+    ],
+    "html": null
+  }
+}

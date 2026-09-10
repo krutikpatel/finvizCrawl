@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-gets-bullish-170-180324861.html",
+    "fetched_at": "2026-09-10T07:00:22.125098-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Stock Gets Bullish $170 Target: Analyst Sees Massive 45% Upside",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRobinhood Markets (NASDAQ:HOOD) has drawn coverage from StoneX Financial, which assigned a Buy rating and a $170 price target.\nAnalyst Mark Palmer pointed to Robinhood's broader business mix as a potential source of growth. The platform now serves 28.4 million funded customers and generates activity across equities, crypto, options, prediction markets, subscriptions, banking and advisory services.\nStoneX also highlighted the company's move into financial infrastructure. Robinhood Chain, its Layer 2 blockchain network, went live on July 1, while the company has continued developing Rothera as part of its push into market infrastructure.\nPrediction markets are another area attracting attention. Robinhood handled 13.6 billion event contracts in the second quarter, with revenue from the business reaching about $156 million, according to recent reports.\nThe $170 target implies roughly 45% upside from here.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Robinhood Markets (NASDAQ:HOOD) has drawn coverage from StoneX Financial, which assigned a Buy rating and a $170 price target.",
+      "Analyst Mark Palmer pointed to Robinhood's broader business mix as a potential source of growth. The platform now serves 28.4 million funded customers and generates activity across equities, crypto, options, prediction markets, subscriptions, banking and advisory services.",
+      "StoneX also highlighted the company's move into financial infrastructure. Robinhood Chain, its Layer 2 blockchain network, went live on July 1, while the company has continued developing Rothera as part of its push into market infrastructure.",
+      "Prediction markets are another area attracting attention. Robinhood handled 13.6 billion event contracts in the second quarter, with revenue from the business reaching about $156 million, according to recent reports.",
+      "The $170 target implies roughly 45% upside from here."
+    ],
+    "html": null
+  }
+}

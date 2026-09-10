@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/65cabf97-1167-3cb6-be9d-0905a9e17cb5/dips-in-uipath-stock-have.html",
+    "fetched_at": "2026-09-10T07:00:31.399734-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dips In UiPath Stock Have Mostly Kept Falling, Will This One Too?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "UiPath (PATH) has dropped about 25% from its late-August high, and the question is whether that is an opening or a warning. Its own history leans toward warning: most declines this size kept falling. What that history cannot see is a company that is profitable now, consolidating its biggest customers' automation onto one platform while its smallest ones leave.\nStart with what those falls actually paid.\nHow Much Further UiPath Usually Falls First\nSince 2021, UiPath has fallen 20% or more inside 30 trading days on 11 separate occasions. Of the 9 old enough to have a full year behind them, only 3 ended higher, and the median twelve-month return across those 9 was negative 14%.\nCollecting even the good outcomes was expensive. Across all 11 falls the median best gain inside a year was 20%, reached after a median of about 172 calendar days. The median worst further decline along the way was 36%, and 8 of the 11 fell more than another 20% before recovering. Half a year of waiting through a further third off the price is what this stock charges. The current fall clears the same 20%-in-30-days bar as every one of those episodes, so the comparison holds.\nPATH had 11 events since 4/21/2021 where the dip threshold of -20% within 30 days was triggered\n-\n20% median peak return within 1 year of dip event\n-\n172 days is the median time to peak return after a dip event\n-\n-36% median max drawdown within 1 year of dip event\nUiPath Is Finally Profitable While You Wait\nA history like that only matters if the business is worth waiting on. UiPath clears the basic checks. Revenue grew 15.0% over the trailing twelve months, and 21.7% of that revenue came through as operating cash flow. On $410 million of revenue in fiscal Q2 2027 management reported a fourth consecutive quarter of GAAP profitability and a 22% non-GAAP operating margin.\nThe complication is where that growth comes from. Management says attrition is concentrated among its smallest customers, while accounts paying more than $1 million a year rose 21% to 387. UiPath is winning where switching is hardest: the Department of War's clean audit initiative. The company has also expanded a partnership with Cognizant, which embeds Test Cloud into an outside testing service.",
+    "text_blocks": [
+      "UiPath (PATH) has dropped about 25% from its late-August high, and the question is whether that is an opening or a warning. Its own history leans toward warning: most declines this size kept falling. What that history cannot see is a company that is profitable now, consolidating its biggest customers' automation onto one platform while its smallest ones leave.",
+      "Start with what those falls actually paid.",
+      "How Much Further UiPath Usually Falls First",
+      "Since 2021, UiPath has fallen 20% or more inside 30 trading days on 11 separate occasions. Of the 9 old enough to have a full year behind them, only 3 ended higher, and the median twelve-month return across those 9 was negative 14%.",
+      "Collecting even the good outcomes was expensive. Across all 11 falls the median best gain inside a year was 20%, reached after a median of about 172 calendar days. The median worst further decline along the way was 36%, and 8 of the 11 fell more than another 20% before recovering. Half a year of waiting through a further third off the price is what this stock charges. The current fall clears the same 20%-in-30-days bar as every one of those episodes, so the comparison holds.",
+      "PATH had 11 events since 4/21/2021 where the dip threshold of -20% within 30 days was triggered",
+      "-",
+      "20% median peak return within 1 year of dip event",
+      "-",
+      "172 days is the median time to peak return after a dip event",
+      "-",
+      "-36% median max drawdown within 1 year of dip event",
+      "UiPath Is Finally Profitable While You Wait",
+      "A history like that only matters if the business is worth waiting on. UiPath clears the basic checks. Revenue grew 15.0% over the trailing twelve months, and 21.7% of that revenue came through as operating cash flow. On $410 million of revenue in fiscal Q2 2027 management reported a fourth consecutive quarter of GAAP profitability and a 22% non-GAAP operating margin.",
+      "The complication is where that growth comes from. Management says attrition is concentrated among its smallest customers, while accounts paying more than $1 million a year rose 21% to 387. UiPath is winning where switching is hardest: the Department of War's clean audit initiative. The company has also expanded a partnership with Cognizant, which embeds Test Cloud into an outside testing service."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_FV",
+    "fetched_at": "2026-09-10T07:00:11.304914-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Ratings Game\nApple is walking a ‘tightrope’ when it comes to the prices of its new iPhones\nThe company raised prices on its phone but might still have to eat costs itself, analysts say\nApple may be prepared to eat some costs to drive smartphone sales as consumers are more strapped for cash.\nThe company on Wednesday unveiled the new iPhone 18 Pro line, as well as its first foldable phone, dubbed the Duo. And while the features of the phones were largely in line with expectations, pricing was a big unknown heading into Wednesday’s event. Apple AAPL, like other consumer-electronics companies, must weigh its own increasing costs against inflation and other factors that are hitting customers.",
+    "text_blocks": [
+      "The Ratings Game",
+      "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
+      "The company raised prices on its phone but might still have to eat costs itself, analysts say",
+      "Apple may be prepared to eat some costs to drive smartphone sales as consumers are more strapped for cash.",
+      "The company on Wednesday unveiled the new iPhone 18 Pro line, as well as its first foldable phone, dubbed the Duo. And while the features of the phones were largely in line with expectations, pricing was a big unknown heading into Wednesday’s event. Apple AAPL, like other consumer-electronics companies, must weigh its own increasing costs against inflation and other factors that are hitting customers."
+    ],
+    "html": null
+  }
+}
