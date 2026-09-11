@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-slides-nvidia-deal-meets-184634110.html",
+    "fetched_at": "2026-09-11T07:00:35.671873-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Slides as Nvidia Deal Meets a 55-Times Sales Price",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR), the enterprise and government AI-software provider, deepened its Nvidia (NASDAQ:NVDA) partnership Thursday to develop AI-powered supply-chain systems. Shares slipped approximately 0.8% to $168.24, even as the collaboration stretches across agriculture, manufacturing, pharmaceuticals, retail, technology and government.\nThe partnership pairs Nvidia's Nemotron models with Palantir's data and software platforms, while Nvidia plans to deploy the technology inside its own operations. The expansion lands as Palantir's growth accelerates: second-quarter revenue surged 93% to $1.94 billion, including $764 million from its fast-growing U.S. commercial business.\nYet the valuation leaves little room for ordinary execution. Annualizing the latest quarter produces roughly $7.76 billion in revenue, putting Palantir's $430.6 billion market value near 55 times that run rate. The picture shows the $168.24 share price sitting 4.69% below the $176.51 GF Value, suggesting modest upsidebut the partnership still needs meaningful deployments and paying customers to justify the premium.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR), the enterprise and government AI-software provider, deepened its Nvidia (NASDAQ:NVDA) partnership Thursday to develop AI-powered supply-chain systems. Shares slipped approximately 0.8% to $168.24, even as the collaboration stretches across agriculture, manufacturing, pharmaceuticals, retail, technology and government.",
+      "The partnership pairs Nvidia's Nemotron models with Palantir's data and software platforms, while Nvidia plans to deploy the technology inside its own operations. The expansion lands as Palantir's growth accelerates: second-quarter revenue surged 93% to $1.94 billion, including $764 million from its fast-growing U.S. commercial business.",
+      "Yet the valuation leaves little room for ordinary execution. Annualizing the latest quarter produces roughly $7.76 billion in revenue, putting Palantir's $430.6 billion market value near 55 times that run rate. The picture shows the $168.24 share price sitting 4.69% below the $176.51 GF Value, suggesting modest upsidebut the partnership still needs meaningful deployments and paying customers to justify the premium."
+    ],
+    "html": null
+  }
+}

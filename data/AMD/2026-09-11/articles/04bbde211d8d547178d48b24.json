@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-2-5-declaring-183013507.html",
+    "fetched_at": "2026-09-11T07:00:43.953172-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Falls 2.5% After Declaring a $2 Trillion AI Prize",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (NASDAQ:AMD), the processor and artificial-intelligence chip designer, fell approximately 2.5% to $508.10 Thursday, giving back part of the previous session's surge. The pullback came even as CFO Jean Hu projected that AI could expand the company's addressable market to roughly $2 trillion by 2030.\nThe operating engine is already accelerating. AMD's second-quarter results showed revenue jumping 50% to $11.54 billion, while data-center sales more than doubled to $6.7 billion and supplied 58% of total revenue. Adjusted operating margin expanded to 27% from 12% a year earlier, and management guided for approximately $13 billion in third-quarter sales.\nBut $2 trillion represents potential industry demand, not future company revenue. Even a 5% share would equal $100 billion, requiring AMD to deliver competitive chips, deepen software adoption and secure enough manufacturing capacity. The chart sharpens the valuation risk: the $508.10 share price stands 82.02% above the $279.15 GF Value, leaving investors little room for disappointment despite the enormous AI opportunity.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (NASDAQ:AMD), the processor and artificial-intelligence chip designer, fell approximately 2.5% to $508.10 Thursday, giving back part of the previous session's surge. The pullback came even as CFO Jean Hu projected that AI could expand the company's addressable market to roughly $2 trillion by 2030.",
+      "The operating engine is already accelerating. AMD's second-quarter results showed revenue jumping 50% to $11.54 billion, while data-center sales more than doubled to $6.7 billion and supplied 58% of total revenue. Adjusted operating margin expanded to 27% from 12% a year earlier, and management guided for approximately $13 billion in third-quarter sales.",
+      "But $2 trillion represents potential industry demand, not future company revenue. Even a 5% share would equal $100 billion, requiring AMD to deliver competitive chips, deepen software adoption and secure enough manufacturing capacity. The chart sharpens the valuation risk: the $508.10 share price stands 82.02% above the $279.15 GF Value, leaving investors little room for disappointment despite the enormous AI opportunity."
+    ],
+    "html": null
+  }
+}

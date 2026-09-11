@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/piper-sandler-says-marvell-could-120936521.html",
+    "fetched_at": "2026-09-11T07:00:41.388470-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Piper Sandler Says Marvell Could Be a Major AI Chip Winner",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPiper Sandler started coverage of Marvell Technology (MRVL) with a Buy rating and a $270 price target, pointing to the chipmaker's expanding role in AI data centers and custom computing.\nAnalyst David O'Connor said Marvell has about a 10% share of the data-center components market, with established positions in digital signal processors and custom connectivity. He also sees its relationships with large cloud providers supporting future demand for custom AI hardware and co-packaged optics.\nA major part of the thesis is Marvell's agreement with Google (GOOGL). O'Connor expects Google's TPU programs to begin contributing in fiscal 2029 and estimates the opportunity could generate about $18 billion in annual revenue once fully ramped.\nO'Connor also pointed to Marvell's work with Amazon (AMZN) and Microsoft (MSFT) on accelerator programs. He said the larger opportunity may be Marvell supplying custom XPU solutions to hyperscalers as they develop their own AI chips.\nThe analyst expects Marvell's Oct. 6 analyst day to provide more detail on its long-term plans and projects revenue reaching $45 billion by 2030, with EPS potentially rising to $19.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Piper Sandler started coverage of Marvell Technology (MRVL) with a Buy rating and a $270 price target, pointing to the chipmaker's expanding role in AI data centers and custom computing.",
+      "Analyst David O'Connor said Marvell has about a 10% share of the data-center components market, with established positions in digital signal processors and custom connectivity. He also sees its relationships with large cloud providers supporting future demand for custom AI hardware and co-packaged optics.",
+      "A major part of the thesis is Marvell's agreement with Google (GOOGL). O'Connor expects Google's TPU programs to begin contributing in fiscal 2029 and estimates the opportunity could generate about $18 billion in annual revenue once fully ramped.",
+      "O'Connor also pointed to Marvell's work with Amazon (AMZN) and Microsoft (MSFT) on accelerator programs. He said the larger opportunity may be Marvell supplying custom XPU solutions to hyperscalers as they develop their own AI chips.",
+      "The analyst expects Marvell's Oct. 6 analyst day to provide more detail on its long-term plans and projects revenue reaching $45 billion by 2030, with EPS potentially rising to $19."
+    ],
+    "html": null
+  }
+}

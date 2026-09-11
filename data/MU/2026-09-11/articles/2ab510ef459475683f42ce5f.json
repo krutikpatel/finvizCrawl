@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-focus-unveils-massive-121339678.html",
+    "fetched_at": "2026-09-11T07:00:17.045013-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock in Focus -- Unveils Massive Employee Rewards After Record Profits",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (MU) plans to provide additional cash and equity compensation to employees in Taiwan, with entry-level engineers set to receive average annual compensation of up to NT$3.4 million, according to media reports.\nEmployees hired before Aug. 29, 2025, are eligible for a special NT$1 million cash payment. Taiwan-based engineers will also receive equity awards under the company's annual merit program.\nFrontline production workers are expected to receive fiscal-year rewards equivalent to 35 to 68 months of salary. A guaranteed minimum cash payment of NT$1.7 million, or about $53,000, is included in the package.\nMicron employs roughly 15,000 people in Taiwan, a key manufacturing location where the company has invested more than NT$1.6 trillion. The compensation changes come as workers seek a larger share of the company's strong financial performance.\nMicron and the Taoyuan union did not reach an agreement during mediation last week, according to Reuters.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (MU) plans to provide additional cash and equity compensation to employees in Taiwan, with entry-level engineers set to receive average annual compensation of up to NT$3.4 million, according to media reports.",
+      "Employees hired before Aug. 29, 2025, are eligible for a special NT$1 million cash payment. Taiwan-based engineers will also receive equity awards under the company's annual merit program.",
+      "Frontline production workers are expected to receive fiscal-year rewards equivalent to 35 to 68 months of salary. A guaranteed minimum cash payment of NT$1.7 million, or about $53,000, is included in the package.",
+      "Micron employs roughly 15,000 people in Taiwan, a key manufacturing location where the company has invested more than NT$1.6 trillion. The compensation changes come as workers seek a larger share of the company's strong financial performance.",
+      "Micron and the Taoyuan union did not reach an agreement during mediation last week, according to Reuters."
+    ],
+    "html": null
+  }
+}

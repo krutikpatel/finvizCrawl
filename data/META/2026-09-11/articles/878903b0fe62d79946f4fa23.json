@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/d7e77cca-a48f-3ee4-bc25-66593fe40c6a/should-you-buy-applovin-stock.html",
+    "fetched_at": "2026-09-11T07:00:14.285109-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Should You Buy AppLovin Stock For Its Widening Margin?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AppLovin (APP) stock trades at $312.01, at about 43% of its 52-week high, after a 44.6% fall over the past three months. After the June quarter, the market treated one light quarter of model improvement as the growth engine breaking, though year-over-year revenue growth had already slowed in each of the last three quarters. One number argues the operating business kept getting more profitable straight through it: an operating margin of 77.4% over the trailing twelve months, up from 69.6% a year earlier.\nWhat AppLovin's Three-Year Margin Climb Does And Does Not Show\nThe trailing operating margin has risen in each of the last three years: 7.6% three years ago, 60.8% two years ago, 69.6% a year ago, 77.4% now. The first leap is the least interesting part of it. The company once owned gaming studios it had acquired to help train its earliest machine learning models, and it signed an exclusive term sheet to sell all of that Apps business. A margin measured across a change that size is not measuring the same company twice.\nThe two steps since 60.8% are the ones to weigh. By then the advertising platform carried the reported margin, with gaming advertisers and the newer consumer vertical bidding through a single auction. That consumer side set a spend record in the June quarter, 28% above Q4 2025 levels, and Q4 is the seasonal peak for those advertisers, though management said consumer is not yet large enough to fully smooth such a quarter.\nCan AppLovin Widen Its Adjusted EBITDA Margin While Compute Bills Rise?\nThe models that lift revenue need more training and inference compute to keep lifting it, and management said the pace of meaningful model improvement ran lighter than normal in the June quarter, with the next step-up landing just after the quarter closed, too late to show in those numbers. That cost is already in the outlook, though on a different yardstick: management guides adjusted EBITDA, not operating margin, and the third quarter of 2026 is guided to a margin of approximately 83%.\nWhat the three-year climb does say is that the compute has so far been cheap against the revenue it buys, roughly ten cents of compute for each incremental dollar of revenue on the CFO's own figure. Whether that ratio holds as the models get more complex is the open question, and management's long-term answer is confidence in a low-80% adjusted EBITDA margin, not a widening one.\nHow You Will Know The Compute Trade Is Still Paying\nAfter that fall, the price appears to give little credit for the three-year climb in margin, even with the step down to roughly 83% already guided for the third quarter. The bound on the case is honest: management calls model improvement research, with no guarantee of a lift in any given three-month period.",
+    "text_blocks": [
+      "AppLovin (APP) stock trades at $312.01, at about 43% of its 52-week high, after a 44.6% fall over the past three months. After the June quarter, the market treated one light quarter of model improvement as the growth engine breaking, though year-over-year revenue growth had already slowed in each of the last three quarters. One number argues the operating business kept getting more profitable straight through it: an operating margin of 77.4% over the trailing twelve months, up from 69.6% a year earlier.",
+      "What AppLovin's Three-Year Margin Climb Does And Does Not Show",
+      "The trailing operating margin has risen in each of the last three years: 7.6% three years ago, 60.8% two years ago, 69.6% a year ago, 77.4% now. The first leap is the least interesting part of it. The company once owned gaming studios it had acquired to help train its earliest machine learning models, and it signed an exclusive term sheet to sell all of that Apps business. A margin measured across a change that size is not measuring the same company twice.",
+      "The two steps since 60.8% are the ones to weigh. By then the advertising platform carried the reported margin, with gaming advertisers and the newer consumer vertical bidding through a single auction. That consumer side set a spend record in the June quarter, 28% above Q4 2025 levels, and Q4 is the seasonal peak for those advertisers, though management said consumer is not yet large enough to fully smooth such a quarter.",
+      "Can AppLovin Widen Its Adjusted EBITDA Margin While Compute Bills Rise?",
+      "The models that lift revenue need more training and inference compute to keep lifting it, and management said the pace of meaningful model improvement ran lighter than normal in the June quarter, with the next step-up landing just after the quarter closed, too late to show in those numbers. That cost is already in the outlook, though on a different yardstick: management guides adjusted EBITDA, not operating margin, and the third quarter of 2026 is guided to a margin of approximately 83%.",
+      "What the three-year climb does say is that the compute has so far been cheap against the revenue it buys, roughly ten cents of compute for each incremental dollar of revenue on the CFO's own figure. Whether that ratio holds as the models get more complex is the open question, and management's long-term answer is confidence in a low-80% adjusted EBITDA margin, not a widening one.",
+      "How You Will Know The Compute Trade Is Still Paying",
+      "After that fall, the price appears to give little credit for the three-year climb in margin, even with the step down to roughly 83% already guided for the third quarter. The bound on the case is honest: management calls model improvement research, with no guarantee of a lift in any given three-month period."
+    ],
+    "html": null
+  }
+}

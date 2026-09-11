@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/piper-sandler-message-amd-stock-183752621.html",
+    "fetched_at": "2026-09-11T07:00:43.737627-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Piper Sandler Has a Message for AMD Stock Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPiper Sandler is drawing a clear line between two semiconductor stocks, recommending Advanced Micro Devices (NASDAQ:AMD) while taking a more cautious stance on Qualcomm (QCOM).\nAnalyst David O'Connor initiated AMD with a Buy rating and $600 price target, implying 15.1% upside. He started Qualcomm at Hold with a $190 target, representing 7.7% upside. The split reflects stronger AI-driven growth expectations for AMD and concerns that Qualcomm's future data-center success is already priced into its shares.\nWhy Piper Sandler Prefers AMD Stock\nO'Connor expects agentic AI to create more demand for server computing, benefiting AMD's EPYC processors as businesses deploy increasingly autonomous workloads. He also sees the company's Helios platform gaining traction with large customers including OpenAI, Meta Platforms (META) and Anthropic.\nPiper Sandler projects AMD revenue growing roughly 50% annually through fiscal 2030, with earnings per share expanding even faster. The $600 target applies a 24-times multiple to estimated fiscal 2028 earnings, reflecting confidence that CPUs and GPUs can drive a multiyear growth cycle.\nQualcomm still has a credible AI opportunity. O'Connor expects its custom chips, accelerators and server processors to win hyperscaler designs that contribute through fiscal 2029. Data-center products could generate around 26% of revenue by then, while handsets may fall to approximately half of operating profit.\nThe problem is valuation. Piper Sandler believes investors already credit Qualcomm for much of that potential before the company has demonstrated broad adoption of its High Bandwidth Compute technology. O'Connor wants stronger evidence that the architecture, which places processing closer to memory, can gain meaningful market traction.\nWall Street's broader view supports the preference but offers a twist. AMD carries a Strong Buy consensus with 23.9% average upside, while Qualcomm holds a Hold consensus despite 15.7% projected upside. Investors must decide whether AMD's faster growth justifies its expectations or Qualcomm's lower enthusiasm creates a better risk-reward setup.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Piper Sandler is drawing a clear line between two semiconductor stocks, recommending Advanced Micro Devices (NASDAQ:AMD) while taking a more cautious stance on Qualcomm (QCOM).",
+      "Analyst David O'Connor initiated AMD with a Buy rating and $600 price target, implying 15.1% upside. He started Qualcomm at Hold with a $190 target, representing 7.7% upside. The split reflects stronger AI-driven growth expectations for AMD and concerns that Qualcomm's future data-center success is already priced into its shares.",
+      "Why Piper Sandler Prefers AMD Stock",
+      "O'Connor expects agentic AI to create more demand for server computing, benefiting AMD's EPYC processors as businesses deploy increasingly autonomous workloads. He also sees the company's Helios platform gaining traction with large customers including OpenAI, Meta Platforms (META) and Anthropic.",
+      "Piper Sandler projects AMD revenue growing roughly 50% annually through fiscal 2030, with earnings per share expanding even faster. The $600 target applies a 24-times multiple to estimated fiscal 2028 earnings, reflecting confidence that CPUs and GPUs can drive a multiyear growth cycle.",
+      "Qualcomm still has a credible AI opportunity. O'Connor expects its custom chips, accelerators and server processors to win hyperscaler designs that contribute through fiscal 2029. Data-center products could generate around 26% of revenue by then, while handsets may fall to approximately half of operating profit.",
+      "The problem is valuation. Piper Sandler believes investors already credit Qualcomm for much of that potential before the company has demonstrated broad adoption of its High Bandwidth Compute technology. O'Connor wants stronger evidence that the architecture, which places processing closer to memory, can gain meaningful market traction.",
+      "Wall Street's broader view supports the preference but offers a twist. AMD carries a Strong Buy consensus with 23.9% average upside, while Qualcomm holds a Hold consensus despite 15.7% projected upside. Investors must decide whether AMD's faster growth justifies its expectations or Qualcomm's lower enthusiasm creates a better risk-reward setup."
+    ],
+    "html": null
+  }
+}

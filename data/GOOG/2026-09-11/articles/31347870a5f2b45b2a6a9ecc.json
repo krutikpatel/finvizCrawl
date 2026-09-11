@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/weekly-lab-notes-week-compute-111115496.html",
+    "fetched_at": "2026-09-11T07:00:27.376709-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Weekly Lab Notes: The Week the Compute Landlord Thesis Went Global",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The compute landlord thesis has officially outgrown its domestic borders. What began as a race to secure domestic data center capacity has evolved into a global scramble for energy sovereignty, vertical distribution control, and the architectural bypass of a fractured supply chain. This week's activity reveals a landscape where the physical constraints of AI — power, silicon, and distribution — are forcing a fundamental restructuring of how capital and influence flow across borders.\nGoogle's €13B investment in Finland marks a pivotal shift toward sovereign AI infrastructure. By securing a 22-year power purchase agreement with the Fortum Loviisa nuclear plant, as detailed in the official press release, Google is no longer just a tenant of the grid; it is becoming a steward of national energy capacity. This is the compute landlord thesis moving into the European theater, where the ability to guarantee power is now as critical as the ability to procure GPUs.\nWhile Google secures the power, NVIDIA's reported $12.9B acquisition of Hugging Face represents a move to control the distribution layer. Hugging Face serves as the primary conduit for open-weight models, including those from Chinese developers like Qwen and DeepSeek, which currently account for 61% of tokens consumed on OpenRouter, according to the platform's State of Open Models report. NVIDIA would effectively own the gatekeeper of model distribution, creating a geopolitical choke point that bridges the gap between hardware manufacturing and software deployment.\nThis consolidation is occurring against a backdrop of extreme structural uncertainty, best exemplified by the $13.3B annual commitment from an undisclosed tenant at SpaceX. With total ARR for the hosting unit now reaching approximately $41B across four pillars — Anthropic, Google, Reflection AI, and the new mystery customer — the identity of this tenant remains the most significant unknown in the compute market. The sheer scale of this capital allocation, coupled with 90-day termination clauses starting in 2027, suggests a high-stakes, volatile environment where the landlord holds all the leverage.\nThe friction in this system is most visible in the Chinese AI chip market, where prices for Huawei and Cambricon hardware are surging by 20% to 50%. This is not merely inflation; it is the cost of a bifurcated supply chain. US export controls have forced Chinese manufacturers into grey-market high-bandwidth memory channels, driving up costs and creating a distinct, isolated ecosystem. The Huawei Ascend 950DT now carries an indicated price above 250,000 yuan — roughly $37,000 per accelerator — while Cambricon's forthcoming 690 chip has been repriced 20% to 30% higher than quotes from just two months earlier.",
+    "text_blocks": [
+      "The compute landlord thesis has officially outgrown its domestic borders. What began as a race to secure domestic data center capacity has evolved into a global scramble for energy sovereignty, vertical distribution control, and the architectural bypass of a fractured supply chain. This week's activity reveals a landscape where the physical constraints of AI — power, silicon, and distribution — are forcing a fundamental restructuring of how capital and influence flow across borders.",
+      "Google's €13B investment in Finland marks a pivotal shift toward sovereign AI infrastructure. By securing a 22-year power purchase agreement with the Fortum Loviisa nuclear plant, as detailed in the official press release, Google is no longer just a tenant of the grid; it is becoming a steward of national energy capacity. This is the compute landlord thesis moving into the European theater, where the ability to guarantee power is now as critical as the ability to procure GPUs.",
+      "While Google secures the power, NVIDIA's reported $12.9B acquisition of Hugging Face represents a move to control the distribution layer. Hugging Face serves as the primary conduit for open-weight models, including those from Chinese developers like Qwen and DeepSeek, which currently account for 61% of tokens consumed on OpenRouter, according to the platform's State of Open Models report. NVIDIA would effectively own the gatekeeper of model distribution, creating a geopolitical choke point that bridges the gap between hardware manufacturing and software deployment.",
+      "This consolidation is occurring against a backdrop of extreme structural uncertainty, best exemplified by the $13.3B annual commitment from an undisclosed tenant at SpaceX. With total ARR for the hosting unit now reaching approximately $41B across four pillars — Anthropic, Google, Reflection AI, and the new mystery customer — the identity of this tenant remains the most significant unknown in the compute market. The sheer scale of this capital allocation, coupled with 90-day termination clauses starting in 2027, suggests a high-stakes, volatile environment where the landlord holds all the leverage.",
+      "The friction in this system is most visible in the Chinese AI chip market, where prices for Huawei and Cambricon hardware are surging by 20% to 50%. This is not merely inflation; it is the cost of a bifurcated supply chain. US export controls have forced Chinese manufacturers into grey-market high-bandwidth memory channels, driving up costs and creating a distinct, isolated ecosystem. The Huawei Ascend 950DT now carries an indicated price above 250,000 yuan — roughly $37,000 per accelerator — while Cambricon's forthcoming 690 chip has been repriced 20% to 30% higher than quotes from just two months earlier."
+    ],
+    "html": null
+  }
+}

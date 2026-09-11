@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-dumps-nvidia-palantir-194635018.html",
+    "fetched_at": "2026-09-11T07:00:35.296160-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMichael Burry (Trades, Portfolio) is reducing exposure across his portfolio, including his bearish options tied to Nvidia (NVDA) and Palantir (NASDAQ:PLTR), as he keeps more cash available amid changing market conditions.\nBurry said he reduced risk during September and closed out December 2026 put options on both companies rather than extending those trades. He said he would prefer to hold some cash while assessing the market through the fall.\nHis largest long holdings by position size remain Lululemon (NASDAQ:LULU), Molina Healthcare (MOH) and MercadoLibre (MELI), although he has reduced the size of his long positions. Burry said the ranking of his holdings has otherwise stayed intact.\nOn the short side, Oracle (NYSE:ORCL), Palantir and Nebius (NASDAQ:NBIS) remain his three biggest positions, followed by Nvidia and the iShares Semiconductor ETF (SOXX).\nBurry also said he is monitoring weakness in the Dollar Spot Index and expects to discuss currencies in a future post. Retail sentiment for Palantir remained bearish, while Nvidia sentiment shifted from neutral to bearish on Stocktwits.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Michael Burry (Trades, Portfolio) is reducing exposure across his portfolio, including his bearish options tied to Nvidia (NVDA) and Palantir (NASDAQ:PLTR), as he keeps more cash available amid changing market conditions.",
+      "Burry said he reduced risk during September and closed out December 2026 put options on both companies rather than extending those trades. He said he would prefer to hold some cash while assessing the market through the fall.",
+      "His largest long holdings by position size remain Lululemon (NASDAQ:LULU), Molina Healthcare (MOH) and MercadoLibre (MELI), although he has reduced the size of his long positions. Burry said the ranking of his holdings has otherwise stayed intact.",
+      "On the short side, Oracle (NYSE:ORCL), Palantir and Nebius (NASDAQ:NBIS) remain his three biggest positions, followed by Nvidia and the iShares Semiconductor ETF (SOXX).",
+      "Burry also said he is monitoring weakness in the Dollar Spot Index and expects to discuss currencies in a future post. Retail sentiment for Palantir remained bearish, while Nvidia sentiment shifted from neutral to bearish on Stocktwits."
+    ],
+    "html": null
+  }
+}

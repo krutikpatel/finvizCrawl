@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-jumps-ai-infrastructure-121115830.html",
+    "fetched_at": "2026-09-11T07:00:24.397471-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Stock Jumps as AI Infrastructure Revenue Soars 121%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (ORCL) shares jumped about 4% as the software company raised its full-year revenue forecast and highlighted growing demand for its AI infrastructure.\nOracle reported record first-quarter revenue of $19.3 billion, up 30% from a year earlier. Cloud infrastructure revenue climbed 121% to $7.4 billion, while non-GAAP earnings per share reached $1.92.\nThe company said it delivered 850 megawatts of AI capacity containing more than 300,000 GPUs to customers since the end of the prior quarter. Oracle also closed more than $30 billion in additional AI contracts during the period without raising additional capital.\nFor the second quarter, management expects revenue growth of 30% to 34% and adjusted EPS of $1.85 to $1.93. Full-year revenue is now projected at at least $90 billion, while non-GAAP EPS guidance increased to $8.10 from $8.05.\nOracle's AI expansion is requiring heavy investment. Capital expenditures reached $28 billion in the quarter, resulting in negative free cash flow of $5 billion, with full-year spending expected at $90 billion to $95 billion.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (ORCL) shares jumped about 4% as the software company raised its full-year revenue forecast and highlighted growing demand for its AI infrastructure.",
+      "Oracle reported record first-quarter revenue of $19.3 billion, up 30% from a year earlier. Cloud infrastructure revenue climbed 121% to $7.4 billion, while non-GAAP earnings per share reached $1.92.",
+      "The company said it delivered 850 megawatts of AI capacity containing more than 300,000 GPUs to customers since the end of the prior quarter. Oracle also closed more than $30 billion in additional AI contracts during the period without raising additional capital.",
+      "For the second quarter, management expects revenue growth of 30% to 34% and adjusted EPS of $1.85 to $1.93. Full-year revenue is now projected at at least $90 billion, while non-GAAP EPS guidance increased to $8.10 from $8.05.",
+      "Oracle's AI expansion is requiring heavy investment. Capital expenditures reached $28 billion in the quarter, resulting in negative free cash flow of $5 billion, with full-year spending expected at $90 billion to $95 billion."
+    ],
+    "html": null
+  }
+}

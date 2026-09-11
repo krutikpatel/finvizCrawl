@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/8246d2ab-4e1e-3842-af9f-5d5cbf12924c/microsoft-eyes-massive-data.html",
+    "fetched_at": "2026-09-11T07:00:30.009051-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Eyes Massive Data Center Push To Triple Computing Power And Solve Capacity Bottlenecks, Says Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft Eyes Massive Data Center Push To Triple Computing Power And Solve Capacity Bottlenecks, Says Report\n-\nMicrosoft aims to expand its total compute capacity from roughly 12 gigawatts today to more than 38 gigawatts by 2032 across owned and leased facilities.\n-\nSevere hardware constraints recently forced the tech giant to turn away cloud and AI clients, restrict subscriptions, and face service disruptions.\n-\nMicrosoft projects AI-dedicated capacity to grow from 2 gigawatts now to about one-third of the total 38-gigawatt footprint by 2032.\nMicrosoft Corp. (MSFT) is preparing a major expansion of its global data center capacity, aiming to more than triple its current computing footprint to alleviate severe server shortages, Bloomberg reported.\nThe plan calls for the tech giant's network of facilities to surpass 38 gigawatts of total power capacity by 2032, up from approximately 12 gigawatts now, according to sources familiar with the matter cited by Bloomberg.\nThe roadmap incorporates both company-owned data centers and leased facilities, while excluding rented capacity from niche cloud providers, the report noted.\nMSFT stock ended Thursday 0.2% higher, but slipped about 0.5% after-hours.\nConfronting Capacity Bottlenecks\nThe aggressive build-out follows a period of severe server deficits. Microsoft's capacity challenges worsened after executives temporarily paused select data center developments around early 2025 because of concerns about potential overbuilding.\nThe resulting shortages left internal sales teams unable to meet demand for cloud and AI products, forcing some high-profile clients to seek alternatives. E-commerce retailer Temu, for example, signed a major cloud deal with Oracle Corp. (ORCL) last year after Microsoft could not supply required capacity in preferred regions, Bloomberg reported.\nHardware limits have also affected existing services. In August, developer platform GitHub suffered an eight-hour outage tied to server constraints, prompting it to route U.S. traffic through overseas facilities and rely on rival infrastructure like Amazon Web Services. Additionally, Microsoft's Xbox unit recently notified subscribers that it will cap cloud game streaming time.\nStrategic Allocation And AI Expansion\nTo resolve the bottlenecks, particularly in heavy-use hubs like Virginia, Microsoft is bringing new facilities online, including its multi-billion-dollar \"East US 3\" cluster near Atlanta. The site relies heavily on central processing units (CPUs) from Intel Corp.(INTC) rather than graphics processing units (GPUs), which are typically used for AI model training.",
+    "text_blocks": [
+      "Microsoft Eyes Massive Data Center Push To Triple Computing Power And Solve Capacity Bottlenecks, Says Report",
+      "-",
+      "Microsoft aims to expand its total compute capacity from roughly 12 gigawatts today to more than 38 gigawatts by 2032 across owned and leased facilities.",
+      "-",
+      "Severe hardware constraints recently forced the tech giant to turn away cloud and AI clients, restrict subscriptions, and face service disruptions.",
+      "-",
+      "Microsoft projects AI-dedicated capacity to grow from 2 gigawatts now to about one-third of the total 38-gigawatt footprint by 2032.",
+      "Microsoft Corp. (MSFT) is preparing a major expansion of its global data center capacity, aiming to more than triple its current computing footprint to alleviate severe server shortages, Bloomberg reported.",
+      "The plan calls for the tech giant's network of facilities to surpass 38 gigawatts of total power capacity by 2032, up from approximately 12 gigawatts now, according to sources familiar with the matter cited by Bloomberg.",
+      "The roadmap incorporates both company-owned data centers and leased facilities, while excluding rented capacity from niche cloud providers, the report noted.",
+      "MSFT stock ended Thursday 0.2% higher, but slipped about 0.5% after-hours.",
+      "Confronting Capacity Bottlenecks",
+      "The aggressive build-out follows a period of severe server deficits. Microsoft's capacity challenges worsened after executives temporarily paused select data center developments around early 2025 because of concerns about potential overbuilding.",
+      "The resulting shortages left internal sales teams unable to meet demand for cloud and AI products, forcing some high-profile clients to seek alternatives. E-commerce retailer Temu, for example, signed a major cloud deal with Oracle Corp. (ORCL) last year after Microsoft could not supply required capacity in preferred regions, Bloomberg reported.",
+      "Hardware limits have also affected existing services. In August, developer platform GitHub suffered an eight-hour outage tied to server constraints, prompting it to route U.S. traffic through overseas facilities and rely on rival infrastructure like Amazon Web Services. Additionally, Microsoft's Xbox unit recently notified subscribers that it will cap cloud game streaming time.",
+      "Strategic Allocation And AI Expansion",
+      "To resolve the bottlenecks, particularly in heavy-use hubs like Virginia, Microsoft is bringing new facilities online, including its multi-billion-dollar \"East US 3\" cluster near Atlanta. The site relies heavily on central processing units (CPUs) from Intel Corp.(INTC) rather than graphics processing units (GPUs), which are typically used for AI model training."
+    ],
+    "html": null
+  }
+}

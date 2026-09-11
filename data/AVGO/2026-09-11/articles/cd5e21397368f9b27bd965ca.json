@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/qualcomm-chip-deal-samsung-hits-120833823.html",
+    "fetched_at": "2026-09-11T07:00:32.743805-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm Chip Deal With Samsung Hits a Major Pricing Snag",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nQualcomm (NASDAQ:QCOM) and Samsung Electronics are struggling to finalize terms for a potential 2nm chip manufacturing arrangement, with pricing emerging as a key obstacle in the discussions.\nQualcomm is seeking more competitive manufacturing costs, while Samsung appears less willing to reduce pricing as it builds its advanced foundry business around larger customer commitments. The disagreement could delay production of Qualcomm's next-generation chips until 2027.\nThe timing could matter for Samsung's efforts to rebuild its relationship with Qualcomm. The companies have worked together on advanced processors in the past, but Qualcomm shifted some production away from Samsung after 2021. A new agreement could help Samsung regain part of that business.\nSamsung's expanding customer base may also be affecting its negotiating position. The company agreed in July to a multiyear AI-chip arrangement with Broadcom worth more than $200 billion through 2030, covering advanced manufacturing and packaging technologies.\nThe discussions could still lead to Qualcomm using Samsung's 2nm process for future application processors. Neither company had issued an official statement on the reported delay.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Qualcomm (NASDAQ:QCOM) and Samsung Electronics are struggling to finalize terms for a potential 2nm chip manufacturing arrangement, with pricing emerging as a key obstacle in the discussions.",
+      "Qualcomm is seeking more competitive manufacturing costs, while Samsung appears less willing to reduce pricing as it builds its advanced foundry business around larger customer commitments. The disagreement could delay production of Qualcomm's next-generation chips until 2027.",
+      "The timing could matter for Samsung's efforts to rebuild its relationship with Qualcomm. The companies have worked together on advanced processors in the past, but Qualcomm shifted some production away from Samsung after 2021. A new agreement could help Samsung regain part of that business.",
+      "Samsung's expanding customer base may also be affecting its negotiating position. The company agreed in July to a multiyear AI-chip arrangement with Broadcom worth more than $200 billion through 2030, covering advanced manufacturing and packaging technologies.",
+      "The discussions could still lead to Qualcomm using Samsung's 2nm process for future application processors. Neither company had issued an official statement on the reported delay."
+    ],
+    "html": null
+  }
+}

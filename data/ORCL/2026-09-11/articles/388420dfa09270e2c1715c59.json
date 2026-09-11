@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_FV",
+    "fetched_at": "2026-09-11T07:00:24.248418-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How Oracle shook off fears about AI spending, sending its stock higher - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "How Oracle shook off fears about AI spending, sending its stock higher\n‘Several of Oracle’s bear cases were addressed head on’ in the latest earnings report, according to an analyst\nAnalysts say Oracle helped dispel a string of investor concerns with its latest earnings report, and that’s being reflected in the stock’s momentum.\nWhile there’s no doubt that Oracle ORCL is growing, a key issue for investors has been the level of spending required to drive that growth. But Piper Sandler analyst Billy Fitzsimmons noted after Thursday’s report that the company opted to maintain its forecast for capital expenditures, or money put toward things like data centers and hardware. That’s significant because there were fears that management would lift its spending outlook.",
+    "text_blocks": [
+      "How Oracle shook off fears about AI spending, sending its stock higher",
+      "‘Several of Oracle’s bear cases were addressed head on’ in the latest earnings report, according to an analyst",
+      "Analysts say Oracle helped dispel a string of investor concerns with its latest earnings report, and that’s being reflected in the stock’s momentum.",
+      "While there’s no doubt that Oracle ORCL is growing, a key issue for investors has been the level of spending required to drive that growth. But Piper Sandler analyst Billy Fitzsimmons noted after Thursday’s report that the company opted to maintain its forecast for capital expenditures, or money put toward things like data centers and hardware. That’s significant because there were fears that management would lift its spending outlook."
+    ],
+    "html": null
+  }
+}

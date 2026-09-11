@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-offers-taiwan-workers-68-115655223.html",
+    "fetched_at": "2026-09-11T07:00:17.066336-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Micron Technology unveiled its largest bonus package in company history on Friday, offering Taiwan employees payouts worth 35 to 68 months of salary for fiscal 2026, with a minimum cash floor of NT$1.7 million (US$53,809), according to Reuters.\nMicron (NASDAQ: MU), the world's third-largest memory chipmaker, relies on Taiwan for roughly 60% of its global production capacity, including the high-bandwidth memory (HBM) chips powering AI servers sold to customers such as Nvidia, Google, and Microsoft. Any production disruption at its Taoyuan and Taichung facilities would ripple directly through global DRAM and HBM supply chains, making the resolution of this labor dispute a material risk for the stock.\nThe package includes a one-time NT$1 million (US$31,652) cash appreciation bonus for every Taiwan employee who joined before August 29, 2025, with pro-rated amounts for those hired during the fiscal year, according to Focus Taiwan. Entry-level engineers are expected to receive average total cash compensation of NT$2.9 million, rising to NT$3.4 million when equity grants are included. Micron said the rewards — covering more than 60,000 employees globally — reflect record profits after the company posted fiscal Q3 2026 revenue of US$41.46 billion, up 346% year-on-year.\nFor investors sizing up the earnings impact, applying the NT$1.7 million minimum to Micron's approximately 15,000 Taiwan workers implies a floor cost of roughly NT$25.5 billion (approximately US$808 million) for the Taiwan workforce alone, before accounting for higher payouts to more senior employees or the global component of the program. That figure does not include equity grants, which would add to the total compensation charge.\nDespite the headline-grabbing figures, the announcement has not resolved the underlying dispute. Unions representing roughly two-thirds of Micron's approximately 15,000 Taiwan workers had signaled strong support for a strike after more than 80% of members backed industrial action in an August survey, per TrendForce. The Micron Wafer Union and Micron Memory Union, covering workers at both the Taoyuan and Taichung sites, are demanding a one-time bonus equivalent to approximately 83 months of salary for fiscal 2026, meaningfully above Micron's offer, plus a structural reform: institutionalized profit-sharing set at 15% of operating profit from fiscal 2027 onward, according to Yahoo Finance. The unions argue that Micron's Incentive Pay Plan is less transparent and pays substantially less than the profit-based systems at Samsung and SK Hynix.",
+    "text_blocks": [
+      "Investing.com -- Micron Technology unveiled its largest bonus package in company history on Friday, offering Taiwan employees payouts worth 35 to 68 months of salary for fiscal 2026, with a minimum cash floor of NT$1.7 million (US$53,809), according to Reuters.",
+      "Micron (NASDAQ: MU), the world's third-largest memory chipmaker, relies on Taiwan for roughly 60% of its global production capacity, including the high-bandwidth memory (HBM) chips powering AI servers sold to customers such as Nvidia, Google, and Microsoft. Any production disruption at its Taoyuan and Taichung facilities would ripple directly through global DRAM and HBM supply chains, making the resolution of this labor dispute a material risk for the stock.",
+      "The package includes a one-time NT$1 million (US$31,652) cash appreciation bonus for every Taiwan employee who joined before August 29, 2025, with pro-rated amounts for those hired during the fiscal year, according to Focus Taiwan. Entry-level engineers are expected to receive average total cash compensation of NT$2.9 million, rising to NT$3.4 million when equity grants are included. Micron said the rewards — covering more than 60,000 employees globally — reflect record profits after the company posted fiscal Q3 2026 revenue of US$41.46 billion, up 346% year-on-year.",
+      "For investors sizing up the earnings impact, applying the NT$1.7 million minimum to Micron's approximately 15,000 Taiwan workers implies a floor cost of roughly NT$25.5 billion (approximately US$808 million) for the Taiwan workforce alone, before accounting for higher payouts to more senior employees or the global component of the program. That figure does not include equity grants, which would add to the total compensation charge.",
+      "Despite the headline-grabbing figures, the announcement has not resolved the underlying dispute. Unions representing roughly two-thirds of Micron's approximately 15,000 Taiwan workers had signaled strong support for a strike after more than 80% of members backed industrial action in an August survey, per TrendForce. The Micron Wafer Union and Micron Memory Union, covering workers at both the Taoyuan and Taichung sites, are demanding a one-time bonus equivalent to approximately 83 months of salary for fiscal 2026, meaningfully above Micron's offer, plus a structural reform: institutionalized profit-sharing set at 15% of operating profit from fiscal 2027 onward, according to Yahoo Finance. The unions argue that Micron's Incentive Pay Plan is less transparent and pays substantially less than the profit-based systems at Samsung and SK Hynix."
+    ],
+    "html": null
+  }
+}

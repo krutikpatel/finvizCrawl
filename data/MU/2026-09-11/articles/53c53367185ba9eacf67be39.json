@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/e2476e1b-5101-3df6-8d03-022bdb981a2a/sk-hynix%2C-samsung-shares-dip.html",
+    "fetched_at": "2026-09-11T07:00:17.078107-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SK Hynix, Samsung Shares Dip In Korea After DeepSeek Debuts AI Tech That Uses Less Memory – Micron, SanDisk Hold Up",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SK Hynix, Samsung Shares Dip In Korea After DeepSeek Debuts AI Tech That Uses Less Memory – Micron, SanDisk Hold Up\n-\nDeepSeek says its latest model cuts HBM and SSD requirements through a more efficient architecture.\n-\nSamsung and SK Hynix face renewed pressure as investors weigh the long-term memory demand outlook.\n-\nRetail traders remain divided, with some calling the selloff a buying opportunity and others flagging lower AI flash demand.\nSamsung Electronics and SK Hynix shares plunged more than 3% in Seoul on Friday, even as Micron Technology and SanDisk shares held in positive territory in overnight U.S. trading, after Chinese AI startup DeepSeek said its latest model requires significantly less high-bandwidth memory (HBM).\nThe development has reignited concerns about whether AI's surging appetite for memory chips can continue at its current pace. DeepSeek said Thursday that its new V4.1 Flash model uses a more efficient architecture and has reduced its KV cache, lowering the amount of HBM and solid-state storage needed to run the model.\nThat matters because HBM is already in high demand, with its costs rising sharply. The memory technology is critical for the high-performance GPUs and accelerators used to train and run AI models, helping drive a prolonged shortage and boosting earnings expectations for companies including SK Hynix, Samsung and Micron.\nDeepSeek's latest move adds a new risk: if AI models become substantially more memory-efficient, the amount of memory required for each unit of AI computing could decline over time. That could eventually weaken a key demand driver for the memory industry, even as AI usage continues to expand.\nDeepSeek Unveils V4.1 Flash\nThe startup unveiled V4.1 Flash on Thursday at sharply lower prices. Its new architecture reportedly activates only a small portion of its 552-billion-parameter model at any given time. DeepSeek plans to retire its V4-Pro from Sept. 14, automatically routing inference tasks to the cheaper Flash model.\nFor South Korean memory stocks, the announcement comes as sentiment has begun to recover after July's steep selloff. Samsung and SK Hynix remain more than 25% below their record highs, while retail investors have sold more than $10 billion of the two stocks this month, according to the reports.\nShares of MiniMax Group and Z.AI plunged more than 8% in Hong Kong on Friday.\nRetail View On Memory Stocks\nOn Stocktwits, the retail sentiment was 'neutral' for SKHY and 'bearish' for MU and SNDK.\n\"$MU interest rates, CPI, Oil, inflation- none of it matters here. NVDA and the other hyperscalers have tons of cash and they NEED all the memory they can get. Buy the dips they are gifts,\" a trader said.",
+    "text_blocks": [
+      "SK Hynix, Samsung Shares Dip In Korea After DeepSeek Debuts AI Tech That Uses Less Memory – Micron, SanDisk Hold Up",
+      "-",
+      "DeepSeek says its latest model cuts HBM and SSD requirements through a more efficient architecture.",
+      "-",
+      "Samsung and SK Hynix face renewed pressure as investors weigh the long-term memory demand outlook.",
+      "-",
+      "Retail traders remain divided, with some calling the selloff a buying opportunity and others flagging lower AI flash demand.",
+      "Samsung Electronics and SK Hynix shares plunged more than 3% in Seoul on Friday, even as Micron Technology and SanDisk shares held in positive territory in overnight U.S. trading, after Chinese AI startup DeepSeek said its latest model requires significantly less high-bandwidth memory (HBM).",
+      "The development has reignited concerns about whether AI's surging appetite for memory chips can continue at its current pace. DeepSeek said Thursday that its new V4.1 Flash model uses a more efficient architecture and has reduced its KV cache, lowering the amount of HBM and solid-state storage needed to run the model.",
+      "That matters because HBM is already in high demand, with its costs rising sharply. The memory technology is critical for the high-performance GPUs and accelerators used to train and run AI models, helping drive a prolonged shortage and boosting earnings expectations for companies including SK Hynix, Samsung and Micron.",
+      "DeepSeek's latest move adds a new risk: if AI models become substantially more memory-efficient, the amount of memory required for each unit of AI computing could decline over time. That could eventually weaken a key demand driver for the memory industry, even as AI usage continues to expand.",
+      "DeepSeek Unveils V4.1 Flash",
+      "The startup unveiled V4.1 Flash on Thursday at sharply lower prices. Its new architecture reportedly activates only a small portion of its 552-billion-parameter model at any given time. DeepSeek plans to retire its V4-Pro from Sept. 14, automatically routing inference tasks to the cheaper Flash model.",
+      "For South Korean memory stocks, the announcement comes as sentiment has begun to recover after July's steep selloff. Samsung and SK Hynix remain more than 25% below their record highs, while retail investors have sold more than $10 billion of the two stocks this month, according to the reports.",
+      "Shares of MiniMax Group and Z.AI plunged more than 8% in Hong Kong on Friday.",
+      "Retail View On Memory Stocks",
+      "On Stocktwits, the retail sentiment was 'neutral' for SKHY and 'bearish' for MU and SNDK.",
+      "\"$MU interest rates, CPI, Oil, inflation- none of it matters here. NVDA and the other hyperscalers have tons of cash and they NEED all the memory they can get. Buy the dips they are gifts,\" a trader said."
+    ],
+    "html": null
+  }
+}

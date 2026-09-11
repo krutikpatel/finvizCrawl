@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-cfo-sends-bold-message-121945775.html",
+    "fetched_at": "2026-09-11T07:00:27.517132-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX CFO Sends Bold Message to Investors After $1.11 Billion AI Deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSpaceX (SPCX) expects a new AI computing contract to add about $1.11 billion in monthly revenue from December, increasing management's confidence in reaching a $100 billion annual revenue run rate.\nCFO Bret Johnsen said the agreement with an undisclosed customer would equal roughly $13 billion on a full-year annualized basis. The target, however, refers to a revenue pace rather than $100 billion of reported 2026 sales.\nSpaceX generated $7.8 billion in second-quarter revenue, or about $2.6 billion monthly. Reaching the $100 billion annual pace would require monthly revenue of about $8.3 billion. The company also has a $6.7 billion cloud-services contract scheduled to ramp in October, while AI computing arrangements with Google (GOOG) and Anthropic are generating more than $2 billion monthly.\nJohnsen said SpaceX expects slightly more than two gigawatts of terrestrial AI capacity by year-end and is targeting five to 10 gigawatts in 2027. The company is also exploring orbital computing as power constraints grow on Earth.\nThe revenue goal depends on contract ramp-ups, meaning delays or slower deployment could leave SpaceX below the targeted pace.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SpaceX (SPCX) expects a new AI computing contract to add about $1.11 billion in monthly revenue from December, increasing management's confidence in reaching a $100 billion annual revenue run rate.",
+      "CFO Bret Johnsen said the agreement with an undisclosed customer would equal roughly $13 billion on a full-year annualized basis. The target, however, refers to a revenue pace rather than $100 billion of reported 2026 sales.",
+      "SpaceX generated $7.8 billion in second-quarter revenue, or about $2.6 billion monthly. Reaching the $100 billion annual pace would require monthly revenue of about $8.3 billion. The company also has a $6.7 billion cloud-services contract scheduled to ramp in October, while AI computing arrangements with Google (GOOG) and Anthropic are generating more than $2 billion monthly.",
+      "Johnsen said SpaceX expects slightly more than two gigawatts of terrestrial AI capacity by year-end and is targeting five to 10 gigawatts in 2027. The company is also exploring orbital computing as power constraints grow on Earth.",
+      "The revenue goal depends on contract ramp-ups, meaning delays or slower deployment could leave SpaceX below the targeted pace."
+    ],
+    "html": null
+  }
+}
