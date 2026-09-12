@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stays-flat-68-month-181517768.html",
+    "fetched_at": "2026-09-12T07:00:15.288538-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stays Flat as 68-Month Bonuses Fail to End Strike Risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRecord employee payouts did little to defuse Micron Technology's Taiwan labor standoff Friday. Micron (NASDAQ:MU), the memory-chip manufacturer powering AI data centers, traded at $979.37, as local employees prepared to receive rewards worth 35 to 68 months of salary.\nThe company employs about 15,000 people in Taiwan, representing one-quarter of the more than 60,000 workers receiving fiscal 2026 rewards worldwide. Yet unions representing roughly 10,000 Taiwanese employees are still threatening to strike as they pursue a bonus pool equivalent to 15% of operating profit. The checks are enormous. The dispute is not over.\nMicron can afford generosity. Its third-quarter filing reported $41.46 billion in revenue, an 80.4% operating margin and $18.3 billion in adjusted free cash flow, while investment in Taiwan has surpassed T$1.6 trillion. The chart adds a valuation warning: Micron's $979.37 share price stands 55.7% above its $629.03 GF Value estimate. Record rewards may help retain scarce talent, but only a labor agreement can clear the production risk hanging over critical AI-memory supply.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Record employee payouts did little to defuse Micron Technology's Taiwan labor standoff Friday. Micron (NASDAQ:MU), the memory-chip manufacturer powering AI data centers, traded at $979.37, as local employees prepared to receive rewards worth 35 to 68 months of salary.",
+      "The company employs about 15,000 people in Taiwan, representing one-quarter of the more than 60,000 workers receiving fiscal 2026 rewards worldwide. Yet unions representing roughly 10,000 Taiwanese employees are still threatening to strike as they pursue a bonus pool equivalent to 15% of operating profit. The checks are enormous. The dispute is not over.",
+      "Micron can afford generosity. Its third-quarter filing reported $41.46 billion in revenue, an 80.4% operating margin and $18.3 billion in adjusted free cash flow, while investment in Taiwan has surpassed T$1.6 trillion. The chart adds a valuation warning: Micron's $979.37 share price stands 55.7% above its $629.03 GF Value estimate. Record rewards may help retain scarce talent, but only a labor agreement can clear the production risk hanging over critical AI-memory supply."
+    ],
+    "html": null
+  }
+}

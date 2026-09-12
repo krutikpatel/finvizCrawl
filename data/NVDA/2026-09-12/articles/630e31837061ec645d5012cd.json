@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cisco-jumps-over-3-7-211127351.html",
+    "fetched_at": "2026-09-12T07:00:38.296375-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cisco Jumps Over 3.7% While Huang Calls Cybersecurity AI's Next Blockbuster",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCisco Systems (NASDAQ:CSCO), the networking and cybersecurity giant, surged approximately 3.7% to $111.45 Friday after Nvidia CEO Jensen Huang highlighted cybersecurity as AI's next major opportunity and identified Cisco among Nvidia's partners.\nBusiness Insider reported that Huang sees cybersecurity following AI coding because digital defenses must stay active around the clocknot wait for a prompt. Cisco is already riding the infrastructure boom, recording $9.3 billion in fiscal 2026 AI orders, including $4 billion in its fourth quarter. Quarterly revenue climbed to $17.25 billion from $14.67 billion a year earlier.\nThe picture adds a sharp valuation warning: Cisco's $111.45 share price stands 49.98% above its $74.31 GF Value estimate. Cybersecurity could layer attractive recurring software revenue onto Cisco's expanding AI-hardware base, but Huang's endorsement is not a sales contract. The next test is executionturning Cisco's position inside AI networks into paid protection for the data and workloads moving through them.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Cisco Systems (NASDAQ:CSCO), the networking and cybersecurity giant, surged approximately 3.7% to $111.45 Friday after Nvidia CEO Jensen Huang highlighted cybersecurity as AI's next major opportunity and identified Cisco among Nvidia's partners.",
+      "Business Insider reported that Huang sees cybersecurity following AI coding because digital defenses must stay active around the clocknot wait for a prompt. Cisco is already riding the infrastructure boom, recording $9.3 billion in fiscal 2026 AI orders, including $4 billion in its fourth quarter. Quarterly revenue climbed to $17.25 billion from $14.67 billion a year earlier.",
+      "The picture adds a sharp valuation warning: Cisco's $111.45 share price stands 49.98% above its $74.31 GF Value estimate. Cybersecurity could layer attractive recurring software revenue onto Cisco's expanding AI-hardware base, but Huang's endorsement is not a sales contract. The next test is executionturning Cisco's position inside AI networks into paid protection for the data and workloads moving through them."
+    ],
+    "html": null
+  }
+}

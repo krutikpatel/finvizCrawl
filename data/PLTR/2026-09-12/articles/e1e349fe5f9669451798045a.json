@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stalls-225-target-demands-182330342.html",
+    "fetched_at": "2026-09-12T07:00:35.741998-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir Stalls as a $225 Target Demands 36% Upside",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies (NASDAQ:PLTR), the artificial-intelligence and data-platform company, reversed an early 0.6% gain and traded at $166.68 Friday. Rosenblatt reiterated its Buy rating and $225 price target after Palantir's 11th customer forum, pointing to roughly 35% upside from the price shown. The picture also places Palantir 5.72% below its GF Value estimate of $176.79, suggesting modest near-term upside despite the stock's demanding valuation.\nThe event delivered the evidence investors wanted: Palantir's AI software is moving beyond demonstrations and into real operations. Customers highlighted deployments across industrial supply chains and U.S. Army targeting systems. That adoption follows second-quarter revenue growth of 93% to $1.94 billion, while management expects approximately $8.15 billion in full-year revenue and at least 134% growth from its U.S. commercial business.\nThe catch is the price investors must pay for that momentum. Palantir's roughly $426 billion market capitalization represents more than 52 times the midpoint of management's annual revenue outlook. Explosive growth can defend an extraordinary multiplebut only if these production deployments keep multiplying. The customer forum strengthened the bull case, yet Palantir still has almost no room for execution errors.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies (NASDAQ:PLTR), the artificial-intelligence and data-platform company, reversed an early 0.6% gain and traded at $166.68 Friday. Rosenblatt reiterated its Buy rating and $225 price target after Palantir's 11th customer forum, pointing to roughly 35% upside from the price shown. The picture also places Palantir 5.72% below its GF Value estimate of $176.79, suggesting modest near-term upside despite the stock's demanding valuation.",
+      "The event delivered the evidence investors wanted: Palantir's AI software is moving beyond demonstrations and into real operations. Customers highlighted deployments across industrial supply chains and U.S. Army targeting systems. That adoption follows second-quarter revenue growth of 93% to $1.94 billion, while management expects approximately $8.15 billion in full-year revenue and at least 134% growth from its U.S. commercial business.",
+      "The catch is the price investors must pay for that momentum. Palantir's roughly $426 billion market capitalization represents more than 52 times the midpoint of management's annual revenue outlook. Explosive growth can defend an extraordinary multiplebut only if these production deployments keep multiplying. The customer forum strengthened the bull case, yet Palantir still has almost no room for execution errors."
+    ],
+    "html": null
+  }
+}

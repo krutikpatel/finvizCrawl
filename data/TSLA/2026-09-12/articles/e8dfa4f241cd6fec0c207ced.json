@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-gains-semi-opens-17-211218178.html",
+    "fetched_at": "2026-09-12T07:00:06.621833-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla Gains as Semi Opens a $17 Billion Software Door",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nDiesel prices nearing $6 a gallon sharpened the financial case for Teslas electric truck Friday. Tesla (NASDAQ:TSLA), the electric-vehicle and artificial-intelligence company, climbed approximately 0.7% to $365.865 as Morgan Stanley argued that investors may be overlooking the Semis potential contribution to earnings.\nThe firm estimates that a fully autonomous Semi could command a Full Self-Driving subscription of $12,000 to $18,000 per monthfar above the roughly $100 charged for consumer vehicles. Its 2040 scenario includes 82,000 Semis generating $17 billion in subscription revenue and $7.5 billion in earnings before interest and taxes. Tesla began volume production in May and is targeting annual capacity of 50,000 trucks.\nThose projections point to a striking EBIT margin of roughly 44%, making autonomous software the real prizenot truck sales alone. The picture shows Tesla trading 9.62% above its GF Value of $333.77, suggesting investors already pay a premium for that future potential. Expensive diesel strengthens the pitch today, but Tesla must still deliver commercial heavy-truck autonomy to turn Morgan Stanleys $17 billion vision into an actual business.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Diesel prices nearing $6 a gallon sharpened the financial case for Teslas electric truck Friday. Tesla (NASDAQ:TSLA), the electric-vehicle and artificial-intelligence company, climbed approximately 0.7% to $365.865 as Morgan Stanley argued that investors may be overlooking the Semis potential contribution to earnings.",
+      "The firm estimates that a fully autonomous Semi could command a Full Self-Driving subscription of $12,000 to $18,000 per monthfar above the roughly $100 charged for consumer vehicles. Its 2040 scenario includes 82,000 Semis generating $17 billion in subscription revenue and $7.5 billion in earnings before interest and taxes. Tesla began volume production in May and is targeting annual capacity of 50,000 trucks.",
+      "Those projections point to a striking EBIT margin of roughly 44%, making autonomous software the real prizenot truck sales alone. The picture shows Tesla trading 9.62% above its GF Value of $333.77, suggesting investors already pay a premium for that future potential. Expensive diesel strengthens the pitch today, but Tesla must still deliver commercial heavy-truck autonomy to turn Morgan Stanleys $17 billion vision into an actual business."
+    ],
+    "html": null
+  }
+}

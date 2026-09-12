@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bmo-tweaks-oracle-stock-price-211207388.html",
+    "fetched_at": "2026-09-12T07:00:22.901259-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "BMO Tweaks Oracle Stock Price Target After AI Risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) received a lower price target from BMO Capital despite another explosive quarter for its cloud infrastructure business, highlighting a growing investor tension around the AI trade: revenue and backlog are surging, but the economics of delivering that growth remain under scrutiny. BMO analyst Keith Bachman cut his Oracle target to $195 from $220 while maintaining an Outperform rating.\nBMO pointed to several positives following Oracle's fiscal first-quarter results, including operating cash flow, operating margins and a reasonable sequential increase in remaining performance obligations. But the bank flagged the sequential decline in gross margins as a potential investor concern and said SaaS growth was somewhat disappointing.\nOracle's underlying growth remains formidable. Fiscal first-quarter revenue jumped 30% year over year to $19.3 billion, while total cloud revenue surged 62% to $11.6 billion. Oracle Cloud Infrastructure revenue soared 121% to $7.4 billion, reflecting enormous demand for AI training and inference capacity.\nThe weaker point was cloud applications. SaaS revenue increased just 10% to $4.2 billion, creating a sharp contrast with Oracle's infrastructure acceleration.\nOracle's backlog nevertheless provides substantial revenue visibility. Remaining performance obligations reached $664 billion after the company booked more than $30 billion of additional AI cloud contracts during the quarter. Operating cash flow hit a record $23 billion, though aggressive infrastructure investment pushed free cash flow to negative $5 billion.\nInvestors Takeaway\nThe central issue is whether Oracle can convert its extraordinary AI backlog into revenue without allowing gross margins and cash generation to deteriorate materially.\nInvestors should closely watch gross-margin trends, SaaS growth and the pace at which the $664 billion RPO balance converts into sales. Oracle expects second-quarter revenue to grow 30% to 34%, with cloud revenue rising 65% to 71% in reported currency.\nContinued triple-digit infrastructure growth alongside stabilizing margins would strengthen BMO's Outperform thesis. But if AI capacity expansion keeps pressuring profitability while slower SaaS growth persists, investors may increasingly question how much of Oracle's massive backlog will ultimately translate into attractive returns.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) received a lower price target from BMO Capital despite another explosive quarter for its cloud infrastructure business, highlighting a growing investor tension around the AI trade: revenue and backlog are surging, but the economics of delivering that growth remain under scrutiny. BMO analyst Keith Bachman cut his Oracle target to $195 from $220 while maintaining an Outperform rating.",
+      "BMO pointed to several positives following Oracle's fiscal first-quarter results, including operating cash flow, operating margins and a reasonable sequential increase in remaining performance obligations. But the bank flagged the sequential decline in gross margins as a potential investor concern and said SaaS growth was somewhat disappointing.",
+      "Oracle's underlying growth remains formidable. Fiscal first-quarter revenue jumped 30% year over year to $19.3 billion, while total cloud revenue surged 62% to $11.6 billion. Oracle Cloud Infrastructure revenue soared 121% to $7.4 billion, reflecting enormous demand for AI training and inference capacity.",
+      "The weaker point was cloud applications. SaaS revenue increased just 10% to $4.2 billion, creating a sharp contrast with Oracle's infrastructure acceleration.",
+      "Oracle's backlog nevertheless provides substantial revenue visibility. Remaining performance obligations reached $664 billion after the company booked more than $30 billion of additional AI cloud contracts during the quarter. Operating cash flow hit a record $23 billion, though aggressive infrastructure investment pushed free cash flow to negative $5 billion.",
+      "Investors Takeaway",
+      "The central issue is whether Oracle can convert its extraordinary AI backlog into revenue without allowing gross margins and cash generation to deteriorate materially.",
+      "Investors should closely watch gross-margin trends, SaaS growth and the pace at which the $664 billion RPO balance converts into sales. Oracle expects second-quarter revenue to grow 30% to 34%, with cloud revenue rising 65% to 71% in reported currency.",
+      "Continued triple-digit infrastructure growth alongside stabilizing margins would strengthen BMO's Outperform thesis. But if AI capacity expansion keeps pressuring profitability while slower SaaS growth persists, investors may increasingly question how much of Oracle's massive backlog will ultimately translate into attractive returns."
+    ],
+    "html": null
+  }
+}

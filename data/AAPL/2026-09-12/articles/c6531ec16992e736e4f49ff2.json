@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/apples-ai-vision-is-tailored-for-the-moment-of-ai-panic-100000576.html",
+    "fetched_at": "2026-09-12T07:00:09.248077-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's AI vision is tailored for the moment of AI panic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Seemingly every week, a new, alarming headline seizes social feeds and forces a conversation about the dangers and future dangers of artificial intelligence.\nIt doesn't help that companies at the frontier of AI development perpetuate those fears. They incorporate them into their business models, urging people to side with them, their responsible stewardship, and their sensitivity to those dangers. That AI sales pitch is not too different from the controversial adage, \"The only thing that stops a bad guy with a gun is a good guy with a gun.\"\nAdding to the PR problem, several top AI labs are newcomers to consumer products. You might use AI chatbots or even rely on them, but do you really trust their makers? Trust is a funny concept in a world where the most intimate spaces and moments of our lives are digitized, searchable, and permanently recorded. (Unless your data storage runs out!)\nThat makes Apple's slow-roll AI strategy all the more appealing.\nSure, Cupertino isn't feeding off the AI hype cycle like Anthropic (ANTH.PVT) or OpenAI (OPAI.PVT). But in the years since ChatGPT arrived, Apple has proven it doesn't need to — as the consumer AI pitch is markedly different from its enterprise counterpart. And slower paced.\nIts distance from the parade of embarrassments, controversies, and AI doomsday narratives has helped the stock. And by forfeiting the first few rounds of the tech world's AI brawl (whether by design or organizational failure), Apple has burnished its reputation. Meanwhile, other tech companies look beaten up.\nDistrustful of rogue agents and concerned about apocalyptic AI takeovers, consumers want to turn to a tech company they can trust. And as the keynote this week underscored, that's core to Apple's brand.\nThe company's focus on on-device AI plays off those concerns.\nSiri AI integrates with the rest of your phone, seamlessly drawing from other apps to research and complete tasks. Apple users can tap into more powerful cloud models, but the key idea for Apple's next generation of smartphones and its reintroduction of Apple Intelligence is that your AI should center around your personal wants and needs, which is another way of saying your iPhone.\nThe iPhone becoming the ultimate conduit for interacting with AI works on two levels: To Wall Street, it solidifies and expands Apple's Walled Garden to include and subsume the AI transition. Apple ruled over the app economy of the 2000s. The apps are different now and will continue to change in the AI era. But Apple devices will remain the alpha platform and essential consumer portal.",
+    "text_blocks": [
+      "Seemingly every week, a new, alarming headline seizes social feeds and forces a conversation about the dangers and future dangers of artificial intelligence.",
+      "It doesn't help that companies at the frontier of AI development perpetuate those fears. They incorporate them into their business models, urging people to side with them, their responsible stewardship, and their sensitivity to those dangers. That AI sales pitch is not too different from the controversial adage, \"The only thing that stops a bad guy with a gun is a good guy with a gun.\"",
+      "Adding to the PR problem, several top AI labs are newcomers to consumer products. You might use AI chatbots or even rely on them, but do you really trust their makers? Trust is a funny concept in a world where the most intimate spaces and moments of our lives are digitized, searchable, and permanently recorded. (Unless your data storage runs out!)",
+      "That makes Apple's slow-roll AI strategy all the more appealing.",
+      "Sure, Cupertino isn't feeding off the AI hype cycle like Anthropic (ANTH.PVT) or OpenAI (OPAI.PVT). But in the years since ChatGPT arrived, Apple has proven it doesn't need to — as the consumer AI pitch is markedly different from its enterprise counterpart. And slower paced.",
+      "Its distance from the parade of embarrassments, controversies, and AI doomsday narratives has helped the stock. And by forfeiting the first few rounds of the tech world's AI brawl (whether by design or organizational failure), Apple has burnished its reputation. Meanwhile, other tech companies look beaten up.",
+      "Distrustful of rogue agents and concerned about apocalyptic AI takeovers, consumers want to turn to a tech company they can trust. And as the keynote this week underscored, that's core to Apple's brand.",
+      "The company's focus on on-device AI plays off those concerns.",
+      "Siri AI integrates with the rest of your phone, seamlessly drawing from other apps to research and complete tasks. Apple users can tap into more powerful cloud models, but the key idea for Apple's next generation of smartphones and its reintroduction of Apple Intelligence is that your AI should center around your personal wants and needs, which is another way of saying your iPhone.",
+      "The iPhone becoming the ultimate conduit for interacting with AI works on two levels: To Wall Street, it solidifies and expands Apple's Walled Garden to include and subsume the AI transition. Apple ruled over the app economy of the 2000s. The apps are different now and will continue to change in the AI era. But Apple devices will remain the alpha platform and essential consumer portal."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-makes-blockbuster-move-ai-211049393.html",
+    "fetched_at": "2026-09-12T07:00:38.255267-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Makes Blockbuster Move in AI Race",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSpaceX (NASDAQ:SPCX) has signed an artificial-intelligence hosting agreement worth roughly $1.11 billion a month, dramatically strengthening management's confidence that the company can exit 2026 with a $100 billion annual recurring revenue run rate. For investors, the deal turns AI infrastructure from a long-term SpaceX ambition into a potentially major near-term revenue engine while helping finance Starship, Starlink and an eventual push into orbital computing.\nSpaceX is best known for reusable rockets, Starlink satellite broadband and its next-generation Starship launch system. The company is increasingly expanding into AI infrastructure, building terrestrial data centers while developing plans to eventually put large-scale computing capacity into orbit.\nThe new hosting contract begins Dec. 1 and represents about $13 billion in annualized revenue at its initial monthly rate. CFO Bret Johnsen said the agreement gives management greater confidence in reaching its $100 billion ARR goal, though that figure represents an exit run rate rather than revenue actually collected during 2026.\nSpaceX expects to finish this year with slightly more than two gigawatts of terrestrial computing capacity before targeting five to 10 gigawatts next year. The company currently uses Nvidia (NASDAQ:NVDA) processors exclusively and believes its relationship with the chipmaker will help secure scarce GPU supply.\nThe economics could be unusually attractive. Management expects roughly $30 to $50 of revenue per watt next year and says some AI infrastructure investments could pay back in less than one year. SpaceX is currently renting capacity to outside developers, including customers tied to Anthropic and Alphabet (NASDAQ:GOOGL), while preserving flexibility to use more compute for its own AI products later.\nInvestors Takeaway\nThe biggest near-term milestone is whether hosting revenue begins as scheduled Dec. 1 and pushes SpaceX toward its $100 billion ARR target.\nInvestors should also watch expansion toward five to 10 gigawatts of compute, continued Nvidia (NASDAQ:NVDA) GPU access and whether short-duration hosting contracts are renewed or replaced. Beyond terrestrial AI, the larger valuation opportunity depends on Starship becoming reliably reusable and SpaceX successfully launching its first orbital-computing satellites next year.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SpaceX (NASDAQ:SPCX) has signed an artificial-intelligence hosting agreement worth roughly $1.11 billion a month, dramatically strengthening management's confidence that the company can exit 2026 with a $100 billion annual recurring revenue run rate. For investors, the deal turns AI infrastructure from a long-term SpaceX ambition into a potentially major near-term revenue engine while helping finance Starship, Starlink and an eventual push into orbital computing.",
+      "SpaceX is best known for reusable rockets, Starlink satellite broadband and its next-generation Starship launch system. The company is increasingly expanding into AI infrastructure, building terrestrial data centers while developing plans to eventually put large-scale computing capacity into orbit.",
+      "The new hosting contract begins Dec. 1 and represents about $13 billion in annualized revenue at its initial monthly rate. CFO Bret Johnsen said the agreement gives management greater confidence in reaching its $100 billion ARR goal, though that figure represents an exit run rate rather than revenue actually collected during 2026.",
+      "SpaceX expects to finish this year with slightly more than two gigawatts of terrestrial computing capacity before targeting five to 10 gigawatts next year. The company currently uses Nvidia (NASDAQ:NVDA) processors exclusively and believes its relationship with the chipmaker will help secure scarce GPU supply.",
+      "The economics could be unusually attractive. Management expects roughly $30 to $50 of revenue per watt next year and says some AI infrastructure investments could pay back in less than one year. SpaceX is currently renting capacity to outside developers, including customers tied to Anthropic and Alphabet (NASDAQ:GOOGL), while preserving flexibility to use more compute for its own AI products later.",
+      "Investors Takeaway",
+      "The biggest near-term milestone is whether hosting revenue begins as scheduled Dec. 1 and pushes SpaceX toward its $100 billion ARR target.",
+      "Investors should also watch expansion toward five to 10 gigawatts of compute, continued Nvidia (NASDAQ:NVDA) GPU access and whether short-duration hosting contracts are renewed or replaced. Beyond terrestrial AI, the larger valuation opportunity depends on Starship becoming reliably reusable and SpaceX successfully launching its first orbital-computing satellites next year."
+    ],
+    "html": null
+  }
+}

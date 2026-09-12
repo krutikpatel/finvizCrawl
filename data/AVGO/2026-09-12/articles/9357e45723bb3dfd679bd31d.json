@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-broadcom-stock-friday-174335036.html",
+    "fetched_at": "2026-09-12T07:00:32.961976-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What's Going On With Broadcom Stock Friday",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO) shares climbed 1.5% Friday as European Union officials examined changes to VMware's licensing model and their potential effect on cloud providers.\nThe review is focused on whether the revised arrangements could limit customer choice or create difficulties for smaller providers. EU officials have been asking European cloud companies about their reliance on VMware products and how readily they could switch to alternatives.\nOfficials are also examining new certification requirements associated with VMware subscriptions. The inquiry comes ahead of a March 31 deadline that could prevent smaller European cloud providers from continuing to sell certain VMware subscriptions.\nThe questions indicate that regulators are assessing whether Broadcom's licensing approach could create restrictions within the European cloud market. The information-gathering process does not by itself indicate that regulators have reached a conclusion on the company's practices.\nBroadcom completed its acquisition of VMware in 2023, bringing the virtualization software business under its ownership. VMware products remain widely used by cloud and enterprise customers, making licensing changes an area of interest for European regulators.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO) shares climbed 1.5% Friday as European Union officials examined changes to VMware's licensing model and their potential effect on cloud providers.",
+      "The review is focused on whether the revised arrangements could limit customer choice or create difficulties for smaller providers. EU officials have been asking European cloud companies about their reliance on VMware products and how readily they could switch to alternatives.",
+      "Officials are also examining new certification requirements associated with VMware subscriptions. The inquiry comes ahead of a March 31 deadline that could prevent smaller European cloud providers from continuing to sell certain VMware subscriptions.",
+      "The questions indicate that regulators are assessing whether Broadcom's licensing approach could create restrictions within the European cloud market. The information-gathering process does not by itself indicate that regulators have reached a conclusion on the company's practices.",
+      "Broadcom completed its acquisition of VMware in 2023, bringing the virtualization software business under its ownership. VMware products remain widely used by cloud and enterprise customers, making licensing changes an area of interest for European regulators."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-names-crowdstrike-palo-alto-154004806.html",
+    "fetched_at": "2026-09-12T07:00:46.018951-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAI is reshaping where cybersecurity dollars are going, and Wedbush sees a smaller group of platform companies positioned to capture that shift.\nThe brokerage initiated coverage of Palo Alto Networks (PANW) and Rubrik (RBRK) with Outperform ratings, naming both among its Best Ideas. CrowdStrike Holdings (CRWD) and Datadog (DDOG) also received Outperform ratings.\nWedbush analyst Steven Wahrhaftig said the change in cybersecurity spending does not necessarily mean companies will allocate more money overall. Instead, spending could increasingly move toward broader security platforms.\nThe firm identified several industry shifts, including AI-based attacks and defenses, consolidation among vendors, greater emphasis on data protection, observability becoming part of core infrastructure and disruption in vulnerability management.\nTenable Holdings (TENB) received an Underperform rating. Fortinet (FTNT), Qualys (QLYS), Check Point Software (CHKP), Dynatrace (DT), Varonis Systems (VRNS) and Telos (TLS) were rated Neutral.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "AI is reshaping where cybersecurity dollars are going, and Wedbush sees a smaller group of platform companies positioned to capture that shift.",
+      "The brokerage initiated coverage of Palo Alto Networks (PANW) and Rubrik (RBRK) with Outperform ratings, naming both among its Best Ideas. CrowdStrike Holdings (CRWD) and Datadog (DDOG) also received Outperform ratings.",
+      "Wedbush analyst Steven Wahrhaftig said the change in cybersecurity spending does not necessarily mean companies will allocate more money overall. Instead, spending could increasingly move toward broader security platforms.",
+      "The firm identified several industry shifts, including AI-based attacks and defenses, consolidation among vendors, greater emphasis on data protection, observability becoming part of core infrastructure and disruption in vulnerability management.",
+      "Tenable Holdings (TENB) received an Underperform rating. Fortinet (FTNT), Qualys (QLYS), Check Point Software (CHKP), Dynatrace (DT), Varonis Systems (VRNS) and Telos (TLS) were rated Neutral."
+    ],
+    "html": null
+  }
+}

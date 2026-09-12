@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/buy-robinhood-markets-stock-analyst-says-plus-intuit-and-4-more-stocks-4a79bf12?mod=bar_FV",
+    "fetched_at": "2026-09-12T07:00:20.322669-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Buy Robinhood Markets Stock, Analyst Says. Plus, Intuit and 4 More Stocks.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Buy Robinhood Markets Stock, Analyst Says. Plus, Intuit and 4 More Stocks.\nThese reports, excerpted and edited by Barron’s, were issued recently by investment and research firms. The reports are a sampling of analysts’ thinking; they should not be considered the views or recommendations of Barron’s. Some of the reports’ issuers have provided, or hope to provide, investment-banking or other services to the companies being analyzed.",
+    "text_blocks": [
+      "Buy Robinhood Markets Stock, Analyst Says. Plus, Intuit and 4 More Stocks.",
+      "These reports, excerpted and edited by Barron’s, were issued recently by investment and research firms. The reports are a sampling of analysts’ thinking; they should not be considered the views or recommendations of Barron’s. Some of the reports’ issuers have provided, or hope to provide, investment-banking or other services to the companies being analyzed."
+    ],
+    "html": null
+  }
+}

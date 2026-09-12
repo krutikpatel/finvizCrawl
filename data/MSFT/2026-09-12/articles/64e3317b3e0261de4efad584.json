@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-gains-signing-10-enforceable-211130848.html",
+    "fetched_at": "2026-09-12T07:00:30.066738-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Gains After Signing 10 Enforceable School-AI Guardrails",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT), the cloud, productivity-software and artificial-intelligence leader, committed to ten legally enforceable principles governing AI use in schools through agreements with two major teachers unions. Shares gained approximately 0.7% to $495.93 Friday morning.\nThe rules draw firm boundaries around sensitive classroom data. Microsoft will not use student or educator information to train its AI models, will limit data collection and must explain its systems to families in plain language. AI companions are prohibited, while decisions carrying serious consequences must remain subject to human review. The safeguards arrive after New York City and Los Angeles temporarily restricted student-facing AI tools.\nSchool districts can add the provisions to new or existing Microsoft contracts beginning in November without reopening entire agreements. No adoption figures, contract values or revenue impact were disclosed, but the streamlined process could make Microsoft's AI products easier for cautious districts to approve. The picture adds a valuation hook: Microsoft's $495.93 share price sits 15.03% below its GF Value estimate of $583.64, suggesting potential upside if the company can turn stronger trust into wider classroom adoption.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT), the cloud, productivity-software and artificial-intelligence leader, committed to ten legally enforceable principles governing AI use in schools through agreements with two major teachers unions. Shares gained approximately 0.7% to $495.93 Friday morning.",
+      "The rules draw firm boundaries around sensitive classroom data. Microsoft will not use student or educator information to train its AI models, will limit data collection and must explain its systems to families in plain language. AI companions are prohibited, while decisions carrying serious consequences must remain subject to human review. The safeguards arrive after New York City and Los Angeles temporarily restricted student-facing AI tools.",
+      "School districts can add the provisions to new or existing Microsoft contracts beginning in November without reopening entire agreements. No adoption figures, contract values or revenue impact were disclosed, but the streamlined process could make Microsoft's AI products easier for cautious districts to approve. The picture adds a valuation hook: Microsoft's $495.93 share price sits 15.03% below its GF Value estimate of $583.64, suggesting potential upside if the company can turn stronger trust into wider classroom adoption."
+    ],
+    "html": null
+  }
+}

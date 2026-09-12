@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/former-openai-researcher-bets-ai-201641481.html",
+    "fetched_at": "2026-09-12T07:00:43.475169-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Six weeks after AI bets nearly wrecked his hedge fund, Leopold Aschenbrenner is putting money into the same companies again. His hedge fund, Situational Awareness, bought call options on AMD, Bloom Energy, CoreWeave, SK Hynix and SanDisk, CNBC reported, citing sources. The trades ran from late last week into this week.\nThe former OpenAI researcher became famous for a 2024 essay arguing that AI could reach human-level intelligence by 2027. He built an investment business around that belief, backing companies supplying the computing capacity and electricity AI needs.\nJuly exposed how dangerous that bet had become. Borrowed money magnified falling share prices, triggering demands for cash the fund could not meet. Assets shrank from a peak above $45 billion to roughly $10 billion, according to CNBC.\nWhat July Cost Leopold Aschenbrenner\nKen Griffin's Citadel bought distressed holdings at a discount. Situational Awareness kept private investments, including Anthropic. The SEC later subpoenaed Wall Street banks over their dealings with the fund. The reported inquiry carried no allegation of wrongdoing.\nHis return uses call options: contracts that let buyers purchase shares at a fixed price before a deadline. When paid for upfront without borrowing, their losses are capped at the purchase cost. That entire amount can still disappear if the options expire worthless.\nThe familiar names have drawn attention. On Friday, CNBC's Jim Cramer wrote:\n\"Someone is shooting against all the Situational Stocks!\"\nFriday's trading was mixed: Bloom rose nearly 7% and AMD almost 3%. SanDisk and CoreWeave fell.\nAMD's outstanding put options also recently outnumbered calls, though those contracts can reflect investors protecting existing holdings.\nIt remains unclear whether Aschenbrenner is using surviving cash or fresh investor money. He is again betting on the companies behind the AI boom, with contracts that put a deadline on the payoff.\nFollow us on X to get the latest news as it happens.\nRead the Original story Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout by Lockridge Okoth at beincrypto.com",
+    "text_blocks": [
+      "Six weeks after AI bets nearly wrecked his hedge fund, Leopold Aschenbrenner is putting money into the same companies again. His hedge fund, Situational Awareness, bought call options on AMD, Bloom Energy, CoreWeave, SK Hynix and SanDisk, CNBC reported, citing sources. The trades ran from late last week into this week.",
+      "The former OpenAI researcher became famous for a 2024 essay arguing that AI could reach human-level intelligence by 2027. He built an investment business around that belief, backing companies supplying the computing capacity and electricity AI needs.",
+      "July exposed how dangerous that bet had become. Borrowed money magnified falling share prices, triggering demands for cash the fund could not meet. Assets shrank from a peak above $45 billion to roughly $10 billion, according to CNBC.",
+      "What July Cost Leopold Aschenbrenner",
+      "Ken Griffin's Citadel bought distressed holdings at a discount. Situational Awareness kept private investments, including Anthropic. The SEC later subpoenaed Wall Street banks over their dealings with the fund. The reported inquiry carried no allegation of wrongdoing.",
+      "His return uses call options: contracts that let buyers purchase shares at a fixed price before a deadline. When paid for upfront without borrowing, their losses are capped at the purchase cost. That entire amount can still disappear if the options expire worthless.",
+      "The familiar names have drawn attention. On Friday, CNBC's Jim Cramer wrote:",
+      "\"Someone is shooting against all the Situational Stocks!\"",
+      "Friday's trading was mixed: Bloom rose nearly 7% and AMD almost 3%. SanDisk and CoreWeave fell.",
+      "AMD's outstanding put options also recently outnumbered calls, though those contracts can reflect investors protecting existing holdings.",
+      "It remains unclear whether Aschenbrenner is using surviving cash or fresh investor money. He is again betting on the companies behind the AI boom, with contracts that put a deadline on the payoff.",
+      "Follow us on X to get the latest news as it happens.",
+      "Read the Original story Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout by Lockridge Okoth at beincrypto.com"
+    ],
+    "html": null
+  }
+}

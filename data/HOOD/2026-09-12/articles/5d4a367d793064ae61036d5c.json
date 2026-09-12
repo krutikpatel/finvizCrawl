@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/082082e0-3785-392a-9a23-af036483f760/people-are-using-ai-agents-to.html",
+    "fetched_at": "2026-09-12T07:00:20.467805-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "People Are Using AI Agents to Manage Their Investments ‘Without Lifting a Finger’: Is it Safe?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Entrepreneur Media LLC and Yahoo Finance LLC may earn commission or revenue on some products and services through the links below.\nNeed help managing your investments? Try Alex, Sarah and Elena, some of Wall Street's hottest new analysts.\nThere's just one catch: they're Claude AI agents.\nIn a recent Wall Street Journal story, multiple people shared their tales of how AI agents are transforming the way their investments are performing in the stock market. One of these people, Colin Edsman, is a hairstylist and stay-at-home dad whose agents are pulling greater returns than the accounts he's managing himself.\nSince brokerage companies such as Robinhood and Webull introduced the ability to connect investments to AI agents on Claude, Codex, and other platforms, it's become simpler than ever for everyday people to trade like Wall Street professionals.\nAnother one of these people, Dean Ahrens, said that with the help of his Codex agent, he has brought his Public account from $3,000 to $8,000, and one specific trade netted him a greater than 500% return.\n\"It's nice to make money without having to lift a finger,\" he said.\nNot everyone's convinced it's safe. One recent study found AI models tend to recommend concentrated bets in popular, high-valuation stocks, and don't actually beat simpler passive strategies. Still, plenty of people are setting it and forgetting it, and seeing real results.\nSubscribe to the Entrepreneur Daily newsletter to get the news and resources you need today to help you build your business better.",
+    "text_blocks": [
+      "Entrepreneur Media LLC and Yahoo Finance LLC may earn commission or revenue on some products and services through the links below.",
+      "Need help managing your investments? Try Alex, Sarah and Elena, some of Wall Street's hottest new analysts.",
+      "There's just one catch: they're Claude AI agents.",
+      "In a recent Wall Street Journal story, multiple people shared their tales of how AI agents are transforming the way their investments are performing in the stock market. One of these people, Colin Edsman, is a hairstylist and stay-at-home dad whose agents are pulling greater returns than the accounts he's managing himself.",
+      "Since brokerage companies such as Robinhood and Webull introduced the ability to connect investments to AI agents on Claude, Codex, and other platforms, it's become simpler than ever for everyday people to trade like Wall Street professionals.",
+      "Another one of these people, Dean Ahrens, said that with the help of his Codex agent, he has brought his Public account from $3,000 to $8,000, and one specific trade netted him a greater than 500% return.",
+      "\"It's nice to make money without having to lift a finger,\" he said.",
+      "Not everyone's convinced it's safe. One recent study found AI models tend to recommend concentrated bets in popular, high-valuation stocks, and don't actually beat simpler passive strategies. Still, plenty of people are setting it and forgetting it, and seeing real results.",
+      "Subscribe to the Entrepreneur Daily newsletter to get the news and resources you need today to help you build your business better."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/video/apple-health-chief-knows-health-093000689.html",
+    "fetched_at": "2026-09-12T07:00:09.143721-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Health Chief Knows the Health App Needs Work",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "WSJ's Nicole Nguyen sits down with Apple's VP of Health to discuss the company's recently announced Apple Watches with more advanced sensors and a major overhaul of its Health app.\nOops, something went wrong\nWSJ's Nicole Nguyen sits down with Apple's VP of Health to discuss the company's recently announced Apple Watches with more advanced sensors and a major overhaul of its Health app.",
+    "text_blocks": [
+      "WSJ's Nicole Nguyen sits down with Apple's VP of Health to discuss the company's recently announced Apple Watches with more advanced sensors and a major overhaul of its Health app.",
+      "Oops, something went wrong",
+      "WSJ's Nicole Nguyen sits down with Apple's VP of Health to discuss the company's recently announced Apple Watches with more advanced sensors and a major overhaul of its Health app."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-gains-p-flags-100-211224228.html",
+    "fetched_at": "2026-09-12T07:00:40.912199-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Gains as S&P Flags Its $100 Billion Debt Spree",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon (NASDAQ:AMZN), the e-commerce and cloud-computing giant, rose about 1.5% to $255.71 Friday as Wall Street weighed S&P's warning over hyperscaler credit risk. Axios reported that Amazon has tapped bond investors for roughly $100 billion in 2026, supplying fresh fuel for its massive AI infrastructure buildout.\nAmazon's second-quarter results show the financial engine behind that borrowing power. AWS revenue jumped 37% to $42.2 billion, while operating income hit $16.6 billion, producing a formidable 39.3% margin. Trailing operating cash flow reached $161.4 billion, but free cash flow swung to negative $7.6 billion as property investment surged. The chart adds a valuation warning: Amazon trades 3.19% above its $247.80 GF Value, leaving little room for execution mistakes.\nThe $100 billion raised through bonds represents roughly 45% of Amazon's estimated $220 billion annual capital-spending plan. Yet S&P's concern stretches beyond Amazon's own balance sheet. Hyperscalers are also helping bankroll smaller AI companies, tying elite credit profiles to far weaker counterparties. Amazon has the cash machine to keep spending now. The real test is whether AI revenue scales before depreciation, interest expenses and partner commitments all start biting at once.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon (NASDAQ:AMZN), the e-commerce and cloud-computing giant, rose about 1.5% to $255.71 Friday as Wall Street weighed S&P's warning over hyperscaler credit risk. Axios reported that Amazon has tapped bond investors for roughly $100 billion in 2026, supplying fresh fuel for its massive AI infrastructure buildout.",
+      "Amazon's second-quarter results show the financial engine behind that borrowing power. AWS revenue jumped 37% to $42.2 billion, while operating income hit $16.6 billion, producing a formidable 39.3% margin. Trailing operating cash flow reached $161.4 billion, but free cash flow swung to negative $7.6 billion as property investment surged. The chart adds a valuation warning: Amazon trades 3.19% above its $247.80 GF Value, leaving little room for execution mistakes.",
+      "The $100 billion raised through bonds represents roughly 45% of Amazon's estimated $220 billion annual capital-spending plan. Yet S&P's concern stretches beyond Amazon's own balance sheet. Hyperscalers are also helping bankroll smaller AI companies, tying elite credit profiles to far weaker counterparties. Amazon has the cash machine to keep spending now. The real test is whether AI revenue scales before depreciation, interest expenses and partner commitments all start biting at once."
+    ],
+    "html": null
+  }
+}

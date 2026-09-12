@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-just-added-13-billion-211112988.html",
+    "fetched_at": "2026-09-12T07:00:38.271276-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Just Added a $13 Billion AI Revenue Engine",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSpaceX (SPCX, Financials), the rocket and satellite company behind Starlink and Starship, is starting to build a business that looks very different from the one investors first knew.\nThe company has signed an AI hosting agreement worth about $1.11 billion a month. That works out to roughly $13 billion a year at the initial rate.\nAnd that is where things get interesting. The deal begins Dec. 1 and is giving management more confidence that SpaceX can exit the year at a $100 billion annual recurring revenue run rate.\nAI hosting is becoming a real business, not just another future project.\nSpaceX expects to finish the year with a little more than 2 gigawatts of terrestrial computing capacity and wants to reach 5 to 10 gigawatts next year. It is using Nvidia processors and says current hosting agreements can generate roughly $30 to $50 in revenue per watt.\nThere is still plenty that has to go right. Many hosting contracts run for only about six months, and SpaceX eventually wants some of that computing capacity for its own products.\nThen there is the much bigger bet: putting AI computing in orbit.\nFor investors, the new contract matters because it gives SpaceX cash while that plan develops. The next test is whether those short-term hosting deals can become a durable business and whether Starship can eventually make orbital computing economically viable.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "SpaceX (SPCX, Financials), the rocket and satellite company behind Starlink and Starship, is starting to build a business that looks very different from the one investors first knew.",
+      "The company has signed an AI hosting agreement worth about $1.11 billion a month. That works out to roughly $13 billion a year at the initial rate.",
+      "And that is where things get interesting. The deal begins Dec. 1 and is giving management more confidence that SpaceX can exit the year at a $100 billion annual recurring revenue run rate.",
+      "AI hosting is becoming a real business, not just another future project.",
+      "SpaceX expects to finish the year with a little more than 2 gigawatts of terrestrial computing capacity and wants to reach 5 to 10 gigawatts next year. It is using Nvidia processors and says current hosting agreements can generate roughly $30 to $50 in revenue per watt.",
+      "There is still plenty that has to go right. Many hosting contracts run for only about six months, and SpaceX eventually wants some of that computing capacity for its own products.",
+      "Then there is the much bigger bet: putting AI computing in orbit.",
+      "For investors, the new contract matters because it gives SpaceX cash while that plan develops. The next test is whether those short-term hosting deals can become a durable business and whether Starship can eventually make orbital computing economically viable."
+    ],
+    "html": null
+  }
+}
