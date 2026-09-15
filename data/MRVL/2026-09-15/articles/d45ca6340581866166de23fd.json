@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/beaaad93-77d9-364d-9dd5-a3fccf3a14ee/s%26p-500%2C-nasdaq-fall-on-ai.html",
+    "fetched_at": "2026-09-15T07:07:57.516102-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "U.S. stocks fell Monday as calls from major AI company leaders to slow development of the technology rattled chip stocks, while surging oil prices added to pressure on equities.\nThe S&P 500 shed 0.7%, the Nasdaq Composite gave back 1.2%, and the Dow Jones Industrial Average finished 140 points lower, a decline of 0.3%.\nAnthropic CEO Dario Amodei argued in an essay Saturday that AI companies need to reduce the pace of innovation on their most capable models due to safety risks. Amodei told CBS News on Sunday that the \"toughest dilemma\" posed by any such proposal involves the question of whether China would agree to do the same. OpenAI CEO Sam Altman said in a separate Saturday interview that an IPO this year would be \"ill-advised,\" according to CNBC.\nNvidia and Broadcom each lost 3%. Advanced Micro Devices, Intel, and Marvell Technology posted steeper losses of 5%, 7%, and 8%, respectively. CoreWeave stock dropped 7%.\nOil prices added to the pressure on stocks. Brent crude futures advanced 4%, topping $108 a barrel, and West Texas Intermediate crude futures gained 3%, clearing $103 a barrel. Saudi Arabia shut down its East-West oil pipeline — a route used to bypass the Strait of Hormuz — after the pipeline sustained multiple drone attacks. The shutdown comes as instability across the Middle East continues to widen. It was the first time U.S. crude had traded above $100 a barrel since May.\nDiplomatic efforts also stalled. A meeting between Gulf states and Iran that had been scheduled for Monday was postponed, according to The Wall Street Journal.\nThe week's oil surge took a toll on equities heading into Monday. The Dow lost 1.6% over the five sessions — its steepest weekly decline since March, according to CNBC — while the S&P 500 and Nasdaq each gave back roughly 0.8% and 0.7%.\nInvestors are also watching the Federal Reserve, which begins its September policy meeting this week with a decision expected Wednesday. CME's FedWatch tool shows traders assigning about an 88% probability to a rate increase at this week's meeting. The 10-year U.S. Treasury yield pushed past 4.98% on Monday, continuing a climb driven by a worldwide bond market retreat as investors grow more concerned about persistent inflation.",
+    "text_blocks": [
+      "U.S. stocks fell Monday as calls from major AI company leaders to slow development of the technology rattled chip stocks, while surging oil prices added to pressure on equities.",
+      "The S&P 500 shed 0.7%, the Nasdaq Composite gave back 1.2%, and the Dow Jones Industrial Average finished 140 points lower, a decline of 0.3%.",
+      "Anthropic CEO Dario Amodei argued in an essay Saturday that AI companies need to reduce the pace of innovation on their most capable models due to safety risks. Amodei told CBS News on Sunday that the \"toughest dilemma\" posed by any such proposal involves the question of whether China would agree to do the same. OpenAI CEO Sam Altman said in a separate Saturday interview that an IPO this year would be \"ill-advised,\" according to CNBC.",
+      "Nvidia and Broadcom each lost 3%. Advanced Micro Devices, Intel, and Marvell Technology posted steeper losses of 5%, 7%, and 8%, respectively. CoreWeave stock dropped 7%.",
+      "Oil prices added to the pressure on stocks. Brent crude futures advanced 4%, topping $108 a barrel, and West Texas Intermediate crude futures gained 3%, clearing $103 a barrel. Saudi Arabia shut down its East-West oil pipeline — a route used to bypass the Strait of Hormuz — after the pipeline sustained multiple drone attacks. The shutdown comes as instability across the Middle East continues to widen. It was the first time U.S. crude had traded above $100 a barrel since May.",
+      "Diplomatic efforts also stalled. A meeting between Gulf states and Iran that had been scheduled for Monday was postponed, according to The Wall Street Journal.",
+      "The week's oil surge took a toll on equities heading into Monday. The Dow lost 1.6% over the five sessions — its steepest weekly decline since March, according to CNBC — while the S&P 500 and Nasdaq each gave back roughly 0.8% and 0.7%.",
+      "Investors are also watching the Federal Reserve, which begins its September policy meeting this week with a decision expected Wednesday. CME's FedWatch tool shows traders assigning about an 88% probability to a rate increase at this week's meeting. The 10-year U.S. Treasury yield pushed past 4.98% on Monday, continuing a climb driven by a worldwide bond market retreat as investors grow more concerned about persistent inflation."
+    ],
+    "html": null
+  }
+}

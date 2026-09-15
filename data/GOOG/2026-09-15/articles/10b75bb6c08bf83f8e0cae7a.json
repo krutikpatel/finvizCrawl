@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-acquires-glass-imaging-camera-134907735.html",
+    "fetched_at": "2026-09-15T07:07:33.532770-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI acquires Glass Imaging camera startup for $300 million",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "OpenAI acquired Glass Imaging, a startup developing AI-powered smartphone camera technology, in a deal valued at over $300 million, according to The Wall Street Journal. The purchase price represents a significant jump from the roughly $100 million valuation Glass Imaging carried in a funding round last year.\nGlass Imaging was founded in 2019 by Ziv Attar and Tom Bishop, two former Apple engineers who worked on the company's Portrait Mode feature. The Los Altos, California-based company had raised about $30 million from investors including GV, Alphabet's venture arm, and Insight Partners before the acquisition.\nGlass Imaging's approach differs from conventional AI photo editing: instead of processing images after the fact, the company teaches neural networks the specific optical properties of each camera system so that picture quality is improved as the shot is taken, according to The Wall Street Journal. The company's goal is to produce image quality comparable to a DSLR camera from a smartphone. Its zoom-imaging technology was featured in a line of phones from Chinese smartphone brand Honor.\nOpenAI's plans for Glass Imaging are unclear. The company is also developing a device with Jony Ive, the former Apple designer behind the iPhone. OpenAI brought on Ive in 2025 through its $6.5 billion purchase of io Products, and his responsibilities span hardware development alongside broader efforts to define how AI products will look and function.\nA spokesperson for OpenAI had not provided a statement by the time of publication, according to TechCrunch. The company has made several other acquisitions recently, including an internet talk show called TBPN and an open-source developer tools startup, according to The Wall Street Journal. OpenAI is also preparing for an initial public offering expected next year.",
+    "text_blocks": [
+      "OpenAI acquired Glass Imaging, a startup developing AI-powered smartphone camera technology, in a deal valued at over $300 million, according to The Wall Street Journal. The purchase price represents a significant jump from the roughly $100 million valuation Glass Imaging carried in a funding round last year.",
+      "Glass Imaging was founded in 2019 by Ziv Attar and Tom Bishop, two former Apple engineers who worked on the company's Portrait Mode feature. The Los Altos, California-based company had raised about $30 million from investors including GV, Alphabet's venture arm, and Insight Partners before the acquisition.",
+      "Glass Imaging's approach differs from conventional AI photo editing: instead of processing images after the fact, the company teaches neural networks the specific optical properties of each camera system so that picture quality is improved as the shot is taken, according to The Wall Street Journal. The company's goal is to produce image quality comparable to a DSLR camera from a smartphone. Its zoom-imaging technology was featured in a line of phones from Chinese smartphone brand Honor.",
+      "OpenAI's plans for Glass Imaging are unclear. The company is also developing a device with Jony Ive, the former Apple designer behind the iPhone. OpenAI brought on Ive in 2025 through its $6.5 billion purchase of io Products, and his responsibilities span hardware development alongside broader efforts to define how AI products will look and function.",
+      "A spokesperson for OpenAI had not provided a statement by the time of publication, according to TechCrunch. The company has made several other acquisitions recently, including an internet talk show called TBPN and an open-source developer tools startup, according to The Wall Street Journal. OpenAI is also preparing for an initial public offering expected next year."
+    ],
+    "html": null
+  }
+}

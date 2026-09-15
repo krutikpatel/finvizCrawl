@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/20b27c90-e62e-3ab0-8860-8548502a8a1b/cathie-wood-backs-ai-slowdown.html",
+    "fetched_at": "2026-09-15T07:07:14.670276-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cathie Wood backs AI slowdown pledge, dismisses extinction warnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cathie Wood, founder of Ark Investment Management, endorsed the AI industry's push to slow capabilities development on Tuesday while dismissing warnings from researchers that AI could kill humans before the end of the decade.\n\"That's ridiculous,\" Wood told reporters in Sydney, referring to the researchers' social media posts about AI posing a lethal risk. \"Yet, it gives us a great opportunity to focus the world on cybersecurity in this space.\"\nWood said she welcomed the scrutiny of AI's trajectory. \"Having been in the tech and telecom bubble, which ended in a bust, I'm happy that the leaders of the industry are advertising the risks associated with this new technology,\" she told reporters in Sydney. \"Half of the solution is understanding the problem.\"\nTesla, SpaceX, OpenAI, and Anthropic are among the holdings Ark carries across its public and private funds, according to Reuters.\nThe backdrop to Wood's comments: Anthropic CEO Dario Amodei published an essay Saturday calling on AI companies to slow the pace of capabilities development, a plan he described as \"pacing the frontier.\" The proposal would embed independent evaluators inside frontier AI labs, establish shared safety benchmarks and agreed limits on how fast AI capabilities can grow, and pursue coordination between governments including China. OpenAI CEO Sam Altman and Elon Musk both backed the call on X over the weekend, though Altman clarified that pacing \"does not mean 'stopping.'\"\nThe calls came after a turbulent stretch for the industry. Jacob Coxon, a researcher who resigned from Anthropic last week, wrote publicly that the people building AI \"earnestly believe that it could kill us all by the end of the decade,\" a post that drew more than 150 million views on X. Anthropic safety researcher Evan Hubinger separately wrote on X that he believes there is a greater than 10% chance AI will \"kill all humans\" within the next decade. Those posts prompted more than 20 lawmakers to call for tougher AI regulation.\nAI-linked stocks fell across Asia, Europe, and U.S. premarket trading on Monday as investors weighed the implications. On Tuesday, Asian markets extended their slide, with chip and AI-related shares continuing to face headwinds as investor unease persisted. President Donald Trump pushed back Monday, asserting that existing authority was sufficient to regulate and prosecute AI companies without new legislation.\nAltman told Fortune in an interview published Saturday that OpenAI would not go public in 2026, citing the safety environment.",
+    "text_blocks": [
+      "Cathie Wood, founder of Ark Investment Management, endorsed the AI industry's push to slow capabilities development on Tuesday while dismissing warnings from researchers that AI could kill humans before the end of the decade.",
+      "\"That's ridiculous,\" Wood told reporters in Sydney, referring to the researchers' social media posts about AI posing a lethal risk. \"Yet, it gives us a great opportunity to focus the world on cybersecurity in this space.\"",
+      "Wood said she welcomed the scrutiny of AI's trajectory. \"Having been in the tech and telecom bubble, which ended in a bust, I'm happy that the leaders of the industry are advertising the risks associated with this new technology,\" she told reporters in Sydney. \"Half of the solution is understanding the problem.\"",
+      "Tesla, SpaceX, OpenAI, and Anthropic are among the holdings Ark carries across its public and private funds, according to Reuters.",
+      "The backdrop to Wood's comments: Anthropic CEO Dario Amodei published an essay Saturday calling on AI companies to slow the pace of capabilities development, a plan he described as \"pacing the frontier.\" The proposal would embed independent evaluators inside frontier AI labs, establish shared safety benchmarks and agreed limits on how fast AI capabilities can grow, and pursue coordination between governments including China. OpenAI CEO Sam Altman and Elon Musk both backed the call on X over the weekend, though Altman clarified that pacing \"does not mean 'stopping.'\"",
+      "The calls came after a turbulent stretch for the industry. Jacob Coxon, a researcher who resigned from Anthropic last week, wrote publicly that the people building AI \"earnestly believe that it could kill us all by the end of the decade,\" a post that drew more than 150 million views on X. Anthropic safety researcher Evan Hubinger separately wrote on X that he believes there is a greater than 10% chance AI will \"kill all humans\" within the next decade. Those posts prompted more than 20 lawmakers to call for tougher AI regulation.",
+      "AI-linked stocks fell across Asia, Europe, and U.S. premarket trading on Monday as investors weighed the implications. On Tuesday, Asian markets extended their slide, with chip and AI-related shares continuing to face headwinds as investor unease persisted. President Donald Trump pushed back Monday, asserting that existing authority was sufficient to regulate and prosecute AI companies without new legislation.",
+      "Altman told Fortune in an interview published Saturday that OpenAI would not go public in 2026, citing the safety environment."
+    ],
+    "html": null
+  }
+}

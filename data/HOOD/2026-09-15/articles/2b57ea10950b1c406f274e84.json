@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-movers-bb7c16dd?mod=bar_FV",
+    "fetched_at": "2026-09-15T07:07:27.990016-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel, Sandisk, Palantir, Coinbase, and More Stocks That Explain Today’s Market<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia, Coinbase, Robinhood, Coherent, and More Stocks That Explain Today’s Market\nStocks fell Tuesday as the 10-Year Treasury yield reached its highest level in 19 years and investor fears over the selloff in artificial-intelligence stocks Monday began to ease.",
+    "text_blocks": [
+      "Nvidia, Coinbase, Robinhood, Coherent, and More Stocks That Explain Today’s Market",
+      "Stocks fell Tuesday as the 10-Year Treasury yield reached its highest level in 19 years and investor fears over the selloff in artificial-intelligence stocks Monday began to ease."
+    ],
+    "html": null
+  }
+}

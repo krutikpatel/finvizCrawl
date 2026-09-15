@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/hedge-fund-nearly-collapsed-bets-124823882.html",
+    "fetched_at": "2026-09-15T07:07:45.034890-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Hedge Fund That Nearly Collapsed Bets Big on AMD Again",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAdvanced Micro Devices (AMD, Financials), the semiconductor company competing with Nvidia in AI computing, is back at the center of a high-stakes hedge fund trade.\nSituational Awareness, formed by ex-OpenAI researcher Leopold Aschenbrenner, has been buying call options on AMD, Bloom Energy, CoreWeave, SK Hynix and SanDisk.\nThe size of the bet is notable. The fund has bought hundreds of millions of dollars in option premiums, returning to a strategy that generated giant profits earlier this year before falling apart amid July's technology selloff.\nSituational Awareness generated a 439% net return from the beginning of the year through June 30, according to an investor letter seen by the Financial Times, briefly making it one of the best-performing large funds of 2026.\nBut the rewards come with a lot of risk. The fund was said to be operating at around four times leverage, which made it particularly vulnerable when AI stocks turned in July. Then its portfolio declined by about 67 percent, and Situational Awareness was forced to sell off its AI assets, although it had made big gains through June.\nCitadel swooped in a day later to buy much of the public-equity holdings.\nThe timeline helps put the fund's eventful year in context: Situational Awareness had been one of the strongest performers in 2026, but heavy leverage and bad timing forced it to sell into the downturn, with Citadel stepping in to take over the positions.\nNow Aschenbrenner looks set to place another strong wager on the same broad AI infrastructure issue.\nThe stock picks include processors, cloud computing, memory, and electricity, some of the main bottlenecks in the AI buildout.\nFor investors, the trades provide an illuminating clue as to where one aggressive AI investor sees the next opportunity. That'll be the real test if AI stocks become volatile again and those leveraged option positions are forced to show themselves.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Advanced Micro Devices (AMD, Financials), the semiconductor company competing with Nvidia in AI computing, is back at the center of a high-stakes hedge fund trade.",
+      "Situational Awareness, formed by ex-OpenAI researcher Leopold Aschenbrenner, has been buying call options on AMD, Bloom Energy, CoreWeave, SK Hynix and SanDisk.",
+      "The size of the bet is notable. The fund has bought hundreds of millions of dollars in option premiums, returning to a strategy that generated giant profits earlier this year before falling apart amid July's technology selloff.",
+      "Situational Awareness generated a 439% net return from the beginning of the year through June 30, according to an investor letter seen by the Financial Times, briefly making it one of the best-performing large funds of 2026.",
+      "But the rewards come with a lot of risk. The fund was said to be operating at around four times leverage, which made it particularly vulnerable when AI stocks turned in July. Then its portfolio declined by about 67 percent, and Situational Awareness was forced to sell off its AI assets, although it had made big gains through June.",
+      "Citadel swooped in a day later to buy much of the public-equity holdings.",
+      "The timeline helps put the fund's eventful year in context: Situational Awareness had been one of the strongest performers in 2026, but heavy leverage and bad timing forced it to sell into the downturn, with Citadel stepping in to take over the positions.",
+      "Now Aschenbrenner looks set to place another strong wager on the same broad AI infrastructure issue.",
+      "The stock picks include processors, cloud computing, memory, and electricity, some of the main bottlenecks in the AI buildout.",
+      "For investors, the trades provide an illuminating clue as to where one aggressive AI investor sees the next opportunity. That'll be the real test if AI stocks become volatile again and those leveraged option positions are forced to show themselves."
+    ],
+    "html": null
+  }
+}

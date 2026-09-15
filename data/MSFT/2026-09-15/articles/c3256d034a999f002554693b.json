@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+    "fetched_at": "2026-09-15T07:07:37.242848-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up\nTech stocks fell on in early trading Tuesday, as AI industry continues to grapple with warnings that the technology could eventually harm humans. The Nasdaq fell roughly 0.2%.\nThe episode began last week when an Anthropic researcher announced he was leaving the company via a post on X, saying he didn't feel it was doing enough to keep AI in check.\nAnthropic Alignment Science Lead, Evan Hubinger, responded the post saying the former Anthropic worker is correct and that he believes there is a greater-than-10 % chance that the technology could \"kill all humans.\"\nOn Saturday, Anthropic CEO Dario Amodei posted an essay responding to the posts, calling on AI companies to slow the pace of frontier AI development. OpenAI CEO Sam Altman agreed.\nBut on Monday's All In podcast, Nvidia CEO Jensen Huang said that the fears of an AI doomsday scenarios are simply made up.\nThe various announcements raised questions about whether the AI buildout will continue at its breakneck pace, or if slowing frontier AI models could cut into it.",
+    "text_blocks": [
+      "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+      "Tech stocks fell on in early trading Tuesday, as AI industry continues to grapple with warnings that the technology could eventually harm humans. The Nasdaq fell roughly 0.2%.",
+      "The episode began last week when an Anthropic researcher announced he was leaving the company via a post on X, saying he didn't feel it was doing enough to keep AI in check.",
+      "Anthropic Alignment Science Lead, Evan Hubinger, responded the post saying the former Anthropic worker is correct and that he believes there is a greater-than-10 % chance that the technology could \"kill all humans.\"",
+      "On Saturday, Anthropic CEO Dario Amodei posted an essay responding to the posts, calling on AI companies to slow the pace of frontier AI development. OpenAI CEO Sam Altman agreed.",
+      "But on Monday's All In podcast, Nvidia CEO Jensen Huang said that the fears of an AI doomsday scenarios are simply made up.",
+      "The various announcements raised questions about whether the AI buildout will continue at its breakneck pace, or if slowing frontier AI models could cut into it."
+    ],
+    "html": null
+  }
+}

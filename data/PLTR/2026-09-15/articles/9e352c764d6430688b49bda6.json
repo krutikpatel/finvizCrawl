@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/palantir-nvidia-rethink-ai-over-190043439.html",
+    "fetched_at": "2026-09-15T07:07:42.547993-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir and Nvidia rethink AI use over a growing data risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalantir Technologies Inc. (PLTR, Financials), the software company known for handling sensitive government and enterprise data, is reportedly putting tougher limits on how some advanced AI models can be used.\nPalantir, Nvidia and Booz Allen Hamilton could restrict or stop using models from Anthropic and OpenAI unless the companies provide stronger guarantees around customer data and intellectual property, Reuters reported, citing The Information.\nPalantir has pushed Anthropic for irrevocable zero-data-retention guarantees before making its models available through Palantir software.\nNvidia is taking a different approach. The chipmaker reportedly limits Anthropic models to less sensitive work and uses its own Nemotron models for some internal tasks.\nBooz Allen has also barred employees from using Anthropic's commercial model for proprietary cybersecurity work. The concerns come as AI labs face more scrutiny over how usage logs and customer information are stored.\nMicrosoft may have an opening. The company is reportedly pitching isolated cloud environments and its own AI products to customers worried about data exposure.\nFor investors, this adds a new layer to the AI race. The winners may not simply have the strongest models. They may also be the companies customers trust with their most sensitive information.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palantir Technologies Inc. (PLTR, Financials), the software company known for handling sensitive government and enterprise data, is reportedly putting tougher limits on how some advanced AI models can be used.",
+      "Palantir, Nvidia and Booz Allen Hamilton could restrict or stop using models from Anthropic and OpenAI unless the companies provide stronger guarantees around customer data and intellectual property, Reuters reported, citing The Information.",
+      "Palantir has pushed Anthropic for irrevocable zero-data-retention guarantees before making its models available through Palantir software.",
+      "Nvidia is taking a different approach. The chipmaker reportedly limits Anthropic models to less sensitive work and uses its own Nemotron models for some internal tasks.",
+      "Booz Allen has also barred employees from using Anthropic's commercial model for proprietary cybersecurity work. The concerns come as AI labs face more scrutiny over how usage logs and customer information are stored.",
+      "Microsoft may have an opening. The company is reportedly pitching isolated cloud environments and its own AI products to customers worried about data exposure.",
+      "For investors, this adds a new layer to the AI race. The winners may not simply have the strongest models. They may also be the companies customers trust with their most sensitive information."
+    ],
+    "html": null
+  }
+}

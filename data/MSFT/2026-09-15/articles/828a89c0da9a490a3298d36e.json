@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/ai-doomerism-tech-prediction-history-91749704?mod=bar_FV",
+    "fetched_at": "2026-09-15T07:07:37.069365-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Doomerism: What History Says Happens Next<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "AI Doomerism Unleashed: ‘Most Predictions Are Wrong’\nThe existential fear of artificial intelligence has rocked the stock market. But if one thing can be learned from history it’s that predictions about technology rarely turn out to be completely correct.",
+    "text_blocks": [
+      "AI Doomerism Unleashed: ‘Most Predictions Are Wrong’",
+      "The existential fear of artificial intelligence has rocked the stock market. But if one thing can be learned from history it’s that predictions about technology rarely turn out to be completely correct."
+    ],
+    "html": null
+  }
+}

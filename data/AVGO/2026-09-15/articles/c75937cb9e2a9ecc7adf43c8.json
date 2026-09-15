@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-sends-urgent-message-123902083.html",
+    "fetched_at": "2026-09-15T07:07:39.843005-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom CEO Sends Urgent Message on AI Slowdown Fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO) shares fell sharply on Monday as concerns about a slower pace of frontier artificial intelligence development weighed on chip stocks, but CEO Hock Tan said he sees little reason to change the company's longer-term AI outlook, according to a Monday CNBC interview.\nThe concerns followed comments from Anthropic CEO Dario Amodei calling for a more measured approach to advances in AI models. OpenAI CEO Sam Altman and Elon Musk have also raised concerns around the pace and risks of AI development.\nTan said Broadcom still expects demand for computing infrastructure used for both AI model development and inference to remain durable. His remarks helped reinforce the company's existing forecasts for fiscal 2027 and 2028.\nBroadcom has close ties to Anthropic through its custom-chip business, making developments at the AI company particularly relevant for investors. Tan expects Anthropic to become Broadcom's largest custom-chip customer in 2027 and retain that position in 2028, overtaking Alphabet as the company's biggest custom-chip customer.\nTan also pointed to inference, which refers to running trained AI models for everyday use, as another potential source of sustained demand.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO) shares fell sharply on Monday as concerns about a slower pace of frontier artificial intelligence development weighed on chip stocks, but CEO Hock Tan said he sees little reason to change the company's longer-term AI outlook, according to a Monday CNBC interview.",
+      "The concerns followed comments from Anthropic CEO Dario Amodei calling for a more measured approach to advances in AI models. OpenAI CEO Sam Altman and Elon Musk have also raised concerns around the pace and risks of AI development.",
+      "Tan said Broadcom still expects demand for computing infrastructure used for both AI model development and inference to remain durable. His remarks helped reinforce the company's existing forecasts for fiscal 2027 and 2028.",
+      "Broadcom has close ties to Anthropic through its custom-chip business, making developments at the AI company particularly relevant for investors. Tan expects Anthropic to become Broadcom's largest custom-chip customer in 2027 and retain that position in 2028, overtaking Alphabet as the company's biggest custom-chip customer.",
+      "Tan also pointed to inference, which refers to running trained AI models for everyday use, as another potential source of sustained demand."
+    ],
+    "html": null
+  }
+}

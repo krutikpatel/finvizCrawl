@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-fall-89d71a18-98ce99c43344?mod=mw_FV",
+    "fetched_at": "2026-09-15T07:07:14.488085-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Ethereum leads way as large cryptocurrencies fall - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Crypto Update\nEthereum leads way as large cryptocurrencies fall\nAll large cryptocurrencies were down during U.S. morning trading on Tuesday, with Ethereum Ethereum USD seeing the biggest change, tumbling 4.55% to $2,453.34.\nSui Sui USD fell 4.14% to 71 cents, and Cardano Cardano USD declined 3.57% to 21 cents.",
+    "text_blocks": [
+      "Crypto Update",
+      "Ethereum leads way as large cryptocurrencies fall",
+      "All large cryptocurrencies were down during U.S. morning trading on Tuesday, with Ethereum Ethereum USD seeing the biggest change, tumbling 4.55% to $2,453.34.",
+      "Sui Sui USD fell 4.14% to 71 cents, and Cardano Cardano USD declined 3.57% to 21 cents."
+    ],
+    "html": null
+  }
+}

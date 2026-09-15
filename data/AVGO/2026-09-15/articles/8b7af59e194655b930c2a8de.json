@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sox-pullback-citi-weighs-113011481.html",
+    "fetched_at": "2026-09-15T07:07:39.976232-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Should you buy the SOX pullback? Citi weighs in",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Citi told investors in a note Tuesday that the recent pullback in semiconductor stocks looks like a buying opportunity, arguing that fears of an AI spending slowdown are overdone.\nThe bank noted that Nvidia and Broadcom management pushed back against those concerns, emphasizing that underlying infrastructure demand remains robust and consistent with Citi's constructive view.\nBroadcom Chief Executive Hock Tan reaffirmed confidence in the company's fiscal 2027 AI semiconductor revenue target of $115 billion.\nCiti said the strategic importance of AI leadership, particularly amid intensifying U.S.-China technology competition, \"makes a meaningful pullback in AI investment unlikely.\" It noted President Donald Trump had echoed that view, arguing the U.S. must maintain its technological edge over China.\nWhile ongoing policy and safety debates could temper the pace of frontier model development, the bank believes sustained demand for AI inference, combined with continued supply constraints, should support further capital investment across the ecosystem.\nIt argued that a slower rollout could even be a positive. \"More gradual deployment of AI infrastructure demand could ultimately prove beneficial for the stocks,\" Citi wrote.\nThe firm rates both chipmakers a Buy. It has a $315 price target on Nvidia and a $515 target on Broadcom.\nRelated articles\nShould you buy the SOX pullback? Citi weighs in\nGoldman expects lower but still attractive stock market returns in 2026",
+    "text_blocks": [
+      "Investing.com -- Citi told investors in a note Tuesday that the recent pullback in semiconductor stocks looks like a buying opportunity, arguing that fears of an AI spending slowdown are overdone.",
+      "The bank noted that Nvidia and Broadcom management pushed back against those concerns, emphasizing that underlying infrastructure demand remains robust and consistent with Citi's constructive view.",
+      "Broadcom Chief Executive Hock Tan reaffirmed confidence in the company's fiscal 2027 AI semiconductor revenue target of $115 billion.",
+      "Citi said the strategic importance of AI leadership, particularly amid intensifying U.S.-China technology competition, \"makes a meaningful pullback in AI investment unlikely.\" It noted President Donald Trump had echoed that view, arguing the U.S. must maintain its technological edge over China.",
+      "While ongoing policy and safety debates could temper the pace of frontier model development, the bank believes sustained demand for AI inference, combined with continued supply constraints, should support further capital investment across the ecosystem.",
+      "It argued that a slower rollout could even be a positive. \"More gradual deployment of AI infrastructure demand could ultimately prove beneficial for the stocks,\" Citi wrote.",
+      "The firm rates both chipmakers a Buy. It has a $315 price target on Nvidia and a $515 target on Broadcom.",
+      "Related articles",
+      "Should you buy the SOX pullback? Citi weighs in",
+      "Goldman expects lower but still attractive stock market returns in 2026"
+    ],
+    "html": null
+  }
+}

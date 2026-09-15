@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-booz-allen-restrict-173737812.html",
+    "fetched_at": "2026-09-15T07:07:42.475495-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir, Nvidia, Booz Allen restrict Anthropic and OpenAI models",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palantir Technologies, Nvidia, and Booz Allen Hamilton are restricting or threatening to drop advanced AI models from Anthropic and OpenAI unless the labs provide stronger data protections, according to Reuters. The Information first reported the story, citing people familiar with the matter.\nThe core concern is that model providers could retain or extract value from customers' sensitive corporate information. Palantir has pressed Anthropic to provide guarantees of zero data retention before making its models available through Palantir's software, according to Reuters. Nvidia restricts Anthropic's models to less sensitive internal tasks, preferring its own Nemotron models for proprietary work; Booz Allen, meanwhile, has forbidden staff from running Anthropic's commercial model on cybersecurity projects that touch proprietary data.\nThe pushback intensified after Anthropic introduced a 30-day data retention policy in June tied to the rollout of its Fable 5 model, saying it needed usage logs to detect sophisticated attacks that unfold across multiple sessions. Anthropic said at the time that it would not use the retained data to train its models, but the policy drew objections from enterprise customers, particularly those in regulated industries. OpenAI has faced related scrutiny over claims it may have trained models on user data, according to Reuters.\nAnthropic responded by announcing Enterprise Frontier Safeguards, a system that allows enterprise customers to store activity data in their own cloud infrastructure — including Amazon S3, Azure Blob Storage, or Google Cloud Storage — under their own encryption keys. Automated safety monitoring still scans for misuse, but no human review by Anthropic employees is required, the company said. The system is rolling out to customers in phases, with broader availability targeted for later this fall.\nNeither AI lab trains on customer data by default, Reuters reported, though both collect anonymized metadata for product improvement unless companies choose to opt in.\nThe restrictions reflect a broader shift that Palantir CEO Alex Karp has described publicly. Last week, Palantir and Nvidia unveiled a platform pairing Palantir's software with Nvidia's open Nemotron models, designed to let organizations run AI on their own data without exposing it to outside model providers. Nvidia is the first customer for the supply-chain application of that technology, according to Benzinga.\nMicrosoft, for its part, is seizing on the anxiety among enterprise customers to market its own AI products and segmented cloud infrastructure to prospective clients.\nNvidia shares dropped roughly 3% on Monday as AI-related stocks broadly retreated.",
+    "text_blocks": [
+      "Palantir Technologies, Nvidia, and Booz Allen Hamilton are restricting or threatening to drop advanced AI models from Anthropic and OpenAI unless the labs provide stronger data protections, according to Reuters. The Information first reported the story, citing people familiar with the matter.",
+      "The core concern is that model providers could retain or extract value from customers' sensitive corporate information. Palantir has pressed Anthropic to provide guarantees of zero data retention before making its models available through Palantir's software, according to Reuters. Nvidia restricts Anthropic's models to less sensitive internal tasks, preferring its own Nemotron models for proprietary work; Booz Allen, meanwhile, has forbidden staff from running Anthropic's commercial model on cybersecurity projects that touch proprietary data.",
+      "The pushback intensified after Anthropic introduced a 30-day data retention policy in June tied to the rollout of its Fable 5 model, saying it needed usage logs to detect sophisticated attacks that unfold across multiple sessions. Anthropic said at the time that it would not use the retained data to train its models, but the policy drew objections from enterprise customers, particularly those in regulated industries. OpenAI has faced related scrutiny over claims it may have trained models on user data, according to Reuters.",
+      "Anthropic responded by announcing Enterprise Frontier Safeguards, a system that allows enterprise customers to store activity data in their own cloud infrastructure — including Amazon S3, Azure Blob Storage, or Google Cloud Storage — under their own encryption keys. Automated safety monitoring still scans for misuse, but no human review by Anthropic employees is required, the company said. The system is rolling out to customers in phases, with broader availability targeted for later this fall.",
+      "Neither AI lab trains on customer data by default, Reuters reported, though both collect anonymized metadata for product improvement unless companies choose to opt in.",
+      "The restrictions reflect a broader shift that Palantir CEO Alex Karp has described publicly. Last week, Palantir and Nvidia unveiled a platform pairing Palantir's software with Nvidia's open Nemotron models, designed to let organizations run AI on their own data without exposing it to outside model providers. Nvidia is the first customer for the supply-chain application of that technology, according to Benzinga.",
+      "Microsoft, for its part, is seizing on the anxiety among enterprise customers to market its own AI products and segmented cloud infrastructure to prospective clients.",
+      "Nvidia shares dropped roughly 3% on Monday as AI-related stocks broadly retreated."
+    ],
+    "html": null
+  }
+}

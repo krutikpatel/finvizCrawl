@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
+    "fetched_at": "2026-09-15T07:07:50.023197-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech leaders say they want to slow down the development of AI amid growing fear",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.\nOver the weekend, Dario Amodei, the chief executive of Anthropic, published an essay titled \"We Must Pace the Frontier,\" calling for an industrywide effort to slow AI development. Executives at OpenAI, SpaceX and Microsoft also echoed the concern and called for some sort of pause.\nSemiconductor stocks bore the brunt of the statements. Chipmaker Nvidia fell 3% to $210.96. Its rival AMD lost 4%. Intel plunged 6%.\nAmid the fears, OpenAI, the company behind ChatGPT, suggested it might be delaying its initial public offering plans.\nOpenAI Chief Executive Sam Altman said in an interview with Fortune that it was an \"ill-advised moment\" for an initial public offering, saying the company won't list this year.\nShares of OpenAI shareholder SoftBank Group plunged 11% on Monday.\nWorries over doomsday scenarios tied to increasingly powerful technology skyrocketed last week after an Anthropic employee resigned, saying AI companies were gambling with humanity's future.\nOn Saturday, Amodei outlined ways he hoped to slow the pace of AI development.\nAmong his suggestions: Use independent third-party monitors to ensure AI was being developed safely.\n\"Anthropic is unilaterally committing to this step now,\" Amodei said.\nOpenAI said it would follow suit.\nMicrosoft on Monday published a \"humanist\" code of conduct to show its commitment to ensuring Microsoft's models \"will never resist human interruption, correction, or shutdown.\"\nAmodei's other proposals included working with democracies to set safety standards and finding ways to ensure Chinese entities also comply.\nAI capabilities have grown so rapidly that many industry leaders say they have spooked themselves. They warn that there is a not-insignificant possibility that humans will lose control of AI, which could do serious damage to the world.\nSkeptics say some of the fearmongering is motivated by industry leaders trying to solidify their positions by using new restrictions to make it difficult for competitors to emerge.\n\"What is clear is that Anthropic and OpenAI have grown to a size where they feel like they can do two things: One is encourage regulation, and two is control what that regulation looks like. And if they can do that, they can prevent competition,\" said Gil Luria, head of technology research at D.A. Davidson.\nAfter realizing a swarm of AI agents broke out of testing and hacked rival companies, OpenAI paused AI training for new models and promised to strengthen its cyber defenses. But it has since resumed.",
+    "text_blocks": [
+      "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.",
+      "Over the weekend, Dario Amodei, the chief executive of Anthropic, published an essay titled \"We Must Pace the Frontier,\" calling for an industrywide effort to slow AI development. Executives at OpenAI, SpaceX and Microsoft also echoed the concern and called for some sort of pause.",
+      "Semiconductor stocks bore the brunt of the statements. Chipmaker Nvidia fell 3% to $210.96. Its rival AMD lost 4%. Intel plunged 6%.",
+      "Amid the fears, OpenAI, the company behind ChatGPT, suggested it might be delaying its initial public offering plans.",
+      "OpenAI Chief Executive Sam Altman said in an interview with Fortune that it was an \"ill-advised moment\" for an initial public offering, saying the company won't list this year.",
+      "Shares of OpenAI shareholder SoftBank Group plunged 11% on Monday.",
+      "Worries over doomsday scenarios tied to increasingly powerful technology skyrocketed last week after an Anthropic employee resigned, saying AI companies were gambling with humanity's future.",
+      "On Saturday, Amodei outlined ways he hoped to slow the pace of AI development.",
+      "Among his suggestions: Use independent third-party monitors to ensure AI was being developed safely.",
+      "\"Anthropic is unilaterally committing to this step now,\" Amodei said.",
+      "OpenAI said it would follow suit.",
+      "Microsoft on Monday published a \"humanist\" code of conduct to show its commitment to ensuring Microsoft's models \"will never resist human interruption, correction, or shutdown.\"",
+      "Amodei's other proposals included working with democracies to set safety standards and finding ways to ensure Chinese entities also comply.",
+      "AI capabilities have grown so rapidly that many industry leaders say they have spooked themselves. They warn that there is a not-insignificant possibility that humans will lose control of AI, which could do serious damage to the world.",
+      "Skeptics say some of the fearmongering is motivated by industry leaders trying to solidify their positions by using new restrictions to make it difficult for competitors to emerge.",
+      "\"What is clear is that Anthropic and OpenAI have grown to a size where they feel like they can do two things: One is encourage regulation, and two is control what that regulation looks like. And if they can do that, they can prevent competition,\" said Gil Luria, head of technology research at D.A. Davidson.",
+      "After realizing a swarm of AI agents broke out of testing and hacked rival companies, OpenAI paused AI training for new models and promised to strengthen its cyber defenses. But it has since resumed."
+    ],
+    "html": null
+  }
+}

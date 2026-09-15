@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=ORCL",
+    "fetched_at": "2026-09-15T07:07:29.163606-07:00"
+  },
+  "company": {
+    "name": "Oracle Corp",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 141.04,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "S&P 500",
+    "Market Cap": "426.47B",
+    "Enterprise Value": "563.91B",
+    "Income": "18.74B",
+    "Sales": "71.78B",
+    "Book/sh": "20.44",
+    "Cash/sh": "12.26",
+    "Dividend Est.": "1.97 (1.40%)",
+    "Dividend TTM": "2.00 (1.42%)",
+    "Dividend Ex-Date": "Oct 09, 2026",
+    "Dividend Gr. 3/5Y": "13.72% 13.97%",
+    "Payout": "34.31%",
+    "Employees": "141000",
+    "IPO": "Mar 12, 1986"
+  },
+  "raw": null
+}

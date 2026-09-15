@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-doomsday-trade-152648772.html",
+    "fetched_at": "2026-09-15T07:07:57.521679-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street’s AI doomsday trade is here: chipmakers sink while hyperscalers gain",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "New York and San Francisco finally connected on Monday, as artificial intelligence's existential-risk debate hit stocks. But the market's reaction was more interesting than simply \"sell AI.\"\nNvidia fell more than 3% Monday morning, while Intel, AMD, and Marvell dropped between 5% and 6%, dragging the Philadelphia Semiconductor Index, a widely used measure of semiconductor stocks, down almost 6%. Neoclouds and other companies leveraged to relentless data center construction also came under pressure.\nYet two of the biggest spenders in the buildout went the other direction: Alphabet rose almost 2%, Microsoft added 1.6%, and Meta gained roughly 1.4%. Amazon fell about 1.6%, but held up considerably better than the chipmakers.\nThat divergence offers a bit of a window into how investors are gaming out something that, until this weekend, had quietly lurked in Wall Street's risk models: What if the frontier AI race actually slows?\nOn Saturday, Anthropic CEO Dario Amodei called for stronger safety measures and even a slowdown in model development after alarming demonstrations of models' cyber capabilities. OpenAI CEO Sam Altman and other AI leaders quickly backed him up. Some proposals called for government intervention to impose a slowdown.\nGil Luria, head of technology research at D.A. Davidson, argued that would hurt the companies selling the infrastructure—the picks and shovels of the trade, like Nvidia and CoreWeave—far more than the hyperscalers buying it.\nIf AI continues improving exponentially, Microsoft, Amazon, and Google will keep building data centers to meet demand, he told Fortune. But if progress slows, they can simply stop adding capacity and harvest the returns from what they already built.\n\"They'll just all stop building data centers and just digest what they have,\" Luria predicted.\nRevenue and profits could keep rising while capital expenditures fall, sending cash flow higher. He compared the dynamic to Amazon's post-pandemic pullback in warehouse construction, which paradoxically allowed cash flow to surge as the company continued using the capacity it had already built.\nThat helps explain Monday's strange split. Nvidia relies on customer spending for its revenue, but Google and Meta are the ones doing the spending, and they could suddenly spend less.\nNot everyone believes spending is in danger at all. Famed tech analyst Dan Ives wrote on X Monday that investors should \"see around the corner\": If OpenAI and Anthropic slow, software companies, Meta, and other model developers can simply use the extra time to catch up and close the gap. And, he noted, China is not slowing down. In fact, one of its top AI labs, Z.AI, raised another $5 billion over the weekend, Reuters reported.",
+    "text_blocks": [
+      "New York and San Francisco finally connected on Monday, as artificial intelligence's existential-risk debate hit stocks. But the market's reaction was more interesting than simply \"sell AI.\"",
+      "Nvidia fell more than 3% Monday morning, while Intel, AMD, and Marvell dropped between 5% and 6%, dragging the Philadelphia Semiconductor Index, a widely used measure of semiconductor stocks, down almost 6%. Neoclouds and other companies leveraged to relentless data center construction also came under pressure.",
+      "Yet two of the biggest spenders in the buildout went the other direction: Alphabet rose almost 2%, Microsoft added 1.6%, and Meta gained roughly 1.4%. Amazon fell about 1.6%, but held up considerably better than the chipmakers.",
+      "That divergence offers a bit of a window into how investors are gaming out something that, until this weekend, had quietly lurked in Wall Street's risk models: What if the frontier AI race actually slows?",
+      "On Saturday, Anthropic CEO Dario Amodei called for stronger safety measures and even a slowdown in model development after alarming demonstrations of models' cyber capabilities. OpenAI CEO Sam Altman and other AI leaders quickly backed him up. Some proposals called for government intervention to impose a slowdown.",
+      "Gil Luria, head of technology research at D.A. Davidson, argued that would hurt the companies selling the infrastructure—the picks and shovels of the trade, like Nvidia and CoreWeave—far more than the hyperscalers buying it.",
+      "If AI continues improving exponentially, Microsoft, Amazon, and Google will keep building data centers to meet demand, he told Fortune. But if progress slows, they can simply stop adding capacity and harvest the returns from what they already built.",
+      "\"They'll just all stop building data centers and just digest what they have,\" Luria predicted.",
+      "Revenue and profits could keep rising while capital expenditures fall, sending cash flow higher. He compared the dynamic to Amazon's post-pandemic pullback in warehouse construction, which paradoxically allowed cash flow to surge as the company continued using the capacity it had already built.",
+      "That helps explain Monday's strange split. Nvidia relies on customer spending for its revenue, but Google and Meta are the ones doing the spending, and they could suddenly spend less.",
+      "Not everyone believes spending is in danger at all. Famed tech analyst Dan Ives wrote on X Monday that investors should \"see around the corner\": If OpenAI and Anthropic slow, software companies, Meta, and other model developers can simply use the extra time to catch up and close the gap. And, he noted, China is not slowing down. In fact, one of its top AI labs, Z.AI, raised another $5 billion over the weekend, Reuters reported."
+    ],
+    "html": null
+  }
+}

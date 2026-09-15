@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-gains-1-6-53-124133699.html",
+    "fetched_at": "2026-09-15T07:07:47.523221-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Gains 1.6% as Its $53 Billion Anthropic Windfall Meets a Weapons Test",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAmazon.com (NASDAQ:AMZN), the e-commerce and cloud-computing giant, gained approximately 1.6% to $255.77 Friday as investors weighed a fresh safety challenge involving Anthropic. The AI developer said it disrupted suspected misuse of Claude connected to biological research, weapons development and cyber operations, then tightened its defenses.\nAnthropic's threat-intelligence report detailed five cases involving research that could assist biological-weapons development, although the company stopped short of claiming every researcher had harmful intent. It also identified suspected state-linked cyber campaigns and work involving conventional weapons. Amazon has plenty at stake: its second-quarter results included $53.4 billion in non-operating pretax income, driven primarily by gains tied to its Anthropic investment.\nThat $53.4 billion gain was roughly 3.2 times AWS's $16.62 billion in quarterly operating income. Anthropic has also committed to purchasing more than $100 billion of AWS computing capacity over ten years, turning the relationship into both a major investment and a massive cloud contract. The picture shows Amazon trading 3.22% above its $247.80 GF Value, suggesting the shares remain close to fair value despite the AI-driven enthusiasm. Strong enforcement can protect adoption; a serious safety failure could quickly invite restrictions and put one of Amazon's biggest AI opportunities under pressure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Amazon.com (NASDAQ:AMZN), the e-commerce and cloud-computing giant, gained approximately 1.6% to $255.77 Friday as investors weighed a fresh safety challenge involving Anthropic. The AI developer said it disrupted suspected misuse of Claude connected to biological research, weapons development and cyber operations, then tightened its defenses.",
+      "Anthropic's threat-intelligence report detailed five cases involving research that could assist biological-weapons development, although the company stopped short of claiming every researcher had harmful intent. It also identified suspected state-linked cyber campaigns and work involving conventional weapons. Amazon has plenty at stake: its second-quarter results included $53.4 billion in non-operating pretax income, driven primarily by gains tied to its Anthropic investment.",
+      "That $53.4 billion gain was roughly 3.2 times AWS's $16.62 billion in quarterly operating income. Anthropic has also committed to purchasing more than $100 billion of AWS computing capacity over ten years, turning the relationship into both a major investment and a massive cloud contract. The picture shows Amazon trading 3.22% above its $247.80 GF Value, suggesting the shares remain close to fair value despite the AI-driven enthusiasm. Strong enforcement can protect adoption; a serious safety failure could quickly invite restrictions and put one of Amazon's biggest AI opportunities under pressure."
+    ],
+    "html": null
+  }
+}

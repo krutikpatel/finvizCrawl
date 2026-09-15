@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-2929005a?mod=bar_FV",
+    "fetched_at": "2026-09-15T07:07:30.478487-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Bonds, AI, Crypto…It’s Make-or-Break Time for Markets\nWe’re back in the danger zone. The 10-year Treasury yield hit a new 19-year high above 5% early Tuesday—that should put markets on red alert.\nWe’re back in the danger zone. The 10-year Treasury yield hit a new 19-year high above 5% early Tuesday—that should put markets on red alert.",
+    "text_blocks": [
+      "Bonds, AI, Crypto…It’s Make-or-Break Time for Markets",
+      "We’re back in the danger zone. The 10-year Treasury yield hit a new 19-year high above 5% early Tuesday—that should put markets on red alert.",
+      "We’re back in the danger zone. The 10-year Treasury yield hit a new 19-year high above 5% early Tuesday—that should put markets on red alert."
+    ],
+    "html": null
+  }
+}
