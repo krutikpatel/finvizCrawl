@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-mtia-450-arke-ai-122735717.html",
+    "fetched_at": "2026-09-16T07:00:16.672831-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta MTIA 450 Arke AI chip deployment: cost savings 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta plans to begin deploying a new in-house AI chip in its data centers during the first half of next year, with the company saying the processor will deliver better performance per watt and per dollar than Nvidia's current offerings when running AI models.\nThe chip, designated MTIA 450 and code-named Arke, is currently in testing. According to Bloomberg, twelve units were delivered to Meta from Taiwan Semiconductor Manufacturing Co. on Sept. 1, and early results have landed within 2% to 3% of the figures Meta's simulations had forecast. On the first day of testing, the team ran Meta's own models as well as ones from DeepSeek and Alibaba Group on the processors.\nA fourth chip in the line, designated MTIA 500 and code-named Astrid, is set to wrap up its design work within roughly a month and enter data centers by late 2027. Bloomberg reports that Meta anticipates a wider rollout for Astrid than for Arke.\n\"Each one takes on a little bit more risk technologically, and gets us better performance,\" Yee Jiun Song, Meta's vice president of engineering said. Song said this encompasses improved efficiency in terms of both energy consumption per watt and cost per dollar. Measured by energy consumption, Meta has pledged to put more than a gigawatt's worth of the chips into service within any given 12-month window, and Song indicated that the pace is expected to pick up from there.\nThe chips target everyday inference workloads — executing AI models once training is complete — and are not intended to compete in segments where near-instantaneous response times are the priority. Meta is working with Broadcom on chip design and with TSMC on manufacturing.\nCost considerations have shaped the chip program's direction. Meta had been working toward a chip code-named Olympus that would have addressed both the training and inference stages of AI development, with a target launch of 2028 or 2029. That effort was scrapped so the company could concentrate on inference-only designs, with cost playing a significant role in the decision. \"When you start to build up gigawatts and gigawatts of capacity, you really care about cost,\" Song told Bloomberg, adding that a chip capable of both functions might be 30% more expensive — a gap he called \"completely unacceptable\" at that scale.\nMeta expanded its partnership with Broadcom on custom AI chips through 2029, covering multiple MTIA generations and anchoring the deal with a commitment to deploy more than one gigawatt of computing capacity. The two companies are collaborating across chip design, packaging, and networking. Separately, Meta began manufacturing its in-house AI chip code-named Iris in September, another chip in the MTIA line intended to supplement — not replace — GPUs the company purchases from Nvidia and AMD.\nMeta first announced plans to develop its own AI chips in 2023. The MTIA 300, an earlier chip in the line, is already running Meta's ranking and recommendation systems.",
+    "text_blocks": [
+      "Meta plans to begin deploying a new in-house AI chip in its data centers during the first half of next year, with the company saying the processor will deliver better performance per watt and per dollar than Nvidia's current offerings when running AI models.",
+      "The chip, designated MTIA 450 and code-named Arke, is currently in testing. According to Bloomberg, twelve units were delivered to Meta from Taiwan Semiconductor Manufacturing Co. on Sept. 1, and early results have landed within 2% to 3% of the figures Meta's simulations had forecast. On the first day of testing, the team ran Meta's own models as well as ones from DeepSeek and Alibaba Group on the processors.",
+      "A fourth chip in the line, designated MTIA 500 and code-named Astrid, is set to wrap up its design work within roughly a month and enter data centers by late 2027. Bloomberg reports that Meta anticipates a wider rollout for Astrid than for Arke.",
+      "\"Each one takes on a little bit more risk technologically, and gets us better performance,\" Yee Jiun Song, Meta's vice president of engineering said. Song said this encompasses improved efficiency in terms of both energy consumption per watt and cost per dollar. Measured by energy consumption, Meta has pledged to put more than a gigawatt's worth of the chips into service within any given 12-month window, and Song indicated that the pace is expected to pick up from there.",
+      "The chips target everyday inference workloads — executing AI models once training is complete — and are not intended to compete in segments where near-instantaneous response times are the priority. Meta is working with Broadcom on chip design and with TSMC on manufacturing.",
+      "Cost considerations have shaped the chip program's direction. Meta had been working toward a chip code-named Olympus that would have addressed both the training and inference stages of AI development, with a target launch of 2028 or 2029. That effort was scrapped so the company could concentrate on inference-only designs, with cost playing a significant role in the decision. \"When you start to build up gigawatts and gigawatts of capacity, you really care about cost,\" Song told Bloomberg, adding that a chip capable of both functions might be 30% more expensive — a gap he called \"completely unacceptable\" at that scale.",
+      "Meta expanded its partnership with Broadcom on custom AI chips through 2029, covering multiple MTIA generations and anchoring the deal with a commitment to deploy more than one gigawatt of computing capacity. The two companies are collaborating across chip design, packaging, and networking. Separately, Meta began manufacturing its in-house AI chip code-named Iris in September, another chip in the MTIA line intended to supplement — not replace — GPUs the company purchases from Nvidia and AMD.",
+      "Meta first announced plans to develop its own AI chips in 2023. The MTIA 300, an earlier chip in the line, is already running Meta's ranking and recommendation systems."
+    ],
+    "html": null
+  }
+}

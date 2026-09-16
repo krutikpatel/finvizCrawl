@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/business/retail/amazon-boosts-minimum-pay-for-u-s-full-time-core-operations-staff-to-20-hour-3355e230?mod=wsj_FV",
+    "fetched_at": "2026-09-16T07:00:42.101812-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Boosts Minimum Pay for U.S. Full-Time Core Operations Staff to $20/Hour - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon AMZN -0.09%decrease; down pointing triangle.com is raising the minimum starting wage for its U.S. full-time core operations employees to $20 an hour.\nThe e-commerce company announced the $1 per hour increase on Wednesday, alongside several new benefits like discounts on groceries.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Amazon AMZN -0.09%decrease; down pointing triangle.com is raising the minimum starting wage for its U.S. full-time core operations employees to $20 an hour.",
+      "The e-commerce company announced the $1 per hour increase on Wednesday, alongside several new benefits like discounts on groceries.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

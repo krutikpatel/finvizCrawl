@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-pushes-back-ai-115219758.html",
+    "fetched_at": "2026-09-16T07:00:35.056153-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom CEO pushes back on AI slowdown fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom Inc. (AVGO, Financials), a semiconductor and infrastructure software business gaining more exposure to specialized AI chips and networking, is bucking predictions that the AI revolution is losing steam.CEO Hock Tan rejected fears about a broader AI slowdown and defended the company's long-term revenue targets.The message comes as investors are increasingly attuned to hints that the enormous infrastructure cycle behind AI equities could be cooling. Broadcom has a lot at stake in that dispute.The company sells networking technology to connect big clusters of AI accelerators together and is also emerging as a key participant in the custom chips that are built for hyperscale customers.These companies provide Broadcom with exposure to AI spend without being fully reliant on the market for general purpose GPUs. That distinction might become more relevant.Technology firms are making more custom silicon in a bid for cheaper and more effective solutions to manage massive AI workloads.If that pattern continues, Broadcom is the winner. Tan's optimism thus gives investors a direct rebuttal to recent worries over AI spending.The next test will be Broadcom's results and outlook, which will show investors whether customer orders continue to support management's long-term optimism.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom Inc. (AVGO, Financials), a semiconductor and infrastructure software business gaining more exposure to specialized AI chips and networking, is bucking predictions that the AI revolution is losing steam.CEO Hock Tan rejected fears about a broader AI slowdown and defended the company's long-term revenue targets.The message comes as investors are increasingly attuned to hints that the enormous infrastructure cycle behind AI equities could be cooling. Broadcom has a lot at stake in that dispute.The company sells networking technology to connect big clusters of AI accelerators together and is also emerging as a key participant in the custom chips that are built for hyperscale customers.These companies provide Broadcom with exposure to AI spend without being fully reliant on the market for general purpose GPUs. That distinction might become more relevant.Technology firms are making more custom silicon in a bid for cheaper and more effective solutions to manage massive AI workloads.If that pattern continues, Broadcom is the winner. Tan's optimism thus gives investors a direct rebuttal to recent worries over AI spending.The next test will be Broadcom's results and outlook, which will show investors whether customer orders continue to support management's long-term optimism."
+    ],
+    "html": null
+  }
+}

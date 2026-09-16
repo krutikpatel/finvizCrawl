@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/arm-surges-ai-selloff-tests-192916737.html",
+    "fetched_at": "2026-09-16T07:00:50.868445-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Surges as the AI Selloff Tests Its Royalty Machine",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), the processor-architecture and semiconductor intellectual-property company, surged approximately 3.1% to $246.64 Tuesday morning as AI-linked semiconductor stocks fought back from Monday's selloff. The shares swung between $238.20 and $253.06, creating a nearly $15 intraday range and showing just how quickly sentiment is shifting around the AI trade.\nArm's fiscal first-quarter results gave investors plenty of fundamental firepower. Revenue reached a record $1.29 billion, up 22% from a year earlier, while royalty revenue climbed 22% to $715 million and licensing revenue rose 23% to $574 million. Data-center royalties more than doubled as cloud providers continued deploying Arm-based processors, strengthening the company's position inside one of the fastest-growing areas of computing.\nThe valuation, however, leaves little room for disappointment. The chart shows Arm at $246.64 versus a GF Value estimate of $193.19, putting the stock 27.67% above that benchmark. Royalties accounted for roughly 55.4% of quarterly revenue, giving Arm a highly scalable way to participate as partners ship more chips, but investors are already paying heavily for that growth. Tuesday's rebound keeps the AI story alive; now Arm needs server, smartphone and edge-AI volumes to keep catching up with the price.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), the processor-architecture and semiconductor intellectual-property company, surged approximately 3.1% to $246.64 Tuesday morning as AI-linked semiconductor stocks fought back from Monday's selloff. The shares swung between $238.20 and $253.06, creating a nearly $15 intraday range and showing just how quickly sentiment is shifting around the AI trade.",
+      "Arm's fiscal first-quarter results gave investors plenty of fundamental firepower. Revenue reached a record $1.29 billion, up 22% from a year earlier, while royalty revenue climbed 22% to $715 million and licensing revenue rose 23% to $574 million. Data-center royalties more than doubled as cloud providers continued deploying Arm-based processors, strengthening the company's position inside one of the fastest-growing areas of computing.",
+      "The valuation, however, leaves little room for disappointment. The chart shows Arm at $246.64 versus a GF Value estimate of $193.19, putting the stock 27.67% above that benchmark. Royalties accounted for roughly 55.4% of quarterly revenue, giving Arm a highly scalable way to participate as partners ship more chips, but investors are already paying heavily for that growth. Tuesday's rebound keeps the AI story alive; now Arm needs server, smartphone and edge-AI volumes to keep catching up with the price."
+    ],
+    "html": null
+  }
+}

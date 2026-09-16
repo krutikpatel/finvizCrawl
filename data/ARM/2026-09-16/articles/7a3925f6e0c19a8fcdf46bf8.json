@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_FV",
+    "fetched_at": "2026-09-16T07:00:50.574420-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nAI stocks are rebounding. One analyst says there’s no spending slowdown in sight.\nCustomers are signing multiyear deals for chips and more: ‘That’s not what the front end of a downturn looks like’\nArtificial-intelligence stocks have stemmed the bleeding, after a selloff on Monday spurred by concerns that major model creators would start taking a more disciplined approach to AI development and spending.\nAmong notable chip stocks on the rebound Tuesday were Qualcomm QCOM, Advanced Micro Devices AMD, Marvell Technology MRVL and Arm Holdings ARM. Shares of Nvidia NVDA and Micron Technology MU saw more modest gains, while Intel INTC declined.",
+    "text_blocks": [
+      "Tech Stocks",
+      "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "Customers are signing multiyear deals for chips and more: ‘That’s not what the front end of a downturn looks like’",
+      "Artificial-intelligence stocks have stemmed the bleeding, after a selloff on Monday spurred by concerns that major model creators would start taking a more disciplined approach to AI development and spending.",
+      "Among notable chip stocks on the rebound Tuesday were Qualcomm QCOM, Advanced Micro Devices AMD, Marvell Technology MRVL and Arm Holdings ARM. Shares of Nvidia NVDA and Micron Technology MU saw more modest gains, while Intel INTC declined."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-drops-664-billion-backlog-210028124.html",
+    "fetched_at": "2026-09-16T07:00:27.421989-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Drops as Its $664 Billion Backlog Meets Reality",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL), the database and AI-cloud infrastructure provider, fell approximately 1.4% to $142.84 Tuesday as investors looked past the company's enormous AI backlog and focused instead on what it will cost to build the capacity behind it. The stock's retreat after last week's earnings surge suggests Oracle's AI opportunity is huge, but the capital required to capture it is becoming just as important to investors.\nOracle's fiscal first-quarter results showed revenue climbing 30% to $19.3 billion, while cloud infrastructure revenue exploded 121% to $7.4 billion. Remaining performance obligations reached $664 billion, giving Oracle extraordinary visibility into future demand. Yet Reuters reported quarterly capital expenditure of $28.5 billion alongside negative free cash flow of $5.4 billion, illustrating how aggressively the company is spending to turn that demand into usable computing capacity.\nThe valuation picture adds another twist. The chart places Oracle's $142.84 share price 25.09% below its GF Value estimate of $190.69, suggesting the stock trades at a sizable discount to GuruFocus' estimate of intrinsic value. Meanwhile, the $664 billion backlog equals roughly 34.4 quarters of current quarterly revenue, while first-quarter capital spending represented nearly 148% of sales. Oracle has already demonstrated that AI customers want more capacity; the harder question is how much cash must leave the door before that backlog finally becomes revenue, profit and free cash flow.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL), the database and AI-cloud infrastructure provider, fell approximately 1.4% to $142.84 Tuesday as investors looked past the company's enormous AI backlog and focused instead on what it will cost to build the capacity behind it. The stock's retreat after last week's earnings surge suggests Oracle's AI opportunity is huge, but the capital required to capture it is becoming just as important to investors.",
+      "Oracle's fiscal first-quarter results showed revenue climbing 30% to $19.3 billion, while cloud infrastructure revenue exploded 121% to $7.4 billion. Remaining performance obligations reached $664 billion, giving Oracle extraordinary visibility into future demand. Yet Reuters reported quarterly capital expenditure of $28.5 billion alongside negative free cash flow of $5.4 billion, illustrating how aggressively the company is spending to turn that demand into usable computing capacity.",
+      "The valuation picture adds another twist. The chart places Oracle's $142.84 share price 25.09% below its GF Value estimate of $190.69, suggesting the stock trades at a sizable discount to GuruFocus' estimate of intrinsic value. Meanwhile, the $664 billion backlog equals roughly 34.4 quarters of current quarterly revenue, while first-quarter capital spending represented nearly 148% of sales. Oracle has already demonstrated that AI customers want more capacity; the harder question is how much cash must leave the door before that backlog finally becomes revenue, profit and free cash flow."
+    ],
+    "html": null
+  }
+}

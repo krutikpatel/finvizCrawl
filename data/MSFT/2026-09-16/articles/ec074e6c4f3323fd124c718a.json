@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/microsoft-stock-dividend-ai-spending-66b74e26?mod=bar_FV",
+    "fetched_at": "2026-09-16T07:00:32.406200-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft’s Dividend Boost Ties Directly to Its AI Spending<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "How Microsoft’s Dividend Boost Ties Directly to Its AI Spending\nMicrosoft raised its quarterly dividend as the tech giant balances its massive artificial-intelligence spending with returns to investors.\nMicrosoft raised its quarterly dividend as the tech giant balances its massive artificial-intelligence spending with returns to investors.",
+    "text_blocks": [
+      "How Microsoft’s Dividend Boost Ties Directly to Its AI Spending",
+      "Microsoft raised its quarterly dividend as the tech giant balances its massive artificial-intelligence spending with returns to investors.",
+      "Microsoft raised its quarterly dividend as the tech giant balances its massive artificial-intelligence spending with returns to investors."
+    ],
+    "html": null
+  }
+}

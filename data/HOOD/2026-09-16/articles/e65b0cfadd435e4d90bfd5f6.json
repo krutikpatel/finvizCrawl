@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/two-former-robinhood-employees-charged-with-fraud-gMgpTdqIxxoCfD6nVgS3?mod=wsj_FV",
+    "fetched_at": "2026-09-16T07:00:25.018612-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Two Former Robinhood Employees Charged With Fraud",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "14 hours ago\nTwo Former Robinhood Employees Charged With Fraud\nFederal prosecutors have charged two former staffers at Robinhood Markets with fraud, according to a complaint filed Tuesday in the Southern District of New York.\nThe complaint alleges that the two defendants were working as engineers at Robinhood when they used confidential company information to trade perpetual futures on the trading platform Hyperliquid.\nThe former employees, Hefu Chai and Huaisong Xiang, allegedly used information in emails and Slack channels to buy perpetual futures linked to crypto tokens, ahead of announcements that those tokens would be listed on the Robinhood Crypto platform. The claim alleges the defendants each profited more than $50,000 from the trades.",
+    "text_blocks": [
+      "14 hours ago",
+      "Two Former Robinhood Employees Charged With Fraud",
+      "Federal prosecutors have charged two former staffers at Robinhood Markets with fraud, according to a complaint filed Tuesday in the Southern District of New York.",
+      "The complaint alleges that the two defendants were working as engineers at Robinhood when they used confidential company information to trade perpetual futures on the trading platform Hyperliquid.",
+      "The former employees, Hefu Chai and Huaisong Xiang, allegedly used information in emails and Slack channels to buy perpetual futures linked to crypto tokens, ahead of announcements that those tokens would be listed on the Robinhood Crypto platform. The claim alleges the defendants each profited more than $50,000 from the trades."
+    ],
+    "html": null
+  }
+}

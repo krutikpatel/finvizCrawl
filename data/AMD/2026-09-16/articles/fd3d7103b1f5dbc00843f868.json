@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-federal-reserve-interest-rate-decision-september-meeting/card/semiconductors-and-tech-hardware-names-are-off-to-a-strong-start-on-wednesday-9CMI6FxtT0Z2ndiDZUo2?mod=mw_FV",
+    "fetched_at": "2026-09-16T07:00:44.702908-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Semiconductors and tech-hardware names are off to a strong start on Wednesday - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "8 min ago\nSemiconductors and tech-hardware names are off to a strong start on Wednesday\nChip stocks and tech hardware names like Dell were off to a strong start on Monday. Semiconductor stocks such as AMD and Intel were among the strongest performers on the S&P 500, helping to claw back recent losses.\nThe top-performing stock in the index was Lumentum Holdings, another AI-related hardware play. The company specializes in optical and photonics components that data centers need to function.",
+    "text_blocks": [
+      "8 min ago",
+      "Semiconductors and tech-hardware names are off to a strong start on Wednesday",
+      "Chip stocks and tech hardware names like Dell were off to a strong start on Monday. Semiconductor stocks such as AMD and Intel were among the strongest performers on the S&P 500, helping to claw back recent losses.",
+      "The top-performing stock in the index was Lumentum Holdings, another AI-related hardware play. The company specializes in optical and photonics components that data centers need to function."
+    ],
+    "html": null
+  }
+}

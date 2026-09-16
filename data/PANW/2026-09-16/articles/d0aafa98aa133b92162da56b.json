@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/actually-buying-cloudflare-stock-215727541.html",
+    "fetched_at": "2026-09-16T07:00:47.470231-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Are You Actually Buying In Cloudflare Stock?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cloudflare (NET) stock has gained about 45% in three months while the S&P 500 returned 2.8%, and sits at the top of its 52-week range. That price is paying for more than the growth: a business Cloudflare has only started to build, charging AI agents for the requests they send.\nWhere Is Cloudflare's Growth Coming From?\nRevenue growth accelerated to 36% year over year in the June quarter, on trailing-twelve-month sales of $2.5 billion. Management names the Workers developer platform first. Nearly 2 million developers joined in the June quarter, more than the 1.5 million added in all of 2025. And for the first time, the company says, more than half its traffic was not human.\nThe largest deal management cited was still a five-year, $31.8 million contract for Application Services and Zero Trust, its performance and security products. But it says Workers is its fastest-growing line, and more customers now sign pool of funds contracts to use it.\nCloudflare loses money on a GAAP basis, so there is no earnings multiple. On sales it costs 46.6 times against 3.2 for the S&P 500, while converting 25.2% of revenue into operating cash flow against 21.8% for the market. You pay for the growth, and for what comes next.\nWho Pays Cloudflare When Machines Do The Browsing?\nSo far the traffic mix costs margin: as paid traffic grows relative to free, management allocates more network cost to cost of revenue. Non-GAAP gross margin was 73.1% in the June quarter, down 320 basis points year over year though up 30 basis points sequentially, and management expects it to hold.\nThe larger question is whether agents can be charged. The plan is a fee of fractions of a penny per request through the Monetization Gateway, wallets and cloudflare.pay, unveiled since the September quarter began. By the CEO's rough, unaudited arithmetic, that means a system able to handle 10 million transactions a second at launch, scaling to 100 million. The largest payment network in the world handles about 20,000 a second at its peak.\nWhat Happens To Your Money If The Market Turns?\nCloudflare's record when markets break is mixed. The stock fell 12% in the 2020 pandemic crash while the S&P 500 fell 34%. Its deeper fall was the 2022 inflation shock, when it lost 69% while the S&P 500 fell 24% and took about 31 months from the low to get back.\nThe company is not the fragile part. It ended June with $4.2 billion of cash and securities, and in August priced $2.175 billion of 0% convertible notes due 2031. Management says it is ahead of its plan for GAAP profitability by the end of 2028.",
+    "text_blocks": [
+      "Cloudflare (NET) stock has gained about 45% in three months while the S&P 500 returned 2.8%, and sits at the top of its 52-week range. That price is paying for more than the growth: a business Cloudflare has only started to build, charging AI agents for the requests they send.",
+      "Where Is Cloudflare's Growth Coming From?",
+      "Revenue growth accelerated to 36% year over year in the June quarter, on trailing-twelve-month sales of $2.5 billion. Management names the Workers developer platform first. Nearly 2 million developers joined in the June quarter, more than the 1.5 million added in all of 2025. And for the first time, the company says, more than half its traffic was not human.",
+      "The largest deal management cited was still a five-year, $31.8 million contract for Application Services and Zero Trust, its performance and security products. But it says Workers is its fastest-growing line, and more customers now sign pool of funds contracts to use it.",
+      "Cloudflare loses money on a GAAP basis, so there is no earnings multiple. On sales it costs 46.6 times against 3.2 for the S&P 500, while converting 25.2% of revenue into operating cash flow against 21.8% for the market. You pay for the growth, and for what comes next.",
+      "Who Pays Cloudflare When Machines Do The Browsing?",
+      "So far the traffic mix costs margin: as paid traffic grows relative to free, management allocates more network cost to cost of revenue. Non-GAAP gross margin was 73.1% in the June quarter, down 320 basis points year over year though up 30 basis points sequentially, and management expects it to hold.",
+      "The larger question is whether agents can be charged. The plan is a fee of fractions of a penny per request through the Monetization Gateway, wallets and cloudflare.pay, unveiled since the September quarter began. By the CEO's rough, unaudited arithmetic, that means a system able to handle 10 million transactions a second at launch, scaling to 100 million. The largest payment network in the world handles about 20,000 a second at its peak.",
+      "What Happens To Your Money If The Market Turns?",
+      "Cloudflare's record when markets break is mixed. The stock fell 12% in the 2020 pandemic crash while the S&P 500 fell 34%. Its deeper fall was the 2022 inflation shock, when it lost 69% while the S&P 500 fell 24% and took about 31 months from the low to get back.",
+      "The company is not the fragile part. It ended June with $4.2 billion of cash and securities, and in August priced $2.175 billion of 0% convertible notes due 2031. Management says it is ahead of its plan for GAAP profitability by the end of 2028."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-chips-cannot-011146960.html",
+    "fetched_at": "2026-09-16T07:00:35.044661-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Intel (INTC) stock has returned about 295% over the past year, but it has given back 22% over the past three months. It trades roughly 31% below its 52-week high. The question now is what powers the next leg, and the answer is what Intel can build, not what it can sell.\nWhat Is Intel Actually Short Of?\nDemand is not the constraint. By the company's own account, it ran ahead of supply in both quarters Intel has reported in 2026. Asked on the April 2026 call how much revenue that was costing in Q2 2026, management would say only that the number runs into the billions. Data center revenue grew 59% year over year in Q2 2026, after 22% in Q1 2026, and Q2 2026 server growth was the strongest on record.\nThe shortage is physical. The server processor made on Intel 3 is extremely tight, and the Xeon 6 is one of the fastest ramping products in the company's history. Management points to areas like substrates and memory as probably the most challenged parts of its supply chain.\nIs Intel Spending To Fix That Shortage?\nOn the April 2026 call management expected 2026 capital spending to be flat against 2025. By the July 2026 call it was guiding to more than $20 billion, and it said 2027 would run significantly above that.\nTrailing-twelve-month revenue is about $57 billion, so a capital budget above $20 billion is more than a third of a year's sales. Management ties the spend to long-term agreements; on the April 2026 call, it said most of those usually fix volume and pricing for three to five years. In August 2026 Intel priced a $20 billion stock offering, 210.5 million new shares at $95 each, up from the $15 billion proposed a day earlier. Intel said the proceeds were for general corporate purposes and growth.\nWhat Do You Watch Before The Next Leg?\nThe doubt is about what that volume earns. Management has guided gross margin flat from Q2 2026 to Q3 2026, at 42% on a non-GAAP basis, even with revenue growing at its fastest in more than 15 years. Mix is the drag, offset by a Q2 2026 inventory write-down that does not repeat. Panther Lake and the Intel 3 server processor are a growing share of what ships, and both still run below the corporate average gross margin because they are early in their life cycles.\nManagement expects PC consumption to be down to low double digits for all of 2026 on rising memory prices; the demand outrunning supply is a server story, and its server CPU demand outlook has improved again since April 2026. So gross margin is the number to watch, more than wafer output. Intel has told you the volume is coming, and it has not yet shown you that the volume pays.",
+    "text_blocks": [
+      "Intel (INTC) stock has returned about 295% over the past year, but it has given back 22% over the past three months. It trades roughly 31% below its 52-week high. The question now is what powers the next leg, and the answer is what Intel can build, not what it can sell.",
+      "What Is Intel Actually Short Of?",
+      "Demand is not the constraint. By the company's own account, it ran ahead of supply in both quarters Intel has reported in 2026. Asked on the April 2026 call how much revenue that was costing in Q2 2026, management would say only that the number runs into the billions. Data center revenue grew 59% year over year in Q2 2026, after 22% in Q1 2026, and Q2 2026 server growth was the strongest on record.",
+      "The shortage is physical. The server processor made on Intel 3 is extremely tight, and the Xeon 6 is one of the fastest ramping products in the company's history. Management points to areas like substrates and memory as probably the most challenged parts of its supply chain.",
+      "Is Intel Spending To Fix That Shortage?",
+      "On the April 2026 call management expected 2026 capital spending to be flat against 2025. By the July 2026 call it was guiding to more than $20 billion, and it said 2027 would run significantly above that.",
+      "Trailing-twelve-month revenue is about $57 billion, so a capital budget above $20 billion is more than a third of a year's sales. Management ties the spend to long-term agreements; on the April 2026 call, it said most of those usually fix volume and pricing for three to five years. In August 2026 Intel priced a $20 billion stock offering, 210.5 million new shares at $95 each, up from the $15 billion proposed a day earlier. Intel said the proceeds were for general corporate purposes and growth.",
+      "What Do You Watch Before The Next Leg?",
+      "The doubt is about what that volume earns. Management has guided gross margin flat from Q2 2026 to Q3 2026, at 42% on a non-GAAP basis, even with revenue growing at its fastest in more than 15 years. Mix is the drag, offset by a Q2 2026 inventory write-down that does not repeat. Panther Lake and the Intel 3 server processor are a growing share of what ships, and both still run below the corporate average gross margin because they are early in their life cycles.",
+      "Management expects PC consumption to be down to low double digits for all of 2026 on rising memory prices; the demand outrunning supply is a server story, and its server CPU demand outlook has improved again since April 2026. So gross margin is the number to watch, more than wafer output. Intel has told you the volume is coming, and it has not yet shown you that the volume pays."
+    ],
+    "html": null
+  }
+}

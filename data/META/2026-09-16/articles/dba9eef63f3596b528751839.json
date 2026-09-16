@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-sends-powerful-message-115028123.html",
+    "fetched_at": "2026-09-16T07:00:16.665545-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta CEO Sends Powerful Message on AI Slowdown",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms (META) CEO Mark Zuckerberg said AI companies should determine their own pace for developing artificial intelligence rather than coordinating an industry-wide slowdown, according to comments posted Tuesday on X. The remarks come as debate grows over how to manage risks tied to increasingly capable AI systems.\nZuckerberg said AI developers have strong incentives to build safeguards into their products because of competitive pressures and potential liability if systems cause harm. He also pointed to Meta's decision to postpone the release of its Muse AI technology while additional safety and security work was completed, according to a Tuesday social media post.\nThe Meta executive's comments broadly align with views expressed by Nvidia (NVDA) Chief Executive Jensen Huang, who has also argued against coordinated efforts to slow AI progress. Both executives have suggested that companies can address safety concerns independently while continuing development.\nThe discussion follows recent calls from Anthropic CEO Dario Amodei and other AI leaders for greater coordination as advanced AI models become more powerful. Zuckerberg said trust, alignment and responsible deployment may become key differentiators among future AI systems, while noting that outside reviewers can help evaluate safety practices.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms (META) CEO Mark Zuckerberg said AI companies should determine their own pace for developing artificial intelligence rather than coordinating an industry-wide slowdown, according to comments posted Tuesday on X. The remarks come as debate grows over how to manage risks tied to increasingly capable AI systems.",
+      "Zuckerberg said AI developers have strong incentives to build safeguards into their products because of competitive pressures and potential liability if systems cause harm. He also pointed to Meta's decision to postpone the release of its Muse AI technology while additional safety and security work was completed, according to a Tuesday social media post.",
+      "The Meta executive's comments broadly align with views expressed by Nvidia (NVDA) Chief Executive Jensen Huang, who has also argued against coordinated efforts to slow AI progress. Both executives have suggested that companies can address safety concerns independently while continuing development.",
+      "The discussion follows recent calls from Anthropic CEO Dario Amodei and other AI leaders for greater coordination as advanced AI models become more powerful. Zuckerberg said trust, alignment and responsible deployment may become key differentiators among future AI systems, while noting that outside reviewers can help evaluate safety practices."
+    ],
+    "html": null
+  }
+}

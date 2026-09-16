@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=PLTR",
+    "fetched_at": "2026-09-16T07:00:35.936803-07:00"
+  },
+  "company": {
+    "name": "Palantir Technologies Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 171.06,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "411.07B",
+    "Enterprise Value": "401.97B",
+    "Income": "3.02B",
+    "Sales": "6.16B",
+    "Book/sh": "4.07",
+    "Cash/sh": "3.92",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "4429",
+    "IPO": "Sep 30, 2020"
+  },
+  "raw": null
+}

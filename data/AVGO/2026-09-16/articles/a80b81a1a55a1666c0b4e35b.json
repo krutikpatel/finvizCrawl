@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-already-priced-2027-005331921.html",
+    "fetched_at": "2026-09-16T07:00:35.011843-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Advanced Micro Devices (AMD) has returned more than 200% over the past year. The number that should worry a holder is 19.5: the price-to-sales multiple, against a ten-year high of 23.0, in the top decile of the stock's own decade. That multiple sits in the top decile of the stock's own decade, and the growth behind it, a doubling of the data center business in 2027, rests on a product that had not shipped when management last reported.\nAMD Sits Near A Ten-Year Ceiling On Sales\nAMD is worth about $805 billion on $41.3 billion of revenue over the past twelve months. A multiple that high likely assumes both growth and margin hold. Neither is weak: revenue grew 50% year over year in fiscal Q2 2026, and non-GAAP gross margin reached 56%, up over 200 basis points. The worry is the cushion if either stalls, and the mood can turn fast: chip stocks, AMD among them, fell in premarket trading on Monday after AI leaders urged a slowdown in AI model development over the weekend.\nAnd AMD Is Counting On A 2027 Doubling To Earn It\nData center is now 58% of total revenue, and management expects the segment to more than double year over year in 2027, with data center AI growing well over 100%. The product behind that 2027 doubling is Helios, a rack-scale platform pairing EPYC CPUs with MI450 series GPUs, due to start shipping in fiscal Q3 2026 and ramp into 2027.\nOpenAI and Meta are among the strategic anchor customers, and a third anchor customer has signed for up to two gigawatts of MI450 series GPUs starting in the first half of 2027. Server CPUs carry the rest, with server revenue expected to grow more than 70% in 2027.\nBut AMD Expects A Thinner Margin On Helios\nManagement says the data center AI business carries a gross margin slightly below the corporate average, with Helios yields expected to improve over its first few quarters. On its fiscal Q1 2026 call, management put the analyst-day long-term margin band at 55% to 58%, so the 56% of fiscal Q2 2026 sits one point above the 55% floor of management's own band. The CFO's offset is mix: server CPUs are accretive to gross margin, and the embedded business should add a tailwind in 2027. The server CPU supply chain is tight too, management says, though it expects 2027 to be better.\nSo How Worried Should You Be?\nLess about AMD than about the price of AMD. Revenue is growing faster than a year ago and gross margin is higher. But a stock in the top decile of its own decade on sales has little cushion if the Helios ramp slips a quarter or the margin drifts below the model, because the multiple and the earnings could then fall together.",
+    "text_blocks": [
+      "Advanced Micro Devices (AMD) has returned more than 200% over the past year. The number that should worry a holder is 19.5: the price-to-sales multiple, against a ten-year high of 23.0, in the top decile of the stock's own decade. That multiple sits in the top decile of the stock's own decade, and the growth behind it, a doubling of the data center business in 2027, rests on a product that had not shipped when management last reported.",
+      "AMD Sits Near A Ten-Year Ceiling On Sales",
+      "AMD is worth about $805 billion on $41.3 billion of revenue over the past twelve months. A multiple that high likely assumes both growth and margin hold. Neither is weak: revenue grew 50% year over year in fiscal Q2 2026, and non-GAAP gross margin reached 56%, up over 200 basis points. The worry is the cushion if either stalls, and the mood can turn fast: chip stocks, AMD among them, fell in premarket trading on Monday after AI leaders urged a slowdown in AI model development over the weekend.",
+      "And AMD Is Counting On A 2027 Doubling To Earn It",
+      "Data center is now 58% of total revenue, and management expects the segment to more than double year over year in 2027, with data center AI growing well over 100%. The product behind that 2027 doubling is Helios, a rack-scale platform pairing EPYC CPUs with MI450 series GPUs, due to start shipping in fiscal Q3 2026 and ramp into 2027.",
+      "OpenAI and Meta are among the strategic anchor customers, and a third anchor customer has signed for up to two gigawatts of MI450 series GPUs starting in the first half of 2027. Server CPUs carry the rest, with server revenue expected to grow more than 70% in 2027.",
+      "But AMD Expects A Thinner Margin On Helios",
+      "Management says the data center AI business carries a gross margin slightly below the corporate average, with Helios yields expected to improve over its first few quarters. On its fiscal Q1 2026 call, management put the analyst-day long-term margin band at 55% to 58%, so the 56% of fiscal Q2 2026 sits one point above the 55% floor of management's own band. The CFO's offset is mix: server CPUs are accretive to gross margin, and the embedded business should add a tailwind in 2027. The server CPU supply chain is tight too, management says, though it expects 2027 to be better.",
+      "So How Worried Should You Be?",
+      "Less about AMD than about the price of AMD. Revenue is growing faster than a year ago and gross margin is higher. But a stock in the top decile of its own decade on sales has little cushion if the Helios ramp slips a quarter or the margin drifts below the model, because the multiple and the earnings could then fall together."
+    ],
+    "html": null
+  }
+}

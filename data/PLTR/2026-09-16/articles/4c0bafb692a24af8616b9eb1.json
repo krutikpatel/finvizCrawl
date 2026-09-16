@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-wins-higher-ubs-target-183000407.html",
+    "fetched_at": "2026-09-16T07:00:37.426763-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir wins higher UBS target as customer demand outpaces capacity",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palantir Technologies Inc (NYSE:PLTR) received a higher $250 UBS price target as demand outstrips capacity, with management describing customer adoption as still early.\nAccording to a UBS note, Palantir executives disputed that language models could replace Palantir, citing imprecision, while customers described applications in marketing, supply chain optimization, security, operational decision-making, and model fine-tuning.\nCustomers sought control over AI infrastructure, although UBS called the \"sovereign AI\" theme \"somewhat self-serving\" and reported less \"frontier lab push-back\" than Palantir claimed.\nAt the pro-Palantir event, UBS heard no competition comments about models or data software firms, while the CEO pushed back on perceived midterm election risks.\nUBS considers shares undervalued at 51 times estimated 2027 free cash flow, well below Snowflake and CrowdStrike Holdings Inc (NASDAQ:CRWD), given Palantir's growth profile exceeding 90%.\nThe broker forecasts 63% compound annual growth over three years and calls its valuation of 53 times estimated 2028 free cash flow a justified premium to high-growth peers.\nThat multiple rose from about 46 times, pushing the price target to $250 from $220 alongside minor modelling changes, according to UBS.\nA potentially closer relationship with Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) could provide another catalyst, with UBS highlighting customer ties and a shared ambition to bridge gaps between language models and practical enterprise AI.\nUBS maintained its Buy rating on the stock after the company's AIPCon event.",
+    "text_blocks": [
+      "Palantir Technologies Inc (NYSE:PLTR) received a higher $250 UBS price target as demand outstrips capacity, with management describing customer adoption as still early.",
+      "According to a UBS note, Palantir executives disputed that language models could replace Palantir, citing imprecision, while customers described applications in marketing, supply chain optimization, security, operational decision-making, and model fine-tuning.",
+      "Customers sought control over AI infrastructure, although UBS called the \"sovereign AI\" theme \"somewhat self-serving\" and reported less \"frontier lab push-back\" than Palantir claimed.",
+      "At the pro-Palantir event, UBS heard no competition comments about models or data software firms, while the CEO pushed back on perceived midterm election risks.",
+      "UBS considers shares undervalued at 51 times estimated 2027 free cash flow, well below Snowflake and CrowdStrike Holdings Inc (NASDAQ:CRWD), given Palantir's growth profile exceeding 90%.",
+      "The broker forecasts 63% compound annual growth over three years and calls its valuation of 53 times estimated 2028 free cash flow a justified premium to high-growth peers.",
+      "That multiple rose from about 46 times, pushing the price target to $250 from $220 alongside minor modelling changes, according to UBS.",
+      "A potentially closer relationship with Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) could provide another catalyst, with UBS highlighting customer ties and a shared ambition to bridge gaps between language models and practical enterprise AI.",
+      "UBS maintained its Buy rating on the stock after the company's AIPCon event."
+    ],
+    "html": null
+  }
+}

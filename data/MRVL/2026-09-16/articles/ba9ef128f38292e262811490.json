@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/tech/ai/chip-stocks-tumble-after-ai-leaders-call-for-slowdown-in-ai-development-e2d26e63?mod=wsj_FV",
+    "fetched_at": "2026-09-16T07:00:53.083373-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip Stocks Tumble After AI Leaders Call for Slowdown in Development - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "U.S. chip stocks followed European and Asian peers lower after leaders of the world’s biggest artificial-intelligence companies called for the industry to slow development of the technology for safety reasons.\nAnthropic Chief Executive Dario Amodei, writing in a weekend essay, said the AI industry should avoid a race to the bottom and take the necessary time to ensure frontier models were being developed responsibly.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "U.S. chip stocks followed European and Asian peers lower after leaders of the world’s biggest artificial-intelligence companies called for the industry to slow development of the technology for safety reasons.",
+      "Anthropic Chief Executive Dario Amodei, writing in a weekend essay, said the AI industry should avoid a race to the bottom and take the necessary time to ensure frontier models were being developed responsibly.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

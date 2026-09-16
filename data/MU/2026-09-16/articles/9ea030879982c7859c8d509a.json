@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-threat-67929c3c?mod=bar_FV",
+    "fetched_at": "2026-09-16T07:00:20.194883-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock: It Faces New Memory-Chip Threat in U.S.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Faces Competition to Be the American Memory-Chip Champion\nMicron Technology has been the flag-bearer for the U.S. in the memory-chip boom. But Intel and SK Hynix look to have their own American ambitions.\nMicron Technology has been the flag-bearer for the U.S. in the memory-chip boom. But Intel and SK Hynix look to have their own American ambitions.",
+    "text_blocks": [
+      "Micron Faces Competition to Be the American Memory-Chip Champion",
+      "Micron Technology has been the flag-bearer for the U.S. in the memory-chip boom. But Intel and SK Hynix look to have their own American ambitions.",
+      "Micron Technology has been the flag-bearer for the U.S. in the memory-chip boom. But Intel and SK Hynix look to have their own American ambitions."
+    ],
+    "html": null
+  }
+}

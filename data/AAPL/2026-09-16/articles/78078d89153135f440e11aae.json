@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/volatile-walmart-trade-options-a11c530c?mod=bar_FV",
+    "fetched_at": "2026-09-16T07:00:11.068562-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A Lesson in Options Trading From Our Failed Walmart Bet<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "What We Learned From a Volatile Walmart Trade\nOur primary analytical mistake was overconfidence in management’s expense discipline. We also overestimated consumer spending resilience.\nIn late May, Walmart seemed like an opportune buy.\nIn late May, Walmart seemed like an opportune buy.",
+    "text_blocks": [
+      "What We Learned From a Volatile Walmart Trade",
+      "Our primary analytical mistake was overconfidence in management’s expense discipline. We also overestimated consumer spending resilience.",
+      "In late May, Walmart seemed like an opportune buy.",
+      "In late May, Walmart seemed like an opportune buy."
+    ],
+    "html": null
+  }
+}
