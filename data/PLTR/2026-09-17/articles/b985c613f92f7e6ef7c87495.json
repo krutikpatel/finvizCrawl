@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/healthcare/articles/chipotle-turns-palantir-summer-outbreaks-121022757.html",
+    "fetched_at": "2026-09-17T07:00:31.389878-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chipotle Turns to Palantir After a Summer of Outbreaks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nChipotle Mexican Grill (NYSE:CMG) is building a food safety risk platform on Palantir Technologies' (NASDAQ:PLTR) Foundry software, according to WIRED. The platform appears to analyze health department scores, pest incidents and employee illnesses to assign each store a food safety score. Palantir did not respond to a request for comment. Chipotle confirmed the work, with Laurie Schalow, chief corporate affairs and food safety officer, saying it is \"piloting a new Food Safety Risk Management Platform designed to provide a more consistent and centralized view of food safety risk across our restaurants.\"\nThis comes after a turbulent period where the FDA has identified more than 12,800 illnesses tied to foodborne outbreaks so far this year. Chipotle stopped serving jalapenos from one supplier in July after a salmonella outbreak that went on to sicken more than 430 people.\nPalantir already sells into this sector, with Tyson (NYSE:TSN), General Mills (NYSE:GIS) and the independent purchasing co-op for Wendy's (NASDAQ:WEN) among its customers. Corporate work now accounts for nearly half its US business, with US commercial revenue up 149% to $764 million last quarter.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Chipotle Mexican Grill (NYSE:CMG) is building a food safety risk platform on Palantir Technologies' (NASDAQ:PLTR) Foundry software, according to WIRED. The platform appears to analyze health department scores, pest incidents and employee illnesses to assign each store a food safety score. Palantir did not respond to a request for comment. Chipotle confirmed the work, with Laurie Schalow, chief corporate affairs and food safety officer, saying it is \"piloting a new Food Safety Risk Management Platform designed to provide a more consistent and centralized view of food safety risk across our restaurants.\"",
+      "This comes after a turbulent period where the FDA has identified more than 12,800 illnesses tied to foodborne outbreaks so far this year. Chipotle stopped serving jalapenos from one supplier in July after a salmonella outbreak that went on to sicken more than 430 people.",
+      "Palantir already sells into this sector, with Tyson (NYSE:TSN), General Mills (NYSE:GIS) and the independent purchasing co-op for Wendy's (NASDAQ:WEN) among its customers. Corporate work now accounts for nearly half its US business, with US commercial revenue up 149% to $764 million last quarter."
+    ],
+    "html": null
+  }
+}

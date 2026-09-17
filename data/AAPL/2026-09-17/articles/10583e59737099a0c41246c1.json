@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-79749425?mod=bar_FV",
+    "fetched_at": "2026-09-17T07:00:07.515085-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock Market, Trump, Fed Rate Hike | September 17 Barron’s Daily<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Why Stocks Are Loving the Fed’s Rate Hike Even If Trump Hates It\nThe morning after a big event can often be sluggish. That’s not the case for markets, which have woken up to a new-found clarity after the Federal Reserve’s first rate increase in three years. President Donald Trump seemed to have a sore head, though —opting to blame a “hostile” and “political” Fed board, rather than Chairman Kevin Warsh.",
+    "text_blocks": [
+      "Why Stocks Are Loving the Fed’s Rate Hike Even If Trump Hates It",
+      "The morning after a big event can often be sluggish. That’s not the case for markets, which have woken up to a new-found clarity after the Federal Reserve’s first rate increase in three years. President Donald Trump seemed to have a sore head, though —opting to blame a “hostile” and “political” Fed board, rather than Chairman Kevin Warsh."
+    ],
+    "html": null
+  }
+}

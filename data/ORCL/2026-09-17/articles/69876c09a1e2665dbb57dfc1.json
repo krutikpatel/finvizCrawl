@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-climb-despite-layoffs-132018270.html",
+    "fetched_at": "2026-09-17T07:00:20.893464-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Shares Climb Despite Layoffs as $30 Billion AI Deals Fuel Growth",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL) shares climbed more than 2% on early Thursday after gaining a similar amount a day earlier, as investors weighed continued workforce reductions against the company's expanding artificial intelligence infrastructure spending.\nThe latest cuts follow a broader reduction in Oracle's workforce. Company filings show headcount declined by about 21,000 employees, or 13%, during the fiscal year ended May 31.\nOracle's restructuring bill has also grown by $700 million to roughly $2.8 billion, covering expenses such as severance and contract exits. At the same time, heavy investment in AI infrastructure contributed to free cash flow of about negative $5 billion.\nThe company is seeking to fund that expansion through rising AI demand. Oracle has secured more than $30 billion in new AI-cloud commitments, pushing remaining performance obligations to $664 billion. Some customers could also provide advance payments or chips to support infrastructure development.\nOracle's finance chief Hilary Maxson addressed employees this week as the cuts continued. She said the company remains focused on protecting its financial performance while expanding its business.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL) shares climbed more than 2% on early Thursday after gaining a similar amount a day earlier, as investors weighed continued workforce reductions against the company's expanding artificial intelligence infrastructure spending.",
+      "The latest cuts follow a broader reduction in Oracle's workforce. Company filings show headcount declined by about 21,000 employees, or 13%, during the fiscal year ended May 31.",
+      "Oracle's restructuring bill has also grown by $700 million to roughly $2.8 billion, covering expenses such as severance and contract exits. At the same time, heavy investment in AI infrastructure contributed to free cash flow of about negative $5 billion.",
+      "The company is seeking to fund that expansion through rising AI demand. Oracle has secured more than $30 billion in new AI-cloud commitments, pushing remaining performance obligations to $664 billion. Some customers could also provide advance payments or chips to support infrastructure development.",
+      "Oracle's finance chief Hilary Maxson addressed employees this week as the cuts continued. She said the company remains focused on protecting its financial performance while expanding its business."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/economy/policy/articles/warsh-says-ai-hyperscalers-part-070000893.html",
+    "fetched_at": "2026-09-17T07:00:20.768806-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Warsh says AI’s hyperscalers are part of why your borrowing costs are rising: ‘The competition for capital is real’",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Warsh says AI’s hyperscalers are part of why your borrowing costs are rising: ‘The competition for capital is real’\nThe Federal Reserve raised its benchmark rate by a quarter point on Wednesday, to 3.75-4%. But the rate that matters more for mortgages, corporate loans, and the federal government's interest bill is the 10-year Treasury yield, which the Fed doesn't set, has been rising for months, and just hit the psychologically terrorizing 5%.\nWhen a reporter asked Fed Chair Kevin Warsh what was behind that rise, he gave three reasons; one of which was due to the surge of AI debt swimming in the bond markets.\n\"The so-called hyperscalers are out in the market raising funding,\" Warsh said. \"And so the competition for capital is real. And I think it partly explains the increase in yields.\"\nThe argument is simple: there is only so much money to lend at any given time. When Amazon, Microsoft, Alphabet, Meta, Oracle and Coreweave borrow hundreds of billions of dollars to build data centers, they compete with the U.S. Treasury and everyone else for that money, and the price of borrowing goes up. Warsh described the 10-year as \"the most important asset anywhere in the world\" and \"the risk-free asset upon which every price of virtually every asset in the world is related to.\"\nIt's hard to overestimate the scale. The five major hyperscalers issued $121 billion in U.S. corporate bonds in 2025, compared with an average of $28 billion a year between 2020 and 2024, according to BofA Securities. Morgan Stanley estimates AI-related global debt reached nearly $236 billion just by the end of May, four times the pace of a year earlier, and forecasts it will approach $570 billion for the full year of 2026. Hyperscaler capital spending now runs close to 100% of operating cash flow, with some hyperscalers dipping negative: the companies can no longer fund the buildout from profits alone, so they must turn to bond markets.\nSome have argued that AI's effect on treasuries is \"overstated,\" with PIMCO saying that most of it has to do with the conflict in Iran and a repricing of Warsh's willingness to hike rates. Others like MSCI have noted that hyperscalers spreads have widened out to normal investment-grade levels, as opposed to when they first started trading at an almost government-quality level and thus would compete with treasuries.\nWarsh's other two explanations were economic growth—\"part of the reason why we've seen over the course of 2026 long-term yields go up is the economy is strengthened\"—and geopolitics, i.e. the Iran war, which he said shows up not just in spot oil prices but in the \"crack spread\" between crude and refined products like diesel. He said the list wasn't exhaustive.",
+    "text_blocks": [
+      "Warsh says AI’s hyperscalers are part of why your borrowing costs are rising: ‘The competition for capital is real’",
+      "The Federal Reserve raised its benchmark rate by a quarter point on Wednesday, to 3.75-4%. But the rate that matters more for mortgages, corporate loans, and the federal government's interest bill is the 10-year Treasury yield, which the Fed doesn't set, has been rising for months, and just hit the psychologically terrorizing 5%.",
+      "When a reporter asked Fed Chair Kevin Warsh what was behind that rise, he gave three reasons; one of which was due to the surge of AI debt swimming in the bond markets.",
+      "\"The so-called hyperscalers are out in the market raising funding,\" Warsh said. \"And so the competition for capital is real. And I think it partly explains the increase in yields.\"",
+      "The argument is simple: there is only so much money to lend at any given time. When Amazon, Microsoft, Alphabet, Meta, Oracle and Coreweave borrow hundreds of billions of dollars to build data centers, they compete with the U.S. Treasury and everyone else for that money, and the price of borrowing goes up. Warsh described the 10-year as \"the most important asset anywhere in the world\" and \"the risk-free asset upon which every price of virtually every asset in the world is related to.\"",
+      "It's hard to overestimate the scale. The five major hyperscalers issued $121 billion in U.S. corporate bonds in 2025, compared with an average of $28 billion a year between 2020 and 2024, according to BofA Securities. Morgan Stanley estimates AI-related global debt reached nearly $236 billion just by the end of May, four times the pace of a year earlier, and forecasts it will approach $570 billion for the full year of 2026. Hyperscaler capital spending now runs close to 100% of operating cash flow, with some hyperscalers dipping negative: the companies can no longer fund the buildout from profits alone, so they must turn to bond markets.",
+      "Some have argued that AI's effect on treasuries is \"overstated,\" with PIMCO saying that most of it has to do with the conflict in Iran and a repricing of Warsh's willingness to hike rates. Others like MSCI have noted that hyperscalers spreads have widened out to normal investment-grade levels, as opposed to when they first started trading at an almost government-quality level and thus would compete with treasuries.",
+      "Warsh's other two explanations were economic growth—\"part of the reason why we've seen over the course of 2026 long-term yields go up is the economy is strengthened\"—and geopolitics, i.e. the Iran war, which he said shows up not just in spot oil prices but in the \"crack spread\" between crude and refined products like diesel. He said the list wasn't exhaustive."
+    ],
+    "html": null
+  }
+}

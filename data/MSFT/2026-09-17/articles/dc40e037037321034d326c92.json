@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nokia-extends-microsoft-tie-ai-104249106.html",
+    "fetched_at": "2026-09-17T07:00:26.184769-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation – NOK Stock Rises Premarket",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation – NOK Stock Rises Premarket\n-\nMulti-vendor, cross-domain solution integrates Nokia Data Suite with Microsoft Fabric.\n-\nInitial use cases include VoNR assurance, RAN optimization and predictive maintenance.\n-\nThe solution is available now, with more autonomous-network deployments planned.\nNokia Oyj (NOK) shares are in the spotlight after the telecom equipment maker extended its partnership with Microsoft Corp. (MSFT) to develop an agentic, unified data foundation for telecom network automation.\nThe collaboration combines Nokia Data Suite with Microsoft Fabric, allowing telecom operators to bring network, enterprise, and third-party data together for AI-driven operations.\nNokia Data Suite provides ready-to-use telecom data products, while Microsoft Fabric brings analytics, governance, and AI capabilities, including OneLake, Microsoft 365 Copilot, Foundry, and Power BI.\nNOK stock rose as much as 5% in Thursday's premarket, and was among the trending tickers on Stocktwits. Meanwhile, MSFT stock was marginally higher.\nNokia Targets Faster Network Automation\nAccording to Nokia, integrating the two platforms will allow operators to use AI agents across the network for tasks such as automated root-cause analysis and closed-loop operations, while maintaining human oversight.\nOperators will be able to access trusted data in minutes instead of weeks, reducing the time needed to prepare network data for AI applications, Nokia said.\nThe solution is designed to work across multi-vendor and cross-domain telecom environments, including cloud, hybrid and on-premises infrastructure. Nokia said this allows operators to use the technology while meeting different regulatory requirements.\nThe system is designed for multi-vendor networks and can combine Nokia telecom data with enterprise, IT and third-party data through Microsoft Fabric. Nokia said AI assistants can analyze issues, recommend actions and automate workflows while keeping human oversight in place.\nVivek Jaiswal, senior vice president of Autonomous Networks at Nokia, said the companies are helping telecom networks evolve from static infrastructure into \"programmable, AI-native platforms.\"\nNokia Starts With RAN, Fault-Management Use Cases\nInitial deployments will focus on several network operations. One is autonomous Voice over New Radio (VoNR) assurance, where AI agents can detect service issues, analyze their cause and recommend actions.",
+    "text_blocks": [
+      "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation – NOK Stock Rises Premarket",
+      "-",
+      "Multi-vendor, cross-domain solution integrates Nokia Data Suite with Microsoft Fabric.",
+      "-",
+      "Initial use cases include VoNR assurance, RAN optimization and predictive maintenance.",
+      "-",
+      "The solution is available now, with more autonomous-network deployments planned.",
+      "Nokia Oyj (NOK) shares are in the spotlight after the telecom equipment maker extended its partnership with Microsoft Corp. (MSFT) to develop an agentic, unified data foundation for telecom network automation.",
+      "The collaboration combines Nokia Data Suite with Microsoft Fabric, allowing telecom operators to bring network, enterprise, and third-party data together for AI-driven operations.",
+      "Nokia Data Suite provides ready-to-use telecom data products, while Microsoft Fabric brings analytics, governance, and AI capabilities, including OneLake, Microsoft 365 Copilot, Foundry, and Power BI.",
+      "NOK stock rose as much as 5% in Thursday's premarket, and was among the trending tickers on Stocktwits. Meanwhile, MSFT stock was marginally higher.",
+      "Nokia Targets Faster Network Automation",
+      "According to Nokia, integrating the two platforms will allow operators to use AI agents across the network for tasks such as automated root-cause analysis and closed-loop operations, while maintaining human oversight.",
+      "Operators will be able to access trusted data in minutes instead of weeks, reducing the time needed to prepare network data for AI applications, Nokia said.",
+      "The solution is designed to work across multi-vendor and cross-domain telecom environments, including cloud, hybrid and on-premises infrastructure. Nokia said this allows operators to use the technology while meeting different regulatory requirements.",
+      "The system is designed for multi-vendor networks and can combine Nokia telecom data with enterprise, IT and third-party data through Microsoft Fabric. Nokia said AI assistants can analyze issues, recommend actions and automate workflows while keeping human oversight in place.",
+      "Vivek Jaiswal, senior vice president of Autonomous Networks at Nokia, said the companies are helping telecom networks evolve from static infrastructure into \"programmable, AI-native platforms.\"",
+      "Nokia Starts With RAN, Fault-Management Use Cases",
+      "Initial deployments will focus on several network operations. One is autonomous Voice over New Radio (VoNR) assurance, where AI agents can detect service issues, analyze their cause and recommend actions."
+    ],
+    "html": null
+  }
+}

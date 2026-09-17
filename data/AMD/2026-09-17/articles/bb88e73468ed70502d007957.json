@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-jumps-9-raising-121106422.html",
+    "fetched_at": "2026-09-17T07:00:39.303200-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nebius Stock Jumps 9% After Raising GPU Rates",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNebius Group N.V. (NASDAQ:NBIS) rose 9.15% premarket after raising prices on its on-demand compute from October 1, according to a customer communication reshared on Reddit and X. IREN Ltd. (NASDAQ:IREN) rose 5.16% and CoreWeave Inc. (NASDAQ:CRWV) 5.69%.\nUnder the new rates, H100 hourly rates go to $4.50 from $3.85, an increase near 17%. H200 rises 20% to $5.40, B200 almost 19% to $8.50, and Nvidia's (NASDAQ:NVDA) B300 about 21% to $9.50 from $7.85. For CPU, AMD (NASDAQ:AMD) EPYC Genoa will increase 25% to $0.015 per vCPU-hour and Genoa memory up roughly 41% to $0.0045 per GiB-hour. The impact on any given customer's bill depends on their configuration and usage.\nNebius secured about $775 million in debt financing in July backed by deployed GPU infrastructure and contracted customer cash flows. Second-quarter revenue rose 454% to $582.3 million, with AI Cloud revenue up 514% to $574.9 million, and adjusted EBITDA swung to a $236.2 million profit from a $21 million loss. The company reaffirmed 2026 revenue guidance of $3 billion to $3.4 billion and expects ARR of $7 billion to $9 billion by year end.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nebius Group N.V. (NASDAQ:NBIS) rose 9.15% premarket after raising prices on its on-demand compute from October 1, according to a customer communication reshared on Reddit and X. IREN Ltd. (NASDAQ:IREN) rose 5.16% and CoreWeave Inc. (NASDAQ:CRWV) 5.69%.",
+      "Under the new rates, H100 hourly rates go to $4.50 from $3.85, an increase near 17%. H200 rises 20% to $5.40, B200 almost 19% to $8.50, and Nvidia's (NASDAQ:NVDA) B300 about 21% to $9.50 from $7.85. For CPU, AMD (NASDAQ:AMD) EPYC Genoa will increase 25% to $0.015 per vCPU-hour and Genoa memory up roughly 41% to $0.0045 per GiB-hour. The impact on any given customer's bill depends on their configuration and usage.",
+      "Nebius secured about $775 million in debt financing in July backed by deployed GPU infrastructure and contracted customer cash flows. Second-quarter revenue rose 454% to $582.3 million, with AI Cloud revenue up 514% to $574.9 million, and adjusted EBITDA swung to a $236.2 million profit from a $21 million loss. The company reaffirmed 2026 revenue guidance of $3 billion to $3.4 billion and expects ARR of $7 billion to $9 billion by year end."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/spacex-stock-price-ai-demand-a5e66ad2?mod=bar_FV",
+    "fetched_at": "2026-09-17T07:00:05.237796-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Stock Rises Again. AI Demand Isn’t Slowing Down.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.\nSpaceX Stock Rises Again. AI Demand Isn’t Slowing Down.\nSpaceX stock has been volatile since the June IPO, trading as high as $225.64 and as low as $104.83 in its first few weeks as a publicly traded firm. (Manuel Mazzanti / NurPhoto via Getty Images)\nAI demand just isn’t slowing down, and SpaceX stock was up again early Thursday.",
+    "text_blocks": [
+      "This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.",
+      "SpaceX Stock Rises Again. AI Demand Isn’t Slowing Down.",
+      "SpaceX stock has been volatile since the June IPO, trading as high as $225.64 and as low as $104.83 in its first few weeks as a publicly traded firm. (Manuel Mazzanti / NurPhoto via Getty Images)",
+      "AI demand just isn’t slowing down, and SpaceX stock was up again early Thursday."
+    ],
+    "html": null
+  }
+}

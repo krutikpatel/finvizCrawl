@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-stock-jumps-9-reported-132229110.html",
+    "fetched_at": "2026-09-17T07:00:39.294312-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nebius stock jumps 9% as reported compute price hikes boost AI cloud peers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNebius Group N.V. (NBIS, Financials) just offered the market another reason to assume AI compute is still scarce. The company provides AI infrastructure and rents computer capacity to businesses and developers.\nShares rose almost 9% in premarket trade Thursday after rumors that Nebius plans to hike rates for many on-demand computing services starting Oct. 1.\nThe changes are said to impact systems employing Nvidia's H100, H200, B200 and B300 GPUs. Elsewhere, prices are also rising higher.\nAMD EPYC Genoa CPU pricing is said to be up 25% to $0.015 per vCPU-hour and memory pricing is going up about 41%.\nSeeking Alpha asked for comment about the purported changes, but Nebius did not confirm them.\nStill, investors rapidly put two and two together. IREN soared about 5% before the market started while CoreWeave surged more than 6%.\nThat response is important because rising pricing could be a sign of what investors have been attempting to measure: the degree of scarcity of the market for AI processing power.\nIf customers accept the hikes without demand dropping, Nebius could have more room to improve the economics of its pricey infrastructure build-out.\nThe next test is scheduled for Oct. 1. The critical question is not just whether the increased pricing take hold, but if people continue to buy at those higher rates.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nebius Group N.V. (NBIS, Financials) just offered the market another reason to assume AI compute is still scarce. The company provides AI infrastructure and rents computer capacity to businesses and developers.",
+      "Shares rose almost 9% in premarket trade Thursday after rumors that Nebius plans to hike rates for many on-demand computing services starting Oct. 1.",
+      "The changes are said to impact systems employing Nvidia's H100, H200, B200 and B300 GPUs. Elsewhere, prices are also rising higher.",
+      "AMD EPYC Genoa CPU pricing is said to be up 25% to $0.015 per vCPU-hour and memory pricing is going up about 41%.",
+      "Seeking Alpha asked for comment about the purported changes, but Nebius did not confirm them.",
+      "Still, investors rapidly put two and two together. IREN soared about 5% before the market started while CoreWeave surged more than 6%.",
+      "That response is important because rising pricing could be a sign of what investors have been attempting to measure: the degree of scarcity of the market for AI processing power.",
+      "If customers accept the hikes without demand dropping, Nebius could have more room to improve the economics of its pricey infrastructure build-out.",
+      "The next test is scheduled for Oct. 1. The critical question is not just whether the increased pricing take hold, but if people continue to buy at those higher rates."
+    ],
+    "html": null
+  }
+}

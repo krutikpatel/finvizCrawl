@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/2-75-billion-reason-why-120258174.html",
+    "fetched_at": "2026-09-17T07:00:12.911910-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A $2.75 Billion Reason Why Micron Stock In Focus",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU) has started commercial production at its semiconductor assembly and testing facility in Sanand, Gujarat, as the memory-chip maker expands capacity to support rising demand for AI-related memory and storage products.\nThe Gujarat site represents about $2.75 billion in combined investment from Micron and government partners. The company said the facility will help broaden its manufacturing footprint while supporting India's growing semiconductor industry.\nMicron said the plant has already begun commercial operations and delivered its first shipment of memory modules produced in India to Dell Technologies (NYSE:DELL) for laptops manufactured and sold in the country.\nThe company expects the facility to assemble and test tens of millions of chips during 2026, with output projected to increase to hundreds of millions of units in 2027. Once fully ramped, the first phase will include more than 500,000 square feet of cleanroom space.\nMicron said the India expansion complements its planned advanced manufacturing and packaging investments in the United States and strengthens its global assembly and test network as AI-driven demand for memory products continues to grow.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU) has started commercial production at its semiconductor assembly and testing facility in Sanand, Gujarat, as the memory-chip maker expands capacity to support rising demand for AI-related memory and storage products.",
+      "The Gujarat site represents about $2.75 billion in combined investment from Micron and government partners. The company said the facility will help broaden its manufacturing footprint while supporting India's growing semiconductor industry.",
+      "Micron said the plant has already begun commercial operations and delivered its first shipment of memory modules produced in India to Dell Technologies (NYSE:DELL) for laptops manufactured and sold in the country.",
+      "The company expects the facility to assemble and test tens of millions of chips during 2026, with output projected to increase to hundreds of millions of units in 2027. Once fully ramped, the first phase will include more than 500,000 square feet of cleanroom space.",
+      "Micron said the India expansion complements its planned advanced manufacturing and packaging investments in the United States and strengthens its global assembly and test network as AI-driven demand for memory products continues to grow."
+    ],
+    "html": null
+  }
+}

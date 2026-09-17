@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/article/lucid-stock-jumps-on-25000-robotaxi-deal-with-europes-bolt-132433027.html",
+    "fetched_at": "2026-09-17T07:00:05.295108-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Lucid stock jumps on 25,000 robotaxi deal with Europe's Bolt",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Lucid (LCID) stock jumped on Wednesday after the electric-vehicle maker signed a major partnership with European ride-hailing platform Bolt to deploy at least 25,000 autonomous vehicles across major European cities, extending Lucid's robotaxi push beyond the US for the first time.\nUnder the deal, Bolt will create a robotaxi network using Lucid's upcoming midsize platform, with the vehicles powered by Nvidia's Hyperion autonomous-vehicle architecture and engineered for SAE Level 4 driving, the industry standard for cars that can operate without a human behind the wheel in defined conditions, similar to Alphabet's (GOOGL) Waymo vehicles.\nLucid shares rose 4% in early trading, though the stock is down over 60% year to date.\n\"Shared autonomous mobility offers the perfect opportunity to extend our unique technology beyond consumer vehicles,\" Lucid CEO Silvio Napoli said in a statement. \"Bolt's reach and operating expertise make it an ideal partner to scale autonomous mobility across Europe.\"\n\"Autonomous driving in Europe requires data, software, vehicles, and operations to work as one system built for European roads and regulation,\" Bolt Founder and CEO Markus Villig added. \"Lucid brings a world-class platform, and together, we will co-design the vehicle and software based on our data and more than a decade of operating experience across more than 850 cities.\"\nThe Lucid partnership is a big step toward Bolt's stated goal of putting 100,000 autonomous vehicles on its platform by 2035. Bolt, which operates in more than 50 countries and 850 cities and counts over 200 million customers, said its dedicated Bolt Autonomous Driving Solutions unit would own and operate the fleet, defining the vehicle, software, safety, and rider-experience requirements, then building the charging infrastructure and city partnerships to deploy them at scale.\nThe Bolt agreement is the second major robotaxi partnership Lucid has struck this year, and it broadens a strategy that has increasingly become a big part of the Lucid investment thesis.\nIn July, Lucid and Uber (UBER) unveiled a plan to deploy more than 35,000 Lucid vehicles over six years, a deal that came with $750 million in fresh capital for the cash-burning automaker, $550 million from an affiliate of Saudi Arabia's Public Investment Fund (PIF) and $200 million from an Uber subsidiary.\nThose vehicles, built on the Lucid Gravity SUV and a future midsize model, will run on autonomous software from Nuro, with a commercial launch in the San Francisco Bay Area later this year and Houston targeted for mid-2027.",
+    "text_blocks": [
+      "Lucid (LCID) stock jumped on Wednesday after the electric-vehicle maker signed a major partnership with European ride-hailing platform Bolt to deploy at least 25,000 autonomous vehicles across major European cities, extending Lucid's robotaxi push beyond the US for the first time.",
+      "Under the deal, Bolt will create a robotaxi network using Lucid's upcoming midsize platform, with the vehicles powered by Nvidia's Hyperion autonomous-vehicle architecture and engineered for SAE Level 4 driving, the industry standard for cars that can operate without a human behind the wheel in defined conditions, similar to Alphabet's (GOOGL) Waymo vehicles.",
+      "Lucid shares rose 4% in early trading, though the stock is down over 60% year to date.",
+      "\"Shared autonomous mobility offers the perfect opportunity to extend our unique technology beyond consumer vehicles,\" Lucid CEO Silvio Napoli said in a statement. \"Bolt's reach and operating expertise make it an ideal partner to scale autonomous mobility across Europe.\"",
+      "\"Autonomous driving in Europe requires data, software, vehicles, and operations to work as one system built for European roads and regulation,\" Bolt Founder and CEO Markus Villig added. \"Lucid brings a world-class platform, and together, we will co-design the vehicle and software based on our data and more than a decade of operating experience across more than 850 cities.\"",
+      "The Lucid partnership is a big step toward Bolt's stated goal of putting 100,000 autonomous vehicles on its platform by 2035. Bolt, which operates in more than 50 countries and 850 cities and counts over 200 million customers, said its dedicated Bolt Autonomous Driving Solutions unit would own and operate the fleet, defining the vehicle, software, safety, and rider-experience requirements, then building the charging infrastructure and city partnerships to deploy them at scale.",
+      "The Bolt agreement is the second major robotaxi partnership Lucid has struck this year, and it broadens a strategy that has increasingly become a big part of the Lucid investment thesis.",
+      "In July, Lucid and Uber (UBER) unveiled a plan to deploy more than 35,000 Lucid vehicles over six years, a deal that came with $750 million in fresh capital for the cash-burning automaker, $550 million from an affiliate of Saudi Arabia's Public Investment Fund (PIF) and $200 million from an Uber subsidiary.",
+      "Those vehicles, built on the Lucid Gravity SUV and a future midsize model, will run on autonomous software from Nuro, with a commercial launch in the San Francisco Bay Area later this year and Houston targeted for mid-2027."
+    ],
+    "html": null
+  }
+}

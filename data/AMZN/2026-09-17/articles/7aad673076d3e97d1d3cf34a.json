@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-takes-warrant-stake-generac-123324020.html",
+    "fetched_at": "2026-09-17T07:00:36.628095-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon takes warrant stake in Generac in $8 billion generator deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Generac Holdings issued Amazon warrants to purchase up to 1,693,745 shares of its common stock at $200.93 per share on Wednesday, as part of a long-term agreement to supply backup power generators for Amazon data centers worth up to $8 billion. Generac stock surged more than 40% in extended trading after the announcement.\nThe warrants, which could be worth as much as $340 million, are held by Amazon.com NV Investment Holdings LLC, a wholly owned Amazon subsidiary. Approximately 308,000 warrant shares became exercisable upon signing, with the balance unlocking in stages tied to Amazon's generator purchase payments. Full vesting requires $8 billion in aggregate gross payments from Amazon and its affiliates to Generac and its global affiliates. The warrants can be exercised through September 16, 2033.\nInitial generator deliveries under the supply agreement are expected to total $2.4 billion across 2027 and 2028, the company said. On a fully diluted basis, the warrants account for roughly 3% of Generac's total share count. Generac, based in Waukesha, Wisconsin, had a market capitalization of roughly $10.3 billion as of Wednesday's close.\nThe deal is the latest in a pattern of Amazon taking equity positions in key suppliers. According to CNBC, Amazon has a history of taking warrant positions in its suppliers, including Astera Labs, the air cargo firm ATSG, Plug Power, which produces green hydrogen, and grocery distributor Spartan Nash.\nThe previous week, Amazon struck a deal with Qualcomm to use its custom AI chips for data center infrastructure, with warrants giving Amazon the right to acquire up to $4 billion in Qualcomm stock. That agreement paired Amazon's AI infrastructure ambitions with Qualcomm's chip design capabilities.\nAmazon Web Services has been expanding data center capacity at a rapid pace as demand for AI compute grows. The strain AI data centers are placing on the power grid has driven tech companies to lock in electricity and backup power supplies across multiple fronts. Energy consumption by data centers jumped 80% from 2020 to 2025, according to the International Energy Agency.",
+    "text_blocks": [
+      "Generac Holdings issued Amazon warrants to purchase up to 1,693,745 shares of its common stock at $200.93 per share on Wednesday, as part of a long-term agreement to supply backup power generators for Amazon data centers worth up to $8 billion. Generac stock surged more than 40% in extended trading after the announcement.",
+      "The warrants, which could be worth as much as $340 million, are held by Amazon.com NV Investment Holdings LLC, a wholly owned Amazon subsidiary. Approximately 308,000 warrant shares became exercisable upon signing, with the balance unlocking in stages tied to Amazon's generator purchase payments. Full vesting requires $8 billion in aggregate gross payments from Amazon and its affiliates to Generac and its global affiliates. The warrants can be exercised through September 16, 2033.",
+      "Initial generator deliveries under the supply agreement are expected to total $2.4 billion across 2027 and 2028, the company said. On a fully diluted basis, the warrants account for roughly 3% of Generac's total share count. Generac, based in Waukesha, Wisconsin, had a market capitalization of roughly $10.3 billion as of Wednesday's close.",
+      "The deal is the latest in a pattern of Amazon taking equity positions in key suppliers. According to CNBC, Amazon has a history of taking warrant positions in its suppliers, including Astera Labs, the air cargo firm ATSG, Plug Power, which produces green hydrogen, and grocery distributor Spartan Nash.",
+      "The previous week, Amazon struck a deal with Qualcomm to use its custom AI chips for data center infrastructure, with warrants giving Amazon the right to acquire up to $4 billion in Qualcomm stock. That agreement paired Amazon's AI infrastructure ambitions with Qualcomm's chip design capabilities.",
+      "Amazon Web Services has been expanding data center capacity at a rapid pace as demand for AI compute grows. The strain AI data centers are placing on the power grid has driven tech companies to lock in electricity and backup power supplies across multiple fronts. Energy consumption by data centers jumped 80% from 2020 to 2025, according to the International Energy Agency."
+    ],
+    "html": null
+  }
+}

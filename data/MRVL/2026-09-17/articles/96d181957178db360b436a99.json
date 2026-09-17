@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-makes-massive-call-184326204.html",
+    "fetched_at": "2026-09-17T07:00:47.076211-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bank of America Makes Massive Call on AI Chip Market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBank of America sees the global semiconductor market nearly doubling to $3.2 trillion by 2030 from $1.7 trillion in 2026, arguing that AI infrastructure, memory and data-center demand remain far stronger than recent fears suggest. The forecast reinforces the long-term case for Nvidia (NASDAQ:NVDA), AMD (NASDAQ:AMD), Marvell (NASDAQ:MRVL) and other chip stocks, even as investors debate whether the current AI spending cycle can maintain its breakneck pace.\nDespite rising concerns around potential AI infra/investment slowdown, we see no signs of slowing in customer orders, LTAs, capacity commitments, or semis pricing (memory/GPU rental), BofA analysts led by Vivek Arya wrote.\nThe bank pointed to Nvidia B200 rental pricing at $5.72 per hour, up consistently over the past two months and less than 10% below its March peak of roughly $6.10.\nAMD has also indicated it is not seeing signs of weakening customer orders.\n2027 remains much a fully booked/contracted year across all compute/networking/memory vendors, and we expect 2028 to also remain tight, led by accelerating demand for CPUs, XPU attach, and new optics-based scale-up, as well as accelerating AI accelerator business at multiple ASIC and GPU vendors, Arya said.\nMemory is expected to remain the biggest growth engine, with BofA forecasting sales rising to $1.8 trillion by 2030 from $937 billion in 2026. Core semiconductors are projected to increase to $1.35 trillion from $739 billion, while server-related sales could jump to $848 billion from $359 billion.\nWafer-fabrication-equipment spending is also expected to more than double to $359.8 billion from $155.9 billion.\nInvestors Takeaway\nBofA sees Nvidia and AMD as resilient compute plays, Marvell in networking, and Analog Devices and onsemi in analog.\nIf sector momentum improves, Micron (MU), Lam Research (NASDAQ:LRCX), Applied Materials (NASDAQ:AMAT) and Intel (NASDAQ:INTC) could also outperform.\nThe key risk is whether hyperscalers eventually slow AI capital spending. For now, however, customer commitments, pricing and tight 2027 capacity suggest the semiconductor cycle still has substantial runway. Investors should watch GPU rental rates, memory pricing and 2028 capacity bookings for the earliest evidence that BofA's bullish demand thesis is weakening.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Bank of America sees the global semiconductor market nearly doubling to $3.2 trillion by 2030 from $1.7 trillion in 2026, arguing that AI infrastructure, memory and data-center demand remain far stronger than recent fears suggest. The forecast reinforces the long-term case for Nvidia (NASDAQ:NVDA), AMD (NASDAQ:AMD), Marvell (NASDAQ:MRVL) and other chip stocks, even as investors debate whether the current AI spending cycle can maintain its breakneck pace.",
+      "Despite rising concerns around potential AI infra/investment slowdown, we see no signs of slowing in customer orders, LTAs, capacity commitments, or semis pricing (memory/GPU rental), BofA analysts led by Vivek Arya wrote.",
+      "The bank pointed to Nvidia B200 rental pricing at $5.72 per hour, up consistently over the past two months and less than 10% below its March peak of roughly $6.10.",
+      "AMD has also indicated it is not seeing signs of weakening customer orders.",
+      "2027 remains much a fully booked/contracted year across all compute/networking/memory vendors, and we expect 2028 to also remain tight, led by accelerating demand for CPUs, XPU attach, and new optics-based scale-up, as well as accelerating AI accelerator business at multiple ASIC and GPU vendors, Arya said.",
+      "Memory is expected to remain the biggest growth engine, with BofA forecasting sales rising to $1.8 trillion by 2030 from $937 billion in 2026. Core semiconductors are projected to increase to $1.35 trillion from $739 billion, while server-related sales could jump to $848 billion from $359 billion.",
+      "Wafer-fabrication-equipment spending is also expected to more than double to $359.8 billion from $155.9 billion.",
+      "Investors Takeaway",
+      "BofA sees Nvidia and AMD as resilient compute plays, Marvell in networking, and Analog Devices and onsemi in analog.",
+      "If sector momentum improves, Micron (MU), Lam Research (NASDAQ:LRCX), Applied Materials (NASDAQ:AMAT) and Intel (NASDAQ:INTC) could also outperform.",
+      "The key risk is whether hyperscalers eventually slow AI capital spending. For now, however, customer commitments, pricing and tight 2027 capacity suggest the semiconductor cycle still has substantial runway. Investors should watch GPU rental rates, memory pricing and 2028 capacity bookings for the earliest evidence that BofA's bullish demand thesis is weakening."
+    ],
+    "html": null
+  }
+}

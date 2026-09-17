@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-push-just-133313405.html",
+    "fetched_at": "2026-09-17T07:00:23.571585-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google's AI chip push just got a $22 billion boost",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nAlphabet Inc. (GOOGL, Financials), the parent of Google and one of the largest developers of AI infrastructure, is getting a new test for its custom chips outside its own data centers.\nCrux AI, the cloud venture backed by Google and Blackstone, has secured $22 billion in debt financing to buy Google-developed Tensor Processing Units, according to Bloomberg.\nTen banks are reportedly providing the financing, including Goldman Sachs, Barclays, BNP Paribas and Bank of Nova Scotia. The structure is notable.\nThe debt will be backed partly by the value of Google's TPUs and partly by customer contracts signed by Crux AI. Blackstone has separately committed an initial $5 billion in equity.\nCrux AI plans to bring its first 500 megawatts of data-center capacity online in 2027. For Google, that creates an opportunity beyond simply supplying more computing power.\nIts TPUs have long provided an alternative to Nvidia GPUs inside Google's ecosystem. A separately financed cloud platform built around those chips could show whether customers are willing to adopt them on a much larger scale.\nThe $22 billion solves part of the funding problem. What matters next is demand.\nInvestors will be watching how quickly Crux AI fills that first 500 megawatts and whether Google's chips can become a broader commercial alternative in the AI infrastructure race.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Alphabet Inc. (GOOGL, Financials), the parent of Google and one of the largest developers of AI infrastructure, is getting a new test for its custom chips outside its own data centers.",
+      "Crux AI, the cloud venture backed by Google and Blackstone, has secured $22 billion in debt financing to buy Google-developed Tensor Processing Units, according to Bloomberg.",
+      "Ten banks are reportedly providing the financing, including Goldman Sachs, Barclays, BNP Paribas and Bank of Nova Scotia. The structure is notable.",
+      "The debt will be backed partly by the value of Google's TPUs and partly by customer contracts signed by Crux AI. Blackstone has separately committed an initial $5 billion in equity.",
+      "Crux AI plans to bring its first 500 megawatts of data-center capacity online in 2027. For Google, that creates an opportunity beyond simply supplying more computing power.",
+      "Its TPUs have long provided an alternative to Nvidia GPUs inside Google's ecosystem. A separately financed cloud platform built around those chips could show whether customers are willing to adopt them on a much larger scale.",
+      "The $22 billion solves part of the funding problem. What matters next is demand.",
+      "Investors will be watching how quickly Crux AI fills that first 500 megawatts and whether Google's chips can become a broader commercial alternative in the AI infrastructure race."
+    ],
+    "html": null
+  }
+}

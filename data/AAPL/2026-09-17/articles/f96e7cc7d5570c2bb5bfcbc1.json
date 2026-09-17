@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/top-strategist-thinks-the-federal-reserve-interest-rate-hike-wont-fix-this-huge-earnings-risk-121619669.html",
+    "fetched_at": "2026-09-17T07:00:07.695843-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The explosive and persistent memory chip price inflation triggered by the AI boom won't be brought under control by the Fed's first rate hike since 2023.\nAnd that's why it represents a key earnings risk to watch in 2027, warned closely followed Wall Street strategist Venu Krishna at Barclays on Thursday.\nKrishna said his work continued to point to rapidly expanding compute requirements as training and inference demand scales, thereby requiring ever more memory chips from an already limited supply.\n\"Recent commentary from some of the largest memory buyers suggests that higher cost assumptions are starting to spill over into next year,\" Krishna said. \"Apple attributed all of its recent gross margin compression to higher memory costs, which they expect to persist over the near term. HP Inc. expects memory and storage costs to increase further as a percentage of bill of materials. Samsung, in its somewhat unusual position as both memory manufacturer and customer, noted that pre-booked demand implies a wider memory supply-demand gap in 2027 than in 2026, reinforcing expectations for sustained pricing strength.\"\nThe memory chip market has tightened considerably as demand for high-bandwidth memory (HBM) and advanced dynamic random-access memory (DRAM) used in AI servers continues to outpace supply.\nCompanies such as SK Hynix (SKHY), Samsung Electronics (005930.KS), and Micron (MU) have largely sold out their premium AI memory capacity through much of 2026 as customers, including Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), and Meta (META), race to build AI infrastructure.\nThe shortage has pushed memory prices sharply higher and given suppliers greater pricing power after several years of weak industry conditions.\nExperts expect memory supply to remain constrained into 2027, creating a favorable backdrop for the industry's largest producers such as Micron and Sandisk (SNDK).\nBut it will likely create higher-than-expected costs for the companies that run their businesses on these chips.\nBrian Sozzi is Yahoo Finance's Executive Editor, host of the 'Power Players With Brian Sozzi' podcast and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi, Instagram, and LinkedIn. Tips on stories? Email brian.sozzi@yahoofinance.com.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\nRead the latest financial and business news from Yahoo Finance",
+    "text_blocks": [
+      "The explosive and persistent memory chip price inflation triggered by the AI boom won't be brought under control by the Fed's first rate hike since 2023.",
+      "And that's why it represents a key earnings risk to watch in 2027, warned closely followed Wall Street strategist Venu Krishna at Barclays on Thursday.",
+      "Krishna said his work continued to point to rapidly expanding compute requirements as training and inference demand scales, thereby requiring ever more memory chips from an already limited supply.",
+      "\"Recent commentary from some of the largest memory buyers suggests that higher cost assumptions are starting to spill over into next year,\" Krishna said. \"Apple attributed all of its recent gross margin compression to higher memory costs, which they expect to persist over the near term. HP Inc. expects memory and storage costs to increase further as a percentage of bill of materials. Samsung, in its somewhat unusual position as both memory manufacturer and customer, noted that pre-booked demand implies a wider memory supply-demand gap in 2027 than in 2026, reinforcing expectations for sustained pricing strength.\"",
+      "The memory chip market has tightened considerably as demand for high-bandwidth memory (HBM) and advanced dynamic random-access memory (DRAM) used in AI servers continues to outpace supply.",
+      "Companies such as SK Hynix (SKHY), Samsung Electronics (005930.KS), and Micron (MU) have largely sold out their premium AI memory capacity through much of 2026 as customers, including Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), and Meta (META), race to build AI infrastructure.",
+      "The shortage has pushed memory prices sharply higher and given suppliers greater pricing power after several years of weak industry conditions.",
+      "Experts expect memory supply to remain constrained into 2027, creating a favorable backdrop for the industry's largest producers such as Micron and Sandisk (SNDK).",
+      "But it will likely create higher-than-expected costs for the companies that run their businesses on these chips.",
+      "Brian Sozzi is Yahoo Finance's Executive Editor, host of the 'Power Players With Brian Sozzi' podcast and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi, Instagram, and LinkedIn. Tips on stories? Email brian.sozzi@yahoofinance.com.",
+      "Click here for in-depth analysis of the latest stock market news and events moving stock prices",
+      "Read the latest financial and business news from Yahoo Finance"
+    ],
+    "html": null
+  }
+}

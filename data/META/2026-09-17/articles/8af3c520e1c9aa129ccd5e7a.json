@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/5-checkout-standards-3-adoption-112653128.html",
+    "fetched_at": "2026-09-17T07:00:10.425874-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "5 Checkout Standards, 3% Adoption: The Protocol Proliferation Tax Killing Agent Commerce",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AI agents excel at product discovery, but they struggle to close the deal. While 132 million U.S. adults have used AI to assist in a retail purchase, according to PYMNTS Intelligence, the actual conversion rate for these autonomous systems remains stuck. Only 3% of transactions currently involve agents, revealing a massive chasm between finding an item and completing the purchase.\nThe bottleneck is the proliferation of competing checkout protocols. With Black Friday 10 weeks away and Visa forecasting millions of AI agent purchases by holiday season, merchants face5+ competing standards – Visa IC, Mastercard Agent Pay/Connect, Stripe ACP/SPT, Google UCP/AP2, Meta Muse – while only 3% of transactions involve agents. Integration costs run $5K-$500K per protocol. The protocol proliferation tax – the real cost merchants pay to support multiple competing agent checkout standards – is the binding constraint on agent commerce adoption.\nThe Protocol Stack\nEach major payment player has shipped its own agent checkout standard. Visa's Intelligent Commerce (IC) Connect provides merchant-side integration for agent-initiated transactions. Mastercard's Agent Pay offers a parallel path. Stripe's Agentic Commerce Protocol (ACP) and its Smart Payment Tokenization (SPT) extension target developers building agent-native checkout flows. Google's Universal Commerce Protocol (UCP) with Agent Payments Protocol (AP2) and Verifiable Intent pushes cryptographic mandate verification. Meta's Muse relies on Stripe Link with Cover Genius insurance.\nNone of these protocols interoperate cleanly with each other. A merchant wanting to accept agent-initiated purchases from multiple agent platforms must integrate each protocol separately. The integration cost for a mid-market merchant ranges from $5,000 for a basic Stripe ACP implementation to $500,000 for a full multi-protocol deployment covering Visa, Mastercard, and Google standards.\nThe Adoption Gap\nThe math is brutal. Only 3% of current transactions involve agents. Yet the infrastructure investment required to support agent checkout is substantial. Merchants are effectively asked to spend tens of thousands of dollars integrating protocols for a channel that represents a fraction of their revenue.\nThis creates a chicken-and-egg problem. Agents cannot complete purchases without merchant protocol support. Merchants will not invest in protocol support until agent transaction volume justifies the cost. The protocol proliferation tax is the friction that keeps both sides stuck.",
+    "text_blocks": [
+      "AI agents excel at product discovery, but they struggle to close the deal. While 132 million U.S. adults have used AI to assist in a retail purchase, according to PYMNTS Intelligence, the actual conversion rate for these autonomous systems remains stuck. Only 3% of transactions currently involve agents, revealing a massive chasm between finding an item and completing the purchase.",
+      "The bottleneck is the proliferation of competing checkout protocols. With Black Friday 10 weeks away and Visa forecasting millions of AI agent purchases by holiday season, merchants face5+ competing standards – Visa IC, Mastercard Agent Pay/Connect, Stripe ACP/SPT, Google UCP/AP2, Meta Muse – while only 3% of transactions involve agents. Integration costs run $5K-$500K per protocol. The protocol proliferation tax – the real cost merchants pay to support multiple competing agent checkout standards – is the binding constraint on agent commerce adoption.",
+      "The Protocol Stack",
+      "Each major payment player has shipped its own agent checkout standard. Visa's Intelligent Commerce (IC) Connect provides merchant-side integration for agent-initiated transactions. Mastercard's Agent Pay offers a parallel path. Stripe's Agentic Commerce Protocol (ACP) and its Smart Payment Tokenization (SPT) extension target developers building agent-native checkout flows. Google's Universal Commerce Protocol (UCP) with Agent Payments Protocol (AP2) and Verifiable Intent pushes cryptographic mandate verification. Meta's Muse relies on Stripe Link with Cover Genius insurance.",
+      "None of these protocols interoperate cleanly with each other. A merchant wanting to accept agent-initiated purchases from multiple agent platforms must integrate each protocol separately. The integration cost for a mid-market merchant ranges from $5,000 for a basic Stripe ACP implementation to $500,000 for a full multi-protocol deployment covering Visa, Mastercard, and Google standards.",
+      "The Adoption Gap",
+      "The math is brutal. Only 3% of current transactions involve agents. Yet the infrastructure investment required to support agent checkout is substantial. Merchants are effectively asked to spend tens of thousands of dollars integrating protocols for a channel that represents a fraction of their revenue.",
+      "This creates a chicken-and-egg problem. Agents cannot complete purchases without merchant protocol support. Merchants will not invest in protocol support until agent transaction volume justifies the cost. The protocol proliferation tax is the friction that keeps both sides stuck."
+    ],
+    "html": null
+  }
+}

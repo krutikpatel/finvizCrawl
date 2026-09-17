@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-doubles-down-massive-192839307.html",
+    "fetched_at": "2026-09-17T07:00:28.681636-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom CEO Doubles Down on Massive AI Growth Target",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nBroadcom (NASDAQ:AVGO) CEO Hock Tan is pushing back hard against fears that calls to slow frontier AI development could derail the chipmaker's growth, standing behind its fiscal 2027 and 2028 AI semiconductor forecasts even after Broadcom shares sank 4.8%. For investors, Tan's argument rests on an important distinction: even if training the most advanced models slows, demand for the computing power required to actually run AI products could remain enormous.\nBroadcom designs custom AI accelerators, networking chips and other semiconductor infrastructure while also owning VMware. Its custom-chip business has become an increasingly important alternative to general-purpose GPUs as hyperscalers build specialized AI systems for training and inference.\nAsked whether the emerging AI slowdown debate changed Broadcom's forecasts, Tan was unequivocal.\nNo, not in the least, he said. We see the demand for compute infrastructure, for AI development or AI frontier models, and inference for the products that they feed to the world, as continuing to be very strong and, I believe, very durable.\nThe reassurance comes after Anthropic CEO Dario Amodei called for moderating frontier-model development, helping trigger a sharp selloff across AI infrastructure stocks. Broadcom fell 4.8%, while the broader Philadelphia Semiconductor Index dropped nearly 6%.\nThat reaction matters because Anthropic is expected to become Broadcom's largest custom-chip customer in 2027 and remain so in 2028, overtaking Google, historically one of Broadcom's most important custom-silicon customers.\nTan was particularly bullish on inference.\nI don't know about training, but when you want to productize inference, I see it continuing to be very, very strong, Tan said.\nBroadcom's latest numbers support that confidence. Fiscal third-quarter revenue surged 86% to $29.6 billion, while AI chip sales reached $16.7 billion. Broadcom now sees AI semiconductor revenue approaching $115 billion in fiscal 2027 and roughly $230 billion in 2028.\nWhat Broadcom investors should watch next\nThe biggest question is whether Tan is right that inference becomes powerful enough to offset any moderation in frontier-model training.\nInvestors should watch AI semiconductor revenue, custom-accelerator deployments at Anthropic and other hyperscalers, networking demand and whether Broadcom maintains its aggressive 2027 and 2028 targets.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Broadcom (NASDAQ:AVGO) CEO Hock Tan is pushing back hard against fears that calls to slow frontier AI development could derail the chipmaker's growth, standing behind its fiscal 2027 and 2028 AI semiconductor forecasts even after Broadcom shares sank 4.8%. For investors, Tan's argument rests on an important distinction: even if training the most advanced models slows, demand for the computing power required to actually run AI products could remain enormous.",
+      "Broadcom designs custom AI accelerators, networking chips and other semiconductor infrastructure while also owning VMware. Its custom-chip business has become an increasingly important alternative to general-purpose GPUs as hyperscalers build specialized AI systems for training and inference.",
+      "Asked whether the emerging AI slowdown debate changed Broadcom's forecasts, Tan was unequivocal.",
+      "No, not in the least, he said. We see the demand for compute infrastructure, for AI development or AI frontier models, and inference for the products that they feed to the world, as continuing to be very strong and, I believe, very durable.",
+      "The reassurance comes after Anthropic CEO Dario Amodei called for moderating frontier-model development, helping trigger a sharp selloff across AI infrastructure stocks. Broadcom fell 4.8%, while the broader Philadelphia Semiconductor Index dropped nearly 6%.",
+      "That reaction matters because Anthropic is expected to become Broadcom's largest custom-chip customer in 2027 and remain so in 2028, overtaking Google, historically one of Broadcom's most important custom-silicon customers.",
+      "Tan was particularly bullish on inference.",
+      "I don't know about training, but when you want to productize inference, I see it continuing to be very, very strong, Tan said.",
+      "Broadcom's latest numbers support that confidence. Fiscal third-quarter revenue surged 86% to $29.6 billion, while AI chip sales reached $16.7 billion. Broadcom now sees AI semiconductor revenue approaching $115 billion in fiscal 2027 and roughly $230 billion in 2028.",
+      "What Broadcom investors should watch next",
+      "The biggest question is whether Tan is right that inference becomes powerful enough to offset any moderation in frontier-model training.",
+      "Investors should watch AI semiconductor revenue, custom-accelerator deployments at Anthropic and other hyperscalers, networking demand and whether Broadcom maintains its aggressive 2027 and 2028 targets."
+    ],
+    "html": null
+  }
+}

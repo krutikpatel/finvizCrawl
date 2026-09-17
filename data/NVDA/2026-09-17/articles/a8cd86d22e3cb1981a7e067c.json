@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-sets-63-billion-revenue-132635598.html",
+    "fetched_at": "2026-09-17T07:00:34.038805-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Salesforce sets $63 billion revenue target as AI reshapes growth",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nSalesforce Inc. (CRM, Financials), the enterprise software company behind its namesake customer-management platform and Slack, is trying to change the conversation around AI.\nNot long ago, investors worried that generative AI could weaken traditional software companies. Salesforce now expects AI to help push annual revenue above $63 billion by fiscal 2030.\nThat is ahead of the roughly $61.4 billion analysts had expected. And Salesforce is not relying on one product.\nThe company is connecting customer data with Anthropic's Claude through Claudeforce. It is also testing Koa, an AI reasoning model built on Nvidia architecture, with nearly 1,000 enterprise customers.\nSlack is taking on a different role as well. Salesforce sees the platform becoming a central place for companies to manage autonomous AI agents.\nThere is also a financial boost from Anthropic itself.\nSalesforce's early investment in the AI startup produced a $2.6 billion gain last quarter. CEO Marc Benioff has said the company could eventually sell those shares to help fund its $60 billion stock buyback.\nThe $63 billion target now gives investors something concrete to measure. The next test is whether Salesforce can turn all these AI products into enough paying business to actually get there.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Salesforce Inc. (CRM, Financials), the enterprise software company behind its namesake customer-management platform and Slack, is trying to change the conversation around AI.",
+      "Not long ago, investors worried that generative AI could weaken traditional software companies. Salesforce now expects AI to help push annual revenue above $63 billion by fiscal 2030.",
+      "That is ahead of the roughly $61.4 billion analysts had expected. And Salesforce is not relying on one product.",
+      "The company is connecting customer data with Anthropic's Claude through Claudeforce. It is also testing Koa, an AI reasoning model built on Nvidia architecture, with nearly 1,000 enterprise customers.",
+      "Slack is taking on a different role as well. Salesforce sees the platform becoming a central place for companies to manage autonomous AI agents.",
+      "There is also a financial boost from Anthropic itself.",
+      "Salesforce's early investment in the AI startup produced a $2.6 billion gain last quarter. CEO Marc Benioff has said the company could eventually sell those shares to help fund its $60 billion stock buyback.",
+      "The $63 billion target now gives investors something concrete to measure. The next test is whether Salesforce can turn all these AI products into enough paying business to actually get there."
+    ],
+    "html": null
+  }
+}

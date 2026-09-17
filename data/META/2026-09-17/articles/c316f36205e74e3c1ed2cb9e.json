@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whats-happening-nbis-stock-121629204.html",
+    "fetched_at": "2026-09-17T07:00:10.422016-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What's Happening With NBIS Stock?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nebius Group (NBIS) jumped over 6% in extended trading on September 16 following revised pricing strategies across its on-demand AI compute resources. Yet, the stock remains down roughly 22% over the trailing month due to balance sheet stress, equity dilution fears, and sector rotation. The central tension remains execution: can Nebius convert its massive backlog into revenue before heavy capital commitments squeeze liquidity?\nHow strong is the underlying growth engine?\nOperational results show significant traction. The latest Q2 2026 figures confirm this trajectory, with quarterly revenue surging 454% year-over-year to $582.3 million and trailing twelve-month revenue reaching $1.36 billion. Powering this expansion is a contracted backlog approaching $40 billion, anchored by a $27 billion five-year deal with Meta Platforms (META) and a $17.4 billion contract with Microsoft (MSFT). Strategic positioning is also validated by a $2 billion equity investment from Nvidia (NVDA). Additionally, management raised year-end 2026 contracted power capacity guidance from over 4 GW to over 5 GW, confirming infrastructure deployment is running ahead of plan.\nWhat risks keep short sellers engaged?\nThe primary concern is execution risk on an aggressive $20 billion to $25 billion CapEx plan for 2026. Deploying capital at this scale creates significant capital intensity. With short interest at 17% of the public float, market skepticism remains elevated. Any operational delay in data center construction, power activation, or GPU procurement would stall backlog conversion, creating potential liquidity pressures and multiple contraction.\nFor a parallel look at valuing capital-heavy infrastructure models with back-loaded payoff timelines, see our breakdown in What Are You Actually Buying In RKLB Stock?\nWhich catalysts will define the stock over the next six months?\nNear-term performance hinges on several pivotal milestones:\n-\nMid-November 2026 Q3 Earnings: Verification that contracted power capacity remains on track to surpass 5 GW by year-end, alongside continued sequential revenue scaling from the Q2 baseline.\n-\nSenate Vote on Remote Access Security Act: Potential extension of export controls to cloud GPUs poses downside risk, while stalled legislation could trigger a relief rally.\n-\nCompetitor Launches in November 2026: Custom AI silicon or GPU instances debuted at Microsoft Ignite or AWS re:Invent challenging Nebius's pricing power.",
+    "text_blocks": [
+      "Nebius Group (NBIS) jumped over 6% in extended trading on September 16 following revised pricing strategies across its on-demand AI compute resources. Yet, the stock remains down roughly 22% over the trailing month due to balance sheet stress, equity dilution fears, and sector rotation. The central tension remains execution: can Nebius convert its massive backlog into revenue before heavy capital commitments squeeze liquidity?",
+      "How strong is the underlying growth engine?",
+      "Operational results show significant traction. The latest Q2 2026 figures confirm this trajectory, with quarterly revenue surging 454% year-over-year to $582.3 million and trailing twelve-month revenue reaching $1.36 billion. Powering this expansion is a contracted backlog approaching $40 billion, anchored by a $27 billion five-year deal with Meta Platforms (META) and a $17.4 billion contract with Microsoft (MSFT). Strategic positioning is also validated by a $2 billion equity investment from Nvidia (NVDA). Additionally, management raised year-end 2026 contracted power capacity guidance from over 4 GW to over 5 GW, confirming infrastructure deployment is running ahead of plan.",
+      "What risks keep short sellers engaged?",
+      "The primary concern is execution risk on an aggressive $20 billion to $25 billion CapEx plan for 2026. Deploying capital at this scale creates significant capital intensity. With short interest at 17% of the public float, market skepticism remains elevated. Any operational delay in data center construction, power activation, or GPU procurement would stall backlog conversion, creating potential liquidity pressures and multiple contraction.",
+      "For a parallel look at valuing capital-heavy infrastructure models with back-loaded payoff timelines, see our breakdown in What Are You Actually Buying In RKLB Stock?",
+      "Which catalysts will define the stock over the next six months?",
+      "Near-term performance hinges on several pivotal milestones:",
+      "-",
+      "Mid-November 2026 Q3 Earnings: Verification that contracted power capacity remains on track to surpass 5 GW by year-end, alongside continued sequential revenue scaling from the Q2 baseline.",
+      "-",
+      "Senate Vote on Remote Access Security Act: Potential extension of export controls to cloud GPUs poses downside risk, while stalled legislation could trigger a relief rally.",
+      "-",
+      "Competitor Launches in November 2026: Custom AI silicon or GPU instances debuted at Microsoft Ignite or AWS re:Invent challenging Nebius's pricing power."
+    ],
+    "html": null
+  }
+}

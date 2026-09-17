@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/meta-hit-german-court-ruling-132741368.html",
+    "fetched_at": "2026-09-17T07:00:10.355935-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta hit by German court ruling over fake Facebook and Instagram ads",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms Inc. (META, Financials), the technology corporation behind Facebook and Instagram, has been hit with a legal loss that could open up a far larger dispute regarding responsibility for content on its platforms.\nA German court has held the firm guilty and ordered Meta to remove fake adverts posted by third parties and pay penalties.\nThe lawsuit included the unauthorized use of the image of the founder of a German financial portal and the company's trademarked emblem in bogus investment adverts. It was a large scale.\nIn August 2024 alone, the portal said it had reported over 260 infractions to Meta. Some stayed online for up to 62 days after being reported, the court found.\nBut the most essential thing for Meta might be the reasons behind the decision.\nThe court said that Meta has control over the content users see because of its algorithms and advertising systems, meaning it cannot utilize a lack-of-knowledge defense under Europe's Digital Services Act.\nMeta said it disagreed with the ruling and was examining its future steps.\nThe verdict is not final and can be appealed . That appeal now has implications beyond the damages in this instance. A higher court might assist clarify how much platforms themselves are on the hook for the spread of fraudulent ads via their own systems.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms Inc. (META, Financials), the technology corporation behind Facebook and Instagram, has been hit with a legal loss that could open up a far larger dispute regarding responsibility for content on its platforms.",
+      "A German court has held the firm guilty and ordered Meta to remove fake adverts posted by third parties and pay penalties.",
+      "The lawsuit included the unauthorized use of the image of the founder of a German financial portal and the company's trademarked emblem in bogus investment adverts. It was a large scale.",
+      "In August 2024 alone, the portal said it had reported over 260 infractions to Meta. Some stayed online for up to 62 days after being reported, the court found.",
+      "But the most essential thing for Meta might be the reasons behind the decision.",
+      "The court said that Meta has control over the content users see because of its algorithms and advertising systems, meaning it cannot utilize a lack-of-knowledge defense under Europe's Digital Services Act.",
+      "Meta said it disagreed with the ruling and was examining its future steps.",
+      "The verdict is not final and can be appealed . That appeal now has implications beyond the damages in this instance. A higher court might assist clarify how much platforms themselves are on the hook for the spread of fraudulent ads via their own systems."
+    ],
+    "html": null
+  }
+}

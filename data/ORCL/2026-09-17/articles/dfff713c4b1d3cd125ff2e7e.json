@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-rallies-2-restructuring-helps-171945948.html",
+    "fetched_at": "2026-09-17T07:00:20.825877-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Rallies 2% as Restructuring Helps Finance the AI Sprint",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOracle (NYSE:ORCL), the database and AI-cloud giant, paired a rising restructuring bill with an aggressive data-center buildout as it races to turn enormous AI demand into actual cash flow, Reuters reported. Shares gained approximately 2.1% to $143.33 Wednesday. The valuation picture still looks unusually wide: Oracle's $143.33 share price sits 25.01% below its GF Value estimate of $191.13, suggesting the market is still applying a sizable discount despite the AI backlog surge.\nThe restructuring program has now climbed by another $700 million to roughly $2.8 billion, covering severance, contract exits and other costs tied to reshaping the business. That is a meaningful expense against quarterly revenue of $19.35 billion. At the same time, Oracle added about 850 megawatts of data-center capacity during the latest quarter. The catch is cash generation: free cash flow remained around negative $5 billion as infrastructure spending continued to run hard.\nThe bull case rests on what comes next. Oracle signed more than $30 billion of additional AI-cloud contracts, pushing remaining performance obligations to a massive $664 billion. Management argues that those commitments can be supported within its existing capital plan because some customers can prepay or contribute chips. That makes the restructuring more than simple cost cuttingit can help Oracle absorb the near-term cash burden. But the real test is straightforward: converting that gigantic backlog into profitable cloud revenue fast enough to justify the infrastructure bill.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Oracle (NYSE:ORCL), the database and AI-cloud giant, paired a rising restructuring bill with an aggressive data-center buildout as it races to turn enormous AI demand into actual cash flow, Reuters reported. Shares gained approximately 2.1% to $143.33 Wednesday. The valuation picture still looks unusually wide: Oracle's $143.33 share price sits 25.01% below its GF Value estimate of $191.13, suggesting the market is still applying a sizable discount despite the AI backlog surge.",
+      "The restructuring program has now climbed by another $700 million to roughly $2.8 billion, covering severance, contract exits and other costs tied to reshaping the business. That is a meaningful expense against quarterly revenue of $19.35 billion. At the same time, Oracle added about 850 megawatts of data-center capacity during the latest quarter. The catch is cash generation: free cash flow remained around negative $5 billion as infrastructure spending continued to run hard.",
+      "The bull case rests on what comes next. Oracle signed more than $30 billion of additional AI-cloud contracts, pushing remaining performance obligations to a massive $664 billion. Management argues that those commitments can be supported within its existing capital plan because some customers can prepay or contribute chips. That makes the restructuring more than simple cost cuttingit can help Oracle absorb the near-term cash burden. But the real test is straightforward: converting that gigantic backlog into profitable cloud revenue fast enough to justify the infrastructure bill."
+    ],
+    "html": null
+  }
+}

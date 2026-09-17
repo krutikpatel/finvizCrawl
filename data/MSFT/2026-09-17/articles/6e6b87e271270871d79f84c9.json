@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nokia-stock-jumps-microsoft-ai-115937863.html",
+    "fetched_at": "2026-09-17T07:00:26.062052-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nokia stock jumps as Microsoft AI data partnership expands",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nokia announced an expansion of its partnership with Microsoft on Thursday to build a unified data foundation for telecom network automation, sending Nokia stock up 6.3% in midday European trading.\nThe collaboration integrates Nokia Data Suite with Microsoft Fabric, Microsoft's unified analytics and AI platform. Nokia said the pairing would cut the time telecom operators need to reach usable network data from a process that previously stretched across multiple weeks down to a matter of minutes.\nNokia said the solution supports agent-based AI operations across the network stack, enabling automated root-cause analysis and closed-loop operations to improve service quality. The offering is designed for multi-vendor, cross-domain environments and supports hybrid, cloud, and on-premises infrastructure.\nInitial use cases include autonomous VoNR, or voice over new radio, assurance — where AI agents detect service anomalies, run root-cause analyses, and recommend corrective actions — and geo-experience, which uses AI and machine learning to map radio access network subscriber sessions to geographic locations and identify users with degraded performance. A third use case covers predictive maintenance, where agents analyze historical and real-time data to anticipate network issues before they affect customers.\n\"Nokia and Microsoft are bringing the right data, at the right time, for the right reason to telecom operators worldwide,\" said Vivek Jaiswal, senior vice president, autonomous networks at Nokia, in a statement. \"Together, we are helping networks evolve from static infrastructures into programmable, AI-native platforms.\"\nSilvia Candiani, corporate vice president, worldwide telco and media at Microsoft, said in a statement that telecom providers are ready to move AI from experimentation into everyday network operations but need trusted data, strong governance, and scalable platforms to do so. \"By bringing together Nokia Data Suite and Microsoft Fabric, we are creating a faster path to turn complex network data into actionable intelligence,\" she said.\nNokia said the solution is available now, with ongoing expansion of autonomous network use cases and customer deployments planned. The announcement builds on an existing Nokia-Microsoft partnership covering cloud, data, AI, and cybersecurity.\nNokia stock's 6.3% gain on Thursday brought its year-to-date rise to about 70%. The Wall Street Journal noted that Nokia has pursued a strategy of adding data-center infrastructure to its offerings as AI spending grows, even as it maintains its core telecom equipment business.",
+    "text_blocks": [
+      "Nokia announced an expansion of its partnership with Microsoft on Thursday to build a unified data foundation for telecom network automation, sending Nokia stock up 6.3% in midday European trading.",
+      "The collaboration integrates Nokia Data Suite with Microsoft Fabric, Microsoft's unified analytics and AI platform. Nokia said the pairing would cut the time telecom operators need to reach usable network data from a process that previously stretched across multiple weeks down to a matter of minutes.",
+      "Nokia said the solution supports agent-based AI operations across the network stack, enabling automated root-cause analysis and closed-loop operations to improve service quality. The offering is designed for multi-vendor, cross-domain environments and supports hybrid, cloud, and on-premises infrastructure.",
+      "Initial use cases include autonomous VoNR, or voice over new radio, assurance — where AI agents detect service anomalies, run root-cause analyses, and recommend corrective actions — and geo-experience, which uses AI and machine learning to map radio access network subscriber sessions to geographic locations and identify users with degraded performance. A third use case covers predictive maintenance, where agents analyze historical and real-time data to anticipate network issues before they affect customers.",
+      "\"Nokia and Microsoft are bringing the right data, at the right time, for the right reason to telecom operators worldwide,\" said Vivek Jaiswal, senior vice president, autonomous networks at Nokia, in a statement. \"Together, we are helping networks evolve from static infrastructures into programmable, AI-native platforms.\"",
+      "Silvia Candiani, corporate vice president, worldwide telco and media at Microsoft, said in a statement that telecom providers are ready to move AI from experimentation into everyday network operations but need trusted data, strong governance, and scalable platforms to do so. \"By bringing together Nokia Data Suite and Microsoft Fabric, we are creating a faster path to turn complex network data into actionable intelligence,\" she said.",
+      "Nokia said the solution is available now, with ongoing expansion of autonomous network use cases and customer deployments planned. The announcement builds on an existing Nokia-Microsoft partnership covering cloud, data, AI, and cybersecurity.",
+      "Nokia stock's 6.3% gain on Thursday brought its year-to-date rise to about 70%. The Wall Street Journal noted that Nokia has pursued a strategy of adding data-center infrastructure to its offerings as AI spending grows, even as it maintains its core telecom equipment business."
+    ],
+    "html": null
+  }
+}
