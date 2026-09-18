@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/ibm-stock-riskier-options-market-192924636.html",
+    "fetched_at": "2026-09-18T07:00:27.028824-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Is IBM Stock Riskier Than Its Options Market Now Assumes?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "International Business Machines (IBM) shares trade near $237, and options price a one-year range around that from $161.75 to $348.69. That band is the calmer version of this stock. Over the past year IBM moved harder than its options now assume. The business question hanging over IBM comes from the second quarter of 2026: whether the software deals that slipped were delayed or lost.\nHow Much Of Your IBM Position Rides On That Band?\nOn a $10,000 holding, the floor would mean a loss of about $3,200 and the ceiling a gain of about $4,700. The gain looks larger because a share price can rise without limit and cannot fall below zero. The band says nothing about direction. It prices the size of the move, and for a holder that size is the risk.\nHas IBM Stock Moved More Than Its Options Now Price?\nWith implied volatility of 38.3% trading below trailing 12-month realized volatility of 49.1%, current options pricing suggests the market anticipates price swings may moderate compared to the prior year's actual movements.\nSo the floor is no worst case. Options still price roughly a 16% chance that IBM finishes below $161.75, and the same chance it finishes above $348.69. Those odds are built on the calmer implied reading, not on how the stock actually moved over the past year.\nWere IBM's Slipped Deals Delayed Or Lost?\nThe worry starts in the second quarter of 2026. Tens of large deals failed to close on the timelines IBM expected, as clients moved spending to servers, storage and memory ahead of expected price increases.\nMany clients buy mainframes and their software through enterprise license agreements, which they generally treat as capital investments. When clients put their capital budgets toward those other purchases, the timing of these deals shifted, and transaction processing revenue fell 9% in the quarter.\nManagement then cut its 2026 revenue growth outlook to 4% to 5% at constant currency, from 5% plus in April, while keeping its target for free cash flow growth. The CFO called the low end of that revenue range, 4%, the base case.\nWhile CEO Arvind Krishna noted that roughly one-third of the slipped contracts closed during the first three weeks of July, management emphasized that full resolution of the pipeline will depend on second-half execution, with CFO Jim Kavanaugh characterizing the low-end 4% growth target as the base case.\nThe CEO called that a good sign, short of full evidence. About 80% of annual software revenue is recurring subscription and consumption revenue, including Red Hat, and that revenue grew in the second quarter.",
+    "text_blocks": [
+      "International Business Machines (IBM) shares trade near $237, and options price a one-year range around that from $161.75 to $348.69. That band is the calmer version of this stock. Over the past year IBM moved harder than its options now assume. The business question hanging over IBM comes from the second quarter of 2026: whether the software deals that slipped were delayed or lost.",
+      "How Much Of Your IBM Position Rides On That Band?",
+      "On a $10,000 holding, the floor would mean a loss of about $3,200 and the ceiling a gain of about $4,700. The gain looks larger because a share price can rise without limit and cannot fall below zero. The band says nothing about direction. It prices the size of the move, and for a holder that size is the risk.",
+      "Has IBM Stock Moved More Than Its Options Now Price?",
+      "With implied volatility of 38.3% trading below trailing 12-month realized volatility of 49.1%, current options pricing suggests the market anticipates price swings may moderate compared to the prior year's actual movements.",
+      "So the floor is no worst case. Options still price roughly a 16% chance that IBM finishes below $161.75, and the same chance it finishes above $348.69. Those odds are built on the calmer implied reading, not on how the stock actually moved over the past year.",
+      "Were IBM's Slipped Deals Delayed Or Lost?",
+      "The worry starts in the second quarter of 2026. Tens of large deals failed to close on the timelines IBM expected, as clients moved spending to servers, storage and memory ahead of expected price increases.",
+      "Many clients buy mainframes and their software through enterprise license agreements, which they generally treat as capital investments. When clients put their capital budgets toward those other purchases, the timing of these deals shifted, and transaction processing revenue fell 9% in the quarter.",
+      "Management then cut its 2026 revenue growth outlook to 4% to 5% at constant currency, from 5% plus in April, while keeping its target for free cash flow growth. The CFO called the low end of that revenue range, 4%, the base case.",
+      "While CEO Arvind Krishna noted that roughly one-third of the slipped contracts closed during the first three weeks of July, management emphasized that full resolution of the pipeline will depend on second-half execution, with CFO Jim Kavanaugh characterizing the low-end 4% growth target as the base case.",
+      "The CEO called that a good sign, short of full evidence. About 80% of annual software revenue is recurring subscription and consumption revenue, including Red Hat, and that revenue grew in the second quarter."
+    ],
+    "html": null
+  }
+}

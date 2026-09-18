@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/apple-iphone-a20-chip-43d4ef59?mod=bar_FV",
+    "fetched_at": "2026-09-18T07:00:40.567584-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple’s Chip Strategy Keeps Paying Dividends<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple’s Chip Strategy Keeps Paying Dividends\nWhen Apple’s iPhone turned into an immediate hit upon its 2007 release, CEO Steve Jobs was quick to realize the value of designing and owning as many of the components in its devices as possible. By 2008, it was working on a smartphone chip and in 2010 the iPhone 4 shipped with the first Apple chip, the A4. Since then, designing the main chips for all its devices has been a priority for Apple, and a potent differentiator, enabling deeper integration between software, services, and hardware than any other consumer technology company.",
+    "text_blocks": [
+      "Apple’s Chip Strategy Keeps Paying Dividends",
+      "When Apple’s iPhone turned into an immediate hit upon its 2007 release, CEO Steve Jobs was quick to realize the value of designing and owning as many of the components in its devices as possible. By 2008, it was working on a smartphone chip and in 2010 the iPhone 4 shipped with the first Apple chip, the A4. Since then, designing the main chips for all its devices has been a priority for Apple, and a potent differentiator, enabling deeper integration between software, services, and hardware than any other consumer technology company."
+    ],
+    "html": null
+  }
+}

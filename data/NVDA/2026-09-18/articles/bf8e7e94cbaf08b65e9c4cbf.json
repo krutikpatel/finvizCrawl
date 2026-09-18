@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-google-emerald-ai-launch-133054307.html",
+    "fetched_at": "2026-09-18T07:00:35.597388-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NVIDIA, Google, Emerald AI launch AI data center power coalition",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "NVIDIA, Google, and Emerald AI announced the launch of the AI Energy Management Alliance, a coalition aimed at getting AI data centers to dynamically manage their electricity consumption in response to grid conditions, with the goal of securing faster connections to the power grid in return.\nThe alliance, called AEMA, wants data centers to function as controllable resources rather than facilities with fixed, unchanging electricity demand. A flexible data center can adjust its grid draw by shifting computing workloads, discharging battery storage, using on-site generation, or responding to grid emergencies, the group said.\nIn exchange for making those commitments, AEMA is pressing grid operators and utilities to grant data center projects faster and larger grid connections. Under AEMA's framework, the group would develop common standards for technical specifications, measurable performance benchmarks, and data sharing between facilities and grid operators, while also establishing upfront expectations for how data centers behave during voltage events or calls to reduce load, the group said.\nEmerald AI CEO Varun Sivaram explained the problem the coalition is trying to solve, according to Engadget. Getting a new data center onto the grid can take ten years or longer, Sivaram noted, because utilities are obligated to guarantee sufficient capacity for peak demand periods. Yet average grid utilization hovers around 50%, which means data centers willing to flex their consumption could tap into substantial headroom on the existing network without forcing expensive new buildout.\nAEMA is technology-neutral and performance-based, focusing on measurable outcomes — response speed, duration, predictability, and behavior during emergencies — rather than specific hardware or software, the group said. The coalition also plans to advocate for policies that recognize grid-responsive demand in state capitals and Washington.\nThe announcement comes as AI data centers have faced mounting public and political opposition. Roughly 70% of Americans would object to a data center being built in their community, citing strain on local power resources and higher utility bills as their leading concerns. Community opposition stalled or halted 48 projects representing more than $156 billion in planned construction last year alone, according to Data Center Watch data cited by Fortune.\nThe broader grid strain has been years in the making. Interconnection queues were already backlogged before data centers began requesting gigawatts of capacity, and utilities built for stable, predictable demand are struggling to accommodate the pace of expansion.",
+    "text_blocks": [
+      "NVIDIA, Google, and Emerald AI announced the launch of the AI Energy Management Alliance, a coalition aimed at getting AI data centers to dynamically manage their electricity consumption in response to grid conditions, with the goal of securing faster connections to the power grid in return.",
+      "The alliance, called AEMA, wants data centers to function as controllable resources rather than facilities with fixed, unchanging electricity demand. A flexible data center can adjust its grid draw by shifting computing workloads, discharging battery storage, using on-site generation, or responding to grid emergencies, the group said.",
+      "In exchange for making those commitments, AEMA is pressing grid operators and utilities to grant data center projects faster and larger grid connections. Under AEMA's framework, the group would develop common standards for technical specifications, measurable performance benchmarks, and data sharing between facilities and grid operators, while also establishing upfront expectations for how data centers behave during voltage events or calls to reduce load, the group said.",
+      "Emerald AI CEO Varun Sivaram explained the problem the coalition is trying to solve, according to Engadget. Getting a new data center onto the grid can take ten years or longer, Sivaram noted, because utilities are obligated to guarantee sufficient capacity for peak demand periods. Yet average grid utilization hovers around 50%, which means data centers willing to flex their consumption could tap into substantial headroom on the existing network without forcing expensive new buildout.",
+      "AEMA is technology-neutral and performance-based, focusing on measurable outcomes — response speed, duration, predictability, and behavior during emergencies — rather than specific hardware or software, the group said. The coalition also plans to advocate for policies that recognize grid-responsive demand in state capitals and Washington.",
+      "The announcement comes as AI data centers have faced mounting public and political opposition. Roughly 70% of Americans would object to a data center being built in their community, citing strain on local power resources and higher utility bills as their leading concerns. Community opposition stalled or halted 48 projects representing more than $156 billion in planned construction last year alone, according to Data Center Watch data cited by Fortune.",
+      "The broader grid strain has been years in the making. Interconnection queues were already backlogged before data centers began requesting gigawatts of capacity, and utilities built for stable, predictable demand are struggling to accommodate the pace of expansion."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/did-microsoft-tell-stock-ran-131330259.html",
+    "fetched_at": "2026-09-18T07:00:38.198159-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Did Microsoft Tell You Before Its Stock Ran?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft (MSFT) stock has returned about 32% since mid-June 2026. The S&P 500 returned about 3% over the same window, and peers moved in both directions: Alphabet fell 4.5% while Apple returned 14.0%. Neither came close to Microsoft, so this was not a sector tide. It was one company, and Microsoft had spent three quarters explaining out loud how internal capacity allocation decisions had constrained Azure's reported growth.\nHow Internal Capacity Priorities Impacted Azure Growth\nBecause available server and GPU capacity was prioritized for first-party enterprise applications before external Azure workloads. In October 2025 management said Azure probably bore most of the revenue impact of being short of capacity, because Microsoft 365 Copilot, security features and GitHub were filled first. Management added that the Azure figure could have been higher.\nMicrosoft said it again, more precisely, in January 2026. Had the GPUs installed in fiscal Q1 and fiscal Q2 2026 all gone to Azure, management said, the reported growth rate would have been higher. The January 28, 2026 results were still received as a disappointment.\nWhere Was Microsoft Sending The Capacity Instead?\nThe capacity went first to Microsoft's own applications, the Copilot products above all. By the April 29, 2026 report, Microsoft 365 Copilot had passed 20 million paid seats, with the company noting that quarterly seat additions marked its fastest growth since launch. In the same report Microsoft said GitHub Copilot would move to usage-based pricing on June 1, 2026. Management also said Azure growth would accelerate modestly in the second half of calendar 2026.\nThe options market was showing something of its own. Implied volatility climbed from the 77th percentile of its trailing one-year range in early May 2026 to the 96th by June 5, 2026. That prices a large move in either direction and says nothing about which way.\nThe signs were not what filled the news before the run began. On June 15 and 16, 2026, law firms were publicizing a class action and investigations into the January 28, 2026 results.\nWhat Happened After Those June Headlines?\nThe first read came on July 29, 2026. Azure revenue grew 43% in fiscal Q4 2026, and management said growth was ahead of expectations. The company also said the quarter benefited from stronger-than-expected GitHub Copilot consumption after the June business model change. Microsoft 365 Copilot passed 30 million paid seats.\nThe meter switched on in the same quarter. So the signs were real, specific and public. What they could not give you was timing or direction.",
+    "text_blocks": [
+      "Microsoft (MSFT) stock has returned about 32% since mid-June 2026. The S&P 500 returned about 3% over the same window, and peers moved in both directions: Alphabet fell 4.5% while Apple returned 14.0%. Neither came close to Microsoft, so this was not a sector tide. It was one company, and Microsoft had spent three quarters explaining out loud how internal capacity allocation decisions had constrained Azure's reported growth.",
+      "How Internal Capacity Priorities Impacted Azure Growth",
+      "Because available server and GPU capacity was prioritized for first-party enterprise applications before external Azure workloads. In October 2025 management said Azure probably bore most of the revenue impact of being short of capacity, because Microsoft 365 Copilot, security features and GitHub were filled first. Management added that the Azure figure could have been higher.",
+      "Microsoft said it again, more precisely, in January 2026. Had the GPUs installed in fiscal Q1 and fiscal Q2 2026 all gone to Azure, management said, the reported growth rate would have been higher. The January 28, 2026 results were still received as a disappointment.",
+      "Where Was Microsoft Sending The Capacity Instead?",
+      "The capacity went first to Microsoft's own applications, the Copilot products above all. By the April 29, 2026 report, Microsoft 365 Copilot had passed 20 million paid seats, with the company noting that quarterly seat additions marked its fastest growth since launch. In the same report Microsoft said GitHub Copilot would move to usage-based pricing on June 1, 2026. Management also said Azure growth would accelerate modestly in the second half of calendar 2026.",
+      "The options market was showing something of its own. Implied volatility climbed from the 77th percentile of its trailing one-year range in early May 2026 to the 96th by June 5, 2026. That prices a large move in either direction and says nothing about which way.",
+      "The signs were not what filled the news before the run began. On June 15 and 16, 2026, law firms were publicizing a class action and investigations into the January 28, 2026 results.",
+      "What Happened After Those June Headlines?",
+      "The first read came on July 29, 2026. Azure revenue grew 43% in fiscal Q4 2026, and management said growth was ahead of expectations. The company also said the quarter benefited from stronger-than-expected GitHub Copilot consumption after the June business model change. Microsoft 365 Copilot passed 30 million paid seats.",
+      "The meter switched on in the same quarter. So the signs were real, specific and public. What they could not give you was timing or direction."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/microsoft-jumps-azure-turns-payment-180855716.html",
+    "fetched_at": "2026-09-18T07:00:49.361446-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Jumps as Azure Turns Payment Vaults Into a Service",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicrosoft (NASDAQ:MSFT), the cloud and enterprise-software giant, pushed another high-security financial workload deeper into Azure Thursday with a managed payment-security service built for banks and payment processors. The shares rose approximately 1.6% to $498.17. The valuation picture still looks favorable: Microsoft's share price sits 14.88% below its GF Value estimate of $585.29, suggesting the market is pricing the stock below GuruFocus' estimate of fair value.\nAzure Payment HSM v2 combines Marvell's LiquidSecurity hardware with Utimaco's Atalla payment module, giving financial institutions a cloud-based way to protect payment keys, encryption and transaction security without giving up the controls demanded by regulated environments. The public preview is available in West US and Western Europe. Microsoft did not disclose pricing, customer contracts or expected revenue, so the near-term financial impact remains difficult to quantify.\nThe bigger story is where Microsoft keeps pushing Azure. Microsoft Cloud generated $59.3 billion, or roughly 65.9% of the company's latest quarterly revenue, and payment security opens another sticky workload where compliance requirements can make switching painful. The preview alone will not move Microsoft's financial needle, but successful production adoption could deepen Azure's grip on highly regulated customers and create another layer of recurring cloud spending.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Microsoft (NASDAQ:MSFT), the cloud and enterprise-software giant, pushed another high-security financial workload deeper into Azure Thursday with a managed payment-security service built for banks and payment processors. The shares rose approximately 1.6% to $498.17. The valuation picture still looks favorable: Microsoft's share price sits 14.88% below its GF Value estimate of $585.29, suggesting the market is pricing the stock below GuruFocus' estimate of fair value.",
+      "Azure Payment HSM v2 combines Marvell's LiquidSecurity hardware with Utimaco's Atalla payment module, giving financial institutions a cloud-based way to protect payment keys, encryption and transaction security without giving up the controls demanded by regulated environments. The public preview is available in West US and Western Europe. Microsoft did not disclose pricing, customer contracts or expected revenue, so the near-term financial impact remains difficult to quantify.",
+      "The bigger story is where Microsoft keeps pushing Azure. Microsoft Cloud generated $59.3 billion, or roughly 65.9% of the company's latest quarterly revenue, and payment security opens another sticky workload where compliance requirements can make switching painful. The preview alone will not move Microsoft's financial needle, but successful production adoption could deepen Azure's grip on highly regulated customers and create another layer of recurring cloud spending."
+    ],
+    "html": null
+  }
+}

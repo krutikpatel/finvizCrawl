@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/sec-sends-strong-signal-robinhood-191533748.html",
+    "fetched_at": "2026-09-18T07:00:19.371971-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SEC Sends Strong Signal to Robinhood, Coinbase Investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nThe SEC is opening a limited path for tokenized U.S. stock trading, giving platforms such as Robinhood (NASDAQ:HOOD), Coinbase (NASDAQ:COIN) and Securitize (NYSE:SECZ) a clearer regulatory framework for bringing traditional equities onto blockchain rails.\nThe move comes after the Senate failed on September 15 to advance the CLARITY Act. A procedural vote to move forward on the legislation failed 49-50, short of the 60 votes required.\nRather than waiting for broader legislation, the Securities and Exchange Commission granted temporary, conditional relief allowing Tokenized Securities Venues to trade certain tokenized National Market System stocks through permissioned automated market makers and liquidity pools.\nThe exemption is deliberately narrow.\nTokenized shares must provide investors the same basic rights as the corresponding traditional stock, including dividend and voting rights. Issuers must also be given an opportunity to object before an unaffiliated third party begins trading a tokenized version of their shares.\nTrading will also face limits on symbols and volume, while participating venues must meet access, transparency and other investor-protection requirements. The relief expires five years after publication unless the regulatory framework changes before then.\nSEC Chairman Paul Atkins described the move as a step toward bringing U.S. capital markets on-chain while the agency evaluates longer-term rules.\nInvestors Takeaway\nThe immediate opportunity is biggest for companies already positioned between traditional finance and crypto.\nRobinhood jumped more than 5% in early trading, while Coinbase, Circle (CRCL), Bullish (BLSH) and Securitize also gained.\nThe longer-term significance is potentially larger.\nTokenized equities could eventually extend trading flexibility, automate settlement and create new liquidity models around traditional securities. For platforms, that could mean additional trading volume, custody activity and transaction revenue.\nBut this is not full deregulation. The exemption is temporary, capped and permissioned, and issuers retain meaningful control.\nInvestors should therefore view the SEC action as an experiment with commercial potential, not yet a wholesale replacement for traditional exchanges.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "The SEC is opening a limited path for tokenized U.S. stock trading, giving platforms such as Robinhood (NASDAQ:HOOD), Coinbase (NASDAQ:COIN) and Securitize (NYSE:SECZ) a clearer regulatory framework for bringing traditional equities onto blockchain rails.",
+      "The move comes after the Senate failed on September 15 to advance the CLARITY Act. A procedural vote to move forward on the legislation failed 49-50, short of the 60 votes required.",
+      "Rather than waiting for broader legislation, the Securities and Exchange Commission granted temporary, conditional relief allowing Tokenized Securities Venues to trade certain tokenized National Market System stocks through permissioned automated market makers and liquidity pools.",
+      "The exemption is deliberately narrow.",
+      "Tokenized shares must provide investors the same basic rights as the corresponding traditional stock, including dividend and voting rights. Issuers must also be given an opportunity to object before an unaffiliated third party begins trading a tokenized version of their shares.",
+      "Trading will also face limits on symbols and volume, while participating venues must meet access, transparency and other investor-protection requirements. The relief expires five years after publication unless the regulatory framework changes before then.",
+      "SEC Chairman Paul Atkins described the move as a step toward bringing U.S. capital markets on-chain while the agency evaluates longer-term rules.",
+      "Investors Takeaway",
+      "The immediate opportunity is biggest for companies already positioned between traditional finance and crypto.",
+      "Robinhood jumped more than 5% in early trading, while Coinbase, Circle (CRCL), Bullish (BLSH) and Securitize also gained.",
+      "The longer-term significance is potentially larger.",
+      "Tokenized equities could eventually extend trading flexibility, automate settlement and create new liquidity models around traditional securities. For platforms, that could mean additional trading volume, custody activity and transaction revenue.",
+      "But this is not full deregulation. The exemption is temporary, capped and permissioned, and issuers retain meaningful control.",
+      "Investors should therefore view the SEC action as an experiment with commercial potential, not yet a wholesale replacement for traditional exchanges."
+    ],
+    "html": null
+  }
+}

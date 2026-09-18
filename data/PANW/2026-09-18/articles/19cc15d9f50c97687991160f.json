@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-priced-orders-not-182258001.html",
+    "fetched_at": "2026-09-18T07:00:43.555223-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cisco Systems (CSCO) grew revenue more slowly over the last twelve months than any other company in its peer group. Yet it trades on almost the same earnings multiple as Dell Technologies, the fastest grower of the five. Trailing growth does not explain that price on its own. Cisco's last quarter grew 18%, well ahead of its 11.8% twelve-month figure. The rest of the case rests on AI networking orders that are running well ahead of the revenue Cisco has booked from them.\nWhy Does Cisco Cost About As Much As Dell?\nThe multiples are 32.1 times earnings for Cisco and 31.9 times for Dell. Dell grew revenue 49% over the last twelve months. Cisco grew 11.8%, the slowest in the group.\nWhat Cisco has instead is margin. Its operating margin over the same twelve months was 25.4%, against 9.6% at Dell, so far more of each sales dollar reaches profit. Hewlett Packard Enterprise is cheaper than both, grows faster than Cisco and runs a thinner margin. Arista Networks and Fortinet cost far more on earnings, but both grow faster than Cisco and earn wider margins.\nMargin buys Cisco part of its multiple. The rest has to come from faster growth than Cisco's last twelve months show.\nWhat Is Cisco Selling To Close The Growth Gap?\nCisco took $9.3 billion of AI infrastructure orders from hyperscalers in fiscal 2026, about 4.5 times its fiscal 2025 total. Roughly 60% of those orders were systems built on Silicon One, its own networking chip design, and the other 40% were optics. Revenue has lagged the orders. By the CFO's account, AI infrastructure revenue from hyperscalers was about $4 billion in fiscal 2026.\nSome of those orders carry lower gross margins. The CEO argues they still end up highly profitable, because winning them adds little expense.\nWill Those Orders Show Up As Faster Growth?\nCisco guides fiscal 2027 revenue to between $72.2 billion at the low end and $73.4 billion at the high end, up from $63.3 billion in fiscal 2026. The CFO describes that as revenue growth accelerating to 15%. Within that guidance, Cisco expects AI infrastructure revenue from hyperscalers to reach $7.5 billion. The CFO says the rest of the business would still grow about 10%.\nThe risk is that some of the growth comes from pricing rather than volume. Price increases added about 5 points to revenue growth in fiscal Q4 2026, according to the CFO. Cisco plans on 4 to 5 points again in fiscal 2027, with more of the impact in the first half. Memory costs and a heavier hardware mix are also pressing on gross margin, and management expects a slight headwind through fiscal 2027.",
+    "text_blocks": [
+      "Cisco Systems (CSCO) grew revenue more slowly over the last twelve months than any other company in its peer group. Yet it trades on almost the same earnings multiple as Dell Technologies, the fastest grower of the five. Trailing growth does not explain that price on its own. Cisco's last quarter grew 18%, well ahead of its 11.8% twelve-month figure. The rest of the case rests on AI networking orders that are running well ahead of the revenue Cisco has booked from them.",
+      "Why Does Cisco Cost About As Much As Dell?",
+      "The multiples are 32.1 times earnings for Cisco and 31.9 times for Dell. Dell grew revenue 49% over the last twelve months. Cisco grew 11.8%, the slowest in the group.",
+      "What Cisco has instead is margin. Its operating margin over the same twelve months was 25.4%, against 9.6% at Dell, so far more of each sales dollar reaches profit. Hewlett Packard Enterprise is cheaper than both, grows faster than Cisco and runs a thinner margin. Arista Networks and Fortinet cost far more on earnings, but both grow faster than Cisco and earn wider margins.",
+      "Margin buys Cisco part of its multiple. The rest has to come from faster growth than Cisco's last twelve months show.",
+      "What Is Cisco Selling To Close The Growth Gap?",
+      "Cisco took $9.3 billion of AI infrastructure orders from hyperscalers in fiscal 2026, about 4.5 times its fiscal 2025 total. Roughly 60% of those orders were systems built on Silicon One, its own networking chip design, and the other 40% were optics. Revenue has lagged the orders. By the CFO's account, AI infrastructure revenue from hyperscalers was about $4 billion in fiscal 2026.",
+      "Some of those orders carry lower gross margins. The CEO argues they still end up highly profitable, because winning them adds little expense.",
+      "Will Those Orders Show Up As Faster Growth?",
+      "Cisco guides fiscal 2027 revenue to between $72.2 billion at the low end and $73.4 billion at the high end, up from $63.3 billion in fiscal 2026. The CFO describes that as revenue growth accelerating to 15%. Within that guidance, Cisco expects AI infrastructure revenue from hyperscalers to reach $7.5 billion. The CFO says the rest of the business would still grow about 10%.",
+      "The risk is that some of the growth comes from pricing rather than volume. Price increases added about 5 points to revenue growth in fiscal Q4 2026, according to the CFO. Cisco plans on 4 to 5 points again in fiscal 2027, with more of the impact in the first half. Memory costs and a heavier hardware mix are also pressing on gross margin, and management expects a slight headwind through fiscal 2027."
+    ],
+    "html": null
+  }
+}

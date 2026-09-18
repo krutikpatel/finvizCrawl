@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-marvell-agree-sige-technology-104351660.html",
+    "fetched_at": "2026-09-18T07:00:49.353203-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GlobalFoundries and Marvell agree on SiGe technology expansion",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "GlobalFoundries (GF) and Marvell Technology have announced an expansion of their multi-year collaboration to raise manufacturing capacity for silicon germanium (SiGe) technology at GlobalFoundries' Burlington, Vermont facility in the US.\nThe move aims to meet rising demand for next-generation optical connectivity, particularly as AI data centres require faster and more efficient data movement. The agreement will add significant SiGe capacity to support Marvell's expanding requirements.\nSiGe is central to high-performance optical transceivers and advanced optical networking applications, such as pluggable optical transceivers, Co-packaged Optics (CPO), and Near-Packaged Optics (NPO).\nThese components are viewed as increasingly important for large-scale, distributed compute systems found in modern AI data centres, where the efficiency of high-speed interconnects is critical to system performance.\nGlobalFoundries' current SiGe technology supports 200G-per-lane optical connectivity.\nThe company stated its development roadmap is designed to offer support for higher-speed generations in line with growing bandwidth demands from AI and cloud data centre operators.\nGlobalFoundries has produced advanced SiGe technology for more than ten years and integrates SiGe with silicon photonics and advanced packaging to support new optical connectivity architectures.\nMarvell is seeking to address the transition towards high-bandwidth optical architectures in the industry.\nMarvell foundry technology vice president Robb Johnson said: \"AI is fundamentally changing the way data centres are built, and connectivity is becoming increasingly critical to unlocking the performance of these systems.\n\"As the industry moves toward higher-bandwidth optical architectures, including NPO and CPO, Marvell is investing aggressively to lead this transition. Our expanded collaboration with GF will help ensure we have the SiGe technology and manufacturing capacity to support the significant growth we see ahead.\"\nThe expanded arrangement extends over a decade of cooperation between the two companies and highlights the growing significance of optical networking technology in enabling future AI and cloud infrastructure.\nGlobalFoundries photonics and RF businesses senior vice president Shankaran Janardhanan said: \"SiGe is where GF's decades of high-performance radio frequency and analog leadership translate directly into breakthrough optical performance.\n\"This agreement reinforces our long-standing relationship with Marvell and reflects the critical role SiGe technology plays in enabling high-speed optical networking for AI infrastructure.",
+    "text_blocks": [
+      "GlobalFoundries (GF) and Marvell Technology have announced an expansion of their multi-year collaboration to raise manufacturing capacity for silicon germanium (SiGe) technology at GlobalFoundries' Burlington, Vermont facility in the US.",
+      "The move aims to meet rising demand for next-generation optical connectivity, particularly as AI data centres require faster and more efficient data movement. The agreement will add significant SiGe capacity to support Marvell's expanding requirements.",
+      "SiGe is central to high-performance optical transceivers and advanced optical networking applications, such as pluggable optical transceivers, Co-packaged Optics (CPO), and Near-Packaged Optics (NPO).",
+      "These components are viewed as increasingly important for large-scale, distributed compute systems found in modern AI data centres, where the efficiency of high-speed interconnects is critical to system performance.",
+      "GlobalFoundries' current SiGe technology supports 200G-per-lane optical connectivity.",
+      "The company stated its development roadmap is designed to offer support for higher-speed generations in line with growing bandwidth demands from AI and cloud data centre operators.",
+      "GlobalFoundries has produced advanced SiGe technology for more than ten years and integrates SiGe with silicon photonics and advanced packaging to support new optical connectivity architectures.",
+      "Marvell is seeking to address the transition towards high-bandwidth optical architectures in the industry.",
+      "Marvell foundry technology vice president Robb Johnson said: \"AI is fundamentally changing the way data centres are built, and connectivity is becoming increasingly critical to unlocking the performance of these systems.",
+      "\"As the industry moves toward higher-bandwidth optical architectures, including NPO and CPO, Marvell is investing aggressively to lead this transition. Our expanded collaboration with GF will help ensure we have the SiGe technology and manufacturing capacity to support the significant growth we see ahead.\"",
+      "The expanded arrangement extends over a decade of cooperation between the two companies and highlights the growing significance of optical networking technology in enabling future AI and cloud infrastructure.",
+      "GlobalFoundries photonics and RF businesses senior vice president Shankaran Janardhanan said: \"SiGe is where GF's decades of high-performance radio frequency and analog leadership translate directly into breakthrough optical performance.",
+      "\"This agreement reinforces our long-standing relationship with Marvell and reflects the critical role SiGe technology plays in enabling high-speed optical networking for AI infrastructure."
+    ],
+    "html": null
+  }
+}

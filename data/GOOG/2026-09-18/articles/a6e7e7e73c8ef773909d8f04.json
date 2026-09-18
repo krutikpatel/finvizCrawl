@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/agentcard-gives-ai-agents-own-110940084.html",
+    "fetched_at": "2026-09-18T07:00:24.364931-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AgentCard Gives AI Agents Their Own Identity. That Is the Point.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Alchemy's integration of AgentCard with Mastercard Agent Pay establishes a dedicated identity layer for autonomous software. By provisioning each agent with a unique email address, phone number, stablecoin wallet, and tokenized payment credentials, Alchemy is attempting to treat AI agents as distinct, verifiable entities rather than mere extensions of a user's existing account. This is not a payment product dressed up as identity — it is the reverse.\nWhen AgentCard launched in June 2026 with Visa Intelligent Commerce, it established the baseline for this architecture. The current Mastercard integration adds a critical component: Verifiable Intent. Co-developed with Google, this standard provides a tamper-resistant cryptographic proof that links a consumer's specific instructions to a transaction outcome. It allows for selective disclosure, ensuring that only the minimum required information is shared during the checkout process.\nThe technical implementation is designed for speed — a single command-line instruction and under one minute to set up. Once active, the system encrypts credentials at rest and provides granular spending controls, including merchant category restrictions, geographic limitations, and instant freeze-or-revoke capability. These features address the operational friction our beat has tracked: the current reality where only 3% of transactions involve agents and developers face integration costs ranging from $5,000 to $500,000 per protocol, as our analysis of the protocol proliferation tax documented.\nAlchemy CEO Nikil Viswanathan framed the shift plainly: \"AI agents are quickly moving from simple assistants to software that can take action for people. To make that possible in everyday commerce, agents need a trusted way to pay, prove authorization, and operate within clear user-defined limits.\" Sherri Haymond, Mastercard's EVP of Digital Commercialization, pushed the framing further: \"The future of commerce isn't just about agents that can act — it's about agents that can be trusted to act on your behalf.\"\nThe infrastructure is being built, but the environment remains fragmented. Visa completed \"hundreds\" of secure agent transactions in a closed beta and projects \"millions\" by holiday 2026. Between those numbers sits a trust deficit that identity provisioning alone does not close: only 23% of consumers trust AI to handle payment transactions, and 85% demand transparency regarding how their data is used, according to Visa's Earning Trust report.",
+    "text_blocks": [
+      "Alchemy's integration of AgentCard with Mastercard Agent Pay establishes a dedicated identity layer for autonomous software. By provisioning each agent with a unique email address, phone number, stablecoin wallet, and tokenized payment credentials, Alchemy is attempting to treat AI agents as distinct, verifiable entities rather than mere extensions of a user's existing account. This is not a payment product dressed up as identity — it is the reverse.",
+      "When AgentCard launched in June 2026 with Visa Intelligent Commerce, it established the baseline for this architecture. The current Mastercard integration adds a critical component: Verifiable Intent. Co-developed with Google, this standard provides a tamper-resistant cryptographic proof that links a consumer's specific instructions to a transaction outcome. It allows for selective disclosure, ensuring that only the minimum required information is shared during the checkout process.",
+      "The technical implementation is designed for speed — a single command-line instruction and under one minute to set up. Once active, the system encrypts credentials at rest and provides granular spending controls, including merchant category restrictions, geographic limitations, and instant freeze-or-revoke capability. These features address the operational friction our beat has tracked: the current reality where only 3% of transactions involve agents and developers face integration costs ranging from $5,000 to $500,000 per protocol, as our analysis of the protocol proliferation tax documented.",
+      "Alchemy CEO Nikil Viswanathan framed the shift plainly: \"AI agents are quickly moving from simple assistants to software that can take action for people. To make that possible in everyday commerce, agents need a trusted way to pay, prove authorization, and operate within clear user-defined limits.\" Sherri Haymond, Mastercard's EVP of Digital Commercialization, pushed the framing further: \"The future of commerce isn't just about agents that can act — it's about agents that can be trusted to act on your behalf.\"",
+      "The infrastructure is being built, but the environment remains fragmented. Visa completed \"hundreds\" of secure agent transactions in a closed beta and projects \"millions\" by holiday 2026. Between those numbers sits a trust deficit that identity provisioning alone does not close: only 23% of consumers trust AI to handle payment transactions, and 85% demand transparency regarding how their data is used, according to Visa's Earning Trust report."
+    ],
+    "html": null
+  }
+}

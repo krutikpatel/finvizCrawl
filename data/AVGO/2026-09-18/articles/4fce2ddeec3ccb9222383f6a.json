@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-launch-ai-chip-151056680.html",
+    "fetched_at": "2026-09-18T07:00:30.295746-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta To Reportedly Launch New AI Chip In 2027, Aims To Beat Nvidia On Efficiency",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nAccording to a Bloomberg report, the company is currently testing the third generation of the line, called MTIA 450, also known as Arke.\n-\nThe next version, MTIA 500, or Astrid, is reportedly expected to complete design work in about a month and enter Meta's data centers by the end of 2027.\n-\nBroadcom is helping Meta with chip designs, while TSMC is manufacturing the processors.\nMark Zuckerberg-led Meta Platforms (META) is reportedly planning to launch its next-generation in-house artificial intelligence chips in the first half of 2027, targeting greater efficiency than Nvidia's (NVDA) processors.\nMeta announced plans to develop its own AI chips in 2023. According to a Bloomberg report, the company is currently testing the third generation of the line, called MTIA 450, also known as Arke. The next version, MTIA 500, or Astrid, is reportedly expected to complete design work in about a month and enter Meta's data centers by the end of 2027.\nThe goal is to deliver better performance per watt and per dollar than \"whatever Nvidia is currently shipping,\" Yee Jiun Song, Meta's vice president of engineering, told Bloomberg.\nMETA's stock edged 0.5% higher on Tuesday morning. The shares were on track for a fourth week of gains, according to Koyfin data. On Stocktwits, retail sentiment behind the company that owns Facebook, WhatsApp and Instagram remained in 'bearish' territory over the past day.\nMeta Targets Nvidia With In-House AI Chips\nMeta is developing its own AI chips as part of a broader effort to build out its AI infrastructure while reducing its reliance on Nvidia's industry-leading processors.\nThe company is working with Broadcom (AVGO) on chip designs and Taiwan Semiconductor Manufacturing Co. (TSM) on production. The effort gives Meta greater control over how its chips are designed around the specific requirements of its AI models, Song said.\nMeta Tests Next-Generation AI Hardware\nAccording to Bloomberg, 12 prototypes of the new chip arrived at Meta from TSMC on September 1. Their performance was within 2% to 3% of the company's simulations, according to the report.\nOn the first day, Meta's team used the processors to run the company's own AI models, as well as models from DeepSeek and Alibaba Group Holding (BABA).\nThe early testing comes as Meta continues to invest heavily in AI infrastructure. The company is seeking more computing capacity to support its expanding AI operations while keeping the cost and power requirements of those systems under control.",
+    "text_blocks": [
+      "-",
+      "According to a Bloomberg report, the company is currently testing the third generation of the line, called MTIA 450, also known as Arke.",
+      "-",
+      "The next version, MTIA 500, or Astrid, is reportedly expected to complete design work in about a month and enter Meta's data centers by the end of 2027.",
+      "-",
+      "Broadcom is helping Meta with chip designs, while TSMC is manufacturing the processors.",
+      "Mark Zuckerberg-led Meta Platforms (META) is reportedly planning to launch its next-generation in-house artificial intelligence chips in the first half of 2027, targeting greater efficiency than Nvidia's (NVDA) processors.",
+      "Meta announced plans to develop its own AI chips in 2023. According to a Bloomberg report, the company is currently testing the third generation of the line, called MTIA 450, also known as Arke. The next version, MTIA 500, or Astrid, is reportedly expected to complete design work in about a month and enter Meta's data centers by the end of 2027.",
+      "The goal is to deliver better performance per watt and per dollar than \"whatever Nvidia is currently shipping,\" Yee Jiun Song, Meta's vice president of engineering, told Bloomberg.",
+      "META's stock edged 0.5% higher on Tuesday morning. The shares were on track for a fourth week of gains, according to Koyfin data. On Stocktwits, retail sentiment behind the company that owns Facebook, WhatsApp and Instagram remained in 'bearish' territory over the past day.",
+      "Meta Targets Nvidia With In-House AI Chips",
+      "Meta is developing its own AI chips as part of a broader effort to build out its AI infrastructure while reducing its reliance on Nvidia's industry-leading processors.",
+      "The company is working with Broadcom (AVGO) on chip designs and Taiwan Semiconductor Manufacturing Co. (TSM) on production. The effort gives Meta greater control over how its chips are designed around the specific requirements of its AI models, Song said.",
+      "Meta Tests Next-Generation AI Hardware",
+      "According to Bloomberg, 12 prototypes of the new chip arrived at Meta from TSMC on September 1. Their performance was within 2% to 3% of the company's simulations, according to the report.",
+      "On the first day, Meta's team used the processors to run the company's own AI models, as well as models from DeepSeek and Alibaba Group Holding (BABA).",
+      "The early testing comes as Meta continues to invest heavily in AI infrastructure. The company is seeking more computing capacity to support its expanding AI operations while keeping the cost and power requirements of those systems under control."
+    ],
+    "html": null
+  }
+}

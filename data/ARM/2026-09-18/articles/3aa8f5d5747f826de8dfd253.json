@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/arm-ceo-rene-haas-more-175603204.html",
+    "fetched_at": "2026-09-18T07:00:46.827617-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm CEO Rene Haas more confident on $2 billion AI chip revenue target",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Arm Holdings CEO Rene Haas said his confidence in the company reaching $2 billion in revenue from its new data center chip has grown since the company's July earnings call, sending Arm stock higher on Wednesday.\n\"So what we said in the earnings call I think was May timeframe that we had visibility to $2 billion, and what we said in the last earnings call was that our confidence to achieve that $2 billion number had increased from May to July,\" Haas told CNBC's Jim Cramer on Wednesday. \"Here I am in September, and what I can tell you is, Jim, I'm more confident today than I was on that July earnings.\"\nThe chip in question is Arm's AGI CPU, its first in-house central processing unit built for data centers, according to CNBC. The product marks a significant shift for Arm, which has historically generated revenue by licensing its chip designs to customers rather than selling a complete chip of its own.\nThe key question hanging over Arm is not whether buyers want the chip but whether the company can obtain enough manufacturing capacity to fulfill orders, according to CNBC. Chipmakers have been competing for limited production capacity during the AI spending boom.\nArm revealed in its May earnings call that it could see a path to $2 billion in demand for the AGI CPU — twice what it had projected at the chip's March unveiling, according to CNBC. But Arm stock fell 10% after the company kept its official revenue outlook at $1 billion while it worked to lock in sufficient supply. When Arm reported earnings in July, executives indicated they felt better about locking in production capacity, a reassurance that sent shares up more than 7% the next day.\nArm stock has preserved its post-July rally but is still trading about 45% off the $452 peak it reached in June.",
+    "text_blocks": [
+      "Arm Holdings CEO Rene Haas said his confidence in the company reaching $2 billion in revenue from its new data center chip has grown since the company's July earnings call, sending Arm stock higher on Wednesday.",
+      "\"So what we said in the earnings call I think was May timeframe that we had visibility to $2 billion, and what we said in the last earnings call was that our confidence to achieve that $2 billion number had increased from May to July,\" Haas told CNBC's Jim Cramer on Wednesday. \"Here I am in September, and what I can tell you is, Jim, I'm more confident today than I was on that July earnings.\"",
+      "The chip in question is Arm's AGI CPU, its first in-house central processing unit built for data centers, according to CNBC. The product marks a significant shift for Arm, which has historically generated revenue by licensing its chip designs to customers rather than selling a complete chip of its own.",
+      "The key question hanging over Arm is not whether buyers want the chip but whether the company can obtain enough manufacturing capacity to fulfill orders, according to CNBC. Chipmakers have been competing for limited production capacity during the AI spending boom.",
+      "Arm revealed in its May earnings call that it could see a path to $2 billion in demand for the AGI CPU — twice what it had projected at the chip's March unveiling, according to CNBC. But Arm stock fell 10% after the company kept its official revenue outlook at $1 billion while it worked to lock in sufficient supply. When Arm reported earnings in July, executives indicated they felt better about locking in production capacity, a reassurance that sent shares up more than 7% the next day.",
+      "Arm stock has preserved its post-July rally but is still trading about 45% off the $452 peak it reached in June."
+    ],
+    "html": null
+  }
+}

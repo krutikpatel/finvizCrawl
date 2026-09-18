@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-jumps-5-5-labor-183703220.html",
+    "fetched_at": "2026-09-18T07:00:14.361584-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Jumps 5.5% as Labor Claims AI's Margin Windfall",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMicron Technology (NASDAQ:MU), the AI-memory and storage producer, entered Thursday with labor negotiations looming over its biggest manufacturing base, Reuters reported. The shares jumped approximately 5.5% to $977.502. The valuation picture is just as striking: Micron's share price sits 53.12% above its GF Value estimate of $638.38, showing how aggressively investors are pricing the current AI-memory boom.\nTwo unions representing more than 80% of Micron's roughly 15,000 employees in Taiwan are pushing for a permanent system that would distribute 15% of global operating profit to workers. Mediation sessions are scheduled for September 18 and September 21. The key point for investors: no strike has been called, and production has not been disrupted. For now, this is a negotiation risk rather than an operating hit.\nThat distinction matters because Micron is riding extraordinary memory economics. Its latest quarter produced an 84.6% gross margin as tight DRAM supply and surging high-bandwidth-memory demand pushed pricing sharply higher. One-time bonuses let employees participate in a strong year without permanently resetting Micron's cost base; a recurring profit-sharing formula would automatically transfer part of future operating upside to workers. With the stock already trading more than 50% above GF Value, investors are paying a hefty premium for AI scarcityand that makes both manufacturing continuity and future margin discipline increasingly important.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Micron Technology (NASDAQ:MU), the AI-memory and storage producer, entered Thursday with labor negotiations looming over its biggest manufacturing base, Reuters reported. The shares jumped approximately 5.5% to $977.502. The valuation picture is just as striking: Micron's share price sits 53.12% above its GF Value estimate of $638.38, showing how aggressively investors are pricing the current AI-memory boom.",
+      "Two unions representing more than 80% of Micron's roughly 15,000 employees in Taiwan are pushing for a permanent system that would distribute 15% of global operating profit to workers. Mediation sessions are scheduled for September 18 and September 21. The key point for investors: no strike has been called, and production has not been disrupted. For now, this is a negotiation risk rather than an operating hit.",
+      "That distinction matters because Micron is riding extraordinary memory economics. Its latest quarter produced an 84.6% gross margin as tight DRAM supply and surging high-bandwidth-memory demand pushed pricing sharply higher. One-time bonuses let employees participate in a strong year without permanently resetting Micron's cost base; a recurring profit-sharing formula would automatically transfer part of future operating upside to workers. With the stock already trading more than 50% above GF Value, investors are paying a hefty premium for AI scarcityand that makes both manufacturing continuity and future margin discipline increasingly important."
+    ],
+    "html": null
+  }
+}

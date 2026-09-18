@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-rise-saudi-arabia-reportedly-up-capacity-pipeline/card/tech-is-a-bright-spot-that-s-helping-support-the-broader-market-Op02Bp3bysBm0F2GjjKg?mod=mw_FV",
+    "fetched_at": "2026-09-18T07:00:29.767685-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech is a bright spot, that's helping support the broader market - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "8 min ago\nTech is a bright spot, that's helping support the broader market\nTechnology stocks, led by optical and chip companies, are providing support to the broad market indexes, which are trading mixed despite downbeat market breadth.\nOnly two of the S&P 500's sectors are gaining, but the S&P 500 is inching slightly higher, as shares of optical companies Coherent and Lumentum rank first and third among the index's gainers. Also high on the list of gainers are the stocks of chip companies Broadcom and Lam Research.\nThe Roundhill Photonics & Optics ETF was surging 3.6% and the PHLX Semiconductor Index was climbing 1.3%.",
+    "text_blocks": [
+      "8 min ago",
+      "Tech is a bright spot, that's helping support the broader market",
+      "Technology stocks, led by optical and chip companies, are providing support to the broad market indexes, which are trading mixed despite downbeat market breadth.",
+      "Only two of the S&P 500's sectors are gaining, but the S&P 500 is inching slightly higher, as shares of optical companies Coherent and Lumentum rank first and third among the index's gainers. Also high on the list of gainers are the stocks of chip companies Broadcom and Lam Research.",
+      "The Roundhill Photonics & Optics ETF was surging 3.6% and the PHLX Semiconductor Index was climbing 1.3%."
+    ],
+    "html": null
+  }
+}

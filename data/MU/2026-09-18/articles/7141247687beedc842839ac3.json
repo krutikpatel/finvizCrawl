@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-chips-china-573a7f1d?mod=bar_FV",
+    "fetched_at": "2026-09-18T07:00:14.150701-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock: China’s CXMT Memory-Chip Push Is More of a Problem for SK Hynix<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Faces Growing China Threat. It’s a Bigger Problem for Memory-Chip Rivals.\nChinese memory companies aren’t slowing down. China’s CXMT is reportedly planning on expanding its portfolio into flash memory, which could intensify competition for Micron Technology and SK Hynix.",
+    "text_blocks": [
+      "Micron Faces Growing China Threat. It’s a Bigger Problem for Memory-Chip Rivals.",
+      "Chinese memory companies aren’t slowing down. China’s CXMT is reportedly planning on expanding its portfolio into flash memory, which could intensify competition for Micron Technology and SK Hynix."
+    ],
+    "html": null
+  }
+}

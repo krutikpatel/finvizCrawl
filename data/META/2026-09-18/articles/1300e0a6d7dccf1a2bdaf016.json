@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html",
+    "fetched_at": "2026-09-18T07:00:11.854448-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Niket Nishant and Tharuniyaa Lakshmi\nSept 18 (Reuters) - The major US stock indexes were set for a subdued open on Friday, as lower oil prices and higher Treasury yields sent conflicting signals on a day with few fresh catalysts.\nTech shares were mixed, with Alphabet up 2% and Meta adding over 1%, while Nvidia and Microsoft slipped marginally.\nThe interest rate hike from the Federal Reserve and Chair Kevin Warsh's commentary on the future trajectory of borrowing costs has kept investors busy this week.\nA slide in oil prices helped ease inflation concerns, but elevated yields on US Treasuries has dampened appetite for stocks. The yield on the benchmark 10-year Treasury rose 2.9 bps to 4.976%.\n\"Oil is relatively cooperative. Today will be largely about digesting the effects and really thinking through the pros and cons of the Fed's recent moves,\" said Steve Sosnick, chief strategist at Interactive Brokers.\nInvestors also reassessed the outlook for AI demand this week after top industry executives urged a slowdown in the development of the technology. There is little clarity yet on what such a slowdown would look like.\nThe race for AI supremacy is set to hang over next week's meeting between US President Donald Trump and Chinese President Xi Jinping in Washington.\nWith the earnings season still a month away, commentary from top industry executives at a string of conferences this week gave markets an early read on corporate health and helped shape sentiment.\n\"The recent strength of S&P 500 earnings growth has raised investor concerns that the market is in an 'earnings bubble',\" wrote Ben Snider, chief US equity strategist at Goldman Sachs.\n\"While there are indeed factors contributing to 'over-earning' today, our base case is for S&P 500 earnings growth to decelerate, not collapse, in coming years.\"\nAt 08:34 a.m. ET, Dow E-minis fell 150 points, or 0.29%, S&P 500 E-minis were down 5.25 points, or 0.07%, and Nasdaq 100 E-minis rose 48 points, or 0.16%.\nOIL PRICE DROP EASES PRESSURE\nCrude prices fell for a third straight day on Friday, as markets shrugged off supply concerns even as Saudi Arabia and Yemen's Iran-backed Houthis exchanged fresh strikes across their border.\nBrent crude futures slipped nearly 1% to $103.87.\nFriday also marks the once-in-a-quarter simultaneous expiry of derivatives contracts tied to stocks, index options and futures, also known as \"triple witching,\" which can boost trading volume and exacerbate volatility.\nMeanwhile, Xenon Pharmaceuticals tumbled nearly 23% premarket after it temporarily paused enrolment in tests for its experimental drug for major and bipolar depression following reports of side effects.",
+    "text_blocks": [
+      "By Niket Nishant and Tharuniyaa Lakshmi",
+      "Sept 18 (Reuters) - The major US stock indexes were set for a subdued open on Friday, as lower oil prices and higher Treasury yields sent conflicting signals on a day with few fresh catalysts.",
+      "Tech shares were mixed, with Alphabet up 2% and Meta adding over 1%, while Nvidia and Microsoft slipped marginally.",
+      "The interest rate hike from the Federal Reserve and Chair Kevin Warsh's commentary on the future trajectory of borrowing costs has kept investors busy this week.",
+      "A slide in oil prices helped ease inflation concerns, but elevated yields on US Treasuries has dampened appetite for stocks. The yield on the benchmark 10-year Treasury rose 2.9 bps to 4.976%.",
+      "\"Oil is relatively cooperative. Today will be largely about digesting the effects and really thinking through the pros and cons of the Fed's recent moves,\" said Steve Sosnick, chief strategist at Interactive Brokers.",
+      "Investors also reassessed the outlook for AI demand this week after top industry executives urged a slowdown in the development of the technology. There is little clarity yet on what such a slowdown would look like.",
+      "The race for AI supremacy is set to hang over next week's meeting between US President Donald Trump and Chinese President Xi Jinping in Washington.",
+      "With the earnings season still a month away, commentary from top industry executives at a string of conferences this week gave markets an early read on corporate health and helped shape sentiment.",
+      "\"The recent strength of S&P 500 earnings growth has raised investor concerns that the market is in an 'earnings bubble',\" wrote Ben Snider, chief US equity strategist at Goldman Sachs.",
+      "\"While there are indeed factors contributing to 'over-earning' today, our base case is for S&P 500 earnings growth to decelerate, not collapse, in coming years.\"",
+      "At 08:34 a.m. ET, Dow E-minis fell 150 points, or 0.29%, S&P 500 E-minis were down 5.25 points, or 0.07%, and Nasdaq 100 E-minis rose 48 points, or 0.16%.",
+      "OIL PRICE DROP EASES PRESSURE",
+      "Crude prices fell for a third straight day on Friday, as markets shrugged off supply concerns even as Saudi Arabia and Yemen's Iran-backed Houthis exchanged fresh strikes across their border.",
+      "Brent crude futures slipped nearly 1% to $103.87.",
+      "Friday also marks the once-in-a-quarter simultaneous expiry of derivatives contracts tied to stocks, index options and futures, also known as \"triple witching,\" which can boost trading volume and exacerbate volatility.",
+      "Meanwhile, Xenon Pharmaceuticals tumbled nearly 23% premarket after it temporarily paused enrolment in tests for its experimental drug for major and bipolar depression following reports of side effects."
+    ],
+    "html": null
+  }
+}

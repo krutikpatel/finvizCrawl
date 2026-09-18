@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-rises-sec-clears-tokenized-172800598.html",
+    "fetched_at": "2026-09-18T07:00:19.309474-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Rises as the SEC Clears Tokenized Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nRobinhood Markets Inc. (NASDAQ:HOOD) rose 2.26% intraday as the SEC issued an order creating a pathway for trading venues to issue tokenized versions of US stocks, effective immediately. It arrives two days after the Clarity Act failed to advance in the Senate.\nThe two conditions settle an argument that has been running publicly. Stock tokens must give holders the same rights as the underlying securities, including dividends and voting. And companies can block tokenization of their own shares. A platform must notify the issuer and wait 30 days, and if the company objects within that window, the token cannot trade. The exemption runs five years and carries volume limits.\nThat is close to what AMC's (NYSE:AMC) Adam Aron demanded earlier this month, when he called Robinhood's stock tokens contemptible and argued they stripped investors of shareholder rights while bypassing the company entirely. Robinhood said this week it will let token holders redeem for underlying shares one-for-one and will add voting rights. Coinbase Global Inc. (COIN), Gemini (GEMI) and Payward's Kraken have all launched tokenized equities offshore without offering them to US customers.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Robinhood Markets Inc. (NASDAQ:HOOD) rose 2.26% intraday as the SEC issued an order creating a pathway for trading venues to issue tokenized versions of US stocks, effective immediately. It arrives two days after the Clarity Act failed to advance in the Senate.",
+      "The two conditions settle an argument that has been running publicly. Stock tokens must give holders the same rights as the underlying securities, including dividends and voting. And companies can block tokenization of their own shares. A platform must notify the issuer and wait 30 days, and if the company objects within that window, the token cannot trade. The exemption runs five years and carries volume limits.",
+      "That is close to what AMC's (NYSE:AMC) Adam Aron demanded earlier this month, when he called Robinhood's stock tokens contemptible and argued they stripped investors of shareholder rights while bypassing the company entirely. Robinhood said this week it will let token holders redeem for underlying shares one-for-one and will add voting rights. Coinbase Global Inc. (COIN), Gemini (GEMI) and Payward's Kraken have all launched tokenized equities offshore without offering them to US customers."
+    ],
+    "html": null
+  }
+}

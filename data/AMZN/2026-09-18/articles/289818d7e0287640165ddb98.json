@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-security-debate-amazon-says-234035124.html",
+    "fetched_at": "2026-09-18T07:00:38.157794-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Security Debate — Amazon Says AI Models To Be Released Only When 'Ready And Safe'",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nAmazon has said artificial intelligence models should be released only after thorough vetting and safety checks.\n-\nThe company emphasized that managing deployment risks requires collaboration between tech leaders and government bodies.\n-\nAmazon's stance aligns it with top partner labs like OpenAI and Anthropic, amid a widening rift in Silicon Valley over government-mandated AI safeguards.\nAmazon.com Inc. (AMZN) has taken a firm stance on AI safety, maintaining that high-powered AI models should be released to the public only once they are fully safe and thoroughly evaluated.\nAmazon spokesperson Tom Parnell emphasized that technological advancement does not have to come at the expense of consumer security, in an emailed response to Bloomberg. He rejected the notion that innovation and risk management are mutually exclusive goals, framing safeguards as an essential foundation for long-term progress.\nParnell highlighted that releasing unverified models creates systemic risks across the market. To mitigate these hazards, Amazon advocates collective action, urging technology companies to work closely with government regulators to institute mandatory protections and standard protocols.\nAMZN stock gained about 2% on Thursday but slipped about 0.2% after-hours.\nInfrastructure And Strategic Investments\nWhile Amazon continues to construct its own suite of proprietary large language models, its primary footprint in the AI landscape extends through strategic financial backing and cloud infrastructure. The company maintains major financial and technical partnerships with pioneering research labs, including OpenAI and Anthropic PBC.\nThrough its cloud computing arm, Amazon Web Services (AWS), the company supplies critical computational capacity and enterprise management tools to developers worldwide. Because these technologies already generate measurable economic value for global enterprise clients, company representatives noted that establishing proper deployment standards is paramount to preserving public trust.\nThe Escalating AI Safety Debate\nAmazon's comments coincide with an increasingly polarized global debate regarding the speed of artificial intelligence development. Executives from prominent research firms, including OpenAI and Anthropic, have previously voiced concerns over unmitigated advancement, urging the industry to moderate its pace to properly analyze and address potential safety risks.",
+    "text_blocks": [
+      "-",
+      "Amazon has said artificial intelligence models should be released only after thorough vetting and safety checks.",
+      "-",
+      "The company emphasized that managing deployment risks requires collaboration between tech leaders and government bodies.",
+      "-",
+      "Amazon's stance aligns it with top partner labs like OpenAI and Anthropic, amid a widening rift in Silicon Valley over government-mandated AI safeguards.",
+      "Amazon.com Inc. (AMZN) has taken a firm stance on AI safety, maintaining that high-powered AI models should be released to the public only once they are fully safe and thoroughly evaluated.",
+      "Amazon spokesperson Tom Parnell emphasized that technological advancement does not have to come at the expense of consumer security, in an emailed response to Bloomberg. He rejected the notion that innovation and risk management are mutually exclusive goals, framing safeguards as an essential foundation for long-term progress.",
+      "Parnell highlighted that releasing unverified models creates systemic risks across the market. To mitigate these hazards, Amazon advocates collective action, urging technology companies to work closely with government regulators to institute mandatory protections and standard protocols.",
+      "AMZN stock gained about 2% on Thursday but slipped about 0.2% after-hours.",
+      "Infrastructure And Strategic Investments",
+      "While Amazon continues to construct its own suite of proprietary large language models, its primary footprint in the AI landscape extends through strategic financial backing and cloud infrastructure. The company maintains major financial and technical partnerships with pioneering research labs, including OpenAI and Anthropic PBC.",
+      "Through its cloud computing arm, Amazon Web Services (AWS), the company supplies critical computational capacity and enterprise management tools to developers worldwide. Because these technologies already generate measurable economic value for global enterprise clients, company representatives noted that establishing proper deployment standards is paramount to preserving public trust.",
+      "The Escalating AI Safety Debate",
+      "Amazon's comments coincide with an increasingly polarized global debate regarding the speed of artificial intelligence development. Executives from prominent research firms, including OpenAI and Anthropic, have previously voiced concerns over unmitigated advancement, urging the industry to moderate its pace to properly analyze and address potential safety risks."
+    ],
+    "html": null
+  }
+}

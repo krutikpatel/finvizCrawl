@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-puts-arke-astrid-data-154831995.html",
+    "fetched_at": "2026-09-18T07:00:29.981239-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Puts Arke and Astrid Into Data Centers in 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMeta Platforms Inc. (NASDAQ:META) was unchanged as it detailed plans to deploy two in-house AI chips during 2027. The MTIA 450, called Arke, is the third generation of the line and goes into data centers in the first half of the year. The MTIA 500, or Astrid, finishes design work in about a month and arrives at the end of 2027, with wider use expected. Broadcom Inc. (NASDAQ:AVGO) works on the designs and Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) on manufacturing, in a project aimed at reducing Meta's reliance on Nvidia Corp. (NASDAQ:NVDA) processors.\nMeta cancelled a chip code-named Olympus that would have handled both training and inference, due in 2028 or 2029, because a dual-purpose part would have cost potentially 30% more. \"When you start to build up gigawatts and gigawatts of capacity, you really care about cost,\" said Yee Jiun Song, the vice president of engineering who runs the custom silicon program. All four generations lean on high-bandwidth memory and none targets ultrafast inference.\nTwelve of the new chips reached Meta from TSMC on September 1 and performed within 2% to 3% of simulations, running Meta's own models plus ones from DeepSeek and Alibaba on the first day. Meta has committed to more than a gigawatt's worth over a twelve-month period, with acceleration expected after that.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Meta Platforms Inc. (NASDAQ:META) was unchanged as it detailed plans to deploy two in-house AI chips during 2027. The MTIA 450, called Arke, is the third generation of the line and goes into data centers in the first half of the year. The MTIA 500, or Astrid, finishes design work in about a month and arrives at the end of 2027, with wider use expected. Broadcom Inc. (NASDAQ:AVGO) works on the designs and Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) on manufacturing, in a project aimed at reducing Meta's reliance on Nvidia Corp. (NASDAQ:NVDA) processors.",
+      "Meta cancelled a chip code-named Olympus that would have handled both training and inference, due in 2028 or 2029, because a dual-purpose part would have cost potentially 30% more. \"When you start to build up gigawatts and gigawatts of capacity, you really care about cost,\" said Yee Jiun Song, the vice president of engineering who runs the custom silicon program. All four generations lean on high-bandwidth memory and none targets ultrafast inference.",
+      "Twelve of the new chips reached Meta from TSMC on September 1 and performed within 2% to 3% of simulations, running Meta's own models plus ones from DeepSeek and Alibaba on the first day. Meta has committed to more than a gigawatt's worth over a twelve-month period, with acceleration expected after that."
+    ],
+    "html": null
+  }
+}

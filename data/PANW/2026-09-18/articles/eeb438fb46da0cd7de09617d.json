@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_FV",
+    "fetched_at": "2026-09-18T07:00:43.122391-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "This is the only cybersecurity stock that can post big gains, according to one analyst - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nThis is the only cybersecurity stock that can post big gains, according to one analyst\nZscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight\nCybersecurity stocks have been a hot trade this year, with investors reasoning that they could benefit from a rush of spending tied to artificial-intelligence threat risk.\nBut one analyst thinks that many of the most popular names will have trouble running up much higher from here.",
+    "text_blocks": [
+      "Tech Stocks",
+      "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "Zscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight",
+      "Cybersecurity stocks have been a hot trade this year, with investors reasoning that they could benefit from a rush of spending tied to artificial-intelligence threat risk.",
+      "But one analyst thinks that many of the most popular names will have trouble running up much higher from here."
+    ],
+    "html": null
+  }
+}

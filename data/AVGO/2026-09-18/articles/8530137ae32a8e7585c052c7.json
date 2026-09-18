@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-chips-meta-one-185000285.html",
+    "fetched_at": "2026-09-18T07:00:29.589189-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta’s AI chips and Meta One strengthen Bank of America’s outlook",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) custom AI chip plans and global launch of Meta One reinforced Bank of America's \"buy\" rating, with the broker highlighting potential savings and subscription revenue.\nCiting Bloomberg, analysts noted Meta plans to deploy MTIA 450, or Arke, in the first half of 2027, followed by MTIA 500, or Astrid, late that year.\nBoth Broadcom-developed chips are purpose-built for AI inference, with Meta planning to deploy more than 1 GW of custom-chip capacity over the next 12 months.\nThe report also said Meta cancelled a combined training and inference chip after determining that the design could cost approximately 30% more, limiting its economic viability.\nFor the planned custom-chip deployment, Bank of America estimated roughly $8.5 billion in potential savings under its 2027 infrastructure scenario, assuming 40% savings versus third-party chips.\nAlongside those prospective cost benefits, Meta has already launched Meta One globally, opening a subscription revenue opportunity that Bank of America views positively.\nThe service bundles advanced AI capabilities, customization features and creator tools, with consumer plans ranging from $2.99 monthly for individual apps to $19.99 for Premium.\nCreator and business plans range from $14.99 to $499 monthly, while Meta highlighted 15 million subscribers and trials across existing offerings.\nBank of America viewed that subscriber figure as encouraging and estimated each 1% subscription conversion could generate $4.3 billion annually, assuming approximately 36 million users paying $10 monthly.\nThe next catalysts are Connect and the Watermelon launch, with the broker saying a frontier-level model could bolster optimism about advertising improvements and potential licensing revenue.\nThe shares traded at $677.75, up 1%, on Thursday afternoon, September 17.",
+    "text_blocks": [
+      "Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) custom AI chip plans and global launch of Meta One reinforced Bank of America's \"buy\" rating, with the broker highlighting potential savings and subscription revenue.",
+      "Citing Bloomberg, analysts noted Meta plans to deploy MTIA 450, or Arke, in the first half of 2027, followed by MTIA 500, or Astrid, late that year.",
+      "Both Broadcom-developed chips are purpose-built for AI inference, with Meta planning to deploy more than 1 GW of custom-chip capacity over the next 12 months.",
+      "The report also said Meta cancelled a combined training and inference chip after determining that the design could cost approximately 30% more, limiting its economic viability.",
+      "For the planned custom-chip deployment, Bank of America estimated roughly $8.5 billion in potential savings under its 2027 infrastructure scenario, assuming 40% savings versus third-party chips.",
+      "Alongside those prospective cost benefits, Meta has already launched Meta One globally, opening a subscription revenue opportunity that Bank of America views positively.",
+      "The service bundles advanced AI capabilities, customization features and creator tools, with consumer plans ranging from $2.99 monthly for individual apps to $19.99 for Premium.",
+      "Creator and business plans range from $14.99 to $499 monthly, while Meta highlighted 15 million subscribers and trials across existing offerings.",
+      "Bank of America viewed that subscriber figure as encouraging and estimated each 1% subscription conversion could generate $4.3 billion annually, assuming approximately 36 million users paying $10 monthly.",
+      "The next catalysts are Connect and the Watermelon launch, with the broker saying a frontier-level model could bolster optimism about advertising improvements and potential licensing revenue.",
+      "The shares traded at $677.75, up 1%, on Thursday afternoon, September 17."
+    ],
+    "html": null
+  }
+}

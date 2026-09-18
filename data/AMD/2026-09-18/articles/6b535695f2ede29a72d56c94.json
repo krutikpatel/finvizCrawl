@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rises-premarket-report-092213707.html",
+    "fetched_at": "2026-09-18T07:00:40.808140-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nTSMC's reported foundry cost increase is cited as the driver behind AMD's potential price adjustment.\n-\nThe reported hike spans AI accelerators, graphics processors and motherboard chipsets, while Ryzen pricing remains unconfirmed.\n-\nNebius has also announced higher rates for select GPU, CPU and memory cloud services from Oct. 1.\nShares of Advanced Micro Devices rose 1.4% in premarket trading on Friday, extending their three-session run, amid unverified reports that the chipmaker has notified its customers of a 10% hike in chip prices starting in the fourth quarter.\nThe report is based on information published by technology outlet Wccftech, which cited a leak from ChannelGate, a WeChat account known for sharing supply-chain information.\nThe reported increase is tied to higher manufacturing costs at Taiwan Semiconductor Manufacturing Company (TSMC), AMD's key manufacturing partner.\nTSMC Cost Pressure Behind Reported Increase\nAccording to ChannelGate, TSMC has notified customers of an approximately 10% increase in foundry quotations as manufacturing costs continue to rise. ChannelGate claims AMD has subsequently notified multiple partner customers that it plans to raise prices.\nThe reported increase would cover several AMD product categories, including AI accelerator chips, consumer graphics processors and motherboard chipsets.\nRyzen CPU Price Hike Not Confirmed\nThe ChannelGate report, however, did not explicitly mention AMD's Ryzen CPUs. Wccftech therefore characterized a potential Ryzen price increase as a possibility rather than a confirmed development.\nAMD's client CPUs are also manufactured using TSMC technology, meaning higher wafer costs could increase the cost of producing Ryzen processors. That could create pressure for AMD to raise prices further down the supply chain, the report said.\nNebius Reportedly Raises Cloud Prices\nThe reported AMD price increase comes shortly after AI cloud provider Nebius notified customers that it would raise prices for several on-demand computing services from Oct. 1.\nThe company said selected Nvidia GPU rates will increase by roughly 17% to 21%, while prices for some CPU-only instances and memory offerings will rise by 25% and about 41%, respectively.\nThe price increases come as demand for computing capacity to train and run AI models continues to surge.\nRetail View on AMD\nAMD was among the top trending tickers on Stocktwits at the time of writing, with 'bullish' sentiment. \"$AMD long term holders who bought at $200 smiling now and waiting for $800. ai boom is just beginning,\" said a trader.",
+    "text_blocks": [
+      "-",
+      "TSMC's reported foundry cost increase is cited as the driver behind AMD's potential price adjustment.",
+      "-",
+      "The reported hike spans AI accelerators, graphics processors and motherboard chipsets, while Ryzen pricing remains unconfirmed.",
+      "-",
+      "Nebius has also announced higher rates for select GPU, CPU and memory cloud services from Oct. 1.",
+      "Shares of Advanced Micro Devices rose 1.4% in premarket trading on Friday, extending their three-session run, amid unverified reports that the chipmaker has notified its customers of a 10% hike in chip prices starting in the fourth quarter.",
+      "The report is based on information published by technology outlet Wccftech, which cited a leak from ChannelGate, a WeChat account known for sharing supply-chain information.",
+      "The reported increase is tied to higher manufacturing costs at Taiwan Semiconductor Manufacturing Company (TSMC), AMD's key manufacturing partner.",
+      "TSMC Cost Pressure Behind Reported Increase",
+      "According to ChannelGate, TSMC has notified customers of an approximately 10% increase in foundry quotations as manufacturing costs continue to rise. ChannelGate claims AMD has subsequently notified multiple partner customers that it plans to raise prices.",
+      "The reported increase would cover several AMD product categories, including AI accelerator chips, consumer graphics processors and motherboard chipsets.",
+      "Ryzen CPU Price Hike Not Confirmed",
+      "The ChannelGate report, however, did not explicitly mention AMD's Ryzen CPUs. Wccftech therefore characterized a potential Ryzen price increase as a possibility rather than a confirmed development.",
+      "AMD's client CPUs are also manufactured using TSMC technology, meaning higher wafer costs could increase the cost of producing Ryzen processors. That could create pressure for AMD to raise prices further down the supply chain, the report said.",
+      "Nebius Reportedly Raises Cloud Prices",
+      "The reported AMD price increase comes shortly after AI cloud provider Nebius notified customers that it would raise prices for several on-demand computing services from Oct. 1.",
+      "The company said selected Nvidia GPU rates will increase by roughly 17% to 21%, while prices for some CPU-only instances and memory offerings will rise by 25% and about 41%, respectively.",
+      "The price increases come as demand for computing capacity to train and run AI models continues to surge.",
+      "Retail View on AMD",
+      "AMD was among the top trending tickers on Stocktwits at the time of writing, with 'bullish' sentiment. \"$AMD long term holders who bought at $200 smiling now and waiting for $800. ai boom is just beginning,\" said a trader."
+    ],
+    "html": null
+  }
+}
