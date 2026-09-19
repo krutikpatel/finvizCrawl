@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-does-nvda-stock-carry-164036851.html",
+    "fetched_at": "2026-09-19T07:00:52.461952-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "NVIDIA (NVDA) is the strongest business in its peer group, and it is priced below every rival you can compare it with fairly, at 27.5 times earnings. Yet over the past twelve months NVDA returned 25.7% while AMD returned 239.7%. The best business in the group is one of its weakest stocks, and not because anyone doubts the demand.\nWhy Would You Pay More For AMD Than For NVIDIA?\nStart with AMD. It trades at 138.3 times earnings on a 15.7% operating margin. NVIDIA trades at 27.5 times earnings on a 65.2% operating margin, and grew revenue 83.4% over the trailing twelve months against AMD's 39.5%. On growth and on margin, the cheaper stock is the better business.\nAmong merchant silicon and custom ASIC accelerators powering tier-one AI clusters, NVIDIA's 27.5 times earnings sits comfortably below AMD (138.3) and Marvell (81.8), making it the lowest multiple in the core accelerator cohort.\nSo What Exactly Is NVIDIA Selling Now?\nIt no longer just sells chips. NVIDIA now sells a complete AI factory: the GPU, the Vera CPU, the networking and the software around them. Management measures it as revenue opportunity per gigawatt of data center capacity, roughly $18 billion in the Hopper generation. With Vera Rubin, shipping since August 2026, it is about $40 billion.\nThe customer base is broadening too. The part of the data center business that is not hyperscalers grew 138% year over year in fiscal Q2 2027. Much of that comes from NeoCloud operators, sovereign projects and enterprises with no interest in designing their own custom silicon.\nWho Is Funding The Demand NVIDIA Is Selling Into?\nSome of it, NVIDIA itself. It has invested nearly $50 billion in the frontier AI labs. Management has conceded that some will call this circular financing. NVIDIA's answer is that the compute it ships can be redeployed to other customers if a lab stumbles, and that it has lined up six infrastructure capital providers to raise over $500 billion of third-party capital for the same build-outs.\nCost is the other worry. Memory prices have risen faster than management expected and are still climbing, though management says the price increases it has already executed take effect in the first quarter of fiscal 2028. Neither worry is a demand problem.\nManagement expects revenue to grow about 70% in fiscal 2028 and says supply is what caps it. Customer forecasts point to demand roughly doubling. The forward number is what the multiple hangs on.",
+    "text_blocks": [
+      "NVIDIA (NVDA) is the strongest business in its peer group, and it is priced below every rival you can compare it with fairly, at 27.5 times earnings. Yet over the past twelve months NVDA returned 25.7% while AMD returned 239.7%. The best business in the group is one of its weakest stocks, and not because anyone doubts the demand.",
+      "Why Would You Pay More For AMD Than For NVIDIA?",
+      "Start with AMD. It trades at 138.3 times earnings on a 15.7% operating margin. NVIDIA trades at 27.5 times earnings on a 65.2% operating margin, and grew revenue 83.4% over the trailing twelve months against AMD's 39.5%. On growth and on margin, the cheaper stock is the better business.",
+      "Among merchant silicon and custom ASIC accelerators powering tier-one AI clusters, NVIDIA's 27.5 times earnings sits comfortably below AMD (138.3) and Marvell (81.8), making it the lowest multiple in the core accelerator cohort.",
+      "So What Exactly Is NVIDIA Selling Now?",
+      "It no longer just sells chips. NVIDIA now sells a complete AI factory: the GPU, the Vera CPU, the networking and the software around them. Management measures it as revenue opportunity per gigawatt of data center capacity, roughly $18 billion in the Hopper generation. With Vera Rubin, shipping since August 2026, it is about $40 billion.",
+      "The customer base is broadening too. The part of the data center business that is not hyperscalers grew 138% year over year in fiscal Q2 2027. Much of that comes from NeoCloud operators, sovereign projects and enterprises with no interest in designing their own custom silicon.",
+      "Who Is Funding The Demand NVIDIA Is Selling Into?",
+      "Some of it, NVIDIA itself. It has invested nearly $50 billion in the frontier AI labs. Management has conceded that some will call this circular financing. NVIDIA's answer is that the compute it ships can be redeployed to other customers if a lab stumbles, and that it has lined up six infrastructure capital providers to raise over $500 billion of third-party capital for the same build-outs.",
+      "Cost is the other worry. Memory prices have risen faster than management expected and are still climbing, though management says the price increases it has already executed take effect in the first quarter of fiscal 2028. Neither worry is a demand problem.",
+      "Management expects revenue to grow about 70% in fiscal 2028 and says supply is what caps it. Customer forecasts point to demand roughly doubling. The forward number is what the multiple hangs on."
+    ],
+    "html": null
+  }
+}

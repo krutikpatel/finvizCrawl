@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-surges-tech-wins-223735798.html",
+    "fetched_at": "2026-09-19T07:00:37.028077-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "IonQ (IONQ) shares rose 9.5% on Thursday, closing at $40.34 after six sessions that had mostly gone the other way. The reason on offer was research: quantum algorithms running inside mainstream engineering software, developed with Synopsys, sped up complex industrial design by up to 14.6%. That is genuine progress. It is also not a sale, and the price you pay for IonQ already assumes a great many sales.\nIonQ Rose After Work It Did With Synopsys\nThe work targets computer-aided engineering, the simulation that eats supercomputer time when someone designs a physical product. IonQ says hybrid quantum computing can address a major bottleneck for classical supercomputers. What the release points to is research, not a customer order or a dollar of revenue.\nA second piece of research landed the day before, written with Oak Ridge National Laboratory and NVIDIA: a trained model that writes quantum optimization circuits directly and skips the tuning loop that had made the most accurate method too costly to run. While IonQ slipped 0.6% that session, Thursday's coverage credited that breakthrough alongside the Synopsys work for fueling the rebound.\nBut IonQ Still Loses More Than Four Dollars For Every Dollar It Sells\nIonQ does sell real machines. Its fifth-generation systems have been shipping to KISTI in Korea and to QuantumBasel in Switzerland, which already owns the fourth-generation machine standing beside the new one. Revenue over the past twelve months came to about $250 million, more than 370% higher than the year before.\nThat revenue arrives at a heavy cost. The operating margin over the past twelve months is about -408%, which is more than four dollars of operating loss for every dollar of revenue. Thursday's result does not move that figure, and neither will the next research paper.\nThe spending has a purpose you can name. IonQ bought the SkyWater foundry to put its ion traps on a semiconductor chip, has 256-qubit chips in prototype, and plans to begin commissioning systems built on them in 2027. Until then, substantial capital investment and operating losses remain built into management's multi-year roadmap.\nWhat Is $16 Billion Already Paying For?\nIonQ is worth about $16 billion, roughly 65 times its trailing revenue, and that is with the shares well below their 52-week high of $82.09. At that price you are buying the 2027 ramp: systems that commission on schedule and sell at a cost that shrinks the loss. A research result, however good, sits a long way from that.\nRigetti (RGTI) rose 8.1% the same day while the S&P 500 added 1.1%, so Thursday repriced the quantum theme more than it repriced IonQ's execution. IonQ's best quarter yet, for the three months to June, did not change the loss either. A critical valuation benchmark will be whether commercial revenues begin to offset capital outlays as 2027 system milestones approach.",
+    "text_blocks": [
+      "IonQ (IONQ) shares rose 9.5% on Thursday, closing at $40.34 after six sessions that had mostly gone the other way. The reason on offer was research: quantum algorithms running inside mainstream engineering software, developed with Synopsys, sped up complex industrial design by up to 14.6%. That is genuine progress. It is also not a sale, and the price you pay for IonQ already assumes a great many sales.",
+      "IonQ Rose After Work It Did With Synopsys",
+      "The work targets computer-aided engineering, the simulation that eats supercomputer time when someone designs a physical product. IonQ says hybrid quantum computing can address a major bottleneck for classical supercomputers. What the release points to is research, not a customer order or a dollar of revenue.",
+      "A second piece of research landed the day before, written with Oak Ridge National Laboratory and NVIDIA: a trained model that writes quantum optimization circuits directly and skips the tuning loop that had made the most accurate method too costly to run. While IonQ slipped 0.6% that session, Thursday's coverage credited that breakthrough alongside the Synopsys work for fueling the rebound.",
+      "But IonQ Still Loses More Than Four Dollars For Every Dollar It Sells",
+      "IonQ does sell real machines. Its fifth-generation systems have been shipping to KISTI in Korea and to QuantumBasel in Switzerland, which already owns the fourth-generation machine standing beside the new one. Revenue over the past twelve months came to about $250 million, more than 370% higher than the year before.",
+      "That revenue arrives at a heavy cost. The operating margin over the past twelve months is about -408%, which is more than four dollars of operating loss for every dollar of revenue. Thursday's result does not move that figure, and neither will the next research paper.",
+      "The spending has a purpose you can name. IonQ bought the SkyWater foundry to put its ion traps on a semiconductor chip, has 256-qubit chips in prototype, and plans to begin commissioning systems built on them in 2027. Until then, substantial capital investment and operating losses remain built into management's multi-year roadmap.",
+      "What Is $16 Billion Already Paying For?",
+      "IonQ is worth about $16 billion, roughly 65 times its trailing revenue, and that is with the shares well below their 52-week high of $82.09. At that price you are buying the 2027 ramp: systems that commission on schedule and sell at a cost that shrinks the loss. A research result, however good, sits a long way from that.",
+      "Rigetti (RGTI) rose 8.1% the same day while the S&P 500 added 1.1%, so Thursday repriced the quantum theme more than it repriced IonQ's execution. IonQ's best quarter yet, for the three months to June, did not change the loss either. A critical valuation benchmark will be whether commercial revenues begin to offset capital outlays as 2027 system milestones approach."
+    ],
+    "html": null
+  }
+}

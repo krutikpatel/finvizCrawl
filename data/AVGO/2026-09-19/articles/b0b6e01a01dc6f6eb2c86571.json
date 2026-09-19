@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/87017bbd-44b7-35a4-81b3-1c4b574a4861/broadcom-ceo-hock-tan-defends.html",
+    "fetched_at": "2026-09-19T07:00:31.243350-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom CEO Hock Tan defends $230B AI chip revenue target",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Broadcom CEO Hock Tan pushed back Monday against investor anxiety that a deceleration in frontier AI model building could threaten the chipmaker's outlook, saying Broadcom's fiscal 2027 and 2028 AI semiconductor projections are intact.\n\"We see the demand for compute infrastructure, for AI development or AI frontier models, and inference for the products that they feed to the world, as continuing to be very strong and, I believe, very durable,\" Tan told CNBC's \"Mad Money.\"\nTan's remarks came after Anthropic CEO Dario Amodei published an essay over the weekend calling on AI companies to moderate the pace of capabilities development, drawing public support from OpenAI CEO Sam Altman and Elon Musk. The essay rattled investors in AI infrastructure companies on Monday. Broadcom stock fell 4.8%, while the iShares Semiconductor ETF declined 5.6%.\nAt Broadcom's fiscal third-quarter earnings call on Sept. 2, Tan projected that AI semiconductor revenue would reach $115 billion in fiscal 2027, then double to $230 billion in fiscal 2028. Broadcom's AI revenue covers both custom AI accelerators and networking chips used in AI systems.\nTan also said Anthropic is positioned to surpass all other custom chip buyers at Broadcom by 2027 and remain at the top through 2028 — context that goes a long way toward explaining the sharp investor reaction to Amodei's essay. Google has been considered Broadcom's biggest custom chip customer, co-designing the company's tensor processing units.\nTan singled out inference as an area of especially strong conviction — referring to the ongoing, real-world deployment of AI models once their training phase has ended. \"I don't know about training, but when you want to productize inference, I see it continuing to be very, very strong,\" he said.\nWhile Tan acknowledged that AI warrants guardrails — agreeing with Amodei on that much — he declined to share Amodei's deeper alarm about the trajectory of the technology. \"It's not a live animal that will run wild by itself,\" he said. He compared AI's broader economic potential to the Industrial Revolution.\nThe AI slowdown debate comes as Broadcom has been navigating a competitive custom chip market. Broadcom posted record third-quarter revenue of $29.6 billion, up 86% from a year earlier, driven by AI chip demand. The company forecast fourth-quarter revenue of approximately $34.8 billion, modestly below analyst expectations. Broadcom also disclosed a multi-year manufacturing agreement with Samsung Electronics valued at more than $200 billion.",
+    "text_blocks": [
+      "Broadcom CEO Hock Tan pushed back Monday against investor anxiety that a deceleration in frontier AI model building could threaten the chipmaker's outlook, saying Broadcom's fiscal 2027 and 2028 AI semiconductor projections are intact.",
+      "\"We see the demand for compute infrastructure, for AI development or AI frontier models, and inference for the products that they feed to the world, as continuing to be very strong and, I believe, very durable,\" Tan told CNBC's \"Mad Money.\"",
+      "Tan's remarks came after Anthropic CEO Dario Amodei published an essay over the weekend calling on AI companies to moderate the pace of capabilities development, drawing public support from OpenAI CEO Sam Altman and Elon Musk. The essay rattled investors in AI infrastructure companies on Monday. Broadcom stock fell 4.8%, while the iShares Semiconductor ETF declined 5.6%.",
+      "At Broadcom's fiscal third-quarter earnings call on Sept. 2, Tan projected that AI semiconductor revenue would reach $115 billion in fiscal 2027, then double to $230 billion in fiscal 2028. Broadcom's AI revenue covers both custom AI accelerators and networking chips used in AI systems.",
+      "Tan also said Anthropic is positioned to surpass all other custom chip buyers at Broadcom by 2027 and remain at the top through 2028 — context that goes a long way toward explaining the sharp investor reaction to Amodei's essay. Google has been considered Broadcom's biggest custom chip customer, co-designing the company's tensor processing units.",
+      "Tan singled out inference as an area of especially strong conviction — referring to the ongoing, real-world deployment of AI models once their training phase has ended. \"I don't know about training, but when you want to productize inference, I see it continuing to be very, very strong,\" he said.",
+      "While Tan acknowledged that AI warrants guardrails — agreeing with Amodei on that much — he declined to share Amodei's deeper alarm about the trajectory of the technology. \"It's not a live animal that will run wild by itself,\" he said. He compared AI's broader economic potential to the Industrial Revolution.",
+      "The AI slowdown debate comes as Broadcom has been navigating a competitive custom chip market. Broadcom posted record third-quarter revenue of $29.6 billion, up 86% from a year earlier, driven by AI chip demand. The company forecast fourth-quarter revenue of approximately $34.8 billion, modestly below analyst expectations. Broadcom also disclosed a multi-year manufacturing agreement with Samsung Electronics valued at more than $200 billion."
+    ],
+    "html": null
+  }
+}

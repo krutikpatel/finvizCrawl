@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
+    "fetched_at": "2026-09-19T07:00:25.690753-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How to position for the next wave of AI-led scientific breakthroughs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Artificial intelligence is moving beyond text generation into scientific research, creating investment opportunities across AI infrastructure, pharmaceuticals, nuclear fusion, industrial materials and utilities, according to UBS Wealth Management.\nThe shift was highlighted by OpenAI's recent mathematical proof related to the Navier-Stokes equations, a centuries-old fluid dynamics problem and one of seven Millennium Prize Problems.\nOpenAI used 10,000 autonomous AI agents working in parallel for 88 hours. The system identified a scenario in which fluid forces accelerate infinitely, causing a mathematical breakdown, before formalizing the proof using Lean, a system for machine-checked mathematical validation.\nThe development could have implications for fields ranging from aviation aerodynamics to nuclear fusion. Three areas stand out for their commercial potential: drug development, fusion energy and advanced materials.\nIn pharmaceuticals, multi-agent AI systems can simulate millions of protein variations in the cloud, testing characteristics such as toxicity, stability in the bloodstream and manufacturing resilience before physical laboratory work begins. More than 170 AI-designed programs are already in development or clinical evaluation, including Phase III trials.\nAI could also play a critical role in nuclear fusion by helping stabilize highly turbulent plasma. Reinforcement-learning systems can analyze reactor data, predict plasma disruptions around 200 milliseconds before they occur, and adjust magnetic coils thousands of times per second.\nCommercial fusion could benefit electricity-intensive AI infrastructure alongside manufacturing, utilities, and grid infrastructure.\nMaterials science represents another opportunity. AI models can test millions of elemental combinations daily in search of properties needed for lighter, higher-density batteries, lower-heat computing hardware and potential room-temperature superconductors.\nThe broader investment case centers on AI becoming a tool for automating scientific research rather than simply generating content. Companies exposed to AI infrastructure, pharmaceuticals, industrial materials and utilities could benefit as these technologies move from research toward commercial applications.",
+    "text_blocks": [
+      "Investing.com -- Artificial intelligence is moving beyond text generation into scientific research, creating investment opportunities across AI infrastructure, pharmaceuticals, nuclear fusion, industrial materials and utilities, according to UBS Wealth Management.",
+      "The shift was highlighted by OpenAI's recent mathematical proof related to the Navier-Stokes equations, a centuries-old fluid dynamics problem and one of seven Millennium Prize Problems.",
+      "OpenAI used 10,000 autonomous AI agents working in parallel for 88 hours. The system identified a scenario in which fluid forces accelerate infinitely, causing a mathematical breakdown, before formalizing the proof using Lean, a system for machine-checked mathematical validation.",
+      "The development could have implications for fields ranging from aviation aerodynamics to nuclear fusion. Three areas stand out for their commercial potential: drug development, fusion energy and advanced materials.",
+      "In pharmaceuticals, multi-agent AI systems can simulate millions of protein variations in the cloud, testing characteristics such as toxicity, stability in the bloodstream and manufacturing resilience before physical laboratory work begins. More than 170 AI-designed programs are already in development or clinical evaluation, including Phase III trials.",
+      "AI could also play a critical role in nuclear fusion by helping stabilize highly turbulent plasma. Reinforcement-learning systems can analyze reactor data, predict plasma disruptions around 200 milliseconds before they occur, and adjust magnetic coils thousands of times per second.",
+      "Commercial fusion could benefit electricity-intensive AI infrastructure alongside manufacturing, utilities, and grid infrastructure.",
+      "Materials science represents another opportunity. AI models can test millions of elemental combinations daily in search of properties needed for lighter, higher-density batteries, lower-heat computing hardware and potential room-temperature superconductors.",
+      "The broader investment case centers on AI becoming a tool for automating scientific research rather than simply generating content. Companies exposed to AI infrastructure, pharmaceuticals, industrial materials and utilities could benefit as these technologies move from research toward commercial applications."
+    ],
+    "html": null
+  }
+}

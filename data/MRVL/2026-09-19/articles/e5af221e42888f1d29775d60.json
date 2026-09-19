@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-marvell-expand-sige-deal-144500612.html",
+    "fetched_at": "2026-09-19T07:00:52.501001-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GlobalFoundries and Marvell expand SiGe deal for AI data centers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Globalfoundries Inc (NASDAQ:GFS) and Marvell Technology Inc (NASDAQ:MRVL) expanded their multiyear manufacturing agreement to increase semiconductor production capacity as growing AI data centers fuel demand for faster optical connections.\nThe agreement will boost production capacity at GlobalFoundries' Burlington, Vermont, facility for silicon germanium technology, known as SiGe, which enables faster and more energy-efficient semiconductor devices.\nDemand for that technology is rising as AI data centers handle higher data volumes, increasing the need for faster optical connections across the networks serving those facilities.\nThe additional manufacturing capacity will help Marvell meet demand for advanced optical networking products, including pluggable optical transceivers, near-packaged optics and co-packaged optics, the companies said.\n\"Our expanded collaboration with GF will help ensure we have the SiGe technology and manufacturing capacity to support the significant growth we see ahead,\" said Robb Johnson, Marvell's vice president of foundry technology.\nGlobalFoundries shares rose around 6% in Thursday morning trading, while Marvell was up 4.5%.",
+    "text_blocks": [
+      "Globalfoundries Inc (NASDAQ:GFS) and Marvell Technology Inc (NASDAQ:MRVL) expanded their multiyear manufacturing agreement to increase semiconductor production capacity as growing AI data centers fuel demand for faster optical connections.",
+      "The agreement will boost production capacity at GlobalFoundries' Burlington, Vermont, facility for silicon germanium technology, known as SiGe, which enables faster and more energy-efficient semiconductor devices.",
+      "Demand for that technology is rising as AI data centers handle higher data volumes, increasing the need for faster optical connections across the networks serving those facilities.",
+      "The additional manufacturing capacity will help Marvell meet demand for advanced optical networking products, including pluggable optical transceivers, near-packaged optics and co-packaged optics, the companies said.",
+      "\"Our expanded collaboration with GF will help ensure we have the SiGe technology and manufacturing capacity to support the significant growth we see ahead,\" said Robb Johnson, Marvell's vice president of foundry technology.",
+      "GlobalFoundries shares rose around 6% in Thursday morning trading, while Marvell was up 4.5%."
+    ],
+    "html": null
+  }
+}

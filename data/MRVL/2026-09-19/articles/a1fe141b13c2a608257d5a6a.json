@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/globalfoundries-jumps-7-expanded-marvell-164315855.html",
+    "fetched_at": "2026-09-19T07:00:52.593515-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GlobalFoundries Jumps 7% on an Expanded Marvell Agreement",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nGlobalFoundries Inc. (NASDAQ:GFS) rose 7.04% and Marvell Technology Inc. (NASDAQ:MRVL) 5.44% intraday after the two expanded an agreement to increase production capacity for chips used in high-speed optical connections inside data centers. Neither company disclosed financial terms.\nThe multi-year deal covers silicon germanium technology at GlobalFoundries' facility in Burlington, Vermont. SiGe enables faster and more energy-efficient devices, and demand for it is rising as AI data centers push higher data volumes through optical networking.\nThe companies said the additional output supports advanced optical networking including pluggable optical transceivers, near-packaged optics and co-packaged optics. \"Our expanded collaboration with GF will help ensure we have the SiGe technology and manufacturing capacity to support the significant growth we see ahead,\" said Robb Johnson, Marvell's vice president of foundry technology.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "GlobalFoundries Inc. (NASDAQ:GFS) rose 7.04% and Marvell Technology Inc. (NASDAQ:MRVL) 5.44% intraday after the two expanded an agreement to increase production capacity for chips used in high-speed optical connections inside data centers. Neither company disclosed financial terms.",
+      "The multi-year deal covers silicon germanium technology at GlobalFoundries' facility in Burlington, Vermont. SiGe enables faster and more energy-efficient devices, and demand for it is rising as AI data centers push higher data volumes through optical networking.",
+      "The companies said the additional output supports advanced optical networking including pluggable optical transceivers, near-packaged optics and co-packaged optics. \"Our expanded collaboration with GF will help ensure we have the SiGe technology and manufacturing capacity to support the significant growth we see ahead,\" said Robb Johnson, Marvell's vice president of foundry technology."
+    ],
+    "html": null
+  }
+}

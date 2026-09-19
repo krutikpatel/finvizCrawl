@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-cost-saving-144536465.html",
+    "fetched_at": "2026-09-19T07:00:31.380080-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta stock rises on cost-saving AI chip deployment plans",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Meta Platforms (NASDAQ:META) shares rose 2% Tuesday morning after Bloomberg reported the company plans to deploy new in-house artificial intelligence chips in data centers during the first half of next year. The stock later pared gains to up 0.75%.\nThe social media company is testing the third generation of its MTIA chip line, called MTIA 450 or Arke, with the next version, dubbed 500 or Astrid, expected to complete design work in about a month and enter data centers by the end of 2027. Meta first announced plans to develop its own AI chips in 2023.\nThe company is developing the chips in collaboration with Broadcom Inc. on design and Taiwan Semiconductor Manufacturing Co. on manufacturing, aiming to reduce reliance on Nvidia Corp. processors. Meta has committed to more than a gigawatt's worth of the chips over a 12-month period.\nYee Jiun Song, Meta's vice president of engineering who oversees the custom silicon program, said in an interview with Bloomberg that each chip generation delivers better performance per watt of energy and per dollar spent. The chips can perform more efficiently than current Nvidia offerings when running AI models, he said.\nTwelve new model chips arrived at Meta from TSMC on Sept. 1, with performance within 2% to 3% of simulations. On the first day, the team operated Meta models as well as ones from DeepSeek and Alibaba Group Holding Ltd.\nThe chips rely on high-bandwidth memory and target general-purpose inference rather than ultrafast inference applications. Meta previously canceled a chip code-named Olympus, planned for 2028 or 2029, to focus on inference due to cost considerations. Song noted that when building gigawatts of capacity, a potential 30% cost increase becomes unacceptable.\nToday's gains in the stock add to momentum following Meta's recent Muse AI agent launch.\nRelated articles",
+    "text_blocks": [
+      "Investing.com -- Meta Platforms (NASDAQ:META) shares rose 2% Tuesday morning after Bloomberg reported the company plans to deploy new in-house artificial intelligence chips in data centers during the first half of next year. The stock later pared gains to up 0.75%.",
+      "The social media company is testing the third generation of its MTIA chip line, called MTIA 450 or Arke, with the next version, dubbed 500 or Astrid, expected to complete design work in about a month and enter data centers by the end of 2027. Meta first announced plans to develop its own AI chips in 2023.",
+      "The company is developing the chips in collaboration with Broadcom Inc. on design and Taiwan Semiconductor Manufacturing Co. on manufacturing, aiming to reduce reliance on Nvidia Corp. processors. Meta has committed to more than a gigawatt's worth of the chips over a 12-month period.",
+      "Yee Jiun Song, Meta's vice president of engineering who oversees the custom silicon program, said in an interview with Bloomberg that each chip generation delivers better performance per watt of energy and per dollar spent. The chips can perform more efficiently than current Nvidia offerings when running AI models, he said.",
+      "Twelve new model chips arrived at Meta from TSMC on Sept. 1, with performance within 2% to 3% of simulations. On the first day, the team operated Meta models as well as ones from DeepSeek and Alibaba Group Holding Ltd.",
+      "The chips rely on high-bandwidth memory and target general-purpose inference rather than ultrafast inference applications. Meta previously canceled a chip code-named Olympus, planned for 2028 or 2029, to focus on inference due to cost considerations. Song noted that when building gigawatts of capacity, a potential 30% cost increase becomes unacceptable.",
+      "Today's gains in the stock add to momentum following Meta's recent Muse AI agent launch.",
+      "Related articles"
+    ],
+    "html": null
+  }
+}

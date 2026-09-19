@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/happens-snowflake-stock-ai-keeps-161424337.html",
+    "fetched_at": "2026-09-19T07:00:34.005908-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Happens To Snowflake Stock If AI Keeps Costing It Margin?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Snowflake (SNOW) has returned about 53% over the past year, and its product revenue growth has accelerated for three straight quarters. In early September, the company cut its fiscal 2027 non-GAAP product gross margin guide by a point, to 74%, pointing to a heavier mix of fast-growing AI workloads that carry a lower contribution margin. So what happens to the stock if that mix keeps shifting?\nIs Snowflake Already Paying For Its AI Growth?\nIt has started to. On its fiscal Q1 2027 call in May, the CFO said Snowflake's AI products carry a lower gross margin than the core platform, and that lower bandwidth costs under an AWS contract were paying for the difference. By the September call, the drag was showing up in the guide anyway.\nManagement puts Cortex Code, CoWork and the other AI products at about half of the acceleration. Cortex Code added more than 2,000 net new accounts in fiscal Q2 2027 to pass 9,100 in total, while CoWork reached 5,800 accounts. The faster those products land, the more of the revenue sits at the lower margin.\nWhat Would Another Point Of Margin Cost Snowflake?\nLess than the guide cut makes it sound. Management guides fiscal 2027 product revenue to about $6.07 billion, so one point of product gross margin is worth roughly $61 million a year. Snowflake's market value is about $118 billion against $5.4 billion of total revenue over the past twelve months, close to 22 times sales. A point of gross margin does not move a stock priced like that.\nWhat moves it is whether the cost comes back lower down. On the same day, the fiscal 2027 non-GAAP operating margin guide went the other way, up to 14.5% from 13.5%: AI mix costs gross margin, slower headcount spending adds more back below it, and the operating line is the one the verdict rests on. Snowflake is not profitable on a GAAP basis yet, so the offset has to keep coming.\nHow Would You Know Snowflake Is Not Covering The Cost?\nSnowflake has cushions, but they are levers, not guarantees. The company ended fiscal Q2 2027 with $4.3 billion of cash and investments against $2.8 billion of total debt, and it affirmed a 23% non-GAAP adjusted free cash flow margin guide for fiscal 2027.\nRead the fiscal Q3 2027 guide of 15.5% non-GAAP operating margin, one quarter of the 14.5% full-year guide, against the lowered fiscal 2027 non-GAAP product gross margin guide, and watch whether management still says it is on track for GAAP profitability in fiscal Q4 2028. If gross margin slips again while the non-GAAP operating margin guide holds, Snowflake is still converting the mix into margin. If both slip, Snowflake is buying its growth.",
+    "text_blocks": [
+      "Snowflake (SNOW) has returned about 53% over the past year, and its product revenue growth has accelerated for three straight quarters. In early September, the company cut its fiscal 2027 non-GAAP product gross margin guide by a point, to 74%, pointing to a heavier mix of fast-growing AI workloads that carry a lower contribution margin. So what happens to the stock if that mix keeps shifting?",
+      "Is Snowflake Already Paying For Its AI Growth?",
+      "It has started to. On its fiscal Q1 2027 call in May, the CFO said Snowflake's AI products carry a lower gross margin than the core platform, and that lower bandwidth costs under an AWS contract were paying for the difference. By the September call, the drag was showing up in the guide anyway.",
+      "Management puts Cortex Code, CoWork and the other AI products at about half of the acceleration. Cortex Code added more than 2,000 net new accounts in fiscal Q2 2027 to pass 9,100 in total, while CoWork reached 5,800 accounts. The faster those products land, the more of the revenue sits at the lower margin.",
+      "What Would Another Point Of Margin Cost Snowflake?",
+      "Less than the guide cut makes it sound. Management guides fiscal 2027 product revenue to about $6.07 billion, so one point of product gross margin is worth roughly $61 million a year. Snowflake's market value is about $118 billion against $5.4 billion of total revenue over the past twelve months, close to 22 times sales. A point of gross margin does not move a stock priced like that.",
+      "What moves it is whether the cost comes back lower down. On the same day, the fiscal 2027 non-GAAP operating margin guide went the other way, up to 14.5% from 13.5%: AI mix costs gross margin, slower headcount spending adds more back below it, and the operating line is the one the verdict rests on. Snowflake is not profitable on a GAAP basis yet, so the offset has to keep coming.",
+      "How Would You Know Snowflake Is Not Covering The Cost?",
+      "Snowflake has cushions, but they are levers, not guarantees. The company ended fiscal Q2 2027 with $4.3 billion of cash and investments against $2.8 billion of total debt, and it affirmed a 23% non-GAAP adjusted free cash flow margin guide for fiscal 2027.",
+      "Read the fiscal Q3 2027 guide of 15.5% non-GAAP operating margin, one quarter of the 14.5% full-year guide, against the lowered fiscal 2027 non-GAAP product gross margin guide, and watch whether management still says it is on track for GAAP profitability in fiscal Q4 2028. If gross margin slips again while the non-GAAP operating margin guide holds, Snowflake is still converting the mix into margin. If both slip, Snowflake is buying its growth."
+    ],
+    "html": null
+  }
+}

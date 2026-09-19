@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-gets-stunning-price-202120422.html",
+    "fetched_at": "2026-09-19T07:00:09.062970-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nApple (NASDAQ:AAPL) is drawing fresh attention from Evercore ISI as consumer responses point to solid interest in the latest iPhone lineup. The firm lifted its price target to $380 from $365 while keeping its Outperform view.\nEvercore surveyed nearly 4,000 U.S. consumers and found that 53% intend to buy an iPhone 18 Pro or Pro Max. The Pro Max accounted for 32% of purchase plans, compared with 29% in last year's survey.\nThe upgrade cycle also appears to be supported by aging devices. About 67% of respondents cited the age of their current iPhone as a reason to replace it, up from 48% a year earlier. The average device age fell to 23.5 months from 26.5 months.\nPricing could also lift revenue per device, with Evercore estimating average selling prices may rise about 28% as buyers favor premium models and higher storage options. Interest in Apple Watch and AirPods also increased, while 14% of respondents expressed interest in the upcoming foldable iPhone Duo.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Apple (NASDAQ:AAPL) is drawing fresh attention from Evercore ISI as consumer responses point to solid interest in the latest iPhone lineup. The firm lifted its price target to $380 from $365 while keeping its Outperform view.",
+      "Evercore surveyed nearly 4,000 U.S. consumers and found that 53% intend to buy an iPhone 18 Pro or Pro Max. The Pro Max accounted for 32% of purchase plans, compared with 29% in last year's survey.",
+      "The upgrade cycle also appears to be supported by aging devices. About 67% of respondents cited the age of their current iPhone as a reason to replace it, up from 48% a year earlier. The average device age fell to 23.5 months from 26.5 months.",
+      "Pricing could also lift revenue per device, with Evercore estimating average selling prices may rise about 28% as buyers favor premium models and higher storage options. Interest in Apple Watch and AirPods also increased, while 14% of respondents expressed interest in the upcoming foldable iPhone Duo."
+    ],
+    "html": null
+  }
+}

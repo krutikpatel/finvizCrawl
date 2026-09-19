@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-offers-fresh-clue-ais-161936309.html",
+    "fetched_at": "2026-09-19T07:00:43.637417-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nebius Offers Fresh Clue About AI's Spending Boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nNebius Group (NASDAQ:NBIS) shares jumped nearly 9% in Thursday premarket trading after the AI cloud provider reportedly raised prices across several compute services, offering a potentially important signal that demand for scarce GPU capacity remains strong.\nAccording to a customer communication circulated online, Nebius plans to increase prices for several on-demand GPU offerings beginning October 1.\nThe changes reportedly cover Nvidia's (NASDAQ:NVDA) H100, H200, B200 and B300 accelerators, some of the most important chips used for artificial-intelligence training and inference workloads.\nNebius has not publicly confirmed the pricing changes and did not immediately respond to a request for comment.\nThe reported increases extend beyond GPUs.\nPrices for AMD (NASDAQ:AMD) EPYC Genoa CPU compute are expected to rise 25% to $0.015 per vCPU-hour from $0.012, while memory pricing tied to Genoa systems is reportedly increasing about 41% to $0.0045 per GiB-hour from $0.0032.\nThe market reaction spread beyond Nebius.\nIREN shares rose about 5.1% in premarket trading, while CoreWeave (NASDAQ:CRWV) gained roughly 6.1%, suggesting investors interpreted the reported increases as a positive read-through for the wider neocloud industry.\nInvestors Takeaway\nThe bigger issue is pricing power.\nNeocloud companies are spending heavily to secure Nvidia GPUs, build data centers and expand power capacity. Their investment cases become much stronger if demand remains tight enough to support higher rental rates.\nReported price increases across both newer and older GPU generations could suggest customers are still competing for available AI compute rather than waiting for cheaper capacity.\nThat would support margins and improve the economics of future infrastructure spending.\nThe risk is that the information has not yet been formally confirmed by Nebius.\nInvestors should watch whether the company verifies the changes, how customers respond and whether competitors follow with similar pricing moves.\nIf higher prices stick without hurting utilization, the signal would be bullish not just for Nebius but for CoreWeave, IREN and other AI infrastructure providers.\nThe key question is whether this represents durable pricing power or simply a temporary response to tight supply.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Nebius Group (NASDAQ:NBIS) shares jumped nearly 9% in Thursday premarket trading after the AI cloud provider reportedly raised prices across several compute services, offering a potentially important signal that demand for scarce GPU capacity remains strong.",
+      "According to a customer communication circulated online, Nebius plans to increase prices for several on-demand GPU offerings beginning October 1.",
+      "The changes reportedly cover Nvidia's (NASDAQ:NVDA) H100, H200, B200 and B300 accelerators, some of the most important chips used for artificial-intelligence training and inference workloads.",
+      "Nebius has not publicly confirmed the pricing changes and did not immediately respond to a request for comment.",
+      "The reported increases extend beyond GPUs.",
+      "Prices for AMD (NASDAQ:AMD) EPYC Genoa CPU compute are expected to rise 25% to $0.015 per vCPU-hour from $0.012, while memory pricing tied to Genoa systems is reportedly increasing about 41% to $0.0045 per GiB-hour from $0.0032.",
+      "The market reaction spread beyond Nebius.",
+      "IREN shares rose about 5.1% in premarket trading, while CoreWeave (NASDAQ:CRWV) gained roughly 6.1%, suggesting investors interpreted the reported increases as a positive read-through for the wider neocloud industry.",
+      "Investors Takeaway",
+      "The bigger issue is pricing power.",
+      "Neocloud companies are spending heavily to secure Nvidia GPUs, build data centers and expand power capacity. Their investment cases become much stronger if demand remains tight enough to support higher rental rates.",
+      "Reported price increases across both newer and older GPU generations could suggest customers are still competing for available AI compute rather than waiting for cheaper capacity.",
+      "That would support margins and improve the economics of future infrastructure spending.",
+      "The risk is that the information has not yet been formally confirmed by Nebius.",
+      "Investors should watch whether the company verifies the changes, how customers respond and whether competitors follow with similar pricing moves.",
+      "If higher prices stick without hurting utilization, the signal would be bullish not just for Nebius but for CoreWeave, IREN and other AI infrastructure providers.",
+      "The key question is whether this represents durable pricing power or simply a temporary response to tight supply."
+    ],
+    "html": null
+  }
+}

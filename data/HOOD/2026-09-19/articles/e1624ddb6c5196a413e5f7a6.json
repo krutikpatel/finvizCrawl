@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
+    "fetched_at": "2026-09-19T07:00:19.930184-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nCrypto-linked stocks extended their rally Friday after the U.S. Securities and Exchange Commission introduced a five-year exemption that allows certain platforms to facilitate trading in tokenized stocks. The move creates a regulatory framework for blockchain-based versions of publicly traded securities.\nStrategy (MSTR) climbed about 7%, while MARA Holdings (MARA) gained roughly 6%. Coinbase Global (COIN), Galaxy Digital (GLXY) and Circle Internet Group (CRCL) also advanced around 6%, while Robinhood Markets (HOOD) added about 3%.\nThe SEC's temporary relief applies to approved tokenized securities venues and certain liquidity providers. Under the framework, digital versions of National Market System stocks must provide investors with rights comparable to traditional shares, including voting and dividend benefits.\nPlatforms offering tokenized stocks must notify the underlying issuer before listing a security and halt trading whenever the corresponding stock is suspended on its primary exchange. The exemptions are scheduled to remain in effect for five years while regulators gather public feedback on the initiative.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Crypto-linked stocks extended their rally Friday after the U.S. Securities and Exchange Commission introduced a five-year exemption that allows certain platforms to facilitate trading in tokenized stocks. The move creates a regulatory framework for blockchain-based versions of publicly traded securities.",
+      "Strategy (MSTR) climbed about 7%, while MARA Holdings (MARA) gained roughly 6%. Coinbase Global (COIN), Galaxy Digital (GLXY) and Circle Internet Group (CRCL) also advanced around 6%, while Robinhood Markets (HOOD) added about 3%.",
+      "The SEC's temporary relief applies to approved tokenized securities venues and certain liquidity providers. Under the framework, digital versions of National Market System stocks must provide investors with rights comparable to traditional shares, including voting and dividend benefits.",
+      "Platforms offering tokenized stocks must notify the underlying issuer before listing a security and halt trading whenever the corresponding stock is suspended on its primary exchange. The exemptions are scheduled to remain in effect for five years while regulators gather public feedback on the initiative."
+    ],
+    "html": null
+  }
+}

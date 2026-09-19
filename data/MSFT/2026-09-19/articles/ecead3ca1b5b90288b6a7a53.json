@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/low-uipath-stock-numbers-not-220626238.html",
+    "fetched_at": "2026-09-19T07:00:28.481698-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How Low Can UiPath Stock Go When Its Numbers Are Not The Problem?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "UiPath (PATH) trades at about $14, some 29% below its high of the past year, and it has lost 11.7% over the past month. Its results are not what did that. The fall is recent: the stock is still up 34.5% over the past three months, and over the past twelve months it returned 18.9% against 17.0% for the S&P 500. What matters is how far a stock like this falls in a real shock.\nThe Worry Is Not The Raised Outlook\nUiPath's fiscal Q2 2027 report raised the outlook. Management now guides fiscal 2027 revenue to about $1.79 billion, above the range it gave at its fiscal Q1 2027 report. What analysts keep putting to management is not that guidance. It is whether general-purpose AI models will get good enough to make UiPath's deterministic automation worth less.\nManagement's answer is that AI reasoning is probabilistic and expensive at scale. Many enterprise processes, it says, do not need reasoning at every step: they need exactness, the same result every time, at the lowest possible cost.\nUiPath Is Earning Its Best Operating Margin In Three Years\nThe operating margin over the trailing twelve months is 8.9%, its best in three years and a long way from the -6.2% it averaged across them. Fiscal Q2 2027 was its fourth straight quarter of GAAP profit. Revenue over the same twelve months is $1.72 billion, up 15.0%, against a three-year average growth rate of 14.5%. Growth is holding its trend.\nThe work behind it is unglamorous. Coding agents now build and fix the automations customers used to write by hand, and the company's initial results from those agents and its forward deployed engineers put the effort saved at nearly 60%. The Department of War expanded its partnership to automate critical audit and reconciliation work, and a new partnership embeds UiPath's testing product, Test Cloud, in Cognizant's testing service.\nHow Far Has UiPath Fallen When Markets Break?\nAcross the five market shocks UiPath has traded through since 2021, it fell an average of 30% peak to trough while the S&P 500 fell 13%. The deepest was the 2022 inflation shock and Fed tightening, at 75%. A 75% fall on a tenth of your money costs about 8% of everything you own, and about 15% at a fifth.\nWhen the stock has come back, the wait has been short. Of the shocks it has climbed out of, the median wait from the low back to the old high was about a month. The slowest, after the 2025 tariff shock, took about six months. The 2022 fall is the one that did not heal: UiPath has never reclaimed that pre-shock high and still sits about 69% below it.",
+    "text_blocks": [
+      "UiPath (PATH) trades at about $14, some 29% below its high of the past year, and it has lost 11.7% over the past month. Its results are not what did that. The fall is recent: the stock is still up 34.5% over the past three months, and over the past twelve months it returned 18.9% against 17.0% for the S&P 500. What matters is how far a stock like this falls in a real shock.",
+      "The Worry Is Not The Raised Outlook",
+      "UiPath's fiscal Q2 2027 report raised the outlook. Management now guides fiscal 2027 revenue to about $1.79 billion, above the range it gave at its fiscal Q1 2027 report. What analysts keep putting to management is not that guidance. It is whether general-purpose AI models will get good enough to make UiPath's deterministic automation worth less.",
+      "Management's answer is that AI reasoning is probabilistic and expensive at scale. Many enterprise processes, it says, do not need reasoning at every step: they need exactness, the same result every time, at the lowest possible cost.",
+      "UiPath Is Earning Its Best Operating Margin In Three Years",
+      "The operating margin over the trailing twelve months is 8.9%, its best in three years and a long way from the -6.2% it averaged across them. Fiscal Q2 2027 was its fourth straight quarter of GAAP profit. Revenue over the same twelve months is $1.72 billion, up 15.0%, against a three-year average growth rate of 14.5%. Growth is holding its trend.",
+      "The work behind it is unglamorous. Coding agents now build and fix the automations customers used to write by hand, and the company's initial results from those agents and its forward deployed engineers put the effort saved at nearly 60%. The Department of War expanded its partnership to automate critical audit and reconciliation work, and a new partnership embeds UiPath's testing product, Test Cloud, in Cognizant's testing service.",
+      "How Far Has UiPath Fallen When Markets Break?",
+      "Across the five market shocks UiPath has traded through since 2021, it fell an average of 30% peak to trough while the S&P 500 fell 13%. The deepest was the 2022 inflation shock and Fed tightening, at 75%. A 75% fall on a tenth of your money costs about 8% of everything you own, and about 15% at a fifth.",
+      "When the stock has come back, the wait has been short. Of the shocks it has climbed out of, the median wait from the low back to the old high was about a month. The slowest, after the 2025 tariff shock, took about six months. The 2022 fall is the one that did not heal: UiPath has never reclaimed that pre-shock high and still sits about 69% below it."
+    ],
+    "html": null
+  }
+}

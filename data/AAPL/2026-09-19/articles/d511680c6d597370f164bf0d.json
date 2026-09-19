@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/coinbase-files-list-single-stock-210130400.html",
+    "fetched_at": "2026-09-19T07:00:09.046503-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Coinbase is looking to import one of crypto's most popular trading instruments into the U.S. stock market, filing to list single-stock perpetual futures with federal regulators.\nThe filing, submitted Friday through Coinbase Derivatives, seeks approval from the Commodity Futures Trading Commission for contracts that would give American traders leveraged exposure to individual stocks without owning the shares.\nThe CFTC listing shows the product, classified as a single-stock future, as approval pending. Coinbase said it filed for its \"first set\" of U.S. single-stock perpetuals, aiming to offer 24/5 exposure to individual equities.\nPerpetual futures, or \"perps,\" are derivatives contracts that track an asset's price but carry no expiration date, letting traders hold positions indefinitely as long as they meet margin and funding requirements.\nLong a staple of crypto markets, they've been off-limits to U.S. traders in most forms until recently. The Wall Street Journal reported that Coinbase plans to launch roughly 50 to 60 contracts, including Apple, Microsoft, Tesla and Nvidia, potentially later this year if regulators sign off.\nThe move extends a rapid build-out of Coinbase's onshore derivatives business. The company became the first U.S. exchange cleared to offer regulated crypto perpetual futures earlier this year, later rolling out contracts with leverage up to 50x. It already offers stock perps to eligible non-U.S. traders, having launched that product in March.\nThe filing lands amid a broader race to bring perps onshore. The CFTC approved Bitcoin perpetual futures for Kalshi, which has since expanded into commodities like copper, while Polymarket has moved toward crypto perpetual futures of its own.\nHolding a single-stock perpetual would confer no shareholder rights, dividends or ownership, only price exposure. Contract specifications and leverage limits weren't fully detailed, and the products still require regulatory clearance before trading can begin.",
+    "text_blocks": [
+      "Coinbase is looking to import one of crypto's most popular trading instruments into the U.S. stock market, filing to list single-stock perpetual futures with federal regulators.",
+      "The filing, submitted Friday through Coinbase Derivatives, seeks approval from the Commodity Futures Trading Commission for contracts that would give American traders leveraged exposure to individual stocks without owning the shares.",
+      "The CFTC listing shows the product, classified as a single-stock future, as approval pending. Coinbase said it filed for its \"first set\" of U.S. single-stock perpetuals, aiming to offer 24/5 exposure to individual equities.",
+      "Perpetual futures, or \"perps,\" are derivatives contracts that track an asset's price but carry no expiration date, letting traders hold positions indefinitely as long as they meet margin and funding requirements.",
+      "Long a staple of crypto markets, they've been off-limits to U.S. traders in most forms until recently. The Wall Street Journal reported that Coinbase plans to launch roughly 50 to 60 contracts, including Apple, Microsoft, Tesla and Nvidia, potentially later this year if regulators sign off.",
+      "The move extends a rapid build-out of Coinbase's onshore derivatives business. The company became the first U.S. exchange cleared to offer regulated crypto perpetual futures earlier this year, later rolling out contracts with leverage up to 50x. It already offers stock perps to eligible non-U.S. traders, having launched that product in March.",
+      "The filing lands amid a broader race to bring perps onshore. The CFTC approved Bitcoin perpetual futures for Kalshi, which has since expanded into commodities like copper, while Polymarket has moved toward crypto perpetual futures of its own.",
+      "Holding a single-stock perpetual would confer no shareholder rights, dividends or ownership, only price exposure. Contract specifications and leverage limits weren't fully detailed, and the products still require regulatory clearance before trading can begin."
+    ],
+    "html": null
+  }
+}

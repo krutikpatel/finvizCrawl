@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/coinbase-seeks-approval-list-perpetual-173700089.html",
+    "fetched_at": "2026-09-19T07:00:06.186308-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Coinbase Global (NASDAQ: $COIN) has filed for regulatory approval to list perpetual futures tied to individual large-cap U.S. stocks, opening the door to 24/7 leveraged trading of shares such as Apple, Microsoft, Tesla and Nvidia on a regulated U.S. platform.\nThe exchange plans to offer contracts linked to roughly 50 to 60 major stocks, with trading potentially starting later this year if regulators approve the products, according to The Wall Street Journal.\nPerpetual futures, commonly known as perps, are derivatives that do not have an expiration date. Traders can keep positions open indefinitely, while leverage can magnify both gains and losses.\nMore From Cryptoprowl:\n-\nRobinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks\n-\nStablecoin Yield Ban Would Boost Bank Lending by Just 0.02%: White House\nCoinbase submitted a Form 1-N to the Securities and Exchange Commission earlier this month. The filing allows Coinbase Derivatives to register with the SEC as a national securities exchange for security futures products.\nThe move follows Coinbase's push to expand perpetual futures beyond crypto. The exchange launched stock perps for eligible customers outside the U.S. in March, offering leveraged exposure to major U.S. companies around the clock.\nEarlier this month, the exchange also launched regulated crypto derivatives for eligible Canadian traders, offering 23 crypto futures tied to assets including Bitcoin (CRYPTO: $BTC), Ether (CRYPTO: $ETH) and Solana (CRYPTO: $SOL), alongside futures for gold, silver, oil and the COIN50 index.\nU.S. regulators have also taken steps this year to open the market to perpetual contracts. On May 29, the Commodity Futures Trading Commission approved a bitcoin perpetual futures contract submitted by Kalshi and said market participants could seek approval for other perpetual products.\nSingle-stock perps have gained traction on offshore and decentralized trading platforms, including Hyperliquid, where traders can take leveraged positions linked to major U.S. companies.\nCoinbase is not the only company seeking to bring the products into the U.S. regulated market. Kalshi has also moved toward offering single-stock perpetual futures.\nCoinbase shares are currently trading at $188.17 apiece, up 8.16% today.",
+    "text_blocks": [
+      "Coinbase Global (NASDAQ: $COIN) has filed for regulatory approval to list perpetual futures tied to individual large-cap U.S. stocks, opening the door to 24/7 leveraged trading of shares such as Apple, Microsoft, Tesla and Nvidia on a regulated U.S. platform.",
+      "The exchange plans to offer contracts linked to roughly 50 to 60 major stocks, with trading potentially starting later this year if regulators approve the products, according to The Wall Street Journal.",
+      "Perpetual futures, commonly known as perps, are derivatives that do not have an expiration date. Traders can keep positions open indefinitely, while leverage can magnify both gains and losses.",
+      "More From Cryptoprowl:",
+      "-",
+      "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
+      "-",
+      "Stablecoin Yield Ban Would Boost Bank Lending by Just 0.02%: White House",
+      "Coinbase submitted a Form 1-N to the Securities and Exchange Commission earlier this month. The filing allows Coinbase Derivatives to register with the SEC as a national securities exchange for security futures products.",
+      "The move follows Coinbase's push to expand perpetual futures beyond crypto. The exchange launched stock perps for eligible customers outside the U.S. in March, offering leveraged exposure to major U.S. companies around the clock.",
+      "Earlier this month, the exchange also launched regulated crypto derivatives for eligible Canadian traders, offering 23 crypto futures tied to assets including Bitcoin (CRYPTO: $BTC), Ether (CRYPTO: $ETH) and Solana (CRYPTO: $SOL), alongside futures for gold, silver, oil and the COIN50 index.",
+      "U.S. regulators have also taken steps this year to open the market to perpetual contracts. On May 29, the Commodity Futures Trading Commission approved a bitcoin perpetual futures contract submitted by Kalshi and said market participants could seek approval for other perpetual products.",
+      "Single-stock perps have gained traction on offshore and decentralized trading platforms, including Hyperliquid, where traders can take leveraged positions linked to major U.S. companies.",
+      "Coinbase is not the only company seeking to bring the products into the U.S. regulated market. Kalshi has also moved toward offering single-stock perpetual futures.",
+      "Coinbase shares are currently trading at $188.17 apiece, up 8.16% today."
+    ],
+    "html": null
+  }
+}

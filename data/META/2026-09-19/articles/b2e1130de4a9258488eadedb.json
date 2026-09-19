@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sends-stark-warning-193526963.html",
+    "fetched_at": "2026-09-19T07:00:11.862880-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman Sachs Sends Stark Warning on S&P 500 Earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nGoldman Sachs Group (NYSE:GS) expects the rapid rise in S&P 500 earnings to cool rather than reverse, with several temporary forces currently lifting profits.\nS&P 500 earnings per share increased 51% year over year in the second quarter, while growth over the past four quarters reached 26%. The firm said that pace has pushed profits above their longer-term trend, although the index's forward price-to-earnings ratio has eased to 19 from 23 a year ago and now matches its 10-year average.\nArtificial intelligence spending is a major contributor. Amazon (NASDAQ:AMZN), Meta Platforms (NASDAQ:META), Microsoft (NASDAQ:MSFT) and Alphabet (NASDAQ:GOOG) are expected to spend about $800 billion on capital projects this year, nearly double 2025 levels. Goldman expects that earnings boost to fade as spending growth slows and depreciation rises.\nSemiconductor margins and gains from technology companies' investment holdings are also supporting earnings. Goldman said weaker chip margins could cut S&P 500 earnings by about 10%, while investment gains that helped second-quarter profits are expected to contribute less in 2027.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Goldman Sachs Group (NYSE:GS) expects the rapid rise in S&P 500 earnings to cool rather than reverse, with several temporary forces currently lifting profits.",
+      "S&P 500 earnings per share increased 51% year over year in the second quarter, while growth over the past four quarters reached 26%. The firm said that pace has pushed profits above their longer-term trend, although the index's forward price-to-earnings ratio has eased to 19 from 23 a year ago and now matches its 10-year average.",
+      "Artificial intelligence spending is a major contributor. Amazon (NASDAQ:AMZN), Meta Platforms (NASDAQ:META), Microsoft (NASDAQ:MSFT) and Alphabet (NASDAQ:GOOG) are expected to spend about $800 billion on capital projects this year, nearly double 2025 levels. Goldman expects that earnings boost to fade as spending growth slows and depreciation rises.",
+      "Semiconductor margins and gains from technology companies' investment holdings are also supporting earnings. Goldman said weaker chip margins could cut S&P 500 earnings by about 10%, while investment gains that helped second-quarter profits are expected to contribute less in 2027."
+    ],
+    "html": null
+  }
+}

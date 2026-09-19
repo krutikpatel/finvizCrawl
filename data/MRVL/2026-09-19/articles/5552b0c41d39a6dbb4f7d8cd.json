@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/marvell-jumps-5-2-ai-180702375.html",
+    "fetched_at": "2026-09-19T07:00:52.546911-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell Jumps 5.2% as AI Optics Win More U.S. Capacity",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nMarvell Technology (NASDAQ:MRVL), the AI-connectivity and custom-silicon supplier, secured more U.S. manufacturing muscle for its optical-networking push Thursday, Reuters reported. Shares jumped approximately 5.2% to $241.67 as investors weighed another piece of infrastructure behind the AI data-center buildout.\nThe multiyear agreement with GlobalFoundries expands silicon-germanium manufacturing capacity at its Vermont facility, giving Marvell additional supply for pluggable transceivers, near-packaged optics and co-packaged optics. Those technologies attack a growing AI bottleneck: moving enormous amounts of data between increasingly powerful chips without letting connectivity choke system performance. Neither company disclosed the added capacity, minimum purchase commitments or financial value of the agreement, leaving the size of the near-term earnings impact unclear.\nThe bigger backdrop remains Marvell's accelerating data-center business. Its latest quarter generated $2.74 billion in revenue, while data-center sales surged 46%. The valuation picture is far less forgiving: the chart puts Marvell's $241.67 share price 101.69% above its $119.82 GF Value, meaning the market is already pricing in a substantial amount of future growth. Extra manufacturing capacity can protect Marvell from an optical-supply squeeze, but investors will still need stronger shipment volumes and margins to prove that more capacity translates into enough profit to support that premium.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Marvell Technology (NASDAQ:MRVL), the AI-connectivity and custom-silicon supplier, secured more U.S. manufacturing muscle for its optical-networking push Thursday, Reuters reported. Shares jumped approximately 5.2% to $241.67 as investors weighed another piece of infrastructure behind the AI data-center buildout.",
+      "The multiyear agreement with GlobalFoundries expands silicon-germanium manufacturing capacity at its Vermont facility, giving Marvell additional supply for pluggable transceivers, near-packaged optics and co-packaged optics. Those technologies attack a growing AI bottleneck: moving enormous amounts of data between increasingly powerful chips without letting connectivity choke system performance. Neither company disclosed the added capacity, minimum purchase commitments or financial value of the agreement, leaving the size of the near-term earnings impact unclear.",
+      "The bigger backdrop remains Marvell's accelerating data-center business. Its latest quarter generated $2.74 billion in revenue, while data-center sales surged 46%. The valuation picture is far less forgiving: the chart puts Marvell's $241.67 share price 101.69% above its $119.82 GF Value, meaning the market is already pricing in a substantial amount of future growth. Extra manufacturing capacity can protect Marvell from an optical-supply squeeze, but investors will still need stronger shipment volumes and margins to prove that more capacity translates into enough profit to support that premium."
+    ],
+    "html": null
+  }
+}

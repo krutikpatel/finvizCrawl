@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
+    "fetched_at": "2026-09-19T07:00:11.836590-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How AI concerns moved to the center of the midterm debate",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Artificial intelligence infrastructure has become a politically charged issue ahead of the November U.S. midterm elections, but growing opposition to data centers has yet to materially weaken the construction pipeline, according to Citi.\nData center development has emerged as a bipartisan flashpoint as communities raise concerns over power demand and new construction. Local governments have introduced moratoriums, and at least 15 state legislatures have proposed tighter regulatory restrictions.\nYet spending remains strong as demand for AI infrastructure continues to support development.\nThe impact has been concentrated among speculative and early-stage projects, which are increasingly being delayed or cancelled during local approval processes. Late-stage developments that have already secured sites and grid connections continue to move ahead.\nHyperscalers are also seeking ways around power constraints and local restrictions. Amazon has pursued direct investment in nuclear development with Dominion Energy, and Meta has secured a major nuclear power purchase agreement with Constellation Energy.\nThe political backlash comes as competition between the U.S. and China in AI intensifies. The performance gap between models from the two countries has narrowed to ultra-low single digits on standard benchmarks, though U.S. developers retain the lead in frontier intelligence.\nChinese developers remain constrained by access to advanced hardware under U.S. export controls. This has pushed them toward greater algorithmic efficiency and closer integration with domestic chips such as Huawei's Ascend platform.\nThat progress has not translated into stronger investor sentiment toward Chinese technology stocks. Price competition has pushed inference costs lower and compressed margins, leaving investors focused increasingly on whether AI investment can produce earnings rather than benchmark gains.\nCiti does not expect another market shock comparable to the emergence of DeepSeek, arguing investors have already adjusted to the prospect of highly efficient Chinese models.\nA potentially greater risk would come from governments restricting models deemed too dangerous. A pause in model training could abruptly create excess computing capacity, though Citi does not expect such restrictions in the near term.",
+    "text_blocks": [
+      "Investing.com -- Artificial intelligence infrastructure has become a politically charged issue ahead of the November U.S. midterm elections, but growing opposition to data centers has yet to materially weaken the construction pipeline, according to Citi.",
+      "Data center development has emerged as a bipartisan flashpoint as communities raise concerns over power demand and new construction. Local governments have introduced moratoriums, and at least 15 state legislatures have proposed tighter regulatory restrictions.",
+      "Yet spending remains strong as demand for AI infrastructure continues to support development.",
+      "The impact has been concentrated among speculative and early-stage projects, which are increasingly being delayed or cancelled during local approval processes. Late-stage developments that have already secured sites and grid connections continue to move ahead.",
+      "Hyperscalers are also seeking ways around power constraints and local restrictions. Amazon has pursued direct investment in nuclear development with Dominion Energy, and Meta has secured a major nuclear power purchase agreement with Constellation Energy.",
+      "The political backlash comes as competition between the U.S. and China in AI intensifies. The performance gap between models from the two countries has narrowed to ultra-low single digits on standard benchmarks, though U.S. developers retain the lead in frontier intelligence.",
+      "Chinese developers remain constrained by access to advanced hardware under U.S. export controls. This has pushed them toward greater algorithmic efficiency and closer integration with domestic chips such as Huawei's Ascend platform.",
+      "That progress has not translated into stronger investor sentiment toward Chinese technology stocks. Price competition has pushed inference costs lower and compressed margins, leaving investors focused increasingly on whether AI investment can produce earnings rather than benchmark gains.",
+      "Citi does not expect another market shock comparable to the emergence of DeepSeek, arguing investors have already adjusted to the prospect of highly efficient Chinese models.",
+      "A potentially greater risk would come from governments restricting models deemed too dangerous. A pause in model training could abruptly create excess computing capacity, though Citi does not expect such restrictions in the near term."
+    ],
+    "html": null
+  }
+}

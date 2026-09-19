@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-rise-saudi-arabia-reportedly-up-capacity-pipeline/card/etf-tracking-nasdaq-100-outperforms-yLRAj2l5s7I8Rm16gl5z?mod=mw_FV",
+    "fetched_at": "2026-09-19T07:00:14.335777-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "ETF tracking Nasdaq-100 outperforms - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "18 hours ago\nETF tracking Nasdaq-100 outperforms\nA popular exchange-traded fund that tracks the technology-heavy Nasdaq-100 index was up in late afternoon trading on Friday, beating the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite Index.\nThe Invesco QQQ Trust Series 1, whose five largest holdings as recently as Sept. 16 were Nvidia, Apple, Microsoft, Micron Technology and Amazon.com, was gaining 0.4%.\nMicron's stock had the biggest gain among the group, jumping 2.9%, while Amazon's rose a sharp 1.4% and Nvidia's edged up 0.1%, according to FactSet. Shares of Apple and Microsoft were trading down modestly as the U.S. stock market approached the closing bell.",
+    "text_blocks": [
+      "18 hours ago",
+      "ETF tracking Nasdaq-100 outperforms",
+      "A popular exchange-traded fund that tracks the technology-heavy Nasdaq-100 index was up in late afternoon trading on Friday, beating the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite Index.",
+      "The Invesco QQQ Trust Series 1, whose five largest holdings as recently as Sept. 16 were Nvidia, Apple, Microsoft, Micron Technology and Amazon.com, was gaining 0.4%.",
+      "Micron's stock had the biggest gain among the group, jumping 2.9%, while Amazon's rose a sharp 1.4% and Nvidia's edged up 0.1%, according to FactSet. Shares of Apple and Microsoft were trading down modestly as the U.S. stock market approached the closing bell."
+    ],
+    "html": null
+  }
+}

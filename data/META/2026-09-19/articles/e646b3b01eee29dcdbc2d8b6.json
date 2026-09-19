@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_FV",
+    "fetched_at": "2026-09-19T07:00:11.498126-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how? - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nAI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?\nTech giants are attempting to put aside their rivalries and unite on AI safety, but they’re clashing over how an actual slowdown would work\nArtificial-intelligence leaders rarely agree on anything.\nAs Anthropic, OpenAI, Alphabet’s GOOGL GOOG Google and other AI labs compete in an expensive race to develop superintelligence, they’ve diverged on everything from open-source access to model architecture. It’s led to fierce disputes that sometimes veer into name-calling.",
+    "text_blocks": [
+      "Tech Stocks",
+      "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+      "Tech giants are attempting to put aside their rivalries and unite on AI safety, but they’re clashing over how an actual slowdown would work",
+      "Artificial-intelligence leaders rarely agree on anything.",
+      "As Anthropic, OpenAI, Alphabet’s GOOGL GOOG Google and other AI labs compete in an expensive race to develop superintelligence, they’ve diverged on everything from open-source access to model architecture. It’s led to fierce disputes that sometimes veer into name-calling."
+    ],
+    "html": null
+  }
+}

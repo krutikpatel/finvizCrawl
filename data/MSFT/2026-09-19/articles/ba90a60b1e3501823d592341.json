@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/agent-economy-runs-concrete-why-101127688.html",
+    "fetched_at": "2026-09-19T07:00:28.531433-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The agent economy is not being enabled by software; it is being bottlenecked by hardware. While the popular imagination fixates on autonomous code orchestrating value, the actual mechanism of the current market is far more terrestrial. If you cannot power it, you cannot run it. This is the governing rule of the AI era, and it is currently forcing the world's largest technology firms into a capital expenditure arms race that defies historical precedent.\nCapital allocation is the primary signal for where value is expected to accrue. When the top five US hyperscalers project a combined capital expenditure of $660 billion to $725 billion for 2026—nearly double their 2025 outlays—they are not betting on a speculative future. They are building a utility. This is a fundamental shift toward securing the physical foundations of the era: power, cooling, and proprietary silicon.\nConsider the scale of this commitment. Microsoft is guiding for roughly $175 billion in adjusted capital expenditure for both FY2026 and FY2027, according to its latest earnings reports. While two-thirds of their quarterly spend is consumed by short-lived assets like CPUs and GPUs, the remainder is locked into long-lived data center infrastructure—land, buildings, and power. They added 1 gigawatt of capacity in Q3 FY2026, effectively doubling their global footprint in just two years. Meanwhile, Amazon AWS has raised its 2026 capex guidance to approximately $220 billion. CEO Andy Jassy has been clear: AI capacity is expected to remain constrained through 2027, with contracted demand already extending into 2028.\nThe market is essentially forcing these companies to trade current profitability for the right to host the future agent economy. Meta provides the most vivid example of this friction. In Q2 2026, the company saw its profit drop 14% despite a 28% increase in revenue, according to its earnings report. This is not a failure of business model, but a direct result of margin compression from its massive infrastructure build-out, which includes a 1 gigawatt data center in Ohio and a Louisiana facility that could eventually scale to 5 gigawatts. It is a high-stakes game of chicken with the balance sheet.\nAlphabet is following a similar trajectory, having raised its 2026 capex guidance to as much as $205 billion, nearly double its 2025 spend. With a Google Cloud backlog that has more than doubled year-over-year to $240 billion, the company is clearly moving to capture the utility layer. This logic extends to the Stargate project, a multi-year joint venture involving Oracle, OpenAI, and others that targets up to $500 billion in infrastructure investment by 2029. Oracle itself has seen its FY2026 capex reach $55.7 billion, more than doubling from the previous year, according to its earnings reports.",
+    "text_blocks": [
+      "The agent economy is not being enabled by software; it is being bottlenecked by hardware. While the popular imagination fixates on autonomous code orchestrating value, the actual mechanism of the current market is far more terrestrial. If you cannot power it, you cannot run it. This is the governing rule of the AI era, and it is currently forcing the world's largest technology firms into a capital expenditure arms race that defies historical precedent.",
+      "Capital allocation is the primary signal for where value is expected to accrue. When the top five US hyperscalers project a combined capital expenditure of $660 billion to $725 billion for 2026—nearly double their 2025 outlays—they are not betting on a speculative future. They are building a utility. This is a fundamental shift toward securing the physical foundations of the era: power, cooling, and proprietary silicon.",
+      "Consider the scale of this commitment. Microsoft is guiding for roughly $175 billion in adjusted capital expenditure for both FY2026 and FY2027, according to its latest earnings reports. While two-thirds of their quarterly spend is consumed by short-lived assets like CPUs and GPUs, the remainder is locked into long-lived data center infrastructure—land, buildings, and power. They added 1 gigawatt of capacity in Q3 FY2026, effectively doubling their global footprint in just two years. Meanwhile, Amazon AWS has raised its 2026 capex guidance to approximately $220 billion. CEO Andy Jassy has been clear: AI capacity is expected to remain constrained through 2027, with contracted demand already extending into 2028.",
+      "The market is essentially forcing these companies to trade current profitability for the right to host the future agent economy. Meta provides the most vivid example of this friction. In Q2 2026, the company saw its profit drop 14% despite a 28% increase in revenue, according to its earnings report. This is not a failure of business model, but a direct result of margin compression from its massive infrastructure build-out, which includes a 1 gigawatt data center in Ohio and a Louisiana facility that could eventually scale to 5 gigawatts. It is a high-stakes game of chicken with the balance sheet.",
+      "Alphabet is following a similar trajectory, having raised its 2026 capex guidance to as much as $205 billion, nearly double its 2025 spend. With a Google Cloud backlog that has more than doubled year-over-year to $240 billion, the company is clearly moving to capture the utility layer. This logic extends to the Stargate project, a multi-year joint venture involving Oracle, OpenAI, and others that targets up to $500 billion in infrastructure investment by 2029. Oracle itself has seen its FY2026 capex reach $55.7 billion, more than doubling from the previous year, according to its earnings reports."
+    ],
+    "html": null
+  }
+}

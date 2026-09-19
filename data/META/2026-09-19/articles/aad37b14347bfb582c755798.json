@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/shopify-meta-diving-deeper-banking-194706752.html",
+    "fetched_at": "2026-09-19T07:00:11.909745-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How Shopify and Meta are diving deeper into banking",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nKey insight: Shopify has added agentic payments capabilities through a partnership with Meta.\n-\nWhat's at stake: Agentic commerce helps Shopify grow its payments volume and thus its ability to provide embedded payments and finance as an alternative to banks.\n-\nExpert quote: \"Agentic commerce really excites us. The agents don't have the same challenges as humans.\" —Shopify's Rohit Mishra.\nAmid data that shows banks are falling behind in the race to support embedded finance, Shopify is expanding its ability to place checkout close to its clients' digital storefronts.\nShopify, which offers payments and other services to merchants as an alternative to banks, has closely aligned with Muse, Meta's private AI agent, which launched earlier this month, to support shopping and payout.\n\"Agentic commerce really excites us. The agents don't have the same challenges as humans,\" Rohit Mishra, Shopify's vice president of product, told American Banker. \"The AI agents have more context and they can find more products much faster.\"\nHow it works\nMuse scours Shopify's catalog to find the best fit for a shopper's AI prompt and then supports checkout through the Universal Commerce Protocol, which guides AI-powered shopping and checkout. This means Shopify merchants are discoverable and purchasable in Muse by default, with product data flowing through Shopify Catalog, according to Shopify.\nThe Universal Commerce Protocol is a Google-affiliated set of standards that are interoperable with AI from Perplexity, Gemini, ChatGPT and other products. The standards are designed to vet agents, to ensure intent and make it easier for AI agents to communicate. \"Agents can act end to end on their own,\" Mishra said.\nMeta did not return a request for comment. Meta Muse is designed as an AI assistant to aid users in a variety of tasks but has tools that are specific to businesses. Muse's \"Business in a Box,\" for example, would let someone with a business idea use the Muse \"Personal Agent\" to create their new business presence and manage all of the functions needed to operate. Payment experts say Muse will push payment companies to improve their own agentic AI to provide the same level of expertise to their business users. In this case, Shopify is using Muse to add scale and speed to its own trove of product, merchant and consumer information to power autonomous shopping.\n\"We look at all of the data that we have to make sure that if you are looking for something like a leather jacket, we're looking at the best data about that product,\" Mishra said, adding that Shopify manages AI risk by using the \"human buyer's\" credentials that are vetted and stored on file. Shopify analyzes collective transactional data from hundreds of thousands of hosted storefronts, and Shopify's machine learning systems distinguish legitimate behavior from anomalous behavior.",
+    "text_blocks": [
+      "-",
+      "Key insight: Shopify has added agentic payments capabilities through a partnership with Meta.",
+      "-",
+      "What's at stake: Agentic commerce helps Shopify grow its payments volume and thus its ability to provide embedded payments and finance as an alternative to banks.",
+      "-",
+      "Expert quote: \"Agentic commerce really excites us. The agents don't have the same challenges as humans.\" —Shopify's Rohit Mishra.",
+      "Amid data that shows banks are falling behind in the race to support embedded finance, Shopify is expanding its ability to place checkout close to its clients' digital storefronts.",
+      "Shopify, which offers payments and other services to merchants as an alternative to banks, has closely aligned with Muse, Meta's private AI agent, which launched earlier this month, to support shopping and payout.",
+      "\"Agentic commerce really excites us. The agents don't have the same challenges as humans,\" Rohit Mishra, Shopify's vice president of product, told American Banker. \"The AI agents have more context and they can find more products much faster.\"",
+      "How it works",
+      "Muse scours Shopify's catalog to find the best fit for a shopper's AI prompt and then supports checkout through the Universal Commerce Protocol, which guides AI-powered shopping and checkout. This means Shopify merchants are discoverable and purchasable in Muse by default, with product data flowing through Shopify Catalog, according to Shopify.",
+      "The Universal Commerce Protocol is a Google-affiliated set of standards that are interoperable with AI from Perplexity, Gemini, ChatGPT and other products. The standards are designed to vet agents, to ensure intent and make it easier for AI agents to communicate. \"Agents can act end to end on their own,\" Mishra said.",
+      "Meta did not return a request for comment. Meta Muse is designed as an AI assistant to aid users in a variety of tasks but has tools that are specific to businesses. Muse's \"Business in a Box,\" for example, would let someone with a business idea use the Muse \"Personal Agent\" to create their new business presence and manage all of the functions needed to operate. Payment experts say Muse will push payment companies to improve their own agentic AI to provide the same level of expertise to their business users. In this case, Shopify is using Muse to add scale and speed to its own trove of product, merchant and consumer information to power autonomous shopping.",
+      "\"We look at all of the data that we have to make sure that if you are looking for something like a leather jacket, we're looking at the best data about that product,\" Mishra said, adding that Shopify manages AI risk by using the \"human buyer's\" credentials that are vetted and stored on file. Shopify analyzes collective transactional data from hundreds of thousands of hosted storefronts, and Shopify's machine learning systems distinguish legitimate behavior from anomalous behavior."
+    ],
+    "html": null
+  }
+}

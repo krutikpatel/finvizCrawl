@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-slips-1-7-ceo-181447848.html",
+    "fetched_at": "2026-09-19T07:00:14.629774-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nIntel (INTC), the processor and semiconductor-manufacturing company, turned soaring memory costs into a fresh test for hardware demand Friday. Shares fell approximately 1.7% to $106.964, based on the latest quoted price. The valuation picture is even more striking: Intel trades 233.53% above its GF Value estimate of $32.07, leaving little room for execution disappointments at the current price.\nMemory sits beside Intel's processors inside PCs and servers, which means a sharp rise in memory pricing can reshape the economics of an entire system even though Intel does not sell the component driving the inflation. Intel generated $16.1 billion of second-quarter revenue, with Data Center and AI contributing $6.3 billion, or roughly 39.1% of the total. For high-value AI infrastructure, customers may swallow higher memory bills because delaying compute deployments can cost more than paying up for components.\nThe pressure becomes more complicated in mainstream PCs and conventional servers. Buyers with tighter budgets can stretch replacement cycles, trim configurations or redirect spending toward memory, potentially leaving fewer dollars available for processors. That is the uncomfortable asymmetry for Intel: memory suppliers capture the pricing surge, while Intel still carries part of the demand risk. With the stock trading far above GF Value, investors are effectively betting that stronger data-center demand and manufacturing execution can outweigh that squeeze.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Intel (INTC), the processor and semiconductor-manufacturing company, turned soaring memory costs into a fresh test for hardware demand Friday. Shares fell approximately 1.7% to $106.964, based on the latest quoted price. The valuation picture is even more striking: Intel trades 233.53% above its GF Value estimate of $32.07, leaving little room for execution disappointments at the current price.",
+      "Memory sits beside Intel's processors inside PCs and servers, which means a sharp rise in memory pricing can reshape the economics of an entire system even though Intel does not sell the component driving the inflation. Intel generated $16.1 billion of second-quarter revenue, with Data Center and AI contributing $6.3 billion, or roughly 39.1% of the total. For high-value AI infrastructure, customers may swallow higher memory bills because delaying compute deployments can cost more than paying up for components.",
+      "The pressure becomes more complicated in mainstream PCs and conventional servers. Buyers with tighter budgets can stretch replacement cycles, trim configurations or redirect spending toward memory, potentially leaving fewer dollars available for processors. That is the uncomfortable asymmetry for Intel: memory suppliers capture the pricing surge, while Intel still carries part of the demand risk. With the stock trading far above GF Value, investors are effectively betting that stronger data-center demand and manufacturing execution can outweigh that squeeze."
+    ],
+    "html": null
+  }
+}

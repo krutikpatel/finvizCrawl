@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/gm-brings-back-apple-carplay-as-buyers-demand-it-121047213.html",
+    "fetched_at": "2026-09-19T07:00:25.658018-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GM brings back Apple CarPlay as buyers demand it",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Call it an about-face by the biggest US automaker.\nGM (GM) is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.\nThe company this week unveiled a new infotainment interface, debuting on the 2027 Chevrolet Silverado and GMC Sierra pickups, that folds smartphone projection back into the dashboard and runs alongside GM's native system.\nIt's a notable change. In 2023, GM said it would strip CarPlay and Android Auto from its future electric vehicles, betting that drivers would embrace a Google-based system built into the car instead. The company then said it would gradually remove CarPlay from the entire lineup, starting with the new infotainment system it just debuted, but that move did not happen.\nGM justified the move, claiming it would address clunkiness when switching back from CarPlay to the vehicle's own infotainment system, but in reality, GM wanted to keep all the data it was getting from its users.\nThe backlash was immediate, and the data was brutal. Surveys at the time found 79% of new-car buyers would only consider a vehicle that offered CarPlay, and that it was available on 98% of new cars sold. Dealers warned buyers would simply walk to a rival showroom.\n\"CarPlay's not broken. Why fix it?\" dealer sources told the Detroit Free Press. Industry analyst Karl Brauer predicted to Yahoo Finance that the move would \"backfire.\"\nGM's rationale was money. Executives wanted the subscription revenue and driver data that come with owning the software layer, targeting 20% profit margins on new digital businesses by 2030. CFO Paul Jacobson had promised the Google partnership would deliver \"an experience that customers are going to love.\"\nBut it seems new customers did not.\nThe new system tries to have it both ways. CarPlay and Android Auto now appear within a large card on the redesigned home screen, next to native apps for trailering, vehicle status, and an interactive map, creating a split-view layout designed to keep phone projection and GM's own features on screen at once.\n\"As we evolve our UI systems, we want customers to feel like they're interacting with a single experience rather than moving from room to room inside a house,\" Mike Wahlstrom, GM's connected apps and services leader, said in a statement.\nThe trucks also get a 3D driving visualization during Super Cruise, hands-free trailering, and over-the-air updates.\nGM said the interface will roll out to its pickups before expanding across the broader lineup.",
+    "text_blocks": [
+      "Call it an about-face by the biggest US automaker.",
+      "GM (GM) is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
+      "The company this week unveiled a new infotainment interface, debuting on the 2027 Chevrolet Silverado and GMC Sierra pickups, that folds smartphone projection back into the dashboard and runs alongside GM's native system.",
+      "It's a notable change. In 2023, GM said it would strip CarPlay and Android Auto from its future electric vehicles, betting that drivers would embrace a Google-based system built into the car instead. The company then said it would gradually remove CarPlay from the entire lineup, starting with the new infotainment system it just debuted, but that move did not happen.",
+      "GM justified the move, claiming it would address clunkiness when switching back from CarPlay to the vehicle's own infotainment system, but in reality, GM wanted to keep all the data it was getting from its users.",
+      "The backlash was immediate, and the data was brutal. Surveys at the time found 79% of new-car buyers would only consider a vehicle that offered CarPlay, and that it was available on 98% of new cars sold. Dealers warned buyers would simply walk to a rival showroom.",
+      "\"CarPlay's not broken. Why fix it?\" dealer sources told the Detroit Free Press. Industry analyst Karl Brauer predicted to Yahoo Finance that the move would \"backfire.\"",
+      "GM's rationale was money. Executives wanted the subscription revenue and driver data that come with owning the software layer, targeting 20% profit margins on new digital businesses by 2030. CFO Paul Jacobson had promised the Google partnership would deliver \"an experience that customers are going to love.\"",
+      "But it seems new customers did not.",
+      "The new system tries to have it both ways. CarPlay and Android Auto now appear within a large card on the redesigned home screen, next to native apps for trailering, vehicle status, and an interactive map, creating a split-view layout designed to keep phone projection and GM's own features on screen at once.",
+      "\"As we evolve our UI systems, we want customers to feel like they're interacting with a single experience rather than moving from room to room inside a house,\" Mike Wahlstrom, GM's connected apps and services leader, said in a statement.",
+      "The trucks also get a 3D driving visualization during Super Cruise, hands-free trailering, and over-the-air updates.",
+      "GM said the interface will roll out to its pickups before expanding across the broader lineup."
+    ],
+    "html": null
+  }
+}
