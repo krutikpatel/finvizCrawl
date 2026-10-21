@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/a-tesla-spacex-merger-would-hasten-musk-s-1-trillion-payday-6rx68Emu8fvhUQ8micw2?mod=wsj_FV",
+    "fetched_at": "2026-10-21T07:00:07.932870-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "A Tesla-SpaceX Merger Would Hasten Musk’s $1 Trillion Payday",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n1 min ago\nA Tesla-SpaceX Merger Would Hasten Musk’s $1 Trillion Payday\nWith all the talk of a potential Tesla-SpaceX tie-up this week, it's a good time to revisit this story explaining how a merger could unlock Musk's pay package without him hitting his targets.",
+    "text_blocks": [
+      "LIVE",
+      "1 min ago",
+      "A Tesla-SpaceX Merger Would Hasten Musk’s $1 Trillion Payday",
+      "With all the talk of a potential Tesla-SpaceX tie-up this week, it's a good time to revisit this story explaining how a merger could unlock Musk's pay package without him hitting his targets."
+    ],
+    "html": null
+  }
+}

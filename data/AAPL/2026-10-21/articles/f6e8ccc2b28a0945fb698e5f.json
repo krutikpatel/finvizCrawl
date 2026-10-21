@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-musk-ai-evs/card/what-tesla-stock-has-been-doing-lately-AcZiv5fvjQaA4fNb5THt?mod=bar_FV",
+    "fetched_at": "2026-10-21T07:00:10.518971-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What Tesla Stock Has Been Doing Lately",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Last Updated:\n2 hours ago\nInvestors hope Tesla's third-quarter numbers an provide some lasting momentum for the shares.\nThe stock just hasn't had any direction lately. Shares dropped 14.5% on July 23, the day after reporting weaker-than-expected second-quarter figures.\nSince then, Tesla stock has traded as low as $297.38 and as high as $388.56. Shares closed on Tuesday at $373.71, down 17% this year, trailing the S&P 500 by almost 30 percentage points.",
+    "text_blocks": [
+      "Last Updated:",
+      "2 hours ago",
+      "Investors hope Tesla's third-quarter numbers an provide some lasting momentum for the shares.",
+      "The stock just hasn't had any direction lately. Shares dropped 14.5% on July 23, the day after reporting weaker-than-expected second-quarter figures.",
+      "Since then, Tesla stock has traded as low as $297.38 and as high as $388.56. Shares closed on Tuesday at $373.71, down 17% this year, trailing the S&P 500 by almost 30 percentage points."
+    ],
+    "html": null
+  }
+}

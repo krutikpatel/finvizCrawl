@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/meta-earnings-stock-results-muse-q3?mod=mw_FV",
+    "fetched_at": "2026-10-21T07:00:41.667282-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta earnings are just hours away — with Muse top of mind among investors - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct. 21, 2026 at 9:00am ET\nMeta earnings are just hours away — with Muse top of mind among investors\nMeta is due to report third-quarter results on Wednesday, following the viral early success of its Muse AI assistant.\nLatest Updates\n58 min ago\nInvestors often pay more attention to a company's forecast than to the results themselves, and Meta's outlook will offer an early glimpse of what to expect for the crucial holiday season.\nAnalysts tracked by FactSet model $73.6 billion in revenue for the December quarter, compared with $59.9 billion for the same period a year earlier. The December quarter is traditionally Meta's largest as advertisers tend to spend heavily ahead of the holidays.\nMeta doesn't typically offer an outlook for earnings per share in its earnings materials, but last quarter it noted that it still expected to report higher operating income for the whole of 2026 than it posted for 2025. The FactSet consensus calls for $87 billion in full-year operating income, up from $83 billion last year.",
+    "text_blocks": [
+      "Oct. 21, 2026 at 9:00am ET",
+      "Meta earnings are just hours away — with Muse top of mind among investors",
+      "Meta is due to report third-quarter results on Wednesday, following the viral early success of its Muse AI assistant.",
+      "Latest Updates",
+      "58 min ago",
+      "Investors often pay more attention to a company's forecast than to the results themselves, and Meta's outlook will offer an early glimpse of what to expect for the crucial holiday season.",
+      "Analysts tracked by FactSet model $73.6 billion in revenue for the December quarter, compared with $59.9 billion for the same period a year earlier. The December quarter is traditionally Meta's largest as advertisers tend to spend heavily ahead of the holidays.",
+      "Meta doesn't typically offer an outlook for earnings per share in its earnings materials, but last quarter it noted that it still expected to report higher operating income for the whole of 2026 than it posted for 2025. The FactSet consensus calls for $87 billion in full-year operating income, up from $83 billion last year."
+    ],
+    "html": null
+  }
+}

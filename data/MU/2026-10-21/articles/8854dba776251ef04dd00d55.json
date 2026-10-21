@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=wsj_FV",
+    "fetched_at": "2026-10-21T07:00:16.402814-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq Futures Rise After AI Stocks Rally in Asia and Europe - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nasdaq futures rose after artificial-intelligence stocks rallied in Asia and Europe, though investor sentiment remained muted as oil prices held close to $110 a barrel.\nAfter volatile trade in the last session ended with the Nasdaq closing flat, futures for the tech-heavy index gained 0.6% on Wednesday. Investor concerns remain around the business models of cloud-computing companies and the impact of higher borrowing rates on the AI ecosystem. Still, chip makers and data-center stocks rose across the board premarket. Micron Technology MU 1.53%increase; up pointing triangle and Intel each gained over 2% premarket as investors moved back into AI names that fell sharply last week.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Nasdaq futures rose after artificial-intelligence stocks rallied in Asia and Europe, though investor sentiment remained muted as oil prices held close to $110 a barrel.",
+      "After volatile trade in the last session ended with the Nasdaq closing flat, futures for the tech-heavy index gained 0.6% on Wednesday. Investor concerns remain around the business models of cloud-computing companies and the impact of higher borrowing rates on the AI ecosystem. Still, chip makers and data-center stocks rose across the board premarket. Micron Technology MU 1.53%increase; up pointing triangle and Intel each gained over 2% premarket as investors moved back into AI names that fell sharply last week.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

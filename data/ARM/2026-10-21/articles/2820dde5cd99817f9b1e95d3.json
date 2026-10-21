@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/intel-leads-chip-stocks-higher-as-investors-jump-back-into-ai-trade-135726553.html",
+    "fetched_at": "2026-10-21T07:00:49.411945-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel leads chip stocks higher as investors jump back into AI trade",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Chip stocks rebounded on Monday as investors bought the dip following a sharp sell-off in AI-related stocks last week.\nThe PHLX Semiconductor Index (^SOX) rose 2% in a reversal of a recent semiconductor rout.\nIntel (INTC) stock jumped as much as 5% after JPMorgan upgraded the stock to a Buy, citing \"solid\" execution. AI chip giants Nvidia (NVDA) and AMD (AMD) also gained.\nSentiment surrounding the AI trade also strengthened on Monday after CoreWeave (CRWV) was upgraded at Goldman Sachs to a Buy rating from Neutral.\nShares of central processing unit (CPU) designer Arm Holdings (ARM) and memory highfliers Micron Technology (MU) and SK Hynix (SKHY) also rebounded following sharp declines last week.\nInes Ferre is a senior business reporter for Yahoo Finance.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\nRead the latest financial and business news from Yahoo Finance",
+    "text_blocks": [
+      "Chip stocks rebounded on Monday as investors bought the dip following a sharp sell-off in AI-related stocks last week.",
+      "The PHLX Semiconductor Index (^SOX) rose 2% in a reversal of a recent semiconductor rout.",
+      "Intel (INTC) stock jumped as much as 5% after JPMorgan upgraded the stock to a Buy, citing \"solid\" execution. AI chip giants Nvidia (NVDA) and AMD (AMD) also gained.",
+      "Sentiment surrounding the AI trade also strengthened on Monday after CoreWeave (CRWV) was upgraded at Goldman Sachs to a Buy rating from Neutral.",
+      "Shares of central processing unit (CPU) designer Arm Holdings (ARM) and memory highfliers Micron Technology (MU) and SK Hynix (SKHY) also rebounded following sharp declines last week.",
+      "Ines Ferre is a senior business reporter for Yahoo Finance.",
+      "Click here for in-depth analysis of the latest stock market news and events moving stock prices",
+      "Read the latest financial and business news from Yahoo Finance"
+    ],
+    "html": null
+  }
+}

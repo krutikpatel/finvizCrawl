@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/super-micro-earnings-stock-price-6c9f58cf?mod=bar_FV",
+    "fetched_at": "2026-10-21T07:00:44.126480-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.\nSuper Micro Computer shares jumped 13% in premarket trading Wednesday after the AI-server maker said preliminary quarterly revenue would significantly exceed its previous forecast. But the good news delivered only a modest lift to chip stocks, which are still struggling to recover from a bruising selloff.",
+    "text_blocks": [
+      "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.",
+      "Super Micro Computer shares jumped 13% in premarket trading Wednesday after the AI-server maker said preliminary quarterly revenue would significantly exceed its previous forecast. But the good news delivered only a modest lift to chip stocks, which are still struggling to recover from a bruising selloff."
+    ],
+    "html": null
+  }
+}

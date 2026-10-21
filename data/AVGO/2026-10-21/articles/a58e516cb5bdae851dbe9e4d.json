@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/microsoft-alphabet-goldman-sachs-join-201604815.html",
+    "fetched_at": "2026-10-21T07:00:32.087017-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The corporate backlash against tokenized stocks is snowballing.\nSeven more companies, including Microsoft, Google parent Alphabet, and Goldman Sachs, have objected to having their shares traded on OKXICE TSV, according to an updated public notice dated Monday.\nOKXICE TSV is a planned tokenized stock venue from OKX and NYSE owner Intercontinental Exchange. Qualcomm, Caterpillar, McDonald's, and Western Digital also joined the list.\nThat brings the total to 16 objecting issuers, up from nine in the venue's previous notice just four days earlier. The earlier group included Verizon, Broadcom, UnitedHealth Group, CoreWeave and Rocket Lab. Neither notice explains the companies' reasons or whether objecting keeps a stock off the platform.\nGoldman's inclusion stands out, given the bank's own investments in blockchain-based markets.\nThe updated notice also contains a quiet but notable change. The Oct. 15 version said the venue would offer stocks tokenized by third parties unaffiliated with the companies. Monday's version says it will offer stocks tokenized by either an outside party or the issuer itself, potentially giving companies a more direct role in how their shares appear onchain.\nUnder the third-party model, an outside \"tokenizer\" buys and holds real shares one-for-one through a registered broker-dealer, then issues tokens meant to carry the same dividend and voting rights, according to the notice.\nThe venue plans to run 24/7 on Uniswap v4 liquidity pools on OKX's XLayer blockchain, with trades settled in stablecoins such as USDC and USDT.\nWhy Some of America's Biggest Companies Are Objecting to Tokenized Shares\nOKXICE is set to operate under the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act stalled in the Senate. The exemption lets venues trade tokenized U.S. stocks without registering as exchanges, and the notice acknowledges OKXICE isn't subject to Regulation NMS or fair-access rules.\nOKX and ICE first joined forces on tokenized securities earlier this year before unveiling the 24/7 venue this month. Nasdaq, which won SEC approval for its own tokenized securities pilot, has said it will opt its shares out of the exemption. A Nasdaq spokesperson previously told The Wall Street Journal that it doesn't want its stock trading on a venue that doesn't show the best prices in real time or report trades to the consolidated tape.\nThe IMF recently warned that tokenized stock markets remain volatile and illiquid despite real demand.",
+    "text_blocks": [
+      "The corporate backlash against tokenized stocks is snowballing.",
+      "Seven more companies, including Microsoft, Google parent Alphabet, and Goldman Sachs, have objected to having their shares traded on OKXICE TSV, according to an updated public notice dated Monday.",
+      "OKXICE TSV is a planned tokenized stock venue from OKX and NYSE owner Intercontinental Exchange. Qualcomm, Caterpillar, McDonald's, and Western Digital also joined the list.",
+      "That brings the total to 16 objecting issuers, up from nine in the venue's previous notice just four days earlier. The earlier group included Verizon, Broadcom, UnitedHealth Group, CoreWeave and Rocket Lab. Neither notice explains the companies' reasons or whether objecting keeps a stock off the platform.",
+      "Goldman's inclusion stands out, given the bank's own investments in blockchain-based markets.",
+      "The updated notice also contains a quiet but notable change. The Oct. 15 version said the venue would offer stocks tokenized by third parties unaffiliated with the companies. Monday's version says it will offer stocks tokenized by either an outside party or the issuer itself, potentially giving companies a more direct role in how their shares appear onchain.",
+      "Under the third-party model, an outside \"tokenizer\" buys and holds real shares one-for-one through a registered broker-dealer, then issues tokens meant to carry the same dividend and voting rights, according to the notice.",
+      "The venue plans to run 24/7 on Uniswap v4 liquidity pools on OKX's XLayer blockchain, with trades settled in stablecoins such as USDC and USDT.",
+      "Why Some of America's Biggest Companies Are Objecting to Tokenized Shares",
+      "OKXICE is set to operate under the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act stalled in the Senate. The exemption lets venues trade tokenized U.S. stocks without registering as exchanges, and the notice acknowledges OKXICE isn't subject to Regulation NMS or fair-access rules.",
+      "OKX and ICE first joined forces on tokenized securities earlier this year before unveiling the 24/7 venue this month. Nasdaq, which won SEC approval for its own tokenized securities pilot, has said it will opt its shares out of the exemption. A Nasdaq spokesperson previously told The Wall Street Journal that it doesn't want its stock trading on a venue that doesn't show the best prices in real time or report trades to the consolidated tape.",
+      "The IMF recently warned that tokenized stock markets remain volatile and illiquid despite real demand."
+    ],
+    "html": null
+  }
+}

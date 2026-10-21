@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/openai-sell-top-models-google-120116072.html",
+    "fetched_at": "2026-10-21T07:00:27.051107-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Krystal Hu\nOct 21 (Reuters) - OpenAI will make its frontier artificial intelligence models and Codex coding agent available through Google Cloud in the coming weeks, the companies said on Wednesday, deepening ties between two rivals and underscoring how major cloud providers are becoming key distributors of top AI models.\nThe partnership will bring OpenAI's latest models such as GPT-6 Astra to Google Cloud's Model Garden. It will allow customers to buy them through Google Cloud Marketplace and use existing cloud spending commitments for the purchases, according to a company blog post, as OpenAI tries to sell its models to more enterprise customers.\nIt will also allow customers in regulated industries to access OpenAI models through Google Cloud's access controls, data governance tools and infrastructure to build so-called agentic AI workflows.\nAlphabet's Google has become the latest major hyperscaler to offer OpenAI models to its customers, after OpenAI's exclusive distribution arrangement with Microsoft expired in April.\nOpenAI has since expanded distribution to Amazon Web Services and now to Google Cloud, each a major hyperscaler vying for AI market share.\nThe deal adds another layer to an increasingly complex relationship between OpenAI and Google, which compete in core AI products and search even as the economics of building and deploying large models push them toward cooperation.\nGoogle has moved to position its cloud unit as a neutral platform offering customers a broader choice of models, after it struck a cloud deal with OpenAI to offer it more computing capacity last year.\nFor Google Cloud, adding OpenAI's models strengthens a strategy of offering customers a wider range of third-party models rather than relying only on its own.\nThomas Kurian, chief executive of Google Cloud, has told Reuters in a previous interview that the Google cloud platform is an open platform and it welcomes any model popular with developers in it.\nThe arrangement also fits a broader industry shift in which hyperscalers are becoming the main commercial channels for frontier AI labs. Cloud providers usually take a cut from sales through its platform.\nAnthropic, an OpenAI rival backed by Amazon and Google, has seen 47% of its 2025 revenue coming from cloud providers Amazon and Google's cloud platforms, according to its IPO filing reviewed by Reuters.\n(Reporting by Krystal Hu in San Francisco; additional reporting by Kenrick Cai in San Francisco; editing by Lincoln Feast.)",
+    "text_blocks": [
+      "By Krystal Hu",
+      "Oct 21 (Reuters) - OpenAI will make its frontier artificial intelligence models and Codex coding agent available through Google Cloud in the coming weeks, the companies said on Wednesday, deepening ties between two rivals and underscoring how major cloud providers are becoming key distributors of top AI models.",
+      "The partnership will bring OpenAI's latest models such as GPT-6 Astra to Google Cloud's Model Garden. It will allow customers to buy them through Google Cloud Marketplace and use existing cloud spending commitments for the purchases, according to a company blog post, as OpenAI tries to sell its models to more enterprise customers.",
+      "It will also allow customers in regulated industries to access OpenAI models through Google Cloud's access controls, data governance tools and infrastructure to build so-called agentic AI workflows.",
+      "Alphabet's Google has become the latest major hyperscaler to offer OpenAI models to its customers, after OpenAI's exclusive distribution arrangement with Microsoft expired in April.",
+      "OpenAI has since expanded distribution to Amazon Web Services and now to Google Cloud, each a major hyperscaler vying for AI market share.",
+      "The deal adds another layer to an increasingly complex relationship between OpenAI and Google, which compete in core AI products and search even as the economics of building and deploying large models push them toward cooperation.",
+      "Google has moved to position its cloud unit as a neutral platform offering customers a broader choice of models, after it struck a cloud deal with OpenAI to offer it more computing capacity last year.",
+      "For Google Cloud, adding OpenAI's models strengthens a strategy of offering customers a wider range of third-party models rather than relying only on its own.",
+      "Thomas Kurian, chief executive of Google Cloud, has told Reuters in a previous interview that the Google cloud platform is an open platform and it welcomes any model popular with developers in it.",
+      "The arrangement also fits a broader industry shift in which hyperscalers are becoming the main commercial channels for frontier AI labs. Cloud providers usually take a cut from sales through its platform.",
+      "Anthropic, an OpenAI rival backed by Amazon and Google, has seen 47% of its 2025 revenue coming from cloud providers Amazon and Google's cloud platforms, according to its IPO filing reviewed by Reuters.",
+      "(Reporting by Krystal Hu in San Francisco; additional reporting by Kenrick Cai in San Francisco; editing by Lincoln Feast.)"
+    ],
+    "html": null
+  }
+}

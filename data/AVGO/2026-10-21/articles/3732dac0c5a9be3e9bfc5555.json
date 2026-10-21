@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/microsoft-alphabet-bar-tokenized-shares-143600397.html",
+    "fetched_at": "2026-10-21T07:00:32.055059-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft, Alphabet Bar Their Tokenized Shares From OKX-ICE Venue as Objections Hit 16",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Sixteen public companies have now told OKXICE TSV, the tokenized stock venue owned by Intercontinental Exchange and OKX, that they object to tokens of their shares trading there, according to an updated public notice dated Oct. 19.\nThe seven newest names are Microsoft, Alphabet, Goldman Sachs, Qualcomm, Caterpillar, McDonald's and Western Digital. They join nine companies disclosed in the venue's previous update: Cerebras, AppLovin, Applied Digital, Rocket Lab, CoreWeave, Verizon, Applied Optoelectronics, Broadcom and UnitedHealth. The notice gives no reasons for the objections and no dates on which they arrived.\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nWhat an Objection Does\nThe SEC's exemption order for tokenized securities venues, issued Sept. 17, lets a venue list a token minted by a firm unaffiliated with the issuer only after it has sent the issuer written notice and waited at least 30 calendar days. If the issuer objects in writing within that window, the venue \"cannot make such Tokenized NMS Stock available for trading on the TSV.\" The venue then has five business days to disclose the objection in its public notice.\nThat rule reaches the core of OKXICE's design. Under its notice, an outside firm it calls the Tokenizer buys the real shares through an SEC-registered broker-dealer and issues one token per share it holds. Trading runs 24 hours a day in Uniswap v4 pools on XLayer, a layer-2 blockchain, with each token paired against USDC, USDG or USDT. Only wallets holding a non-transferable soulbound token, issued after identity checks, can trade. The notice says the venue is not registered with the SEC for these activities and is not subject to Regulation NMS. It does not give a launch date.\nMost of the Original Roster Remains\nThe venue's first notice named 63 tickers from 62 companies it planned to offer, with Alphabet listed under both GOOG and GOOGL. Fifteen of those companies have since objected. Cerebras, which appeared as the lone objector in that first notice, was not on the roster.\nThat leaves 47 companies from the original list with no objection disclosed so far, among them Nvidia, Tesla, Apple, Amazon, Coinbase and JPMorgan Chase.\nRelated Listen: Robinhood Tokenized AMC Stock Without Asking. It's Not Illegal, but Should It Be?",
+    "text_blocks": [
+      "Sixteen public companies have now told OKXICE TSV, the tokenized stock venue owned by Intercontinental Exchange and OKX, that they object to tokens of their shares trading there, according to an updated public notice dated Oct. 19.",
+      "The seven newest names are Microsoft, Alphabet, Goldman Sachs, Qualcomm, Caterpillar, McDonald's and Western Digital. They join nine companies disclosed in the venue's previous update: Cerebras, AppLovin, Applied Digital, Rocket Lab, CoreWeave, Verizon, Applied Optoelectronics, Broadcom and UnitedHealth. The notice gives no reasons for the objections and no dates on which they arrived.",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "What an Objection Does",
+      "The SEC's exemption order for tokenized securities venues, issued Sept. 17, lets a venue list a token minted by a firm unaffiliated with the issuer only after it has sent the issuer written notice and waited at least 30 calendar days. If the issuer objects in writing within that window, the venue \"cannot make such Tokenized NMS Stock available for trading on the TSV.\" The venue then has five business days to disclose the objection in its public notice.",
+      "That rule reaches the core of OKXICE's design. Under its notice, an outside firm it calls the Tokenizer buys the real shares through an SEC-registered broker-dealer and issues one token per share it holds. Trading runs 24 hours a day in Uniswap v4 pools on XLayer, a layer-2 blockchain, with each token paired against USDC, USDG or USDT. Only wallets holding a non-transferable soulbound token, issued after identity checks, can trade. The notice says the venue is not registered with the SEC for these activities and is not subject to Regulation NMS. It does not give a launch date.",
+      "Most of the Original Roster Remains",
+      "The venue's first notice named 63 tickers from 62 companies it planned to offer, with Alphabet listed under both GOOG and GOOGL. Fifteen of those companies have since objected. Cerebras, which appeared as the lone objector in that first notice, was not on the roster.",
+      "That leaves 47 companies from the original list with no objection disclosed so far, among them Nvidia, Tesla, Apple, Amazon, Coinbase and JPMorgan Chase.",
+      "Related Listen: Robinhood Tokenized AMC Stock Without Asking. It's Not Illegal, but Should It Be?"
+    ],
+    "html": null
+  }
+}

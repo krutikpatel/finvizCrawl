@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/mural-startup-founded-former-palantir-140000724.html",
+    "fetched_at": "2026-10-21T07:00:34.592584-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Mural, a startup founded by former Palantir engineers, raises $15 million bid to connect banks to the emerging bot economy",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The stablecoin boom has promised to make global commerce faster and cheaper by easing cross-border money transfers. But delivering on that promise remains complicated, as businesses still have to juggle banks, payment providers, and a patchwork of regulations. New York-based startup Mural wants to fix that problem by offering businesses one place to manage international payments, rather than having to piece together the system themselves.\nCofounded by former Palantir engineers Sinclair Toffa and Chris Fernandes in 2022, Mural announced Tuesday that it has raised a $15 million Series A funding round. The startup plans to use the funds to further build out its platform, which allows customers—including payroll providers, software companies and fintechs—to rely on a single account that can hold traditional dollars, local currencies, and stablecoins.\n\"[We are] building this… compliant system of record that allows for businesses and fintechs to launch new financial products on top of us,\" Toffa, who serves as Mural's CEO, explained.\nFintech innovation has reshaped how money moves in recent years, and stablecoins have become part of that shift. These cryptocurrencies, typically designed to track the U.S. dollar, can move across borders in seconds, sometimes only for pennies in network fees. Stablecoin payments reached roughly $400 billion in the first eight months of 2026, up from the same period a year earlier, per a report from global consulting firm Alvarez & Marsal. Their use for international transfers has also grown: cross-border stablecoin flows totaled $220 billion from July 2025 through June 2026, up nearly 78% from the previous 12 months, according to blockchain analytics firm Chainalysis.\nTether, the issuer behind the USDT stablecoin, led Mural's Series A, with participation from North Island Ventures. The round brings Mural's total funding to $28 million, following a $5 million seed round in 2022 and additional pre-seed and interim financing from earlier backers. Mural declined to disclose its valuation following its latest fundraising round.\nTether CEO Paolo Ardoino said the investment also reflects a bet on AI agents becoming regular handlers of financial services.\n\"Those agents will need access to payment systems that operate around the clock and can reach people across the world,\" he told Fortune in a written statement.\nFrom Palantir to payments\nToffa's interest in international payments began when he visited Togo, his grandfather's home country, when he was 15 years old. His relatives there, who routinely received remittances from his father in the United States, told him that transfers could take weeks to arrive and cost as much as 20% in fees.",
+    "text_blocks": [
+      "The stablecoin boom has promised to make global commerce faster and cheaper by easing cross-border money transfers. But delivering on that promise remains complicated, as businesses still have to juggle banks, payment providers, and a patchwork of regulations. New York-based startup Mural wants to fix that problem by offering businesses one place to manage international payments, rather than having to piece together the system themselves.",
+      "Cofounded by former Palantir engineers Sinclair Toffa and Chris Fernandes in 2022, Mural announced Tuesday that it has raised a $15 million Series A funding round. The startup plans to use the funds to further build out its platform, which allows customers—including payroll providers, software companies and fintechs—to rely on a single account that can hold traditional dollars, local currencies, and stablecoins.",
+      "\"[We are] building this… compliant system of record that allows for businesses and fintechs to launch new financial products on top of us,\" Toffa, who serves as Mural's CEO, explained.",
+      "Fintech innovation has reshaped how money moves in recent years, and stablecoins have become part of that shift. These cryptocurrencies, typically designed to track the U.S. dollar, can move across borders in seconds, sometimes only for pennies in network fees. Stablecoin payments reached roughly $400 billion in the first eight months of 2026, up from the same period a year earlier, per a report from global consulting firm Alvarez & Marsal. Their use for international transfers has also grown: cross-border stablecoin flows totaled $220 billion from July 2025 through June 2026, up nearly 78% from the previous 12 months, according to blockchain analytics firm Chainalysis.",
+      "Tether, the issuer behind the USDT stablecoin, led Mural's Series A, with participation from North Island Ventures. The round brings Mural's total funding to $28 million, following a $5 million seed round in 2022 and additional pre-seed and interim financing from earlier backers. Mural declined to disclose its valuation following its latest fundraising round.",
+      "Tether CEO Paolo Ardoino said the investment also reflects a bet on AI agents becoming regular handlers of financial services.",
+      "\"Those agents will need access to payment systems that operate around the clock and can reach people across the world,\" he told Fortune in a written statement.",
+      "From Palantir to payments",
+      "Toffa's interest in international payments began when he visited Togo, his grandfather's home country, when he was 15 years old. His relatives there, who routinely received remittances from his father in the United States, told him that transfers could take weeks to arrive and cost as much as 20% in fees."
+    ],
+    "html": null
+  }
+}

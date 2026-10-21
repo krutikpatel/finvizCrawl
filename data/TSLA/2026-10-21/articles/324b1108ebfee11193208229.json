@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rise-corporate-132032469.html",
+    "fetched_at": "2026-10-21T07:00:08.033115-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street Futures Rise as Corporate Earnings Support Technology Stocks: Dow Jones, S&P, Nasdaq",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "US stock index futures pointed to a higher opening on Wednesday, suggesting Wall Street could extend its gains from recent sessions as investors assessed quarterly earnings reports and prepared for further results from major technology companies.\nTechnology stocks were expected to contribute to the early advance, although individual companies recorded contrasting pre-market movements following their latest financial announcements.\nSpaceX (NASDAQ:SPCX) shares rose 8.8% in pre-market trading after the rocket and space technology company led by Elon Musk reported third-quarter earnings above market expectations, supported by a substantial increase in revenue.\nMusk also confirmed that SpaceX and Tesla (NASDAQ:TSLA) had established independent special committees to examine a potential merger. No final decision regarding a transaction was announced.\nSuper Micro Computer (NASDAQ:SMCI) advanced 12.2% before the opening bell after the data centre server manufacturer raised its revenue outlook for the first quarter of its fiscal year.\nIn contrast, Netflix (NASDAQ:NFLX) declined 6.8% in pre-market trading. The streaming company reported third-quarter earnings that exceeded analysts' estimates but issued revenue guidance below market expectations.\nAT&T (NYSE:T) shares also fell, losing 5% despite the telecommunications company reporting third-quarter revenue and earnings above forecasts.\nInvestors were also awaiting quarterly results from Tesla, Meta Platforms (NASDAQ:META) and IBM (NYSE:IBM), all scheduled for release after Wednesday's market close.\nThe anticipated higher opening followed a mixed performance on Wall Street on Tuesday, when stocks recovered from an initial decline before giving back part of their gains later in the session.\nThe Dow Jones Industrial Average rose 529.85 points, or 1%, to close at 52,495.88, its highest closing level in more than a month. The S&P 500 gained 21.84 points, or 0.3%, to 7,712.57, while the Nasdaq Composite slipped 6.07 points, or less than 0.1%, to 26,424.82.\nIndustrial conglomerate 3M (NYSE:MMM) contributed to the Dow's advance, with its shares rising 6% after the company reported third-quarter earnings above expectations and increased its full-year profit forecast.\nOther Dow constituents, including Amgen (NASDAQ:AMGN), Merck (NYSE:MRK) and UnitedHealth (NYSE:UNH), also recorded gains.\nMovements in energy prices influenced trading sentiment during Tuesday's session. US crude oil futures fell substantially after earlier increases, following a report suggesting that diplomatic efforts could lead to a reduction in tensions between the United States and Iran.",
+    "text_blocks": [
+      "US stock index futures pointed to a higher opening on Wednesday, suggesting Wall Street could extend its gains from recent sessions as investors assessed quarterly earnings reports and prepared for further results from major technology companies.",
+      "Technology stocks were expected to contribute to the early advance, although individual companies recorded contrasting pre-market movements following their latest financial announcements.",
+      "SpaceX (NASDAQ:SPCX) shares rose 8.8% in pre-market trading after the rocket and space technology company led by Elon Musk reported third-quarter earnings above market expectations, supported by a substantial increase in revenue.",
+      "Musk also confirmed that SpaceX and Tesla (NASDAQ:TSLA) had established independent special committees to examine a potential merger. No final decision regarding a transaction was announced.",
+      "Super Micro Computer (NASDAQ:SMCI) advanced 12.2% before the opening bell after the data centre server manufacturer raised its revenue outlook for the first quarter of its fiscal year.",
+      "In contrast, Netflix (NASDAQ:NFLX) declined 6.8% in pre-market trading. The streaming company reported third-quarter earnings that exceeded analysts' estimates but issued revenue guidance below market expectations.",
+      "AT&T (NYSE:T) shares also fell, losing 5% despite the telecommunications company reporting third-quarter revenue and earnings above forecasts.",
+      "Investors were also awaiting quarterly results from Tesla, Meta Platforms (NASDAQ:META) and IBM (NYSE:IBM), all scheduled for release after Wednesday's market close.",
+      "The anticipated higher opening followed a mixed performance on Wall Street on Tuesday, when stocks recovered from an initial decline before giving back part of their gains later in the session.",
+      "The Dow Jones Industrial Average rose 529.85 points, or 1%, to close at 52,495.88, its highest closing level in more than a month. The S&P 500 gained 21.84 points, or 0.3%, to 7,712.57, while the Nasdaq Composite slipped 6.07 points, or less than 0.1%, to 26,424.82.",
+      "Industrial conglomerate 3M (NYSE:MMM) contributed to the Dow's advance, with its shares rising 6% after the company reported third-quarter earnings above expectations and increased its full-year profit forecast.",
+      "Other Dow constituents, including Amgen (NASDAQ:AMGN), Merck (NYSE:MRK) and UnitedHealth (NYSE:UNH), also recorded gains.",
+      "Movements in energy prices influenced trading sentiment during Tuesday's session. US crude oil futures fell substantially after earlier increases, following a report suggesting that diplomatic efforts could lead to a reduction in tensions between the United States and Iran."
+    ],
+    "html": null
+  }
+}

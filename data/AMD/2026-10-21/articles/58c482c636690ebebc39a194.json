@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/chip-stocks-shrug-off-a-scary-morning-but-history-says-the-shakeout-isnt-over-154222842.html",
+    "fetched_at": "2026-10-21T07:00:44.457927-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip stocks shrug off a scary morning, but history says the shakeout isn't over",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street's AI darlings were in free fall at the open. By midmorning, they were leading the comeback.\nThe PHLX Semiconductor Index (^SOX) sank to its lowest level since early August early Tuesday. It was supposed to be the moment Monday's relief rally fell apart after an eight-session losing streak.\nInstead, buyers stormed in. The index is now higher on the day and back above Friday's close, springing a bear trap much like the one forming in CoreWeave (CRWV).\nThe rebound is broad too. Roughly 3 of every 4 stocks in a 60-stock Yahoo Finance chip basket have turned green, including heavyweights AMD (AMD), Taiwan Semiconductor (TSM), Intel (INTC), and Micron (MU). GlobalFoundries (GFS) tops the list.\nNotice who's missing from the party. Chip equipment makers Lam Research (LRCX), KLA (KLAC), and Applied Materials (AMAT) are still in the red, along with Arm (ARM). Even Nvidia (NVDA), the AI trade's bellwether, is barely keeping up.\nBuyers are picking their spots, favoring the companies that make chips over the ones that sell them the tools.\nHistory says the real test may still be ahead\nThe track record says don't count on the bottom being in just yet.\nAfter every losing streak of seven sessions or more since 1994, the index traded below the streak's final close within a month, according to Yahoo Finance calculations. After the longest streaks, it was lower a month later most of the time.\nAnd those dips weren't shallow. The typical one after the longest streaks ran about 9%. Tuesday's barely scratched 1% before buyers pounced.\nOne-day comebacks like this one haven't settled the question either. They've been a coin flip for chips.\nThe bulls do get a consolation prize. Three months out, the index was usually higher.\nBofA Global Research called last week's rout a \"positioning-driven hiccup on the fringes of the AI trade\" in a research report. If that's right, the bounce has room to run. If not, the next dip is the one to watch.\nFor the index, it starts with the summer floor around 11,000 to 11,140, built from lows in late July and September, plus Friday's close. Holding it keeps Tuesday's comeback intact.\nLose it, and the next stop is the 10,450 to 10,500 zone, where chips bottomed in late July and traded in late April.\nOn the upside, bulls first need to clear 12,600 to 12,700, which capped the index in early October. Above that sits the early-October peak zone near 13,200 to 13,350.\nWatch whether Tuesday's low holds and that big 11,000 level just underneath. That's where the silicon meets the road.",
+    "text_blocks": [
+      "Wall Street's AI darlings were in free fall at the open. By midmorning, they were leading the comeback.",
+      "The PHLX Semiconductor Index (^SOX) sank to its lowest level since early August early Tuesday. It was supposed to be the moment Monday's relief rally fell apart after an eight-session losing streak.",
+      "Instead, buyers stormed in. The index is now higher on the day and back above Friday's close, springing a bear trap much like the one forming in CoreWeave (CRWV).",
+      "The rebound is broad too. Roughly 3 of every 4 stocks in a 60-stock Yahoo Finance chip basket have turned green, including heavyweights AMD (AMD), Taiwan Semiconductor (TSM), Intel (INTC), and Micron (MU). GlobalFoundries (GFS) tops the list.",
+      "Notice who's missing from the party. Chip equipment makers Lam Research (LRCX), KLA (KLAC), and Applied Materials (AMAT) are still in the red, along with Arm (ARM). Even Nvidia (NVDA), the AI trade's bellwether, is barely keeping up.",
+      "Buyers are picking their spots, favoring the companies that make chips over the ones that sell them the tools.",
+      "History says the real test may still be ahead",
+      "The track record says don't count on the bottom being in just yet.",
+      "After every losing streak of seven sessions or more since 1994, the index traded below the streak's final close within a month, according to Yahoo Finance calculations. After the longest streaks, it was lower a month later most of the time.",
+      "And those dips weren't shallow. The typical one after the longest streaks ran about 9%. Tuesday's barely scratched 1% before buyers pounced.",
+      "One-day comebacks like this one haven't settled the question either. They've been a coin flip for chips.",
+      "The bulls do get a consolation prize. Three months out, the index was usually higher.",
+      "BofA Global Research called last week's rout a \"positioning-driven hiccup on the fringes of the AI trade\" in a research report. If that's right, the bounce has room to run. If not, the next dip is the one to watch.",
+      "For the index, it starts with the summer floor around 11,000 to 11,140, built from lows in late July and September, plus Friday's close. Holding it keeps Tuesday's comeback intact.",
+      "Lose it, and the next stop is the 10,450 to 10,500 zone, where chips bottomed in late July and traded in late April.",
+      "On the upside, bulls first need to clear 12,600 to 12,700, which capped the index in early October. Above that sits the early-October peak zone near 13,200 to 13,350.",
+      "Watch whether Tuesday's low holds and that big 11,000 level just underneath. That's where the silicon meets the road."
+    ],
+    "html": null
+  }
+}

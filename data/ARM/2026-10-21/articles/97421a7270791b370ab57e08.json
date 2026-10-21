@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-fell-nearly-6-172638649.html",
+    "fetched_at": "2026-10-21T07:00:49.448080-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Stats for Intel Stock\n-\nCurrent Price: $89.85\n-\nTarget Price (Mid): ~$390\n-\nStreet Target: ~$118\n-\nPotential Total Return: ~336%\n-\nAnnualized IRR: ~42% / year\nWhat Happened?\nTaiwan Semiconductor Manufacturing (TSM) CEO C.C. Wei signaled on October 15, 2026, that TSMC would support customers who cannot get enough capacity from the EMIB-T packaging of Intel Corporation (INTC). That puts a competitor directly in the path of the foundry business Intel expects to ramp first.\nIntel closed at $89.85 on October 16, down 5.79%, in a broad chip selloff that took Advanced Micro Devices (AMD) down 5.95% and Arm Holdings (ARM) down 6.94%. Some outlets also tied Intel's drop to Wei's remarks. On October 14, an explosion at Intel's Kiryat Gat fab in Israel killed two workers, and as of October 16, Intel had not said whether output was affected. Intel reports Q3 results after the close on October 29, per its investor relations materials.\nTSMC Offered Itself as the Backup to Intel's Packaging Push\nEMIB-T is Intel's technology for linking AI chips and high-bandwidth memory inside one large package. Wei was answering Morgan Stanley's Charlie Chan, and he called TSMC's CoWoS packaging customers' first choice. TSMC's own lines are tight: in August, Taiwan's Economic Daily News reported some orders spilling from fully booked CoWoS capacity to Intel's Malaysia operations.\nEVP and CFO David Zinsner said at an August 26 Deutsche Bank conference that packaging revenue should start ramping in the back half of 2027, ahead of high-volume 14A production in 2028. He expects it to run at around a 40% gross margin and 30% operating margin. Intel has not named a packaging customer, so that timeline rests on management commentary, not disclosed contracts. Intel Foundry lost $10.318 billion at the operating line in fiscal 2025, per TIKR.\nWhy Packaging Wins Could Delay a 50% Gross Margin\nZinsner still calls a gross margin starting with a 5 the goal, but said Intel is reticent to put a date on it because \"some of our businesses actually don't get 50-plus percent gross margins, but they are really high-growth businesses.\" He put front-end foundry and advanced packaging at around 40% gross margin for now, and many custom ASIC products in the 40s as well.\nIntel instead holds each unit to a \"Rule of 45,\" where revenue growth plus operating margin should add up to 45, letting fast growers run thinner margins. Zinsner said not every unit will hit it next year.\nConsensus already pencils in the level he won't date. Wall Street models gross margin rising from 36.7% in 2025 to around 54% in 2030, per TIKR, though only seven analysts publish 2030 revenue estimates. Each packaging win adds revenue near a 40% margin, and TSMC competing for the same customers could pressure that pricing. Intel's Q3 guidance midpoint of 42% is up from 39% guided for Q2.",
+    "text_blocks": [
+      "Key Stats for Intel Stock",
+      "-",
+      "Current Price: $89.85",
+      "-",
+      "Target Price (Mid): ~$390",
+      "-",
+      "Street Target: ~$118",
+      "-",
+      "Potential Total Return: ~336%",
+      "-",
+      "Annualized IRR: ~42% / year",
+      "What Happened?",
+      "Taiwan Semiconductor Manufacturing (TSM) CEO C.C. Wei signaled on October 15, 2026, that TSMC would support customers who cannot get enough capacity from the EMIB-T packaging of Intel Corporation (INTC). That puts a competitor directly in the path of the foundry business Intel expects to ramp first.",
+      "Intel closed at $89.85 on October 16, down 5.79%, in a broad chip selloff that took Advanced Micro Devices (AMD) down 5.95% and Arm Holdings (ARM) down 6.94%. Some outlets also tied Intel's drop to Wei's remarks. On October 14, an explosion at Intel's Kiryat Gat fab in Israel killed two workers, and as of October 16, Intel had not said whether output was affected. Intel reports Q3 results after the close on October 29, per its investor relations materials.",
+      "TSMC Offered Itself as the Backup to Intel's Packaging Push",
+      "EMIB-T is Intel's technology for linking AI chips and high-bandwidth memory inside one large package. Wei was answering Morgan Stanley's Charlie Chan, and he called TSMC's CoWoS packaging customers' first choice. TSMC's own lines are tight: in August, Taiwan's Economic Daily News reported some orders spilling from fully booked CoWoS capacity to Intel's Malaysia operations.",
+      "EVP and CFO David Zinsner said at an August 26 Deutsche Bank conference that packaging revenue should start ramping in the back half of 2027, ahead of high-volume 14A production in 2028. He expects it to run at around a 40% gross margin and 30% operating margin. Intel has not named a packaging customer, so that timeline rests on management commentary, not disclosed contracts. Intel Foundry lost $10.318 billion at the operating line in fiscal 2025, per TIKR.",
+      "Why Packaging Wins Could Delay a 50% Gross Margin",
+      "Zinsner still calls a gross margin starting with a 5 the goal, but said Intel is reticent to put a date on it because \"some of our businesses actually don't get 50-plus percent gross margins, but they are really high-growth businesses.\" He put front-end foundry and advanced packaging at around 40% gross margin for now, and many custom ASIC products in the 40s as well.",
+      "Intel instead holds each unit to a \"Rule of 45,\" where revenue growth plus operating margin should add up to 45, letting fast growers run thinner margins. Zinsner said not every unit will hit it next year.",
+      "Consensus already pencils in the level he won't date. Wall Street models gross margin rising from 36.7% in 2025 to around 54% in 2030, per TIKR, though only seven analysts publish 2030 revenue estimates. Each packaging win adds revenue near a 40% margin, and TSMC competing for the same customers could pressure that pricing. Intel's Q3 guidance midpoint of 42% is up from 39% guided for Q2."
+    ],
+    "html": null
+  }
+}

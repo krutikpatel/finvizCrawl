@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-expands-google-cloud-access-125259315.html",
+    "fetched_at": "2026-10-21T07:00:27.052240-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI expands Google Cloud access as AI rivals deepen ties",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- OpenAI is expanding its reach among enterprise developers by bringing its latest artificial intelligence models and Codex coding agent to Google Cloud, giving the ChatGPT maker distribution through all three major U.S. cloud infrastructure providers.\nThe companies said Wednesday that OpenAI's models, including GPT-6 Astra, will become available through Google Cloud's Model Garden and Marketplace in the coming weeks. Developers will also be able to access the models through Google's Antigravity coding tool.\nThe arrangement allows businesses to purchase OpenAI's technology using existing Google Cloud spending commitments. Companies in regulated industries can also use Google's security controls and data governance tools to deploy OpenAI models and build AI agents.\nThe deal broadens a relationship that already includes cloud computing. OpenAI began using Google Cloud infrastructure to run ChatGPT and its application programming interface, and the latest agreement adds a distribution channel for selling its models to Google's customers.\nThe expansion follows OpenAI's move to widen access to its technology after its exclusive distribution arrangement with Microsoft ended in April. Amazon Web Services began offering OpenAI models shortly afterward, and Google Cloud now joins the distribution network.\nFor Google, the agreement adds a prominent competitor's technology to its cloud platform alongside its own Gemini models. The strategy could help attract businesses that want access to multiple AI providers without committing to a single model ecosystem.\nThe deal comes as Google Cloud's growth has accelerated amid strong demand for AI infrastructure. Its annualized revenue growth reached about 82% in the second quarter, up from 63% in the first quarter, according to CNBC. Amazon and Microsoft reported cloud growth of 37% and 42%, respectively.\nThe broader commercial opportunity is significant for AI developers. Cloud marketplaces give companies an established route to enterprise customers, while allowing buyers to use existing infrastructure budgets and procurement arrangements. Anthropic, a major OpenAI competitor, generated 47% of its 2025 revenue through Amazon and Google cloud platforms, according to its IPO filing reviewed by Reuters.",
+    "text_blocks": [
+      "Investing.com -- OpenAI is expanding its reach among enterprise developers by bringing its latest artificial intelligence models and Codex coding agent to Google Cloud, giving the ChatGPT maker distribution through all three major U.S. cloud infrastructure providers.",
+      "The companies said Wednesday that OpenAI's models, including GPT-6 Astra, will become available through Google Cloud's Model Garden and Marketplace in the coming weeks. Developers will also be able to access the models through Google's Antigravity coding tool.",
+      "The arrangement allows businesses to purchase OpenAI's technology using existing Google Cloud spending commitments. Companies in regulated industries can also use Google's security controls and data governance tools to deploy OpenAI models and build AI agents.",
+      "The deal broadens a relationship that already includes cloud computing. OpenAI began using Google Cloud infrastructure to run ChatGPT and its application programming interface, and the latest agreement adds a distribution channel for selling its models to Google's customers.",
+      "The expansion follows OpenAI's move to widen access to its technology after its exclusive distribution arrangement with Microsoft ended in April. Amazon Web Services began offering OpenAI models shortly afterward, and Google Cloud now joins the distribution network.",
+      "For Google, the agreement adds a prominent competitor's technology to its cloud platform alongside its own Gemini models. The strategy could help attract businesses that want access to multiple AI providers without committing to a single model ecosystem.",
+      "The deal comes as Google Cloud's growth has accelerated amid strong demand for AI infrastructure. Its annualized revenue growth reached about 82% in the second quarter, up from 63% in the first quarter, according to CNBC. Amazon and Microsoft reported cloud growth of 37% and 42%, respectively.",
+      "The broader commercial opportunity is significant for AI developers. Cloud marketplaces give companies an established route to enterprise customers, while allowing buyers to use existing infrastructure budgets and procurement arrangements. Anthropic, a major OpenAI competitor, generated 47% of its 2025 revenue through Amazon and Google cloud platforms, according to its IPO filing reviewed by Reuters."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_FV",
+    "fetched_at": "2026-10-21T07:00:46.650359-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nNowhere to hide: Tech selloff hits software and chip stocks alike\nThe software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market\nEven the software sector wasn’t immune from a broad-based technology selloff in the stock market Friday.\nInvestors had been rotating into the software sector earlier in the week, deeming these stocks to be compelling alternatives to highflying chip stocks that were seen as more vulnerable to concerns about the sustainability of artificial-intelligence spending.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market",
+      "Even the software sector wasn’t immune from a broad-based technology selloff in the stock market Friday.",
+      "Investors had been rotating into the software sector earlier in the week, deeming these stocks to be compelling alternatives to highflying chip stocks that were seen as more vulnerable to concerns about the sustainability of artificial-intelligence spending."
+    ],
+    "html": null
+  }
+}

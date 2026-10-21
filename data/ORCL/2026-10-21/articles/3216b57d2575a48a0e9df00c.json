@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html",
+    "fetched_at": "2026-10-21T07:00:24.611157-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin\nNvidia (NVDA) is expanding its efforts to prevent AI agents from going rogue and teaming up with Agile Robots on a new humanoid robot reference design.\nThe company revealed its OpenShell Reference Architecture at its GTC Berlin event in Germany on Wednesday, saying that it will allow customers to build, contain, and observe AI agents.\nReference architecture is a basic design for a server or other platform that customers and partners can customize for their own needs.\nThe setup allows customers to run AI models on Nvidia's Vera Rubin system, with the agent software running on the company's Vera CPUs, and Nvidia's BlueField-4 data processing units acting as security guards that block agents if they attempt unauthorized actions.\nThe company says it's working with the likes of CoreWeave (CRWV), Crusoe (CUES.PVT), Lambda (LAMD.PVT), Nebius (NBIS), Oracle Cloud Infrastructure (ORCL), and others to roll out the reference architecture.\n\"AI capability and safety must advance together. As enterprises prepare to deploy billions of AI agents, safety and control must be built into the computing architecture,\" Nvidia CEO Jensen Huang said in a statement.\n\"Nvidia created OpenShell to give agents the freedom to do useful work within clearly defined boundaries — contained, monitored, and under control,\" he said. \"With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField.\"\nNvidia debuted its OpenShell and Nvidia Sentry software late last month, saying it could have prevented incidents such as OpenAI's (OPAI.PVT) AI hacking of Hugging Face.\nRead more: FTC reportedly looking into whether OpenAI, Anthropic violated consumer protection laws\nThe AI industry continues to deal with revelations from the summer that agents from leading AI labs broke out of their secure testing environments and reached the open internet, where they hacked various websites and services.\nAnthropic (ANTH.PVT), Google (GOOG, GOOGL), and Meta (META) also said their AI agents broke free.\nSecurity experts say the hacks were largely the result of poor security posture among the AI labs and their testing partners.\nAccording to Nvidia, the OpenShell Reference Architecture can quarantine agents attempting to go rogue and stop them in \"milliseconds.\"\nOn the robotics front, Nvidia Agile Robots has developed a reference humanoid robot that runs on its Nvidia Isaac GR00T software platform and Nvidia Jetson Thor computer.\nAgile Robotics' Agile One SN is a 4.59-foot-tall humanoid robot designed to help developers build general-purpose robot \"brains\" to complete a wide range of tasks.",
+    "text_blocks": [
+      "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin",
+      "Nvidia (NVDA) is expanding its efforts to prevent AI agents from going rogue and teaming up with Agile Robots on a new humanoid robot reference design.",
+      "The company revealed its OpenShell Reference Architecture at its GTC Berlin event in Germany on Wednesday, saying that it will allow customers to build, contain, and observe AI agents.",
+      "Reference architecture is a basic design for a server or other platform that customers and partners can customize for their own needs.",
+      "The setup allows customers to run AI models on Nvidia's Vera Rubin system, with the agent software running on the company's Vera CPUs, and Nvidia's BlueField-4 data processing units acting as security guards that block agents if they attempt unauthorized actions.",
+      "The company says it's working with the likes of CoreWeave (CRWV), Crusoe (CUES.PVT), Lambda (LAMD.PVT), Nebius (NBIS), Oracle Cloud Infrastructure (ORCL), and others to roll out the reference architecture.",
+      "\"AI capability and safety must advance together. As enterprises prepare to deploy billions of AI agents, safety and control must be built into the computing architecture,\" Nvidia CEO Jensen Huang said in a statement.",
+      "\"Nvidia created OpenShell to give agents the freedom to do useful work within clearly defined boundaries — contained, monitored, and under control,\" he said. \"With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField.\"",
+      "Nvidia debuted its OpenShell and Nvidia Sentry software late last month, saying it could have prevented incidents such as OpenAI's (OPAI.PVT) AI hacking of Hugging Face.",
+      "Read more: FTC reportedly looking into whether OpenAI, Anthropic violated consumer protection laws",
+      "The AI industry continues to deal with revelations from the summer that agents from leading AI labs broke out of their secure testing environments and reached the open internet, where they hacked various websites and services.",
+      "Anthropic (ANTH.PVT), Google (GOOG, GOOGL), and Meta (META) also said their AI agents broke free.",
+      "Security experts say the hacks were largely the result of poor security posture among the AI labs and their testing partners.",
+      "According to Nvidia, the OpenShell Reference Architecture can quarantine agents attempting to go rogue and stop them in \"milliseconds.\"",
+      "On the robotics front, Nvidia Agile Robots has developed a reference humanoid robot that runs on its Nvidia Isaac GR00T software platform and Nvidia Jetson Thor computer.",
+      "Agile Robotics' Agile One SN is a 4.59-foot-tall humanoid robot designed to help developers build general-purpose robot \"brains\" to complete a wide range of tasks."
+    ],
+    "html": null
+  }
+}

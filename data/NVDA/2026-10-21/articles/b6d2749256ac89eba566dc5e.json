@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/iren-stock-rises-ai-cloud-130005181.html",
+    "fetched_at": "2026-10-21T07:00:38.367018-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nIREN shares surged over 4% in premarket trading Wednesday after the AI cloud provider said it plans to offer managed AI cloud services from a planned campus in Badajoz, Spain.\n-\nThe company made the announcement during its GTC Berlin conference and also launched IREN Europe.\n-\nDemand for sovereign AI services is growing as European customers grow more concerned about where their data is stored, Co-CEO Daniel Roberts said.\nIREN shares (IREN) edged higher in early morning trading on Wednesday after the company said it is betting on European companies that want to run their artificial intelligence (AI) closer to home. The AI cloud provider said it plans to offer managed AI cloud services from a planned campus in Badajoz, Spain, with initial operations targeted for 2028.\nIREN made the announcement at NVIDIA's GTC Berlin conference, adding it had set up IREN Europe, a holding company for its business in the region, and had obtained the civil works license for the Spanish site, which the firm originally announced in May.\nIREN stock was up over 4% in pre-market trading, erasing its previous-day loss. On Stocktwits, retail sentiment around IREN remained in the 'extremely bullish' zone, accompanied by 'high' chatter levels over the past day.\nIREN Targets Europe's Sovereign AI Demand\nSovereign AI means local control of data and compute. Customers in Europe care about \"where their data sits and who's running the infrastructure,\" said Co-CEO Daniel Roberts.\nIREN intends to merge the Badajoz capacity with Mirantis' software, which it purchased earlier this year. That includes Mirantis' k0rdent AI platform, which can deploy and manage AI infrastructure while keeping customer workloads separate, the company said. It also allows customers to choose where data is stored and how it is secured, IREN said. According to an earlier release from the company, IREN announced Aug. 4 that it had closed the deal with Mirantis.\nInside The Badajoz Campus\nThe campus is expected to have about 300 megawatts (MW) of capacity, IREN said. The company has already secured grid power for the site. It said it continues to hold close discussions with local, regional and national authorities as the project develops.\nThe company stated the site will use closed-loop liquid cooling, which uses very little water. IREN is also making the site compatible to work with NVIDIA's DSX AI Factory Platform.",
+    "text_blocks": [
+      "-",
+      "IREN shares surged over 4% in premarket trading Wednesday after the AI cloud provider said it plans to offer managed AI cloud services from a planned campus in Badajoz, Spain.",
+      "-",
+      "The company made the announcement during its GTC Berlin conference and also launched IREN Europe.",
+      "-",
+      "Demand for sovereign AI services is growing as European customers grow more concerned about where their data is stored, Co-CEO Daniel Roberts said.",
+      "IREN shares (IREN) edged higher in early morning trading on Wednesday after the company said it is betting on European companies that want to run their artificial intelligence (AI) closer to home. The AI cloud provider said it plans to offer managed AI cloud services from a planned campus in Badajoz, Spain, with initial operations targeted for 2028.",
+      "IREN made the announcement at NVIDIA's GTC Berlin conference, adding it had set up IREN Europe, a holding company for its business in the region, and had obtained the civil works license for the Spanish site, which the firm originally announced in May.",
+      "IREN stock was up over 4% in pre-market trading, erasing its previous-day loss. On Stocktwits, retail sentiment around IREN remained in the 'extremely bullish' zone, accompanied by 'high' chatter levels over the past day.",
+      "IREN Targets Europe's Sovereign AI Demand",
+      "Sovereign AI means local control of data and compute. Customers in Europe care about \"where their data sits and who's running the infrastructure,\" said Co-CEO Daniel Roberts.",
+      "IREN intends to merge the Badajoz capacity with Mirantis' software, which it purchased earlier this year. That includes Mirantis' k0rdent AI platform, which can deploy and manage AI infrastructure while keeping customer workloads separate, the company said. It also allows customers to choose where data is stored and how it is secured, IREN said. According to an earlier release from the company, IREN announced Aug. 4 that it had closed the deal with Mirantis.",
+      "Inside The Badajoz Campus",
+      "The campus is expected to have about 300 megawatts (MW) of capacity, IREN said. The company has already secured grid power for the site. It said it continues to hold close discussions with local, regional and national authorities as the project develops.",
+      "The company stated the site will use closed-loop liquid cooling, which uses very little water. IREN is also making the site compatible to work with NVIDIA's DSX AI Factory Platform."
+    ],
+    "html": null
+  }
+}

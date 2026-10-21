@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-movers-59e2ce07?mod=bar_FV",
+    "fetched_at": "2026-10-21T07:00:13.067872-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX, Tesla, Meta, Nvidia, Netflix, AT&T, Super Micro, and More Stocks That Explain Today’s Market<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "SpaceX, Tesla, Meta, Nvidia, Netflix, AT&T, Super Micro, and More Stocks That Explain Today’s Market\nStock futures rose Wednesday as investors awaited high-stakes reports from Meta Platforms and Tesla, following a series of strong corporate earnings.",
+    "text_blocks": [
+      "SpaceX, Tesla, Meta, Nvidia, Netflix, AT&T, Super Micro, and More Stocks That Explain Today’s Market",
+      "Stock futures rose Wednesday as investors awaited high-stakes reports from Meta Platforms and Tesla, following a series of strong corporate earnings."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-fell-nearly-141122591.html",
+    "fetched_at": "2026-10-21T07:00:46.986368-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks Fell Nearly 8% a Day After Citi Raised Its Target to $440. Here’s Where the Stock Could Go by 2031",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Stats for Palo Alto Networks Stock\n-\nCurrent Price: $342.00\n-\nTarget Price (Mid): ~$445\n-\nStreet Target: ~$399\n-\nPotential Total Return: ~30%\n-\nAnnualized IRR: ~6% / year\nWhat Happened?\nPalo Alto Networks (PANW) closed at $342.00 on Friday, October 16, down 7.63%. That came one session after Citi raised its price target to $440 from $410 and kept a Buy rating, citing improving cybersecurity spending. No single catalyst was reported for Friday's drop, which capped a week in which an OpenAI acquisition report raised the risk that AI labs compete for those budgets.\nShares closed 18.55% below their October 6 closing high of $419.91, though still about 86% above their 2025 close of $184.20. That puts the fiscal 2027 outlook in Palo Alto's investor relations materials under pressure to hold up.\nAn OpenAI Report and a Firewall Flaw in the Same Week\nSecurity peers fell with Palo Alto on Friday: CrowdStrike (CRWD) dropped 7.02%, and Fortinet (FTNT) fell 7.03%.\nTwo sessions earlier, on Wednesday, October 14, Palo Alto fell 5.54%, and the First Trust NASDAQ Cybersecurity ETF lost 3.47%. That was a day after The Information reported that OpenAI was in early talks to buy security firm Trail of Bits. Those are reported talks with no price, not a signed deal.\nPalo Alto also disclosed an actively exploited PAN-OS flaw, CVE-2026-0322, on October 14, and CISA gave federal agencies until October 17 to patch it. The company described exploitation as very limited and requiring credentials and management-interface access. Cloud NGFW and Prisma Access are not affected. It follows another exploited PAN-OS flaw in May.\nArora's $40 Endpoint Math\nChairman and CEO Nikesh Arora laid out the counterargument a month before the OpenAI report, at Goldman Sachs' Communacopia conference on September 10. He put the average industry price at \"probably $30 to $40 an endpoint.\" He suspected a frontier LLM inspecting the roughly 160 megabytes crossing a laptop each day would cost \"more than $40 a year.\" His conclusion: \"LLMs do not sit in enforcement points.\"\nThat separates finding flaws from blocking attacks. Trail of Bits finds flaws in code, work Arora concedes AI does well, though he added, \"It finds 80% mainstream, but it doesn't understand the intent of the code.\"\nHe also argued that companies historically secure one vendor's technology with a different vendor's product. His expectation: \"we probably become consumers of frontier LLMs.\"\nThe selloff cut Palo Alto's forward normalized P/E to around 82 times, from around 95 times on September 30. That compares with around 48 times for Fortinet and around 161 times for CrowdStrike.",
+    "text_blocks": [
+      "Key Stats for Palo Alto Networks Stock",
+      "-",
+      "Current Price: $342.00",
+      "-",
+      "Target Price (Mid): ~$445",
+      "-",
+      "Street Target: ~$399",
+      "-",
+      "Potential Total Return: ~30%",
+      "-",
+      "Annualized IRR: ~6% / year",
+      "What Happened?",
+      "Palo Alto Networks (PANW) closed at $342.00 on Friday, October 16, down 7.63%. That came one session after Citi raised its price target to $440 from $410 and kept a Buy rating, citing improving cybersecurity spending. No single catalyst was reported for Friday's drop, which capped a week in which an OpenAI acquisition report raised the risk that AI labs compete for those budgets.",
+      "Shares closed 18.55% below their October 6 closing high of $419.91, though still about 86% above their 2025 close of $184.20. That puts the fiscal 2027 outlook in Palo Alto's investor relations materials under pressure to hold up.",
+      "An OpenAI Report and a Firewall Flaw in the Same Week",
+      "Security peers fell with Palo Alto on Friday: CrowdStrike (CRWD) dropped 7.02%, and Fortinet (FTNT) fell 7.03%.",
+      "Two sessions earlier, on Wednesday, October 14, Palo Alto fell 5.54%, and the First Trust NASDAQ Cybersecurity ETF lost 3.47%. That was a day after The Information reported that OpenAI was in early talks to buy security firm Trail of Bits. Those are reported talks with no price, not a signed deal.",
+      "Palo Alto also disclosed an actively exploited PAN-OS flaw, CVE-2026-0322, on October 14, and CISA gave federal agencies until October 17 to patch it. The company described exploitation as very limited and requiring credentials and management-interface access. Cloud NGFW and Prisma Access are not affected. It follows another exploited PAN-OS flaw in May.",
+      "Arora's $40 Endpoint Math",
+      "Chairman and CEO Nikesh Arora laid out the counterargument a month before the OpenAI report, at Goldman Sachs' Communacopia conference on September 10. He put the average industry price at \"probably $30 to $40 an endpoint.\" He suspected a frontier LLM inspecting the roughly 160 megabytes crossing a laptop each day would cost \"more than $40 a year.\" His conclusion: \"LLMs do not sit in enforcement points.\"",
+      "That separates finding flaws from blocking attacks. Trail of Bits finds flaws in code, work Arora concedes AI does well, though he added, \"It finds 80% mainstream, but it doesn't understand the intent of the code.\"",
+      "He also argued that companies historically secure one vendor's technology with a different vendor's product. His expectation: \"we probably become consumers of frontier LLMs.\"",
+      "The selloff cut Palo Alto's forward normalized P/E to around 82 times, from around 95 times on September 30. That compares with around 48 times for Fortinet and around 161 times for CrowdStrike."
+    ],
+    "html": null
+  }
+}
