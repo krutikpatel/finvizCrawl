@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-price-triple-analyst-5e50d2a5?mod=bar_FV",
+    "fetched_at": "2026-10-22T07:00:14.140061-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock Falls but Stock Price Could Triple Says Analyst<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Stock Falls But Don’t Worry, It Will Triple From Here Says Analyst\nMicron stock was falling on Thursday alongside much of the chip and AI space. It may be an entrance opportunity for the stock, which an analyst at D.A. Davidson sees more than tripling in price from this point.",
+    "text_blocks": [
+      "Micron Stock Falls But Don’t Worry, It Will Triple From Here Says Analyst",
+      "Micron stock was falling on Thursday alongside much of the chip and AI space. It may be an entrance opportunity for the stock, which an analyst at D.A. Davidson sees more than tripling in price from this point."
+    ],
+    "html": null
+  }
+}

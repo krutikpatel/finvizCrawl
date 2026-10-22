@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-over-600-billion-compute-185525140.html",
+    "fetched_at": "2026-10-22T07:00:27.323902-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic Has Over $600 Billion in Compute Contracts — And It's Not Enough",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nAnthropic PBC has signed up for more than $600 billion in long-term computing capacity, and its own draft IPO prospectus says the company still cannot get as much as it wants.\n-\nMSFT stock is moving with the AI trade. Get all of the details here.\nThe numbers surfaced in a draft filing reviewed by the Wall Street Journal. The draft prospectus details planned payments of $111 billion to Alphabet Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG), $110 billion to Amazon.com (NASDAQ:AMZN) and $31 billion to Microsoft Corp. (NASDAQ:MSFT) even if the company does not use all the computing capacity covered by those agreements.\nThe hyperscalers are only part of the picture. Anthropic could pay as much as $86 billion to rent Nvidia-powered computing resources from providers Nscale and Lambda under agreements running through 2033 and 2034, respectively. Both providers deploy chips from Nvidia Corp. (NASDAQ:NVDA).\nThe long-term infrastructure tab could surpass $600 billion once obligations under a Google chip-leasing arrangement involving Broadcom Inc. (NASDAQ:AVGO), with Broadcom tied to more than $160 billion in leased Google chips.\nWhere the Filing Admits the Gap\nThe shortfall shows up in the prospectus risk disclosures. Anthropic warned that access to computing capacity remains uncertain, saying it has sought more capacity than some major cloud partners were willing to provide as they increasingly view Anthropic as a competitor.\nRead plainly, the companies collecting the largest checks from Anthropic are also rationing supply to it. Google, Amazon and Microsoft each sell rival AI models or back competing labs.\nAnthropic is also discussing additional agreements that could push its total commitments up by as much as $150 billion. If those deals are completed, the total could reach about $750 billion.\nRead Also:Ken Griffin Calls AI a Bubble After Citadel Bought the Dip\nSpending Already Running Hot\nThe red-hot demand for AI explains the urgency. Anthropic generated about $16.3 billion in revenue in the six months ended June 30, up from $1.1 billion a year earlier, while spending on computing capacity and infrastructure climbed to nearly $9 billion, compared with $2.3 billion in the first half of 2025.\nThe six-month total exceeded the $7.3 billion Anthropic spent on computing and infrastructure throughout 2025.\nThe losses look severe on paper. The vast majority of its $80.7 billion first-half loss, $72 billion, stemmed from accounting charges tied to changes in the value of convertible notes and other financial instruments issued to raise capital.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Anthropic PBC has signed up for more than $600 billion in long-term computing capacity, and its own draft IPO prospectus says the company still cannot get as much as it wants.",
+      "-",
+      "MSFT stock is moving with the AI trade. Get all of the details here.",
+      "The numbers surfaced in a draft filing reviewed by the Wall Street Journal. The draft prospectus details planned payments of $111 billion to Alphabet Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG), $110 billion to Amazon.com (NASDAQ:AMZN) and $31 billion to Microsoft Corp. (NASDAQ:MSFT) even if the company does not use all the computing capacity covered by those agreements.",
+      "The hyperscalers are only part of the picture. Anthropic could pay as much as $86 billion to rent Nvidia-powered computing resources from providers Nscale and Lambda under agreements running through 2033 and 2034, respectively. Both providers deploy chips from Nvidia Corp. (NASDAQ:NVDA).",
+      "The long-term infrastructure tab could surpass $600 billion once obligations under a Google chip-leasing arrangement involving Broadcom Inc. (NASDAQ:AVGO), with Broadcom tied to more than $160 billion in leased Google chips.",
+      "Where the Filing Admits the Gap",
+      "The shortfall shows up in the prospectus risk disclosures. Anthropic warned that access to computing capacity remains uncertain, saying it has sought more capacity than some major cloud partners were willing to provide as they increasingly view Anthropic as a competitor.",
+      "Read plainly, the companies collecting the largest checks from Anthropic are also rationing supply to it. Google, Amazon and Microsoft each sell rival AI models or back competing labs.",
+      "Anthropic is also discussing additional agreements that could push its total commitments up by as much as $150 billion. If those deals are completed, the total could reach about $750 billion.",
+      "Read Also:Ken Griffin Calls AI a Bubble After Citadel Bought the Dip",
+      "Spending Already Running Hot",
+      "The red-hot demand for AI explains the urgency. Anthropic generated about $16.3 billion in revenue in the six months ended June 30, up from $1.1 billion a year earlier, while spending on computing capacity and infrastructure climbed to nearly $9 billion, compared with $2.3 billion in the first half of 2025.",
+      "The six-month total exceeded the $7.3 billion Anthropic spent on computing and infrastructure throughout 2025.",
+      "The losses look severe on paper. The vast majority of its $80.7 billion first-half loss, $72 billion, stemmed from accounting charges tied to changes in the value of convertible notes and other financial instruments issued to raise capital."
+    ],
+    "html": null
+  }
+}

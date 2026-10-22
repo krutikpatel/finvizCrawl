@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/arm-qcom-lawsuit-delaware-jury-195949252.html",
+    "fetched_at": "2026-10-22T07:00:45.264148-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "ARM-QCOM Lawsuit: Delaware Jury Delivers Verdict In High-Stakes Qualcomm-ARM Licensing Battle",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nThe jury determined that Arm breached its architectural agreement with Qualcomm by withholding software tools and disrupting business dealings.\n-\nArm secured favorable rulings on four claims but received only $2 in nominal damages for the remaining two.\n-\nThe ruling secures Qualcomm's custom Oryon CPU roadmap as Arm increasingly moves to compete directly in processor hardware.\nA federal jury in Delaware has reached a verdict in the multi-pronged legal dispute between Qualcomm Inc. (QCOM) and Arm Holdings (ARM), concluding a trial that directly touched upon semiconductor intellectual property licensing.\nThe verdict gave both technology leaders grounds to claim victory. The jury found that Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm by failing to uphold contractual commitments, withholding crucial software tools, and interfering with Qualcomm's ongoing commercial operations.\n\"We are gratified that the jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm, failed to honor its commitments, and intentionally acted to disrupt Qualcomm's businesses,\" Qualcomm wrote. \"Together with Qualcomm's prior court victory, this outcome further exposes Arm's broader intentions to harm Qualcomm and its ecosystem.\"\nConversely, Arm said the jury ruled in its favor on four distinct claims. \"We are pleased with the jury's decision today finding for Arm on four claims and awarding only one dollar in damages on each of Qualcomm's other two claims,\" ARM said. \"Despite Qualcomm's pursuit of this case in an attempt to deprive Arm of billions of dollars under our license agreements, the jury's verdict confirms that Arm operated in good faith under its technology license agreement.\"\nARM stock fell 0.3%, while QCOM stock added nearly 2%\nCourtroom Claims And Disputed Commitments\nThe latest trial focused on Qualcomm's allegations about Arm's business practices. Qualcomm argued that Arm withheld vital software tools, violated pricing commitments, and improperly released a breach-of-contract notification letter. Qualcomm asserted that the disclosure damaged high-stakes commercial negotiations with Meta Platforms (META) over a potential semiconductor partnership.\nArm denied all allegations of wrongdoing, arguing throughout the proceedings that Qualcomm suffered no tangible commercial harm and that Arm acted within its contractual duties.",
+    "text_blocks": [
+      "-",
+      "The jury determined that Arm breached its architectural agreement with Qualcomm by withholding software tools and disrupting business dealings.",
+      "-",
+      "Arm secured favorable rulings on four claims but received only $2 in nominal damages for the remaining two.",
+      "-",
+      "The ruling secures Qualcomm's custom Oryon CPU roadmap as Arm increasingly moves to compete directly in processor hardware.",
+      "A federal jury in Delaware has reached a verdict in the multi-pronged legal dispute between Qualcomm Inc. (QCOM) and Arm Holdings (ARM), concluding a trial that directly touched upon semiconductor intellectual property licensing.",
+      "The verdict gave both technology leaders grounds to claim victory. The jury found that Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm by failing to uphold contractual commitments, withholding crucial software tools, and interfering with Qualcomm's ongoing commercial operations.",
+      "\"We are gratified that the jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm, failed to honor its commitments, and intentionally acted to disrupt Qualcomm's businesses,\" Qualcomm wrote. \"Together with Qualcomm's prior court victory, this outcome further exposes Arm's broader intentions to harm Qualcomm and its ecosystem.\"",
+      "Conversely, Arm said the jury ruled in its favor on four distinct claims. \"We are pleased with the jury's decision today finding for Arm on four claims and awarding only one dollar in damages on each of Qualcomm's other two claims,\" ARM said. \"Despite Qualcomm's pursuit of this case in an attempt to deprive Arm of billions of dollars under our license agreements, the jury's verdict confirms that Arm operated in good faith under its technology license agreement.\"",
+      "ARM stock fell 0.3%, while QCOM stock added nearly 2%",
+      "Courtroom Claims And Disputed Commitments",
+      "The latest trial focused on Qualcomm's allegations about Arm's business practices. Qualcomm argued that Arm withheld vital software tools, violated pricing commitments, and improperly released a breach-of-contract notification letter. Qualcomm asserted that the disclosure damaged high-stakes commercial negotiations with Meta Platforms (META) over a potential semiconductor partnership.",
+      "Arm denied all allegations of wrongdoing, arguing throughout the proceedings that Qualcomm suffered no tangible commercial harm and that Arm acted within its contractual duties."
+    ],
+    "html": null
+  }
+}

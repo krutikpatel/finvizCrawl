@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-lead-rout-us-025325296.html",
+    "fetched_at": "2026-10-22T07:00:48.288026-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US stocks end higher as AI shares stabilize",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street stocks bounced back from a shaky start after disappointing inflation data on Thursday, while pressure on artificial intelligence shares moderated somewhat following a battering of Asian tech shares.\nUS equities sold off early in day following a drubbing in Asia that saw Seoul's Kospi dive more than eight percent -- leading to a brief trading halt -- before slightly paring the losses.\nJapan's Nikkei sank nearly five percent as unease over tech names following the Nasdaq's nearly two-percent fall on Wednesday. Analysts had cited worries over the risk surrounding some massive AI investments had prompted the selling.\nFigures released on Thursday showed US wholesale inflation surged past analysts' expectations in September -- a 6.3-percent increase from one year ago -- marking its biggest year-on-year jump since 2022 as petrol prices rocketed due to the war with Iran.\nBut analysts said equities received some support from a pullback in US Treasury bonds despite hot inflation readings this week.\nThe retreat in yields suggests investors see \"a good opportunity to take some money out of equity and rebalance it into fixed income,\" said Tom Cahill of Ventura Wealth Management.\nTech investors were also cheered by comments from Nvidia CEO Jensen Huang expressing optimism about CoreWeave's prospects after the data center operator faced heavy selling on Wednesday.\nAfter dropping more than 15 percent, CoreWeave rose six percent Thursday, an increase that also gave support to semiconductor shares.\nThe Philadelphia semiconductor index finished down, but well above its session low.\nThe Nasdaq finished narrowly positive, while the Dow rose 1.1 percent, a sign investors are rotating to industrial sectors rather than technology.\nIn other markets, the dollar fell while US oil prices rose more than three percent following a big drop in US commercial inventories.\nBut Brent futures, the international crude contract, fell slightly. The difference in reactions is partly due to the quicker contract expiration for the US contract, which makes its more vulnerable to immediate geopolitical risks stemming from the Middle East war.\n- Key figures at around 2020 GMT -\nNew York - Dow: UP 1.1 percent at 52,177.69 (close)\nNew York - S&P 500: UP 0.3 percent at 7,744.06 (close)\nNew York - Nasdaq Composite: UP 0.1 percent at 26,713.03 (close)\nLondon - FTSE 100: UP 1.1 percent at 10,840.35 (close)\nParis - CAC 40: UP 0.8 percent at 7,934.70 (close)\nFrankfurt - DAX: UP 0.3 percent at 25,382.62 (close)\nSeoul - Kospi: DOWN 7.6 percent to 5,554.22 (close)",
+    "text_blocks": [
+      "Wall Street stocks bounced back from a shaky start after disappointing inflation data on Thursday, while pressure on artificial intelligence shares moderated somewhat following a battering of Asian tech shares.",
+      "US equities sold off early in day following a drubbing in Asia that saw Seoul's Kospi dive more than eight percent -- leading to a brief trading halt -- before slightly paring the losses.",
+      "Japan's Nikkei sank nearly five percent as unease over tech names following the Nasdaq's nearly two-percent fall on Wednesday. Analysts had cited worries over the risk surrounding some massive AI investments had prompted the selling.",
+      "Figures released on Thursday showed US wholesale inflation surged past analysts' expectations in September -- a 6.3-percent increase from one year ago -- marking its biggest year-on-year jump since 2022 as petrol prices rocketed due to the war with Iran.",
+      "But analysts said equities received some support from a pullback in US Treasury bonds despite hot inflation readings this week.",
+      "The retreat in yields suggests investors see \"a good opportunity to take some money out of equity and rebalance it into fixed income,\" said Tom Cahill of Ventura Wealth Management.",
+      "Tech investors were also cheered by comments from Nvidia CEO Jensen Huang expressing optimism about CoreWeave's prospects after the data center operator faced heavy selling on Wednesday.",
+      "After dropping more than 15 percent, CoreWeave rose six percent Thursday, an increase that also gave support to semiconductor shares.",
+      "The Philadelphia semiconductor index finished down, but well above its session low.",
+      "The Nasdaq finished narrowly positive, while the Dow rose 1.1 percent, a sign investors are rotating to industrial sectors rather than technology.",
+      "In other markets, the dollar fell while US oil prices rose more than three percent following a big drop in US commercial inventories.",
+      "But Brent futures, the international crude contract, fell slightly. The difference in reactions is partly due to the quicker contract expiration for the US contract, which makes its more vulnerable to immediate geopolitical risks stemming from the Middle East war.",
+      "- Key figures at around 2020 GMT -",
+      "New York - Dow: UP 1.1 percent at 52,177.69 (close)",
+      "New York - S&P 500: UP 0.3 percent at 7,744.06 (close)",
+      "New York - Nasdaq Composite: UP 0.1 percent at 26,713.03 (close)",
+      "London - FTSE 100: UP 1.1 percent at 10,840.35 (close)",
+      "Paris - CAC 40: UP 0.8 percent at 7,934.70 (close)",
+      "Frankfurt - DAX: UP 0.3 percent at 25,382.62 (close)",
+      "Seoul - Kospi: DOWN 7.6 percent to 5,554.22 (close)"
+    ],
+    "html": null
+  }
+}

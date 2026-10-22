@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/avgo-stock-edges-overnight-10-030822254.html",
+    "fetched_at": "2026-10-22T07:00:29.945308-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO’s AI ‘Casino’ Remarks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nBroadcom announced a 10-year VMware agreement with NTT Docomo.\n-\nThe agreement covers software licenses, technical assistance and maintenance support.\n-\nThe deal also supports AI workloads and preparations for tech, including 6G.\nShares of Broadcom, Inc. (AVGO) reversed overnight losses to edge up 0.3% late Monday as a 10-year cloud agreement with NTT Docomo did little to ease retail skepticism, with traders seeking a recovery catalyst after CEO Hock Tan's AI \"casino\" remarks.\nAVGO stock rose nearly 2% on Monday to close at $334.59, snapping three straight sessions of losses.\nBroadcom Secures 10-Year VMware Deal In Japan\nBroadcom extended its 2019 deal with Docomo, in which the companies will align their long-term tech roadmaps to advance the private cloud underpinning the Japanese telecom operator's digital services. The company called it Broadcom Japan's first \"comprehensive\" 10-year agreement covering VMware software licenses, technical assistance and maintenance support. Financial terms were not disclosed.\nVMware Cloud Foundation will be at the core of the infrastructure. The deal targets three priorities: keeping services available during system upgrades, strengthening security and resilience, and accelerating the delivery of new services.\nDocomo will use the platform to expand capacity and manage traffic spikes, improve security patching and anomaly detection, and run virtual machines and containers on a common platform. Automation across development, testing and releases will help shorten the time needed to introduce new features. The companies also plan to expand AI-driven operations and prepare the infrastructure for future developments, including 6G and IOWN.\nCEO's 'Casino' Warning Keeps AI Risks In View\nThe agreement comes a week after Tan's comments at a Singapore panel, where he called capital the biggest constraint on further AI development as Broadcom works through wafer and memory shortages.\n\"A lot of investors have no clue what they're investing in, but set very extreme expectations, only to find out that it's almost like they are in a casino gambling,\" Tan said when asked about cheaper AI models, Reuters noted. His remarks addressed investment into the broader AI sector. Tan also acknowledged that Anthropic and OpenAI had shown an ability to generate significant revenue from their latest models deployed for AI personal assistants.",
+    "text_blocks": [
+      "-",
+      "Broadcom announced a 10-year VMware agreement with NTT Docomo.",
+      "-",
+      "The agreement covers software licenses, technical assistance and maintenance support.",
+      "-",
+      "The deal also supports AI workloads and preparations for tech, including 6G.",
+      "Shares of Broadcom, Inc. (AVGO) reversed overnight losses to edge up 0.3% late Monday as a 10-year cloud agreement with NTT Docomo did little to ease retail skepticism, with traders seeking a recovery catalyst after CEO Hock Tan's AI \"casino\" remarks.",
+      "AVGO stock rose nearly 2% on Monday to close at $334.59, snapping three straight sessions of losses.",
+      "Broadcom Secures 10-Year VMware Deal In Japan",
+      "Broadcom extended its 2019 deal with Docomo, in which the companies will align their long-term tech roadmaps to advance the private cloud underpinning the Japanese telecom operator's digital services. The company called it Broadcom Japan's first \"comprehensive\" 10-year agreement covering VMware software licenses, technical assistance and maintenance support. Financial terms were not disclosed.",
+      "VMware Cloud Foundation will be at the core of the infrastructure. The deal targets three priorities: keeping services available during system upgrades, strengthening security and resilience, and accelerating the delivery of new services.",
+      "Docomo will use the platform to expand capacity and manage traffic spikes, improve security patching and anomaly detection, and run virtual machines and containers on a common platform. Automation across development, testing and releases will help shorten the time needed to introduce new features. The companies also plan to expand AI-driven operations and prepare the infrastructure for future developments, including 6G and IOWN.",
+      "CEO's 'Casino' Warning Keeps AI Risks In View",
+      "The agreement comes a week after Tan's comments at a Singapore panel, where he called capital the biggest constraint on further AI development as Broadcom works through wafer and memory shortages.",
+      "\"A lot of investors have no clue what they're investing in, but set very extreme expectations, only to find out that it's almost like they are in a casino gambling,\" Tan said when asked about cheaper AI models, Reuters noted. His remarks addressed investment into the broader AI sector. Tan also acknowledged that Anthropic and OpenAI had shown an ability to generate significant revenue from their latest models deployed for AI personal assistants."
+    ],
+    "html": null
+  }
+}

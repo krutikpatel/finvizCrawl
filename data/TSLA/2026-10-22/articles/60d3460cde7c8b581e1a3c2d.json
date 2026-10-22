@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-lower-ai-133542178.html",
+    "fetched_at": "2026-10-22T07:00:04.702704-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St opens lower as AI jitters return, oil rises",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct 22 (Reuters) - Wall Street's main indexes opened lower on Thursday as growth stocks came under renewed pressure after earnings from mega-caps Tesla and Meta did little to dispel doubts about AI outlook, while a rebound in oil prices added to market jitters.\nThe Dow Jones Industrial Average fell 67.7 points, or 0.13%, to 52,788.41 at the open. The S&P 500 fell 62.6 points, or 0.81%, to 7,694.62, while the Nasdaq Composite dropped 394.5 points, or 1.48%, to 26,308.407.\n(Reporting by Ragini Mathur in Bengaluru; Editing by Shilpi Majumdar)",
+    "text_blocks": [
+      "Oct 22 (Reuters) - Wall Street's main indexes opened lower on Thursday as growth stocks came under renewed pressure after earnings from mega-caps Tesla and Meta did little to dispel doubts about AI outlook, while a rebound in oil prices added to market jitters.",
+      "The Dow Jones Industrial Average fell 67.7 points, or 0.13%, to 52,788.41 at the open. The S&P 500 fell 62.6 points, or 0.81%, to 7,694.62, while the Nasdaq Composite dropped 394.5 points, or 1.48%, to 26,308.407.",
+      "(Reporting by Ragini Mathur in Bengaluru; Editing by Shilpi Majumdar)"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026/card/here-are-the-stocks-taking-a-beating-premarket-AeTG9ubWSYnWdkgQAx0G?mod=wsj_FV",
+    "fetched_at": "2026-10-22T07:00:48.153780-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Here Are the Tech Stocks Taking a Beating Today",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Last Updated:\nUpdated Oct. 15, 2026 10:11am ET\nHere Are the Tech Stocks Taking a Beating Today\nInvestors don't seem reassured by the latest signs--from Anthropic and chip giant TSMC--that demand for AI remains solid.\nHere are some of the names being hit hard:\n-Memory makers like Sandisk and Micron",
+    "text_blocks": [
+      "Last Updated:",
+      "Updated Oct. 15, 2026 10:11am ET",
+      "Here Are the Tech Stocks Taking a Beating Today",
+      "Investors don't seem reassured by the latest signs--from Anthropic and chip giant TSMC--that demand for AI remains solid.",
+      "Here are some of the names being hit hard:",
+      "-Memory makers like Sandisk and Micron"
+    ],
+    "html": null
+  }
+}

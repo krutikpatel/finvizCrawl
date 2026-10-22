@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-moving-deeper-intel-amd-102313105.html",
+    "fetched_at": "2026-10-22T07:00:40.217259-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Is Moving Deeper Into Intel, AMD Territory: Supermicro Rolls Out 256-CPU Vera Rack",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nSMCI said the rack delivers 22,528 CPU cores and 45,056 threads, with support for up to 22,500 concurrent agent sandboxes.\n-\nIt added that Nvidia's BlueField-4 DPUs and OpenShell and Sentry software would provide networking, security and controls for AI agent activity.\n-\nNvidia is entering a server CPU market historically dominated by Intel's Xeon and AMD's EPYC, while AI demand is increasing the need for CPU capacity.\nSuper Micro Computer (SMCI) announced Thursday a rack built around Nvidia's Vera CPUs, adding a dedicated CPU system for agentic AI workloads alongside Nvidia's existing Vera Rubin GPU platform.\nThis gives Nvidia's Arm-based server chip a product aimed at the same data center workloads Intel's (INTC) Xeon and Advanced Micro's (AMD) EPYC have long served.\nSee what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox\nThe company said its 256-CPU rack is fully liquid-cooled and can be deployed on its own or alongside Nvidia's Vera Rubin NVL72 systems. SMCI also noted that it's aimed at agentic AI, in which software can plan and execute tasks with limited human intervention.\nSMCI stock fell as much as 4.5% in pre-market trade. On Stocktwits, retail sentiment around the company remained in 'bullish' territory. Meanwhile, NVDA stock dropped around 2.5% in the broader market sell-off after a strong bounce yesterday, with sentiment shifting to 'neutral' from 'bullish' over the past day.\nSupermicro's Vera Rack Targets High-Density AI Workloads\nSMCI's new rack packs 22,528 cores and 45,056 threads, supporting up to 22,500 concurrent agent sandboxes. Sandboxes are isolated computing environments where AI agents can run code, use tools and execute tasks.\nThe system also incorporates Nvidia's BlueField-4 data processing units (DPUs) for networking and security. Supermicro said the rack is available to quote now, while its Vera Rubin NVL72 systems are already shipping.\n\"As enterprises scale agentic AI and reinforcement learning, supporting thousands of concurrent agent workflows requires a new class of high-density CPU infrastructure,\" said Chris Marriott, vice president of enterprise platforms at Nvidia.\nThe rack also supports Nvidia's OpenShell software, which applies policy-based controls to limit what AI agents can access. Nvidia's Sentry software runs on the BlueField-4 DPUs, monitoring agent activity outside the host CPU and allowing operators to quarantine agents that breach their permissions in milliseconds, according to the release.\nNvidia Takes On Intel And AMD In The Server CPU Market\nServer CPUs have long been dominated by Intel and AMD. Intel's Xeon once held the majority of the data center market, but production problems and delays to a Xeon generation after 2021 helped AMD's EPYC processors gain ground.\nDemand for CPUs is also growing as AI systems take on more tasks beyond generating responses. Arm (ARM) in March estimated that CPU core requirements per gigawatt of data center capacity could quadruple. EPYC chips are reportedly sold out through 2027, with booking into 2028 and lead times exceeding 30 weeks. Both Intel and AMD raised prices on some CPUs at the end of the first quarter (Q1).\nBoth companies are expanding to meet demand. Intel's data center and AI revenue rose 59% to $6.26 billion in the second quarter (Q2), while AMD's data center revenue jumped 107% to $6.72 billion.\nMeanwhile, Nvidia is positioning Vera both as a host processor for its GPU systems and as a standalone product. The company has cited visibility into about $20 billion in CPU revenue for the current fiscal year and said Vera can run selected agentic AI workloads up to 1.8 times faster than leading x86 CPUs from Intel and AMD.\nNvidia's CPU Push Expands Its Data Center Opportunity\nNvidia introduced Vera as a standalone CPU product in March, naming CoreWeave (CRWV), Oracle (ORCL) and ByteDance among its early customers. Dell Technologies (DELL), Hewlett Packard Enterprise (HPE), Lenovo and Supermicro are among the companies offering systems built around the chips.\nThe launch follows a strong preliminary report. Supermicro said Oct. 20 that fiscal first-quarter revenue should be $18.5 billion to $19.5 billion, against guidance of $14.5 billion to $15.5 billion. The stock jumped sharply on the news. Earnings are due Nov. 3.\nThe announcement follows Supermicro's preliminary first-quarter (Q1) results forecast earlier this week. The company said it expects fiscal Q1 revenue of $18.5 billion to $19.5 billion, above its previous guidance of $14.5 billion to $15.5 billion. Supermicro is scheduled to report earnings next month.\nRead also: Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD Launch\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nPrabhjote Gill has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy. This article was originally published on StockTwits.\nRelated:",
+    "text_blocks": [
+      "-",
+      "SMCI said the rack delivers 22,528 CPU cores and 45,056 threads, with support for up to 22,500 concurrent agent sandboxes.",
+      "-",
+      "It added that Nvidia's BlueField-4 DPUs and OpenShell and Sentry software would provide networking, security and controls for AI agent activity.",
+      "-",
+      "Nvidia is entering a server CPU market historically dominated by Intel's Xeon and AMD's EPYC, while AI demand is increasing the need for CPU capacity.",
+      "Super Micro Computer (SMCI) announced Thursday a rack built around Nvidia's Vera CPUs, adding a dedicated CPU system for agentic AI workloads alongside Nvidia's existing Vera Rubin GPU platform.",
+      "This gives Nvidia's Arm-based server chip a product aimed at the same data center workloads Intel's (INTC) Xeon and Advanced Micro's (AMD) EPYC have long served.",
+      "See what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox",
+      "The company said its 256-CPU rack is fully liquid-cooled and can be deployed on its own or alongside Nvidia's Vera Rubin NVL72 systems. SMCI also noted that it's aimed at agentic AI, in which software can plan and execute tasks with limited human intervention.",
+      "SMCI stock fell as much as 4.5% in pre-market trade. On Stocktwits, retail sentiment around the company remained in 'bullish' territory. Meanwhile, NVDA stock dropped around 2.5% in the broader market sell-off after a strong bounce yesterday, with sentiment shifting to 'neutral' from 'bullish' over the past day.",
+      "Supermicro's Vera Rack Targets High-Density AI Workloads",
+      "SMCI's new rack packs 22,528 cores and 45,056 threads, supporting up to 22,500 concurrent agent sandboxes. Sandboxes are isolated computing environments where AI agents can run code, use tools and execute tasks.",
+      "The system also incorporates Nvidia's BlueField-4 data processing units (DPUs) for networking and security. Supermicro said the rack is available to quote now, while its Vera Rubin NVL72 systems are already shipping.",
+      "\"As enterprises scale agentic AI and reinforcement learning, supporting thousands of concurrent agent workflows requires a new class of high-density CPU infrastructure,\" said Chris Marriott, vice president of enterprise platforms at Nvidia.",
+      "The rack also supports Nvidia's OpenShell software, which applies policy-based controls to limit what AI agents can access. Nvidia's Sentry software runs on the BlueField-4 DPUs, monitoring agent activity outside the host CPU and allowing operators to quarantine agents that breach their permissions in milliseconds, according to the release.",
+      "Nvidia Takes On Intel And AMD In The Server CPU Market",
+      "Server CPUs have long been dominated by Intel and AMD. Intel's Xeon once held the majority of the data center market, but production problems and delays to a Xeon generation after 2021 helped AMD's EPYC processors gain ground.",
+      "Demand for CPUs is also growing as AI systems take on more tasks beyond generating responses. Arm (ARM) in March estimated that CPU core requirements per gigawatt of data center capacity could quadruple. EPYC chips are reportedly sold out through 2027, with booking into 2028 and lead times exceeding 30 weeks. Both Intel and AMD raised prices on some CPUs at the end of the first quarter (Q1).",
+      "Both companies are expanding to meet demand. Intel's data center and AI revenue rose 59% to $6.26 billion in the second quarter (Q2), while AMD's data center revenue jumped 107% to $6.72 billion.",
+      "Meanwhile, Nvidia is positioning Vera both as a host processor for its GPU systems and as a standalone product. The company has cited visibility into about $20 billion in CPU revenue for the current fiscal year and said Vera can run selected agentic AI workloads up to 1.8 times faster than leading x86 CPUs from Intel and AMD.",
+      "Nvidia's CPU Push Expands Its Data Center Opportunity",
+      "Nvidia introduced Vera as a standalone CPU product in March, naming CoreWeave (CRWV), Oracle (ORCL) and ByteDance among its early customers. Dell Technologies (DELL), Hewlett Packard Enterprise (HPE), Lenovo and Supermicro are among the companies offering systems built around the chips.",
+      "The launch follows a strong preliminary report. Supermicro said Oct. 20 that fiscal first-quarter revenue should be $18.5 billion to $19.5 billion, against guidance of $14.5 billion to $15.5 billion. The stock jumped sharply on the news. Earnings are due Nov. 3.",
+      "The announcement follows Supermicro's preliminary first-quarter (Q1) results forecast earlier this week. The company said it expects fiscal Q1 revenue of $18.5 billion to $19.5 billion, above its previous guidance of $14.5 billion to $15.5 billion. Supermicro is scheduled to report earnings next month.",
+      "Read also: Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD Launch",
+      "For updates and corrections, email newsroom[at]stocktwits[dot]com.",
+      "Prabhjote Gill has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy. This article was originally published on StockTwits.",
+      "Related:"
+    ],
+    "html": null
+  }
+}

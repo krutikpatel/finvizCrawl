@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/indian-firm-emudhra-exits-global-123540524.html",
+    "fetched_at": "2026-10-22T07:00:24.585021-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Indian firm eMudhra exits global digital certificates business after vulnerability disclosure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct 22 (Reuters) - Indian digital trust services provider eMudhra on Thursday said it would voluntarily withdraw from the global SSL/TLS certificate business, following an incident in which its digital certificates were found to have vulnerabilities.\nThe disclosure of the vulnerabilities led to internet browser majors such as Google, Mozilla, Apple and Microsoft to block digital certificates issued by eMudhra, and sparked larger concerns among cybersecurity professionals around internet security and privacy.\nSSL and TLS are protocols used to secure data sent between web browsers and servers, ensuring that private information cannot be intercepted by bad actors. eMudhra issues these certificates to digital businesses and government agencies, including for some online public services such as India's income tax portal.\nAn independent cybersecurity researcher found over the weekend that several key certificates issued by eMudhra, used to secure websites, software, and online communications, were weak and vulnerable to attack.\nOn Wednesday, India's Computer Emergency Response Team also issued an advisory saying that some of eMudhra's intermediate certificates were compromised.\nThe company, in its statement on Wednesday, said it withdrew eight certificates it had issued, and that its infrastructure was not compromised and no data was breached.\nThe level of social media amplification around the incident has brought scrutiny that is out of proportion with the significance of the vertical in the company, eMudhra said in its follow-up statement, adding that the global SSL/TLS certificate business contributes 1% of its revenue.\neMudhra's customers include Indian IT services companies Infosys and TCS.\nShares of the company fell 40% in the two days after the vulnerability was disclosed.\n(Reporting by Abhirami G in Bengaluru; Editing by Sonia Cheema and Janane Venkatraman)",
+    "text_blocks": [
+      "Oct 22 (Reuters) - Indian digital trust services provider eMudhra on Thursday said it would voluntarily withdraw from the global SSL/TLS certificate business, following an incident in which its digital certificates were found to have vulnerabilities.",
+      "The disclosure of the vulnerabilities led to internet browser majors such as Google, Mozilla, Apple and Microsoft to block digital certificates issued by eMudhra, and sparked larger concerns among cybersecurity professionals around internet security and privacy.",
+      "SSL and TLS are protocols used to secure data sent between web browsers and servers, ensuring that private information cannot be intercepted by bad actors. eMudhra issues these certificates to digital businesses and government agencies, including for some online public services such as India's income tax portal.",
+      "An independent cybersecurity researcher found over the weekend that several key certificates issued by eMudhra, used to secure websites, software, and online communications, were weak and vulnerable to attack.",
+      "On Wednesday, India's Computer Emergency Response Team also issued an advisory saying that some of eMudhra's intermediate certificates were compromised.",
+      "The company, in its statement on Wednesday, said it withdrew eight certificates it had issued, and that its infrastructure was not compromised and no data was breached.",
+      "The level of social media amplification around the incident has brought scrutiny that is out of proportion with the significance of the vertical in the company, eMudhra said in its follow-up statement, adding that the global SSL/TLS certificate business contributes 1% of its revenue.",
+      "eMudhra's customers include Indian IT services companies Infosys and TCS.",
+      "Shares of the company fell 40% in the two days after the vulnerability was disclosed.",
+      "(Reporting by Abhirami G in Bengaluru; Editing by Sonia Cheema and Janane Venkatraman)"
+    ],
+    "html": null
+  }
+}

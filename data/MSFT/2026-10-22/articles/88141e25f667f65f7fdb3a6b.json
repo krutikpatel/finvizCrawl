@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/energy/articles/ai-hyperscalers-energy-problem-160259036.html",
+    "fetched_at": "2026-10-22T07:00:27.319477-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Hyperscalers Have an Energy Problem",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "BREAKING NEWS\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\nData centers are going to drive American power demand for the next decade. Power demand for AI and the like should reach 194 GW by 2035, according to a BloombergNEF forecast. That's almost double BNEF's December 2025 forecast of 106 GW.\nSome data center projects are already feeling the squeeze. Over the weekend, Microsoft pulled out of a multibillion-dollar project with neocloud Nscale in Essex, England, reports The Telegraph. It did this because of months of \"power supply problems,\" which meant longer-than-expected delays in getting up-and-running.\nMicrosoft was Nscale's only publicly announced customer for its U.K. infrastructure footprint. Nscale is backed heavily by Nvidia, which has invested in three of its funding rounds so far. Nvidia makes the chips. Nscale builds modular AI data centers and rents that capacity to Microsoft. That flywheel only works if they have the power to actually run it.\nThis is where the power constraints for hyperscalers, Nvidia's GPUs and everyone's financials get wonky.\nOne stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.\nAmazon has room for a wave of Nvidia hardware. It doesn't have the power to run it. Business Insider reported on October 19 that Amazon has been building an \"Early Rack Receipt\" process to take in GB300 server racks at US facilities before final deployment, citing internal documents dated August 2026. Each GB300 NVL72 rack holds 72 Blackwell Ultra GPUs. Amazon expected about $5 billion worth of the racks in August, then roughly $3 billion a month after that. The company has plenty of space for them but \"not enough available power to turn them on,\" according to people familiar with the effort.\nIn other words, hyperscalers like Amazon are pre-buying and storing billions in GPUs from the likes of Nvidia while they wait for the energy to literally be built and, one day, turn on. They're also paying to do all of this instead of having someone else hold them until power is secured.\nFor energy companies like Constellation Energy (partnered with Amazon and Microsoft), Brookfield Asset Management (BAM) and Brookfield Renewable Partners (BEP), this is a big opportunity.\nThey just need time to build it out and come online first.",
+    "text_blocks": [
+      "BREAKING NEWS",
+      "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.",
+      "Data centers are going to drive American power demand for the next decade. Power demand for AI and the like should reach 194 GW by 2035, according to a BloombergNEF forecast. That's almost double BNEF's December 2025 forecast of 106 GW.",
+      "Some data center projects are already feeling the squeeze. Over the weekend, Microsoft pulled out of a multibillion-dollar project with neocloud Nscale in Essex, England, reports The Telegraph. It did this because of months of \"power supply problems,\" which meant longer-than-expected delays in getting up-and-running.",
+      "Microsoft was Nscale's only publicly announced customer for its U.K. infrastructure footprint. Nscale is backed heavily by Nvidia, which has invested in three of its funding rounds so far. Nvidia makes the chips. Nscale builds modular AI data centers and rents that capacity to Microsoft. That flywheel only works if they have the power to actually run it.",
+      "This is where the power constraints for hyperscalers, Nvidia's GPUs and everyone's financials get wonky.",
+      "One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.",
+      "Amazon has room for a wave of Nvidia hardware. It doesn't have the power to run it. Business Insider reported on October 19 that Amazon has been building an \"Early Rack Receipt\" process to take in GB300 server racks at US facilities before final deployment, citing internal documents dated August 2026. Each GB300 NVL72 rack holds 72 Blackwell Ultra GPUs. Amazon expected about $5 billion worth of the racks in August, then roughly $3 billion a month after that. The company has plenty of space for them but \"not enough available power to turn them on,\" according to people familiar with the effort.",
+      "In other words, hyperscalers like Amazon are pre-buying and storing billions in GPUs from the likes of Nvidia while they wait for the energy to literally be built and, one day, turn on. They're also paying to do all of this instead of having someone else hold them until power is secured.",
+      "For energy companies like Constellation Energy (partnered with Amazon and Microsoft), Brookfield Asset Management (BAM) and Brookfield Renewable Partners (BEP), this is a big opportunity.",
+      "They just need time to build it out and come online first."
+    ],
+    "html": null
+  }
+}

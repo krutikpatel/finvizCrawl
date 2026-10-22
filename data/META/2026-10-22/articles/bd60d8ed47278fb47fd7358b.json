@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html",
+    "fetched_at": "2026-10-22T07:00:11.981494-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St set for lower open as AI jitters rekindle, oil gains",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Tharuniyaa Lakshmi and Ragini Mathur\nOct 22 (Reuters) - Wall Street's main indexes were set to open lower on Thursday as growth stocks came under renewed pressure after earnings from mega-caps Tesla and Meta did little to dispel doubts about AI outlook, while a rebound in oil prices added to market jitters.\nThe weakness follows a strong session on Wednesday when the tech-heavy Nasdaq led Wall Street higher as robust results from SpaceX and Super Micro rekindled optimism around AI-linked stocks.\nSpaceX dropped 2.9% and Super Micro fell 3.8% in premarket trading on Thursday as investors looked past earnings to the AI narrative, focusing on the soaring costs of investments and unclear return timeline.\nTesla fell 3.5% after the electric-vehicle maker cut its annual capital expenditure forecast, raising questions about the pace of its AI and robotics ambitions.\nSeparately, Reuters exclusively reported that some Tesla insiders were concerned that CEO Elon Musk's public comments on a potential merger with SpaceX could invite shareholder scrutiny and complicate deal talks.\nMeta's shares slipped 2.4% after the social media giant introduced new non-voting shares to help fund its costly AI expansion.\n\"There's definitely some healthy skepticism in the AI space right now. The thing that makes these AI names more vulnerable is just that they have such high valuations already. So any kind of little trip up in the market is going to cause a big decline in some of these stocks,\" said Brendon Dashiell, portfolio manager for investment research at Bogart Wealth.\n\"We think markets will continue to be choppy, but we're still cautiously optimistic.\"\nS&P 500 third-quarter earnings growth is now forecast at 32.3%, up from 30.7% previously, according to LSEG data.\nOther constituents of the 'Magnificent 7' group also declined, with Amazon.com and Nvidia down around 2% each.\nChip stocks dropped, too. Intel was down 4.3%, while AMD, Qualcomm, Marvell Technology, Broadcom and Micron Technology slipped between 2.7% and 4.8%.\nThe renewed jitters sent the CBOE Volatility Index up 17.99 points, after three straight sessions of declines.\nAt 08:38 a.m. ET, Dow E-minis were down 273 points, or 0.51%, S&P 500 E-minis were down 73.25 points, or 0.94%, and Nasdaq 100 E-minis were down 482 points, or 1.61%.\nMeanwhile, weekly jobless claims unexpectedly fell, pointing to a resilient labor market and supporting expectations that the Federal Reserve will keep interest rates unchanged at its meeting next week.",
+    "text_blocks": [
+      "By Tharuniyaa Lakshmi and Ragini Mathur",
+      "Oct 22 (Reuters) - Wall Street's main indexes were set to open lower on Thursday as growth stocks came under renewed pressure after earnings from mega-caps Tesla and Meta did little to dispel doubts about AI outlook, while a rebound in oil prices added to market jitters.",
+      "The weakness follows a strong session on Wednesday when the tech-heavy Nasdaq led Wall Street higher as robust results from SpaceX and Super Micro rekindled optimism around AI-linked stocks.",
+      "SpaceX dropped 2.9% and Super Micro fell 3.8% in premarket trading on Thursday as investors looked past earnings to the AI narrative, focusing on the soaring costs of investments and unclear return timeline.",
+      "Tesla fell 3.5% after the electric-vehicle maker cut its annual capital expenditure forecast, raising questions about the pace of its AI and robotics ambitions.",
+      "Separately, Reuters exclusively reported that some Tesla insiders were concerned that CEO Elon Musk's public comments on a potential merger with SpaceX could invite shareholder scrutiny and complicate deal talks.",
+      "Meta's shares slipped 2.4% after the social media giant introduced new non-voting shares to help fund its costly AI expansion.",
+      "\"There's definitely some healthy skepticism in the AI space right now. The thing that makes these AI names more vulnerable is just that they have such high valuations already. So any kind of little trip up in the market is going to cause a big decline in some of these stocks,\" said Brendon Dashiell, portfolio manager for investment research at Bogart Wealth.",
+      "\"We think markets will continue to be choppy, but we're still cautiously optimistic.\"",
+      "S&P 500 third-quarter earnings growth is now forecast at 32.3%, up from 30.7% previously, according to LSEG data.",
+      "Other constituents of the 'Magnificent 7' group also declined, with Amazon.com and Nvidia down around 2% each.",
+      "Chip stocks dropped, too. Intel was down 4.3%, while AMD, Qualcomm, Marvell Technology, Broadcom and Micron Technology slipped between 2.7% and 4.8%.",
+      "The renewed jitters sent the CBOE Volatility Index up 17.99 points, after three straight sessions of declines.",
+      "At 08:38 a.m. ET, Dow E-minis were down 273 points, or 0.51%, S&P 500 E-minis were down 73.25 points, or 0.94%, and Nasdaq 100 E-minis were down 482 points, or 1.61%.",
+      "Meanwhile, weekly jobless claims unexpectedly fell, pointing to a resilient labor market and supporting expectations that the Federal Reserve will keep interest rates unchanged at its meeting next week."
+    ],
+    "html": null
+  }
+}

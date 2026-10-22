@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/oracle-stock-ai-debt-selloff-103dc78c?mod=bar_FV",
+    "fetched_at": "2026-10-22T07:00:21.970661-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake.\nOracle massive artificial-intelligence ambitions have become a liability for its stock as concerns mount about the billions of dollars needed to finance its expansion. Some analysts believe those fears may have been overblown.",
+    "text_blocks": [
+      "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake.",
+      "Oracle massive artificial-intelligence ambitions have become a liability for its stock as concerns mount about the billions of dollars needed to finance its expansion. Some analysts believe those fears may have been overblown."
+    ],
+    "html": null
+  }
+}

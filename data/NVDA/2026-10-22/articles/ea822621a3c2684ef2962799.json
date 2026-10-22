@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/hcltech-introduces-nvidia-based-automotive-131217840.html",
+    "fetched_at": "2026-10-22T07:00:35.207078-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HCLTech introduces Nvidia-based automotive software testing suite",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Indian tech firm HCLTech has launched an automotive software testing platform using Nvidia simulation and artificial intelligence (AI) technologies for carmakers and Tier 1 suppliers.\nThe platform is called HCLTech Verification and Validation (V&V) for Auto.\nIt aims to address operational delays in software-defined vehicle development linked to disconnected tools, manual testing, paper-based compliance checks, changing international safety regulations, and frequent wireless software updates.\nThe framework integrates HCLTech's engineering practices with Nvidia Omniverse, Cosmos, Alpamayo, Omniverse NuRec, and Isaac Sim.\nThis environment subjects code to virtual edge cases and dangerous driving conditions, cutting the time and expenditure associated with physical road and track assessments.\nHCLTech Mobility chief growth officer and global head Pankaj Tagra said: \"Powered by Nvidia, HCLTech's V&V for Auto is designed to help organisations shift from periodic, labour-intensive testing to continuous, intelligent validation, using simulation and AI to make software release decisions with greater speed and confidence.\"\nTesting workflows are handled by automated software agents built on the Nvidia Agent Toolkit and driven by Nemotron open-source reasoning models.\nThese agents oversee processes ranging from test creation to root-cause diagnosis of failures, producing an auditable digital trail that maps technical criteria directly to regulatory documentation.\nNvidia EMEA industry lead for automotive enterprise Sebastian Scheurle added: \"With Nvidia Omniverse, Cosmos and Nemotron at its core, this solution leverages world-class simulation and AI capabilities to support automakers in their journey towards moving more testing into simulation, covering rare and safety-critical scenarios earlier and releasing software with greater confidence.\"\nEarlier this month, Mercedes-Benz broadened its partnership with Nvidia to develop the \"next generation\" of driver-assistance and automated-driving systems.\nThe work combines the German carmaker's automotive engineering, safety expertise and MB.OS operating system with Nvidia's accelerated computing and AI technologies.\n\"HCLTech introduces Nvidia-based automotive software testing suite\" was originally created and published by Just Auto, a GlobalData owned brand.",
+    "text_blocks": [
+      "Indian tech firm HCLTech has launched an automotive software testing platform using Nvidia simulation and artificial intelligence (AI) technologies for carmakers and Tier 1 suppliers.",
+      "The platform is called HCLTech Verification and Validation (V&V) for Auto.",
+      "It aims to address operational delays in software-defined vehicle development linked to disconnected tools, manual testing, paper-based compliance checks, changing international safety regulations, and frequent wireless software updates.",
+      "The framework integrates HCLTech's engineering practices with Nvidia Omniverse, Cosmos, Alpamayo, Omniverse NuRec, and Isaac Sim.",
+      "This environment subjects code to virtual edge cases and dangerous driving conditions, cutting the time and expenditure associated with physical road and track assessments.",
+      "HCLTech Mobility chief growth officer and global head Pankaj Tagra said: \"Powered by Nvidia, HCLTech's V&V for Auto is designed to help organisations shift from periodic, labour-intensive testing to continuous, intelligent validation, using simulation and AI to make software release decisions with greater speed and confidence.\"",
+      "Testing workflows are handled by automated software agents built on the Nvidia Agent Toolkit and driven by Nemotron open-source reasoning models.",
+      "These agents oversee processes ranging from test creation to root-cause diagnosis of failures, producing an auditable digital trail that maps technical criteria directly to regulatory documentation.",
+      "Nvidia EMEA industry lead for automotive enterprise Sebastian Scheurle added: \"With Nvidia Omniverse, Cosmos and Nemotron at its core, this solution leverages world-class simulation and AI capabilities to support automakers in their journey towards moving more testing into simulation, covering rare and safety-critical scenarios earlier and releasing software with greater confidence.\"",
+      "Earlier this month, Mercedes-Benz broadened its partnership with Nvidia to develop the \"next generation\" of driver-assistance and automated-driving systems.",
+      "The work combines the German carmaker's automotive engineering, safety expertise and MB.OS operating system with Nvidia's accelerated computing and AI technologies.",
+      "\"HCLTech introduces Nvidia-based automotive software testing suite\" was originally created and published by Just Auto, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}
