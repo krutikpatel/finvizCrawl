@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-waits-jury-arm-443-114215008.html",
+    "fetched_at": "2026-10-23T07:00:43.044168-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.\nThat leaves the biggest number in the case undecided. Qualcomm wants Judge Maryellen Noreika to rule that a clause in its contracts lets it stop paying Arm royalties for five years if a breach is proven. She hasn't ruled yet.\nWhat Qualcomm Says Arm Did\n-\nQualcomm claims Arm withheld software patches and design tools it owed under contract.\n-\nIt says Arm broke a promise that Qualcomm would pay within 10% of the lowest price for Arm's processor designs.\n-\nIt says Arm leaked its 2024 threat to cancel Qualcomm's license, hurting talks over a chip deal with Meta Platforms (META:NASDAQ).\n-\nArm told jurors Qualcomm suffered no harm, and it argues the five-year royalty clause is unenforceable.\nHow Big Qualcomm Is to Arm\nArm's annual filing says Qualcomm accounted for 9% of its $4.92 billion revenue in the fiscal year ended March 31, 2026, or approximately $443 million. Holding that annual contribution constant gives about $2.2 billion over five years. However, this includes license fees as well as royalties, so it is a scale comparison—not an estimate or ceiling for the disputed royalty payments.\nThat sum lands very differently on the two income statements. Arm's operating income was $908 million last fiscal year, so Qualcomm's payments equal about 49% of it. Qualcomm earned $10.43 billion in operating income over the last twelve months (LTM), which puts the same payments at about 4%.\nThe same relationship weighs far more on Arm's income statement than on Qualcomm's.\nThe Next License Is the Bigger Fight\nThe holiday may never happen. Qualcomm has to win on breach first, and if Noreika strikes the clause, it can only seek ordinary damages.\nPricing is where Arm's real exposure sits. At trial, Arm's lawyer pressed Qualcomm CEO Cristiano Amon on a 2013 deal. That deal caps royalties at $1.88 per chip for any chip with at least five CPU cores, a price set long before data center chips carried 288 cores. A breach finding would weaken Arm's hand in talks over its next architecture, which a separate bench trial is reviewing for good faith.\nThe Royalty Ruling Matters More to Arm Than Qualcomm\nTwo decisions settle this:\n-\nwhether jurors find a breach\n-\nwhether Noreika lets the five-year clause stand\nWithout the five-year remedy, a breach finding only opens a damages claim, and Qualcomm would still have to prove the amount. If Noreika upholds it, Qualcomm could stop paying royalties for five years to a supplier that counts it as 9% of revenue.",
+    "text_blocks": [
+      "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
+      "That leaves the biggest number in the case undecided. Qualcomm wants Judge Maryellen Noreika to rule that a clause in its contracts lets it stop paying Arm royalties for five years if a breach is proven. She hasn't ruled yet.",
+      "What Qualcomm Says Arm Did",
+      "-",
+      "Qualcomm claims Arm withheld software patches and design tools it owed under contract.",
+      "-",
+      "It says Arm broke a promise that Qualcomm would pay within 10% of the lowest price for Arm's processor designs.",
+      "-",
+      "It says Arm leaked its 2024 threat to cancel Qualcomm's license, hurting talks over a chip deal with Meta Platforms (META:NASDAQ).",
+      "-",
+      "Arm told jurors Qualcomm suffered no harm, and it argues the five-year royalty clause is unenforceable.",
+      "How Big Qualcomm Is to Arm",
+      "Arm's annual filing says Qualcomm accounted for 9% of its $4.92 billion revenue in the fiscal year ended March 31, 2026, or approximately $443 million. Holding that annual contribution constant gives about $2.2 billion over five years. However, this includes license fees as well as royalties, so it is a scale comparison—not an estimate or ceiling for the disputed royalty payments.",
+      "That sum lands very differently on the two income statements. Arm's operating income was $908 million last fiscal year, so Qualcomm's payments equal about 49% of it. Qualcomm earned $10.43 billion in operating income over the last twelve months (LTM), which puts the same payments at about 4%.",
+      "The same relationship weighs far more on Arm's income statement than on Qualcomm's.",
+      "The Next License Is the Bigger Fight",
+      "The holiday may never happen. Qualcomm has to win on breach first, and if Noreika strikes the clause, it can only seek ordinary damages.",
+      "Pricing is where Arm's real exposure sits. At trial, Arm's lawyer pressed Qualcomm CEO Cristiano Amon on a 2013 deal. That deal caps royalties at $1.88 per chip for any chip with at least five CPU cores, a price set long before data center chips carried 288 cores. A breach finding would weaken Arm's hand in talks over its next architecture, which a separate bench trial is reviewing for good faith.",
+      "The Royalty Ruling Matters More to Arm Than Qualcomm",
+      "Two decisions settle this:",
+      "-",
+      "whether jurors find a breach",
+      "-",
+      "whether Noreika lets the five-year clause stand",
+      "Without the five-year remedy, a breach finding only opens a damages claim, and Qualcomm would still have to prove the amount. If Noreika upholds it, Qualcomm could stop paying royalties for five years to a supplier that counts it as 9% of revenue."
+    ],
+    "html": null
+  }
+}

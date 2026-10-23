@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stock-fell-6-162732475.html",
+    "fetched_at": "2026-10-23T07:00:43.096505-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Holdings Stock Fell 6% in a Day as an OpenAI Revenue Report Hit Chip Stocks. Here’s Where OpenAI Touches Arm’s Business",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Stats for Arm Holdings Stock\n-\nCurrent Price: $275.29\n-\nTarget Price (Mid): ~$1,375\n-\nStreet Target: ~$291\n-\nPotential Total Return: ~400%\n-\nAnnualized IRR: ~43% / year\nWhat Happened?\nArm Holdings (ARM) closed at $275.29 on October 8, 2026, down 6.48%. The chip selloff deepened after the Financial Times reported at midday that OpenAI's annualized revenue was close to $50 billion at the end of September. Media reports had put it near $70 billion, but a source told CNN that figure did not come from OpenAI. A person familiar with the matter told CNBC the earlier number counted gross revenue from OpenAI's partners.\nArm was already down 3.28% in premarket trading on tech weakness and its Qualcomm trial. NVIDIA (NVDA) fell 2.9% and Intel (INTC) 5.3%, and Arm's five-year beta of 3.77 partly explains its steeper drop. Arm's July 29 earnings call, posted in its investor relations materials, shows two places OpenAI connects to the business.\nOpenAI Signed On for the AGI CPU, but the Order Size Is Unknown\nArm launched its own data center processor, the AGI CPU, in March. On the call, CEO Rene Haas said the customers signed up at its Arm Everywhere event included \"folks like Cerebras and OpenAI, which were largely around head node type applications.\" Meta Platforms (META) and Cloudflare (NET) cover agentic and general-purpose servers, and Haas also named Oracle (ORCL). The call gave no order size for OpenAI.\nArm has secured capacity for a $1 billion opportunity across fiscal 2027 and 2028, against demand it puts at more than double that. Haas said even small additions are hard to find: \"There are a lot of folks just trying to secure extra supply up to $50 million.\" In theory, a smaller OpenAI order frees chips for other buyers. Not everyone is convinced Arm can deliver: Artisan Developing World Fund's third-quarter letter cited questions about Arm's \"ability to effectively meet demand for its own chip.\"\nSoftBank Supplied 33.6% of Arm's Fiscal Q1 Licensing Revenue\nThe bigger link runs through Arm's majority owner. Chief Financial Officer Jason Child said Arm's technology licensing and design services agreement with SoftBank Group contributed $193 million of the $574 million in fiscal Q1 license revenue. He expects around $200 million a quarter for the rest of the year.\nSoftBank has invested heavily in OpenAI, so OpenAI's funding story reaches Arm's own parent, not just a chip buyer. Child gave no sign on the July call that the arrangement would change. Fiscal Q2 licensing is guided up about 30%, against royalties up in the low teens.",
+    "text_blocks": [
+      "Key Stats for Arm Holdings Stock",
+      "-",
+      "Current Price: $275.29",
+      "-",
+      "Target Price (Mid): ~$1,375",
+      "-",
+      "Street Target: ~$291",
+      "-",
+      "Potential Total Return: ~400%",
+      "-",
+      "Annualized IRR: ~43% / year",
+      "What Happened?",
+      "Arm Holdings (ARM) closed at $275.29 on October 8, 2026, down 6.48%. The chip selloff deepened after the Financial Times reported at midday that OpenAI's annualized revenue was close to $50 billion at the end of September. Media reports had put it near $70 billion, but a source told CNN that figure did not come from OpenAI. A person familiar with the matter told CNBC the earlier number counted gross revenue from OpenAI's partners.",
+      "Arm was already down 3.28% in premarket trading on tech weakness and its Qualcomm trial. NVIDIA (NVDA) fell 2.9% and Intel (INTC) 5.3%, and Arm's five-year beta of 3.77 partly explains its steeper drop. Arm's July 29 earnings call, posted in its investor relations materials, shows two places OpenAI connects to the business.",
+      "OpenAI Signed On for the AGI CPU, but the Order Size Is Unknown",
+      "Arm launched its own data center processor, the AGI CPU, in March. On the call, CEO Rene Haas said the customers signed up at its Arm Everywhere event included \"folks like Cerebras and OpenAI, which were largely around head node type applications.\" Meta Platforms (META) and Cloudflare (NET) cover agentic and general-purpose servers, and Haas also named Oracle (ORCL). The call gave no order size for OpenAI.",
+      "Arm has secured capacity for a $1 billion opportunity across fiscal 2027 and 2028, against demand it puts at more than double that. Haas said even small additions are hard to find: \"There are a lot of folks just trying to secure extra supply up to $50 million.\" In theory, a smaller OpenAI order frees chips for other buyers. Not everyone is convinced Arm can deliver: Artisan Developing World Fund's third-quarter letter cited questions about Arm's \"ability to effectively meet demand for its own chip.\"",
+      "SoftBank Supplied 33.6% of Arm's Fiscal Q1 Licensing Revenue",
+      "The bigger link runs through Arm's majority owner. Chief Financial Officer Jason Child said Arm's technology licensing and design services agreement with SoftBank Group contributed $193 million of the $574 million in fiscal Q1 license revenue. He expects around $200 million a quarter for the rest of the year.",
+      "SoftBank has invested heavily in OpenAI, so OpenAI's funding story reaches Arm's own parent, not just a chip buyer. Child gave no sign on the July call that the arrangement would change. Fiscal Q2 licensing is guided up about 30%, against royalties up in the low teens."
+    ],
+    "html": null
+  }
+}

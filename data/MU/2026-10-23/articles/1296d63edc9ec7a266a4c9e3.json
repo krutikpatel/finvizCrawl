@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/tech-extends-decline-10-year-treasury-holds-below-5-alphacheck-134224473.html",
+    "fetched_at": "2026-10-23T07:00:10.919383-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks extend declines, 10-year Treasury holds below 5%: AlphaCheck",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Good morning. Stocks declined on Friday, extending the prior session's tech-heavy losses.\nYields on the 10-year Treasury held near 4.97% after their biggest one-day drop since 2023.\nHere's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.\nThe Tech (XLK) sector fell slightly after shares of chipmakers Nvidia (NVDA) and AMD (AMD) stabilized. Memory makers Micron (MU) and SK Hynix (SKHY) both rebounded.\nModerna (MRNA) sank another 6%, extending declines from the prior session following the lead data of the company's melanoma vaccine trial.\nBrent crude oil futures (BZ=F) held near $110 per barrel, while WTI (CL=F) traded near $101 as traders priced in the possibility of escalating fighting in the Middle East.\nHere are some other notable stocks that Yahoo Finance readers are viewing this morning: American Express (AXP), Western Digital (WDC), and Bloom Energy (PG).\nClick here for the latest stock market news and in-depth analysis, including events that move stocks",
+    "text_blocks": [
+      "Good morning. Stocks declined on Friday, extending the prior session's tech-heavy losses.",
+      "Yields on the 10-year Treasury held near 4.97% after their biggest one-day drop since 2023.",
+      "Here's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.",
+      "The Tech (XLK) sector fell slightly after shares of chipmakers Nvidia (NVDA) and AMD (AMD) stabilized. Memory makers Micron (MU) and SK Hynix (SKHY) both rebounded.",
+      "Moderna (MRNA) sank another 6%, extending declines from the prior session following the lead data of the company's melanoma vaccine trial.",
+      "Brent crude oil futures (BZ=F) held near $110 per barrel, while WTI (CL=F) traded near $101 as traders priced in the possibility of escalating fighting in the Middle East.",
+      "Here are some other notable stocks that Yahoo Finance readers are viewing this morning: American Express (AXP), Western Digital (WDC), and Bloom Energy (PG).",
+      "Click here for the latest stock market news and in-depth analysis, including events that move stocks"
+    ],
+    "html": null
+  }
+}

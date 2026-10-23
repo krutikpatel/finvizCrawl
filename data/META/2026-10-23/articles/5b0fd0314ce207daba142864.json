@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/openai-aiming-for-new-30-billion-funding-round-at-a-125-trillion-valuation-131325168.html",
+    "fetched_at": "2026-10-23T07:00:08.515046-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OpenAI aiming for new $30 billion funding round at a $1.25 trillion valuation",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "OpenAI (OPAI.PVT) is looking to raise a fresh $30 billion funding round that would value the AI lab at $1.25 trillion. The company was previously looking to raise capital at a $1.5 trillion valuation, according to Bloomberg.\nOpenAI last raised $122 billion in March, which valued the company at $852 billion.\nRival Anthropic (ANTH.PVT), meanwhile, is preparing to file its initial public offering (IPO) ahead of the Thanksgiving holiday, with Wall Street anticipating a valuation of as high as $2 trillion.\nThe company could publicly reveal its S-1 at any time in the coming days.\nOpenAI's funding discussions come amid wide-ranging declines in AI stocks on Wall Street over concerns about the data center build-out. Neoclouds, especially CoreWeave (CRWV), have been at the center of the latest rout, with investors questioning the companies' enormous debt loads.\nEverything from semiconductor to hyperscaler stocks has taken a hit, with Meta (META) dropping as much as 7% on Thursday after raising the lower end of its capital expenditure guidance.\nThe Philadelphia Semiconductor Index (^SOX) is off 7% in the past 5 days.\nEmail Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley.\nClick here for the latest technology news that will impact the stock market",
+    "text_blocks": [
+      "OpenAI (OPAI.PVT) is looking to raise a fresh $30 billion funding round that would value the AI lab at $1.25 trillion. The company was previously looking to raise capital at a $1.5 trillion valuation, according to Bloomberg.",
+      "OpenAI last raised $122 billion in March, which valued the company at $852 billion.",
+      "Rival Anthropic (ANTH.PVT), meanwhile, is preparing to file its initial public offering (IPO) ahead of the Thanksgiving holiday, with Wall Street anticipating a valuation of as high as $2 trillion.",
+      "The company could publicly reveal its S-1 at any time in the coming days.",
+      "OpenAI's funding discussions come amid wide-ranging declines in AI stocks on Wall Street over concerns about the data center build-out. Neoclouds, especially CoreWeave (CRWV), have been at the center of the latest rout, with investors questioning the companies' enormous debt loads.",
+      "Everything from semiconductor to hyperscaler stocks has taken a hit, with Meta (META) dropping as much as 7% on Thursday after raising the lower end of its capital expenditure guidance.",
+      "The Philadelphia Semiconductor Index (^SOX) is off 7% in the past 5 days.",
+      "Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley.",
+      "Click here for the latest technology news that will impact the stock market"
+    ],
+    "html": null
+  }
+}

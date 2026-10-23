@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/cybersecurity-stocks-php-flaws-cloudflare-96308c5d?mod=bar_FV",
+    "fetched_at": "2026-10-23T07:00:39.260029-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CrowdStrike, Palo Alto and Cloudflare Lead Cybersecurity Stocks Rally on PHP Flaws<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Website PHP Flaws Spur a Cybersecurity Stock Rally—but Not All Are Buys\nCompanies and governments around the world scrambled this week to take down or update websites amid revelations that a widely used programming language had critical vulnerabilities that could be exploited in AI-assisted attacks.",
+    "text_blocks": [
+      "Website PHP Flaws Spur a Cybersecurity Stock Rally—but Not All Are Buys",
+      "Companies and governments around the world scrambled this week to take down or update websites amid revelations that a widely used programming language had critical vulnerabilities that could be exploited in AI-assisted attacks."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/healthcare/articles/boehringer-microsoft-collaborate-explore-ai-103253136.html",
+    "fetched_at": "2026-10-23T07:00:23.592680-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Boehringer and Microsoft collaborate to explore AI in clinical research",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Boehringer Ingelheim and Microsoft have entered a strategic collaboration to examine the use of AI in clinical research, beginning with studies in lung health.\nThe partnership focuses on evaluating digital patient twins, which are computer-based models of individual patients constructed from clinical and related data.\nThe companies intend to examine whether these models can forecast disease progression and anticipate patient outcomes under varying circumstances.\nInitial work will assess the technical and scientific feasibility of the concept across several therapeutic areas through prototyping, modelling, and generating evidence.\nResearchers will study advanced trial simulation, disease-progression and predictive outcome modelling.\nThe work includes testing whether computational models can support synthetic or hybrid control arms as alternatives to standard clinical control groups.\nSynthetic arms rely entirely on existing datasets, whereas hybrid arms combine historical data with conventional control subjects.\nAccording to the companies, the approach could cut the volume of participants assigned to control cohorts, streamline trial design, and hasten evidence gathering.\nIf successful, the methods may enhance drug development efficiency and allow more trial subjects to receive experimental treatments.\nMicrosoft Germany and Austria corporate vice-president and CEO Agnes Heftberger said: \"The collaboration with Boehringer Ingelheim brings together pharmaceutical and scientific expertise with Microsoft's capabilities in AI and engineering.\n\"Germany is home to world-class pharmaceutical research and development. Together, we want to explore how technology could open new opportunities for clinical research.\"\nBeyond clinical modelling, the alliance covers data centre modernisation and technical security. Both organisations are examining further joint development initiatives across animal health, commercial processes, and technology infrastructure.\nThe initiative links with Boehringer Ingelheim's broader internal adoption of Microsoft Copilot, accompanied by workforce training, governance measures, and technical infrastructure updates across its human pharmaceutical and animal health operations.\nLast month, Boehringer Ingelheim and Envisagenics entered a research collaboration and option agreement that aims to validate tumour-specific targets for the development of precision therapies in solid tumours.\n\"Boehringer and Microsoft collaborate to explore AI in clinical research\" was originally created and published by Pharmaceutical Technology, a GlobalData owned brand.",
+    "text_blocks": [
+      "Boehringer Ingelheim and Microsoft have entered a strategic collaboration to examine the use of AI in clinical research, beginning with studies in lung health.",
+      "The partnership focuses on evaluating digital patient twins, which are computer-based models of individual patients constructed from clinical and related data.",
+      "The companies intend to examine whether these models can forecast disease progression and anticipate patient outcomes under varying circumstances.",
+      "Initial work will assess the technical and scientific feasibility of the concept across several therapeutic areas through prototyping, modelling, and generating evidence.",
+      "Researchers will study advanced trial simulation, disease-progression and predictive outcome modelling.",
+      "The work includes testing whether computational models can support synthetic or hybrid control arms as alternatives to standard clinical control groups.",
+      "Synthetic arms rely entirely on existing datasets, whereas hybrid arms combine historical data with conventional control subjects.",
+      "According to the companies, the approach could cut the volume of participants assigned to control cohorts, streamline trial design, and hasten evidence gathering.",
+      "If successful, the methods may enhance drug development efficiency and allow more trial subjects to receive experimental treatments.",
+      "Microsoft Germany and Austria corporate vice-president and CEO Agnes Heftberger said: \"The collaboration with Boehringer Ingelheim brings together pharmaceutical and scientific expertise with Microsoft's capabilities in AI and engineering.",
+      "\"Germany is home to world-class pharmaceutical research and development. Together, we want to explore how technology could open new opportunities for clinical research.\"",
+      "Beyond clinical modelling, the alliance covers data centre modernisation and technical security. Both organisations are examining further joint development initiatives across animal health, commercial processes, and technology infrastructure.",
+      "The initiative links with Boehringer Ingelheim's broader internal adoption of Microsoft Copilot, accompanied by workforce training, governance measures, and technical infrastructure updates across its human pharmaceutical and animal health operations.",
+      "Last month, Boehringer Ingelheim and Envisagenics entered a research collaboration and option agreement that aims to validate tumour-specific targets for the development of precision therapies in solid tumours.",
+      "\"Boehringer and Microsoft collaborate to explore AI in clinical research\" was originally created and published by Pharmaceutical Technology, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

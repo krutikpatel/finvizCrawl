@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/qualcomm-arm-set-jury-verdict-120240684.html",
+    "fetched_at": "2026-10-23T07:00:42.972443-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Qualcomm and Arm set for jury verdict in contract breach feud",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Tom Hals and Stephen Nellis\nWILMINGTON, Delaware, Oct 9 (Reuters) - A lawsuit by chipmaker Qualcomm against chip technology supplier Arm Holdings will head on Friday to a jury charged with determining if Arm breached licensing agreements and intentionally sabotaged some of Qualcomm's dealings with Meta Platforms.\nThe five-day trial is the second in two years between the companies and highlights the deterioration of their business relationship after SoftBank Group Corp acquired control of Arm in 2016 and Arm shifted from licensing the technology needed to make chips to selling chips of its own. At stake is whether Qualcomm, whose license for Arm's computing architecture runs until 2033, can eventually agree to terms for new versions of Arm's architecture.\nQualcomm wants the jury to find that Arm breached its licensing agreements by withholding software patches and tools for its designs and by violating an agreement that was meant to ensure Qualcomm paid within 10% of the lowest price for Arm's processor designs.\nIt also wants the jury to find that Arm tried to torpedo Qualcomm's dealings with Meta by leaking to Bloomberg an Arm letter in 2024 notifying Qualcomm it was allegedly in breach of a key license agreement.\nArm's legal team this week tried to focus the jury on its claim that Qualcomm had not suffered any harm from the allegations in its lawsuit, which Arm cast as an attempt to exert leverage as the two fought over licensing terms. A related bench trial also took place this week over whether Arm is negotiating in good faith over those terms, though a decision on that could come well after Friday's verdict.\nThe trial in Wilmington, Delaware, federal court hinged on many of the same episodes as the 2024 trial in which Arm failed to convince a jury that Qualcomm had breached its licensing agreement with Arm. Both trials included testimony by both Arm CEO Rene Haas and Qualcomm CEO Cristiano Amon and were overseen by US District Judge Maryellen Noreika.\nQualcomm's lawyer Karen Dunn said in her opening statement that the case was very serious for the company.\n\"It's really bad because Qualcomm's entire chip business depends on Arm and on Arm honoring its contract and honoring its promises,\" she said on Monday.\nQualcomm wanted Noreika to rule prior to trial that a clause in the licensing agreements meant that Qualcomm could stop paying royalties for five years if the contract were breached. She has not issued her ruling, and Arm has argued the royalty penalty is unenforceable.\n\"They were not harmed in the least,\" Arm's attorney Gregg LoCascio told the jury on Monday.\n(Reporting by Tom Hals in Wilmington, Delaware and Stephen Nellis in San Francisco; editing by Peter Henderson and Cynthia Osterman)",
+    "text_blocks": [
+      "By Tom Hals and Stephen Nellis",
+      "WILMINGTON, Delaware, Oct 9 (Reuters) - A lawsuit by chipmaker Qualcomm against chip technology supplier Arm Holdings will head on Friday to a jury charged with determining if Arm breached licensing agreements and intentionally sabotaged some of Qualcomm's dealings with Meta Platforms.",
+      "The five-day trial is the second in two years between the companies and highlights the deterioration of their business relationship after SoftBank Group Corp acquired control of Arm in 2016 and Arm shifted from licensing the technology needed to make chips to selling chips of its own. At stake is whether Qualcomm, whose license for Arm's computing architecture runs until 2033, can eventually agree to terms for new versions of Arm's architecture.",
+      "Qualcomm wants the jury to find that Arm breached its licensing agreements by withholding software patches and tools for its designs and by violating an agreement that was meant to ensure Qualcomm paid within 10% of the lowest price for Arm's processor designs.",
+      "It also wants the jury to find that Arm tried to torpedo Qualcomm's dealings with Meta by leaking to Bloomberg an Arm letter in 2024 notifying Qualcomm it was allegedly in breach of a key license agreement.",
+      "Arm's legal team this week tried to focus the jury on its claim that Qualcomm had not suffered any harm from the allegations in its lawsuit, which Arm cast as an attempt to exert leverage as the two fought over licensing terms. A related bench trial also took place this week over whether Arm is negotiating in good faith over those terms, though a decision on that could come well after Friday's verdict.",
+      "The trial in Wilmington, Delaware, federal court hinged on many of the same episodes as the 2024 trial in which Arm failed to convince a jury that Qualcomm had breached its licensing agreement with Arm. Both trials included testimony by both Arm CEO Rene Haas and Qualcomm CEO Cristiano Amon and were overseen by US District Judge Maryellen Noreika.",
+      "Qualcomm's lawyer Karen Dunn said in her opening statement that the case was very serious for the company.",
+      "\"It's really bad because Qualcomm's entire chip business depends on Arm and on Arm honoring its contract and honoring its promises,\" she said on Monday.",
+      "Qualcomm wanted Noreika to rule prior to trial that a clause in the licensing agreements meant that Qualcomm could stop paying royalties for five years if the contract were breached. She has not issued her ruling, and Arm has argued the royalty penalty is unenforceable.",
+      "\"They were not harmed in the least,\" Arm's attorney Gregg LoCascio told the jury on Monday.",
+      "(Reporting by Tom Hals in Wilmington, Delaware and Stephen Nellis in San Francisco; editing by Peter Henderson and Cynthia Osterman)"
+    ],
+    "html": null
+  }
+}

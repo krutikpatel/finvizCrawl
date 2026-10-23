@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102326/card/nasdaq-nears-flatline-with-chip-stocks-rebounding-IKYpqiDiWnb4nRjGpcWr?mod=bar_FV",
+    "fetched_at": "2026-10-23T07:00:37.086120-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq Nears Flatline With Chip Stocks Rebounding",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "2 min ago\nChip stocks were bouncing back, helping cushion some of the Nasdaq's losses.\nThe tech-heavy index pared losses in the first few minutes of trading. The Nasdaq was down 0.2% after opening 0.5% lower.\nThe PHLX Semiconductor Index was in the green, rising 0.6%. Memory chips were leading the charge with the Roundhill Memory ETF up 2.5%.",
+    "text_blocks": [
+      "2 min ago",
+      "Chip stocks were bouncing back, helping cushion some of the Nasdaq's losses.",
+      "The tech-heavy index pared losses in the first few minutes of trading. The Nasdaq was down 0.2% after opening 0.5% lower.",
+      "The PHLX Semiconductor Index was in the green, rising 0.6%. Memory chips were leading the charge with the Roundhill Memory ETF up 2.5%."
+    ],
+    "html": null
+  }
+}

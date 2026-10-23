@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-tariffs-gross-profit-margins-093ac686?mod=bar_FV",
+    "fetched_at": "2026-10-23T07:00:02.692882-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla’s Mysterious Profit Beat Is Solved. A Tariff Refund Boosted Margins. <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla’s Mysterious Margin Beat Is Finally Solved\nTesla reported fine third-quarter numbers on Wednesday, which was a relief, given what happened after the company’s second-quarter report. Importantly, automotive gross profit margin beat Wall Street estimates, but that was helped by a one-time item.",
+    "text_blocks": [
+      "Tesla’s Mysterious Margin Beat Is Finally Solved",
+      "Tesla reported fine third-quarter numbers on Wednesday, which was a relief, given what happened after the company’s second-quarter report. Importantly, automotive gross profit margin beat Wall Street estimates, but that was helped by a one-time item."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/why-america-biggest-companies-objecting-184605650.html",
+    "fetched_at": "2026-10-23T07:00:26.448947-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street's push to put stocks onchain is running into an unexpected obstacle: the companies behind the stocks.\nNine issuers, including Verizon, Broadcom, and UnitedHealth Group, have objected to having their shares offered on OKXICE TSV, according to an Oct. 15 public notice from the venue.\nOKXICE TSV is a planned tokenized stock platform from crypto exchange OKX and NYSE owner Intercontinental Exchange. The other objecting companies are Cerebras Systems, AppLovin, Applied Digital, Rocket Lab, CoreWeave, and Applied Optoelectronics.\nThe notice didn't say why the companies objected or whether the objections will keep their shares off the platform.\nNasdaq is also keeping its distance. The exchange operator, which isn't among the nine, has said it would opt its own shares out of the SEC's framework. A spokesperson told The Wall Street Journal that Nasdaq doesn't want its stock trading on a venue that doesn't show the best prices in real time or report trades to the consolidated tape. That's notable given that Nasdaq won SEC approval earlier this year for its own tokenized securities pilot.\nThe venue is the first major test of the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act stalled in the Senate. The exemption lets qualifying platforms trade tokenized U.S. stocks without registering as exchanges. OKXICE plans to run around the clock using Uniswap v4 liquidity pools on OKX's XLayer blockchain, with trades settled in stablecoins such as USDC and USDT.\nThe tokens are created by a third party, not the companies themselves. That outside \"tokenizer\" holds actual shares one-for-one through a registered broker-dealer, and token holders are supposed to receive the same dividends and voting rights as regular shareholders, according to the notice.\nThe notice also lays out what users give up. OKXICE isn't registered with the SEC, isn't subject to Regulation NMS rules designed to ensure investors get the best displayed prices, and doesn't have to provide fair access to all participants. Trading is capped at a small slice of each stock's normal volume, and administrators can upgrade the venue's smart contracts without advance notice.\nOKX and ICE first teamed up on tokenized securities earlier this year before announcing the 24/7 venue this month. In terms of appetite from traders and investors for tokenized stocks, the International Monetary Fund recently found real demand for tokenized stocks—especially outside of traditional market hours—but warned that the market remains volatile and illiquid.",
+    "text_blocks": [
+      "Wall Street's push to put stocks onchain is running into an unexpected obstacle: the companies behind the stocks.",
+      "Nine issuers, including Verizon, Broadcom, and UnitedHealth Group, have objected to having their shares offered on OKXICE TSV, according to an Oct. 15 public notice from the venue.",
+      "OKXICE TSV is a planned tokenized stock platform from crypto exchange OKX and NYSE owner Intercontinental Exchange. The other objecting companies are Cerebras Systems, AppLovin, Applied Digital, Rocket Lab, CoreWeave, and Applied Optoelectronics.",
+      "The notice didn't say why the companies objected or whether the objections will keep their shares off the platform.",
+      "Nasdaq is also keeping its distance. The exchange operator, which isn't among the nine, has said it would opt its own shares out of the SEC's framework. A spokesperson told The Wall Street Journal that Nasdaq doesn't want its stock trading on a venue that doesn't show the best prices in real time or report trades to the consolidated tape. That's notable given that Nasdaq won SEC approval earlier this year for its own tokenized securities pilot.",
+      "The venue is the first major test of the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act stalled in the Senate. The exemption lets qualifying platforms trade tokenized U.S. stocks without registering as exchanges. OKXICE plans to run around the clock using Uniswap v4 liquidity pools on OKX's XLayer blockchain, with trades settled in stablecoins such as USDC and USDT.",
+      "The tokens are created by a third party, not the companies themselves. That outside \"tokenizer\" holds actual shares one-for-one through a registered broker-dealer, and token holders are supposed to receive the same dividends and voting rights as regular shareholders, according to the notice.",
+      "The notice also lays out what users give up. OKXICE isn't registered with the SEC, isn't subject to Regulation NMS rules designed to ensure investors get the best displayed prices, and doesn't have to provide fair access to all participants. Trading is capped at a small slice of each stock's normal volume, and administrators can upgrade the venue's smart contracts without advance notice.",
+      "OKX and ICE first teamed up on tokenized securities earlier this year before announcing the 24/7 venue this month. In terms of appetite from traders and investors for tokenized stocks, the International Monetary Fund recently found real demand for tokenized stocks—especially outside of traditional market hours—but warned that the market remains volatile and illiquid."
+    ],
+    "html": null
+  }
+}
