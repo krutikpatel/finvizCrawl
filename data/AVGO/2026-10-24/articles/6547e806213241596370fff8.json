@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/objections-ice-okx-tokenized-stock-101550363.html",
+    "fetched_at": "2026-10-24T07:00:27.745331-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Objections to ICE and OKX’s Tokenized Stock Venue Climb to Nine as Broadcom, Verizon Opt Out",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nine publicly traded companies, among them Broadcom, Verizon and CoreWeave, have moved to block tokenized versions of their stock from OKXICE, the venue owned by NYSE parent Intercontinental Exchange and crypto exchange OKX, according to its public notice dated Oct. 15.\nThe objectors are Broadcom, Verizon, CoreWeave, UnitedHealth Group, AppLovin, Applied Digital, Rocket Lab, Applied Optoelectronics and Cerebras Systems. Under the SEC's rules, the venue can't offer tokenized versions of any of them.\nThe list has lengthened with each revision of the notice. The first version, dated Oct. 4, named 63 stocks OKXICE intended to offer and already recorded one objection, from Cerebras, a company that wasn't among the 63. An Oct. 8 revision added AppLovin, Applied Digital and Rocket Lab. The Oct. 15 version brought in the remaining five. Eight of the nine had been on the original roster.\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nHow the Issuer Veto Works\nOKXICE's legal footing is an exemptive order the SEC issued Sept. 17. It runs five years and exempts venues like this one from exchange registration. When a third party has tokenized a company's stock, the company gets written notice first, and trading can't begin for at least 30 calendar days. A written objection inside that window means the venue \"cannot make such Tokenized NMS Stock available for trading on the TSV.\" It then has five business days to update its public notice.\nThe order itself names concerns a company might weigh, including keeping its shareholder register accurate as tokens move onchain and price gaps with the underlying stock, since an AMM pool's price is \"most likely based only on the ratio of the quantities of assets in that liquidity pool.\"\nThe OKXICE notice doesn't say why any company objected. Applied Optoelectronics, a fiber-optic maker, reportedly told The Wall Street Journal it couldn't gauge what tokenization would do to its share price, liquidity and volatility, and saw no clear upside \"to AOI or our shareholders.\"\nWhat OKXICE Plans to Run\nPer the notice, OKXICE will trade stocks through permissioned Uniswap v4 pools on X Layer, each denominated against USDC, USDG or USDT. Only wallets that pass identity and sanctions checks and hold a non-transferable token get in. No launch date is given.\nICE and OKX unveiled the joint venture in June, with former New York Governor Andrew Cuomo as co-chair.\nRelated Listen: How Tokenized Stocks Could Undercut Interactive Brokers' 77% Profit Margin",
+    "text_blocks": [
+      "Nine publicly traded companies, among them Broadcom, Verizon and CoreWeave, have moved to block tokenized versions of their stock from OKXICE, the venue owned by NYSE parent Intercontinental Exchange and crypto exchange OKX, according to its public notice dated Oct. 15.",
+      "The objectors are Broadcom, Verizon, CoreWeave, UnitedHealth Group, AppLovin, Applied Digital, Rocket Lab, Applied Optoelectronics and Cerebras Systems. Under the SEC's rules, the venue can't offer tokenized versions of any of them.",
+      "The list has lengthened with each revision of the notice. The first version, dated Oct. 4, named 63 stocks OKXICE intended to offer and already recorded one objection, from Cerebras, a company that wasn't among the 63. An Oct. 8 revision added AppLovin, Applied Digital and Rocket Lab. The Oct. 15 version brought in the remaining five. Eight of the nine had been on the original roster.",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "How the Issuer Veto Works",
+      "OKXICE's legal footing is an exemptive order the SEC issued Sept. 17. It runs five years and exempts venues like this one from exchange registration. When a third party has tokenized a company's stock, the company gets written notice first, and trading can't begin for at least 30 calendar days. A written objection inside that window means the venue \"cannot make such Tokenized NMS Stock available for trading on the TSV.\" It then has five business days to update its public notice.",
+      "The order itself names concerns a company might weigh, including keeping its shareholder register accurate as tokens move onchain and price gaps with the underlying stock, since an AMM pool's price is \"most likely based only on the ratio of the quantities of assets in that liquidity pool.\"",
+      "The OKXICE notice doesn't say why any company objected. Applied Optoelectronics, a fiber-optic maker, reportedly told The Wall Street Journal it couldn't gauge what tokenization would do to its share price, liquidity and volatility, and saw no clear upside \"to AOI or our shareholders.\"",
+      "What OKXICE Plans to Run",
+      "Per the notice, OKXICE will trade stocks through permissioned Uniswap v4 pools on X Layer, each denominated against USDC, USDG or USDT. Only wallets that pass identity and sanctions checks and hold a non-transferable token get in. No launch date is given.",
+      "ICE and OKX unveiled the joint venture in June, with former New York Governor Andrew Cuomo as co-chair.",
+      "Related Listen: How Tokenized Stocks Could Undercut Interactive Brokers' 77% Profit Margin"
+    ],
+    "html": null
+  }
+}

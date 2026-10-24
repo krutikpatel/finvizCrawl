@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-selloff-hammers-hedge-funds-020957793.html",
+    "fetched_at": "2026-10-24T07:00:27.738450-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Global hedge funds hammered by AI selloff this week, Asia managers lead losses",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Summer Zhen and Anirban Sen\nTOKYO/NEW YORK, Oct 16 (Reuters) - Global hedge funds suffered steep losses this week, battered by a sharp unwind of a swathe of AI bets, with Asia-focused funds hit the hardest.\nInvestors are increasingly questioning whether massive AI spending can pay off anytime soon as elevated inflation keeps borrowing costs high. Wall Street ended the week sharply lower on Friday, with AI-related technology stocks including CoreWeave and Broadcom under renewed pressure, while a jump in oil prices spooked traders heading into the weekend.\nCoreWeave has been one of the biggest casualties of the latest selloff, with the data center operator's bonds selling off sharply this week, pushing yields above 15%.\nGlobal fundamental long-short funds, or stock pickers, lost money every single day this week, the Goldman Sachs prime brokerage unit said in a note to clients, with losses for the week to October 15 coming to 2.9%. For the year to date, they have gains of 14.3%.\n\"Following a sharp AI unwind on Wednesday and week-over-week, global equities were net sold again yesterday (Thursday) though at a much slower pace, driven by continued risk unwinds with long sales outpacing short covers,\" Goldman said in the note on Friday. \"In dollar terms, yesterday's global de-grossing activity — long selling and short covering combined — was roughly half of what we saw on Wednesday.\"\nGoldman added that global AI stocks collectively have been sold by long-short fund managers for six straight sessions.\nOn Thursday, hedge funds across strategies retreated sharply, with stock pickers globally losing 0.9%. Among them, Asia-focused managers were down 2.6%, while tech-focused funds were off 2.0%. Global systematic long-short managers and multi-strategy funds also declined roughly 1%.\n\"What we saw was less a fundamental rejection of AI and more a classic, high-velocity unwind of a crowded trade meeting a macro reality check,\" said Bruno Schneller, managing partner at Erlen Capital Management, which invests in hedge funds. \"Hotter-than-expected US inflation data forced markets to reassess the path of interest rates, putting immediate pressure on the most capital-intensive parts of the AI complex.\"\nUS inflation data this week increased expectations of further rate hikes, fueling declines in semiconductor and AI supply chain stocks.\nSemiconductor-heavy markets bore the brunt of the selloff. South Korea's benchmark KOSPI tumbled 8% to close at a six-month low on Thursday, while Taiwan stocks also lost more than 3%.",
+    "text_blocks": [
+      "By Summer Zhen and Anirban Sen",
+      "TOKYO/NEW YORK, Oct 16 (Reuters) - Global hedge funds suffered steep losses this week, battered by a sharp unwind of a swathe of AI bets, with Asia-focused funds hit the hardest.",
+      "Investors are increasingly questioning whether massive AI spending can pay off anytime soon as elevated inflation keeps borrowing costs high. Wall Street ended the week sharply lower on Friday, with AI-related technology stocks including CoreWeave and Broadcom under renewed pressure, while a jump in oil prices spooked traders heading into the weekend.",
+      "CoreWeave has been one of the biggest casualties of the latest selloff, with the data center operator's bonds selling off sharply this week, pushing yields above 15%.",
+      "Global fundamental long-short funds, or stock pickers, lost money every single day this week, the Goldman Sachs prime brokerage unit said in a note to clients, with losses for the week to October 15 coming to 2.9%. For the year to date, they have gains of 14.3%.",
+      "\"Following a sharp AI unwind on Wednesday and week-over-week, global equities were net sold again yesterday (Thursday) though at a much slower pace, driven by continued risk unwinds with long sales outpacing short covers,\" Goldman said in the note on Friday. \"In dollar terms, yesterday's global de-grossing activity — long selling and short covering combined — was roughly half of what we saw on Wednesday.\"",
+      "Goldman added that global AI stocks collectively have been sold by long-short fund managers for six straight sessions.",
+      "On Thursday, hedge funds across strategies retreated sharply, with stock pickers globally losing 0.9%. Among them, Asia-focused managers were down 2.6%, while tech-focused funds were off 2.0%. Global systematic long-short managers and multi-strategy funds also declined roughly 1%.",
+      "\"What we saw was less a fundamental rejection of AI and more a classic, high-velocity unwind of a crowded trade meeting a macro reality check,\" said Bruno Schneller, managing partner at Erlen Capital Management, which invests in hedge funds. \"Hotter-than-expected US inflation data forced markets to reassess the path of interest rates, putting immediate pressure on the most capital-intensive parts of the AI complex.\"",
+      "US inflation data this week increased expectations of further rate hikes, fueling declines in semiconductor and AI supply chain stocks.",
+      "Semiconductor-heavy markets bore the brunt of the selloff. South Korea's benchmark KOSPI tumbled 8% to close at a six-month low on Thursday, while Taiwan stocks also lost more than 3%."
+    ],
+    "html": null
+  }
+}

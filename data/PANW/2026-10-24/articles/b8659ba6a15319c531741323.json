@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-powered-cyber-threats-light-154008889.html",
+    "fetched_at": "2026-10-24T07:00:40.941901-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI-powered cyber threats light a fire under cybersecurity stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- An emergency security update for PHP, the programming language used by roughly 70% of websites worldwide, has triggered a global cybersecurity alert. Two critical vulnerabilities disclosed this week could allow hackers to take control of affected servers remotely. The incident highlights a growing challenge for businesses and investors alike: artificial intelligence (AI) is accelerating the discovery of software weaknesses while potentially making them easier to exploit.\nFinancial markets have also responded to the growing threat. Cybersecurity stocks surged this week amid the developments and prospects of growing threats. Palo Alto Networks (NASDAQ:PANW) and CrowdStrike (NASDAQ:CRWD) are up 11% this week; Cloudflare (NYSE:NET) is up 9%, and Okta (NASDAQ:OKTA) is up 14%, among some notable moves.\nThe vulnerabilities, collectively known as PHP2Shell, could enable attackers to steal sensitive data, install malware, alter website content or use compromised servers to launch further attacks. The widespread use of PHP means the potential exposure is enormous, although not every website running the language is necessarily vulnerable or has been compromised. The actual risk depends on the software version, system configuration and whether security updates have been installed.\nThe discovery also demonstrates AI's growing role in cybersecurity. Researchers used advanced AI tools to help identify and validate the vulnerabilities, which had reportedly remained unresolved for years. OpenAI coordinated with researchers and security providers to help develop protections before public disclosure, while cybersecurity company Wiz also reported using AI in its research.\nThe same technology, however, presents a serious challenge for defenders. AI tools can help malicious actors analyse complex software, identify weaknesses and potentially develop exploits faster than traditional methods allow. As these tools become more capable, the window between the disclosure of a vulnerability and its exploitation may shrink dramatically, leaving organizations with less time to respond.\nAuthorities have urged website operators to install the relevant PHP security updates immediately or temporarily take vulnerable systems offline if they cannot be patched promptly. Some government services in the United Kingdom, Finland and Japan experienced temporary disruptions as organizations worked to address potential exposures, according to the Associated Press.",
+    "text_blocks": [
+      "Investing.com -- An emergency security update for PHP, the programming language used by roughly 70% of websites worldwide, has triggered a global cybersecurity alert. Two critical vulnerabilities disclosed this week could allow hackers to take control of affected servers remotely. The incident highlights a growing challenge for businesses and investors alike: artificial intelligence (AI) is accelerating the discovery of software weaknesses while potentially making them easier to exploit.",
+      "Financial markets have also responded to the growing threat. Cybersecurity stocks surged this week amid the developments and prospects of growing threats. Palo Alto Networks (NASDAQ:PANW) and CrowdStrike (NASDAQ:CRWD) are up 11% this week; Cloudflare (NYSE:NET) is up 9%, and Okta (NASDAQ:OKTA) is up 14%, among some notable moves.",
+      "The vulnerabilities, collectively known as PHP2Shell, could enable attackers to steal sensitive data, install malware, alter website content or use compromised servers to launch further attacks. The widespread use of PHP means the potential exposure is enormous, although not every website running the language is necessarily vulnerable or has been compromised. The actual risk depends on the software version, system configuration and whether security updates have been installed.",
+      "The discovery also demonstrates AI's growing role in cybersecurity. Researchers used advanced AI tools to help identify and validate the vulnerabilities, which had reportedly remained unresolved for years. OpenAI coordinated with researchers and security providers to help develop protections before public disclosure, while cybersecurity company Wiz also reported using AI in its research.",
+      "The same technology, however, presents a serious challenge for defenders. AI tools can help malicious actors analyse complex software, identify weaknesses and potentially develop exploits faster than traditional methods allow. As these tools become more capable, the window between the disclosure of a vulnerability and its exploitation may shrink dramatically, leaving organizations with less time to respond.",
+      "Authorities have urged website operators to install the relevant PHP security updates immediately or temporarily take vulnerable systems offline if they cannot be patched promptly. Some government services in the United Kingdom, Finland and Japan experienced temporary disruptions as organizations worked to address potential exposures, according to the Associated Press."
+    ],
+    "html": null
+  }
+}

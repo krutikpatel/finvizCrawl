@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-set-open-lower-130848087.html",
+    "fetched_at": "2026-10-24T07:00:22.597444-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street closes lower to end rocky week",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Lewis Krauskopf, Tharuniyaa Lakshmi and Ragini Mathur\nOct 23 (Reuters) - Wall Street's main indexes closed lower on Friday even as technology shares steadied somewhat to end a turbulent week for the market-driving AI trade, and investors looked ahead to a busy slate of corporate earnings and a Federal Reserve interest-rate policy meeting.\nThe Nasdaq Composite posted a slim loss a day after the tech-heavy index suffered its biggest one-day drop since June, as concerns flared over financing costs to support heavy AI investment spending. The S&P 500 technology sector posted a 0.35% gain on Friday.\nMost S&P 500 sectors fell, however, including declines of well over 1% for the consumer staples and consumer discretionary groups as well as the financials sector.\nNext week, about one-third of S&P 500 companies report quarterly results, including Alphabet, Microsoft and Amazon, three AI hyperscalers whose capital spending forecasts will be closely watched on Wall Street.\n\"There is still fallout from the questioning of the AI trade,\" said Kristina Hooper, chief market strategist at Man Group. \"There's certainly the potential that we see less invested in an AI data center build-out next year than has been projected. So I certainly think that's giving pause.\"\nThe Dow Jones Industrial Average fell 652.82 points, or 1.23%, to 52,215.16; the S&P 500 lost 39.75 points, or 0.52%, to 7,623.68 and the Nasdaq Composite lost 53.52 points, or 0.21%, to 25,955.34.\nFor the week, the S&P 500 fell 0.5% and the Nasdaq dropped 0.7%. The blue-chip Dow rose 0.4%, its third straight weekly gain.\nTelecommunications stocks fell, weighing on the communication services sector, after a report that SpaceX was seeking thousands of cell sites for a fourth wireless carrier.\nShares of AT&T and T-Mobile both sank nearly 8% while Verizon shed 1.2%. SpaceX shares rose 1.9%. US cell tower operators gained, with Crown Castle up 9% and American Tower up 4%.\nThe energy sector rose 2.5%, hitting a record high. Brent crude hit its highest level since late April, after Houthi attacks in Saudi Arabia stoked concern over further disruption to energy supplies from the Middle East.\nAmerican Express shares fell 3.7%, weighing on the Dow. The company raised its profit forecast as it also announced plans to eliminate 5% of its workforce.\nSLB shares rose 7% after the oilfield services provider beat Wall Street estimates for third-quarter profit.\nData from the University of Michigan showed US consumer sentiment edged down near a record low in October, as rising prices because of the Middle East conflict soured households' views of the economy.",
+    "text_blocks": [
+      "By Lewis Krauskopf, Tharuniyaa Lakshmi and Ragini Mathur",
+      "Oct 23 (Reuters) - Wall Street's main indexes closed lower on Friday even as technology shares steadied somewhat to end a turbulent week for the market-driving AI trade, and investors looked ahead to a busy slate of corporate earnings and a Federal Reserve interest-rate policy meeting.",
+      "The Nasdaq Composite posted a slim loss a day after the tech-heavy index suffered its biggest one-day drop since June, as concerns flared over financing costs to support heavy AI investment spending. The S&P 500 technology sector posted a 0.35% gain on Friday.",
+      "Most S&P 500 sectors fell, however, including declines of well over 1% for the consumer staples and consumer discretionary groups as well as the financials sector.",
+      "Next week, about one-third of S&P 500 companies report quarterly results, including Alphabet, Microsoft and Amazon, three AI hyperscalers whose capital spending forecasts will be closely watched on Wall Street.",
+      "\"There is still fallout from the questioning of the AI trade,\" said Kristina Hooper, chief market strategist at Man Group. \"There's certainly the potential that we see less invested in an AI data center build-out next year than has been projected. So I certainly think that's giving pause.\"",
+      "The Dow Jones Industrial Average fell 652.82 points, or 1.23%, to 52,215.16; the S&P 500 lost 39.75 points, or 0.52%, to 7,623.68 and the Nasdaq Composite lost 53.52 points, or 0.21%, to 25,955.34.",
+      "For the week, the S&P 500 fell 0.5% and the Nasdaq dropped 0.7%. The blue-chip Dow rose 0.4%, its third straight weekly gain.",
+      "Telecommunications stocks fell, weighing on the communication services sector, after a report that SpaceX was seeking thousands of cell sites for a fourth wireless carrier.",
+      "Shares of AT&T and T-Mobile both sank nearly 8% while Verizon shed 1.2%. SpaceX shares rose 1.9%. US cell tower operators gained, with Crown Castle up 9% and American Tower up 4%.",
+      "The energy sector rose 2.5%, hitting a record high. Brent crude hit its highest level since late April, after Houthi attacks in Saudi Arabia stoked concern over further disruption to energy supplies from the Middle East.",
+      "American Express shares fell 3.7%, weighing on the Dow. The company raised its profit forecast as it also announced plans to eliminate 5% of its workforce.",
+      "SLB shares rose 7% after the oilfield services provider beat Wall Street estimates for third-quarter profit.",
+      "Data from the University of Michigan showed US consumer sentiment edged down near a record low in October, as rising prices because of the Middle East conflict soured households' views of the economy."
+    ],
+    "html": null
+  }
+}

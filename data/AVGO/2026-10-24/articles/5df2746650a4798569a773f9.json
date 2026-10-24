@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html",
+    "fetched_at": "2026-10-24T07:00:27.541099-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Sinéad Carew and Tharuniyaa Lakshmi\nOct 19 (Reuters) - The tech-heavy Nasdaq Composite led Wall Street with a 1% advance on Monday as investors returned to the chip sector and other AI-related stocks following last week's bruising selloff, while investors waited for key corporate earnings reports.\nOn Friday, the benchmark S&P 500 and the Nasdaq had marked their biggest weekly declines since late June. Concerns that higher interest rates could curb investments in AI infrastructure have been weighing on technology stocks, particularly chip companies and data center operators.\nThe selloff reflected mounting investor unease over how costly AI developments will be financed, a question that has increasingly pressured companies underpinning the US bull market, which recently marked its fourth anniversary.\nClosing up 1.6% on Monday, the Philadelphia Semiconductor Index snapped an eight-day losing streak in which it fell about 15.7% for its longest run of declines since October 2008.\n\"Rubber bands can only stretch so far in one direction before they snap and start reversing, and you finally saw that enough-is-enough moment in the semiconductors after Friday's close,\" said Michael James, managing director and equity sales trader at Rosenblatt Securities in Los Angeles.\n\"Nothing changed between Friday's close and this morning's open, other than nothing bad happened over the weekend, and sentiment had gotten so negative that we were oversold to the point where a bounce was due,\" he added.\nAnd with a lot of technology company earnings reports due out in coming days and weeks, James cautioned that the market is \"far from out of the woods.\"\nSocial media company Meta, which finished down 0.5%, is due to report results on Wednesday along with electric vehicle company Tesla, while SpaceX is scheduled to report on Tuesday.\nThe Dow Jones Industrial Average fell 36.38 points, or 0.07%, to 51,966.03, the S&P 500 gained 31.29 points, or 0.41%, to 7,690.73 and the Nasdaq Composite gained 290.85 points, or 1.11%, to 26,430.89.\nHowever, the market leaned massively on heavyweight stocks for its advance. Also during the session, the indexes had pulled away from their peaks for the day. One issue was that energy markets removed some earlier support as oil prices fluctuated.\nUS crude oil futures reversed earlier losses to settle up 2.2% at $103.66 a barrel after attacks by Yemen's Iran-aligned Houthis on a Yemeni military training camp and renewed attacks on Saudi energy, airport and military facilities. [O/R]",
+    "text_blocks": [
+      "By Sinéad Carew and Tharuniyaa Lakshmi",
+      "Oct 19 (Reuters) - The tech-heavy Nasdaq Composite led Wall Street with a 1% advance on Monday as investors returned to the chip sector and other AI-related stocks following last week's bruising selloff, while investors waited for key corporate earnings reports.",
+      "On Friday, the benchmark S&P 500 and the Nasdaq had marked their biggest weekly declines since late June. Concerns that higher interest rates could curb investments in AI infrastructure have been weighing on technology stocks, particularly chip companies and data center operators.",
+      "The selloff reflected mounting investor unease over how costly AI developments will be financed, a question that has increasingly pressured companies underpinning the US bull market, which recently marked its fourth anniversary.",
+      "Closing up 1.6% on Monday, the Philadelphia Semiconductor Index snapped an eight-day losing streak in which it fell about 15.7% for its longest run of declines since October 2008.",
+      "\"Rubber bands can only stretch so far in one direction before they snap and start reversing, and you finally saw that enough-is-enough moment in the semiconductors after Friday's close,\" said Michael James, managing director and equity sales trader at Rosenblatt Securities in Los Angeles.",
+      "\"Nothing changed between Friday's close and this morning's open, other than nothing bad happened over the weekend, and sentiment had gotten so negative that we were oversold to the point where a bounce was due,\" he added.",
+      "And with a lot of technology company earnings reports due out in coming days and weeks, James cautioned that the market is \"far from out of the woods.\"",
+      "Social media company Meta, which finished down 0.5%, is due to report results on Wednesday along with electric vehicle company Tesla, while SpaceX is scheduled to report on Tuesday.",
+      "The Dow Jones Industrial Average fell 36.38 points, or 0.07%, to 51,966.03, the S&P 500 gained 31.29 points, or 0.41%, to 7,690.73 and the Nasdaq Composite gained 290.85 points, or 1.11%, to 26,430.89.",
+      "However, the market leaned massively on heavyweight stocks for its advance. Also during the session, the indexes had pulled away from their peaks for the day. One issue was that energy markets removed some earlier support as oil prices fluctuated.",
+      "US crude oil futures reversed earlier losses to settle up 2.2% at $103.66 a barrel after attacks by Yemen's Iran-aligned Houthis on a Yemeni military training camp and renewed attacks on Saudi energy, airport and military facilities. [O/R]"
+    ],
+    "html": null
+  }
+}

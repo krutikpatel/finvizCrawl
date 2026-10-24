@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-ceo-andy-jassy-says-182824730.html",
+    "fetched_at": "2026-10-24T07:00:35.487739-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nAmazon.com Inc (NASDAQ:AMZN) CEO Andy Jassy says AI inference remains roughly 10 times too expensive for widespread use in business software, and believes Amazon's own chips could help bring costs down.\n\"It's still an order of magnitude too expensive in my opinion for it to be used as pervasively as possible,\" Jassy said in an interview with a16z published Friday.\nThe assessment comes as Amazon plans to spend $220 billion on capital expenditure this year, yet still cannot build enough infrastructure to satisfy AI demand.\nJassy said major capacity commitments are effectively sold out for 2026, largely booked for 2027 and that \"a good chunk of 28 is sold out.\"\nHe believes demand is so strong that Amazon \"could spend a lot more and it wouldn't be a bad use of capital.\"\nAI's Biggest Market Has Barely Arrived\nJassy described AI demand as a \"barbell.\" At one end are AI labs consuming \"gobs and gobs of compute unlike anything I've seen.\" At the other are businesses using AI mainly for specific tasks, such as customer service and fraud detection.\nBut the middle remains largely untapped: everyday business software that has yet to adopt AI widely. Jassy believes it could eventually become the biggest source of demand.\nThe obstacle is the cost of inference, the computing required each time an AI model answers a question or performs a task.\nCompanies have little incentive to rebuild existing software around AI unless the improvements justify the higher operating costs.\nAmazon's Answer Challenges Nvidia\nJassy said Amazon had faced a similar problem years earlier, when Intel dominated the market for processors used in cloud servers.\nAmazon wanted better computing performance for its money, but struggled to persuade Intel to prioritize that goal. So it developed its own processor, Graviton.\n\"We saw that same movie in the AI space,\" Jassy said.\nThis time, the dominant supplier is Nvidia Corp (NASDAQ:NVDA). Amazon developed its Trainium AI chips to offer customers a cheaper alternative, although Jassy, who did not name Nvidia, stressed that the dominant supplier remains an important partner.\nHe said Trainium delivers approximately 30% to 40% better price-performance than comparable processors, meaning customers can get more computing power for the same money.\n\"Our chips business is a big piece of that,\" Jassy said of bringing inference costs down.\nAmazon has disclosed more than $225 billion in future Trainium revenue commitments, including agreements with Anthropic and OpenAI.",
+    "text_blocks": [
+      "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer",
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Amazon.com Inc (NASDAQ:AMZN) CEO Andy Jassy says AI inference remains roughly 10 times too expensive for widespread use in business software, and believes Amazon's own chips could help bring costs down.",
+      "\"It's still an order of magnitude too expensive in my opinion for it to be used as pervasively as possible,\" Jassy said in an interview with a16z published Friday.",
+      "The assessment comes as Amazon plans to spend $220 billion on capital expenditure this year, yet still cannot build enough infrastructure to satisfy AI demand.",
+      "Jassy said major capacity commitments are effectively sold out for 2026, largely booked for 2027 and that \"a good chunk of 28 is sold out.\"",
+      "He believes demand is so strong that Amazon \"could spend a lot more and it wouldn't be a bad use of capital.\"",
+      "AI's Biggest Market Has Barely Arrived",
+      "Jassy described AI demand as a \"barbell.\" At one end are AI labs consuming \"gobs and gobs of compute unlike anything I've seen.\" At the other are businesses using AI mainly for specific tasks, such as customer service and fraud detection.",
+      "But the middle remains largely untapped: everyday business software that has yet to adopt AI widely. Jassy believes it could eventually become the biggest source of demand.",
+      "The obstacle is the cost of inference, the computing required each time an AI model answers a question or performs a task.",
+      "Companies have little incentive to rebuild existing software around AI unless the improvements justify the higher operating costs.",
+      "Amazon's Answer Challenges Nvidia",
+      "Jassy said Amazon had faced a similar problem years earlier, when Intel dominated the market for processors used in cloud servers.",
+      "Amazon wanted better computing performance for its money, but struggled to persuade Intel to prioritize that goal. So it developed its own processor, Graviton.",
+      "\"We saw that same movie in the AI space,\" Jassy said.",
+      "This time, the dominant supplier is Nvidia Corp (NASDAQ:NVDA). Amazon developed its Trainium AI chips to offer customers a cheaper alternative, although Jassy, who did not name Nvidia, stressed that the dominant supplier remains an important partner.",
+      "He said Trainium delivers approximately 30% to 40% better price-performance than comparable processors, meaning customers can get more computing power for the same money.",
+      "\"Our chips business is a big piece of that,\" Jassy said of bringing inference costs down.",
+      "Amazon has disclosed more than $225 billion in future Trainium revenue commitments, including agreements with Anthropic and OpenAI."
+    ],
+    "html": null
+  }
+}

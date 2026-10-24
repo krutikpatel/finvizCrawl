@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/amazon-cloud-capacity-sold-2027-230625002.html",
+    "fetched_at": "2026-10-24T07:00:35.577729-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct 23 (Reuters) - Amazon CEO Andy Jassy said on Friday that Amazon Web Services' cloud computing capacity is largely sold out through 2027, with significant commitments extending into 2028, on growing demand for AI infrastructure.\nIn a video podcast with Andreessen Horowitz co-founder Ben Horowitz and general partner Erik Torenberg, Jassy said Amazon is struggling to keep pace with the insatiable demand from AI labs and enterprises.\n• Earlier this year, Amazon had said it would spend about $220 billion in capital expenditure for 2026\n• Jassy said the company \"could invest a lot more and it wouldn't be a bad use of capital,\" considering cloud-computing capacity for 2026 is already sold out\n• \"2027 is largely sold out. We always leave a certain amount for on demand and our inference service bedrock, or EC2, but largely sold out all the big chunks. A good chunk of 2028 is sold out,\" he said\n• EC2 is an AWS service that provides cloud servers for running applications, while Bedrock gives customers access to AI models to build generative AI applications\n• Amazon is scheduled to report third quarter results on October 29\n(Reporting by Jaspreet Singh in Bengaluru; Editing by Diti Pujara)",
+    "text_blocks": [
+      "Oct 23 (Reuters) - Amazon CEO Andy Jassy said on Friday that Amazon Web Services' cloud computing capacity is largely sold out through 2027, with significant commitments extending into 2028, on growing demand for AI infrastructure.",
+      "In a video podcast with Andreessen Horowitz co-founder Ben Horowitz and general partner Erik Torenberg, Jassy said Amazon is struggling to keep pace with the insatiable demand from AI labs and enterprises.",
+      "• Earlier this year, Amazon had said it would spend about $220 billion in capital expenditure for 2026",
+      "• Jassy said the company \"could invest a lot more and it wouldn't be a bad use of capital,\" considering cloud-computing capacity for 2026 is already sold out",
+      "• \"2027 is largely sold out. We always leave a certain amount for on demand and our inference service bedrock, or EC2, but largely sold out all the big chunks. A good chunk of 2028 is sold out,\" he said",
+      "• EC2 is an AWS service that provides cloud servers for running applications, while Bedrock gives customers access to AI models to build generative AI applications",
+      "• Amazon is scheduled to report third quarter results on October 29",
+      "(Reporting by Jaspreet Singh in Bengaluru; Editing by Diti Pujara)"
+    ],
+    "html": null
+  }
+}

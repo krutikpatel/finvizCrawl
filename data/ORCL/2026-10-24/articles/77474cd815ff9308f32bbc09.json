@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-oracle-collaborate-test-ai-094008247.html",
+    "fetched_at": "2026-10-24T07:00:19.805042-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "AstraZeneca and Oracle have signed a non-binding agreement to investigate how AI and real-world data can help medical teams recruit eligible candidates for clinical trials.\nThe initiative aims to address participant recruitment hurdles by enabling healthcare providers to spot suitable individuals earlier and with ease.\nBeyond recruitment, the two companies plan to assess whether research findings and evidence generation can be integrated directly into routine healthcare settings to guide patient management.\nThe partners intend to focus initial investigations on several therapeutic fields, covering cardiovascular, renal, and metabolic conditions; oncology; rare diseases; and respiratory and immunology disorders.\nUnder the framework, both entities plan to establish common governance structures, standard technical components, and specific outcome metrics to evaluate progress.\nThe collaboration will unite the therapeutic and scientific knowledge of AstraZeneca with the analytics, cloud, health data, and clinical workflow tools developed by Oracle.\nBoth organisations plan to examine a continuous learning structure that applies data gathered from day-to-day medical treatment and formal research to guide ongoing patient care, safety oversight, and protocol design.\nAstraZeneca CEO Pascal Soriot said: \"This unique collaboration brings leaders in healthcare and AI together at a global scale to accelerate the journey from the discovery of medicine to patient care.\n\"Combining AstraZeneca's world-class science with Oracle's deep data and technology expertise, we can help clinicians identify patients sooner, optimise clinical trials, and generate evidence continuously across the life cycle of a medicine.\"\nOracle CEO Mike Sicilia said: \"Some of the most important opportunities for AI are in healthcare, where better use of data can help turn scientific innovation into better outcomes for patients.\n\"By bringing AstraZeneca's scientific expertise together with Oracle's data, cloud, AI, and healthcare capabilities, we have an opportunity to help accelerate research, connect more patients to clinical trials, and ultimately bring relevant insights into care faster.\"\nEarlier this year, QPS Holdings implemented a new clinical trial pharmacovigilance system, Oracle Argus, to advance safety case management in clinical trials.\n\"AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment\" was originally created and published by Clinical Trials Arena, a GlobalData owned brand.",
+    "text_blocks": [
+      "AstraZeneca and Oracle have signed a non-binding agreement to investigate how AI and real-world data can help medical teams recruit eligible candidates for clinical trials.",
+      "The initiative aims to address participant recruitment hurdles by enabling healthcare providers to spot suitable individuals earlier and with ease.",
+      "Beyond recruitment, the two companies plan to assess whether research findings and evidence generation can be integrated directly into routine healthcare settings to guide patient management.",
+      "The partners intend to focus initial investigations on several therapeutic fields, covering cardiovascular, renal, and metabolic conditions; oncology; rare diseases; and respiratory and immunology disorders.",
+      "Under the framework, both entities plan to establish common governance structures, standard technical components, and specific outcome metrics to evaluate progress.",
+      "The collaboration will unite the therapeutic and scientific knowledge of AstraZeneca with the analytics, cloud, health data, and clinical workflow tools developed by Oracle.",
+      "Both organisations plan to examine a continuous learning structure that applies data gathered from day-to-day medical treatment and formal research to guide ongoing patient care, safety oversight, and protocol design.",
+      "AstraZeneca CEO Pascal Soriot said: \"This unique collaboration brings leaders in healthcare and AI together at a global scale to accelerate the journey from the discovery of medicine to patient care.",
+      "\"Combining AstraZeneca's world-class science with Oracle's deep data and technology expertise, we can help clinicians identify patients sooner, optimise clinical trials, and generate evidence continuously across the life cycle of a medicine.\"",
+      "Oracle CEO Mike Sicilia said: \"Some of the most important opportunities for AI are in healthcare, where better use of data can help turn scientific innovation into better outcomes for patients.",
+      "\"By bringing AstraZeneca's scientific expertise together with Oracle's data, cloud, AI, and healthcare capabilities, we have an opportunity to help accelerate research, connect more patients to clinical trials, and ultimately bring relevant insights into care faster.\"",
+      "Earlier this year, QPS Holdings implemented a new clinical trial pharmacovigilance system, Oracle Argus, to advance safety case management in clinical trials.",
+      "\"AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment\" was originally created and published by Clinical Trials Arena, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

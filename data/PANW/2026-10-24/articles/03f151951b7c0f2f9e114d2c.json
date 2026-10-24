@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182933712.html",
+    "fetched_at": "2026-10-24T07:00:41.015250-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Investing.com’s stocks of the week",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Cybersecurity names gained ground on a global software alert while Meta declined and a fresh escalation in the Middle East pushed crude to highs.\nHere are Investing.com's stocks of the week:\nCybersecurity stocks\nCybersecurity names were among the week's strong performers after an emergency security update for PHP, the programming language used by roughly 70% of websites worldwide, triggered a global alert.\nTwo critical vulnerabilities disclosed this week could allow hackers to take remote control of affected servers.\nThe incident highlights a growing challenge, with artificial intelligence accelerating the discovery of software weaknesses while potentially making them easier to exploit.\nOkta led the moves with a 14% gain over the week, followed by Palo Alto Networks and CrowdStrike, both up 11%, and Cloudflare, up 9%.\nMeta Platforms\nMeta fell 7% on Thursday and is down 9.1% over the week after Wednesday's post-close results, with a surprise plan to issue a new class of non-voting stock overshadowing stronger-than-expected third-quarter revenue.\nThe company's special committee said in its filing that the move was motivated not only by keeping CEO Mark Zuckerberg in California but also by \"an increasingly challenging environment for raising capital,\" citing recent and anticipated raises at Alphabet, SpaceX, Anthropic and OpenAI to fund the same AI growth.\nThe committee added that while Meta has sufficient resources for current needs, it would be prudent to act before more companies absorb available capital in the market. The Class C shares are intended for equity offerings from time to time and could be available as early as the end of 2026.\nTesla and SpaceX\nTesla gained 4.6% over the week, and SpaceX added 0.6% after both reported results and confirmed they are examining a tie-up.\nTesla delivered better-than-expected third-quarter earnings, with free cash flow and capital expenditure coming in ahead of Wall Street estimates. SpaceX also topped expectations.\nEach company has established an independent special committee to explore a potential merger, CEO Elon Musk said, emphasizing that while independent directors are actively evaluating the transaction, talks remain at an early stage with no guarantee of an agreement.",
+    "text_blocks": [
+      "Investing.com -- Cybersecurity names gained ground on a global software alert while Meta declined and a fresh escalation in the Middle East pushed crude to highs.",
+      "Here are Investing.com's stocks of the week:",
+      "Cybersecurity stocks",
+      "Cybersecurity names were among the week's strong performers after an emergency security update for PHP, the programming language used by roughly 70% of websites worldwide, triggered a global alert.",
+      "Two critical vulnerabilities disclosed this week could allow hackers to take remote control of affected servers.",
+      "The incident highlights a growing challenge, with artificial intelligence accelerating the discovery of software weaknesses while potentially making them easier to exploit.",
+      "Okta led the moves with a 14% gain over the week, followed by Palo Alto Networks and CrowdStrike, both up 11%, and Cloudflare, up 9%.",
+      "Meta Platforms",
+      "Meta fell 7% on Thursday and is down 9.1% over the week after Wednesday's post-close results, with a surprise plan to issue a new class of non-voting stock overshadowing stronger-than-expected third-quarter revenue.",
+      "The company's special committee said in its filing that the move was motivated not only by keeping CEO Mark Zuckerberg in California but also by \"an increasingly challenging environment for raising capital,\" citing recent and anticipated raises at Alphabet, SpaceX, Anthropic and OpenAI to fund the same AI growth.",
+      "The committee added that while Meta has sufficient resources for current needs, it would be prudent to act before more companies absorb available capital in the market. The Class C shares are intended for equity offerings from time to time and could be available as early as the end of 2026.",
+      "Tesla and SpaceX",
+      "Tesla gained 4.6% over the week, and SpaceX added 0.6% after both reported results and confirmed they are examining a tie-up.",
+      "Tesla delivered better-than-expected third-quarter earnings, with free cash flow and capital expenditure coming in ahead of Wall Street estimates. SpaceX also topped expectations.",
+      "Each company has established an independent special committee to explore a potential merger, CEO Elon Musk said, emphasizing that while independent directors are actively evaluating the transaction, talks remain at an early stage with no guarantee of an agreement."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-analyst-warns-45-ai-164708977.html",
+    "fetched_at": "2026-10-24T07:00:25.105712-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Analyst Warns 45% of AI Data Center Capacity Planned for 2027 May Not Get Built",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nNearly half of planned AI data center capacity may not get built next year, threatening future demand for Nvidia Corp. (NASDAQ:NVDA) chips, a bearish Wall Street analyst warns.\nSeaport Research Partners analyst Jay Goldberg estimates only 30 gigawatts of 55 gigawatts announced for 2027 will materialize, Barron's reported Friday. That represents a potential 45% shortfall.\nGoldberg maintains a Sell rating and $180 price target, about 15% below Thursday's closing price.\nHe points to shortages of electricians, gas turbines and electricity connections as major obstacles.\nMicrosoft Corp. (NASDAQ:MSFT) recently withdrew from an Nvidia-backed Nscale data center project in England after its expected electricity connection slipped into the 2030s. The facility was intended to house more than 23,000 Nvidia GPUs.\nAmazon.com Inc. (NASDAQ:AMZN) has faced similar problems, with some Nvidia servers sitting in warehouses while the company waits for data centers to have enough electricity to operate them.\nNvidia's Financial Exposure\nGoldberg's concerns extend beyond construction delays. Nvidia is also helping finance some of the companies expected to buy its chips.\nHe argues that investments, loans and credit guarantees amount to \"another form of discounting,\" allowing Nvidia to support sales without formally cutting chip prices.\nGoldberg believes Nvidia would rather have 200 smaller, dependent customers than rely on three powerful technology giants.\nBut smaller cloud providers such as CoreWeave Inc. (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) need enormous amounts of financing to keep buying Nvidia's chips. If they struggle, Nvidia could face weaker sales and pressure on its margins.\nNvidia had $279 billion in supply and capacity commitments as of July 26, more than double the $119 billion reported a quarter earlier.\nIt also disclosed $36 billion in cloud-service commitments to providers buying its hardware.\nNvidia warned in its latest quarterly filing that infrastructure shortages could delay chip purchases and hurt revenue. Some supply commitments can be adjusted or canceled.\nAnalysts Disagree on Construction Outlook\nResearch firm SemiAnalysis takes a more optimistic view, identifying more than 24 gigawatts already in advanced construction across 40 campuses.\n\"Gigantic sites are simply getting built, and many are on time,\" its researchers wrote Monday.\nA delayed data center also does not necessarily mean a lost Nvidia sale. Chips could instead go to customers with available electricity.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Nearly half of planned AI data center capacity may not get built next year, threatening future demand for Nvidia Corp. (NASDAQ:NVDA) chips, a bearish Wall Street analyst warns.",
+      "Seaport Research Partners analyst Jay Goldberg estimates only 30 gigawatts of 55 gigawatts announced for 2027 will materialize, Barron's reported Friday. That represents a potential 45% shortfall.",
+      "Goldberg maintains a Sell rating and $180 price target, about 15% below Thursday's closing price.",
+      "He points to shortages of electricians, gas turbines and electricity connections as major obstacles.",
+      "Microsoft Corp. (NASDAQ:MSFT) recently withdrew from an Nvidia-backed Nscale data center project in England after its expected electricity connection slipped into the 2030s. The facility was intended to house more than 23,000 Nvidia GPUs.",
+      "Amazon.com Inc. (NASDAQ:AMZN) has faced similar problems, with some Nvidia servers sitting in warehouses while the company waits for data centers to have enough electricity to operate them.",
+      "Nvidia's Financial Exposure",
+      "Goldberg's concerns extend beyond construction delays. Nvidia is also helping finance some of the companies expected to buy its chips.",
+      "He argues that investments, loans and credit guarantees amount to \"another form of discounting,\" allowing Nvidia to support sales without formally cutting chip prices.",
+      "Goldberg believes Nvidia would rather have 200 smaller, dependent customers than rely on three powerful technology giants.",
+      "But smaller cloud providers such as CoreWeave Inc. (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) need enormous amounts of financing to keep buying Nvidia's chips. If they struggle, Nvidia could face weaker sales and pressure on its margins.",
+      "Nvidia had $279 billion in supply and capacity commitments as of July 26, more than double the $119 billion reported a quarter earlier.",
+      "It also disclosed $36 billion in cloud-service commitments to providers buying its hardware.",
+      "Nvidia warned in its latest quarterly filing that infrastructure shortages could delay chip purchases and hurt revenue. Some supply commitments can be adjusted or canceled.",
+      "Analysts Disagree on Construction Outlook",
+      "Research firm SemiAnalysis takes a more optimistic view, identifying more than 24 gigawatts already in advanced construction across 40 campuses.",
+      "\"Gigantic sites are simply getting built, and many are on time,\" its researchers wrote Monday.",
+      "A delayed data center also does not necessarily mean a lost Nvidia sale. Chips could instead go to customers with available electricity."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102326/card/tech-selloff-cools-now-the-heat-is-on-the-dow--6Sy08mPKh9jLU4gyh4pv?mod=bar_FV",
+    "fetched_at": "2026-10-24T07:00:35.396404-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech Selloff Cools. Now the Heat Is on the Dow.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "3 hours ago\nThe tech stock selloff took a breather on Friday, but don't expect it to be the end of AI trade worries.\nThe S&P 500 slid 0.5% while the Nasdaq Composite dropped 0.2%. The indexes fell 1.1% and 2.6%, respectively, the previous day. The Dow Industrial Average felt the brunt of Friday's weakness, falling 1.2%, or 653 points.\nThe Dow effectively made up for the losses it missed out on Thursday, when it closed flat. While the blue-chip index was still able to eke out a positive weekly return, the same couldn't be said for the other two major indexes.",
+    "text_blocks": [
+      "3 hours ago",
+      "The tech stock selloff took a breather on Friday, but don't expect it to be the end of AI trade worries.",
+      "The S&P 500 slid 0.5% while the Nasdaq Composite dropped 0.2%. The indexes fell 1.1% and 2.6%, respectively, the previous day. The Dow Industrial Average felt the brunt of Friday's weakness, falling 1.2%, or 653 points.",
+      "The Dow effectively made up for the losses it missed out on Thursday, when it closed flat. While the blue-chip index was still able to eke out a positive weekly return, the same couldn't be said for the other two major indexes."
+    ],
+    "html": null
+  }
+}

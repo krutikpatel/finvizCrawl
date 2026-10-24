@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/msft-stock-gets-thumbs-barclays-145159137.html",
+    "fetched_at": "2026-10-24T07:00:46.283656-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "MSFT Stock Gets A Thumbs Up From Barclays – Firm Expects Quarter To Start Showing ‘More Differentiation’ In Software",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "MSFT Stock Gets A Thumbs Up From Barclays – Firm Expects Quarter To Start Showing ‘More Differentiation’ In Software\n-\nMicrosoft plans to scale its Azure Maia chip deployments starting in 2027, with Maia 300 expected to enter production deployments that year.\n-\nMicrosoft, Marvell and Oracle formed an Open Compute Project working group to develop an open specification for integrated hardware security in cloud data centers.\n-\nEarlier, Deutsche Bank analyst Brad Zelnick raised his price target to $600 from $550 while maintaining a 'Buy' rating. The move was part of the firm's first-quarter earnings preview.\nMicrosoft (MSFT) is drawing investor attention after Barclays raised its price target on the stock to $600 from $512 while maintaining an 'Overweight' rating.\nBarclays adjusted the target as part of its third-quarter software earnings preview, and said the quarter \"should start showing more differentiation in software,\" according to The Fly.\nMSFT shares were trading 1.5% higher at the time of writing on Tuesday. Microsoft's market capitalization reached $4.02 trillion at Monday's close, surpassing the $4 trillion threshold for the first time since October 2025.\nAnalysts Offer Mixed Views On Microsoft\nBarclays' latest note follows analyst updates from Deutsche Bank and Phillip Securities on Monday, according to The Fly.\nDeutsche Bank analyst Brad Zelnick raised his price target to $600 from $550 while maintaining a 'Buy' rating. The move was part of the firm's first-quarter earnings preview.\nPhillip Securities downgraded Microsoft to 'Neutral' from 'Accumulate' and set a $515 price target, citing the recent re-rating of the shares.\nMicrosoft Joins Marvell, Oracle In Data-Center Security Initiative\nMicrosoft, Marvell Technology (MRVL) and Oracle (ORCL) announced on Tuesday that they have established a working group under the Open Compute Project (OCP) to develop an open specification for an integrated hardware security module (HSM) for cloud and hyperscale data centers.\nThe proposed solution is designed to support secure cryptographic key caching and key lifecycle management at the server level. The companies said the approach aims to reduce latency, improve scalability and strengthen cloud workload security.\nThe working group plans to define an open specification incorporating a hardware security boundary, key vault and attestation chain directly into servers. The companies are targeting an initial draft for the October 2026 OCP Global Summit, with version 1.0 to follow.",
+    "text_blocks": [
+      "MSFT Stock Gets A Thumbs Up From Barclays – Firm Expects Quarter To Start Showing ‘More Differentiation’ In Software",
+      "-",
+      "Microsoft plans to scale its Azure Maia chip deployments starting in 2027, with Maia 300 expected to enter production deployments that year.",
+      "-",
+      "Microsoft, Marvell and Oracle formed an Open Compute Project working group to develop an open specification for integrated hardware security in cloud data centers.",
+      "-",
+      "Earlier, Deutsche Bank analyst Brad Zelnick raised his price target to $600 from $550 while maintaining a 'Buy' rating. The move was part of the firm's first-quarter earnings preview.",
+      "Microsoft (MSFT) is drawing investor attention after Barclays raised its price target on the stock to $600 from $512 while maintaining an 'Overweight' rating.",
+      "Barclays adjusted the target as part of its third-quarter software earnings preview, and said the quarter \"should start showing more differentiation in software,\" according to The Fly.",
+      "MSFT shares were trading 1.5% higher at the time of writing on Tuesday. Microsoft's market capitalization reached $4.02 trillion at Monday's close, surpassing the $4 trillion threshold for the first time since October 2025.",
+      "Analysts Offer Mixed Views On Microsoft",
+      "Barclays' latest note follows analyst updates from Deutsche Bank and Phillip Securities on Monday, according to The Fly.",
+      "Deutsche Bank analyst Brad Zelnick raised his price target to $600 from $550 while maintaining a 'Buy' rating. The move was part of the firm's first-quarter earnings preview.",
+      "Phillip Securities downgraded Microsoft to 'Neutral' from 'Accumulate' and set a $515 price target, citing the recent re-rating of the shares.",
+      "Microsoft Joins Marvell, Oracle In Data-Center Security Initiative",
+      "Microsoft, Marvell Technology (MRVL) and Oracle (ORCL) announced on Tuesday that they have established a working group under the Open Compute Project (OCP) to develop an open specification for an integrated hardware security module (HSM) for cloud and hyperscale data centers.",
+      "The proposed solution is designed to support secure cryptographic key caching and key lifecycle management at the server level. The companies said the approach aims to reduce latency, improve scalability and strengthen cloud workload security.",
+      "The working group plans to define an open specification incorporating a hardware security boundary, key vault and attestation chain directly into servers. The companies are targeting an initial draft for the October 2026 OCP Global Summit, with version 1.0 to follow."
+    ],
+    "html": null
+  }
+}

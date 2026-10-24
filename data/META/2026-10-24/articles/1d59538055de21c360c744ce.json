@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/instacart-sale-stock-price-488a3e1b?mod=bar_FV",
+    "fetched_at": "2026-10-24T07:00:09.111214-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Instacart Is Pursuing a Sale, Report Says. Here’s What Makes It Enticing.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Instacart Is Pursuing a Sale, Report Says. Here’s What Makes It Enticing.\nA report that the delivery app Instacart is pursuing a sale sent shares up 9% on Friday shortly before the market closed. Instacart declined to comment, but it’s easy to see why the shopping service is a good takeover candidate.",
+    "text_blocks": [
+      "Instacart Is Pursuing a Sale, Report Says. Here’s What Makes It Enticing.",
+      "A report that the delivery app Instacart is pursuing a sale sent shares up 9% on Friday shortly before the market closed. Instacart declined to comment, but it’s easy to see why the shopping service is a good takeover candidate."
+    ],
+    "html": null
+  }
+}

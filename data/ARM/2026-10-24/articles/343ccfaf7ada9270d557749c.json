@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-fell-5-day-025035744.html",
+    "fetched_at": "2026-10-24T07:00:43.788732-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel Stock Fell 5% in a Day as Chip Stocks Sold Off Ahead of Its October 29 Report. Here’s Where the Stock Could Go",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Stats for Intel Stock\n-\nCurrent Price: $107.08\n-\nTarget Price (Mid): ~$437\n-\nStreet Target: ~$118\n-\nPotential Total Return: ~308%\n-\nAnnualized IRR: ~39% / year\nWhat Happened?\nIntel Corporation (INTC) closed at $107.08 on October 8, 2026, down 5.34%. The drop came in a chip selloff that Yahoo Finance tied to a Financial Times report questioning OpenAI's revenue. Intel was among the session's steepest decliners, falling more than 6% intraday alongside Arm Holdings (ARM) and Marvell Technology (MRVL).\nIntel itself issued no news that day. Its latest release was the October 6 notice that it will report third-quarter results after the close on October 29, per its investor relations materials. Shares are still up 194.4% over the past year, but they sit 24.02% below their one-year peak.\nIntel Won't Name Foundry Customers, Even at Its Analyst Day\nThat policy is one reason outside headlines move the stock so much. At Deutsche Bank's technology conference on August 26, EVP and CFO David Zinsner said CEO Lip-Bu Tan \"does not want to be announcing customers on the foundry side.\" He added that announcing them is \"not done in the foundry industry.\" He told investors not to expect customer names even at the Analyst Day, which he expects sometime in 2027. Customers can still announce deals themselves.\nIntel did confirm in April that it joined Elon Musk's Terafab project as a partner. Since Musk disclosed talks with Taiwan Semiconductor Manufacturing (TSM) on October 3, though, updates on Intel's role have come from Musk's posts and Tan's remarks to reporters, not from disclosed contract terms.\nRevenue Beats Are the Signal Intel Controls\nIntel's reported numbers keep beating expectations. Revenue beat consensus in each of the last five reported quarters, per TIKR. Q2 2026 revenue reached $16.13 billion, up 25.42% year over year and 11.71% above estimates. Adjusted EPS of $0.42 nearly doubled the $0.22 consensus. On a GAAP basis, though, EPS was a loss of $2.16 against a $0.07 estimate.\nZinsner described part of that strength as a supply choice. Memory costs hurt PC demand, but he called the weaker client business \"probably the best thing we could have given the data center demand,\" because it freed capacity for servers.\nSpending is the open question. Zinsner has said 2027 CapEx will rise significantly, but when his teams submitted a number, he said, \"I've told them, no.\" Consensus still models negative free cash flow in 2026 and 2027, turning positive in 2028, per TIKR.",
+    "text_blocks": [
+      "Key Stats for Intel Stock",
+      "-",
+      "Current Price: $107.08",
+      "-",
+      "Target Price (Mid): ~$437",
+      "-",
+      "Street Target: ~$118",
+      "-",
+      "Potential Total Return: ~308%",
+      "-",
+      "Annualized IRR: ~39% / year",
+      "What Happened?",
+      "Intel Corporation (INTC) closed at $107.08 on October 8, 2026, down 5.34%. The drop came in a chip selloff that Yahoo Finance tied to a Financial Times report questioning OpenAI's revenue. Intel was among the session's steepest decliners, falling more than 6% intraday alongside Arm Holdings (ARM) and Marvell Technology (MRVL).",
+      "Intel itself issued no news that day. Its latest release was the October 6 notice that it will report third-quarter results after the close on October 29, per its investor relations materials. Shares are still up 194.4% over the past year, but they sit 24.02% below their one-year peak.",
+      "Intel Won't Name Foundry Customers, Even at Its Analyst Day",
+      "That policy is one reason outside headlines move the stock so much. At Deutsche Bank's technology conference on August 26, EVP and CFO David Zinsner said CEO Lip-Bu Tan \"does not want to be announcing customers on the foundry side.\" He added that announcing them is \"not done in the foundry industry.\" He told investors not to expect customer names even at the Analyst Day, which he expects sometime in 2027. Customers can still announce deals themselves.",
+      "Intel did confirm in April that it joined Elon Musk's Terafab project as a partner. Since Musk disclosed talks with Taiwan Semiconductor Manufacturing (TSM) on October 3, though, updates on Intel's role have come from Musk's posts and Tan's remarks to reporters, not from disclosed contract terms.",
+      "Revenue Beats Are the Signal Intel Controls",
+      "Intel's reported numbers keep beating expectations. Revenue beat consensus in each of the last five reported quarters, per TIKR. Q2 2026 revenue reached $16.13 billion, up 25.42% year over year and 11.71% above estimates. Adjusted EPS of $0.42 nearly doubled the $0.22 consensus. On a GAAP basis, though, EPS was a loss of $2.16 against a $0.07 estimate.",
+      "Zinsner described part of that strength as a supply choice. Memory costs hurt PC demand, but he called the weaker client business \"probably the best thing we could have given the data center demand,\" because it freed capacity for servers.",
+      "Spending is the open question. Zinsner has said 2027 CapEx will rise significantly, but when his teams submitted a number, he said, \"I've told them, no.\" Consensus still models negative free cash flow in 2026 and 2027, turning positive in 2028, per TIKR."
+    ],
+    "html": null
+  }
+}

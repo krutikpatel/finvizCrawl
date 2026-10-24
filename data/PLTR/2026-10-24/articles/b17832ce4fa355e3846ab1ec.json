@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/inherit-stocks-unwanted-portfolio-348bbd70?mod=bar_FV",
+    "fetched_at": "2026-10-24T07:00:29.989743-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "You Are Inheriting a Portfolio of Unwanted Investments. How to Fix It.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "You Are Inheriting a Portfolio of Unwanted Investments. How to Fix It.\nFinancial advisor Katrina Soelter recently worked with a client who had received a seven-figure inheritance that included unwanted shares of oil companies and of Palantir. The software company has been at the center of several controversies, most recently revolving around links to surveillance and deportation.",
+    "text_blocks": [
+      "You Are Inheriting a Portfolio of Unwanted Investments. How to Fix It.",
+      "Financial advisor Katrina Soelter recently worked with a client who had received a seven-figure inheritance that included unwanted shares of oil companies and of Palantir. The software company has been at the center of several controversies, most recently revolving around links to surveillance and deportation."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/exclusive-prediction-market-volumes-soaring-150019632.html",
+    "fetched_at": "2026-10-24T07:00:17.181847-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "EXCLUSIVE: Prediction Market Volumes Are Soaring, but Most Exchanges Won't Survive, Smarkets CEO Warns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nInvestor money is helping fuel soaring trading volumes across American prediction markets, but most exchanges may struggle to survive when subsidies disappear, Smarkets CEO Jason Trost told Benzinga in an exclusive interview.\n\"I would argue most prediction markets in the United States do not have the right setup to be a sustainable business without subsidy,\" said Trost, who has spent nearly two decades running a British betting exchange.\nKalshi traders spent about $14.7 billion on contracts in September, according to DeFi Rate. The exchange's headline volume, which counts each contract at its $1 face value, reached a record $60.7 billion, up 52% from August.\nFounded in 2008, Smarkets operates one of Britain's largest betting exchanges and is seeking CFTC approval to launch a regulated prediction-market exchange in the United States.\nBuying Volume Is Easy, Building an Exchange Is Hard\nTrost argues that many American exchanges are using investor capital to attract customers, subsidize market makers and pay brokers for distribution.\n\"If you're paying market makers and you're paying brokers to send you traffic and you're paying for Messi to talk about you and all these things, yes, you can get tons of volume on your system,\" he said.\nLionel Messi promoted Kalshi during the World Cup as part of the platform's partnership with Argentina's national soccer team.\n\"But when all that money goes away, is there enough reason to trade on that platform without those?\" Trost asked.\nExchanges face a fundamental challenge: attracting enough buyers and sellers to offer competitive prices. Some pay professional traders to provide liquidity, but Trost argues that dependence on continuing subsidies is unsustainable.\nSmarkets faced the same problem before building its own market-making operation.\n\"We built it ourselves, so we built an in-house market maker and it's one of the keys of our business,\" Trost said.\nLessons From Britain's Betting Exchange Boom\nTrost pointed to Britain's betting-exchange industry, where he says roughly 50 operators dwindled to four amid liquidity challenges, high commissions and competition from traditional bookmakers.\nBut he sees another threat to American exchanges: paying brokers to bring in customers.\nPaying brokers a cut of every contract is only a temporary way to buy distribution, Trost wrote in a recent blog post. \"It works until the broker realises it can keep the whole fee.\"",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Investor money is helping fuel soaring trading volumes across American prediction markets, but most exchanges may struggle to survive when subsidies disappear, Smarkets CEO Jason Trost told Benzinga in an exclusive interview.",
+      "\"I would argue most prediction markets in the United States do not have the right setup to be a sustainable business without subsidy,\" said Trost, who has spent nearly two decades running a British betting exchange.",
+      "Kalshi traders spent about $14.7 billion on contracts in September, according to DeFi Rate. The exchange's headline volume, which counts each contract at its $1 face value, reached a record $60.7 billion, up 52% from August.",
+      "Founded in 2008, Smarkets operates one of Britain's largest betting exchanges and is seeking CFTC approval to launch a regulated prediction-market exchange in the United States.",
+      "Buying Volume Is Easy, Building an Exchange Is Hard",
+      "Trost argues that many American exchanges are using investor capital to attract customers, subsidize market makers and pay brokers for distribution.",
+      "\"If you're paying market makers and you're paying brokers to send you traffic and you're paying for Messi to talk about you and all these things, yes, you can get tons of volume on your system,\" he said.",
+      "Lionel Messi promoted Kalshi during the World Cup as part of the platform's partnership with Argentina's national soccer team.",
+      "\"But when all that money goes away, is there enough reason to trade on that platform without those?\" Trost asked.",
+      "Exchanges face a fundamental challenge: attracting enough buyers and sellers to offer competitive prices. Some pay professional traders to provide liquidity, but Trost argues that dependence on continuing subsidies is unsustainable.",
+      "Smarkets faced the same problem before building its own market-making operation.",
+      "\"We built it ourselves, so we built an in-house market maker and it's one of the keys of our business,\" Trost said.",
+      "Lessons From Britain's Betting Exchange Boom",
+      "Trost pointed to Britain's betting-exchange industry, where he says roughly 50 operators dwindled to four amid liquidity challenges, high commissions and competition from traditional bookmakers.",
+      "But he sees another threat to American exchanges: paying brokers to bring in customers.",
+      "Paying brokers a cut of every contract is only a temporary way to buy distribution, Trost wrote in a recent blog post. \"It works until the broker realises it can keep the whole fee.\""
+    ],
+    "html": null
+  }
+}

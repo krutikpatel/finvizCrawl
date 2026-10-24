@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stocks-today-ai-selloff-cools-but-indexes-fall-8577d7b1?mod=bar_FV",
+    "fetched_at": "2026-10-24T07:00:35.461879-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Review & Preview: The Dow’s Turn<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Review & Preview: The Dow’s Turn\nReversal. The artificial intelligence selloff finally eased on Friday, but the rest of the market paid the price.\nReversal. The artificial intelligence selloff finally eased on Friday, but the rest of the market paid the price.",
+    "text_blocks": [
+      "Review & Preview: The Dow’s Turn",
+      "Reversal. The artificial intelligence selloff finally eased on Friday, but the rest of the market paid the price.",
+      "Reversal. The artificial intelligence selloff finally eased on Friday, but the rest of the market paid the price."
+    ],
+    "html": null
+  }
+}
