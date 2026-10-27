@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finviz.com/news/408596/apple-offers-iphone-duo-replacements-following-reports-of-foldable-display-problems",
+    "fetched_at": "2026-10-27T07:00:06.424665-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": "finviz.com",
+    "language": null
+  },
+  "content": {
+    "text": "�d�H�|>O&|�v}S����\n�t�<��8>�/�?�?���}~�L���������wO����o������֕�����X�х|~��6(/ӟ7m������ʊ���y�5�{2�я��I� \n4M��e�ϫi� >)*��M��'|�Q�� \n\\��2}\t}�՝Xi�|���]���",
+    "text_blocks": [
+      "�d�H�|>O&|�v}S����",
+      "�t�<��8>�/�?�?���}~�L���������wO����o������֕�����X�х|~��6(/ӟ7m������ʊ���y�5�{2�я��I�",
+      "4M��e�ϫi� >)*��M��'|�Q��",
+      "\\��2}\t}�՝Xi�|���]���"
+    ],
+    "html": null
+  }
+}

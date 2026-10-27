@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=TSLA",
+    "fetched_at": "2026-10-27T07:00:01.956390-07:00"
+  },
+  "company": {
+    "name": "Tesla Inc",
+    "sector": "Show Previous Ratings",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 402.17,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500",
+    "Market Cap": "1589.68B",
+    "Enterprise Value": "1560.79B",
+    "Income": "3.22B",
+    "Sales": "103.57B",
+    "Book/sh": "22.59",
+    "Cash/sh": "11.62",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "134785",
+    "IPO": "Jun 29, 2010"
+  },
+  "raw": null
+}

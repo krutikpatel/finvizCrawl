@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/blockmate-ventures-buy-first-nvidia-132100525.html",
+    "fetched_at": "2026-10-27T07:00:36.253900-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Blockmate Ventures to buy first NVIDIA B200 AI compute node, entering neocloud market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Blockmate Ventures Inc (TSX-V:MATE, OTCQB:MATEF, FRA:8MH) has agreed to acquire its first NVIDIA B200 AI compute node from Scannit Inc. for about US$635,000, marking its entry into the AI neocloud and GPU compute market.\nThe agreement gives Blockmate ownership of an eight-GPU node, with the price covering shipping, data-centre setup, installation, network connectivity and onboarding.\nDelivery is expected in the first quarter of 2027, subject to vendor timing and NVIDIA allocation.\nThe deal moves the company from venture builder toward owner-operator of AI infrastructure. Blockmate will own the hardware, which will be installed in a US data centre, while Scannit will host, maintain and operate it and sell its compute capacity through GPU marketplaces, compute networks and direct customer contracts.\nBlockmate will receive the majority of gross revenue over an initial 36-month management term. Scannit does not guarantee utilization, pricing or revenue.\nBlockmate plans to use the node as a test deployment to gather operating data on demand, utilization, pricing, uptime and costs. Subject to results, financing and market conditions, it intends to evaluate larger multi-node deployments and future NVIDIA hardware.\n\"We are deliberately starting with one node,\" founder and chairman Domenic Carosa said, adding that the initial capital has the potential to be recovered in approximately two years, depending on utilization, market pricing and operating costs.\nThe purchase will be funded through existing cash and debt financing. The company is finalizing a proposed secured loan from Carosa Corporation, which is controlled by Carosa.\nThe node adds to Blockmate's Wyoming AI data centre development, which targets up to about 200 MW of capacity, and its roughly 50% fully diluted stake in Hivello, which has launched Bitcoin cloud mining and plans to expand into GPU and AI compute products.\nBlockmate also clarified that about C$7 million of liabilities on its June 30 balance sheet relates to Hivello's SAFE notes, which will convert into Hivello shares, rather than debt owed directly by Blockmate.",
+    "text_blocks": [
+      "Blockmate Ventures Inc (TSX-V:MATE, OTCQB:MATEF, FRA:8MH) has agreed to acquire its first NVIDIA B200 AI compute node from Scannit Inc. for about US$635,000, marking its entry into the AI neocloud and GPU compute market.",
+      "The agreement gives Blockmate ownership of an eight-GPU node, with the price covering shipping, data-centre setup, installation, network connectivity and onboarding.",
+      "Delivery is expected in the first quarter of 2027, subject to vendor timing and NVIDIA allocation.",
+      "The deal moves the company from venture builder toward owner-operator of AI infrastructure. Blockmate will own the hardware, which will be installed in a US data centre, while Scannit will host, maintain and operate it and sell its compute capacity through GPU marketplaces, compute networks and direct customer contracts.",
+      "Blockmate will receive the majority of gross revenue over an initial 36-month management term. Scannit does not guarantee utilization, pricing or revenue.",
+      "Blockmate plans to use the node as a test deployment to gather operating data on demand, utilization, pricing, uptime and costs. Subject to results, financing and market conditions, it intends to evaluate larger multi-node deployments and future NVIDIA hardware.",
+      "\"We are deliberately starting with one node,\" founder and chairman Domenic Carosa said, adding that the initial capital has the potential to be recovered in approximately two years, depending on utilization, market pricing and operating costs.",
+      "The purchase will be funded through existing cash and debt financing. The company is finalizing a proposed secured loan from Carosa Corporation, which is controlled by Carosa.",
+      "The node adds to Blockmate's Wyoming AI data centre development, which targets up to about 200 MW of capacity, and its roughly 50% fully diluted stake in Hivello, which has launched Bitcoin cloud mining and plans to expand into GPU and AI compute products.",
+      "Blockmate also clarified that about C$7 million of liabilities on its June 30 balance sheet relates to Hivello's SAFE notes, which will convert into Hivello shares, rather than debt owed directly by Blockmate."
+    ],
+    "html": null
+  }
+}

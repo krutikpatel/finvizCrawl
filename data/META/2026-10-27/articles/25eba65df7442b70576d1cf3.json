@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-billion-meta-092301934.html",
+    "fetched_at": "2026-10-27T07:00:09.551903-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia investing $3 billion in Meta in Muse partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia (NVDA) will invest $3 billion in Meta (META) as part of an expanded partnership that includes closer collaboration on the Muse agent platform, the companies said Tuesday.\nWhy it matters: A multibillion-dollar Nvidia investment is becoming all but table stakes for serious AI players — a ready source of capital for their breakneck expansion and a guarantee for Nvidia of future revenue streams.\nHow it works: Nvidia said it would purchase $3 billion of the $95 billion stock offering Meta announced Monday.\n-\nThe companies will \"partner to expand their work on Muse and the Muse family of models to improve inference and training performance,\" Nvidia said in a statement.\nWhat they're saying: \"We're excited to keep working with (Nvidia) to deliver the best personal agents and frontier models for billions of people,\" Meta CEO Mark Zuckerberg said in a statement.\n-\n\"AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,\" Nvidia CEO Jensen Huang said in the same statement.\nThe companies also released an image of Jolly, Muse's viral mascot, dressed as Huang — down to the signature leather jacket.\nMeta's Muse mascot, Jolly, and a version dressed as Nvidia CEO Jensen Huang. Credit: Nvidia.\nAI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.",
+    "text_blocks": [
+      "Nvidia (NVDA) will invest $3 billion in Meta (META) as part of an expanded partnership that includes closer collaboration on the Muse agent platform, the companies said Tuesday.",
+      "Why it matters: A multibillion-dollar Nvidia investment is becoming all but table stakes for serious AI players — a ready source of capital for their breakneck expansion and a guarantee for Nvidia of future revenue streams.",
+      "How it works: Nvidia said it would purchase $3 billion of the $95 billion stock offering Meta announced Monday.",
+      "-",
+      "The companies will \"partner to expand their work on Muse and the Muse family of models to improve inference and training performance,\" Nvidia said in a statement.",
+      "What they're saying: \"We're excited to keep working with (Nvidia) to deliver the best personal agents and frontier models for billions of people,\" Meta CEO Mark Zuckerberg said in a statement.",
+      "-",
+      "\"AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,\" Nvidia CEO Jensen Huang said in the same statement.",
+      "The companies also released an image of Jolly, Muse's viral mascot, dressed as Huang — down to the signature leather jacket.",
+      "Meta's Muse mascot, Jolly, and a version dressed as Nvidia CEO Jensen Huang. Credit: Nvidia.",
+      "AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com."
+    ],
+    "html": null
+  }
+}

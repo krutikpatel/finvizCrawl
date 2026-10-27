@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
+    "fetched_at": "2026-10-27T07:00:27.200150-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock market today: S&P 500, Nasdaq lead stocks higher as tech bounces back",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stock market today: S&P 500, Nasdaq lead stocks higher as tech bounces back\nUS stocks rose on Tuesday morning as the AI trade, earnings, and an upcoming Fed decision remained in focus.\nThe Dow Jones Industrial Average (^DJI) traded near the flat line, while the tech-heavy Nasdaq Composite (^IXIC) climbed 0.6%. The S&P 500 (^GSPC) gained 0.3%.\nAI stocks continued to benefit from revived enthusiasm after Anthropic's (ANTH.PVT) IPO investor prospectus, which the company filed publicly on Monday, highlighted the promise — and risks — of artificial intelligence. In Asia, the resurgent AI trade helped lift South Korean chip stocks and the KOSPI (^KS11) index.\nAnother catalyst for tech investors arrives Wednesday, when Alphabet (GOOG) and Microsoft (MSFT) report their third quarter results. In the meantime, on Tuesday, investors digested better-than-expected earnings from Coca-Cola (KO).\nAnticipation also continues to build ahead of the Federal Reserve's interest rate decision on Wednesday. Policymakers will begin their two-day meeting on Tuesday to discuss whether hotter-than-expected inflation warrants a rate hike. Investors aren't convinced the Fed will move, pricing in just 10% odds of a hike, per CME Group.",
+    "text_blocks": [
+      "Stock market today: S&P 500, Nasdaq lead stocks higher as tech bounces back",
+      "US stocks rose on Tuesday morning as the AI trade, earnings, and an upcoming Fed decision remained in focus.",
+      "The Dow Jones Industrial Average (^DJI) traded near the flat line, while the tech-heavy Nasdaq Composite (^IXIC) climbed 0.6%. The S&P 500 (^GSPC) gained 0.3%.",
+      "AI stocks continued to benefit from revived enthusiasm after Anthropic's (ANTH.PVT) IPO investor prospectus, which the company filed publicly on Monday, highlighted the promise — and risks — of artificial intelligence. In Asia, the resurgent AI trade helped lift South Korean chip stocks and the KOSPI (^KS11) index.",
+      "Another catalyst for tech investors arrives Wednesday, when Alphabet (GOOG) and Microsoft (MSFT) report their third quarter results. In the meantime, on Tuesday, investors digested better-than-expected earnings from Coca-Cola (KO).",
+      "Anticipation also continues to build ahead of the Federal Reserve's interest rate decision on Wednesday. Policymakers will begin their two-day meeting on Tuesday to discuss whether hotter-than-expected inflation warrants a rate hike. Investors aren't convinced the Fed will move, pricing in just 10% odds of a hike, per CME Group."
+    ],
+    "html": null
+  }
+}

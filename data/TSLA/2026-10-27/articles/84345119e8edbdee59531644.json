@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-price-musk-memory-9b555cd4?mod=bar_FV",
+    "fetched_at": "2026-10-27T07:00:03.447759-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.\nMicron Technology is on the rebound. The memory-chip company is gaining from renewed artificial-intelligence optimism and a major prediction about a robot-driven future from Elon Musk.\nMicron Technology is on the rebound. The memory-chip company is gaining from renewed artificial-intelligence optimism and a major prediction about a robot-driven future from Elon Musk.",
+    "text_blocks": [
+      "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
+      "Micron Technology is on the rebound. The memory-chip company is gaining from renewed artificial-intelligence optimism and a major prediction about a robot-driven future from Elon Musk.",
+      "Micron Technology is on the rebound. The memory-chip company is gaining from renewed artificial-intelligence optimism and a major prediction about a robot-driven future from Elon Musk."
+    ],
+    "html": null
+  }
+}

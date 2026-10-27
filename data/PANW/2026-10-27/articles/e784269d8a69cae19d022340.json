@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-paying-enough-swings-140803572.html",
+    "fetched_at": "2026-10-27T07:00:47.458126-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Is Cisco Stock Paying You Enough For The Swings?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investors holding Cisco Systems (CSCO) stock alongside broad market index funds are navigating a shifting business model. The company's sales of AI infrastructure to hyperscalers, the largest cloud companies, accounted for about 6% of fiscal 2026 revenue. That figure stood at less than 2% a year earlier. This rapid transition leaves the stock exposed to sharper price movements than the broader market. So what has Cisco paid you over five years for those swings?\nCisco Topped The Index, But Its Price Jumped Around\nOver the past five years, Cisco stock returned 19.1% a year including dividends. The S&P 500 returned 13.7% over the same period. Investors earned a higher payout, but they also absorbed a bumpier ride. Cisco recorded an annual volatility of 26.1% over those five years, a metric tracking the width of price swings. The index sat lower at 17.0%.\nDividing a return by its volatility reveals how much return a stock generates for every unit of price movement. Over the same five years, Cisco scored 0.73 on that metric. The S&P 500 posted 0.81. Cisco ultimately delivered higher absolute returns, yet the broader market provided slightly better compensation for the volatility investors endured.\nCisco Rose More Than The Market, Fell As Much\nWhen the broader market advanced over the past year, the index gained 0.65% on an average day, while Cisco gained 0.93%. On an average down day, the index fell 0.6% and Cisco lost 0.57%. Translated to dollars, an average positive session added about $93 to every $10,000 invested in Cisco stock. A typical negative session cost about $57 on that same sum. Factoring in every trading day over the past year, the stock moved about 1.05% for each 1% shift in the index.\nThose daily averages mask a much wider range of movement. Cisco logged a volatility of 34.9% across daily closes over the past year, far exceeding the 13.0% seen in the S&P 500. The stock and the index only loosely tracked one another, scoring 0.39 on a scale where 1 indicates perfect lockstep. That loose correlation suggests a good part of Cisco's movement comes on days of its own. Cisco also fell about as far as the index on bad days, so it does not steady your other money.\nIs Cisco Still Growing On Large, Uneven AI Orders?\nManagement confirms this dynamic is playing out, meaning investors are likely to see swings like the past year's continuing. During the fiscal Q4 2026 earnings call, management noted that AI orders from hyperscalers are massive in scale, nonlinear in their timing, and typically booked well in advance.",
+    "text_blocks": [
+      "Investors holding Cisco Systems (CSCO) stock alongside broad market index funds are navigating a shifting business model. The company's sales of AI infrastructure to hyperscalers, the largest cloud companies, accounted for about 6% of fiscal 2026 revenue. That figure stood at less than 2% a year earlier. This rapid transition leaves the stock exposed to sharper price movements than the broader market. So what has Cisco paid you over five years for those swings?",
+      "Cisco Topped The Index, But Its Price Jumped Around",
+      "Over the past five years, Cisco stock returned 19.1% a year including dividends. The S&P 500 returned 13.7% over the same period. Investors earned a higher payout, but they also absorbed a bumpier ride. Cisco recorded an annual volatility of 26.1% over those five years, a metric tracking the width of price swings. The index sat lower at 17.0%.",
+      "Dividing a return by its volatility reveals how much return a stock generates for every unit of price movement. Over the same five years, Cisco scored 0.73 on that metric. The S&P 500 posted 0.81. Cisco ultimately delivered higher absolute returns, yet the broader market provided slightly better compensation for the volatility investors endured.",
+      "Cisco Rose More Than The Market, Fell As Much",
+      "When the broader market advanced over the past year, the index gained 0.65% on an average day, while Cisco gained 0.93%. On an average down day, the index fell 0.6% and Cisco lost 0.57%. Translated to dollars, an average positive session added about $93 to every $10,000 invested in Cisco stock. A typical negative session cost about $57 on that same sum. Factoring in every trading day over the past year, the stock moved about 1.05% for each 1% shift in the index.",
+      "Those daily averages mask a much wider range of movement. Cisco logged a volatility of 34.9% across daily closes over the past year, far exceeding the 13.0% seen in the S&P 500. The stock and the index only loosely tracked one another, scoring 0.39 on a scale where 1 indicates perfect lockstep. That loose correlation suggests a good part of Cisco's movement comes on days of its own. Cisco also fell about as far as the index on bad days, so it does not steady your other money.",
+      "Is Cisco Still Growing On Large, Uneven AI Orders?",
+      "Management confirms this dynamic is playing out, meaning investors are likely to see swings like the past year's continuing. During the fiscal Q4 2026 earnings call, management noted that AI orders from hyperscalers are massive in scale, nonlinear in their timing, and typically booked well in advance."
+    ],
+    "html": null
+  }
+}

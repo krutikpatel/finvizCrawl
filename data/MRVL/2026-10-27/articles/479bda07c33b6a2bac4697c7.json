@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/wells-fargo-cisco-intuit-among-160103409.html",
+    "fetched_at": "2026-10-27T07:00:53.254852-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The list of companies that don't want their shares traded on OKX and ICE's planned tokenized stock venue keeps growing.\nWells Fargo, Cisco Systems, and Marvell Technology are among six new issuers named in an updated public notice from OKXICE TSV dated Friday. Arm Holdings, Moderna and Intuit round out the new additions. That brings the total to 22 objecting companies, up from 16 on Oct. 19 and nine on Oct. 15.\nEarlier objectors include Microsoft, Alphabet, Goldman Sachs, Verizon, Broadcom, and UnitedHealth Group. None of the notices explain the companies' reasons, or what effect an objection has on whether a stock can trade on the platform.\nWells Fargo joins Goldman Sachs as the second major U.S. bank on the list. Arm, Cisco, and Marvell add more chip and networking heavyweights to a roster already crowded with tech names, including Microsoft, Broadcom and Qualcomm.\nOKXICE TSV, a 50-50 joint venture between NYSE owner Intercontinental Exchange and OKX's U.S. holding company, plans to let approved users trade tokenized U.S. stocks 24/7. Trades would run through Uniswap v4 liquidity pools on OKX's XLayer blockchain, paired with stablecoins such as USDC.\nThe venue is set to operate under the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act stalled in the Senate. Since its Oct. 19 notice, the venue has said it can list shares tokenized by issuers themselves as well as by outside parties, a path none of the objectors appear to have taken yet.\nThe latest notice spells out the venue's risks in detail. Beyond pausing when the underlying stock is halted, it doesn't use circuit breakers. It has no policies addressing maximal extractable value, the profit traders can capture by reordering transactions on a blockchain.\nMicrosoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks\nIt warns that broker-dealers trading there face unsettled questions about trade reporting and best execution, which could limit their participation and thin out liquidity. Administrators can also upgrade the smart contracts without advance notice to users, and the contract that controls who can trade has been audited only internally.\nOKX and ICE first teamed up on tokenized securities earlier this year before unveiling the venue this month. Nasdaq, which won SEC approval for its own tokenized securities pilot, has said it will opt its shares out of the exemption. The IMF recently found real demand for tokenized stocks, especially during off hours when the stock market is closed, but warned that the market remains volatile and illiquid.",
+    "text_blocks": [
+      "The list of companies that don't want their shares traded on OKX and ICE's planned tokenized stock venue keeps growing.",
+      "Wells Fargo, Cisco Systems, and Marvell Technology are among six new issuers named in an updated public notice from OKXICE TSV dated Friday. Arm Holdings, Moderna and Intuit round out the new additions. That brings the total to 22 objecting companies, up from 16 on Oct. 19 and nine on Oct. 15.",
+      "Earlier objectors include Microsoft, Alphabet, Goldman Sachs, Verizon, Broadcom, and UnitedHealth Group. None of the notices explain the companies' reasons, or what effect an objection has on whether a stock can trade on the platform.",
+      "Wells Fargo joins Goldman Sachs as the second major U.S. bank on the list. Arm, Cisco, and Marvell add more chip and networking heavyweights to a roster already crowded with tech names, including Microsoft, Broadcom and Qualcomm.",
+      "OKXICE TSV, a 50-50 joint venture between NYSE owner Intercontinental Exchange and OKX's U.S. holding company, plans to let approved users trade tokenized U.S. stocks 24/7. Trades would run through Uniswap v4 liquidity pools on OKX's XLayer blockchain, paired with stablecoins such as USDC.",
+      "The venue is set to operate under the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act stalled in the Senate. Since its Oct. 19 notice, the venue has said it can list shares tokenized by issuers themselves as well as by outside parties, a path none of the objectors appear to have taken yet.",
+      "The latest notice spells out the venue's risks in detail. Beyond pausing when the underlying stock is halted, it doesn't use circuit breakers. It has no policies addressing maximal extractable value, the profit traders can capture by reordering transactions on a blockchain.",
+      "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "It warns that broker-dealers trading there face unsettled questions about trade reporting and best execution, which could limit their participation and thin out liquidity. Administrators can also upgrade the smart contracts without advance notice to users, and the contract that controls who can trade has been audited only internally.",
+      "OKX and ICE first teamed up on tokenized securities earlier this year before unveiling the venue this month. Nasdaq, which won SEC approval for its own tokenized securities pilot, has said it will opt its shares out of the exemption. The IMF recently found real demand for tokenized stocks, especially during off hours when the stock market is closed, but warned that the market remains volatile and illiquid."
+    ],
+    "html": null
+  }
+}

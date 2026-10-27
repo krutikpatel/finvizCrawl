@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-full-self-driving-rent-turo-e7214ad8?mod=bar_FV",
+    "fetched_at": "2026-10-27T07:00:03.463569-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Want to Test Tesla’s Full Self-Driving? You Can Now Rent It on Turo.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Want to Test Tesla’s Full Self-Driving? You Can Now Rent It on Turo.\nTesla’s Full Self-Driving software is a reason people are buying Teslas. Now, there is a new way for anyone to test out the system before forking over cash to Elon Musk’s EV maker.\nTesla’s Full Self-Driving software is a reason people are buying Teslas. Now, there is a new way for anyone to test out the system before forking over cash to Elon Musk’s EV maker.",
+    "text_blocks": [
+      "Want to Test Tesla’s Full Self-Driving? You Can Now Rent It on Turo.",
+      "Tesla’s Full Self-Driving software is a reason people are buying Teslas. Now, there is a new way for anyone to test out the system before forking over cash to Elon Musk’s EV maker.",
+      "Tesla’s Full Self-Driving software is a reason people are buying Teslas. Now, there is a new way for anyone to test out the system before forking over cash to Elon Musk’s EV maker."
+    ],
+    "html": null
+  }
+}

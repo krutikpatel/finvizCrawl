@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/anthropic-ipo-filing-prospectus-ai/card/cybersecurity-could-be-anthropic-s-next-big-opportunity-tJSpmVyOOvCV5tgfirtq?mod=mw_FV",
+    "fetched_at": "2026-10-27T07:00:47.124483-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cybersecurity could be Anthropic's next big opportunity - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "17 hours ago\nCybersecurity could be Anthropic's next big opportunity\nAs AI capabilities rapidly improve, Anthropic has been partnering with select organizations to help them shore up their cybersecurity capabilities. In a Monday note, Evercore ISI analyst Peter Levine called Anthropic a \"potential disruptor\" across vulnerability discovery and code scanning.\nThe company's Claude Security product can continuously scan customers' codebases and write fixes, Anthropic said in its S-1, adding that cybersecurity is following a \"similar curve\" to the explosion of AI coding capabilities. The company also recently launched OSS Scanner, which extends vulnerability-discovery capabilities to open-source software repositories.\nHowever, Levine believes that Anthropic could benefit large cybersecurity platforms like CrowdStrike and Palo Alto Networks, acting more like a partner than a competitor and helping them consolidate market share.",
+    "text_blocks": [
+      "17 hours ago",
+      "Cybersecurity could be Anthropic's next big opportunity",
+      "As AI capabilities rapidly improve, Anthropic has been partnering with select organizations to help them shore up their cybersecurity capabilities. In a Monday note, Evercore ISI analyst Peter Levine called Anthropic a \"potential disruptor\" across vulnerability discovery and code scanning.",
+      "The company's Claude Security product can continuously scan customers' codebases and write fixes, Anthropic said in its S-1, adding that cybersecurity is following a \"similar curve\" to the explosion of AI coding capabilities. The company also recently launched OSS Scanner, which extends vulnerability-discovery capabilities to open-source software repositories.",
+      "However, Levine believes that Anthropic could benefit large cybersecurity platforms like CrowdStrike and Palo Alto Networks, acting more like a partner than a competitor and helping them consolidate market share."
+    ],
+    "html": null
+  }
+}

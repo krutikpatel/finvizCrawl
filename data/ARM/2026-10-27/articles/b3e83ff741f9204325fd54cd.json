@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/oracle-ibm-intel-opted-okx-100013966.html",
+    "fetched_at": "2026-10-27T07:00:50.383023-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle, IBM and Intel Have Opted Out of OKX-ICE Stock Tokens, Venue’s Own Notice Shows",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The tokenized stock venue run by Intercontinental Exchange and OKX now counts 26 companies that have objected to tokenized versions of their shares trading on it, according to a revised public notice the venue published dated Oct. 26. That is four more than the 22 objectors Unchained reported on Oct. 23.\nThe last four names on the notice's list are IBM, IonQ, Oracle and Intel. Moderna, Cisco and Marvell Technology also appear. None of those seven were named in Unchained's earlier coverage. The full list also includes Microsoft, Alphabet, Goldman Sachs, Broadcom, Verizon, Wells Fargo, Arm Holdings and Intuit. The notice gives no reason for any objection and no launch date.\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nHow an Objection Works\nThe SEC's tokenized securities venue exemption, an order dated Sept. 17 that is set to expire Sept. 17, 2031, lets an issuer keep its stock off such a venue. When a third party unaffiliated with the company makes the token, the venue must notify the issuer and wait at least 30 calendar days before trading starts. If an issuer objects in writing during that window, the token can't trade. The venue gets five business days after that to list the objection in an updated notice.\nThe venue is operated by OKXICE LLC, a Texas company owned 50% by ICE and 50% by OKC USA Holding, the joint venture the two firms formed. Trading will run through permissioned Uniswap v4 pools on XLayer, which will be open only to wallets holding a soulbound token (SBT) that OKXICE issues. The notice states the venue is not registered with the SEC for these activities and \"is not subject to Regulation NMS.\"\nRisks the Venue Discloses\nThe notice repeats risk warnings that have appeared in earlier versions. Decrypt reported on Oct. 25, citing the Oct. 23 notice, that administrators could change the venue's contracts with no warning to users and that the contract controlling trading access had been reviewed only in-house.\n\"The SBT smart contract has been audited internally, but not by external auditors,\" the notice says in its risk section. A second contract, the hook that checks those tokens on every trade, is to be audited internally and by Certified Kernel Tech LLC before it goes live.\nAdministrator keys for the contracts are managed by OKX Technology Inc., and contract changes \"take effect without a timelock, so TSV Participants may receive no advance notice of an upgrade,\" according to the notice.\nOn investor protection, the venue writes that whether tokens \"held in a self-custodied wallet would be treated as customer property or protected by the Securities Investor Protection Corporation is uncertain, and any recovery could be delayed or incomplete.\"",
+    "text_blocks": [
+      "The tokenized stock venue run by Intercontinental Exchange and OKX now counts 26 companies that have objected to tokenized versions of their shares trading on it, according to a revised public notice the venue published dated Oct. 26. That is four more than the 22 objectors Unchained reported on Oct. 23.",
+      "The last four names on the notice's list are IBM, IonQ, Oracle and Intel. Moderna, Cisco and Marvell Technology also appear. None of those seven were named in Unchained's earlier coverage. The full list also includes Microsoft, Alphabet, Goldman Sachs, Broadcom, Verizon, Wells Fargo, Arm Holdings and Intuit. The notice gives no reason for any objection and no launch date.",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "How an Objection Works",
+      "The SEC's tokenized securities venue exemption, an order dated Sept. 17 that is set to expire Sept. 17, 2031, lets an issuer keep its stock off such a venue. When a third party unaffiliated with the company makes the token, the venue must notify the issuer and wait at least 30 calendar days before trading starts. If an issuer objects in writing during that window, the token can't trade. The venue gets five business days after that to list the objection in an updated notice.",
+      "The venue is operated by OKXICE LLC, a Texas company owned 50% by ICE and 50% by OKC USA Holding, the joint venture the two firms formed. Trading will run through permissioned Uniswap v4 pools on XLayer, which will be open only to wallets holding a soulbound token (SBT) that OKXICE issues. The notice states the venue is not registered with the SEC for these activities and \"is not subject to Regulation NMS.\"",
+      "Risks the Venue Discloses",
+      "The notice repeats risk warnings that have appeared in earlier versions. Decrypt reported on Oct. 25, citing the Oct. 23 notice, that administrators could change the venue's contracts with no warning to users and that the contract controlling trading access had been reviewed only in-house.",
+      "\"The SBT smart contract has been audited internally, but not by external auditors,\" the notice says in its risk section. A second contract, the hook that checks those tokens on every trade, is to be audited internally and by Certified Kernel Tech LLC before it goes live.",
+      "Administrator keys for the contracts are managed by OKX Technology Inc., and contract changes \"take effect without a timelock, so TSV Participants may receive no advance notice of an upgrade,\" according to the notice.",
+      "On investor protection, the venue writes that whether tokens \"held in a self-custodied wallet would be treated as customer property or protected by the Securities Investor Protection Corporation is uncertain, and any recovery could be delayed or incomplete.\""
+    ],
+    "html": null
+  }
+}
