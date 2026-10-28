@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-q3-revenue-hits-1-131217903.html",
+    "fetched_at": "2026-10-28T07:00:16.553557-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood Q3 Revenue Hits $1.42B as Prediction Markets Surge 6X, Crypto Revenue Crashes 55%",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Takeaways\n-\nRobinhood's Q3 revenue rose 12% to a record $1.424 billion.\n-\nPrediction-market revenue grew more than sixfold to $173 million, overtaking crypto.\n-\nCrypto revenue dropped 55% to $120 million as trading volume fell 38%.\nRobinhood reported record third-quarter revenue of $1.424 billion as surging prediction-market activity and stronger stock and options trading offset a sharp decline in cryptocurrency revenue.\nThe results showed revenue rising 12% year-over-year and 9% from the previous quarter.\nEvent-contract revenue grew more than sixfold, while crypto revenue dropped 55%, highlighting a significant shift in the platform's trading mix.\nGrowing subscriptions and Trump Account service revenue provided additional support, although record sales did not translate into higher net profit.\nPrediction Markets Overtake Crypto Revenue\nRobinhood generated $173 million from event contracts during the quarter, exceeding its $120 million in cryptocurrency revenue by $53 million.\nCustomers traded a record 16.4 billion event contracts, more than seven times the year-earlier total. Revenue grew more than sixfold, a separate measure that reflects how trading activity translated into sales.\nThe expansion helped transaction-based revenue climb 19% to $867 million. Options remained the largest disclosed component, generating $399 million, up 31%, while equities revenue increased 41% to $121 million.\nTrading volumes reinforced the contrast. Equity notional volume rose 53% to a record $992 billion, and customers traded 905 million options contracts, up 48%.\nMeanwhile, crypto notional volume fell 38% to $50 billion. Robinhood App volume declined 48% to $21 billion, while Bitstamp volume dropped 28% to $29 billion.\nCrypto revenue therefore contracted faster than trading volume. The headline figures alone do not establish how much pricing, customer activity or trading mix contributed to that gap.\nThe results nevertheless show Robinhood sustaining growth despite weaker cryptocurrency trading.\nRecord Revenue Masks Lower Profit\nRobinhood's profitability figures presented a more complicated picture than its record revenue.\nNet income declined 14% year-over-year to $476 million, while diluted earnings per share fell 16% to $0.51. The company recorded $67 million in unrealized losses, primarily associated with marking its Robinhood Ventures Fund I investment to market.\nAdjusted net income fell 3% to $550 million, and adjusted EPS declined 3% to $0.60. Robinhood introduced those adjusted measures this quarter to show profitability before certain non-operating items.",
+    "text_blocks": [
+      "Key Takeaways",
+      "-",
+      "Robinhood's Q3 revenue rose 12% to a record $1.424 billion.",
+      "-",
+      "Prediction-market revenue grew more than sixfold to $173 million, overtaking crypto.",
+      "-",
+      "Crypto revenue dropped 55% to $120 million as trading volume fell 38%.",
+      "Robinhood reported record third-quarter revenue of $1.424 billion as surging prediction-market activity and stronger stock and options trading offset a sharp decline in cryptocurrency revenue.",
+      "The results showed revenue rising 12% year-over-year and 9% from the previous quarter.",
+      "Event-contract revenue grew more than sixfold, while crypto revenue dropped 55%, highlighting a significant shift in the platform's trading mix.",
+      "Growing subscriptions and Trump Account service revenue provided additional support, although record sales did not translate into higher net profit.",
+      "Prediction Markets Overtake Crypto Revenue",
+      "Robinhood generated $173 million from event contracts during the quarter, exceeding its $120 million in cryptocurrency revenue by $53 million.",
+      "Customers traded a record 16.4 billion event contracts, more than seven times the year-earlier total. Revenue grew more than sixfold, a separate measure that reflects how trading activity translated into sales.",
+      "The expansion helped transaction-based revenue climb 19% to $867 million. Options remained the largest disclosed component, generating $399 million, up 31%, while equities revenue increased 41% to $121 million.",
+      "Trading volumes reinforced the contrast. Equity notional volume rose 53% to a record $992 billion, and customers traded 905 million options contracts, up 48%.",
+      "Meanwhile, crypto notional volume fell 38% to $50 billion. Robinhood App volume declined 48% to $21 billion, while Bitstamp volume dropped 28% to $29 billion.",
+      "Crypto revenue therefore contracted faster than trading volume. The headline figures alone do not establish how much pricing, customer activity or trading mix contributed to that gap.",
+      "The results nevertheless show Robinhood sustaining growth despite weaker cryptocurrency trading.",
+      "Record Revenue Masks Lower Profit",
+      "Robinhood's profitability figures presented a more complicated picture than its record revenue.",
+      "Net income declined 14% year-over-year to $476 million, while diluted earnings per share fell 16% to $0.51. The company recorded $67 million in unrealized losses, primarily associated with marking its Robinhood Ventures Fund I investment to market.",
+      "Adjusted net income fell 3% to $550 million, and adjusted EPS declined 3% to $0.60. Robinhood introduced those adjusted measures this quarter to show profitability before certain non-operating items."
+    ],
+    "html": null
+  }
+}

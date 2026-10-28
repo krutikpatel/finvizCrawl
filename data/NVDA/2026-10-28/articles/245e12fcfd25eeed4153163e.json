@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/amd-broadcom-and-micron-stocks-lead-chip-sector-higher-for-third-day-in-a-row-135756484.html",
+    "fetched_at": "2026-10-28T07:00:35.845624-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD, Broadcom, and Micron stocks lead chip sector higher for third day in a row",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Semiconductor stocks edged higher on Wednesday, with the PHLX Semiconductor Index (^SOX) rising for a third day in a row.\nShares of AI chip heavyweight Nvidia (NVDA) rose almost 1% before trimming gains, while AMD (AMD) and Broadcom (AVGO) edged higher. Intel (INTC) also trimmed gains.\nThe move came after SK Hynix (SKHY) saw profits increase sevenfold last quarter. The South Korean memory maker sees a supply shortage for memory heading into 2030 as AI inference surges and adoption shifts from cloud providers to physical AI applications like robotics and autonomous driving.\nShares of peers Micron Technology (MU) and Samsung Electronics (005930.KS) jumped 4% and 9%, respectively. Among semiconductor equipment makers, Applied Materials (AMAT) and Lam Research (LRCX) also rose more than 2%.\nSemiconductor companies have been key beneficiaries of the AI build-out. Concerns over AI spending and neocloud debt weighed on the sector in recent weeks, but improving sentiment has driven chip stocks higher over the past three sessions.\nNot all corners of the AI trade jumped. Seagate (STX) declined despite beating on both the top and bottom lines in its latest quarter. Total revenue jumped, but the actual volume of data storage shipped was flat compared to last quarter. Investors took profits after shares of the hard disk drive maker rose 140% year to date.\nMeanwhile, peer Sandisk (SNDK), which reports on Thursday, gained more than 4% in premarket. The stock rose after Seagate confirmed that AI and data center demand remains white-hot, with customer storage commitments locked through 2028-2030.\nInes Ferre is a senior business reporter for Yahoo Finance.",
+    "text_blocks": [
+      "Semiconductor stocks edged higher on Wednesday, with the PHLX Semiconductor Index (^SOX) rising for a third day in a row.",
+      "Shares of AI chip heavyweight Nvidia (NVDA) rose almost 1% before trimming gains, while AMD (AMD) and Broadcom (AVGO) edged higher. Intel (INTC) also trimmed gains.",
+      "The move came after SK Hynix (SKHY) saw profits increase sevenfold last quarter. The South Korean memory maker sees a supply shortage for memory heading into 2030 as AI inference surges and adoption shifts from cloud providers to physical AI applications like robotics and autonomous driving.",
+      "Shares of peers Micron Technology (MU) and Samsung Electronics (005930.KS) jumped 4% and 9%, respectively. Among semiconductor equipment makers, Applied Materials (AMAT) and Lam Research (LRCX) also rose more than 2%.",
+      "Semiconductor companies have been key beneficiaries of the AI build-out. Concerns over AI spending and neocloud debt weighed on the sector in recent weeks, but improving sentiment has driven chip stocks higher over the past three sessions.",
+      "Not all corners of the AI trade jumped. Seagate (STX) declined despite beating on both the top and bottom lines in its latest quarter. Total revenue jumped, but the actual volume of data storage shipped was flat compared to last quarter. Investors took profits after shares of the hard disk drive maker rose 140% year to date.",
+      "Meanwhile, peer Sandisk (SNDK), which reports on Thursday, gained more than 4% in premarket. The stock rose after Seagate confirmed that AI and data center demand remains white-hot, with customer storage commitments locked through 2028-2030.",
+      "Ines Ferre is a senior business reporter for Yahoo Finance."
+    ],
+    "html": null
+  }
+}

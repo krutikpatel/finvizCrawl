@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=wsj_FV",
+    "fetched_at": "2026-10-28T07:00:20.923975-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "At the end of a previous lending boom, back in 2007, then-Citigroup C 1.36%increase; up pointing triangle CEO Charles Prince famously said: “As long as the music is playing, you’ve got to get up and dance.”\nThis time around, with artificial intelligence now a driving force, banks are definitely up and dancing. But they are also eyeing possible seats and listening more keenly for a pause in the music.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "At the end of a previous lending boom, back in 2007, then-Citigroup C 1.36%increase; up pointing triangle CEO Charles Prince famously said: “As long as the music is playing, you’ve got to get up and dance.”",
+      "This time around, with artificial intelligence now a driving force, banks are definitely up and dancing. But they are also eyeing possible seats and listening more keenly for a pause in the music.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

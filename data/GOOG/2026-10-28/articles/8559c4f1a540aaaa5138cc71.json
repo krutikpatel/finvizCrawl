@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/google-earnings-prediction-market-preview-133547598.html",
+    "fetched_at": "2026-10-28T07:00:23.501725-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Earnings Prediction Market Preview: What Will Sundar Pichai Say?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nAlphabet Inc. (NASDAQ:GOOGL) reports third-quarter earnings Wednesday, with CEO Sundar Pichai facing a $200 billion question: Is Google's massive AI spending paying off?\nOn Kalshi, traders have wagered more than $171,000 on which words Pichai and his team will say during the call.\nAnalysts expect earnings of about $3.02 per share on revenue near $128 billion, up 25% from a year ago.\nAlphabet shares have gained just 2% this year and sit roughly 22% below their May high.\nWhat Kalshi Predicts Google Will Say\n\"Gemini\" leads at 98% for at least three mentions. Google's flagship AI powers products across Search, Workspace and Cloud, making it central to the company's competition with OpenAI and Anthropic.\nThe Gemini app reached 950 million monthly users last quarter, while Google said nearly 90% of Fortune 100 companies use Gemini Enterprise. Investors will be watching whether that adoption translates into revenue.\n\"AI Mode\" follows at 92%. Google's conversational search feature faces a more immediate financial test: whether AI-powered answers can generate as much advertising revenue as traditional search.\n\"Nvidia\" trades at 84%. Google Cloud rents out Nvidia (NASDAQ:NVDA) GPUs, but its own Tensor Processing Units (TPUs), are emerging as a challenge to Nvidia's dominance.\nOracle announced Tuesday it will offer Google's TPUs to cloud customers starting in 2027, potentially expanding Google's chip business beyond its own cloud platform.\n\"Wiz\" sits at 79%. Google completed its $32 billion acquisition of the cloud security firm in March, expanding its enterprise offering.\n\"Headwind\" is at 76%. CFO Anat Ashkenazi warned that currency movements could weigh on third-quarter Search and YouTube advertising revenue.\n\"Chrome\" trades at 73%. The world's most popular browser drives traffic to Google's lucrative Search business and now integrates Gemini, turning it into a key distribution channel for Google's AI.\nA federal judge rejected a forced sale of Chrome last year, but the Justice Department is appealing that decision.\nWhat Kalshi Predicts Google Will Skip\n\"Regulator,\" \"Regulation\" or \"Regulatory\" trades at 23%, despite Google's ongoing legal battles over Search.\n\"Ironwood\" trades at just 16%. Google unveiled its eighth-generation AI chips, TPU 8t and TPU 8i, in April, promising major performance improvements over Ironwood. Traders may expect Pichai to focus on the newer chips instead.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Alphabet Inc. (NASDAQ:GOOGL) reports third-quarter earnings Wednesday, with CEO Sundar Pichai facing a $200 billion question: Is Google's massive AI spending paying off?",
+      "On Kalshi, traders have wagered more than $171,000 on which words Pichai and his team will say during the call.",
+      "Analysts expect earnings of about $3.02 per share on revenue near $128 billion, up 25% from a year ago.",
+      "Alphabet shares have gained just 2% this year and sit roughly 22% below their May high.",
+      "What Kalshi Predicts Google Will Say",
+      "\"Gemini\" leads at 98% for at least three mentions. Google's flagship AI powers products across Search, Workspace and Cloud, making it central to the company's competition with OpenAI and Anthropic.",
+      "The Gemini app reached 950 million monthly users last quarter, while Google said nearly 90% of Fortune 100 companies use Gemini Enterprise. Investors will be watching whether that adoption translates into revenue.",
+      "\"AI Mode\" follows at 92%. Google's conversational search feature faces a more immediate financial test: whether AI-powered answers can generate as much advertising revenue as traditional search.",
+      "\"Nvidia\" trades at 84%. Google Cloud rents out Nvidia (NASDAQ:NVDA) GPUs, but its own Tensor Processing Units (TPUs), are emerging as a challenge to Nvidia's dominance.",
+      "Oracle announced Tuesday it will offer Google's TPUs to cloud customers starting in 2027, potentially expanding Google's chip business beyond its own cloud platform.",
+      "\"Wiz\" sits at 79%. Google completed its $32 billion acquisition of the cloud security firm in March, expanding its enterprise offering.",
+      "\"Headwind\" is at 76%. CFO Anat Ashkenazi warned that currency movements could weigh on third-quarter Search and YouTube advertising revenue.",
+      "\"Chrome\" trades at 73%. The world's most popular browser drives traffic to Google's lucrative Search business and now integrates Gemini, turning it into a key distribution channel for Google's AI.",
+      "A federal judge rejected a forced sale of Chrome last year, but the Justice Department is appealing that decision.",
+      "What Kalshi Predicts Google Will Skip",
+      "\"Regulator,\" \"Regulation\" or \"Regulatory\" trades at 23%, despite Google's ongoing legal battles over Search.",
+      "\"Ironwood\" trades at just 16%. Google unveiled its eighth-generation AI chips, TPU 8t and TPU 8i, in April, promising major performance improvements over Ironwood. Traders may expect Pichai to focus on the newer chips instead."
+    ],
+    "html": null
+  }
+}

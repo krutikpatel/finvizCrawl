@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-stock-rises-openai-plans-133455553.html",
+    "fetched_at": "2026-10-28T07:00:23.350069-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet stock rises as OpenAI plans to buy Google’s TPUs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - Alphabet shares are trading up more than 1% in premarket Wednesday after The Information reported that OpenAI plans to purchase Google's Tensor Processing Units outright.\nThe prospect of the world's most prominent AI startup becoming a paying customer for Google's chips sent GOOGL to the top of the large-cap leaderboard on a morning when the stock already had a major catalyst of its own: Parent company Alphabet is scheduled to release its third-quarter 2026 results after Wednesday's close.\nReuters reported in June 2025 that OpenAI had begun renting Google's TPUs; moving to an outright purchase signals a deeper, longer-duration commitment. That shift matters for Alphabet's revenue recognition timeline. CFO Anat Ashkenazi has said the company expects to begin recognizing a small share of TPU sales revenue by the end of 2026, with the vast majority expected in 2027.\nDemand has already grown fast enough that Google's own researchers have reportedly had to wait for chip access, with Anthropic cited as another customer straining supply.\nThe commercial ties between OpenAI and Google have deepened rapidly. Last week, OpenAI said it would make its frontier AI models available through Google Cloud — an arrangement that positions the two companies as both partners and rivals in AI products and search.\nThe planned chip purchase extends that relationship into hardware, giving Google's TPU program a marquee customer that rivals Nvidia's own installed base.\nThe TPU deal adds to a growing pattern of hyperscalers and AI labs diversifying away from a single chip architecture, though Nvidia's scale advantage remains substantial.\nOriginal Article\nAlphabet stock rises as OpenAI plans to buy Google's TPUs",
+    "text_blocks": [
+      "Investing.com - Alphabet shares are trading up more than 1% in premarket Wednesday after The Information reported that OpenAI plans to purchase Google's Tensor Processing Units outright.",
+      "The prospect of the world's most prominent AI startup becoming a paying customer for Google's chips sent GOOGL to the top of the large-cap leaderboard on a morning when the stock already had a major catalyst of its own: Parent company Alphabet is scheduled to release its third-quarter 2026 results after Wednesday's close.",
+      "Reuters reported in June 2025 that OpenAI had begun renting Google's TPUs; moving to an outright purchase signals a deeper, longer-duration commitment. That shift matters for Alphabet's revenue recognition timeline. CFO Anat Ashkenazi has said the company expects to begin recognizing a small share of TPU sales revenue by the end of 2026, with the vast majority expected in 2027.",
+      "Demand has already grown fast enough that Google's own researchers have reportedly had to wait for chip access, with Anthropic cited as another customer straining supply.",
+      "The commercial ties between OpenAI and Google have deepened rapidly. Last week, OpenAI said it would make its frontier AI models available through Google Cloud — an arrangement that positions the two companies as both partners and rivals in AI products and search.",
+      "The planned chip purchase extends that relationship into hardware, giving Google's TPU program a marquee customer that rivals Nvidia's own installed base.",
+      "The TPU deal adds to a growing pattern of hyperscalers and AI labs diversifying away from a single chip architecture, though Nvidia's scale advantage remains substantial.",
+      "Original Article",
+      "Alphabet stock rises as OpenAI plans to buy Google's TPUs"
+    ],
+    "html": null
+  }
+}

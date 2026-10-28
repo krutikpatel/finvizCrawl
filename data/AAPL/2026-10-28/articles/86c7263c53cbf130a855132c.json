@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/south-korea-media-commission-fines-104659944.html",
+    "fetched_at": "2026-10-28T07:00:05.728650-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "South Korea media commission fines Google and Apple over app payment systems",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SEOUL, Oct 28 (Reuters) - South Korea's Media and Communications Commission has fined Google and Apple for limiting users to specific app payment systems and ordered corrective measures, the regulator said on Wednesday.\nGoogle was fined 42.9 billion won ($32.35 million) and Apple 20.8 billion won, the commission said in a statement.\nApple said it disagreed with the decision and was evaluating options in accordance with South Korean laws. It said it has worked with outside developers to enable innovation through its App Store.\nGoogle did not immediately have comment when contacted by Reuters.\n($1 = 1,326.0900 won)\n(Reporting by Jack KimEditing by Ed Davies and Tomasz Janowski)",
+    "text_blocks": [
+      "SEOUL, Oct 28 (Reuters) - South Korea's Media and Communications Commission has fined Google and Apple for limiting users to specific app payment systems and ordered corrective measures, the regulator said on Wednesday.",
+      "Google was fined 42.9 billion won ($32.35 million) and Apple 20.8 billion won, the commission said in a statement.",
+      "Apple said it disagreed with the decision and was evaluating options in accordance with South Korean laws. It said it has worked with outside developers to enable innovation through its App Store.",
+      "Google did not immediately have comment when contacted by Reuters.",
+      "($1 = 1,326.0900 won)",
+      "(Reporting by Jack KimEditing by Ed Davies and Tomasz Janowski)"
+    ],
+    "html": null
+  }
+}

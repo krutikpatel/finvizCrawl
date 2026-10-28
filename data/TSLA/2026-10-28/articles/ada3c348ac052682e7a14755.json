@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/spacex-stock-filing-ai-demand-tesla-4d288253?mod=bar_FV",
+    "fetched_at": "2026-10-28T07:00:02.627360-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Hidden Gems in the SpaceX Filing: Soaring Compute Rates and Deep Tesla Ties<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Hidden Gems in the SpaceX Filing: Soaring Compute Rates and Deep Tesla Ties\nThey can be dry, but it’s always a good idea to read a company’s Securities and Exchange Commission filings. A quarterly 10-Q report contains more detail than a typical earnings release.",
+    "text_blocks": [
+      "Hidden Gems in the SpaceX Filing: Soaring Compute Rates and Deep Tesla Ties",
+      "They can be dry, but it’s always a good idea to read a company’s Securities and Exchange Commission filings. A quarterly 10-Q report contains more detail than a typical earnings release."
+    ],
+    "html": null
+  }
+}

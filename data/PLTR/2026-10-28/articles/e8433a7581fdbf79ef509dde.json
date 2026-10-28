@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/disruptive-raises-10b-fund-big-185535287.html",
+    "fetched_at": "2026-10-28T07:00:31.979098-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Dallas-based investment firm Disruptive, whose past bets include Palantir, Airbnb, and Spotify, announced a $10 billion fund to back at least 10 late-stage companies, with checks of up to $1 billion, it said Tuesday.\nIt's one of the biggest fundraises of the year so far, aiming to back (what else?!) the capital-intensive fields of AI and defense. The Wall Street Journal first reported earlier this month that the firm was seeking to raise the fund and by then had already secured at least $7.5 billion in capital commitments.\nThe firm was founded in 2012 by Alex Davis, grandson of billionaire oil magnate Marvin Davis.\nThis is technically the firm's first blind-pool fund, meaning investors commit money without knowing which companies it will back. Until now, the firm raised money through deal-by-deal special purpose vehicles. Disruptive has nonetheless made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs. Bloomberg reported that the firm told LPs it has returned more than $6 billion on the roughly $1.9 billion it has put into startups.\nAccording to the Dallas Business Journal, the new vehicle is the largest venture fund raised in Texas history.",
+    "text_blocks": [
+      "The Dallas-based investment firm Disruptive, whose past bets include Palantir, Airbnb, and Spotify, announced a $10 billion fund to back at least 10 late-stage companies, with checks of up to $1 billion, it said Tuesday.",
+      "It's one of the biggest fundraises of the year so far, aiming to back (what else?!) the capital-intensive fields of AI and defense. The Wall Street Journal first reported earlier this month that the firm was seeking to raise the fund and by then had already secured at least $7.5 billion in capital commitments.",
+      "The firm was founded in 2012 by Alex Davis, grandson of billionaire oil magnate Marvin Davis.",
+      "This is technically the firm's first blind-pool fund, meaning investors commit money without knowing which companies it will back. Until now, the firm raised money through deal-by-deal special purpose vehicles. Disruptive has nonetheless made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs. Bloomberg reported that the firm told LPs it has returned more than $6 billion on the roughly $1.9 billion it has put into startups.",
+      "According to the Dallas Business Journal, the new vehicle is the largest venture fund raised in Texas history."
+    ],
+    "html": null
+  }
+}

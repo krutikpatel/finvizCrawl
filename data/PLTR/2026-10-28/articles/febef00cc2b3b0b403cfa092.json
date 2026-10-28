@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/palantir-technologies-stock-ai-a4443e84?mod=bar_FV",
+    "fetched_at": "2026-10-28T07:00:31.879850-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir’s Growth Looks Unstoppable. There’s 1 Major Risk.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palantir’s Growth Looks Unstoppable. There’s 1 Major Risk.\nPalantir Technologies has experienced robust sales growth this year, and that trend is all but guaranteed to continue in 2027. That’s just one of many reasons for Wall Street to be bullish on the software company.",
+    "text_blocks": [
+      "Palantir’s Growth Looks Unstoppable. There’s 1 Major Risk.",
+      "Palantir Technologies has experienced robust sales growth this year, and that trend is all but guaranteed to continue in 2027. That’s just one of many reasons for Wall Street to be bullish on the software company."
+    ],
+    "html": null
+  }
+}

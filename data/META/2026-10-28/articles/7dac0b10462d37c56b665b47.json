@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/alphabet-earnings-stock-google-results-q3-googl?mod=mw_FV",
+    "fetched_at": "2026-10-28T07:00:08.382656-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet earnings are just hours away. This is what matters most for Google. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nOct. 28, 2026 at 9:00am ET\nAlphabet earnings are just hours away. This is what matters most for Google.\nAlphabet is due to report earnings on Wednesday afternoon, with analysts expecting that the revenue growth of its Google Cloud business could approach 90%.\nLatest Updates\nAlphabet is heading into third-quarter earnings with a lower bar to clear, according to Mizuho analyst Lloyd Walmsley.\nInstitutional investors have grown cautious on the stock as a result of increased competition from Meta's Muse agent, \"which actually helps the short-term setup into earnings,\" Walmsley wrote in a note last week. Since September, shares of Meta have outperformed Alphabet by 14 percentage points.\nIncreased usage of AI agents for use cases like shopping and travel might gradually erode Alphabet's traditional search business, but Walmsley sees very limited \"near-term budget risk.\" For the third quarter, strong cloud growth should be more than enough to offset any weaknesses elsewhere, he said.",
+    "text_blocks": [
+      "LIVE",
+      "Oct. 28, 2026 at 9:00am ET",
+      "Alphabet earnings are just hours away. This is what matters most for Google.",
+      "Alphabet is due to report earnings on Wednesday afternoon, with analysts expecting that the revenue growth of its Google Cloud business could approach 90%.",
+      "Latest Updates",
+      "Alphabet is heading into third-quarter earnings with a lower bar to clear, according to Mizuho analyst Lloyd Walmsley.",
+      "Institutional investors have grown cautious on the stock as a result of increased competition from Meta's Muse agent, \"which actually helps the short-term setup into earnings,\" Walmsley wrote in a note last week. Since September, shares of Meta have outperformed Alphabet by 14 percentage points.",
+      "Increased usage of AI agents for use cases like shopping and travel might gradually erode Alphabet's traditional search business, but Walmsley sees very limited \"near-term budget risk.\" For the third quarter, strong cloud growth should be more than enough to offset any weaknesses elsewhere, he said."
+    ],
+    "html": null
+  }
+}

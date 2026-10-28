@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/alphabet-earnings-stock-google-results-q3-googl/card/wall-street-cautious-view-could-work-in-alphabet-s-favor-AKtX4GIXw5dF6Klx3u7w?mod=mw_FV",
+    "fetched_at": "2026-10-28T07:00:08.432742-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street cautious view could work in Alphabet's favor - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "1 hour ago\nWall Street cautious view could work in Alphabet's favor\nAlphabet is heading into third-quarter earnings with a lower bar to clear, according to Mizuho analyst Lloyd Walmsley.\nInstitutional investors have grown cautious on the stock as a result of increased competition from Meta's Muse agent, \"which actually helps the short-term setup into earnings,\" Walmsley wrote in a note last week. Since September, shares of Meta have outperformed Alphabet by 14 percentage points.\nIncreased usage of AI agents for use cases like shopping and travel might gradually erode Alphabet's traditional search business, but Walmsley sees very limited \"near-term budget risk.\" For the third quarter, strong cloud growth should be more than enough to offset any weaknesses elsewhere, he said.",
+    "text_blocks": [
+      "1 hour ago",
+      "Wall Street cautious view could work in Alphabet's favor",
+      "Alphabet is heading into third-quarter earnings with a lower bar to clear, according to Mizuho analyst Lloyd Walmsley.",
+      "Institutional investors have grown cautious on the stock as a result of increased competition from Meta's Muse agent, \"which actually helps the short-term setup into earnings,\" Walmsley wrote in a note last week. Since September, shares of Meta have outperformed Alphabet by 14 percentage points.",
+      "Increased usage of AI agents for use cases like shopping and travel might gradually erode Alphabet's traditional search business, but Walmsley sees very limited \"near-term budget risk.\" For the third quarter, strong cloud growth should be more than enough to offset any weaknesses elsewhere, he said."
+    ],
+    "html": null
+  }
+}

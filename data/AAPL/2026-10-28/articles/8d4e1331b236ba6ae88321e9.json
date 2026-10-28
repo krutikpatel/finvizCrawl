@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/south-korea-fines-google-apple-095158608.html",
+    "fetched_at": "2026-10-28T07:00:05.748172-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "South Korea fines Google and Apple over unfair app market practices",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SEOUL, South Korea (AP) — South Korea on Wednesday fined Alphabet's Google and Apple a combined 63.7 billion won ($47.6 million), saying they abused their dominance in app store markets by forcing local developers onto their own payment systems and by unfairly delaying app reviews.\nThe Korea Media and Communications Commission, the country's media and telecommunications regulator, spent years investigating the U.S. tech giants for allegedly violating a 2021 law that prohibits app store operators from forcing developers to use specific payment systems.\nThe commission fined Google 42.9 billion won ($32 million) and Apple 20.8 billion won ($15.5 million) and ordered both companies to let South Korean developers use external payment links within their apps and to improve their app review procedures.\nGoogle and Apple did not immediately respond to requests for comment.\nThe commission said Google and Apple unfairly pushed app developers toward their own in-app payment systems while barring payments through external websites. Although the companies technically allowed third-party payment systems within apps, they charged developers a 26% commission and withheld some features available through their own systems, effectively forcing developers to use only their in-app payment systems, the commission said.\nThe commission said it also found instances where the companies delayed app reviews without clearly explaining to developers the reasons for the delays or when reviews would resume. It also accused Apple of charging South Korean developers higher commissions than developers elsewhere from 2015 to January 2023.\nSouth Korea has for years closely scrutinized the business practices of foreign technology companies operating in its market. In 2021, it became the first country to enforce a law prohibiting app market operators such as Google and Apple from requiring users to use their own in-app payment systems.",
+    "text_blocks": [
+      "SEOUL, South Korea (AP) — South Korea on Wednesday fined Alphabet's Google and Apple a combined 63.7 billion won ($47.6 million), saying they abused their dominance in app store markets by forcing local developers onto their own payment systems and by unfairly delaying app reviews.",
+      "The Korea Media and Communications Commission, the country's media and telecommunications regulator, spent years investigating the U.S. tech giants for allegedly violating a 2021 law that prohibits app store operators from forcing developers to use specific payment systems.",
+      "The commission fined Google 42.9 billion won ($32 million) and Apple 20.8 billion won ($15.5 million) and ordered both companies to let South Korean developers use external payment links within their apps and to improve their app review procedures.",
+      "Google and Apple did not immediately respond to requests for comment.",
+      "The commission said Google and Apple unfairly pushed app developers toward their own in-app payment systems while barring payments through external websites. Although the companies technically allowed third-party payment systems within apps, they charged developers a 26% commission and withheld some features available through their own systems, effectively forcing developers to use only their in-app payment systems, the commission said.",
+      "The commission said it also found instances where the companies delayed app reviews without clearly explaining to developers the reasons for the delays or when reviews would resume. It also accused Apple of charging South Korean developers higher commissions than developers elsewhere from 2015 to January 2023.",
+      "South Korea has for years closely scrutinized the business practices of foreign technology companies operating in its market. In 2021, it became the first country to enforce a law prohibiting app market operators such as Google and Apple from requiring users to use their own in-app payment systems."
+    ],
+    "html": null
+  }
+}

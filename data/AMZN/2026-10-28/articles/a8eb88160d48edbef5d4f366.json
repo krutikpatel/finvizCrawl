@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-orders-coders-rein-ai-112839468.html",
+    "fetched_at": "2026-10-28T07:00:38.478221-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon orders coders to rein in AI use as costs mount",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon has ordered its coders to rein in their AI use amid concerns that tech workers are blowing through company budgets on chatbots.\nThe online retailer told staff that technology giants' efforts to track AI usage by their software engineers were \"deeply flawed\" and risked driving up costs.\nSome technology businesses have started ranking staff by how many AI tokens, the building blocks of AI bots, they use.\nIt has driven a trend of \"tokenmaxxing\" among workers as they compete to maximise their AI use.\nHowever, bosses have since had to curb usage and limit AI spending after engineers burned through budgets on coding projects.\nIn a note to the company's coders, Terk Terkowitz, an Amazon vice president, said companies that tried to track AI adoption by ranking staff on token use risked driving up costs.\nHe said: \"We know that using these metrics could, if used as a target instead of a measure, drive negative outcomes, increasing costs (tokenmaxxing is at odds with frugality) and increasing complexity.\"\nThe warning comes as technology giants grapple with surging AI costs while employees race to incorporate the new technology into their work.\nEarlier this year, Amazon shut down an internal leaderboard tracking the most prolific AI users, measured by how much they spent on AI.\nThe trend has raised concerns that staff have been doing needless tasks to boost their rankings while racking up substantial computing costs.\nDisney and Meta have adopted similar leaderboards, prompting the Facebook owner to implement AI token caps for some employees to keep costs under control.\nWhile Amazon has not implemented a cap on AI tokens, it has urged software engineers to consider the benefits the technology brings.\nIt said: \"Judgment and care are key ... we believe that it is best to measure and be measured by long-term outcomes.\"\nAmazon insisted that AI would be at the centre of software engineering. However, it told staff not to use the technology if they did not need it.\nThe company said: \"If your work does not benefit from current AI tooling, that is a finding, not a failing.\"\nUnder Andy Jassy, Amazon's chief executive, the company has been ramping up its internal use of AI.\nMr Jassy has previously said the company would need fewer employees in the future as more work became automated.\nAmazon is a major backer of Anthropic, the developer of Claude. Amazon has invested $13bn (£10bn) in the AI company, which is now valued at $190bn, putting it in line for a major windfall when Anthropic goes public next month.",
+    "text_blocks": [
+      "Amazon has ordered its coders to rein in their AI use amid concerns that tech workers are blowing through company budgets on chatbots.",
+      "The online retailer told staff that technology giants' efforts to track AI usage by their software engineers were \"deeply flawed\" and risked driving up costs.",
+      "Some technology businesses have started ranking staff by how many AI tokens, the building blocks of AI bots, they use.",
+      "It has driven a trend of \"tokenmaxxing\" among workers as they compete to maximise their AI use.",
+      "However, bosses have since had to curb usage and limit AI spending after engineers burned through budgets on coding projects.",
+      "In a note to the company's coders, Terk Terkowitz, an Amazon vice president, said companies that tried to track AI adoption by ranking staff on token use risked driving up costs.",
+      "He said: \"We know that using these metrics could, if used as a target instead of a measure, drive negative outcomes, increasing costs (tokenmaxxing is at odds with frugality) and increasing complexity.\"",
+      "The warning comes as technology giants grapple with surging AI costs while employees race to incorporate the new technology into their work.",
+      "Earlier this year, Amazon shut down an internal leaderboard tracking the most prolific AI users, measured by how much they spent on AI.",
+      "The trend has raised concerns that staff have been doing needless tasks to boost their rankings while racking up substantial computing costs.",
+      "Disney and Meta have adopted similar leaderboards, prompting the Facebook owner to implement AI token caps for some employees to keep costs under control.",
+      "While Amazon has not implemented a cap on AI tokens, it has urged software engineers to consider the benefits the technology brings.",
+      "It said: \"Judgment and care are key ... we believe that it is best to measure and be measured by long-term outcomes.\"",
+      "Amazon insisted that AI would be at the centre of software engineering. However, it told staff not to use the technology if they did not need it.",
+      "The company said: \"If your work does not benefit from current AI tooling, that is a finding, not a failing.\"",
+      "Under Andy Jassy, Amazon's chief executive, the company has been ramping up its internal use of AI.",
+      "Mr Jassy has previously said the company would need fewer employees in the future as more work became automated.",
+      "Amazon is a major backer of Anthropic, the developer of Claude. Amazon has invested $13bn (£10bn) in the AI company, which is now valued at $190bn, putting it in line for a major windfall when Anthropic goes public next month."
+    ],
+    "html": null
+  }
+}

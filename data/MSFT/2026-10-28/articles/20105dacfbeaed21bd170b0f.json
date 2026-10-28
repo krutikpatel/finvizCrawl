@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-amd-coca-cola-join-131500768.html",
+    "fetched_at": "2026-10-28T07:00:26.303634-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "JPMorgan, AMD and Coca-Cola Join Objectors to OKX-ICE Stock Tokens as Count Hits 33",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "JPMorgan Chase, Advanced Micro Devices and Coca-Cola are among seven more companies keeping tokenized versions of their shares off the trading venue Intercontinental Exchange and OKX plan to run, a revised public notice the venue posted dated Oct. 27 shows. Its objection list now runs to 33 issuers, up from 26 in the version dated a day earlier.\nThe other four new names are Applied Materials, Adobe, Dell Technologies and Sandisk. All seven sit at the end of the list, after the 26 issuers carried over from the previous version, among them Microsoft, Alphabet, Goldman Sachs, Oracle, IBM and Intel. JPMorgan joins Goldman Sachs and Wells Fargo as the third bank on the list.\nAll seven were among the 63 tickers that the venue's first notice, dated Oct. 4, listed for tokenized trading. Like the earlier versions, the new notice gives no reason for any objection and no launch date.\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nHow the List Grows\nUnder the SEC's exemption for tokenized stock venues, an order dated Sept. 17, a venue has to notify an issuer before it trades a token of that company's stock created by an unaffiliated third party. A timely written objection from the issuer, sent within 30 calendar days of receiving that notice, keeps the token off the venue, and the venue then has five business days to disclose the objection in an amended public notice.\nThe tally has risen with each revision: nine on Oct. 15, when five, including Broadcom and Verizon, opted out, then 16 on Oct. 19 and 22 on Oct. 23, when six, including Wells Fargo, Arm and Intuit, were added.\nHosting Changes\nAlibaba Cloud (Singapore) no longer appears in the table's technology and hosting rows. Amazon Web Services, already listed as storing participants' personal data, is now also named as the cloud services provider for the venue's website, back-end systems and databases. OKX Inc. now appears next to OKX Technology Inc. as a developer of the venue's software. A separate passage on disaster recovery still says those off-chain systems are hosted by Alibaba Cloud.\nThe notice keeps the risk disclosures from earlier versions, including that smart contract changes \"take effect without a timelock, so TSV Participants may receive no advance notice of an upgrade.\"\nRelated Listen: Robinhood Tokenized AMC Stock Without Asking. It's Not Illegal, but Should It Be?",
+    "text_blocks": [
+      "JPMorgan Chase, Advanced Micro Devices and Coca-Cola are among seven more companies keeping tokenized versions of their shares off the trading venue Intercontinental Exchange and OKX plan to run, a revised public notice the venue posted dated Oct. 27 shows. Its objection list now runs to 33 issuers, up from 26 in the version dated a day earlier.",
+      "The other four new names are Applied Materials, Adobe, Dell Technologies and Sandisk. All seven sit at the end of the list, after the 26 issuers carried over from the previous version, among them Microsoft, Alphabet, Goldman Sachs, Oracle, IBM and Intel. JPMorgan joins Goldman Sachs and Wells Fargo as the third bank on the list.",
+      "All seven were among the 63 tickers that the venue's first notice, dated Oct. 4, listed for tokenized trading. Like the earlier versions, the new notice gives no reason for any objection and no launch date.",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "How the List Grows",
+      "Under the SEC's exemption for tokenized stock venues, an order dated Sept. 17, a venue has to notify an issuer before it trades a token of that company's stock created by an unaffiliated third party. A timely written objection from the issuer, sent within 30 calendar days of receiving that notice, keeps the token off the venue, and the venue then has five business days to disclose the objection in an amended public notice.",
+      "The tally has risen with each revision: nine on Oct. 15, when five, including Broadcom and Verizon, opted out, then 16 on Oct. 19 and 22 on Oct. 23, when six, including Wells Fargo, Arm and Intuit, were added.",
+      "Hosting Changes",
+      "Alibaba Cloud (Singapore) no longer appears in the table's technology and hosting rows. Amazon Web Services, already listed as storing participants' personal data, is now also named as the cloud services provider for the venue's website, back-end systems and databases. OKX Inc. now appears next to OKX Technology Inc. as a developer of the venue's software. A separate passage on disaster recovery still says those off-chain systems are hosted by Alibaba Cloud.",
+      "The notice keeps the risk disclosures from earlier versions, including that smart contract changes \"take effect without a timelock, so TSV Participants may receive no advance notice of an upgrade.\"",
+      "Related Listen: Robinhood Tokenized AMC Stock Without Asking. It's Not Illegal, but Should It Be?"
+    ],
+    "html": null
+  }
+}
