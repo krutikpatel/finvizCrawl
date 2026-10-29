@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "run_date": "2026-10-29",
+  "started_at": "2026-10-29T07:12:51.740970-07:00",
+  "finished_at": "2026-10-29T07:15:00.337678-07:00",
+  "timezone": "America/Los_Angeles",
+  "config": {
+    "project": {
+      "name": "finzwiz",
+      "schema_version": "1.0"
+    },
+    "output": {
+      "data_dir": "data",
+      "pretty_json": true
+    },
+    "dedup": {
+      "retention_days": 15,
+      "seen_urls_filename": "seen_urls.jsonl",
+      "compact_on_write": false
+    },
+    "scraping": {
+      "backend": "http",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "timeout_seconds": 30,
+      "retries": 2,
+      "delay_seconds": 1.0,
+      "max_concurrency": 5,
+      "playwright": {
+        "headless": true
+      }
+    },
+    "articles": {
+      "include_raw_html": false,
+      "max_text_chars": 0,
+      "max_articles_per_ticker": 5
+    },
+    "sentiment": {
+      "model": "gpt-5.6-terra",
+      "max_articles_per_batch": 20,
+      "log_filename": "sentiment_log.jsonl",
+      "summary_filename": "sentiment_summary.json"
+    }
+  },
+  "artifacts": {
+    "finviz_quote": "data/HOOD/2026-10-29/finviz_quote.json",
+    "finviz_news": "data/HOOD/2026-10-29/finviz_news.json",
+    "articles_dir": "data/HOOD/2026-10-29/articles",
+    "dedup_file": "data/HOOD/seen_urls.jsonl",
+    "run_manifest": "data/HOOD/2026-10-29/run_manifest.json"
+  },
+  "stats": {
+    "news_links_total": 100,
+    "news_links_new": 70,
+    "news_links_skipped_recent": 30,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 0,
+    "articles_failed": 5
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.",
+      "context": {
+        "url": "https://finance.yahoo.com/markets/crypto/articles/stealth-bear-market-hits-crypto-025421790.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.",
+      "context": {
+        "url": "https://finance.yahoo.com/markets/article/what-robinhoods-cfo-found-interesting-about-anthropics-ipo-prospectus-223910657.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.",
+      "context": {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-heads-worst-month-054741191.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.",
+      "context": {
+        "url": "https://finance.yahoo.com/markets/article/robinhood-is-seeing-retail-investor-habits-change-dramatically-as-stock-trading-cools-100000394.html"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /markets/stocks/articles/investor-cathie-wood-buys-robinhood-130500517.html (Caused by NameResolutionError(\"HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "context": {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investor-cathie-wood-buys-robinhood-130500517.html"
+      }
+    }
+  ]
+}
