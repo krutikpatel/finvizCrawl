@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amazon-earnings-stock-price-c373f755?mod=bar_FV",
+    "fetched_at": "2026-10-30T07:00:32.556685-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Earnings: Why the Stock Is Tanking <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "First Google Search, Now Amazon Retail. Tech’s Moneymakers Are Stumbling.\nThe investing world revolves around artificial intelligence these days, but Amazon.com on Thursday suffered the same fate as Alphabet the day before. The legacy business that had made it famous underperformed expectations in the third quarter, sending its stock sharply lower.",
+    "text_blocks": [
+      "First Google Search, Now Amazon Retail. Tech’s Moneymakers Are Stumbling.",
+      "The investing world revolves around artificial intelligence these days, but Amazon.com on Thursday suffered the same fate as Alphabet the day before. The legacy business that had made it famous underperformed expectations in the third quarter, sending its stock sharply lower."
+    ],
+    "html": null
+  }
+}

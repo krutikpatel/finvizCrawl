@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-shares-slide-reported-lumentum-155600202.html",
+    "fetched_at": "2026-10-30T07:00:54.461405-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell shares slide on reported Lumentum deal talks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Marvell Technology Inc (NASDAQ:MRVL) shares fell 12% on Thursday after reports that the AI chipmaker was in advanced talks to acquire optical components maker Lumentum Holdings (NASDAQ:LITE), whose shares rose over 4% in early trading.\nThe decline in Marvell shares came as investors weighed the potential cost and financing challenges of a deal that would involve a company worth more than a third of Marvell's market value.\nBloomberg reported that an agreement could be announced as soon as next week, citing people familiar with the matter, although no final deal has been reached and the talks could still end without an agreement.\nThe transaction would be a multibillion-dollar megadeal.\nLumentum is currently valued at about $83 billion, compared with Marvell's $221 billion.\nLumentum, which is backed by Nvidia, makes lasers and other optical components used to move large volumes of data at high speeds across communications networks and data centres, where demand is growing as AI infrastructure expands\nFor Marvell, which designs semiconductors for AI and data center applications, acquiring a major optics supplier would deepen its position in that part of the supply chain and support its push to scale amid the broader race in artificial intelligence.\nHowever, Marvell had about $3.92 billion in cash and cash equivalents at the end of its latest quarter, meaning a transaction of this scale would probably require additional financing and could present integration challenges, according to Bernstein analysts cited by Reuters.\nNeither company has publicly confirmed the talks.",
+    "text_blocks": [
+      "Marvell Technology Inc (NASDAQ:MRVL) shares fell 12% on Thursday after reports that the AI chipmaker was in advanced talks to acquire optical components maker Lumentum Holdings (NASDAQ:LITE), whose shares rose over 4% in early trading.",
+      "The decline in Marvell shares came as investors weighed the potential cost and financing challenges of a deal that would involve a company worth more than a third of Marvell's market value.",
+      "Bloomberg reported that an agreement could be announced as soon as next week, citing people familiar with the matter, although no final deal has been reached and the talks could still end without an agreement.",
+      "The transaction would be a multibillion-dollar megadeal.",
+      "Lumentum is currently valued at about $83 billion, compared with Marvell's $221 billion.",
+      "Lumentum, which is backed by Nvidia, makes lasers and other optical components used to move large volumes of data at high speeds across communications networks and data centres, where demand is growing as AI infrastructure expands",
+      "For Marvell, which designs semiconductors for AI and data center applications, acquiring a major optics supplier would deepen its position in that part of the supply chain and support its push to scale amid the broader race in artificial intelligence.",
+      "However, Marvell had about $3.92 billion in cash and cash equivalents at the end of its latest quarter, meaning a transaction of this scale would probably require additional financing and could present integration challenges, according to Bernstein analysts cited by Reuters.",
+      "Neither company has publicly confirmed the talks."
+    ],
+    "html": null
+  }
+}

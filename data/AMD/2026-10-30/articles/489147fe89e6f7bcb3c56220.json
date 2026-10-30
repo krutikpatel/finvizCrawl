@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_FV",
+    "fetched_at": "2026-10-30T07:00:45.322450-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD’s stock slides after Intel earnings reveal two big issues - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nAMD’s stock slides after Intel earnings reveal two big issues\nIntel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.\nAdvanced Micro Devices shares are getting caught up in the intense market reaction to Intel’s earnings.\nIntel INTC is experiencing twin pressures within its business. Sales of personal computers are weakening due to inflated memory-chip prices, and the company isn’t able to make enough server chips to satisfy robust demand for central processing units.",
+    "text_blocks": [
+      "Tech Stocks",
+      "AMD’s stock slides after Intel earnings reveal two big issues",
+      "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+      "Advanced Micro Devices shares are getting caught up in the intense market reaction to Intel’s earnings.",
+      "Intel INTC is experiencing twin pressures within its business. Sales of personal computers are weakening due to inflated memory-chip prices, and the company isn’t able to make enough server chips to satisfy robust demand for central processing units."
+    ],
+    "html": null
+  }
+}

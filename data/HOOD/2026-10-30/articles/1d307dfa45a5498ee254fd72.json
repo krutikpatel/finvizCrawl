@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
+    "fetched_at": "2026-10-30T07:00:19.947596-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Binance hit by record $6.3 billion crypto hack, likely linked to North Korea",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Binance, the world's largest cryptocurrency exchange, was hit late Thursday by what investigators say is the biggest crypto hack in history. with $6.3 billion in digital assets affected.\nBinance has temporarily suspended customer withdrawals. The company and outside investigators are racing to track down the stolen funds. It said in a X post that $3 billion of the total estimated $6.3 billion in affected assets have been \"frozen on-chain so far.\" Customer withdrawals should resume by Sunday, Binance CEO Yi He said in a separate social media post.\nBinance added it \"will cover all losses\" from using its Secure Asset Fund for users and company reserves.\n\"User funds are safe,\" the exchange said, adding that it temporarily suspended deposits and withdrawals while security checks are completed.\nThe Thursday attack has rattled crypto markets and related stocks. Bitcoin (BTC-USD) prices tumbled to around $77,000 on Thursday night.\nOther major crypto assets also tumbled on following the hack, led by Ether (ETH-USD), which dropped 4% to around $2,200. Binance's native token, BNB (BND-USD), also plunged by more than 5%.\nCrypto-related stocks were set to open lower on Friday. Shares of Circle, trading platforms Coinbase (COIN) and Robinhood (HOOD) and digital-asset Treasury giant Strategy (MSTR) tumbled more than 6% in Friday's premarket.\nThe frozen assets appear to include over $2 billion stablecoins, which have been frozen. Tether, the world's largest stablecoin issuer, \"froze more than 1.567B\" of its USDT stablecoin in relation to the hack,\" CEO Paolo Ardoino said on X. The second largest issuer, Circle (CRCL), froze another $800 million \"in coordination with law enforcement,\" CEO Jeremy Allaire said.\nAlthough full details aren't yet available, the hack is shaping up to be the largest crypto theft in history, far exceeding the previous record set in February 2025, when attackers stole $1.5 billion from the crypto derivatives exchange ByBit.\nBlockchain analysis firms TRM Labs and Elliptic have linked the theft to North Korean hackers, with TRM attributing the theft \"with high confidence\" to a group known as TraderTraitor, the same group responsible for last year's Bybit hack .\nElliptic estimated Friday that about 44% of the stolen assets have been frozen, with stablecoins accounting for nearly all of those funds. The firm estimated that attackers still controlled over $3 billion in crypto that token issuers cannot directly freeze.\nThe hackers appear to have compromised Binance's wallet-signing infrastructure, allowing them to authorize transactions that drained billions of dollars in cryptocurrency across multiple blockchains, according to the firms. Binance, at its preliminary stage, has conducted an investigation into the hack, which suggests that the incident may have start with a compromised engineer's laptop. The exchange added that it has found no evidence that wallet passwords were leaked.",
+    "text_blocks": [
+      "Binance, the world's largest cryptocurrency exchange, was hit late Thursday by what investigators say is the biggest crypto hack in history. with $6.3 billion in digital assets affected.",
+      "Binance has temporarily suspended customer withdrawals. The company and outside investigators are racing to track down the stolen funds. It said in a X post that $3 billion of the total estimated $6.3 billion in affected assets have been \"frozen on-chain so far.\" Customer withdrawals should resume by Sunday, Binance CEO Yi He said in a separate social media post.",
+      "Binance added it \"will cover all losses\" from using its Secure Asset Fund for users and company reserves.",
+      "\"User funds are safe,\" the exchange said, adding that it temporarily suspended deposits and withdrawals while security checks are completed.",
+      "The Thursday attack has rattled crypto markets and related stocks. Bitcoin (BTC-USD) prices tumbled to around $77,000 on Thursday night.",
+      "Other major crypto assets also tumbled on following the hack, led by Ether (ETH-USD), which dropped 4% to around $2,200. Binance's native token, BNB (BND-USD), also plunged by more than 5%.",
+      "Crypto-related stocks were set to open lower on Friday. Shares of Circle, trading platforms Coinbase (COIN) and Robinhood (HOOD) and digital-asset Treasury giant Strategy (MSTR) tumbled more than 6% in Friday's premarket.",
+      "The frozen assets appear to include over $2 billion stablecoins, which have been frozen. Tether, the world's largest stablecoin issuer, \"froze more than 1.567B\" of its USDT stablecoin in relation to the hack,\" CEO Paolo Ardoino said on X. The second largest issuer, Circle (CRCL), froze another $800 million \"in coordination with law enforcement,\" CEO Jeremy Allaire said.",
+      "Although full details aren't yet available, the hack is shaping up to be the largest crypto theft in history, far exceeding the previous record set in February 2025, when attackers stole $1.5 billion from the crypto derivatives exchange ByBit.",
+      "Blockchain analysis firms TRM Labs and Elliptic have linked the theft to North Korean hackers, with TRM attributing the theft \"with high confidence\" to a group known as TraderTraitor, the same group responsible for last year's Bybit hack .",
+      "Elliptic estimated Friday that about 44% of the stolen assets have been frozen, with stablecoins accounting for nearly all of those funds. The firm estimated that attackers still controlled over $3 billion in crypto that token issuers cannot directly freeze.",
+      "The hackers appear to have compromised Binance's wallet-signing infrastructure, allowing them to authorize transactions that drained billions of dollars in cryptocurrency across multiple blockchains, according to the firms. Binance, at its preliminary stage, has conducted an investigation into the hack, which suggests that the incident may have start with a compromised engineer's laptop. The exchange added that it has found no evidence that wallet passwords were leaked."
+    ],
+    "html": null
+  }
+}

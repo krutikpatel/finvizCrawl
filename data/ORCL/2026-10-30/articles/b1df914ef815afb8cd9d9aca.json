@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/borrowing-against-your-securities-portfolio-054dbd61?mod=bar_FV",
+    "fetched_at": "2026-10-30T07:00:22.634486-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Borrowing Against Your Securities Portfolio: A Barron’s Guide<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Want to Be Like Larry Ellison? Then Borrow Like a Billionaire.\nUsing loans backed by your securities portfolio is an increasingly popular approach with investors. Just don’t get carried away.\nBillionaires like Oracle chairman Larry Ellison have long borrowed against their appreciated stock portfolios to fund new investments, real estate purchases, or simply to enhance their lifestyles. These days, that approach is getting embraced by smaller investors.",
+    "text_blocks": [
+      "Want to Be Like Larry Ellison? Then Borrow Like a Billionaire.",
+      "Using loans backed by your securities portfolio is an increasingly popular approach with investors. Just don’t get carried away.",
+      "Billionaires like Oracle chairman Larry Ellison have long borrowed against their appreciated stock portfolios to fund new investments, real estate purchases, or simply to enhance their lifestyles. These days, that approach is getting embraced by smaller investors."
+    ],
+    "html": null
+  }
+}

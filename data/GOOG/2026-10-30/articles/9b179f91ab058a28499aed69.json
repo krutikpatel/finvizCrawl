@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-crash-leaves-this-trading-metric-at-a-level-not-seen-in-more-than-a-decade-125026796.html",
+    "fetched_at": "2026-10-30T07:00:26.345991-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet stock crash leaves this trading metric at a level not seen in more than a decade",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing in the future of internet search and YouTube has rarely been this cheap.\nShares of Alphabet (GOOGL) are trading at a price-to-earnings (P/E) ratio not seen since 2012, Yahoo Finance AlphaSpace data shows (chart below).\nThe metric comes in the wake of Alphabet shares plunging a stunning 12.6% on Thursday after the earnings report, wiping out nearly $500 billion in market value. Shares lost another 1% in premarket trading on Friday.\nThe sell-off was warranted, despite Google delivering strong third quarter growth for a company its size.\nFirst, Google's search business notched sales of $63.4 billion, below the $64.9 billion expected. The miss fueled fears Google's search empire is being chipped away by the likes of Claude and ChatGPT, despite massive investment by Google.\nSecond, Google posted negative free cash flow of $9.1 billion versus a Wall Street estimate of negative $3.5 billion. In a market getting jittery about negative free cash flow at Big Tech (see the reaction to Meta's (META) results last week, when it also had negative free cash flow for the first time in years), this is not the number the Street wanted to see.\n\"Alphabet's 3Q results and the stock's sharp move lower show us the margin for error when a hyperscaler spending hundreds of billions on the AI infrastructure buildout and flipping to negative FCF posts disappointing results in the core,\" JPMorgan analyst Doug Anmuth wrote in a note. \"Not that there was much debate going in—most investors seemed to understand that strong Google Cloud growth, including early TPU ramp, wouldn't be enough to offset a Search shortfall, which was telegraphed in third-party data.\"\n13 Wall Street analysts cut their price target on Alphabet in the aftermath.\nFollow Brian Sozzi on X @BrianSozzi, Instagram, and LinkedIn. Tips on stories? Email him at brian.sozzi@yahoofinance.com.",
+    "text_blocks": [
+      "Investing in the future of internet search and YouTube has rarely been this cheap.",
+      "Shares of Alphabet (GOOGL) are trading at a price-to-earnings (P/E) ratio not seen since 2012, Yahoo Finance AlphaSpace data shows (chart below).",
+      "The metric comes in the wake of Alphabet shares plunging a stunning 12.6% on Thursday after the earnings report, wiping out nearly $500 billion in market value. Shares lost another 1% in premarket trading on Friday.",
+      "The sell-off was warranted, despite Google delivering strong third quarter growth for a company its size.",
+      "First, Google's search business notched sales of $63.4 billion, below the $64.9 billion expected. The miss fueled fears Google's search empire is being chipped away by the likes of Claude and ChatGPT, despite massive investment by Google.",
+      "Second, Google posted negative free cash flow of $9.1 billion versus a Wall Street estimate of negative $3.5 billion. In a market getting jittery about negative free cash flow at Big Tech (see the reaction to Meta's (META) results last week, when it also had negative free cash flow for the first time in years), this is not the number the Street wanted to see.",
+      "\"Alphabet's 3Q results and the stock's sharp move lower show us the margin for error when a hyperscaler spending hundreds of billions on the AI infrastructure buildout and flipping to negative FCF posts disappointing results in the core,\" JPMorgan analyst Doug Anmuth wrote in a note. \"Not that there was much debate going in—most investors seemed to understand that strong Google Cloud growth, including early TPU ramp, wouldn't be enough to offset a Search shortfall, which was telegraphed in third-party data.\"",
+      "13 Wall Street analysts cut their price target on Alphabet in the aftermath.",
+      "Follow Brian Sozzi on X @BrianSozzi, Instagram, and LinkedIn. Tips on stories? Email him at brian.sozzi@yahoofinance.com."
+    ],
+    "html": null
+  }
+}

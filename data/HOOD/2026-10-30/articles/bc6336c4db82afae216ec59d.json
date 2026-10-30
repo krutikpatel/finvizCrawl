@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026/card/crypto-markets-aren-t-freaking-out-that-much-about-the-binance-hack-frAhyscl9l3dxBDHqrGH?mod=wsj_FV",
+    "fetched_at": "2026-10-30T07:00:19.843612-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crypto Markets Aren’t Freaking Out That Much About the Binance Hack",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n2 hours ago\nCrypto Markets Aren’t Freaking Out That Much About the Binance Hack\nCrypto-related assets are dipping after Binance disclosed a multibillion dollar hack of its exchange, but the moves don't point to widespread panic among traders.\nBinance founder Changpeng Zhao said the company will be able to cover the losses of people whose cryptocurrencies were stolen. The losses could be a \"a bit higher\" than $1 billion, he said on social media.\nThe market seems to be taking him at his word. Exhibit A is Binance's inhouse crypto token, BNB, which is down less than 6% in the past 24 hours. Bitcoin is down 3% over the same period, with Etherium down a little more.",
+    "text_blocks": [
+      "LIVE",
+      "2 hours ago",
+      "Crypto Markets Aren’t Freaking Out That Much About the Binance Hack",
+      "Crypto-related assets are dipping after Binance disclosed a multibillion dollar hack of its exchange, but the moves don't point to widespread panic among traders.",
+      "Binance founder Changpeng Zhao said the company will be able to cover the losses of people whose cryptocurrencies were stolen. The losses could be a \"a bit higher\" than $1 billion, he said on social media.",
+      "The market seems to be taking him at his word. Exhibit A is Binance's inhouse crypto token, BNB, which is down less than 6% in the past 24 hours. Bitcoin is down 3% over the same period, with Etherium down a little more."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102926/card/alphabet-s-not-the-only-ai-stock-tanking-the-market-56KwPh6b2pvrUdWRDSHd?mod=bar_FV",
+    "fetched_at": "2026-10-30T07:00:54.007212-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet's Not the Only AI Stock Tanking the Market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "9 hours ago\nThe tides have shifted on the AI trade yet again, and it was crushing the Nasdaq Composite.\nThe tech-heavy Nasdaq Composite fell 1.6%. That's not to say the other major indexes weren't feeling the pressure. The S&P 500 dropped 0.5%, and the Dow declined 0.3%, or 184 points.\nThe selloff traces back to yesterday's weak earnings from Alphabet. The stock slumped nearly 13%, but that wasn't even the biggest laggard on the S&P 500.",
+    "text_blocks": [
+      "9 hours ago",
+      "The tides have shifted on the AI trade yet again, and it was crushing the Nasdaq Composite.",
+      "The tech-heavy Nasdaq Composite fell 1.6%. That's not to say the other major indexes weren't feeling the pressure. The S&P 500 dropped 0.5%, and the Dow declined 0.3%, or 184 points.",
+      "The selloff traces back to yesterday's weak earnings from Alphabet. The stock slumped nearly 13%, but that wasn't even the biggest laggard on the S&P 500."
+    ],
+    "html": null
+  }
+}

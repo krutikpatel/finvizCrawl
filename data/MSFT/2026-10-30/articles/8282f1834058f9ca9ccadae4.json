@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/amazon-stock-intel-tech-earnings-ai-spending-d0c03d3d?mod=bar_FV",
+    "fetched_at": "2026-10-30T07:00:29.285168-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon and Intel Tank the AI Trade. One Factor Linking Earnings Flops.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.\nBig Tech earnings are on track to be more of a horror movie than a crowd pleaser. Technology stocks across the market are sinking as investors eye shrinking cash flows across the sector’s largest companies.",
+    "text_blocks": [
+      "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+      "Big Tech earnings are on track to be more of a horror movie than a crowd pleaser. Technology stocks across the market are sinking as investors eye shrinking cash flows across the sector’s largest companies."
+    ],
+    "html": null
+  }
+}

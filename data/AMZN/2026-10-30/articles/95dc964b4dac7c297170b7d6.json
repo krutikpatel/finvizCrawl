@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
+    "fetched_at": "2026-10-30T07:00:42.685227-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Nasdaq Composite Index tumbled 610 points, or 2.3%, in early trading on Friday after disappointing earnings reports from Alphabet, Amazon and Intel renewed fears about the prospects for artificial intelligence.\nIntel's stock plunged nearly 29% once trading opened, while Alphabet shares continued to wobble after the company's Class A stock slid more than 12% on Thursday, its worst day since the company went public as Google in 2004.\n\"This has been one of the worst tech earnings seasons in memory, with underwhelming results from a slew of very prominent companies,\" market analyst Adam Crisafulli, head of Vital Knowledge, said in a research note.\nThe S&P 500 and Dow Jones Industrial Average slumped 1.2% and 0.4%, respectively, after the opening bell.\nThe weaker-than-expected tech earnings reports are heightening concerns that massive investments in AI will not generate the payoff Wall Street expects. Investors are also worried about the debt companies are taking on to finance data center capital expenditures and whether that debt is sustainable.\nInvestors have been banking on the explosive growth of AI, which has propelled the stock market to record highs, to continue to dominate. However, that sentiment is now under threat. In a report earlier this week, Ulrike Hoffmann-Burchardi, CIO Americas and global head of equities for UBS' Chief Investment Office, advised clients to \"diversify beyond AI.\"\n\"While we maintain a constructive outlook on the structural growth of the AI theme, high expectations and potentially wide differences in company outcomes underscore the risks of single-stock concentration,\" she said. \"We think investors should ensure their equity portfolios are broadly diversified.\"",
+    "text_blocks": [
+      "The Nasdaq Composite Index tumbled 610 points, or 2.3%, in early trading on Friday after disappointing earnings reports from Alphabet, Amazon and Intel renewed fears about the prospects for artificial intelligence.",
+      "Intel's stock plunged nearly 29% once trading opened, while Alphabet shares continued to wobble after the company's Class A stock slid more than 12% on Thursday, its worst day since the company went public as Google in 2004.",
+      "\"This has been one of the worst tech earnings seasons in memory, with underwhelming results from a slew of very prominent companies,\" market analyst Adam Crisafulli, head of Vital Knowledge, said in a research note.",
+      "The S&P 500 and Dow Jones Industrial Average slumped 1.2% and 0.4%, respectively, after the opening bell.",
+      "The weaker-than-expected tech earnings reports are heightening concerns that massive investments in AI will not generate the payoff Wall Street expects. Investors are also worried about the debt companies are taking on to finance data center capital expenditures and whether that debt is sustainable.",
+      "Investors have been banking on the explosive growth of AI, which has propelled the stock market to record highs, to continue to dominate. However, that sentiment is now under threat. In a report earlier this week, Ulrike Hoffmann-Burchardi, CIO Americas and global head of equities for UBS' Chief Investment Office, advised clients to \"diversify beyond AI.\"",
+      "\"While we maintain a constructive outlook on the structural growth of the AI theme, high expectations and potentially wide differences in company outcomes underscore the risks of single-stock concentration,\" she said. \"We think investors should ensure their equity portfolios are broadly diversified.\""
+    ],
+    "html": null
+  }
+}

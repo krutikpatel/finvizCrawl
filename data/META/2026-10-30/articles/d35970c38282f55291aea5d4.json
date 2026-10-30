@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/tech/meta-faces-u-k-antitrust-probe-over-publisher-content-use-11637585?mod=wsj_FV",
+    "fetched_at": "2026-10-30T07:00:10.042344-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Faces U.K. Antitrust Probe Over AI Publisher Content Terms - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta META 1.96%increase; up pointing triangle Platforms faces an investigation from the U.K.’s competition regulator over potential new business terms that would allow the company to collect content from publishers to power its own products such as artificial intelligence tools.\nThe Competition and Markets Authority said Friday that Meta’s potential terms change could unfairly harm publishers and advertisers that use its popular social media platforms.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Meta META 1.96%increase; up pointing triangle Platforms faces an investigation from the U.K.’s competition regulator over potential new business terms that would allow the company to collect content from publishers to power its own products such as artificial intelligence tools.",
+      "The Competition and Markets Authority said Friday that Meta’s potential terms change could unfairly harm publishers and advertisers that use its popular social media platforms.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

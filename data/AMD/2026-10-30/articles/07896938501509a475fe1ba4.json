@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-shares-plunge-22pc-pc-085518979.html",
+    "fetched_at": "2026-10-30T07:00:45.546264-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Intel shares plunge as AI chip demand hurts PC sales",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Intel's share price has plunged by more than a fifth after the chipmaker warned a squeeze on chips was hurting PC sales.\nThe US tech giant delivered a weaker-than-expected revenue and profit forecast for the fourth quarter on Thursday, damaging confidence in its turnaround.\nShares plunged 22pc in after-hours trading in New York after it missed sales numbers pencilled in by analysts.\nThe chipmaker has struggled in recent years because of market share losses to rivals such as AMD and Nvidia after failing to take advantage of the smartphone and AI booms.\nIntel's PC chip division was struggling as data centre builders outbid other buyers for scarce chip components.\nHigher costs for microprocessors also mean surging prices for PCs, which have put customers off spending.\nDavid Zinsner, its chief financial officer, warned the PC slowdown would stretch into the first half of next year. This fall in growth has been compounded by rising competition from the likes of Qualcomm.\nThe company warned that sales in the third quarter of the year would come in between $1bn (£750m) to $2bn short of Wall Street's estimates of $17bn.\nLip-Bu Tan, Intel's chief executive, told Bloomberg: \"I am a bit disappointed in terms of how we cannot fulfil the customer requirements.\n\"Memory pricing went up a lot. I think my prediction is that in 2027, it is going to be a very severe issue to all of us. We are not alone – it's just the whole market is impacted.\"\nGross margins were also projected to drop to 37pc amid rising component costs and an industry-wide shortage of memory chips.\nThe fall in investor confidence is a blow to Mr Tan, who has aimed to scale back years of heavy spending under Pat Gelsinger, his predecessor.\nIntel raised $20bn recently through a share sale to capitalise on its stock price, which has surged more than 140pc this year after Donald Trump's White House took a $9bn stake in the company.\nIt is also reeling from an explosion at an Israeli facility this month, which killed two of its workers.\nYakir Kosashvili, 35, and Ilya Chechulin, 49, were identified as the two victims that died following the blast at the factory in Kiryat Gat, southern Israel.\nPolice believe the explosion was caused by a gas cylinder which was being offloaded from a truck.\nDemand for AI computing remained strong despite the headwinds in consumer hardware.",
+    "text_blocks": [
+      "Intel's share price has plunged by more than a fifth after the chipmaker warned a squeeze on chips was hurting PC sales.",
+      "The US tech giant delivered a weaker-than-expected revenue and profit forecast for the fourth quarter on Thursday, damaging confidence in its turnaround.",
+      "Shares plunged 22pc in after-hours trading in New York after it missed sales numbers pencilled in by analysts.",
+      "The chipmaker has struggled in recent years because of market share losses to rivals such as AMD and Nvidia after failing to take advantage of the smartphone and AI booms.",
+      "Intel's PC chip division was struggling as data centre builders outbid other buyers for scarce chip components.",
+      "Higher costs for microprocessors also mean surging prices for PCs, which have put customers off spending.",
+      "David Zinsner, its chief financial officer, warned the PC slowdown would stretch into the first half of next year. This fall in growth has been compounded by rising competition from the likes of Qualcomm.",
+      "The company warned that sales in the third quarter of the year would come in between $1bn (£750m) to $2bn short of Wall Street's estimates of $17bn.",
+      "Lip-Bu Tan, Intel's chief executive, told Bloomberg: \"I am a bit disappointed in terms of how we cannot fulfil the customer requirements.",
+      "\"Memory pricing went up a lot. I think my prediction is that in 2027, it is going to be a very severe issue to all of us. We are not alone – it's just the whole market is impacted.\"",
+      "Gross margins were also projected to drop to 37pc amid rising component costs and an industry-wide shortage of memory chips.",
+      "The fall in investor confidence is a blow to Mr Tan, who has aimed to scale back years of heavy spending under Pat Gelsinger, his predecessor.",
+      "Intel raised $20bn recently through a share sale to capitalise on its stock price, which has surged more than 140pc this year after Donald Trump's White House took a $9bn stake in the company.",
+      "It is also reeling from an explosion at an Israeli facility this month, which killed two of its workers.",
+      "Yakir Kosashvili, 35, and Ilya Chechulin, 49, were identified as the two victims that died following the blast at the factory in Kiryat Gat, southern Israel.",
+      "Police believe the explosion was caused by a gas cylinder which was being offloaded from a truck.",
+      "Demand for AI computing remained strong despite the headwinds in consumer hardware."
+    ],
+    "html": null
+  }
+}

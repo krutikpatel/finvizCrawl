@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-intel-plunge-disappointing-results-134326270.html",
+    "fetched_at": "2026-10-30T07:00:42.598125-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon and Intel Plunge After Disappointing Results, Fueling Wall Street's Nerves About AI Spending",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon and Intel shares tumbled on Friday after their latest earnings reports raised fresh concerns about the cost of technology investments and whether companies can deliver the returns investors expect.\nAmazon fell about 3%, pairing earlier losses, while Intel plunged more 25%, putting additional pressure on technology stocks after a difficult week for some of the industry's biggest names. The Nasdaq Composite is declining more than 2% at 9:42 a.m. ET. Shares of chipmakers Nvidia, Micron and Arm also moved lower.\nFor Amazon, the concern was not a lack of growth. The company reported record operating profitability and strong demand for its cloud services, but its spending on artificial intelligence infrastructure is consuming large amounts of cash.\nAmazon maintained its forecast for approximately $220 billion in cash capital expenditures this year, even as free cash flow turned sharply negative.\nThe company's third-quarter earnings release showed that free cash flow for the 12 months ended September fell to negative $42.4 billion, compared with positive $14.8 billion a year earlier.\nAmazon attributed the decline primarily to a $94.8 billion year-over-year increase in net purchases of property and equipment, largely related to AI investments.\nThe spending comes despite significant improvements in its underlying business. Amazon's quarterly revenue rose 12% to $201.9 billion, while operating income climbed to $28.1 billion from $17.4 billion a year earlier. Its operating margin reached a company record of 13.9%.\nAmazon Web Services, which provides cloud computing services to businesses, reported revenue growth of 39% to $46 billion, its fastest expansion in nearly five years.\nThe cloud division also generated $17.8 billion in operating income, compared with $11.4 billion during the same period last year.\nCEO Andy Jassy said investments in AWS infrastructure were supporting stronger demand and projected revenue growth exceeding 40% in both 2027 and 2028.\nAmazon expects fourth-quarter revenue of $240 billion to $247 billion, representing growth of 12% to 16% from a year earlier. Its operating income forecast ranges from $28.5 billion to $33.5 billion.\nIntel faced a different set of challenges, with continued weakness in the personal computer market overshadowing improvements in its data center business.\nThe chipmaker's third-quarter results showed revenue increased 21% to $16.5 billion, while adjusted earnings reached 52 cents per share, more than double the 23 cents recorded a year earlier.",
+    "text_blocks": [
+      "Amazon and Intel shares tumbled on Friday after their latest earnings reports raised fresh concerns about the cost of technology investments and whether companies can deliver the returns investors expect.",
+      "Amazon fell about 3%, pairing earlier losses, while Intel plunged more 25%, putting additional pressure on technology stocks after a difficult week for some of the industry's biggest names. The Nasdaq Composite is declining more than 2% at 9:42 a.m. ET. Shares of chipmakers Nvidia, Micron and Arm also moved lower.",
+      "For Amazon, the concern was not a lack of growth. The company reported record operating profitability and strong demand for its cloud services, but its spending on artificial intelligence infrastructure is consuming large amounts of cash.",
+      "Amazon maintained its forecast for approximately $220 billion in cash capital expenditures this year, even as free cash flow turned sharply negative.",
+      "The company's third-quarter earnings release showed that free cash flow for the 12 months ended September fell to negative $42.4 billion, compared with positive $14.8 billion a year earlier.",
+      "Amazon attributed the decline primarily to a $94.8 billion year-over-year increase in net purchases of property and equipment, largely related to AI investments.",
+      "The spending comes despite significant improvements in its underlying business. Amazon's quarterly revenue rose 12% to $201.9 billion, while operating income climbed to $28.1 billion from $17.4 billion a year earlier. Its operating margin reached a company record of 13.9%.",
+      "Amazon Web Services, which provides cloud computing services to businesses, reported revenue growth of 39% to $46 billion, its fastest expansion in nearly five years.",
+      "The cloud division also generated $17.8 billion in operating income, compared with $11.4 billion during the same period last year.",
+      "CEO Andy Jassy said investments in AWS infrastructure were supporting stronger demand and projected revenue growth exceeding 40% in both 2027 and 2028.",
+      "Amazon expects fourth-quarter revenue of $240 billion to $247 billion, representing growth of 12% to 16% from a year earlier. Its operating income forecast ranges from $28.5 billion to $33.5 billion.",
+      "Intel faced a different set of challenges, with continued weakness in the personal computer market overshadowing improvements in its data center business.",
+      "The chipmaker's third-quarter results showed revenue increased 21% to $16.5 billion, while adjusted earnings reached 52 cents per share, more than double the 23 cents recorded a year earlier."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/arm-stocks-surge-nearly-8-194620720.html",
+    "fetched_at": "2026-10-30T07:00:51.198429-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Stocks Surge Nearly 8% as Agentic AI Reprices CPU Royalties",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), the processor-architecture and computing-platform company, outlined how its technology supports both AI agents and the security systems watching them, while its American depositary shares climbed approximately 7.9% to $315.33 on Friday, October 2. That opens two potential routes into AI spending: processors that handle the work and processors that keep it under control. The valuation graphic shows shares trading 61.51% above the $195.24 GF Value estimate, suggesting investors already expect substantial growth.\nThe technical distinction matters. According to Arm's Hot Chips overview, Nvidia's Vera CPU handles tasks such as executing code, coordinating tools and moving data through agentic systems. BlueField plays a different role. Arm's security explanation describes an independent infrastructure layer that can monitor activity, enforce restrictions and isolate unsafe agents. More autonomous software could therefore create demand for Arm technology on both sides of the workload.\nThat gives Arm a broader opportunity, but architectural reach alone does not settle the investment case. Partner chips must ship, deployments must scale and royalties must follow. Arm's own AGI CPU adds another potential revenue stream, alongside the licensing business. With shares carrying a hefty premium to the valuation estimate, investors need evidence that adoption can translate into earnings fast enough to justify the price.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), the processor-architecture and computing-platform company, outlined how its technology supports both AI agents and the security systems watching them, while its American depositary shares climbed approximately 7.9% to $315.33 on Friday, October 2. That opens two potential routes into AI spending: processors that handle the work and processors that keep it under control. The valuation graphic shows shares trading 61.51% above the $195.24 GF Value estimate, suggesting investors already expect substantial growth.",
+      "The technical distinction matters. According to Arm's Hot Chips overview, Nvidia's Vera CPU handles tasks such as executing code, coordinating tools and moving data through agentic systems. BlueField plays a different role. Arm's security explanation describes an independent infrastructure layer that can monitor activity, enforce restrictions and isolate unsafe agents. More autonomous software could therefore create demand for Arm technology on both sides of the workload.",
+      "That gives Arm a broader opportunity, but architectural reach alone does not settle the investment case. Partner chips must ship, deployments must scale and royalties must follow. Arm's own AGI CPU adds another potential revenue stream, alongside the licensing business. With shares carrying a hefty premium to the valuation estimate, investors need evidence that adoption can translate into earnings fast enough to justify the price."
+    ],
+    "html": null
+  }
+}
