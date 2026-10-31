@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-trades-trick-treat-earnings-104506055.html",
+    "fetched_at": "2026-10-31T07:00:31.322784-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI trade's trick-or-treat earnings season",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The latest wave of hyperscaler earnings is spooking Wall Street. Bulls and bears alike have evidence to validate their wildest dreams — or their worst nightmares.\nWhy it matters: The market's AI obsession has entered its Jekyll and Hyde era, with the latest earnings from tech giants offering contrary signals about the AI boom.\nDriving the news: The tech-heavy Nasdaq briefly sank into correction territory, falling 10% from its prior peak, losing $1.2 trillion in value for the month of October, after a slew of earnings reports pointed to AI's big risks.\n-\nBut it wasn't all horror: within the earnings statements, some investors found proof that the AI bet is going exactly as it should.\nHere are three examples of the AI trade's deepest contradictions — the good and the scary — from the earnings releases and calls of the Big Tech hyperscalers.\nGoogle:\n-\nThe scary: AI overviews are cannibalizing Google's core business: ad revenue from search. Yes, search queries are up, but results in AI mode have lower margins. The company has lost more than $500 billion in market value post-earnings, bringing the broader tech sector along with it.\n-\nThe good: Google Cloud is closing in on Microsoft's Azure cloud revenue, a stunning development given that Google was an also-ran in the cloud game only a few years ago. Much of Google's success is tied to demand for its TPU chips, which analysts expect to see massive growth in coming quarters.\n-\nThe takeaway: Google's predicament mirrors the problems of many tech giants, where AI represents a true threat to the golden goose but presents new opportunities if they can move fast enough.\nMicrosoft and Amazon:\n-\nThe good: Both companies had explosive cloud growth, though the market was disappointed Amazon's wasn't higher. Microsoft touted its OpenAI investment and Amazon its Anthropic holdings.\n-\nThe iffy: Those private AI investments can help or hurt: Amazon's net income fell despite soaring operating profits, as it didn't repeat the pretax gain from its Anthropic investment that boosted earnings a year earlier. Microsoft's OpenAI investment boosted its net income slightly, which lifted its profit growth.\n-\nThe takeaway: Check under the hood. Is any given hyperscaler's earnings growth coming from private investments in AI labs, or is it due to their underlying business?\nData: FactSet, company filings; Chart: Axios/Matt Phillips\nFree cash flow\n-\nThe good: Sure, some of the most asset-light tech companies have turned free cash flow negative to fund their AI ambitions, but they say that's because demand is outstripping supply! You want these businesses to keep investing in infrastructure to meet that demand and turn it into revenue.\n-\nThe bad: If there's a hit to that demand, and these companies poured trillions into creating more supply, that's, well, a recipe for a bit of a popped bubble situation.\n-\nThe takeaway: Watch the demand picture. Jeetu Patel, President and Chief Product Officer at Cisco, is bullish, but told Axios that a major cyber event that hits the core of AI demand could be a downside risk.",
+    "text_blocks": [
+      "The latest wave of hyperscaler earnings is spooking Wall Street. Bulls and bears alike have evidence to validate their wildest dreams — or their worst nightmares.",
+      "Why it matters: The market's AI obsession has entered its Jekyll and Hyde era, with the latest earnings from tech giants offering contrary signals about the AI boom.",
+      "Driving the news: The tech-heavy Nasdaq briefly sank into correction territory, falling 10% from its prior peak, losing $1.2 trillion in value for the month of October, after a slew of earnings reports pointed to AI's big risks.",
+      "-",
+      "But it wasn't all horror: within the earnings statements, some investors found proof that the AI bet is going exactly as it should.",
+      "Here are three examples of the AI trade's deepest contradictions — the good and the scary — from the earnings releases and calls of the Big Tech hyperscalers.",
+      "Google:",
+      "-",
+      "The scary: AI overviews are cannibalizing Google's core business: ad revenue from search. Yes, search queries are up, but results in AI mode have lower margins. The company has lost more than $500 billion in market value post-earnings, bringing the broader tech sector along with it.",
+      "-",
+      "The good: Google Cloud is closing in on Microsoft's Azure cloud revenue, a stunning development given that Google was an also-ran in the cloud game only a few years ago. Much of Google's success is tied to demand for its TPU chips, which analysts expect to see massive growth in coming quarters.",
+      "-",
+      "The takeaway: Google's predicament mirrors the problems of many tech giants, where AI represents a true threat to the golden goose but presents new opportunities if they can move fast enough.",
+      "Microsoft and Amazon:",
+      "-",
+      "The good: Both companies had explosive cloud growth, though the market was disappointed Amazon's wasn't higher. Microsoft touted its OpenAI investment and Amazon its Anthropic holdings.",
+      "-",
+      "The iffy: Those private AI investments can help or hurt: Amazon's net income fell despite soaring operating profits, as it didn't repeat the pretax gain from its Anthropic investment that boosted earnings a year earlier. Microsoft's OpenAI investment boosted its net income slightly, which lifted its profit growth.",
+      "-",
+      "The takeaway: Check under the hood. Is any given hyperscaler's earnings growth coming from private investments in AI labs, or is it due to their underlying business?",
+      "Data: FactSet, company filings; Chart: Axios/Matt Phillips",
+      "Free cash flow",
+      "-",
+      "The good: Sure, some of the most asset-light tech companies have turned free cash flow negative to fund their AI ambitions, but they say that's because demand is outstripping supply! You want these businesses to keep investing in infrastructure to meet that demand and turn it into revenue.",
+      "-",
+      "The bad: If there's a hit to that demand, and these companies poured trillions into creating more supply, that's, well, a recipe for a bit of a popped bubble situation.",
+      "-",
+      "The takeaway: Watch the demand picture. Jeetu Patel, President and Chief Product Officer at Cisco, is bullish, but told Axios that a major cyber event that hits the core of AI demand could be a downside risk."
+    ],
+    "html": null
+  }
+}

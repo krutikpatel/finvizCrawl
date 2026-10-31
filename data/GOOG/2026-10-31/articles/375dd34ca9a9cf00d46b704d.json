@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_FV",
+    "fetched_at": "2026-10-31T07:00:30.973789-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.\nWall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?\nGoogle’s core business, built upon ranking and indexing the open web, is facing a structural disruption as artificial intelligence changes how users navigate the internet.\nWhen AI models like ChatGPT first became mainstream, there were concerns that consumers would query chatbots instead of turning to Google. In response to this threat, Google launched and expanded AI Overviews and AI Mode, placing AI summaries on top of traditional search results and introducing conversational search interfaces powered by its Gemini models.",
+    "text_blocks": [
+      "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
+      "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
+      "Google’s core business, built upon ranking and indexing the open web, is facing a structural disruption as artificial intelligence changes how users navigate the internet.",
+      "When AI models like ChatGPT first became mainstream, there were concerns that consumers would query chatbots instead of turning to Google. In response to this threat, Google launched and expanded AI Overviews and AI Mode, placing AI summaries on top of traditional search results and introducing conversational search interfaces powered by its Gemini models."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-price-intel-memory-e1fe46db?mod=bar_FV",
+    "fetched_at": "2026-10-31T07:00:13.136949-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock Drops Again. Surging Memory Prices Aren’t All Good News.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Stock Drops Again. Surging Memory Prices Aren’t All Good News.\nMicron Technology was sliding early Friday. A warning from Intel about the surging cost of memory chips is a reminder of its extraordinary profitability but might also provoke worries about the sustainability of the hardware cycle.",
+    "text_blocks": [
+      "Micron Stock Drops Again. Surging Memory Prices Aren’t All Good News.",
+      "Micron Technology was sliding early Friday. A warning from Intel about the surging cost of memory chips is a reminder of its extraordinary profitability but might also provoke worries about the sustainability of the hardware cycle."
+    ],
+    "html": null
+  }
+}

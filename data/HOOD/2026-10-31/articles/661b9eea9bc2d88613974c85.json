@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/copy-intel-amazon-lead-tech-lower-bitcoin-falls-on-suspected-biggest-crypto-hack-in-history-alphacheck-190920999.html",
+    "fetched_at": "2026-10-31T07:00:25.932880-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Binance's $6.3 billion hack this week rattled the crypto market, with nearly every digital asset taking a leg lower on Friday. While the knee-jerk reaction was to sell, industry watchers see the move lower in assets as temporary.\n\"Binance has committed to covering the losses from its own funds and reserves, so we shouldn't see contagion from this exploit,\" Nikhil Raghuveera, co-founder of on-chain compliance firm Predicate, told Yahoo Finance.\n\"Sentiment will take a hit, however,\" he added.\nCrypto assets across the board were mostly lower on Friday, as seen on Yahoo Finance AlphaSpace data.\nBitcoin (BTC-USD) prices tumbled to around $77,000 on Friday, while ether (ETH-USD) also dropped 4% to around $2,200. Altcoins Solana (SOL-USD) and Binance's native token (BNB-USD) also plummeted 7%.\nCrypto-related stocks, however, also declined. Shares of Circle (CRCL) and trading platforms Coinbase (COIN) and Robinhood (HOOD) all tumbled. Digital-asset Treasury giant Strategy (MSTR) stock also sank. (Disclosure: Yahoo Finance has a partnership with Coinbase.)\nCustomer withdrawals have been temporarily suspended, and on Friday, co-CEO Richard Teng promised that the exchange will cover all losses from its funds.\n\"Your assets are safe,\" Teng said on social media.\nShortly after the hack was announced, the exchange confirmed $3 billion in assets, or about half of the funds impacted, were frozen. Stablecoin issuers Tether froze $1.567 billion in USDT, Circle froze $800 million, and World Liberty Financial froze $27 million in USD1, according to their CEOs.\n$6.3 billion Binance hack shakes crypto industry\nHere's what you need to know:\n\"The real systemic concern would be a shortfall in customer assets that forces Binance to liquidate reserves, accelerates withdrawals, causes counterparties to pull credit, and creates a reflexive deleveraging cycle across crypto,\" Fundstrat head of digital assets Sean Farrell said.\nAssuming frozen stablecoins are ultimately returned, the remainder is roughly $3.3 billion. Binance's emergency fund of roughly $1.2 billion, held in bitcoin, would cover roughly a third, with the balance coming from the exchange's own balance sheet.\n\"That removes what I would view as the most dangerous tail risk,\" Farrell said.\nFollow Ines Ferré on X at @ines_ferre.",
+    "text_blocks": [
+      "Binance's $6.3 billion hack this week rattled the crypto market, with nearly every digital asset taking a leg lower on Friday. While the knee-jerk reaction was to sell, industry watchers see the move lower in assets as temporary.",
+      "\"Binance has committed to covering the losses from its own funds and reserves, so we shouldn't see contagion from this exploit,\" Nikhil Raghuveera, co-founder of on-chain compliance firm Predicate, told Yahoo Finance.",
+      "\"Sentiment will take a hit, however,\" he added.",
+      "Crypto assets across the board were mostly lower on Friday, as seen on Yahoo Finance AlphaSpace data.",
+      "Bitcoin (BTC-USD) prices tumbled to around $77,000 on Friday, while ether (ETH-USD) also dropped 4% to around $2,200. Altcoins Solana (SOL-USD) and Binance's native token (BNB-USD) also plummeted 7%.",
+      "Crypto-related stocks, however, also declined. Shares of Circle (CRCL) and trading platforms Coinbase (COIN) and Robinhood (HOOD) all tumbled. Digital-asset Treasury giant Strategy (MSTR) stock also sank. (Disclosure: Yahoo Finance has a partnership with Coinbase.)",
+      "Customer withdrawals have been temporarily suspended, and on Friday, co-CEO Richard Teng promised that the exchange will cover all losses from its funds.",
+      "\"Your assets are safe,\" Teng said on social media.",
+      "Shortly after the hack was announced, the exchange confirmed $3 billion in assets, or about half of the funds impacted, were frozen. Stablecoin issuers Tether froze $1.567 billion in USDT, Circle froze $800 million, and World Liberty Financial froze $27 million in USD1, according to their CEOs.",
+      "$6.3 billion Binance hack shakes crypto industry",
+      "Here's what you need to know:",
+      "\"The real systemic concern would be a shortfall in customer assets that forces Binance to liquidate reserves, accelerates withdrawals, causes counterparties to pull credit, and creates a reflexive deleveraging cycle across crypto,\" Fundstrat head of digital assets Sean Farrell said.",
+      "Assuming frozen stablecoins are ultimately returned, the remainder is roughly $3.3 billion. Binance's emergency fund of roughly $1.2 billion, held in bitcoin, would cover roughly a third, with the balance coming from the exchange's own balance sheet.",
+      "\"That removes what I would view as the most dangerous tail risk,\" Farrell said.",
+      "Follow Ines Ferré on X at @ines_ferre."
+    ],
+    "html": null
+  }
+}

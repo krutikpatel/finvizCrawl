@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-us-stock-market-034408618.html",
+    "fetched_at": "2026-10-31T07:00:31.399261-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Did the US Stock Market Crash? $2 Trillion Wiped Out",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street ended October with a brutal selloff, wiping roughly $2 trillion from the Nasdaq-100's market value as investors questioned whether the artificial intelligence boom could justify its enormous costs.\nThe damage was concentrated in technology stocks. Intel collapsed nearly 29% on Friday, Reddit fell 29%, and Google parent Alphabet lost more than $500 billion in market value on Thursday alone.\nChina's AI bubble burst last week, crashing most of its tech stocks. Is the same pattern now unfolding on Wall Street?\nWhy Did the US Stock Market Crash?\nThe immediate trigger was disappointing corporate earnings. Several major technology companies revealed how much money they were spending on AI, while others warned of slowing growth.\nInvestors were already nervous about elevated stock valuations. Growing inflation and indications that the Fed will increase interest rates in December added pressure.\nGoogle: AI Spending Is Eating Into Cash\nAlphabet shares lost nearly 13% during the week after its quarterly results disappointed investors.\nThe company reported $9.1 billion in negative free cash flow as AI infrastructure spending accelerated. Its core search advertising business also missed expectations.\nInvestors are now questioning how quickly Google's enormous AI investments will generate enough cash to justify their cost.\nAmazon: $220 Billion in Spending\nAmazon faces a similar problem.\nDespite AWS cloud revenue growing 39%, Amazon reported negative free cash flow of $42.4 billion over the preceding 12 months.\nThe company expects capital expenditure of approximately $220 billion this year, with even more spending anticipated in 2027.\nIntel: A Factory Disaster and Falling Demand\nIntel's collapse had more immediate causes.\nAn explosion at its Israeli manufacturing facility disrupted production, with an estimated $600 million revenue impact over two quarters.\nMeanwhile, rising memory prices weakened PC demand. Intel's fourth-quarter revenue forecast fell substantially below Wall Street expectations, triggering its steepest daily share-price decline in decades.\nReddit and Software Stocks: AI Threatens Existing Businesses\nReddit lost more than 36% over the week after warning that Google's AI-generated search answers were reducing traffic to its platform.\nEnterprise software companies suffered their own selloff. ServiceNow fell approximately 34% for the week following disappointing earnings and a weaker backlog-growth outlook. Cybersecurity company Fortinet lost around 24% after cutting its services-revenue forecast.",
+    "text_blocks": [
+      "Wall Street ended October with a brutal selloff, wiping roughly $2 trillion from the Nasdaq-100's market value as investors questioned whether the artificial intelligence boom could justify its enormous costs.",
+      "The damage was concentrated in technology stocks. Intel collapsed nearly 29% on Friday, Reddit fell 29%, and Google parent Alphabet lost more than $500 billion in market value on Thursday alone.",
+      "China's AI bubble burst last week, crashing most of its tech stocks. Is the same pattern now unfolding on Wall Street?",
+      "Why Did the US Stock Market Crash?",
+      "The immediate trigger was disappointing corporate earnings. Several major technology companies revealed how much money they were spending on AI, while others warned of slowing growth.",
+      "Investors were already nervous about elevated stock valuations. Growing inflation and indications that the Fed will increase interest rates in December added pressure.",
+      "Google: AI Spending Is Eating Into Cash",
+      "Alphabet shares lost nearly 13% during the week after its quarterly results disappointed investors.",
+      "The company reported $9.1 billion in negative free cash flow as AI infrastructure spending accelerated. Its core search advertising business also missed expectations.",
+      "Investors are now questioning how quickly Google's enormous AI investments will generate enough cash to justify their cost.",
+      "Amazon: $220 Billion in Spending",
+      "Amazon faces a similar problem.",
+      "Despite AWS cloud revenue growing 39%, Amazon reported negative free cash flow of $42.4 billion over the preceding 12 months.",
+      "The company expects capital expenditure of approximately $220 billion this year, with even more spending anticipated in 2027.",
+      "Intel: A Factory Disaster and Falling Demand",
+      "Intel's collapse had more immediate causes.",
+      "An explosion at its Israeli manufacturing facility disrupted production, with an estimated $600 million revenue impact over two quarters.",
+      "Meanwhile, rising memory prices weakened PC demand. Intel's fourth-quarter revenue forecast fell substantially below Wall Street expectations, triggering its steepest daily share-price decline in decades.",
+      "Reddit and Software Stocks: AI Threatens Existing Businesses",
+      "Reddit lost more than 36% over the week after warning that Google's AI-generated search answers were reducing traffic to its platform.",
+      "Enterprise software companies suffered their own selloff. ServiceNow fell approximately 34% for the week following disappointing earnings and a weaker backlog-growth outlook. Cybersecurity company Fortinet lost around 24% after cutting its services-revenue forecast."
+    ],
+    "html": null
+  }
+}

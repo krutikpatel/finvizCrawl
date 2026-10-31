@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_FV",
+    "fetched_at": "2026-10-31T07:00:13.166862-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "In a wild October for markets, these stocks were the biggest winners and losers - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Deep Dive\nIn a wild October for markets, these stocks were the biggest winners and losers\nMany Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month\nOctober brought a lot of carnage in tech stocks, but you might not guess that from the S&P 500’s performance.\nThe S&P 500 SPX declined 0.9% for October, even though 72% of stocks in the large-cap benchmark index were up for the month.",
+    "text_blocks": [
+      "Deep Dive",
+      "In a wild October for markets, these stocks were the biggest winners and losers",
+      "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month",
+      "October brought a lot of carnage in tech stocks, but you might not guess that from the S&P 500’s performance.",
+      "The S&P 500 SPX declined 0.9% for October, even though 72% of stocks in the large-cap benchmark index were up for the month."
+    ],
+    "html": null
+  }
+}

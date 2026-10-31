@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/worried-crypto-hacks-buy-bitcoin-200603005.html",
+    "fetched_at": "2026-10-31T07:00:25.815133-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street analysts are telling clients the record-breaking hack of Binance is a buying opportunity, not a reason to flee, urging investors to scoop up crypto-linked stocks while prices are depressed.\nAnalysts at Cantor Fitzgerald, TD Cowen, and Compass Point said in Friday research notes that the roughly $6.3 billion theft, the largest crypto hack ever, is unlikely to derail the broader market's recovery.\nThe reassurance came a day after the exploit rattled markets and sent Bitcoin sliding toward $77,000.\nCantor's Ramsey El-Assal pointed to how fast the industry moved to contain the damage, noting that stablecoin issuers and others froze roughly $3 billion of the stolen funds, with Tether freezing more than $1.5 billion, Circle about $800 million and Ripple around $200 million.\nEl-Assal expects shares of Coinbase, Robinhood, and Strategy to recover once the panic fades. \"We would be buyers on weakness,\" he wrote, adding that while the episode is painful, \"this is not 2022.\"\nTD Cowen's Lance Vitanza struck a similar note, arguing the breach exposed weaknesses in Binance's own security rather than in the underlying technology behind Bitcoin, and framing the selloff as a chance to add to Bitcoin and the stocks of public companies that hold it.\nCompass Point's Ed Engel and Michael Donovan said Binance has \"more than enough liquidity to cover the hole,\" while flagging that reimbursing customers could strain stablecoin supply and that rivals like Coinbase and Hyperliquid could pick up business. They are watching the $75,000 to $77,000 Bitcoin range as a key level.\nThe logic behind buying stocks over tokens is that regulated, exchange-listed proxies like Coinbase, Robinhood, and Strategy offer crypto exposure without the custody risk the hack laid bare, and tend to rebound once sentiment steadies.\nNot everyone is sanguine. Cristiano Ventricelli, vice president of digital assets at Moody's Ratings, said the incident \"underscores the heightened cybersecurity risks associated with hot wallets\" and \"illustrates the risk concentration inherent in large, centralized intermediaries.\"\nHe cautioned that the broader implications will hinge on \"the ultimate losses, affected counterparties, asset recovery, and importantly, whether the incident leads to wider disruption or loss of confidence.\"\nBinance has set aside $6.34 billion to cover losses and told users their assets are safe, while the Secret Service and FBI have opened a probe and firms including TRM and Chainalysis have tied the hack to North Korea's TraderTraitor group.",
+    "text_blocks": [
+      "Wall Street analysts are telling clients the record-breaking hack of Binance is a buying opportunity, not a reason to flee, urging investors to scoop up crypto-linked stocks while prices are depressed.",
+      "Analysts at Cantor Fitzgerald, TD Cowen, and Compass Point said in Friday research notes that the roughly $6.3 billion theft, the largest crypto hack ever, is unlikely to derail the broader market's recovery.",
+      "The reassurance came a day after the exploit rattled markets and sent Bitcoin sliding toward $77,000.",
+      "Cantor's Ramsey El-Assal pointed to how fast the industry moved to contain the damage, noting that stablecoin issuers and others froze roughly $3 billion of the stolen funds, with Tether freezing more than $1.5 billion, Circle about $800 million and Ripple around $200 million.",
+      "El-Assal expects shares of Coinbase, Robinhood, and Strategy to recover once the panic fades. \"We would be buyers on weakness,\" he wrote, adding that while the episode is painful, \"this is not 2022.\"",
+      "TD Cowen's Lance Vitanza struck a similar note, arguing the breach exposed weaknesses in Binance's own security rather than in the underlying technology behind Bitcoin, and framing the selloff as a chance to add to Bitcoin and the stocks of public companies that hold it.",
+      "Compass Point's Ed Engel and Michael Donovan said Binance has \"more than enough liquidity to cover the hole,\" while flagging that reimbursing customers could strain stablecoin supply and that rivals like Coinbase and Hyperliquid could pick up business. They are watching the $75,000 to $77,000 Bitcoin range as a key level.",
+      "The logic behind buying stocks over tokens is that regulated, exchange-listed proxies like Coinbase, Robinhood, and Strategy offer crypto exposure without the custody risk the hack laid bare, and tend to rebound once sentiment steadies.",
+      "Not everyone is sanguine. Cristiano Ventricelli, vice president of digital assets at Moody's Ratings, said the incident \"underscores the heightened cybersecurity risks associated with hot wallets\" and \"illustrates the risk concentration inherent in large, centralized intermediaries.\"",
+      "He cautioned that the broader implications will hinge on \"the ultimate losses, affected counterparties, asset recovery, and importantly, whether the incident leads to wider disruption or loss of confidence.\"",
+      "Binance has set aside $6.34 billion to cover losses and told users their assets are safe, while the Secret Service and FBI have opened a probe and firms including TRM and Chainalysis have tied the hack to North Korea's TraderTraitor group."
+    ],
+    "html": null
+  }
+}

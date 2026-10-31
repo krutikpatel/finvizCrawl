@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-gotten-drunk-ai-megadeals-151507299.html",
+    "fetched_at": "2026-10-31T07:00:28.689802-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "'Banks Have Gotten Drunk' on AI Megadeals, USD.AI Co-Founder Says",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nWall Street banks favor enormous AI financing deals while smaller GPU operators struggle to borrow, USD.AI co-founder Conor Moore told Benzinga in an exclusive interview.\n\"The banks have gotten drunk on these large IG deals because you don't have to have a directional view or thesis on the space to be comfortable doing them,\" Moore said, referring to investment-grade financing.\nWhen Microsoft Corp. (NASDAQ:MSFT) backs a project, lenders can focus on its ability to pay rather than whether the underlying AI business will succeed.\nBut the sheer volume of borrowing is testing investors' appetite. Large bond buyers face limits on their exposure to individual companies, while the flood of AI debt is pushing them to demand higher yields.\nMoore illustrated that fatigue by imagining investors saying: \"I don't have appetite for the 12th Microsoft $40 billion financing, I am tapped out of appetite.\"\nWall Street's AI Deals Stretch Lenders\nMonday's $63 billion Anthropic financing illustrates the scale of these transactions. Bank of America Corp. (NYSE:BAC), Citigroup Inc. (NYSE:C) and Morgan Stanley (NYSE:MS) are arranging senior loans for Broadcom Inc. (NASDAQ:AVGO) AI chips, with Blackstone Inc. (NYSE:BX) providing junior financing.\nSeveral banks considered withdrawing before Broadcom offered better terms, including protection against falling equipment values.\nBank of America also struggled to syndicate a $14 billion loan for an Oracle Corp. (NYSE:ORCL) data center in Michigan and turned to long-term bond investors instead, Karen Fang, the bank's global head of infrastructure and sustainable finance, told BloombergNEF. She said capital remains available for strong projects.\nMoore said that pressure is forcing lenders to be \"more creative and thoughtful about what deals they're doing and actually have a directional view on the underlying business.\"\nWho Finances Smaller AI Companies?\nUSD.AI arranges GPU-backed loans of $20 million to $250 million. Moore expects average deals to rise from roughly $50 million to $100 million.\nSmaller operators can deploy GPUs in converted telecom buildings or shipping containers, tapping existing power supplies and potentially avoiding lengthy construction delays.\nBut their loans are harder for traditional lenders to assess. \"The market is starving for standardization,\" Moore said.\nUSD.AI aims to make these loans easier to evaluate, attracting private-credit funds, family offices and eventually regional banks and insurers.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Wall Street banks favor enormous AI financing deals while smaller GPU operators struggle to borrow, USD.AI co-founder Conor Moore told Benzinga in an exclusive interview.",
+      "\"The banks have gotten drunk on these large IG deals because you don't have to have a directional view or thesis on the space to be comfortable doing them,\" Moore said, referring to investment-grade financing.",
+      "When Microsoft Corp. (NASDAQ:MSFT) backs a project, lenders can focus on its ability to pay rather than whether the underlying AI business will succeed.",
+      "But the sheer volume of borrowing is testing investors' appetite. Large bond buyers face limits on their exposure to individual companies, while the flood of AI debt is pushing them to demand higher yields.",
+      "Moore illustrated that fatigue by imagining investors saying: \"I don't have appetite for the 12th Microsoft $40 billion financing, I am tapped out of appetite.\"",
+      "Wall Street's AI Deals Stretch Lenders",
+      "Monday's $63 billion Anthropic financing illustrates the scale of these transactions. Bank of America Corp. (NYSE:BAC), Citigroup Inc. (NYSE:C) and Morgan Stanley (NYSE:MS) are arranging senior loans for Broadcom Inc. (NASDAQ:AVGO) AI chips, with Blackstone Inc. (NYSE:BX) providing junior financing.",
+      "Several banks considered withdrawing before Broadcom offered better terms, including protection against falling equipment values.",
+      "Bank of America also struggled to syndicate a $14 billion loan for an Oracle Corp. (NYSE:ORCL) data center in Michigan and turned to long-term bond investors instead, Karen Fang, the bank's global head of infrastructure and sustainable finance, told BloombergNEF. She said capital remains available for strong projects.",
+      "Moore said that pressure is forcing lenders to be \"more creative and thoughtful about what deals they're doing and actually have a directional view on the underlying business.\"",
+      "Who Finances Smaller AI Companies?",
+      "USD.AI arranges GPU-backed loans of $20 million to $250 million. Moore expects average deals to rise from roughly $50 million to $100 million.",
+      "Smaller operators can deploy GPUs in converted telecom buildings or shipping containers, tapping existing power supplies and potentially avoiding lengthy construction delays.",
+      "But their loans are harder for traditional lenders to assess. \"The market is starving for standardization,\" Moore said.",
+      "USD.AI aims to make these loans easier to evaluate, attracting private-credit funds, family offices and eventually regional banks and insurers."
+    ],
+    "html": null
+  }
+}

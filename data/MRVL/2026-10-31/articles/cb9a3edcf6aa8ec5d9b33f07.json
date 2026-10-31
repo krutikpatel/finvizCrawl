@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-shares-sink-alphabet-miss-130147004.html",
+    "fetched_at": "2026-10-31T07:00:57.213919-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell shares sink as Alphabet miss and Lumentum deal reports weigh on sentiment",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - Marvell shares are trading sharply lower today amid a punishing read-across from Alphabet's third-quarter earnings miss as well as media reports that the company is in talk to acquire Lumentum.\nMore specifically, Bloomberg News reported that Marvell was in advanced talks to acquire Lumentum, with deal terms and a final agreement still under discussion. According to the report, a deal could be announced as soon as next week.\n\"We believe that the actual closing of such a deal would likely take some time to get through both U.S. and Chinese regulatory approval bodies,\" Stifel analysts said in a note.\nOn the other hand, Alphabet burned $9.07 billion in free cash flow during Q3 2026, extending a pattern that began in Q2 when it posted its first-ever negative free-cash-flow quarter — and the market is treating any chipmaker tied to Alphabet's infrastructure budget as collateral damage.\nMarvell supplies network interface cards, storage controllers and memory controllers that attach directly to Google's custom TPU accelerators, forming the connective tissue of Google's AI infrastructure. An expanded deal also includes a warrant granting Google the right to acquire up to 7% of Marvell's outstanding shares if specified revenue milestones are met — a structure that creates meaningful upside if the Google relationship scales, but introduces dilution risk if the milestone timeline slips.\nIn layman's terms, when Alphabet's spending power comes into question, that architectural intimacy becomes a liability.\nAlphabet's Q3 results showed revenue of $127.6 billion missed the Street consensus of $128.2 billion, while EPS of $2.12 fell sharply short of the $3.02 expectation. Net income dropped to $26.47 billion from $34.98 billion a year earlier.\nGoogle Search revenue grew only 12%, well below the 14.7% analysts had expected, intensifying concern that AI chatbots are beginning to cannibalize the core ad engine that funds Google's entire AI buildout, and, by extension, the spending that flows to chip partners like Marvell.\nCEO Sundar Pichai framed the results differently, telling analysts the company is \"on a half-trillion dollar revenue run rate\" and that AI investments are driving the highest year-over-year query growth in five years.",
+    "text_blocks": [
+      "Investing.com - Marvell shares are trading sharply lower today amid a punishing read-across from Alphabet's third-quarter earnings miss as well as media reports that the company is in talk to acquire Lumentum.",
+      "More specifically, Bloomberg News reported that Marvell was in advanced talks to acquire Lumentum, with deal terms and a final agreement still under discussion. According to the report, a deal could be announced as soon as next week.",
+      "\"We believe that the actual closing of such a deal would likely take some time to get through both U.S. and Chinese regulatory approval bodies,\" Stifel analysts said in a note.",
+      "On the other hand, Alphabet burned $9.07 billion in free cash flow during Q3 2026, extending a pattern that began in Q2 when it posted its first-ever negative free-cash-flow quarter — and the market is treating any chipmaker tied to Alphabet's infrastructure budget as collateral damage.",
+      "Marvell supplies network interface cards, storage controllers and memory controllers that attach directly to Google's custom TPU accelerators, forming the connective tissue of Google's AI infrastructure. An expanded deal also includes a warrant granting Google the right to acquire up to 7% of Marvell's outstanding shares if specified revenue milestones are met — a structure that creates meaningful upside if the Google relationship scales, but introduces dilution risk if the milestone timeline slips.",
+      "In layman's terms, when Alphabet's spending power comes into question, that architectural intimacy becomes a liability.",
+      "Alphabet's Q3 results showed revenue of $127.6 billion missed the Street consensus of $128.2 billion, while EPS of $2.12 fell sharply short of the $3.02 expectation. Net income dropped to $26.47 billion from $34.98 billion a year earlier.",
+      "Google Search revenue grew only 12%, well below the 14.7% analysts had expected, intensifying concern that AI chatbots are beginning to cannibalize the core ad engine that funds Google's entire AI buildout, and, by extension, the spending that flows to chip partners like Marvell.",
+      "CEO Sundar Pichai framed the results differently, telling analysts the company is \"on a half-trillion dollar revenue run rate\" and that AI investments are driving the highest year-over-year query growth in five years."
+    ],
+    "html": null
+  }
+}

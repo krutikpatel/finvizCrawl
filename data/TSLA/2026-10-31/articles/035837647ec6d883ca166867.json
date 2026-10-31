@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-shotwell-says-2-million-214100331.html",
+    "fetched_at": "2026-10-31T07:00:03.643118-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct 30 (Reuters) - SpaceX President Gwynne Shotwell said in an X post on Friday that more than 2 million of the company's shares will be distributed to eligible children through \"Trump Accounts\" in December.\nHere are some more details:\n• The initial gift of shares, currently being transferred to escrow, will go to children aged 11 to 17 living in ZIP codes with a median family income of $57,000 or less, Shotwell said\n• Children living in ZIP codes with too few residents for median family income data to be reported will also be eligible\n• Eligible families should receive a notice by Monday, she said\n• A separate gift is expected to be finalized in coming weeks for eligible children in military families serving overseas, children in foster care, and children whose family income is $90,000 or less, living in eligible Texas counties\n• CEO Elon Musk said earlier this month that SpaceX and Tesla had formed special committees to explore a potential merger, though he said the panels had not agreed upon transaction terms and might never do so\n(Reporting by Prathik Jayaprakash in Bengaluru; Editing by Pooja Desai)",
+    "text_blocks": [
+      "Oct 30 (Reuters) - SpaceX President Gwynne Shotwell said in an X post on Friday that more than 2 million of the company's shares will be distributed to eligible children through \"Trump Accounts\" in December.",
+      "Here are some more details:",
+      "• The initial gift of shares, currently being transferred to escrow, will go to children aged 11 to 17 living in ZIP codes with a median family income of $57,000 or less, Shotwell said",
+      "• Children living in ZIP codes with too few residents for median family income data to be reported will also be eligible",
+      "• Eligible families should receive a notice by Monday, she said",
+      "• A separate gift is expected to be finalized in coming weeks for eligible children in military families serving overseas, children in foster care, and children whose family income is $90,000 or less, living in eligible Texas counties",
+      "• CEO Elon Musk said earlier this month that SpaceX and Tesla had formed special committees to explore a potential merger, though he said the panels had not agreed upon transaction terms and might never do so",
+      "(Reporting by Prathik Jayaprakash in Bengaluru; Editing by Pooja Desai)"
+    ],
+    "html": null
+  }
+}

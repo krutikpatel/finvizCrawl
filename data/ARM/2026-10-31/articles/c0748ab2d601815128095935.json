@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/arm-stocks-fall-bluefield-4-152004880.html",
+    "fetched_at": "2026-10-31T07:00:54.140986-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), the processor-architecture company, gained another AI infrastructure use case through Nvidia's (NASDAQ:NVDA) Sentry security design, while its shares traded at $292.39, down approximately 0.4% on Wednesday, September 30. Nvidia's September 28 announcement puts BlueField-4 data-processing units inside a system built to police autonomous AI agents. For Arm, that extends its technology's role into the hardware guarding those agents.\nAccording to Nvidia, Sentry monitors agent activity independently of the systems doing the work and can stop boundary violations within milliseconds. BlueField-4 incorporates a 64-core Grace CPU based on Arm Neoverse V2, giving Arm a place in that security layer. Nvidia has also described BlueField-4 as delivering six times the computing performance of BlueField-3.\nThe valuation leaves little room for a weak payoff: the picture shows shares trading 49.94% above the $195 GF Value estimate. Security could broaden Arm's data-center opportunity, but a design win alone does not establish the size of its royalty contribution. Investors still need shipment volumes, royalty economics and customer adoption to judge how much this role can add to earnings.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), the processor-architecture company, gained another AI infrastructure use case through Nvidia's (NASDAQ:NVDA) Sentry security design, while its shares traded at $292.39, down approximately 0.4% on Wednesday, September 30. Nvidia's September 28 announcement puts BlueField-4 data-processing units inside a system built to police autonomous AI agents. For Arm, that extends its technology's role into the hardware guarding those agents.",
+      "According to Nvidia, Sentry monitors agent activity independently of the systems doing the work and can stop boundary violations within milliseconds. BlueField-4 incorporates a 64-core Grace CPU based on Arm Neoverse V2, giving Arm a place in that security layer. Nvidia has also described BlueField-4 as delivering six times the computing performance of BlueField-3.",
+      "The valuation leaves little room for a weak payoff: the picture shows shares trading 49.94% above the $195 GF Value estimate. Security could broaden Arm's data-center opportunity, but a design win alone does not establish the size of its royalty contribution. Investors still need shipment volumes, royalty economics and customer adoption to judge how much this role can add to earnings."
+    ],
+    "html": null
+  }
+}

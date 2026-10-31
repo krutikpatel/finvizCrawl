@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-moves-higher-nvidia-000203024.html",
+    "fetched_at": "2026-10-31T07:00:54.283240-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Stocks Moves Higher as Nvidia Security Adds a Second Compute Layer",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings, the processor-architecture and computing-platform company (NASDAQ:ARM), outlined its role in Nvidia's Open Agent Safety Platform, with its American depositary shares priced at $292.35 on October 1. That puts the shares 49.83% above the $195.12 GF Value estimate. The valuation gap leaves little room for AI excitement that fails to turn into earnings.\nThe opportunity spans two jobs: running AI agents and keeping their actions under control. According to Arm's announcement, Nvidia's OpenShell supports secure agent execution across Arm-based CPUs, while separate infrastructure processors enforce safeguards outside the agent's own environment. BlueField-4 brings 64 Arm Neoverse V2 cores to that second layer. Nvidia Sentry monitors behavior and can quarantine an agent that becomes unsafe. More autonomous software means more work for the chips policing it.\nThat gives Arm a potential route to architecture revenue from both agent computing and security infrastructure. But a technical role is only the starting point. The announcement provides no shipment commitment, royalty forecast or customer deployment figures. Investors need evidence that customers will buy additional Arm-based silicon at scale. With the shares already commanding a substantial premium to estimated value, adoption and royalty growth will matter more than another AI platform announcement.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings, the processor-architecture and computing-platform company (NASDAQ:ARM), outlined its role in Nvidia's Open Agent Safety Platform, with its American depositary shares priced at $292.35 on October 1. That puts the shares 49.83% above the $195.12 GF Value estimate. The valuation gap leaves little room for AI excitement that fails to turn into earnings.",
+      "The opportunity spans two jobs: running AI agents and keeping their actions under control. According to Arm's announcement, Nvidia's OpenShell supports secure agent execution across Arm-based CPUs, while separate infrastructure processors enforce safeguards outside the agent's own environment. BlueField-4 brings 64 Arm Neoverse V2 cores to that second layer. Nvidia Sentry monitors behavior and can quarantine an agent that becomes unsafe. More autonomous software means more work for the chips policing it.",
+      "That gives Arm a potential route to architecture revenue from both agent computing and security infrastructure. But a technical role is only the starting point. The announcement provides no shipment commitment, royalty forecast or customer deployment figures. Investors need evidence that customers will buy additional Arm-based silicon at scale. With the shares already commanding a substantial premium to estimated value, adoption and royalty growth will matter more than another AI platform announcement."
+    ],
+    "html": null
+  }
+}

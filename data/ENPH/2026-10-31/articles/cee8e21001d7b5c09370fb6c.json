@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/ai-transformers-sidecars-eaton-vertiv-schneider-stock-7914aa44?mod=bar_FV",
+    "fetched_at": "2026-10-31T07:00:15.602067-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How Vertiv, Eaton, and Schneider Are Getting a Boost From Sidecar Transformers<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Toasters, Data Centers, and an Unassuming Box That’s Boosting 3 Power Stocks\nLet’s run through some basics, including neoclouds, brownfield construction, watts versus volts, and how to not accidentally set off a plasma blowtorch hotter than the surface of the sun. A good place to start is toasters.",
+    "text_blocks": [
+      "Toasters, Data Centers, and an Unassuming Box That’s Boosting 3 Power Stocks",
+      "Let’s run through some basics, including neoclouds, brownfield construction, watts versus volts, and how to not accidentally set off a plasma blowtorch hotter than the surface of the sun. A good place to start is toasters."
+    ],
+    "html": null
+  }
+}

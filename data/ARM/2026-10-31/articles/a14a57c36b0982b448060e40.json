@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-surges-5-24-184931840.html",
+    "fetched_at": "2026-10-31T07:00:54.685169-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Stock Surges 5.24% as Agent Safety Needs Two Silicon Layers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), the processor architecture company, rose 5.2% to $298.175 at 11.21am ET time on Tuesday after its September 28 update on Nvidia's (NASDAQ:NVDA) Open Agent Safety Platform. The pitch is bigger than running AI agents: Arm wants its technology inside the systems that keep those agents in check.\nArm says its CPUs can handle agent workloads while separate Arm based processors monitor and isolate them. Nvidia's BlueField-4, with 64 Arm Neoverse V2 cores, gives those safeguards a place to run outside the host system. If customers adopt that design, Arm could earn a place on both sides of an agent deployment.\nThe picture adds a price check: at $298.175, the shares stood 53% above GuruFocus's $194.88 GF Value estimate. That premium puts pressure on the business case. Arm still needs chip shipments, royalty revenue and customer adoption to turn a promising role in AI infrastructure into a payoff investors can measure.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), the processor architecture company, rose 5.2% to $298.175 at 11.21am ET time on Tuesday after its September 28 update on Nvidia's (NASDAQ:NVDA) Open Agent Safety Platform. The pitch is bigger than running AI agents: Arm wants its technology inside the systems that keep those agents in check.",
+      "Arm says its CPUs can handle agent workloads while separate Arm based processors monitor and isolate them. Nvidia's BlueField-4, with 64 Arm Neoverse V2 cores, gives those safeguards a place to run outside the host system. If customers adopt that design, Arm could earn a place on both sides of an agent deployment.",
+      "The picture adds a price check: at $298.175, the shares stood 53% above GuruFocus's $194.88 GF Value estimate. That premium puts pressure on the business case. Arm still needs chip shipments, royalty revenue and customer adoption to turn a promising role in AI infrastructure into a payoff investors can measure."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/buy-alphabet-google-stock-48c5972c?mod=bar_FV",
+    "fetched_at": "2026-10-31T07:00:45.252252-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet Stock: Keep Calm and Buy the Dip, Barron’s Says<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.\nThe Google-parent trades at a rare discount. If it simply returns to its historical valuation relative to Apple, the stock has nearly 50% upside.\nWeak tech earnings are sending investors for the hills, so it may not be the best time for optimism. It also isn’t a time to overreact.",
+    "text_blocks": [
+      "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
+      "The Google-parent trades at a rare discount. If it simply returns to its historical valuation relative to Apple, the stock has nearly 50% upside.",
+      "Weak tech earnings are sending investors for the hills, so it may not be the best time for optimism. It also isn’t a time to overreact."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/anthropic-partners-face-enormous-counterparty-risk-0580e324?mod=bar_FV",
+    "fetched_at": "2026-10-31T07:00:36.668344-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic Partners Face Enormous Counterparty Risk<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Anthropic Partners Face Enormous Counterparty Risk\nThe Anthropic prospectus for its initial public offering is a unique document for many reasons. We don’t often get to see 1,300% sales growth coupled with an 85% gross profit margin, nor 93 pages of risk factors, with one of them warning that the company’s artificial-intelligence models may try to blackmail users. Fun times.",
+    "text_blocks": [
+      "Anthropic Partners Face Enormous Counterparty Risk",
+      "The Anthropic prospectus for its initial public offering is a unique document for many reasons. We don’t often get to see 1,300% sales growth coupled with an 85% gross profit margin, nor 93 pages of risk factors, with one of them warning that the company’s artificial-intelligence models may try to blackmail users. Fun times."
+    ],
+    "html": null
+  }
+}

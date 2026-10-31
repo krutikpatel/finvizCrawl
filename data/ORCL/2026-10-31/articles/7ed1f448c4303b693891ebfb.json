@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/jassy-says-aws-could-hit-183919914.html",
+    "fetched_at": "2026-10-31T07:00:28.686422-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Jassy says AWS could hit $1T in revenue in next decade",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.\nDive Brief:\n-\nAmazon reported 39% year-over-year growth for its AWS segment in the third quarter of fiscal 2026, positioning the business segment to reach $1 trillion in revenue in the next five to ten years, according to CEO Andy Jassy.\n-\nThe company's core compute and storage revenue \"grew at their fastest rates in several years,\" Jassy said during the company earnings call Thursday. The cloud provider's backlog grew triple digits year over year to $578 billion and included new agreements with Meta, Nvidia, OpenAI, Salesforce and Oracle.\n-\nAmazon will continue investing in AI functionality as enterprises seek to run core and AI workloads in AWS, spurring the company to add greater amounts of capacity, Jassy told investors. \"We're installing an AI accelerator about every 14 seconds and almost as fast as we install capacity, customers are gobbling it up,\" he said.\nDive Insight:\nAmazon, Microsoft and Google collectively saw growth across their cloud businesses as AI bolstered investments.\nSpend on cloud services grew 55% in Q3, reaching an unprecedented $168 billion, according to a Thursday report from Synergy Research Group, now part of TechInsights. Amazon maintains a 26% share of the cloud market, with Microsoft and Google retaining 19% and 16%, respectively.\nAI has propelled the cloud market to grow by 185% since 2022 when ChatGPT first launched, according to the report. AI-specific cloud services account for one-third of the overall market today, the report found.\n\"AI has totally transformed the cloud market in terms of service capabilities, customer demand, and growth opportunities,\" John Dinsdale, chief analyst at the research group, said in the report.\nJassy echoed that point during the earnings call, saying demand for core AWS services is growing as customers want inference to be close to the data and applications already stored in AWS.\n\"This is a different model than primarily hosting GPUs or renting short-term data center capacity,\" he said. \"This is a long-term platform strategy that broadly helps customers invent and evolve their customer experiences.\"\nWhile AI is driving hyperscaler growth, it's also propelling demand for neocloud providers such as CoreWeave and Nebius, eroding the total market share of established cloud providers, the report found.",
+    "text_blocks": [
+      "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.",
+      "Dive Brief:",
+      "-",
+      "Amazon reported 39% year-over-year growth for its AWS segment in the third quarter of fiscal 2026, positioning the business segment to reach $1 trillion in revenue in the next five to ten years, according to CEO Andy Jassy.",
+      "-",
+      "The company's core compute and storage revenue \"grew at their fastest rates in several years,\" Jassy said during the company earnings call Thursday. The cloud provider's backlog grew triple digits year over year to $578 billion and included new agreements with Meta, Nvidia, OpenAI, Salesforce and Oracle.",
+      "-",
+      "Amazon will continue investing in AI functionality as enterprises seek to run core and AI workloads in AWS, spurring the company to add greater amounts of capacity, Jassy told investors. \"We're installing an AI accelerator about every 14 seconds and almost as fast as we install capacity, customers are gobbling it up,\" he said.",
+      "Dive Insight:",
+      "Amazon, Microsoft and Google collectively saw growth across their cloud businesses as AI bolstered investments.",
+      "Spend on cloud services grew 55% in Q3, reaching an unprecedented $168 billion, according to a Thursday report from Synergy Research Group, now part of TechInsights. Amazon maintains a 26% share of the cloud market, with Microsoft and Google retaining 19% and 16%, respectively.",
+      "AI has propelled the cloud market to grow by 185% since 2022 when ChatGPT first launched, according to the report. AI-specific cloud services account for one-third of the overall market today, the report found.",
+      "\"AI has totally transformed the cloud market in terms of service capabilities, customer demand, and growth opportunities,\" John Dinsdale, chief analyst at the research group, said in the report.",
+      "Jassy echoed that point during the earnings call, saying demand for core AWS services is growing as customers want inference to be close to the data and applications already stored in AWS.",
+      "\"This is a different model than primarily hosting GPUs or renting short-term data center capacity,\" he said. \"This is a long-term platform strategy that broadly helps customers invent and evolve their customer experiences.\"",
+      "While AI is driving hyperscaler growth, it's also propelling demand for neocloud providers such as CoreWeave and Nebius, eroding the total market share of established cloud providers, the report found."
+    ],
+    "html": null
+  }
+}

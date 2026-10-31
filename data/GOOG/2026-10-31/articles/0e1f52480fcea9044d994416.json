@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html",
+    "fetched_at": "2026-10-31T07:00:31.343240-07:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street analysts spent 2026 piling Buy ratings onto the AI build-out. The stocks they ignored have done better.\nThe S&P 500 (^GSPC) stocks with the biggest share of analyst Buy ratings have trailed those with the smallest share for most of the year, according to Piper Sandler chief investment strategist Michael Kantrowitz. Measured year over year, it's the third-worst stretch in Piper's data going back to 1995.\n\"The Sell Side's MOST favored stocks have underperformed their LEAST favored stocks for the majority of 2026,\" Kantrowitz wrote in a note to clients Wednesday.\nThis week showed what that looks like. Alphabet had its worst month in history, Intel had its worst day since 1974, and the Nasdaq (^IXIC) suffered its biggest daily drop since June as Big Tech's results revived worries about AI spending.\nAdd it up, and the AI trade has lost about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations, including about $1.6 trillion on Friday alone. Nvidia and Alphabet, two of Piper's favorites, shed about $835 billion each, roughly a third of the total.\nThe rest of the market has held up. The other 625 large US stocks in Yahoo Finance's count gained about $1.3 trillion over the same stretch, led by Eli Lilly (LLY), Walmart (WMT) and Exxon Mobil (XOM). It's the slump in Wall Street's favorites, playing out in a single month.\nPiper picks both groups from the top and bottom of each of the index's 11 sectors, so this isn't tech against everything else.\nOnly two slumps ran deeper, in 2001-02 and 2010. Both came near big turning points in the market, the first as the tech bubble deflated and the second as stocks recovered from the financial crisis.\nWhy this hits more portfolios than you'd think\nMost investors own Wall Street's favorites whether they picked them or not. Nvidia (NVDA) and Alphabet (GOOGL) are among the biggest weights in the S&P 500, so any index fund or 401(k) that tracks it leans on their fortunes.\nThe slump also shows how a crowded idea can work against investors. When nearly every analyst already loves a stock, much of the good news is in the price, and there are few new buyers left to win over. A disappointment then stings.\nThat's what the favorites are running into. Six of the nine names on Piper's list are down this year, from Alphabet and power producer Vistra (VST) to Wynn Resorts (WYNN) and Take-Two Interactive (TTWO). The exceptions are three AI build-out names: Nvidia, Arista Networks (ANET), and Comfort Systems (FIX).\nMeanwhile, nearly all of the least-loved stocks are up, led by steady names like Kenvue (KVUE) and Illinois Tool Works (ITW). As a group, though, they've only roughly kept pace with the S&P 500. This is less about the laggards running than about the favorites falling.",
+    "text_blocks": [
+      "Wall Street analysts spent 2026 piling Buy ratings onto the AI build-out. The stocks they ignored have done better.",
+      "The S&P 500 (^GSPC) stocks with the biggest share of analyst Buy ratings have trailed those with the smallest share for most of the year, according to Piper Sandler chief investment strategist Michael Kantrowitz. Measured year over year, it's the third-worst stretch in Piper's data going back to 1995.",
+      "\"The Sell Side's MOST favored stocks have underperformed their LEAST favored stocks for the majority of 2026,\" Kantrowitz wrote in a note to clients Wednesday.",
+      "This week showed what that looks like. Alphabet had its worst month in history, Intel had its worst day since 1974, and the Nasdaq (^IXIC) suffered its biggest daily drop since June as Big Tech's results revived worries about AI spending.",
+      "Add it up, and the AI trade has lost about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations, including about $1.6 trillion on Friday alone. Nvidia and Alphabet, two of Piper's favorites, shed about $835 billion each, roughly a third of the total.",
+      "The rest of the market has held up. The other 625 large US stocks in Yahoo Finance's count gained about $1.3 trillion over the same stretch, led by Eli Lilly (LLY), Walmart (WMT) and Exxon Mobil (XOM). It's the slump in Wall Street's favorites, playing out in a single month.",
+      "Piper picks both groups from the top and bottom of each of the index's 11 sectors, so this isn't tech against everything else.",
+      "Only two slumps ran deeper, in 2001-02 and 2010. Both came near big turning points in the market, the first as the tech bubble deflated and the second as stocks recovered from the financial crisis.",
+      "Why this hits more portfolios than you'd think",
+      "Most investors own Wall Street's favorites whether they picked them or not. Nvidia (NVDA) and Alphabet (GOOGL) are among the biggest weights in the S&P 500, so any index fund or 401(k) that tracks it leans on their fortunes.",
+      "The slump also shows how a crowded idea can work against investors. When nearly every analyst already loves a stock, much of the good news is in the price, and there are few new buyers left to win over. A disappointment then stings.",
+      "That's what the favorites are running into. Six of the nine names on Piper's list are down this year, from Alphabet and power producer Vistra (VST) to Wynn Resorts (WYNN) and Take-Two Interactive (TTWO). The exceptions are three AI build-out names: Nvidia, Arista Networks (ANET), and Comfort Systems (FIX).",
+      "Meanwhile, nearly all of the least-loved stocks are up, led by steady names like Kenvue (KVUE) and Illinois Tool Works (ITW). As a group, though, they've only roughly kept pace with the S&P 500. This is less about the laggards running than about the favorites falling."
+    ],
+    "html": null
+  }
+}
