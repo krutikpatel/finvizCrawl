@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/meta-seeks-to-raise-at-least-20-billion-in-latest-bond-sale-coOsquhWQESzsFjq8QcH?mod=wsj_FV",
+    "fetched_at": "2026-11-03T07:00:20.029945-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Seeks to Raise at Least $20 Billion in Bond Sale",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n38 min ago\nMeta Seeks to Raise at Least $20 Billion in Bond Sale\nMeta Platforms kicked off an investment-grade bond sale this morning targeting $20 billion to $25 billion, a person familiar with the matter said, as it continues raising hundreds of billions of dollars to finance an AI infrastucture buildout.\nThe five-part bond sale is expected to be roughly two-thirds dollars and one-third euros, the person said.\nMeta last tapped the U.S. investment-grade bond market in April, but has raised equity and financed data center projects through off balance sheet, joint-venture arrangements since then.",
+    "text_blocks": [
+      "LIVE",
+      "38 min ago",
+      "Meta Seeks to Raise at Least $20 Billion in Bond Sale",
+      "Meta Platforms kicked off an investment-grade bond sale this morning targeting $20 billion to $25 billion, a person familiar with the matter said, as it continues raising hundreds of billions of dollars to finance an AI infrastucture buildout.",
+      "The five-part bond sale is expected to be roughly two-thirds dollars and one-third euros, the person said.",
+      "Meta last tapped the U.S. investment-grade bond market in April, but has raised equity and financed data center projects through off balance sheet, joint-venture arrangements since then."
+    ],
+    "html": null
+  }
+}

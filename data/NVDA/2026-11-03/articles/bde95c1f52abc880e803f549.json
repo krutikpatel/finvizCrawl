@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/apple-set-to-lose-stock-market-crown-after-earnings-mn8uUeHpqbO1VO5esMwm?mod=wsj_FV",
+    "fetched_at": "2026-11-03T07:01:25.139813-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Set to Lose Stock-Market Crown After Earnings",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n1 hour ago\nApple Set to Lose Stock-Market Crown After Earnings\nApple reported solid earnings last night, but signs that its growth engine is slowing sent the stock sliding about 4% in premarket trading.\nIf the stock sustains its losses, it's set to lose its place as the largest company by market cap.\nNvidia, whose shares are up over 2% premarket, is on course to dethrone the iPhone maker. The two companies have traded places on the top spot three times so far this year, according to Dow Jones Market Data.",
+    "text_blocks": [
+      "LIVE",
+      "1 hour ago",
+      "Apple Set to Lose Stock-Market Crown After Earnings",
+      "Apple reported solid earnings last night, but signs that its growth engine is slowing sent the stock sliding about 4% in premarket trading.",
+      "If the stock sustains its losses, it's set to lose its place as the largest company by market cap.",
+      "Nvidia, whose shares are up over 2% premarket, is on course to dethrone the iPhone maker. The two companies have traded places on the top spot three times so far this year, according to Dow Jones Market Data."
+    ],
+    "html": null
+  }
+}

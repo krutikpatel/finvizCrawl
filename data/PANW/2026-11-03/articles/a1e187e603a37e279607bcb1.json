@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-costco-10-more-issuers-093005069.html",
+    "fetched_at": "2026-11-03T07:01:48.783634-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, Costco and 10 More Issuers Opt Out of ICE and OKX’s Tokenized Stock Venue",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia, Costco, Nike and nine other public companies have objected to having their shares traded on the tokenized stock venue run by Intercontinental Exchange (ICE) and OKX, bringing the number of objecting issuers to 50.\nThe venue, OKXICE TSV, published a revised public notice dated Oct. 30 that lists 50 companies that have filed a Notice of Issuer Objection. A comparison with the venue's Oct. 28 notice, which listed 38, shows 12 names added in two days: CrowdStrike, Corning, Micron, IREN, USA Rare Earth, Bloom Energy, Nike, Nvidia, Palo Alto Networks, Costco, Reddit and Hewlett Packard Enterprise.\nThey join earlier objectors such as Microsoft, Alphabet, JPMorgan Chase and Goldman Sachs, along with Walmart, Eli Lilly and Cigna, which appeared on the Oct. 28 list. The notice does not say why any company objected, and it still gives no date for trading to begin.\nUnder the SEC exemptive order the venue relies on, published in the Federal Register on Sept. 22, a venue cannot list a stock tokenized by an unaffiliated third party once that stock's issuer files a timely objection.\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nWhat the Notice Says About the Venue\nOKXICE LLC, owned 50% by ICE and 50% by OKX affiliate OKC USA Holding, plans to run permissioned Uniswap v4 liquidity pools on OKX's XLayer network, open 24 hours a day to wallets that hold a non-transferable access token issued after identity checks.\nThe notice states that the venue \"is not registered with the Securities and Exchange Commission\" and that \"unfair and unreasonably discriminatory denials or limitations of access\" of its participants \"are not subject to SEC review.\"\nIt also discloses that the venue has no policies for maximal extractable value (MEV), the practice of reordering pending transactions for profit. The notice says the venue's controls against manipulative trading, which are permissioning every participant, surveilling trading and revoking the access token of anyone it finds trading manipulatively, along with a minimum amount each participant sets to receive on a trade, \"substantially mitigate\" MEV risk but do not eliminate it. The soulbound token contract that gates access, the notice says, \"has been audited internally, but not by external auditors.\"\nIf the broker-dealer behind the tokens failed, whether tokens held in self-custodied wallets would count as customer property or be covered by the Securities Investor Protection Corporation \"is uncertain,\" the notice says.",
+    "text_blocks": [
+      "Nvidia, Costco, Nike and nine other public companies have objected to having their shares traded on the tokenized stock venue run by Intercontinental Exchange (ICE) and OKX, bringing the number of objecting issuers to 50.",
+      "The venue, OKXICE TSV, published a revised public notice dated Oct. 30 that lists 50 companies that have filed a Notice of Issuer Objection. A comparison with the venue's Oct. 28 notice, which listed 38, shows 12 names added in two days: CrowdStrike, Corning, Micron, IREN, USA Rare Earth, Bloom Energy, Nike, Nvidia, Palo Alto Networks, Costco, Reddit and Hewlett Packard Enterprise.",
+      "They join earlier objectors such as Microsoft, Alphabet, JPMorgan Chase and Goldman Sachs, along with Walmart, Eli Lilly and Cigna, which appeared on the Oct. 28 list. The notice does not say why any company objected, and it still gives no date for trading to begin.",
+      "Under the SEC exemptive order the venue relies on, published in the Federal Register on Sept. 22, a venue cannot list a stock tokenized by an unaffiliated third party once that stock's issuer files a timely objection.",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "What the Notice Says About the Venue",
+      "OKXICE LLC, owned 50% by ICE and 50% by OKX affiliate OKC USA Holding, plans to run permissioned Uniswap v4 liquidity pools on OKX's XLayer network, open 24 hours a day to wallets that hold a non-transferable access token issued after identity checks.",
+      "The notice states that the venue \"is not registered with the Securities and Exchange Commission\" and that \"unfair and unreasonably discriminatory denials or limitations of access\" of its participants \"are not subject to SEC review.\"",
+      "It also discloses that the venue has no policies for maximal extractable value (MEV), the practice of reordering pending transactions for profit. The notice says the venue's controls against manipulative trading, which are permissioning every participant, surveilling trading and revoking the access token of anyone it finds trading manipulatively, along with a minimum amount each participant sets to receive on a trade, \"substantially mitigate\" MEV risk but do not eliminate it. The soulbound token contract that gates access, the notice says, \"has been audited internally, but not by external auditors.\"",
+      "If the broker-dealer behind the tokens failed, whether tokens held in self-custodied wallets would count as customer property or be covered by the Securities Investor Protection Corporation \"is uncertain,\" the notice says."
+    ],
+    "html": null
+  }
+}

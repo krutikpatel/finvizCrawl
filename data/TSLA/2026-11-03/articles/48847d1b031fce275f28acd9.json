@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/ev-charging-emerges-strategic-pillar-134019714.html",
+    "fetched_at": "2026-11-03T07:00:07.495952-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "EV charging emerges as ‘strategic pillar for power-system modernization’",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "As electric vehicles (EV) drive up electricity demand, charging habits are becoming central to power grid planning. When left unmanaged, home charging tends to bundle together, dangerously intensifying evening peak hours. Meanwhile, commercial fast-charging hubs drop sudden, massive demands onto the grid, increasing equipment wear and upgrade costs. Consequently, utilities are shifting managed charging off-peak and integrating EV forecasts into distribution planning, says GlobalData, a leading intelligence and productivity platform.\nGlobalData's latest report, \"Strategic Intelligence: Electric Vehicles in Power (2026)\" reveals that public direct current (DC) fast charging is replacing slower Level 2 AC charging as the primary investment focus. By delivering substantial energy during short stops, DC hubs support long-distance travel, commercial fleets, and high-utilization vehicles, drastically improving site economics and serving more drivers.\nFast-charging networks operated by companies including Tesla, IONITY, Electrify America, EVgo, BP Pulse, and Shell Recharge reflect the increasing importance of hub-based, high-throughput charging models.\nOn the utilities side, Enel, Iberdrola and Korea Electric Power Corporation are deploying DC or ultra-fast charging hubs on key routes and in urban areas. Fleet electrification is further strengthening the role of DC charging. In Europe, the development of high-power truck-charging networks, including initiatives such as Milence, indicates that fast charging is becoming essential to commercial transport electrification as well as passenger-vehicle adoption.\nRehaan Shiledar, Power Analyst at GlobalData, comments: \"Vehicle-to-grid (V2G) will continue to gain traction as utilities and grid operators seek fast, distributed flexibility to balance renewable variability, relieve local congestion, and support grid stability. Commercialization is moving from pilots toward scaled deployment. This shift is driven by aggregators, including digital intermediaries, energy technology companies, and utilities, which coordinate EV batteries as virtual power plants.\"\nAdditionally, progress is being supported by clearer ancillary-services revenue pathways, improving bidirectional hardware, and converging standards such as ISO 15118. Recent milestones include Toyota Industries' AC V2G hardware verification with RISE and DEFA, Valeo and Nissan's agreement to commercialize bidirectional chargers across Europe starting in the UK, and Vattenfall Netherlands' V2G household pilot with Kia and Hyundai for up to 80 homes.",
+    "text_blocks": [
+      "As electric vehicles (EV) drive up electricity demand, charging habits are becoming central to power grid planning. When left unmanaged, home charging tends to bundle together, dangerously intensifying evening peak hours. Meanwhile, commercial fast-charging hubs drop sudden, massive demands onto the grid, increasing equipment wear and upgrade costs. Consequently, utilities are shifting managed charging off-peak and integrating EV forecasts into distribution planning, says GlobalData, a leading intelligence and productivity platform.",
+      "GlobalData's latest report, \"Strategic Intelligence: Electric Vehicles in Power (2026)\" reveals that public direct current (DC) fast charging is replacing slower Level 2 AC charging as the primary investment focus. By delivering substantial energy during short stops, DC hubs support long-distance travel, commercial fleets, and high-utilization vehicles, drastically improving site economics and serving more drivers.",
+      "Fast-charging networks operated by companies including Tesla, IONITY, Electrify America, EVgo, BP Pulse, and Shell Recharge reflect the increasing importance of hub-based, high-throughput charging models.",
+      "On the utilities side, Enel, Iberdrola and Korea Electric Power Corporation are deploying DC or ultra-fast charging hubs on key routes and in urban areas. Fleet electrification is further strengthening the role of DC charging. In Europe, the development of high-power truck-charging networks, including initiatives such as Milence, indicates that fast charging is becoming essential to commercial transport electrification as well as passenger-vehicle adoption.",
+      "Rehaan Shiledar, Power Analyst at GlobalData, comments: \"Vehicle-to-grid (V2G) will continue to gain traction as utilities and grid operators seek fast, distributed flexibility to balance renewable variability, relieve local congestion, and support grid stability. Commercialization is moving from pilots toward scaled deployment. This shift is driven by aggregators, including digital intermediaries, energy technology companies, and utilities, which coordinate EV batteries as virtual power plants.\"",
+      "Additionally, progress is being supported by clearer ancillary-services revenue pathways, improving bidirectional hardware, and converging standards such as ISO 15118. Recent milestones include Toyota Industries' AC V2G hardware verification with RISE and DEFA, Valeo and Nissan's agreement to commercialize bidirectional chargers across Europe starting in the UK, and Vattenfall Netherlands' V2G household pilot with Kia and Hyundai for up to 80 homes."
+    ],
+    "html": null
+  }
+}

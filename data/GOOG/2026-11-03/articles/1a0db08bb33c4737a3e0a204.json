@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/enterprise-ai-spending-exploded-in-2026-report-140000265.html",
+    "fetched_at": "2026-11-03T07:01:00.133139-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Enterprise AI spending exploded in 2026: Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Enterprises have spent a staggering $176.8 billion on AI services year to date, a stunning 5.4x increase from the $33 billion they spent through 2025, according to a report by Menlo Ventures.\nThe vast majority of that revenue, some 69% of every dollar, goes to leading AI labs Anthropic (ANTH.PVT), Google (GOOG, GOOGL), and OpenAI (OPAI.PVT), according to the 2026: The State of Enterprise AI report, which is based on a survey of roughly 400 US enterprise decision-makers.\nMenlo Ventures is an investor in Anthropic.\nDespite the massive increase in spending, the report indicates that the number of companies using AI grew from 55% to just 65%.\nThe reason for the difference, the report says, comes down to AI agents.\n\"If you look at per-company spend, that's really what drove the inflection,\" Menlo Ventures' principal Derek Xiao explained.\n\"One of the stats in our report is that enterprises expected to almost 2x their budgets between last year and this year. They ended up almost 5x their spend. And so you can kind of intuit people are just using AI a lot more because they're asking their agents to run on tasks that are far longer and do more than if you rewind back to a year ago,\" he added.\nAI agents are becoming increasingly popular among enterprises and consumers with the release of new platforms, including OpenAI's Dots, Meta's (META) Muse, and Anthropic's Claude Duet app.\nAnd as more agents come online, they're increasingly using AI more than the humans who operate them.\nAccording to the report, agents account for 80% of all AI tokens generated, roughly 7x that of humans, based on OpenRouter numbers.\nOpenRouter is a platform that gives developers access to a variety of AI models in a single place.\nSo far in 2026, the bulk of enterprise AI spending has gone toward coding and chatbots, the report states, with coding accounting for 44% and chatbots 32%.\nHealthcare accounts for 5%, while customer success accounts for another 3%. The remaining industries account for between 2% and 1% of spending.\nBut according to Menlo Ventures' partner Tim Tully, those industries should begin to see more AI spending as developers build more AI agents and platforms geared toward them.\nEmail Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley, or reach out on Signal or Telegram.\nClick here for the latest technology news that will impact the stock market\nRead the latest financial and business news from Yahoo Finance",
+    "text_blocks": [
+      "Enterprises have spent a staggering $176.8 billion on AI services year to date, a stunning 5.4x increase from the $33 billion they spent through 2025, according to a report by Menlo Ventures.",
+      "The vast majority of that revenue, some 69% of every dollar, goes to leading AI labs Anthropic (ANTH.PVT), Google (GOOG, GOOGL), and OpenAI (OPAI.PVT), according to the 2026: The State of Enterprise AI report, which is based on a survey of roughly 400 US enterprise decision-makers.",
+      "Menlo Ventures is an investor in Anthropic.",
+      "Despite the massive increase in spending, the report indicates that the number of companies using AI grew from 55% to just 65%.",
+      "The reason for the difference, the report says, comes down to AI agents.",
+      "\"If you look at per-company spend, that's really what drove the inflection,\" Menlo Ventures' principal Derek Xiao explained.",
+      "\"One of the stats in our report is that enterprises expected to almost 2x their budgets between last year and this year. They ended up almost 5x their spend. And so you can kind of intuit people are just using AI a lot more because they're asking their agents to run on tasks that are far longer and do more than if you rewind back to a year ago,\" he added.",
+      "AI agents are becoming increasingly popular among enterprises and consumers with the release of new platforms, including OpenAI's Dots, Meta's (META) Muse, and Anthropic's Claude Duet app.",
+      "And as more agents come online, they're increasingly using AI more than the humans who operate them.",
+      "According to the report, agents account for 80% of all AI tokens generated, roughly 7x that of humans, based on OpenRouter numbers.",
+      "OpenRouter is a platform that gives developers access to a variety of AI models in a single place.",
+      "So far in 2026, the bulk of enterprise AI spending has gone toward coding and chatbots, the report states, with coding accounting for 44% and chatbots 32%.",
+      "Healthcare accounts for 5%, while customer success accounts for another 3%. The remaining industries account for between 2% and 1% of spending.",
+      "But according to Menlo Ventures' partner Tim Tully, those industries should begin to see more AI spending as developers build more AI agents and platforms geared toward them.",
+      "Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley, or reach out on Signal or Telegram.",
+      "Click here for the latest technology news that will impact the stock market",
+      "Read the latest financial and business news from Yahoo Finance"
+    ],
+    "html": null
+  }
+}

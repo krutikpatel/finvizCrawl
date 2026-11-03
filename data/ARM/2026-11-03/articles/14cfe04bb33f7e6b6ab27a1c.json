@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-sinks-7-6-184457268.html",
+    "fetched_at": "2026-11-03T07:01:53.742679-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Stock Sinks 7.6% as Agent Security Expands Its Compute Role",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nArm Holdings (NASDAQ:ARM), the processor architecture company, outlined its role in Nvidia's new agent security platform as its shares fell 7.6% to $286.79 around 9:57 a.m. ET Monday. The drop was steep, but Arm's announcement described a possible route to more chip demand rather than a new customer order.\nNvidia's OpenShell can run on its Arm based Vera CPU, while the approach can extend to platforms such as AWS Graviton, Google Axion and Microsoft Cobalt. Arm based infrastructure processors can also monitor an agent's activity and enforce security rules separately from the processor running it. That puts Arm technology on both sides of the setup: one to run the agent, another to help keep it in bounds.\nThe valuation leaves little room for a story that stays theoretical. The graphic shows a GF Value of $194.76 , putting Monday's $286.79 share price 47.25% above that estimate. More agent deployments could mean more Arm powered processors, but investors still need evidence that those deployments are turning into licensing and royalty growth.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Arm Holdings (NASDAQ:ARM), the processor architecture company, outlined its role in Nvidia's new agent security platform as its shares fell 7.6% to $286.79 around 9:57 a.m. ET Monday. The drop was steep, but Arm's announcement described a possible route to more chip demand rather than a new customer order.",
+      "Nvidia's OpenShell can run on its Arm based Vera CPU, while the approach can extend to platforms such as AWS Graviton, Google Axion and Microsoft Cobalt. Arm based infrastructure processors can also monitor an agent's activity and enforce security rules separately from the processor running it. That puts Arm technology on both sides of the setup: one to run the agent, another to help keep it in bounds.",
+      "The valuation leaves little room for a story that stays theoretical. The graphic shows a GF Value of $194.76 , putting Monday's $286.79 share price 47.25% above that estimate. More agent deployments could mean more Arm powered processors, but investors still need evidence that those deployments are turning into licensing and royalty growth."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-528b7de6?mod=bar_FV",
+    "fetched_at": "2026-11-03T07:02:01.200865-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Midterms, Stock Market, Earnings, Apple, Palantir | November 3 Barron’s Daily<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood.\nHere we go again—the embattled tech sector is trying to mount another rebound. Let’s hope it goes better than yesterday’s effort, which started well but ended with the Nasdaq 100 entering a correction for the third time this year.",
+    "text_blocks": [
+      "Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood.",
+      "Here we go again—the embattled tech sector is trying to mount another rebound. Let’s hope it goes better than yesterday’s effort, which started well but ended with the Nasdaq 100 entering a correction for the third time this year."
+    ],
+    "html": null
+  }
+}

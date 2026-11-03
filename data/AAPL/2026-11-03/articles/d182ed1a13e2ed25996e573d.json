@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/heard-on-the-street-apple-is-a-pricey-safe-haven-KfrCGPT0Yo4GrWHgoXhB?mod=wsj_FV",
+    "fetched_at": "2026-11-03T07:00:12.096292-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Heard on the Street: Apple Is a Pricey Safe Haven",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n10 min ago\nHeard on the Street: Apple Is a Pricey Safe Haven\nAs the only megacap tech company whose future doesn’t hinge on AI, Apple has become a safe haven of sorts.\nThe question for investors, though, is whether Apple’s safety premium is worth it.",
+    "text_blocks": [
+      "LIVE",
+      "10 min ago",
+      "Heard on the Street: Apple Is a Pricey Safe Haven",
+      "As the only megacap tech company whose future doesn’t hinge on AI, Apple has become a safe haven of sorts.",
+      "The question for investors, though, is whether Apple’s safety premium is worth it."
+    ],
+    "html": null
+  }
+}

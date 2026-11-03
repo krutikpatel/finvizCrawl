@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-falls-amid-global-084847151.html",
+    "fetched_at": "2026-11-03T07:00:52.247001-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "FTSE 100 falls amid global tech rout, looming U.S. mid-terms and BoE",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - London shares fell on Tuesday to snap its longest winning streak since August, as a profit contraction and downbeat outlook from Primark owner Associated British Foods compounded a global technology sell-off and caution ahead of U.S. midterm elections and the Bank of England's rate decision later this week.\nThe 0.45% retreat broke a four-session run of gains for the FTSE 100, which had reached near three-month highs following relief over Chancellor John Healey's inaugural budget and resilient third-quarter corporate earnings.\nRetail and consumer staples dragged the index lower, led by a 3% decline in shares of Associated British Foods (ABF).\nThe diversified retail and ingredients group reported an adjusted operating profit of £1.508 billion for its fiscal year ended September 12, 2026 - a 14% drop from the prior year.\nThe performance was weighed down by consumer spending friction across its Primark fashion retail division alongside a sharp slump in European sugar prices, which eroded profitability within its agriculture segment.\nBroader sentiment on the London exchange was pressured by a tech-led sell-off across international bourses.\n\"The fact healthcare and utilities were the only sectors to be in positive territory summarises the fragile state regarding market confidence. Investors were clearly in a risk-off mood, hiding in sectors that offer some resilience in uncertain times,\" said Dan Coatsworth, head of markets at AJ Bell.\nEquity allocators took a defensive stance following Apple's warning that accelerating memory chip costs would compress gross margins through the crucial holiday shopping quarter, signaling profit strain across consumer hardware supply chains.\nThe warning coincided with enterprise software giant Oracle's announcement that it intends to raise $20 billion through debt and equity offerings to finance its intensive cloud and artificial intelligence infrastructure build-out.\nThe massive capital call intensified market-wide scrutiny of Big Tech cash burn and datacenter financing requirements, weighing on cyclical growth equities and pushing institutional funds into safe-haven sovereign debt across Europe.",
+    "text_blocks": [
+      "Investing.com - London shares fell on Tuesday to snap its longest winning streak since August, as a profit contraction and downbeat outlook from Primark owner Associated British Foods compounded a global technology sell-off and caution ahead of U.S. midterm elections and the Bank of England's rate decision later this week.",
+      "The 0.45% retreat broke a four-session run of gains for the FTSE 100, which had reached near three-month highs following relief over Chancellor John Healey's inaugural budget and resilient third-quarter corporate earnings.",
+      "Retail and consumer staples dragged the index lower, led by a 3% decline in shares of Associated British Foods (ABF).",
+      "The diversified retail and ingredients group reported an adjusted operating profit of £1.508 billion for its fiscal year ended September 12, 2026 - a 14% drop from the prior year.",
+      "The performance was weighed down by consumer spending friction across its Primark fashion retail division alongside a sharp slump in European sugar prices, which eroded profitability within its agriculture segment.",
+      "Broader sentiment on the London exchange was pressured by a tech-led sell-off across international bourses.",
+      "\"The fact healthcare and utilities were the only sectors to be in positive territory summarises the fragile state regarding market confidence. Investors were clearly in a risk-off mood, hiding in sectors that offer some resilience in uncertain times,\" said Dan Coatsworth, head of markets at AJ Bell.",
+      "Equity allocators took a defensive stance following Apple's warning that accelerating memory chip costs would compress gross margins through the crucial holiday shopping quarter, signaling profit strain across consumer hardware supply chains.",
+      "The warning coincided with enterprise software giant Oracle's announcement that it intends to raise $20 billion through debt and equity offerings to finance its intensive cloud and artificial intelligence infrastructure build-out.",
+      "The massive capital call intensified market-wide scrutiny of Big Tech cash burn and datacenter financing requirements, weighing on cyclical growth equities and pushing institutional funds into safe-haven sovereign debt across Europe."
+    ],
+    "html": null
+  }
+}

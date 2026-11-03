@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/shopify-earnings-stock-price-f5cec098?mod=bar_FV",
+    "fetched_at": "2026-11-03T07:00:21.690852-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Shopify Stock Plunges. Slowing Merchandise Sales Flash a Warning Sign.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Shopify Stock Plunges. Slowing Merchandise Sales Flash a Warning Sign.\nShopify stock took a hit after the e-commerce company reported weaker-than-expected merchandise sales in the third quarter, raising questions about the sustainability of its rapid growth even as earnings and profitability improved.",
+    "text_blocks": [
+      "Shopify Stock Plunges. Slowing Merchandise Sales Flash a Warning Sign.",
+      "Shopify stock took a hit after the e-commerce company reported weaker-than-expected merchandise sales in the third quarter, raising questions about the sustainability of its rapid growth even as earnings and profitability improved."
+    ],
+    "html": null
+  }
+}

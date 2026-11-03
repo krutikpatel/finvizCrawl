@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-nvidia-could-join-tesla-121443975.html",
+    "fetched_at": "2026-11-03T07:00:07.748100-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nThe facility is expected to manufacture base dies for high-bandwidth memory chips used in AI processors.\n-\nThe plant will cover about 2.7 million square feet, with construction scheduled to begin this month and production expected to start in 2030.\n-\nSamsung's first Texas plant has a $16.5 billion agreement with Tesla to manufacture its next-generation AI chips.\nSamsung Electronics is reportedly gearing up to make memory chip components for Advanced Micro Devices (AMD) and Nvidia (NVDA) at its second chip plant in Texas.\nThe plant has secured orders for all planned output, and most of that volume is for AMD, Reuters reported, citing South Korea-based Maeil Business Newspaper. The factory reportedly will produce base dies for high-bandwidth memory (HBM) chips.\nAMD stock was up about 2.3% in pre-market trading on Tuesday, while NVDA stock gained around 1.4%. On Stocktwits, retail sentiment around Nvidia slipped to 'bearish' from 'neutral' over the past day, while chatter remained at 'neutral' levels. AMD sentiment moved in the opposite direction, rising to 'bullish' from the 'neutral' zone, with chatter at 'high' levels.\nSamsung's New Texas Facility To Kick Off Production In 2030\nThe factory will span about 2.7 million square feet, roughly 1.5 times the size of Samsung's first Texas plant, Maeil reported. Construction is scheduled to begin this month, with equipment installation expected to start in 2029 and production slated to begin in 2030.\nThe facility will use Samsung's 2-nanometer chipmaking process, according to the report. The process is among the company's most advanced manufacturing technologies.\nSamsung's first plant in 'Texas has a contract with Tesla (TSLA). In July 2025, Tesla signed a $16.5 billion agreement with Samsung to manufacture its next-generation AI chips at the facility.\nIf the reported AMD and Nvidia orders proceed, the second plant would give Samsung's contract manufacturing business three major U.S. customers tied to AI computing.\nWhy Base Dies Matter For AI Chips\nHBM is a type of memory used alongside processors in AI chips. Its high bandwidth lets large amounts of data move quickly between memory and processors, supporting the demanding workloads of training and running AI models.\nAn HBM package consists of multiple stacked memory layers. The base die sits at the bottom of the stack and helps manage how data moves through the memory. Samsung would manufacture these components, rather than the main processors designed by AMD and Nvidia.",
+    "text_blocks": [
+      "-",
+      "The facility is expected to manufacture base dies for high-bandwidth memory chips used in AI processors.",
+      "-",
+      "The plant will cover about 2.7 million square feet, with construction scheduled to begin this month and production expected to start in 2030.",
+      "-",
+      "Samsung's first Texas plant has a $16.5 billion agreement with Tesla to manufacture its next-generation AI chips.",
+      "Samsung Electronics is reportedly gearing up to make memory chip components for Advanced Micro Devices (AMD) and Nvidia (NVDA) at its second chip plant in Texas.",
+      "The plant has secured orders for all planned output, and most of that volume is for AMD, Reuters reported, citing South Korea-based Maeil Business Newspaper. The factory reportedly will produce base dies for high-bandwidth memory (HBM) chips.",
+      "AMD stock was up about 2.3% in pre-market trading on Tuesday, while NVDA stock gained around 1.4%. On Stocktwits, retail sentiment around Nvidia slipped to 'bearish' from 'neutral' over the past day, while chatter remained at 'neutral' levels. AMD sentiment moved in the opposite direction, rising to 'bullish' from the 'neutral' zone, with chatter at 'high' levels.",
+      "Samsung's New Texas Facility To Kick Off Production In 2030",
+      "The factory will span about 2.7 million square feet, roughly 1.5 times the size of Samsung's first Texas plant, Maeil reported. Construction is scheduled to begin this month, with equipment installation expected to start in 2029 and production slated to begin in 2030.",
+      "The facility will use Samsung's 2-nanometer chipmaking process, according to the report. The process is among the company's most advanced manufacturing technologies.",
+      "Samsung's first plant in 'Texas has a contract with Tesla (TSLA). In July 2025, Tesla signed a $16.5 billion agreement with Samsung to manufacture its next-generation AI chips at the facility.",
+      "If the reported AMD and Nvidia orders proceed, the second plant would give Samsung's contract manufacturing business three major U.S. customers tied to AI computing.",
+      "Why Base Dies Matter For AI Chips",
+      "HBM is a type of memory used alongside processors in AI chips. Its high bandwidth lets large amounts of data move quickly between memory and processors, supporting the demanding workloads of training and running AI models.",
+      "An HBM package consists of multiple stacked memory layers. The base die sits at the bottom of the stack and helps manage how data moves through the memory. Samsung would manufacture these components, rather than the main processors designed by AMD and Nvidia."
+    ],
+    "html": null
+  }
+}
