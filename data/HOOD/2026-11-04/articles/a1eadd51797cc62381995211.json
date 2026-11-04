@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-slide-6-3-150900382.html",
+    "fetched_at": "2026-11-04T07:00:18.191716-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Crypto stocks slide as $6.3 billion Binance hack rattles market",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cryptocurrency-related stocks tumbled on Friday after Binance disclosed a security breach with an estimated impact of $6.3 billion, potentially the largest crypto theft on record.\nCoinbase Global Inc (NASDAQ:COIN) shares fell 13%, while Robinhood Markets Inc (NASDAQ:HOOD) dropped 8%. Circle Internet Group (NYSE:CRCL) lost 8.5%, and MicroStrategy Incorporated (NASDAQ:MSTR), the largest publicly traded corporate holder of Bitcoin, declined 8%.\nThe breach at the world's largest cryptocurrency exchange has raised fresh concerns about security across the digital asset industry, even as Binance said customer funds remained safe.\nBinance's initial investigation indicated that an attacker may have gained access through a compromised laptop belonging to a DevOps engineer, allowing unauthorized withdrawal transactions to be submitted through a service container.\nBlockchain intelligence firm TRM Labs estimated that around US$6.36 billion was moved across 10 blockchains, linking the attack to a hacking group backed by North Korea. Around US$3 billion of the affected assets have since been frozen.\nTether has frozen more than US$1.5 billion in USDT, while Circle has locked more than US$800 million in USDC. Ripple also helped halt approximately US$200 million.\nBinance said it had found no evidence that wallet private keys were compromised. The exchange temporarily suspended deposits and withdrawals while carrying out security checks and is working with law enforcement, blockchain intelligence firms and token issuers to trace the funds.\nIt pledged to cover all customer losses through its Secure Asset Fund for Users and company resources, and plans to publish an updated proof of reserves after remediation work is completed.\nThe incident prompted a broader sell-off in cryptocurrencies, with Bitcoin falling more than 4% to below US$78,000 and Ether dropping to a two-month low near US$2,180.\nNigel Green, CEO of financial advisory firm deVere Group, said the breach highlighted the growing sophistication of cyberattacks and the need for financial institutions to strengthen their security systems.\n\"AI lets attackers plan and strike at machine speed, so the defences around money have to move just as fast, at exchanges, at banks and for anyone holding assets themselves,\" Green said.\nHe also questioned whether Binance's emergency reserve would be sufficient to cover the losses. The fund is estimated to hold around US$1.2 billion, potentially covering only a fraction of the assets that remain unfrozen.",
+    "text_blocks": [
+      "Cryptocurrency-related stocks tumbled on Friday after Binance disclosed a security breach with an estimated impact of $6.3 billion, potentially the largest crypto theft on record.",
+      "Coinbase Global Inc (NASDAQ:COIN) shares fell 13%, while Robinhood Markets Inc (NASDAQ:HOOD) dropped 8%. Circle Internet Group (NYSE:CRCL) lost 8.5%, and MicroStrategy Incorporated (NASDAQ:MSTR), the largest publicly traded corporate holder of Bitcoin, declined 8%.",
+      "The breach at the world's largest cryptocurrency exchange has raised fresh concerns about security across the digital asset industry, even as Binance said customer funds remained safe.",
+      "Binance's initial investigation indicated that an attacker may have gained access through a compromised laptop belonging to a DevOps engineer, allowing unauthorized withdrawal transactions to be submitted through a service container.",
+      "Blockchain intelligence firm TRM Labs estimated that around US$6.36 billion was moved across 10 blockchains, linking the attack to a hacking group backed by North Korea. Around US$3 billion of the affected assets have since been frozen.",
+      "Tether has frozen more than US$1.5 billion in USDT, while Circle has locked more than US$800 million in USDC. Ripple also helped halt approximately US$200 million.",
+      "Binance said it had found no evidence that wallet private keys were compromised. The exchange temporarily suspended deposits and withdrawals while carrying out security checks and is working with law enforcement, blockchain intelligence firms and token issuers to trace the funds.",
+      "It pledged to cover all customer losses through its Secure Asset Fund for Users and company resources, and plans to publish an updated proof of reserves after remediation work is completed.",
+      "The incident prompted a broader sell-off in cryptocurrencies, with Bitcoin falling more than 4% to below US$78,000 and Ether dropping to a two-month low near US$2,180.",
+      "Nigel Green, CEO of financial advisory firm deVere Group, said the breach highlighted the growing sophistication of cyberattacks and the need for financial institutions to strengthen their security systems.",
+      "\"AI lets attackers plan and strike at machine speed, so the defences around money have to move just as fast, at exchanges, at banks and for anyone holding assets themselves,\" Green said.",
+      "He also questioned whether Binance's emergency reserve would be sufficient to cover the losses. The fund is estimated to hold around US$1.2 billion, potentially covering only a fraction of the assets that remain unfrozen."
+    ],
+    "html": null
+  }
+}

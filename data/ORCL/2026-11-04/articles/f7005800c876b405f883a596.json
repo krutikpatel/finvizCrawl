@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-cancels-7bn-tencent-ai-050009803.html",
+    "fetched_at": "2026-11-04T07:00:20.833707-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle cancels $7B Tencent AI deal under Trump pressure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oracle cancels $7B Tencent AI deal under Trump pressure\nOracle (ORCL) has scrapped a multibillion-dollar chip leasing contract with Tencent after bowing to pressure from the Trump administration, in a sign of rising tensions for US cloud providers serving Chinese AI companies.\nThe Californian group led by billionaire Trump backer Larry Ellison signed a five-year lease with the leading Chinese tech giant to provide access to as many as 100,000 advanced AI chips across a host of data centres in south-east Asia.\nThe contract, worth an estimated $7bn and first reported by the FT in September, was Tencent's largest overseas leasing deal. It would have given the group access to chips unavailable for use in China due to curbs from Washington and Beijing.\nUS officials approached Oracle to raise concerns about the Tencent deal, according to two people familiar with the matter. Tencent also received visits from top officials in Guangdong, where the group is based, who asked the tech giant to support domestic Chinese chips, according to one of the people.\nThe deal has since been cancelled, the people added.\nOracle, Tencent and the White House did not immediately respond to requests for comment.\nThe incident shows the growing difficulties for leading US and Chinese companies in developing AI, at a time their respective nations seek to become the pre-eminent technological superpower.\nA shortage of domestic supply and tightening American export controls have led Chinese tech groups to seek more computing capacity overseas. Such lease deals could also offer access to Nvidia's cutting-edge processors not available in China.\nChinese tech giants and frontier AI labs are tapping into these resources especially for the training of their models, as domestic chips cannot perform such tasks yet.\nWhile such overseas leasing deals are allowed under existing rules, US companies have faced growing pressure to cut the exposure to Chinese customers. The FT reported on Tuesday that Nvidia has told cloud computing clients that they must now sell at least 51 per cent of their services to non-Chinese companies.\nWhile Tencent is catching up with multibillion leasing deals, ByteDance and Alibaba remain the biggest clients of data centres in south-east Asia.\nOracle is a major supplier to ByteDance in Asia with multiple data centres in Malaysia. The company also hosted US customer data for the Chinese group's social media platform TikTok before being part of a consortium that late last year acquired the reel-based app's US operations.\nDemand from Chinese AI companies in south-east Asia has intensified amid a tightening in export controls that prevent Nvidia's advanced chips from entering China via an intermediate location. This has led to increased prices, longer terms and higher upfront payments for these data centre lease agreements.",
+    "text_blocks": [
+      "Oracle cancels $7B Tencent AI deal under Trump pressure",
+      "Oracle (ORCL) has scrapped a multibillion-dollar chip leasing contract with Tencent after bowing to pressure from the Trump administration, in a sign of rising tensions for US cloud providers serving Chinese AI companies.",
+      "The Californian group led by billionaire Trump backer Larry Ellison signed a five-year lease with the leading Chinese tech giant to provide access to as many as 100,000 advanced AI chips across a host of data centres in south-east Asia.",
+      "The contract, worth an estimated $7bn and first reported by the FT in September, was Tencent's largest overseas leasing deal. It would have given the group access to chips unavailable for use in China due to curbs from Washington and Beijing.",
+      "US officials approached Oracle to raise concerns about the Tencent deal, according to two people familiar with the matter. Tencent also received visits from top officials in Guangdong, where the group is based, who asked the tech giant to support domestic Chinese chips, according to one of the people.",
+      "The deal has since been cancelled, the people added.",
+      "Oracle, Tencent and the White House did not immediately respond to requests for comment.",
+      "The incident shows the growing difficulties for leading US and Chinese companies in developing AI, at a time their respective nations seek to become the pre-eminent technological superpower.",
+      "A shortage of domestic supply and tightening American export controls have led Chinese tech groups to seek more computing capacity overseas. Such lease deals could also offer access to Nvidia's cutting-edge processors not available in China.",
+      "Chinese tech giants and frontier AI labs are tapping into these resources especially for the training of their models, as domestic chips cannot perform such tasks yet.",
+      "While such overseas leasing deals are allowed under existing rules, US companies have faced growing pressure to cut the exposure to Chinese customers. The FT reported on Tuesday that Nvidia has told cloud computing clients that they must now sell at least 51 per cent of their services to non-Chinese companies.",
+      "While Tencent is catching up with multibillion leasing deals, ByteDance and Alibaba remain the biggest clients of data centres in south-east Asia.",
+      "Oracle is a major supplier to ByteDance in Asia with multiple data centres in Malaysia. The company also hosted US customer data for the Chinese group's social media platform TikTok before being part of a consortium that late last year acquired the reel-based app's US operations.",
+      "Demand from Chinese AI companies in south-east Asia has intensified amid a tightening in export controls that prevent Nvidia's advanced chips from entering China via an intermediate location. This has led to increased prices, longer terms and higher upfront payments for these data centre lease agreements."
+    ],
+    "html": null
+  }
+}

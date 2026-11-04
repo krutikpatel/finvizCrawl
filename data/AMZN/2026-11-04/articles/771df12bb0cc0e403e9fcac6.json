@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/datadog-earnings-stock-price-ai-d58acd9c?mod=bar_FV",
+    "fetched_at": "2026-11-04T07:00:36.652659-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Datadog Beats Earnings Expectations. The Stock Acts as If It Didn’t.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Datadog Beats Earnings Expectations. The Stock Is Acting as If It Didn’t.\nEvery dog has its day but that wasn’t the case for shares of Datadog on Wednesday. Solid earnings and a guidance rise weren’t enough to keep Wall Street from selling.\nEvery dog has its day but that wasn’t the case for shares of Datadog on Wednesday. Solid earnings and a guidance rise weren’t enough to keep Wall Street from selling.",
+    "text_blocks": [
+      "Datadog Beats Earnings Expectations. The Stock Is Acting as If It Didn’t.",
+      "Every dog has its day but that wasn’t the case for shares of Datadog on Wednesday. Solid earnings and a guidance rise weren’t enough to keep Wall Street from selling.",
+      "Every dog has its day but that wasn’t the case for shares of Datadog on Wednesday. Solid earnings and a guidance rise weren’t enough to keep Wall Street from selling."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/apple-home-depot-ge-vernova-101525694.html",
+    "fetched_at": "2026-11-04T07:00:06.046504-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple, Home Depot and GE Vernova Object to ICE-OKX Tokenized Stock Venue as Count Hits 59",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple, The Home Depot and GE Vernova have objected to having tokenized versions of their shares traded on OKXICE TSV, the planned onchain stock venue owned by Intercontinental Exchange (ICE) and OKX, according to a public notice the venue dated Nov. 3.\nThe notice names 59 issuers that have sent it a notice of issuer objection. By Unchained's count of the venue's earlier filings, that compares with 56 in the Nov. 2 notice and 50 in the Oct. 30 notice, and no company has been removed from the list in that time. Like the earlier versions, the Nov. 3 filing does not say why any company objected, and it sets no date for trading to begin.\nOn Nov. 2, citing the 50 objectors in the Oct. 30 notice, Zero Knowledge Group founder Austin Campbell said on Unchained's Bits + Bips that \"people are just objecting as soon as they find out about this thing.\" Lumida Wealth founder Ram Ahluwalia said on the same episode, \"I don't know what's being solved by tokenizing a stock on chain.\"\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nA Growing List\nThe three new names join a roster that already included Microsoft, Alphabet, Nvidia, JPMorgan Chase, Goldman Sachs, Tesla, Amazon and SpaceX.\nThe notice says the venue may list stocks tokenized by their issuer or by a third party unaffiliated with the issuer. An objection keeps third-party tokens of that company's shares off the venue. Andrew Cuomo, who co-chairs the joint venture, told reporters on Oct. 29 that objections now come in on a rolling basis. \"The start period has passed. There's no end period,\" he said.\nHow the Venue Works\nOKXICE LLC, a Texas company that ICE and OKC USA Holding Inc. own in equal halves, runs the venue under the SEC exemption for tokenized securities venues, published in the Federal Register on Sept. 22. Trades will settle in permissioned Uniswap v4 pools on XLayer, and only wallets holding a soulbound token issued by the venue can use them.\nThe notice states that the venue is \"not registered with the Securities and Exchange Commission\" for this activity and has no policies addressing maximal extractable value. Its hook contract is to be audited by OKX Technology Inc. and by Certified Kernel Tech LLC before operations start.\nNeither the venue nor its affiliates will tokenize stocks or act as liquidity providers, according to the notice, so what trades there depends on issuers and outside tokenizers.\nRelated Listen: Robinhood Tokenized AMC Stock Without Asking. It's Not Illegal, but Should It Be?",
+    "text_blocks": [
+      "Apple, The Home Depot and GE Vernova have objected to having tokenized versions of their shares traded on OKXICE TSV, the planned onchain stock venue owned by Intercontinental Exchange (ICE) and OKX, according to a public notice the venue dated Nov. 3.",
+      "The notice names 59 issuers that have sent it a notice of issuer objection. By Unchained's count of the venue's earlier filings, that compares with 56 in the Nov. 2 notice and 50 in the Oct. 30 notice, and no company has been removed from the list in that time. Like the earlier versions, the Nov. 3 filing does not say why any company objected, and it sets no date for trading to begin.",
+      "On Nov. 2, citing the 50 objectors in the Oct. 30 notice, Zero Knowledge Group founder Austin Campbell said on Unchained's Bits + Bips that \"people are just objecting as soon as they find out about this thing.\" Lumida Wealth founder Ram Ahluwalia said on the same episode, \"I don't know what's being solved by tokenizing a stock on chain.\"",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "A Growing List",
+      "The three new names join a roster that already included Microsoft, Alphabet, Nvidia, JPMorgan Chase, Goldman Sachs, Tesla, Amazon and SpaceX.",
+      "The notice says the venue may list stocks tokenized by their issuer or by a third party unaffiliated with the issuer. An objection keeps third-party tokens of that company's shares off the venue. Andrew Cuomo, who co-chairs the joint venture, told reporters on Oct. 29 that objections now come in on a rolling basis. \"The start period has passed. There's no end period,\" he said.",
+      "How the Venue Works",
+      "OKXICE LLC, a Texas company that ICE and OKC USA Holding Inc. own in equal halves, runs the venue under the SEC exemption for tokenized securities venues, published in the Federal Register on Sept. 22. Trades will settle in permissioned Uniswap v4 pools on XLayer, and only wallets holding a soulbound token issued by the venue can use them.",
+      "The notice states that the venue is \"not registered with the Securities and Exchange Commission\" for this activity and has no policies addressing maximal extractable value. Its hook contract is to be audited by OKX Technology Inc. and by Certified Kernel Tech LLC before operations start.",
+      "Neither the venue nor its affiliates will tokenize stocks or act as liquidity providers, according to the notice, so what trades there depends on issuers and outside tokenizers.",
+      "Related Listen: Robinhood Tokenized AMC Stock Without Asking. It's Not Illegal, but Should It Be?"
+    ],
+    "html": null
+  }
+}

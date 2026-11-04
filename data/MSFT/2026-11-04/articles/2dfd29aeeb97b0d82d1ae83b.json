@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/microsoft-nvidia-launch-ai-support-110534381.html",
+    "fetched_at": "2026-11-04T07:00:26.098716-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft, Nvidia launch AI support scheme in UK and Ireland",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft and Nvidia have launched Frontier Launchpad, a support programme for software companies in the UK and Ireland focusing on AI.\nApplications are now open for companies with established software products that are either investing in AI or developing products incorporating the technology.\nFrontier Launchpad, which builds on the previous year's Agentic Launchpad, aims to assist businesses in turning AI products into sustainable operations.\nSelected participants will receive technical support from both Microsoft and Nvidia experts, along with commercial advice and opportunities to make connections with possible customers and partners.\nCompanies taking part will have access to Microsoft AI specialists, Microsoft Marketplace advisers, cloud architects, and Nvidia technical experts.\nThe programme offers guidance on preparing products for the Microsoft Marketplace and on co-selling, enabling Microsoft and participants to collaborate in reaching new customers.\nFrontier Launchpad features two industry pathways, one focused on AI platforms and software, and another on financial services and financial technology.\nCompanies will also be supported in exploring international markets through Microsoft's global partner network and commercial channels.\nMicrosoft stated that applications are open until 27 November, with the inaugural Frontier Launchpad cohort starting in early 2027.\nEligibility is limited to software companies based in the UK or Ireland with products already available to customers, those investing in or utilising AI, and businesses seeking greater market reach or expansion.\nMicrosoft UK and Ireland CEO Darren Hardman said: \"The UK and Ireland are home to some of the world's most innovative software companies.\n\"Through the Frontier Launchpad, we're bringing together Microsoft's AI capabilities, Nvidia's technology leadership, and a powerful network to help software companies develop new products, grow faster, and create the next generation of businesses using AI.\"\nNvidia Inception provides start-ups with technical resources, while the Nvidia Deep Learning Institute focuses on AI-related training.\nNvidia Europe, Middle East, Africa and India start-ups director Tobias Halloran said: \"The UK and Ireland have a deep pool of talent building with AI.\n\"Through Nvidia Inception and the Nvidia Deep Learning Institute, the Frontier Launchpad will give these companies access to Nvidia's technical expertise and training to help them build and accelerate their AI applications.\"",
+    "text_blocks": [
+      "Microsoft and Nvidia have launched Frontier Launchpad, a support programme for software companies in the UK and Ireland focusing on AI.",
+      "Applications are now open for companies with established software products that are either investing in AI or developing products incorporating the technology.",
+      "Frontier Launchpad, which builds on the previous year's Agentic Launchpad, aims to assist businesses in turning AI products into sustainable operations.",
+      "Selected participants will receive technical support from both Microsoft and Nvidia experts, along with commercial advice and opportunities to make connections with possible customers and partners.",
+      "Companies taking part will have access to Microsoft AI specialists, Microsoft Marketplace advisers, cloud architects, and Nvidia technical experts.",
+      "The programme offers guidance on preparing products for the Microsoft Marketplace and on co-selling, enabling Microsoft and participants to collaborate in reaching new customers.",
+      "Frontier Launchpad features two industry pathways, one focused on AI platforms and software, and another on financial services and financial technology.",
+      "Companies will also be supported in exploring international markets through Microsoft's global partner network and commercial channels.",
+      "Microsoft stated that applications are open until 27 November, with the inaugural Frontier Launchpad cohort starting in early 2027.",
+      "Eligibility is limited to software companies based in the UK or Ireland with products already available to customers, those investing in or utilising AI, and businesses seeking greater market reach or expansion.",
+      "Microsoft UK and Ireland CEO Darren Hardman said: \"The UK and Ireland are home to some of the world's most innovative software companies.",
+      "\"Through the Frontier Launchpad, we're bringing together Microsoft's AI capabilities, Nvidia's technology leadership, and a powerful network to help software companies develop new products, grow faster, and create the next generation of businesses using AI.\"",
+      "Nvidia Inception provides start-ups with technical resources, while the Nvidia Deep Learning Institute focuses on AI-related training.",
+      "Nvidia Europe, Middle East, Africa and India start-ups director Tobias Halloran said: \"The UK and Ireland have a deep pool of talent building with AI.",
+      "\"Through Nvidia Inception and the Nvidia Deep Learning Institute, the Frontier Launchpad will give these companies access to Nvidia's technical expertise and training to help them build and accelerate their AI applications.\""
+    ],
+    "html": null
+  }
+}

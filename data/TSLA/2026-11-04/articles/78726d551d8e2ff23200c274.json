@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/here-are-the-stock-market-s-winners-and-losers-after-the-midterms-3BNxnD5XfpldBEJq79aK?mod=wsj_FV",
+    "fetched_at": "2026-11-04T07:00:03.117291-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Stock Market’s Midterm Winners and Losers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nUpdated 8 min ago\nThe Stock Market’s Midterm Winners and Losers\nWinners\n🍃☀️Wind and solar power: Turbine makers Vestas and Nordex, offshore-wind company Orsted and solar-power names including First Solar, Hanwha Q-Cells, OCI Holdings and SMA Solar all jumped on hopes the Democratic wave will counter the Trump administration’s anti-green-energy policies.\n⚕️Healthcare: Stocks such as Centene, HCA Healthcare and Universal Health climbed. A Democratic Congress will have more leverage to strike a deal with President Trump to boost spending on Obamacare.",
+    "text_blocks": [
+      "LIVE",
+      "Updated 8 min ago",
+      "The Stock Market’s Midterm Winners and Losers",
+      "Winners",
+      "🍃☀️Wind and solar power: Turbine makers Vestas and Nordex, offshore-wind company Orsted and solar-power names including First Solar, Hanwha Q-Cells, OCI Holdings and SMA Solar all jumped on hopes the Democratic wave will counter the Trump administration’s anti-green-energy policies.",
+      "⚕️Healthcare: Stocks such as Centene, HCA Healthcare and Universal Health climbed. A Democratic Congress will have more leverage to strike a deal with President Trump to boost spending on Obamacare."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-cut-neutral-bofa-ubs-183800858.html",
+    "fetched_at": "2026-11-04T07:00:48.538991-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell cut to \"neutral\" by BofA as UBS backs Lumentum deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Marvell Technology Inc (NASDAQ:MRVL) received a Bank of America downgrade to \"neutral\" from \"buy\" and a target cut to $225 from $400 over its Lumentum acquisition, while UBS favored the deal.\nBank of America maintained its earnings estimates, attributing the target cut to a potential prolonged stock overhang from the all-stock transaction and a contraction in sector valuation multiples.\nThe revised target uses 20 times estimated calendar 2028 earnings, including stock compensation expense, down from 33 times previously.\nBeyond valuation, the bank questioned whether $1 billion in cost cuts would offset an approximately 50% increase in Marvell's share count.\nIt also flagged potential digital signal processor revenue losses and channel conflicts because Marvell supplies components to optical module vendors, while Lumentum competes in transceivers.\nThese concerns tempered Bank of America's view of complementary assets, and the bank also warned of an extended regulatory process, including in China.\nUBS took a more favorable strategic view, arguing that combining electrical and optical technologies would help Marvell develop integrated connectivity products faster as optics move closer to computing chips.\nThat rationale accompanies a larger opportunity: UBS cited the companies' estimate that the combination would expand their calendar 2030 addressable market to $550 billion.\nOn financial benefits, UBS cited the companies' expectations for more than $1 billion in annual run-rate cost synergies supporting non-GAAP earnings per share accretion in the first post-closing year.\nHowever, using its own forecasts, UBS estimated the deal would dilute calendar 2028 earnings per share by 8%.\nUnder its bullish Lumentum scenario, the transaction could instead increase calendar 2028 earnings per share by approximately 14%, bringing combined earnings to approximately $15 per share.\nDespite its strategic support, UBS acknowledged the risk of buying near peak optical market conditions and taking on a more capital-intensive manufacturing model.\nIt also warned that a lengthy approval process, with closing targeted for mid-2028, could weigh on Lumentum shares.",
+    "text_blocks": [
+      "Marvell Technology Inc (NASDAQ:MRVL) received a Bank of America downgrade to \"neutral\" from \"buy\" and a target cut to $225 from $400 over its Lumentum acquisition, while UBS favored the deal.",
+      "Bank of America maintained its earnings estimates, attributing the target cut to a potential prolonged stock overhang from the all-stock transaction and a contraction in sector valuation multiples.",
+      "The revised target uses 20 times estimated calendar 2028 earnings, including stock compensation expense, down from 33 times previously.",
+      "Beyond valuation, the bank questioned whether $1 billion in cost cuts would offset an approximately 50% increase in Marvell's share count.",
+      "It also flagged potential digital signal processor revenue losses and channel conflicts because Marvell supplies components to optical module vendors, while Lumentum competes in transceivers.",
+      "These concerns tempered Bank of America's view of complementary assets, and the bank also warned of an extended regulatory process, including in China.",
+      "UBS took a more favorable strategic view, arguing that combining electrical and optical technologies would help Marvell develop integrated connectivity products faster as optics move closer to computing chips.",
+      "That rationale accompanies a larger opportunity: UBS cited the companies' estimate that the combination would expand their calendar 2030 addressable market to $550 billion.",
+      "On financial benefits, UBS cited the companies' expectations for more than $1 billion in annual run-rate cost synergies supporting non-GAAP earnings per share accretion in the first post-closing year.",
+      "However, using its own forecasts, UBS estimated the deal would dilute calendar 2028 earnings per share by 8%.",
+      "Under its bullish Lumentum scenario, the transaction could instead increase calendar 2028 earnings per share by approximately 14%, bringing combined earnings to approximately $15 per share.",
+      "Despite its strategic support, UBS acknowledged the risk of buying near peak optical market conditions and taking on a more capital-intensive manufacturing model.",
+      "It also warned that a lengthy approval process, with closing targeted for mid-2028, could weigh on Lumentum shares."
+    ],
+    "html": null
+  }
+}

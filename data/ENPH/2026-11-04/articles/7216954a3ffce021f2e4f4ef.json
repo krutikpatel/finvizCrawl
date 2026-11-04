@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?mod=bar_FV",
+    "fetched_at": "2026-11-04T07:00:15.252458-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Is Surging.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Is Surging.\nThe Democratic sweep of the midterm elections has ramped up the political pressure on the artificial-intelligence data-center buildout. But that’s helping AI power supplier Bloom Energy –the stock was surging 7% ahead of the open Wednesday.",
+    "text_blocks": [
+      "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Is Surging.",
+      "The Democratic sweep of the midterm elections has ramped up the political pressure on the artificial-intelligence data-center buildout. But that’s helping AI power supplier Bloom Energy –the stock was surging 7% ahead of the open Wednesday."
+    ],
+    "html": null
+  }
+}

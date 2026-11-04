@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/amazon-com-inc-3m-share-gains-lead-dow-s-1225-point-surge-e78834ab-464218f69563?mod=mw_FV",
+    "fetched_at": "2026-11-04T07:00:36.557476-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon.com Inc., 3M share gains lead Dow's 1225-point surge - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nAmazon.com Inc., 3M share gains lead Dow's 1225-point surge\nBuoyed by strong returns for shares of Amazon.com Inc. and 3M, the Dow Jones Industrial Average is soaring Wednesday morning.\nShares of Amazon.com Inc. Amazon.com Inc. and 3M 3M Co. are contributing about one third of the index's intraday rally, as the Dow Dow Jones Industrial Average is trading 1,225 points, or 2.4%, higher.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "Amazon.com Inc., 3M share gains lead Dow's 1225-point surge",
+      "Buoyed by strong returns for shares of Amazon.com Inc. and 3M, the Dow Jones Industrial Average is soaring Wednesday morning.",
+      "Shares of Amazon.com Inc. Amazon.com Inc. and 3M 3M Co. are contributing about one third of the index's intraday rally, as the Dow Dow Jones Industrial Average is trading 1,225 points, or 2.4%, higher.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

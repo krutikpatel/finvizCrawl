@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_FV",
+    "fetched_at": "2026-11-04T07:00:23.039342-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Opinion: Big Tech’s $500 billion spending spree leaves a lot less for shareholders - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Your Digital Self\nOpinion: Big Tech’s $500 billion spending spree leaves a lot less for shareholders\nAI is changing the bargain between large technology companies and their shareholders\nIn the first nine months of last year, Alphabet and Meta Platforms spent a combined $66.1 billion buying back their own stock. Over the same nine months this year, they spent nothing on that.\nBoth companies kept paying dividends. But buybacks, the bigger and more flexible way they return cash to shareholders, have stopped. Alphabet went further: In June it announced $80 billion of stock sales, describing that as part of its plan to fund artificial-intelligence infrastructure, with Berkshire Hathaway BRK.A BRK.B agreeing to buy $10 billion. A company that spent $39.8 billion repurchasing its own shares in the first nine months of 2025 is now issuing new ones.",
+    "text_blocks": [
+      "Your Digital Self",
+      "Opinion: Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
+      "AI is changing the bargain between large technology companies and their shareholders",
+      "In the first nine months of last year, Alphabet and Meta Platforms spent a combined $66.1 billion buying back their own stock. Over the same nine months this year, they spent nothing on that.",
+      "Both companies kept paying dividends. But buybacks, the bigger and more flexible way they return cash to shareholders, have stopped. Alphabet went further: In June it announced $80 billion of stock sales, describing that as part of its plan to fund artificial-intelligence infrastructure, with Berkshire Hathaway BRK.A BRK.B agreeing to buy $10 billion. A company that spent $39.8 billion repurchasing its own shares in the first nine months of 2025 is now issuing new ones."
+    ],
+    "html": null
+  }
+}

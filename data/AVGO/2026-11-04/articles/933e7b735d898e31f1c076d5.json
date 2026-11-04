@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/earnings-season-tech-stocks-energy-utilities-eadfbb4c?mod=bar_FV",
+    "fetched_at": "2026-11-04T07:00:28.637341-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech Earnings Are Sputtering. Why Defensive Stocks Are Winning the Season.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Earnings Are Sputtering. The AI Boom Faces a ‘Show Me’ Moment.\nWall Street loves an earnings beat, but tech stocks and the Magnificent Seven are barely clearing the bar this season.\nWall Street loves an earnings beat, but tech stocks and the Magnificent Seven are barely clearing the bar this season.",
+    "text_blocks": [
+      "Tech Earnings Are Sputtering. The AI Boom Faces a ‘Show Me’ Moment.",
+      "Wall Street loves an earnings beat, but tech stocks and the Magnificent Seven are barely clearing the bar this season.",
+      "Wall Street loves an earnings beat, but tech stocks and the Magnificent Seven are barely clearing the bar this season."
+    ],
+    "html": null
+  }
+}

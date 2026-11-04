@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/texas-goes-blue-gina-hinojosas-071218321.html",
+    "fetched_at": "2026-11-04T07:00:36.769183-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV\n-\nHinojosa has campaigned for a temporary Texas-wide pause on new data centers until lawmakers pass protections.\n-\nHyperscaler stocks MSFT, AMZN and GOOGL slide, with a bigger drop in neocloud shares.\n-\nSome stock market commentators said concerns about a slowdown in data center buildout were overblown or already priced in by investors.\nIn a major shakeup, Gina Hinojosa was elected the first Democratic governor of Texas in more than 30 years on Tuesday, toppling one of the nation's most prominent Republican governors and supporters of President Donald Trump, Greg Abbott. Dem. James Talarico won the state's Senate seat, defeating Rep. Ken Paxton.\nThe elections are significant as Hinojosa is seen to be critical of the breakneck buildout of AI data centers, a key part of the AI boom that is bringing billions of dollars in sales for chip, infrastructure and software companies.\nIn July, Hinojosa called for a temporary Texas-wide pause on new data centers until lawmakers pass protections. Her proposals include requiring data centers to pay for transmission infrastructure, screening projects for grid impacts, ending tax breaks and giving communities more say. She has repeated the calls during her campaign.\nDemocrats' Win Weighs On AI Trade\nInvestors and analysts believe a pause or added costs could slow new data center construction and, in turn, constrain AI computing capacity. They fear that a major Democratic win could strengthen the growing nationwide push for data center restrictions.\nTexas is home to data centers operated by Google, AWS, Microsoft, Meta and Oracle, as well as AI campuses developed by Crusoe for customers including OpenAI, Oracle, Microsoft and Google. Several companies are expanding or building new Texas campuses.\nDemocrats have won control of the U.S. Senate and are on the brink of taking the House in a widespread repudiation of Trump, according to the latest reporting by the Associated Press. Official certification of results comes weeks later.\nTech Stocks Plunge\nStock futures fell sharply as election results rolled in, with cloud stocks dropping sharply overnight.\nHyperscalers Amazon (AMZN), Microsoft (MSFT), and Alphabet (GOOGL) fell 0.4% to 1% ahead of Wednesday, while Oracle (ORCL) fell sharply by 2.3%. Neocloud stocks CoreWeave (CRWV) and Iren Ltd. (IREN) dropped 3.3% and 4.3%, respectively, while Applied Digital (APLD) slid 3%.",
+    "text_blocks": [
+      "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+      "-",
+      "Hinojosa has campaigned for a temporary Texas-wide pause on new data centers until lawmakers pass protections.",
+      "-",
+      "Hyperscaler stocks MSFT, AMZN and GOOGL slide, with a bigger drop in neocloud shares.",
+      "-",
+      "Some stock market commentators said concerns about a slowdown in data center buildout were overblown or already priced in by investors.",
+      "In a major shakeup, Gina Hinojosa was elected the first Democratic governor of Texas in more than 30 years on Tuesday, toppling one of the nation's most prominent Republican governors and supporters of President Donald Trump, Greg Abbott. Dem. James Talarico won the state's Senate seat, defeating Rep. Ken Paxton.",
+      "The elections are significant as Hinojosa is seen to be critical of the breakneck buildout of AI data centers, a key part of the AI boom that is bringing billions of dollars in sales for chip, infrastructure and software companies.",
+      "In July, Hinojosa called for a temporary Texas-wide pause on new data centers until lawmakers pass protections. Her proposals include requiring data centers to pay for transmission infrastructure, screening projects for grid impacts, ending tax breaks and giving communities more say. She has repeated the calls during her campaign.",
+      "Democrats' Win Weighs On AI Trade",
+      "Investors and analysts believe a pause or added costs could slow new data center construction and, in turn, constrain AI computing capacity. They fear that a major Democratic win could strengthen the growing nationwide push for data center restrictions.",
+      "Texas is home to data centers operated by Google, AWS, Microsoft, Meta and Oracle, as well as AI campuses developed by Crusoe for customers including OpenAI, Oracle, Microsoft and Google. Several companies are expanding or building new Texas campuses.",
+      "Democrats have won control of the U.S. Senate and are on the brink of taking the House in a widespread repudiation of Trump, according to the latest reporting by the Associated Press. Official certification of results comes weeks later.",
+      "Tech Stocks Plunge",
+      "Stock futures fell sharply as election results rolled in, with cloud stocks dropping sharply overnight.",
+      "Hyperscalers Amazon (AMZN), Microsoft (MSFT), and Alphabet (GOOGL) fell 0.4% to 1% ahead of Wednesday, while Oracle (ORCL) fell sharply by 2.3%. Neocloud stocks CoreWeave (CRWV) and Iren Ltd. (IREN) dropped 3.3% and 4.3%, respectively, while Applied Digital (APLD) slid 3%."
+    ],
+    "html": null
+  }
+}
