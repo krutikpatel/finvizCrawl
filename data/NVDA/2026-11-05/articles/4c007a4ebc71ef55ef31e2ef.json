@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/dow-drops-165-points-on-losses-in-nvidia-corp-cisco-shares-ddb8f2fe-a9f981d23616?mod=mw_FV",
+    "fetched_at": "2026-11-05T07:00:35.192142-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Dow drops 165 points on losses in NVIDIA Corp., Cisco shares - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nDow drops 165 points on losses in NVIDIA Corp., Cisco shares\nBehind negative returns for shares of NVIDIA Corp. and Cisco, the Dow Jones Industrial Average is trading down Thursday morning.\nThe Dow Dow Jones Industrial Average was most recently trading 165 points lower (-0.3%), as shares of NVIDIA Corp. NVIDIA Corp. and Cisco Cisco Systems Inc. are contributing to the index's intraday decline.\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "Dow drops 165 points on losses in NVIDIA Corp., Cisco shares",
+      "Behind negative returns for shares of NVIDIA Corp. and Cisco, the Dow Jones Industrial Average is trading down Thursday morning.",
+      "The Dow Dow Jones Industrial Average was most recently trading 165 points lower (-0.3%), as shares of NVIDIA Corp. NVIDIA Corp. and Cisco Cisco Systems Inc. are contributing to the index's intraday decline.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

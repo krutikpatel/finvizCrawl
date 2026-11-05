@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-roadster-ferrari-luce-9adc5a6a?mod=bar_FV",
+    "fetched_at": "2026-11-05T07:00:02.709544-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?\nFerrari on Wednesday reported as-expected third-quarter results. Sales of $2.1 billion matched Wall Street projections. Shares rose 4.3% on Wednesday.\nFerrari on Wednesday reported as-expected third-quarter results. Sales of $2.1 billion matched Wall Street projections. Shares rose 4.3% on Wednesday.",
+    "text_blocks": [
+      "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?",
+      "Ferrari on Wednesday reported as-expected third-quarter results. Sales of $2.1 billion matched Wall Street projections. Shares rose 4.3% on Wednesday.",
+      "Ferrari on Wednesday reported as-expected third-quarter results. Sales of $2.1 billion matched Wall Street projections. Shares rose 4.3% on Wednesday."
+    ],
+    "html": null
+  }
+}

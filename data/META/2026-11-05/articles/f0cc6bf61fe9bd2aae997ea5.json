@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/meta-buys-ai-coding-startup-131537301.html",
+    "fetched_at": "2026-11-05T07:00:09.930415-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta buys AI coding startup Conductor",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta has acquired Conductor, an AI coding startup for an undisclosed sum.\nFounded in 2024, Conductor developed an orchestration environment that allows software engineers to run multiple AI models–including Claude Code, Codex, Cursor, and OpenCode–in parallel.\nThe platform provides each development task with its own workspace, branch, file structure, terminal, diff view, and review path, automating complex multi-agent coding workflows.\nIn an announcement confirming the transaction, Conductor CEO Charlie Holtz stated that the startup will shift its focus toward developing new interfaces within Meta.\n\"We have some big, crazy plans for the next interface,\" Holtz said. \"If you liked Conductor, you're gonna love what's coming. We'll have something new for you to use early next year.\"\nFollowing the acquisition, Conductor has halted new user registrations and application downloads.\nExisting free accounts can no longer upgrade to paid tiers, while current Pro users will retain access to premium features without charge until the service winds down.\nConductor will phase out its cloud operations over the coming weeks.\nConductor Cloud workspaces will switch to read-only status on 13 November, preventing users from sending new messages while preserving access to past logs and export features.\nActive subscriptions will be refunded.\nThe company will begin permanently deleting Conductor Cloud data on 20 November.\nThe standalone local client will remain operational longer, receiving model updates and critical bug fixes until early 2027, when the application will be decommissioned entirely.\nThe company stated that it has never sold or trained AI models on customer data, adding that all remaining user data will be wiped once local support concludes.\nThe acquisition coincides with an aggressive capital-raising push by Meta to finance compute capacity and data centre construction.\nEarlier this month, Meta Platforms launched a $15bn five-part US dollar bond offering designed to help finance investments in artificial intelligence infrastructure.\n\"Meta buys AI coding startup Conductor\" was originally created and published by Verdict, a GlobalData owned brand.",
+    "text_blocks": [
+      "Meta has acquired Conductor, an AI coding startup for an undisclosed sum.",
+      "Founded in 2024, Conductor developed an orchestration environment that allows software engineers to run multiple AI models–including Claude Code, Codex, Cursor, and OpenCode–in parallel.",
+      "The platform provides each development task with its own workspace, branch, file structure, terminal, diff view, and review path, automating complex multi-agent coding workflows.",
+      "In an announcement confirming the transaction, Conductor CEO Charlie Holtz stated that the startup will shift its focus toward developing new interfaces within Meta.",
+      "\"We have some big, crazy plans for the next interface,\" Holtz said. \"If you liked Conductor, you're gonna love what's coming. We'll have something new for you to use early next year.\"",
+      "Following the acquisition, Conductor has halted new user registrations and application downloads.",
+      "Existing free accounts can no longer upgrade to paid tiers, while current Pro users will retain access to premium features without charge until the service winds down.",
+      "Conductor will phase out its cloud operations over the coming weeks.",
+      "Conductor Cloud workspaces will switch to read-only status on 13 November, preventing users from sending new messages while preserving access to past logs and export features.",
+      "Active subscriptions will be refunded.",
+      "The company will begin permanently deleting Conductor Cloud data on 20 November.",
+      "The standalone local client will remain operational longer, receiving model updates and critical bug fixes until early 2027, when the application will be decommissioned entirely.",
+      "The company stated that it has never sold or trained AI models on customer data, adding that all remaining user data will be wiped once local support concludes.",
+      "The acquisition coincides with an aggressive capital-raising push by Meta to finance compute capacity and data centre construction.",
+      "Earlier this month, Meta Platforms launched a $15bn five-part US dollar bond offering designed to help finance investments in artificial intelligence infrastructure.",
+      "\"Meta buys AI coding startup Conductor\" was originally created and published by Verdict, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-stocks-gain-1-195640157.html",
+    "fetched_at": "2026-11-05T07:00:43.843215-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Stocks Gain 1.8% as AI Turns Security Continuous",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalo Alto Networks, the cybersecurity-platform provider (NASDAQ:PANW), launched its continuous Unit 42 AI defense service on September 22, pairing Anthropic and OpenAI cyber models with offensive-security specialists. Shares traded at $403.44 at 12.24pm ET on October 2, up approximately 1.8%. The pitch is straightforward: keep testing defenses as businesses change, instead of waiting for the next security assessment.\nAccording to Palo Alto's announcement, the service checks applications, identities, cloud systems and networks, tests whether weaknesses can support an actual attack, and recommends fixes. Specialists help turn the findings into practical action. That distinction matters. Customers need fewer openings for attackers, not another pile of alerts.\nPalo Alto offers the service through annual subscriptions, creating an opportunity for recurring revenue beyond individual consulting projects. But AI computing costs and specialist hours still have to leave room for profit. The valuation picture shows shares 72.38% above the $234.04 GF Value estimate, suggesting investors already expect substantial growth. Renewals and margins will help show whether this service earns that confidence.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palo Alto Networks, the cybersecurity-platform provider (NASDAQ:PANW), launched its continuous Unit 42 AI defense service on September 22, pairing Anthropic and OpenAI cyber models with offensive-security specialists. Shares traded at $403.44 at 12.24pm ET on October 2, up approximately 1.8%. The pitch is straightforward: keep testing defenses as businesses change, instead of waiting for the next security assessment.",
+      "According to Palo Alto's announcement, the service checks applications, identities, cloud systems and networks, tests whether weaknesses can support an actual attack, and recommends fixes. Specialists help turn the findings into practical action. That distinction matters. Customers need fewer openings for attackers, not another pile of alerts.",
+      "Palo Alto offers the service through annual subscriptions, creating an opportunity for recurring revenue beyond individual consulting projects. But AI computing costs and specialist hours still have to leave room for profit. The valuation picture shows shares 72.38% above the $234.04 GF Value estimate, suggesting investors already expect substantial growth. Renewals and margins will help show whether this service earns that confidence."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-seeks-raise-7-billion-143821938.html",
+    "fetched_at": "2026-11-05T07:00:07.086622-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple seeks to raise up to $7 billion in seven-tranche bond offering",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Apple Inc. is seeking to raise up to $7 billion through a seven-tranche U.S. dollar bond offering, returning to the debt market as major technology companies ramp up borrowing amid significant investment requirements.\nThe iPhone maker's offering is expected to price Wednesday, November 5, with the company marketing both fixed- and floating-rate notes, according to Bloomberg News.\nThe proposed deal includes floating-rate notes due in 2028 and 2029, alongside fixed-rate securities with maturities in 2028, 2029, 2031, 2033 and 2036.\nInitial price guidance on the fixed-rate portions ranges from 45 basis points over comparable U.S. Treasuries for the two-year notes to 80 basis points for the 10-year securities. The floating-rate tranches are being marketed at spreads equivalent to SOFR.\nBank of America, Deutsche Bank, Goldman Sachs and JPMorgan are managing the transaction. Apple's debt carries expected ratings of Aaa from Moody's and AA+ from S&P.\nApple said proceeds would be used for general corporate purposes, including share repurchases, dividend payments, working capital, capital expenditures, acquisitions and debt repayment.\nThe offering comes amid a wave of borrowing by major technology companies. Microsoft priced a $25 billion bond offering last week, while Meta Platforms raised $15 billion in a five-part U.S. dollar offering on Tuesday. Oracle also issued $10 billion in bonds, and Alphabet raised €6 billion through a euro-denominated offering.\nHowever, Apple's borrowing comes from a different financial position than that of many of its hyperscaler peers. Bloomberg Intelligence senior credit analyst Robert Schiffman described the offering as more opportunistic than funding-driven, noting that Apple has approximately $137 billion in cash and generates around $145 billion in annual operating cash flow.\nWith debt of roughly $80 billion and comparatively modest AI infrastructure spending, Apple has considerable flexibility to finance its investment requirements internally. Bloomberg Intelligence argues that additional borrowing is unlikely to materially affect Apple's Aaa/AA+ credit profile or borrowing spreads, while providing the company with additional flexibility to support share repurchases and dividends.",
+    "text_blocks": [
+      "Investing.com -- Apple Inc. is seeking to raise up to $7 billion through a seven-tranche U.S. dollar bond offering, returning to the debt market as major technology companies ramp up borrowing amid significant investment requirements.",
+      "The iPhone maker's offering is expected to price Wednesday, November 5, with the company marketing both fixed- and floating-rate notes, according to Bloomberg News.",
+      "The proposed deal includes floating-rate notes due in 2028 and 2029, alongside fixed-rate securities with maturities in 2028, 2029, 2031, 2033 and 2036.",
+      "Initial price guidance on the fixed-rate portions ranges from 45 basis points over comparable U.S. Treasuries for the two-year notes to 80 basis points for the 10-year securities. The floating-rate tranches are being marketed at spreads equivalent to SOFR.",
+      "Bank of America, Deutsche Bank, Goldman Sachs and JPMorgan are managing the transaction. Apple's debt carries expected ratings of Aaa from Moody's and AA+ from S&P.",
+      "Apple said proceeds would be used for general corporate purposes, including share repurchases, dividend payments, working capital, capital expenditures, acquisitions and debt repayment.",
+      "The offering comes amid a wave of borrowing by major technology companies. Microsoft priced a $25 billion bond offering last week, while Meta Platforms raised $15 billion in a five-part U.S. dollar offering on Tuesday. Oracle also issued $10 billion in bonds, and Alphabet raised €6 billion through a euro-denominated offering.",
+      "However, Apple's borrowing comes from a different financial position than that of many of its hyperscaler peers. Bloomberg Intelligence senior credit analyst Robert Schiffman described the offering as more opportunistic than funding-driven, noting that Apple has approximately $137 billion in cash and generates around $145 billion in annual operating cash flow.",
+      "With debt of roughly $80 billion and comparatively modest AI infrastructure spending, Apple has considerable flexibility to finance its investment requirements internally. Bloomberg Intelligence argues that additional borrowing is unlikely to materially affect Apple's Aaa/AA+ credit profile or borrowing spreads, while providing the company with additional flexibility to support share repurchases and dividends."
+    ],
+    "html": null
+  }
+}

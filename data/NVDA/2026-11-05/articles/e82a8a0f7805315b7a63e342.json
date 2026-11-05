@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-stockpile-hong-kong-120548918.html",
+    "fetched_at": "2026-11-05T07:00:35.492726-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia chips stockpile in Hong Kong awaits China import approval - report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- About 600,000 Nvidia artificial intelligence chips are stored in Hong Kong waiting for shipment to mainland China, Reuters reported Thursday citing people familiar with the matter. Beijing has not approved large-scale imports of the H200 chips despite demand from technology companies.\nChina has reportedly allowed some of the chips to enter the country in recent months. Several major Chinese internet companies have each received about 10,000 H200 chips in the past few months.\nThree people said small quantities of chips had been shipped through intermediaries and indirect routes without specifying how many. Beijing has not approved large-volume imports into mainland China, the report said.\nThe H200 is not Nvidia's newest AI processor, but it has capabilities that Chinese alternatives have not matched, making it useful for training AI models particularly when combined with Nvidia's software.\nUS export controls since 2022 have restricted China's access to advanced Nvidia chips and the equipment needed to make them. With authorized supply limited, Chinese buyers have turned to intermediaries and indirect routes, pushing up prices in the unofficial market.\nAn eight-card H200 server was offered for more than 6 million yuan ($900,000) in mainland China by the end of October, about three times its price a year earlier, the report said. Servers using Nvidia's newer Blackwell chips, which fall under US export controls, were offered for more than 20 million yuan each.\nByteDance, Alibaba and Tencent had ordered more than 3 million Nvidia RTX Pro 5500 graphics cards, a less powerful export-compliant product, with a combined sticker price exceeding $35 billion, according to a report last month.\nOriginal Article\nNvidia chips stockpile in Hong Kong awaits China import approval - report\nBofA names top European payments stocks amid strong Q3 trends\nEuropean shares advance toward record highs on earnings momentum, midterm relief",
+    "text_blocks": [
+      "Investing.com -- About 600,000 Nvidia artificial intelligence chips are stored in Hong Kong waiting for shipment to mainland China, Reuters reported Thursday citing people familiar with the matter. Beijing has not approved large-scale imports of the H200 chips despite demand from technology companies.",
+      "China has reportedly allowed some of the chips to enter the country in recent months. Several major Chinese internet companies have each received about 10,000 H200 chips in the past few months.",
+      "Three people said small quantities of chips had been shipped through intermediaries and indirect routes without specifying how many. Beijing has not approved large-volume imports into mainland China, the report said.",
+      "The H200 is not Nvidia's newest AI processor, but it has capabilities that Chinese alternatives have not matched, making it useful for training AI models particularly when combined with Nvidia's software.",
+      "US export controls since 2022 have restricted China's access to advanced Nvidia chips and the equipment needed to make them. With authorized supply limited, Chinese buyers have turned to intermediaries and indirect routes, pushing up prices in the unofficial market.",
+      "An eight-card H200 server was offered for more than 6 million yuan ($900,000) in mainland China by the end of October, about three times its price a year earlier, the report said. Servers using Nvidia's newer Blackwell chips, which fall under US export controls, were offered for more than 20 million yuan each.",
+      "ByteDance, Alibaba and Tencent had ordered more than 3 million Nvidia RTX Pro 5500 graphics cards, a less powerful export-compliant product, with a combined sticker price exceeding $35 billion, according to a report last month.",
+      "Original Article",
+      "Nvidia chips stockpile in Hong Kong awaits China import approval - report",
+      "BofA names top European payments stocks amid strong Q3 trends",
+      "European shares advance toward record highs on earnings momentum, midterm relief"
+    ],
+    "html": null
+  }
+}

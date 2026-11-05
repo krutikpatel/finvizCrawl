@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/chip-stocks-take-a-hit-YOCGYXdxhJ2NABQB2DC5?mod=wsj_FV",
+    "fetched_at": "2026-11-05T07:00:28.733190-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip Stocks Take a Hit",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "13 hours ago\nChip Stocks Take a Hit\nStock indexes rallied hard today, but it was a rough day for semiconductor stocks.\nShares of Micron, Marvell and Sandisk all ended the day with losses of 7% or more. Nvidia and Broadcom also ended the day in the red.\nOne explanation: investors are betting that any restrictions on data-center construction resulting from last night’s election will hit “picks and shovels” plays the hardest. Meanwhile, the companies steering the buildout – such as Amazon or Microsoft – could potentially benefit from a slowdown. Their shares were up more than 6% Wednesday.",
+    "text_blocks": [
+      "13 hours ago",
+      "Chip Stocks Take a Hit",
+      "Stock indexes rallied hard today, but it was a rough day for semiconductor stocks.",
+      "Shares of Micron, Marvell and Sandisk all ended the day with losses of 7% or more. Nvidia and Broadcom also ended the day in the red.",
+      "One explanation: investors are betting that any restrictions on data-center construction resulting from last night’s election will hit “picks and shovels” plays the hardest. Meanwhile, the companies steering the buildout – such as Amazon or Microsoft – could potentially benefit from a slowdown. Their shares were up more than 6% Wednesday."
+    ],
+    "html": null
+  }
+}

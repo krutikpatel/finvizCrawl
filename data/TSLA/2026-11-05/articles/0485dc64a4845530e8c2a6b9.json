@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-cuts-staff-ai-usage-133445882.html",
+    "fetched_at": "2026-11-05T07:00:03.059013-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple cuts staff AI usage in scramble to rein in costs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple has restricted employees' use of AI in an effort to cut costs.\nThe tech giant – the world's most valuable company – reduced engineering staff's daily usage caps from $300 (£223) a day to $200, according to Bloomberg.\nThe company is reportedly considering further cuts to reduced the daily cap to $100 and slash non-technical staff's budgets from $100 a day to $25.\nIt makes the company the latest to rein in employees' use of AI, amid concerns about costs and questions about productivity.\nRevolut, Britain's most valuable tech start-up, said this week that it had saved substantial sums by moving staff from using expensive \"frontier\" systems to cheaper Chinese models running on its own servers.\nAccenture last month stopped some staff from spending more than $29 a month on AI after employees racked up huge bills.\nUber and Tesla have also imposed cuts, while Microsoft and Meta have cut their use of Anthropic's chatbot, Claude.\nAccording to Bloomberg, Apple is pushing staff to use more AI to boost productivity, even as it imposes spending limits.\nThe financial limits apply to how many \"tokens\" – units of AI consumption – that employees require. More efficient and less powerful AI models typically use fewer tokens to carry out tasks.\nSome companies have pushed employees to use cheaper models instead of using expensive systems by default.\nThe changes are among the first introduced by John Ternus, Apple's new chief executive, who took over from Tim Cook in September. The company did not comment.\nEmployees at some companies briefly engaged in \"tokenmaxxing\" earlier this year, with staff encouraged to spend heavily on AI. But concerns about cost and productivity led to a swift reversal.\nJensen Huang, the chief executive of Nvidia, has said that engineers should be spending an amount equal to half their annual salary on AI tokens.\nThe trend of cutting AI use has raised concerns about giant initial public offerings (IPOs) planned by Anthropic and OpenAI. Sales growth slowed at Anthropic in the third quarter of the year.\nInvestors have said the company may now go public at a valuation of $1.5tn or less, below earlier hopes for a $2tn valuation.",
+    "text_blocks": [
+      "Apple has restricted employees' use of AI in an effort to cut costs.",
+      "The tech giant – the world's most valuable company – reduced engineering staff's daily usage caps from $300 (£223) a day to $200, according to Bloomberg.",
+      "The company is reportedly considering further cuts to reduced the daily cap to $100 and slash non-technical staff's budgets from $100 a day to $25.",
+      "It makes the company the latest to rein in employees' use of AI, amid concerns about costs and questions about productivity.",
+      "Revolut, Britain's most valuable tech start-up, said this week that it had saved substantial sums by moving staff from using expensive \"frontier\" systems to cheaper Chinese models running on its own servers.",
+      "Accenture last month stopped some staff from spending more than $29 a month on AI after employees racked up huge bills.",
+      "Uber and Tesla have also imposed cuts, while Microsoft and Meta have cut their use of Anthropic's chatbot, Claude.",
+      "According to Bloomberg, Apple is pushing staff to use more AI to boost productivity, even as it imposes spending limits.",
+      "The financial limits apply to how many \"tokens\" – units of AI consumption – that employees require. More efficient and less powerful AI models typically use fewer tokens to carry out tasks.",
+      "Some companies have pushed employees to use cheaper models instead of using expensive systems by default.",
+      "The changes are among the first introduced by John Ternus, Apple's new chief executive, who took over from Tim Cook in September. The company did not comment.",
+      "Employees at some companies briefly engaged in \"tokenmaxxing\" earlier this year, with staff encouraged to spend heavily on AI. But concerns about cost and productivity led to a swift reversal.",
+      "Jensen Huang, the chief executive of Nvidia, has said that engineers should be spending an amount equal to half their annual salary on AI tokens.",
+      "The trend of cutting AI use has raised concerns about giant initial public offerings (IPOs) planned by Anthropic and OpenAI. Sales growth slowed at Anthropic in the third quarter of the year.",
+      "Investors have said the company may now go public at a valuation of $1.5tn or less, below earlier hopes for a $2tn valuation."
+    ],
+    "html": null
+  }
+}

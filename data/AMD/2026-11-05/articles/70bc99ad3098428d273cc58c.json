@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/here-are-the-stocks-getting-hit-hardest-in-today-s-rotation-idhGJw2g2Q72J2tjuiZn?mod=wsj_FV",
+    "fetched_at": "2026-11-05T07:00:40.664499-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Here Are the Stocks Getting Hit Hardest in Today’s Rotation",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nJust In\nHere Are the Stocks Getting Hit Hardest in Today’s Rotation\nAs investors reassess their portfolios after Tuesday's blue wave, they're positioning for a slowdown in the AI build-out, knocking chip and data-center stocks.\nThese are the names feeling the pain the most this morning:",
+    "text_blocks": [
+      "LIVE",
+      "Just In",
+      "Here Are the Stocks Getting Hit Hardest in Today’s Rotation",
+      "As investors reassess their portfolios after Tuesday's blue wave, they're positioning for a slowdown in the AI build-out, knocking chip and data-center stocks.",
+      "These are the names feeling the pain the most this morning:"
+    ],
+    "html": null
+  }
+}

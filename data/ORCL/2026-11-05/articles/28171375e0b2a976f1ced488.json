@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-gets-ubs-backing-broker-201200990.html",
+    "fetched_at": "2026-11-05T07:00:20.622557-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle gets UBS backing as broker pushes back on AI demand concerns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oracle Corp (NYSE:ORCL, XETRA:ORC) retained a \"buy\" rating and an unchanged $250 price target from UBS, which considers concerns about AI demand and supply overstated.\nThe broker cited valuations of approximately 13 times estimated calendar-year 2027 non-GAAP earnings and 12 times its revised fiscal year 2030 free cash flow estimate.\nUBS said revenue growth acceleration and margin durability looked better than feared, supporting a target based on 19 times estimated calendar-year 2028 non-GAAP earnings.\nOracle's Investor Day also addressed many financing and free cash flow concerns, according to UBS, which viewed the reaffirmed medium-term guidance as achievable.\nOn execution, the analysts heard no significant reservations about adding more than six gigawatts of capacity through fiscal year 2028, while their checks indicated no systemic delays.\nAlthough investors increasingly worry about insufficient demand and excess capacity, UBS said conversations with enterprise buyers did not support that concern.\nThose customer insights formed part of 23 conversations with customers and partners, concentrated on applications and software as a service, which account for 22% of revenue.\nOracle customers showed considerable interest in testing and deploying AI features, but their early-stage rollouts suggested a large opportunity ahead, according to UBS.\nWith many customers still running applications and databases on their own premises, the analysts said interest in deploying AI might help accelerate cloud migrations.\nDatabase feedback was less encouraging, however, with customers generally early in migrations to Azure or AWS and generating minimal additional spending for the company.\nSeparately, one large partner expected its Oracle practice growth to slow from 14% in fiscal year 2026 to 10% in fiscal year 2027.\nThe note linked that slowdown to the Middle East conflict, citing exposure of 7% to 9% of the partner's practice.\nLooking ahead, UBS said that the impact of the conflict beginning in May 2027 could provide a modest growth tailwind.",
+    "text_blocks": [
+      "Oracle Corp (NYSE:ORCL, XETRA:ORC) retained a \"buy\" rating and an unchanged $250 price target from UBS, which considers concerns about AI demand and supply overstated.",
+      "The broker cited valuations of approximately 13 times estimated calendar-year 2027 non-GAAP earnings and 12 times its revised fiscal year 2030 free cash flow estimate.",
+      "UBS said revenue growth acceleration and margin durability looked better than feared, supporting a target based on 19 times estimated calendar-year 2028 non-GAAP earnings.",
+      "Oracle's Investor Day also addressed many financing and free cash flow concerns, according to UBS, which viewed the reaffirmed medium-term guidance as achievable.",
+      "On execution, the analysts heard no significant reservations about adding more than six gigawatts of capacity through fiscal year 2028, while their checks indicated no systemic delays.",
+      "Although investors increasingly worry about insufficient demand and excess capacity, UBS said conversations with enterprise buyers did not support that concern.",
+      "Those customer insights formed part of 23 conversations with customers and partners, concentrated on applications and software as a service, which account for 22% of revenue.",
+      "Oracle customers showed considerable interest in testing and deploying AI features, but their early-stage rollouts suggested a large opportunity ahead, according to UBS.",
+      "With many customers still running applications and databases on their own premises, the analysts said interest in deploying AI might help accelerate cloud migrations.",
+      "Database feedback was less encouraging, however, with customers generally early in migrations to Azure or AWS and generating minimal additional spending for the company.",
+      "Separately, one large partner expected its Oracle practice growth to slow from 14% in fiscal year 2026 to 10% in fiscal year 2027.",
+      "The note linked that slowdown to the Middle East conflict, citing exposure of 7% to 9% of the partner's practice.",
+      "Looking ahead, UBS said that the impact of the conflict beginning in May 2027 could provide a modest growth tailwind."
+    ],
+    "html": null
+  }
+}

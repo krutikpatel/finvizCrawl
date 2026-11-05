@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel/card/ice-s-stock-gets-a-boost-from-trade-xyz-deal-but-so-do-shares-of-its-rivals-905G0fxQ8W0QSGIPdOcI?mod=mw_FV",
+    "fetched_at": "2026-11-05T07:00:17.599993-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "ICE's stock gets a boost from Trade[XYZ] deal, but so do shares of its rivals - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct. 29, 10:37am ET\nICE's stock gets a boost from Trade[XYZ] deal, but so do shares of its rivals\nShares of Intercontinental Exchange, the parent of NYSE, were rallying 6.3% toward the highest close since early April after the company announced a deal to bring Trade[XYZ]'s perpetual markets on Hyperliquid to the U.S.\nThat didn't seem to bother ICE's rivals much, as Nasdaq's stock was up 0.9% and CME Group's stock was gaining 1.4%.\nCrypto-trading platforms weren't feeling much heat either, as Robinhood Markets shares were easing 0.1% and Coinbase Global's stock was up 0.1%.",
+    "text_blocks": [
+      "Oct. 29, 10:37am ET",
+      "ICE's stock gets a boost from Trade[XYZ] deal, but so do shares of its rivals",
+      "Shares of Intercontinental Exchange, the parent of NYSE, were rallying 6.3% toward the highest close since early April after the company announced a deal to bring Trade[XYZ]'s perpetual markets on Hyperliquid to the U.S.",
+      "That didn't seem to bother ICE's rivals much, as Nasdaq's stock was up 0.9% and CME Group's stock was gaining 1.4%.",
+      "Crypto-trading platforms weren't feeling much heat either, as Robinhood Markets shares were easing 0.1% and Coinbase Global's stock was up 0.1%."
+    ],
+    "html": null
+  }
+}

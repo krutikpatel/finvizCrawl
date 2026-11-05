@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-price-drop-e2480de5?mod=bar_FV",
+    "fetched_at": "2026-11-05T07:00:12.294644-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Stock Sinks Again as Market Share Shrinks. Why That’s an Opportunity.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Stock Drops Again as Its Market Share Shrinks. Why That’s an Opportunity.\nMicron Technology stock is under sustained pressure. Figures showing its market share in dynamic random-access memory shrank in the third quarter might not help much but it’s more important to concentrate on the overall demand.",
+    "text_blocks": [
+      "Micron Stock Drops Again as Its Market Share Shrinks. Why That’s an Opportunity.",
+      "Micron Technology stock is under sustained pressure. Figures showing its market share in dynamic random-access memory shrank in the third quarter might not help much but it’s more important to concentrate on the overall demand."
+    ],
+    "html": null
+  }
+}

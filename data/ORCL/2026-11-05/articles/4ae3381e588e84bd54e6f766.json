@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/does-democratic-midterm-sweep-mean-040843061.html",
+    "fetched_at": "2026-11-05T07:00:20.578919-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What does the Democratic midterm sweep mean for Softbank’s U.S. data center plans?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- A Democratic sweep is unlikely to stop U.S. data center construction at the federal level. The bigger risk is at state and local level. That is where SoftBank's Stargate sites are exposed.\nWashington gridlock, local fire\nSoftBank Group Corp. (9984) was at ¥4,053, down 5.06%, as of Nov 5, 11:30 AM JST. It is down 14.94% over a week and 37.62% over a month. The 52-week range is ¥3,365 to ¥9,074. Part of the slide predates the election. On Sept 24 the stock fell on Oracle's force-majeure notice over Project Jupiter.\nWhat the sweep changes\n-\nFederal gridlock: BofA's base case is gridlock, because Democrats lack a veto-proof Senate majority and Trump has signaled vetoes. BofA does not expect the policies to derail the buildout, but says they could make it \"slower and more expensive\" (Nov 4, 2026).\n-\nOversight: Hearings and investigations into the AI buildout are more likely, though analysts doubt legislation could meaningfully stall construction (Nov 4, 2026).\n-\nState level: Democrats who campaigned partly on data center moratoriums won in Texas and Georgia. Capital Economics says Senate gains improve odds of AI regulation and tax hikes if Democrats also win the next presidential election.\n-\nPublic opinion: An NBC exit poll found 76% of voters opposed a new data center in their community (cited by RBC).\n-\nMarket reaction: Core Scientific fell 11.6% and Iren fell 12.5%. Power names such as GE Vernova, Constellation Energy and Vistra also slumped (Nov 4, 2026).\nSoftBank's U.S. footprint\n-\nStargate: The $500B, 10 GW program with OpenAI and Oracle has a thin structure. The Information reported that the joint venture has minimal staff and controls no data centers directly (Feb 23, 2026).\n-\nMilam County, Texas: SB Energy is building a 1.2 GW campus for OpenAI, with integrated solar and battery storage. Texas is the sharpest political risk. Gov.-elect Gina Hinojosa wants a halt to new projects and an end to tax breaks. The state's grid and permit freezes were already in place, and ERCOT is reviewing about 474 GW of requests (Nov 4, 2026).\n-\nProject Jupiter (New Mexico): Oracle sent a force-majeure notice over power delays. The $18B lending package sits with the developer, not Oracle. SoftBank also raised $11.1B in bonds that week, partly to fund OpenAI. AI-linked bond spreads were about 115 bps versus 78 bps for the broader market (Sept 24, 2026).\n-\nSB Energy and Roze IPOs: SoftBank hired banks for U.S. listings of both (May 26, 2026). SB Energy has a $430B backlog, but it is concentrated among SoftBank and OpenAI and much of it is long-dated.",
+    "text_blocks": [
+      "Investing.com -- A Democratic sweep is unlikely to stop U.S. data center construction at the federal level. The bigger risk is at state and local level. That is where SoftBank's Stargate sites are exposed.",
+      "Washington gridlock, local fire",
+      "SoftBank Group Corp. (9984) was at ¥4,053, down 5.06%, as of Nov 5, 11:30 AM JST. It is down 14.94% over a week and 37.62% over a month. The 52-week range is ¥3,365 to ¥9,074. Part of the slide predates the election. On Sept 24 the stock fell on Oracle's force-majeure notice over Project Jupiter.",
+      "What the sweep changes",
+      "-",
+      "Federal gridlock: BofA's base case is gridlock, because Democrats lack a veto-proof Senate majority and Trump has signaled vetoes. BofA does not expect the policies to derail the buildout, but says they could make it \"slower and more expensive\" (Nov 4, 2026).",
+      "-",
+      "Oversight: Hearings and investigations into the AI buildout are more likely, though analysts doubt legislation could meaningfully stall construction (Nov 4, 2026).",
+      "-",
+      "State level: Democrats who campaigned partly on data center moratoriums won in Texas and Georgia. Capital Economics says Senate gains improve odds of AI regulation and tax hikes if Democrats also win the next presidential election.",
+      "-",
+      "Public opinion: An NBC exit poll found 76% of voters opposed a new data center in their community (cited by RBC).",
+      "-",
+      "Market reaction: Core Scientific fell 11.6% and Iren fell 12.5%. Power names such as GE Vernova, Constellation Energy and Vistra also slumped (Nov 4, 2026).",
+      "SoftBank's U.S. footprint",
+      "-",
+      "Stargate: The $500B, 10 GW program with OpenAI and Oracle has a thin structure. The Information reported that the joint venture has minimal staff and controls no data centers directly (Feb 23, 2026).",
+      "-",
+      "Milam County, Texas: SB Energy is building a 1.2 GW campus for OpenAI, with integrated solar and battery storage. Texas is the sharpest political risk. Gov.-elect Gina Hinojosa wants a halt to new projects and an end to tax breaks. The state's grid and permit freezes were already in place, and ERCOT is reviewing about 474 GW of requests (Nov 4, 2026).",
+      "-",
+      "Project Jupiter (New Mexico): Oracle sent a force-majeure notice over power delays. The $18B lending package sits with the developer, not Oracle. SoftBank also raised $11.1B in bonds that week, partly to fund OpenAI. AI-linked bond spreads were about 115 bps versus 78 bps for the broader market (Sept 24, 2026).",
+      "-",
+      "SB Energy and Roze IPOs: SoftBank hired banks for U.S. listings of both (May 26, 2026). SB Energy has a $430B backlog, but it is concentrated among SoftBank and OpenAI and much of it is long-dated."
+    ],
+    "html": null
+  }
+}

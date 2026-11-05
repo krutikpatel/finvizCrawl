@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/trimble-inc-stock-underperforms-wednesday-when-compared-to-competitors-95a23878-da430d2197eb?mod=mw_FV",
+    "fetched_at": "2026-11-05T07:00:32.381254-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Trimble Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Company Close Updates\nTrimble Inc. stock underperforms Wednesday when compared to competitors\nShares of Trimble Inc. TRMB plunged 17.31% to $54.25 Wednesday, on what proved to be an all-around favorable trading session for the stock market, with the S&P 500 Index SPX rising 1.58% to 7,688.62 and the Dow Jones Industrial Average DJIA rising 3.03% to 53,356.12.\nThis was the stock's second consecutive day of losses.\nAbout the Author",
+    "text_blocks": [
+      "Company Close Updates",
+      "Trimble Inc. stock underperforms Wednesday when compared to competitors",
+      "Shares of Trimble Inc. TRMB plunged 17.31% to $54.25 Wednesday, on what proved to be an all-around favorable trading session for the stock market, with the S&P 500 Index SPX rising 1.58% to 7,688.62 and the Dow Jones Industrial Average DJIA rising 3.03% to 53,356.12.",
+      "This was the stock's second consecutive day of losses.",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

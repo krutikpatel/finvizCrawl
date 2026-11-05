@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-cathie-wood-e46d26d7?mod=bar_FV",
+    "fetched_at": "2026-11-05T07:00:09.786745-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX Stock Today Has These 2  Positives. The Stock Is Still Falling.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "SpaceX Stock Today Has These 2 Positives. The Stock Is Still Falling.\nSpaceX stock was falling in premarket trading Thursday, dipping below its initial public offering price of $135 in June, following a new Buy rating on Wall Street and more buying from growth investor Cathie Wood.",
+    "text_blocks": [
+      "SpaceX Stock Today Has These 2 Positives. The Stock Is Still Falling.",
+      "SpaceX stock was falling in premarket trading Thursday, dipping below its initial public offering price of $135 in June, following a new Buy rating on Wall Street and more buying from growth investor Cathie Wood."
+    ],
+    "html": null
+  }
+}

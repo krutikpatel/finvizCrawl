@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?mod=bar_FV",
+    "fetched_at": "2026-11-05T07:00:15.010937-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Trump Reckoning Could Bring Some Shock Deals—or Endless Gridlock<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Where Trump and the Dems Can Meet in the Middle\nThe Beltway view is that Congress and the president will be at an impasse for the next two years. Wall Street, though, sees compromise. Healthcare stocks, renewables, and more hang in the balance.\nPresident Donald Trump and the Republican Party suffered a shellacking in the midterm elections on Tuesday as Democrats flipped enough seats in the Senate and the House of Representatives to secure healthy majorities in both chambers.",
+    "text_blocks": [
+      "Where Trump and the Dems Can Meet in the Middle",
+      "The Beltway view is that Congress and the president will be at an impasse for the next two years. Wall Street, though, sees compromise. Healthcare stocks, renewables, and more hang in the balance.",
+      "President Donald Trump and the Republican Party suffered a shellacking in the midterm elections on Tuesday as Democrats flipped enough seats in the Senate and the House of Representatives to secure healthy majorities in both chambers."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_FV",
+    "fetched_at": "2026-11-05T07:00:28.723213-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nMicron and other chip stocks slip as election results strike at the core of data-center optimism\nDemocratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not ‘unwind projects already funded’\nA “blue wave” in Tuesday’s midterm elections not only led to Democratic control of both chambers of Congress, but also saw the party win key governors’ races by pledging a tougher tack on data-center construction.\nA key question for investors now is what the new political backdrop means for chip and infrastructure stocks, as Wall Street’s forecasts depend heavily on new data-center capacity coming online.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+      "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not ‘unwind projects already funded’",
+      "A “blue wave” in Tuesday’s midterm elections not only led to Democratic control of both chambers of Congress, but also saw the party win key governors’ races by pledging a tougher tack on data-center construction.",
+      "A key question for investors now is what the new political backdrop means for chip and infrastructure stocks, as Wall Street’s forecasts depend heavily on new data-center capacity coming online."
+    ],
+    "html": null
+  }
+}

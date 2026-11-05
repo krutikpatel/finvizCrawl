@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/massive-market-rotation-raises-sell-114727763.html",
+    "fetched_at": "2026-11-05T07:00:23.393332-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Massive market rotation raises question: Is the sell-AI trade here to stay?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com - Tech saw a sharp rotation into hyperscalers on Wednesday, while semiconductors and data center infrastructure stocks came under pressure as a Democratic election win triggered a huge thematic rotation. Amazon rose 6.1% on the session, Microsoft gained 6.7%, Alphabet climbed 3.2%, and Meta added 1.4%.\n\"Our US desk is seeing a clear rotation into Hyperscalers from both LOs and HFs,\" Goldman's trading desk wrote, with long-only funds and hedge funds both participating.\n\"Investors viewed the Democratic win as potentially making new builds harder and existing, power-secured compute more valuable,\" Goldman's TMT specialists added.\nTighter permitting, water and power rules, fewer tax breaks, and the possibility of temporary moratoria all figured in the calculus. If new data-centre capacity is harder and slower to bring online, the argument goes that hyperscalers already operating powered, operational infrastructure hold a durable competitive edge.\n\"Scarcer powered capacity could lift prices and strengthen existing operators' competitive advantage, while leaving future-capacity providers behind,\" they said.\nHyperscalers posted broad gains, while semiconductor stocks fell, led by declines among neocloud companies. CoreWeave fell 9.9% and Nebius dropped 6.7%, with other neo-cloud and data-centre builder names also declining. Memory names including Micron weakened alongside the selloff.\nThe rotation was amplified by a confluence of capacity-risk headlines. Brad Gerstner, speaking on the \"All-In\" podcast, argued regulatory friction from the Democratic win could halt 10–15 GW of expected 2027 data-centre capacity.\nGoldman noted that figure was already below more bullish street estimates; Gerstner had in September said only roughly 25 GW was realistic in the US. Separately, research firm SemiAnalysis flagged 16.7 GW of planned 2028 Texas capacity as at risk.\n\"The main point is that the election now adds political risk on top of already bullish street forecasts well above 30GW,\" Goldman said.\nFor semis, the concern is not just slower demand but a potential inventory overhang. Goldman relayed sceptic arguments that \"there is a risk now is that the semis narrative flips to inventory correction if power/sites lag chip deliveries.\"",
+    "text_blocks": [
+      "Investing.com - Tech saw a sharp rotation into hyperscalers on Wednesday, while semiconductors and data center infrastructure stocks came under pressure as a Democratic election win triggered a huge thematic rotation. Amazon rose 6.1% on the session, Microsoft gained 6.7%, Alphabet climbed 3.2%, and Meta added 1.4%.",
+      "\"Our US desk is seeing a clear rotation into Hyperscalers from both LOs and HFs,\" Goldman's trading desk wrote, with long-only funds and hedge funds both participating.",
+      "\"Investors viewed the Democratic win as potentially making new builds harder and existing, power-secured compute more valuable,\" Goldman's TMT specialists added.",
+      "Tighter permitting, water and power rules, fewer tax breaks, and the possibility of temporary moratoria all figured in the calculus. If new data-centre capacity is harder and slower to bring online, the argument goes that hyperscalers already operating powered, operational infrastructure hold a durable competitive edge.",
+      "\"Scarcer powered capacity could lift prices and strengthen existing operators' competitive advantage, while leaving future-capacity providers behind,\" they said.",
+      "Hyperscalers posted broad gains, while semiconductor stocks fell, led by declines among neocloud companies. CoreWeave fell 9.9% and Nebius dropped 6.7%, with other neo-cloud and data-centre builder names also declining. Memory names including Micron weakened alongside the selloff.",
+      "The rotation was amplified by a confluence of capacity-risk headlines. Brad Gerstner, speaking on the \"All-In\" podcast, argued regulatory friction from the Democratic win could halt 10–15 GW of expected 2027 data-centre capacity.",
+      "Goldman noted that figure was already below more bullish street estimates; Gerstner had in September said only roughly 25 GW was realistic in the US. Separately, research firm SemiAnalysis flagged 16.7 GW of planned 2028 Texas capacity as at risk.",
+      "\"The main point is that the election now adds political risk on top of already bullish street forecasts well above 30GW,\" Goldman said.",
+      "For semis, the concern is not just slower demand but a potential inventory overhang. Goldman relayed sceptic arguments that \"there is a risk now is that the semis narrative flips to inventory correction if power/sites lag chip deliveries.\""
+    ],
+    "html": null
+  }
+}
