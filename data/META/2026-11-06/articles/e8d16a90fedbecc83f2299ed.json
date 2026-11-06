@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/kalshi-users-pour-300-million-104532232.html",
+    "fetched_at": "2026-11-06T07:00:09.694656-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Kalshi Users Pour $300 Million Into Stock Perps Within Hours of U.S. Debut",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Kalshi, the CFTC-regulated prediction market, rolled out perpetual futures tied to individual U.S. stocks on Nov. 5 and said it is the first company in the country to offer them. Traders can take positions on more than 50 stocks that trade on the NYSE and Nasdaq, Kalshi said, among them Palantir, Meta, SpaceX and McDonald's.\nThe stock contracts extend a perps business Kalshi started with crypto. The CFTC approved its bitcoin perpetual contract in May, and the company said it added gold and silver perps in September.\nTrading volume topped $300 million within hours of what Luana Lopes Lara called a \"stealth launch\" that morning, the Kalshi co-founder and COO wrote on X. In the same post, she described it as \"one of the most consequential products\" Kalshi has launched.\nThe move is one that Lorenzo Valente, director of research for digital assets at ARK Invest, saw coming. \"I think you're gonna have stock PERPs also approved,\" Valente said on Unchained in October, adding that \"Coinbase, Robinhood, you know, the Backpacks of the world, they're all gonna compete there.\"\nGet Unchained's crypto news in your inbox with the free Unchained Daily newsletter.\nRegulators Clear the Path\nThe launch followed a Nov. 3 statement from CFTC Chairman Michael Selig that perpetual futures on single equities could start trading on CFTC-registered exchanges for the first time. Under the CFTC's rules, the contracts were deemed approved as security futures, a product class Congress created in 2000 that answers to both the CFTC and the SEC. Selig said in the statement that the products give U.S. traders an onshore option \"rather than being forced to turn to offshore, and often unregulated, venues.\"\nKalshi puts annual trading in single-stock perps at more than $4.5 trillion, all of it on offshore venues until now, by the company's account.\nHow Kalshi Pitches the Product\nKalshi said it charges a trading fee and does not use payment for order flow, the model behind many retail brokerage apps. Traders can use leverage, which the company said in its announcement is set under CFTC rules and is \"significantly lower than offshore perp products.\"\nA perpetual future follows an asset's price with no expiry date, letting a trader bet on a stock going up or down without owning shares. Kalshi says its contracts carry no rollover costs, avoid the strike prices and time decay of options, and make shorting as simple as buying.\nThe stock contracts were more than a year in the making, Lopes Lara wrote.\nRelated Listen: Why Kalshi Chose Crypto Perps for Its First Move Beyond Prediction Markets",
+    "text_blocks": [
+      "Kalshi, the CFTC-regulated prediction market, rolled out perpetual futures tied to individual U.S. stocks on Nov. 5 and said it is the first company in the country to offer them. Traders can take positions on more than 50 stocks that trade on the NYSE and Nasdaq, Kalshi said, among them Palantir, Meta, SpaceX and McDonald's.",
+      "The stock contracts extend a perps business Kalshi started with crypto. The CFTC approved its bitcoin perpetual contract in May, and the company said it added gold and silver perps in September.",
+      "Trading volume topped $300 million within hours of what Luana Lopes Lara called a \"stealth launch\" that morning, the Kalshi co-founder and COO wrote on X. In the same post, she described it as \"one of the most consequential products\" Kalshi has launched.",
+      "The move is one that Lorenzo Valente, director of research for digital assets at ARK Invest, saw coming. \"I think you're gonna have stock PERPs also approved,\" Valente said on Unchained in October, adding that \"Coinbase, Robinhood, you know, the Backpacks of the world, they're all gonna compete there.\"",
+      "Get Unchained's crypto news in your inbox with the free Unchained Daily newsletter.",
+      "Regulators Clear the Path",
+      "The launch followed a Nov. 3 statement from CFTC Chairman Michael Selig that perpetual futures on single equities could start trading on CFTC-registered exchanges for the first time. Under the CFTC's rules, the contracts were deemed approved as security futures, a product class Congress created in 2000 that answers to both the CFTC and the SEC. Selig said in the statement that the products give U.S. traders an onshore option \"rather than being forced to turn to offshore, and often unregulated, venues.\"",
+      "Kalshi puts annual trading in single-stock perps at more than $4.5 trillion, all of it on offshore venues until now, by the company's account.",
+      "How Kalshi Pitches the Product",
+      "Kalshi said it charges a trading fee and does not use payment for order flow, the model behind many retail brokerage apps. Traders can use leverage, which the company said in its announcement is set under CFTC rules and is \"significantly lower than offshore perp products.\"",
+      "A perpetual future follows an asset's price with no expiry date, letting a trader bet on a stock going up or down without owning shares. Kalshi says its contracts carry no rollover costs, avoid the strike prices and time decay of options, and make shorting as simple as buying.",
+      "The stock contracts were more than a year in the making, Lopes Lara wrote.",
+      "Related Listen: Why Kalshi Chose Crypto Perps for Its First Move Beyond Prediction Markets"
+    ],
+    "html": null
+  }
+}

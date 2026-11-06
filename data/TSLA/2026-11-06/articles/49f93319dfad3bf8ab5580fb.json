@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/musk-says-tesla-end-cybertruck-132900209.html",
+    "fetched_at": "2026-11-06T07:00:03.069818-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Musk says Tesla will end Cybertruck production next year",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla's Cybertruck is at the end of the road.\nElon Musk announced on X Friday that the electric car maker would wind down production of its stainless-steel pickup truck at its Texas factory by mid-2027. Musk, the CEO of Tesla and SpaceX, said the move is to \"make room for increased Cybercab production,\" referring to Tesla's self-driving taxi.\nTesla first unveiled the Cybertruck in 2019, capturing attention for its boxy design and futuristic look. Tesla touted the car as a rolling fortress that could tow 14,000 pounds and withstand hits from sledgehammers and even firearms. But the vehicle has been beset by quality problems and has faced numerous recalls.\nIt's unclear if production of the Cybertruck will continue at other factories, although it appears unlikely. According to Forbes, Tesla's gigafactory in Texas is the only one that currently manufactures the pickup.\nTesla sold only 20,237 Cybertrucks in 2025, down from 38,965 the previous year, according to figures from Kelley Blue Book. After commercial production of the truck started in 2023, Musk had predicted annual sales of 250,000 Cybertrucks. The vehicle initially sold for $60,990.\nCybertrucks also became a flashpoint in the debate over Musk's role in the Trump administration as the head of the Department of Government Efficiency. In a sign of protest, some people vandalized Cybertrucks at Tesla dealerships.",
+    "text_blocks": [
+      "Tesla's Cybertruck is at the end of the road.",
+      "Elon Musk announced on X Friday that the electric car maker would wind down production of its stainless-steel pickup truck at its Texas factory by mid-2027. Musk, the CEO of Tesla and SpaceX, said the move is to \"make room for increased Cybercab production,\" referring to Tesla's self-driving taxi.",
+      "Tesla first unveiled the Cybertruck in 2019, capturing attention for its boxy design and futuristic look. Tesla touted the car as a rolling fortress that could tow 14,000 pounds and withstand hits from sledgehammers and even firearms. But the vehicle has been beset by quality problems and has faced numerous recalls.",
+      "It's unclear if production of the Cybertruck will continue at other factories, although it appears unlikely. According to Forbes, Tesla's gigafactory in Texas is the only one that currently manufactures the pickup.",
+      "Tesla sold only 20,237 Cybertrucks in 2025, down from 38,965 the previous year, according to figures from Kelley Blue Book. After commercial production of the truck started in 2023, Musk had predicted annual sales of 250,000 Cybertrucks. The vehicle initially sold for $60,990.",
+      "Cybertrucks also became a flashpoint in the debate over Musk's role in the Trump administration as the head of the Department of Government Efficiency. In a sign of protest, some people vandalized Cybertrucks at Tesla dealerships."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-schedules-gemini-3-8-084343356.html",
+    "fetched_at": "2026-11-06T07:00:23.040386-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google Schedules Gemini 3.8 and 3.6 Flash API Price Increases for January 1, 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google's Gemini API pricing page lists scheduled rate changes for Gemini 3.8 Flash and Gemini 3.6 Flash, effective January 1, 2027. The official pricing table shows the same change for both models across the paid Standard, Batch, Flex and Priority tiers. Listed input, output and context-caching rates double; output pricing includes thinking tokens.\nThe current listed rates run through December 31, 2026, with the new rates beginning the next day. Standard input moves from $0.75 to $1.50 per million tokens, while output moves from $3.75 to $7.50. On Batch and Flex, input rises from $0.375 to $0.75 and output from $1.875 to $3.75 per million tokens. Priority input rises from $1.35 to $2.70, and output from $6.75 to $13.50. The absolute prices differ by tier, though each listed input and output rate doubles.\nThe page lists separate charges for cached tokens and cache storage. For each million cached tokens, the Standard rate moves from $0.075 to $0.15; Batch and Flex move from $0.0375 to $0.075; and Priority moves from $0.135 to $0.27. Storage is priced separately per million tokens per hour and rises from $0.50 to $1.00 across those paid tiers. These are additional line items, not part of the input-and-output example below.\nA fixed-volume calculation makes the change in those two Standard token charges visible. At 1 million input tokens and 100,000 output tokens, the current rates produce $0.75 for input and $0.375 for output, for a combined input-and-output token charge of $1.125. Applying the rates scheduled for January 1 to the same volumes yields $1.50 for input and $0.75 for output, a combined input-and-output token charge of $2.25. This is arithmetic based on a hypothetical fixed token volume, not a measured or representative agent workload. It excludes caching, cache storage, tool usage and any other charges.\nThe schedule therefore establishes a change in listed unit prices, not a forecast of a particular deployment's spending. Google's documentation says agent usage costs are calculated from underlying token consumption and tool usage. A system's bill depends on its actual use of those priced components; the rate table does not set an all-in amount for running an agent.",
+    "text_blocks": [
+      "Google's Gemini API pricing page lists scheduled rate changes for Gemini 3.8 Flash and Gemini 3.6 Flash, effective January 1, 2027. The official pricing table shows the same change for both models across the paid Standard, Batch, Flex and Priority tiers. Listed input, output and context-caching rates double; output pricing includes thinking tokens.",
+      "The current listed rates run through December 31, 2026, with the new rates beginning the next day. Standard input moves from $0.75 to $1.50 per million tokens, while output moves from $3.75 to $7.50. On Batch and Flex, input rises from $0.375 to $0.75 and output from $1.875 to $3.75 per million tokens. Priority input rises from $1.35 to $2.70, and output from $6.75 to $13.50. The absolute prices differ by tier, though each listed input and output rate doubles.",
+      "The page lists separate charges for cached tokens and cache storage. For each million cached tokens, the Standard rate moves from $0.075 to $0.15; Batch and Flex move from $0.0375 to $0.075; and Priority moves from $0.135 to $0.27. Storage is priced separately per million tokens per hour and rises from $0.50 to $1.00 across those paid tiers. These are additional line items, not part of the input-and-output example below.",
+      "A fixed-volume calculation makes the change in those two Standard token charges visible. At 1 million input tokens and 100,000 output tokens, the current rates produce $0.75 for input and $0.375 for output, for a combined input-and-output token charge of $1.125. Applying the rates scheduled for January 1 to the same volumes yields $1.50 for input and $0.75 for output, a combined input-and-output token charge of $2.25. This is arithmetic based on a hypothetical fixed token volume, not a measured or representative agent workload. It excludes caching, cache storage, tool usage and any other charges.",
+      "The schedule therefore establishes a change in listed unit prices, not a forecast of a particular deployment's spending. Google's documentation says agent usage costs are calculated from underlying token consumption and tool usage. A system's bill depends on its actual use of those priced components; the rate table does not set an all-in amount for running an agent."
+    ],
+    "html": null
+  }
+}

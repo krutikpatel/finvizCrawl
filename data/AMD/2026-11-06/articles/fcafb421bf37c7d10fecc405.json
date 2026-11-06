@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
+    "fetched_at": "2026-11-06T07:00:41.263853-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Chip stocks rebounded on Friday after suffering their worst sell-off since 2020. The PHLX Semiconductor Index (^SOX) bounced 4% following a 12% plunge on Thursday.\nShares of US chipmaker Intel (INTC) jumped nearly 6%, erasing part of their 10% slide in the prior session. AMD (AMD) also rebounded 8% after suffering a 17% fall. Nvidia (NVDA), which declined 9% in the prior session, jumped 6%.\nSemiconductors bounced back after much of the AI trade was hammered on Thursday as investors digested what a Democratic win in Congress means for the data center build-out in the US.\nMemory and storage names Sandisk (SNDK), Micron Technology (MU) and SK Hynix (SKHY) shares tumbled alongside Samsung Electronics (005930.KS) following Thursday's wipeout on Wall Street.\nOther notable movers rebounding on Friday include processor maker Qualcomm (QCOM) and chip designer Arm Holdings (ARM).",
+    "text_blocks": [
+      "Chip stocks rebounded on Friday after suffering their worst sell-off since 2020. The PHLX Semiconductor Index (^SOX) bounced 4% following a 12% plunge on Thursday.",
+      "Shares of US chipmaker Intel (INTC) jumped nearly 6%, erasing part of their 10% slide in the prior session. AMD (AMD) also rebounded 8% after suffering a 17% fall. Nvidia (NVDA), which declined 9% in the prior session, jumped 6%.",
+      "Semiconductors bounced back after much of the AI trade was hammered on Thursday as investors digested what a Democratic win in Congress means for the data center build-out in the US.",
+      "Memory and storage names Sandisk (SNDK), Micron Technology (MU) and SK Hynix (SKHY) shares tumbled alongside Samsung Electronics (005930.KS) following Thursday's wipeout on Wall Street.",
+      "Other notable movers rebounding on Friday include processor maker Qualcomm (QCOM) and chip designer Arm Holdings (ARM)."
+    ],
+    "html": null
+  }
+}

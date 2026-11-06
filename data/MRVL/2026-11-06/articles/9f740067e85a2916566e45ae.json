@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?mod=wsj_FV",
+    "fetched_at": "2026-11-06T07:00:48.909553-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip Stocks Fall on AI Regulation Fears",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Last Updated:\nUpdated 16 hours ago\nChip Stocks Fall on AI Regulation Fears\nNvidia isn’t the only chipmaker feeling a post-midterms chill. Chips stocks took a bath Thursday as the market digested a wave of election wins by critics of AI and data centers. Qualcomm’s weak earnings report contributed to the carnage.\nNvidia’s biggest one-day drop since January 2025—its shares fell 9.3% to $181.60—was enough to erase all its year-to-date gains. Rival Advanced Micro Devices, fresh off an impressive earnings report this week, snapped a two-day winning streak, falling 17% to $404.40.\nOther big names in the chips space, including Broadcom (-10%), Micron (-17%), Qualcomm (-9.5%) and Intel (-6.9%) saw big declines as well. Marvell and Lumentum, two other companies that design chips and network connectivity hardware and had announced an $80 billion merger this week, were slammed by double-digit percentage declines. Both companies have lost about half their market values in the past month.",
+    "text_blocks": [
+      "Last Updated:",
+      "Updated 16 hours ago",
+      "Chip Stocks Fall on AI Regulation Fears",
+      "Nvidia isn’t the only chipmaker feeling a post-midterms chill. Chips stocks took a bath Thursday as the market digested a wave of election wins by critics of AI and data centers. Qualcomm’s weak earnings report contributed to the carnage.",
+      "Nvidia’s biggest one-day drop since January 2025—its shares fell 9.3% to $181.60—was enough to erase all its year-to-date gains. Rival Advanced Micro Devices, fresh off an impressive earnings report this week, snapped a two-day winning streak, falling 17% to $404.40.",
+      "Other big names in the chips space, including Broadcom (-10%), Micron (-17%), Qualcomm (-9.5%) and Intel (-6.9%) saw big declines as well. Marvell and Lumentum, two other companies that design chips and network connectivity hardware and had announced an $80 billion merger this week, were slammed by double-digit percentage declines. Both companies have lost about half their market values in the past month."
+    ],
+    "html": null
+  }
+}

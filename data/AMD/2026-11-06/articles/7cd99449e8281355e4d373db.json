@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+    "fetched_at": "2026-11-06T07:00:41.460015-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock market today: Nasdaq rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stock market today: Nasdaq rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs\nUS stocks attempted to stabilize on Friday after a post-election rally turned into an artificial intelligence trade meltdown, sending tremors through markets. Investors also assessed a hotter-than-expected October jobs report.\nThe Dow Jones Industrial Average (^DJI) fell 0.4%, while the S&P 500 (^GSPC) rose 1%. The Nasdaq Composite (^IXIC) gained 1.9% after the tech-heavy index slipped into a correction on Thursday.\nThe major indexes were on track to post substantial losses during the volatile election week that saw the Democrats retake the House and Senate. At the center of Thursday's deep sell-off, which erased $2.3 trillion in market value, were concerns about a slowdown in data center construction and in AI spending.\nThe hit chip stocks like Nvidia (NVDA), Micron (MU), AMD (AMD), and Sandisk (SNDK) most directly, but also spilled into broader markets, sending the VIX Volatility Index (^VIX) up 70% to 28.\nOil prices have also been in play, with global benchmark Brent crude (BZ=F) and WTI crude (CL=F) futures falling below $100 per barrel. Energy traders continue to assess the outlook for the war in the Middle East, with the potential for a reescalation weighing on sentiment.\nNot to be overshadowed, the Labor Department reported that the US added 165,000 jobs in October, above a revised 60,000 figure the month before and the 65,000 jobs economists expected.",
+    "text_blocks": [
+      "Stock market today: Nasdaq rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs",
+      "US stocks attempted to stabilize on Friday after a post-election rally turned into an artificial intelligence trade meltdown, sending tremors through markets. Investors also assessed a hotter-than-expected October jobs report.",
+      "The Dow Jones Industrial Average (^DJI) fell 0.4%, while the S&P 500 (^GSPC) rose 1%. The Nasdaq Composite (^IXIC) gained 1.9% after the tech-heavy index slipped into a correction on Thursday.",
+      "The major indexes were on track to post substantial losses during the volatile election week that saw the Democrats retake the House and Senate. At the center of Thursday's deep sell-off, which erased $2.3 trillion in market value, were concerns about a slowdown in data center construction and in AI spending.",
+      "The hit chip stocks like Nvidia (NVDA), Micron (MU), AMD (AMD), and Sandisk (SNDK) most directly, but also spilled into broader markets, sending the VIX Volatility Index (^VIX) up 70% to 28.",
+      "Oil prices have also been in play, with global benchmark Brent crude (BZ=F) and WTI crude (CL=F) futures falling below $100 per barrel. Energy traders continue to assess the outlook for the war in the Middle East, with the potential for a reescalation weighing on sentiment.",
+      "Not to be overshadowed, the Labor Department reported that the US added 165,000 jobs in October, above a revised 60,000 figure the month before and the 65,000 jobs economists expected."
+    ],
+    "html": null
+  }
+}

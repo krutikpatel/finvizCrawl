@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantirs-ai-demand-accelerating-backlog-191500198.html",
+    "fetched_at": "2026-11-06T07:00:32.243066-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palantir's AI demand is accelerating, but its backlog tells a more complicated story",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palantir Technologies Inc (NYSE:PLTR) shares fell 2% on Tuesday afternoon as investors weighed record revenue growth against signs of moderating contract momentum, despite continued support from Wall Street analysts.\nThe artificial intelligence software company reported 96% year-over-year revenue growth in the third quarter of 2026, accelerating by three percentage points from the previous quarter, with revenue rising a record $378 million sequentially.\nUBS and Bank of America reiterated their Buy ratings following the results, pointing to accelerating US commercial demand and Palantir's position in the enterprise AI market.\nUBS said revenue growth was outstanding, with the company delivering a 6.9% beat against expectations. US commercial revenue growth reached 148%, while total US revenue growth accelerated to 119% from 115% in the second quarter.\nThe main concern was remaining performance obligations (RPO), a measure of contracted revenue yet to be recognized, which was flat sequentially for the first time since the first quarter of 2023.\nPalantir attributed the moderation partly to shorter contract durations among sovereign AI customers, which can sign agreements of less than 12 months that are not reflected in RPO.\nUBS said the backlog slowdown was disappointing but found little evidence of a broader demand deterioration in reported revenue growth or guidance.\nThe bank raised its 2027 revenue growth estimate to 70% from 60% and increased its free cash flow forecast to $8.92 billion from $8.18 billion.\nIt maintained a $250 price target, arguing that Palantir's growth and profitability justify its valuation premium.\nBank of America also reiterated its Buy rating and $255 price target, describing the commercial acceleration as evidence that Palantir's sovereign AI strategy is gaining traction.\nThe bank said Palantir's national security heritage gives it a competitive advantage in helping organizations implement AI while maintaining control over sensitive data.\nUS commercial customers increased 29% year over year to 686, while total commercial customers rose 22% to 904. Revenue per customer among Palantir's 20 largest accounts grew 76% to $146 million.\nBank of America said Palantir's commercial business could eventually eclipse its government operations, challenging the perception of the company as primarily a government software provider.\nBoth banks highlighted the company's position between frontier AI models and enterprise-wide implementation as a potential driver of further growth.",
+    "text_blocks": [
+      "Palantir Technologies Inc (NYSE:PLTR) shares fell 2% on Tuesday afternoon as investors weighed record revenue growth against signs of moderating contract momentum, despite continued support from Wall Street analysts.",
+      "The artificial intelligence software company reported 96% year-over-year revenue growth in the third quarter of 2026, accelerating by three percentage points from the previous quarter, with revenue rising a record $378 million sequentially.",
+      "UBS and Bank of America reiterated their Buy ratings following the results, pointing to accelerating US commercial demand and Palantir's position in the enterprise AI market.",
+      "UBS said revenue growth was outstanding, with the company delivering a 6.9% beat against expectations. US commercial revenue growth reached 148%, while total US revenue growth accelerated to 119% from 115% in the second quarter.",
+      "The main concern was remaining performance obligations (RPO), a measure of contracted revenue yet to be recognized, which was flat sequentially for the first time since the first quarter of 2023.",
+      "Palantir attributed the moderation partly to shorter contract durations among sovereign AI customers, which can sign agreements of less than 12 months that are not reflected in RPO.",
+      "UBS said the backlog slowdown was disappointing but found little evidence of a broader demand deterioration in reported revenue growth or guidance.",
+      "The bank raised its 2027 revenue growth estimate to 70% from 60% and increased its free cash flow forecast to $8.92 billion from $8.18 billion.",
+      "It maintained a $250 price target, arguing that Palantir's growth and profitability justify its valuation premium.",
+      "Bank of America also reiterated its Buy rating and $255 price target, describing the commercial acceleration as evidence that Palantir's sovereign AI strategy is gaining traction.",
+      "The bank said Palantir's national security heritage gives it a competitive advantage in helping organizations implement AI while maintaining control over sensitive data.",
+      "US commercial customers increased 29% year over year to 686, while total commercial customers rose 22% to 904. Revenue per customer among Palantir's 20 largest accounts grew 76% to $146 million.",
+      "Bank of America said Palantir's commercial business could eventually eclipse its government operations, challenging the perception of the company as primarily a government software provider.",
+      "Both banks highlighted the company's position between frontier AI models and enterprise-wide implementation as a potential driver of further growth."
+    ],
+    "html": null
+  }
+}

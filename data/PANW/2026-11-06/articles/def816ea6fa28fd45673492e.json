@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-revises-best-ideas-list-141358648.html",
+    "fetched_at": "2026-11-06T07:00:44.074478-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wedbush Revises Best Ideas List After October Underperformance",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Wedbush updated its Best Ideas List after a challenging October, in which the portfolio returned -11.6%, versus -0.9% for the S&P 500, -5.3% for the Nasdaq and +0.5% for the Russell 2000.\nThe broker removed Reddit and Arcus Biosciences for investment price discipline. It uses an automatic sale rule if a stock falls 25% relative to the average move of the S&P 500 and Russell 2000. All names are rated Outperform.\nPrices below are as of the Oct. 30 close.\n-\nAlphabet Inc. (GOOGL) - $278.99, target $387, implying about 39% upside.\n-\nIMAX Corporation (IMAX) - $49.80, target $60, about 21% upside.\n-\nTake-Two Interactive Software Inc. (TTWO) - $192.10, target $280, about 46% upside.\n-\nSilicon Motion Technology Corporation (SIMO) - $187.90, target $400, about 113% upside.\n-\nWestern Digital Corporation (WDC) - $338.59, target $650, about 92% upside.\n-\nPalo Alto Networks Inc. (PANW) - $351.72, target $400, about 14% upside.\n-\nRubrik Inc. (RBRK) - $114.67, target $150, about 31% upside.\n-\nWilldan Group Inc. (WLDN) - $72.02, target $130, about 81% upside.\n-\nScholar Rock Holding Corporation (SRRK) - $42.91, target $70, about 63% upside.\n-\nTyra Biosciences Inc. (TYRA) - $21.33, target $53, about 149% upside.\n-\nClimb Bio, Inc. (CLYM) - $9.74, target $25, about 157% upside.\n-\nZenas BioPharma, Inc. (ZBIO) - $27.62, target $45, about 63% upside.\nOriginal Article\nWedbush Revises Best Ideas List After October Underperformance\nEurope stocks drop to one-week lows; STOXX 600 overtakes S&P 500 in YTD gains\nU.S. chip stocks recover sharply after Thursday's brutal selloff",
+    "text_blocks": [
+      "Investing.com -- Wedbush updated its Best Ideas List after a challenging October, in which the portfolio returned -11.6%, versus -0.9% for the S&P 500, -5.3% for the Nasdaq and +0.5% for the Russell 2000.",
+      "The broker removed Reddit and Arcus Biosciences for investment price discipline. It uses an automatic sale rule if a stock falls 25% relative to the average move of the S&P 500 and Russell 2000. All names are rated Outperform.",
+      "Prices below are as of the Oct. 30 close.",
+      "-",
+      "Alphabet Inc. (GOOGL) - $278.99, target $387, implying about 39% upside.",
+      "-",
+      "IMAX Corporation (IMAX) - $49.80, target $60, about 21% upside.",
+      "-",
+      "Take-Two Interactive Software Inc. (TTWO) - $192.10, target $280, about 46% upside.",
+      "-",
+      "Silicon Motion Technology Corporation (SIMO) - $187.90, target $400, about 113% upside.",
+      "-",
+      "Western Digital Corporation (WDC) - $338.59, target $650, about 92% upside.",
+      "-",
+      "Palo Alto Networks Inc. (PANW) - $351.72, target $400, about 14% upside.",
+      "-",
+      "Rubrik Inc. (RBRK) - $114.67, target $150, about 31% upside.",
+      "-",
+      "Willdan Group Inc. (WLDN) - $72.02, target $130, about 81% upside.",
+      "-",
+      "Scholar Rock Holding Corporation (SRRK) - $42.91, target $70, about 63% upside.",
+      "-",
+      "Tyra Biosciences Inc. (TYRA) - $21.33, target $53, about 149% upside.",
+      "-",
+      "Climb Bio, Inc. (CLYM) - $9.74, target $25, about 157% upside.",
+      "-",
+      "Zenas BioPharma, Inc. (ZBIO) - $27.62, target $45, about 63% upside.",
+      "Original Article",
+      "Wedbush Revises Best Ideas List After October Underperformance",
+      "Europe stocks drop to one-week lows; STOXX 600 overtakes S&P 500 in YTD gains",
+      "U.S. chip stocks recover sharply after Thursday's brutal selloff"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/blue-tsunami-batters-ai-stocks-143835829.html",
+    "fetched_at": "2026-11-06T07:00:34.913270-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "’Blue tsunami’ batters AI stocks: Is this a rare buy the dip setup?",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Thursday's selloff was broad, and it started in AI. Pre-market bids suggest a partial bounce, but nothing has been confirmed yet.\nThe Day Everything Sold Off\n-\nS&P 500: closed at 7,353.73, down 4.36% (Nov 5, 3:59 PM EST). That is about 6.3% below its 52-week high of 7,844.52.\n-\nNasdaq Composite: fell 5.52% to 24,315.00. It is down 11.9% over one month.\n-\nPhiladelphia Semiconductor Index: fell 12.25% to 9,011.10. It is down 31.8% over one month, yet still up 28.4% over one year.\nNVIDIA Corporation (NVDA): closed at $181.60 (-9.26%, Nov 5). Pre-market was $189.35 (+4.27%) as of Nov 6, 9:02 AM EST. Its 52-week range is $164.27–$243.37, and it is down 24.1% over one month.\nWhat Triggered It\nThe trigger was Tuesday's Democratic sweep, the \"blue tsunami\". Investors feared tougher antitrust enforcement, environmental oversight and local pushback on power-hungry data centers. Read more (Nov 6, 2026)\n-\nScale: An estimated $2.5T was wiped from the Nasdaq Composite, the biggest drop since March 2020. Read more (Nov 6, 2026)\n-\nContagion: Japan's Nikkei closed 6% lower and entered a bear market. South Korea's KOSPI hit a circuit breaker. Read more (Nov 5, 2026)\n-\nNot just politics: Qualcomm fell nearly 10% on a smartphone chip sales miss. Anthropic's IPO is facing scrutiny and may be delayed.\nThe Dip-Buying Case\n-\nStrategists see overreaction. Yardeni Research called the selloff a \"buying opportunity\". It described the political backlash as \"speed bumps, not roadblocks\". Read more (Nov 6, 2026)\n-\nSpending is still strong. Reuters' Morning Bid noted that Marvell's $115B all-stock deal for Lumentum and Meta's $15B bond raise show no sign of an AI capex slowdown. Read more (Nov 6, 2026)\n-\nFutures point to relief. Nasdaq 100 futures were up about 0.9% earlier Friday.\nThe Bear Case\n-\nForced selling may not be finished. One analysis warned that \"there may be more pain to come\" for chip and AI-equipment makers. It cited profit-taking and institutional deleveraging. Read more (Nov 6, 2026)\n-\nRegulation risk is slow-burning. A Democratic Congress could keep pressure on data-center buildouts for years.\n-\nRates and data. Strong payrolls lifted Treasury yields, and the Bank of England just hiked. A hot jobs print would add a further headwind.\n-\nValuation questions were already there. The AI trade had been under pressure for weeks before Thursday. Hedge funds were already cutting exposure, with selling shifting from the high-flyers to \"anything with a ticker symbol\".",
+    "text_blocks": [
+      "Investing.com -- Thursday's selloff was broad, and it started in AI. Pre-market bids suggest a partial bounce, but nothing has been confirmed yet.",
+      "The Day Everything Sold Off",
+      "-",
+      "S&P 500: closed at 7,353.73, down 4.36% (Nov 5, 3:59 PM EST). That is about 6.3% below its 52-week high of 7,844.52.",
+      "-",
+      "Nasdaq Composite: fell 5.52% to 24,315.00. It is down 11.9% over one month.",
+      "-",
+      "Philadelphia Semiconductor Index: fell 12.25% to 9,011.10. It is down 31.8% over one month, yet still up 28.4% over one year.",
+      "NVIDIA Corporation (NVDA): closed at $181.60 (-9.26%, Nov 5). Pre-market was $189.35 (+4.27%) as of Nov 6, 9:02 AM EST. Its 52-week range is $164.27–$243.37, and it is down 24.1% over one month.",
+      "What Triggered It",
+      "The trigger was Tuesday's Democratic sweep, the \"blue tsunami\". Investors feared tougher antitrust enforcement, environmental oversight and local pushback on power-hungry data centers. Read more (Nov 6, 2026)",
+      "-",
+      "Scale: An estimated $2.5T was wiped from the Nasdaq Composite, the biggest drop since March 2020. Read more (Nov 6, 2026)",
+      "-",
+      "Contagion: Japan's Nikkei closed 6% lower and entered a bear market. South Korea's KOSPI hit a circuit breaker. Read more (Nov 5, 2026)",
+      "-",
+      "Not just politics: Qualcomm fell nearly 10% on a smartphone chip sales miss. Anthropic's IPO is facing scrutiny and may be delayed.",
+      "The Dip-Buying Case",
+      "-",
+      "Strategists see overreaction. Yardeni Research called the selloff a \"buying opportunity\". It described the political backlash as \"speed bumps, not roadblocks\". Read more (Nov 6, 2026)",
+      "-",
+      "Spending is still strong. Reuters' Morning Bid noted that Marvell's $115B all-stock deal for Lumentum and Meta's $15B bond raise show no sign of an AI capex slowdown. Read more (Nov 6, 2026)",
+      "-",
+      "Futures point to relief. Nasdaq 100 futures were up about 0.9% earlier Friday.",
+      "The Bear Case",
+      "-",
+      "Forced selling may not be finished. One analysis warned that \"there may be more pain to come\" for chip and AI-equipment makers. It cited profit-taking and institutional deleveraging. Read more (Nov 6, 2026)",
+      "-",
+      "Regulation risk is slow-burning. A Democratic Congress could keep pressure on data-center buildouts for years.",
+      "-",
+      "Rates and data. Strong payrolls lifted Treasury yields, and the Bank of England just hiked. A hot jobs print would add a further headwind.",
+      "-",
+      "Valuation questions were already there. The AI trade had been under pressure for weeks before Thursday. Hedge funds were already cutting exposure, with selling shifting from the high-flyers to \"anything with a ticker symbol\"."
+    ],
+    "html": null
+  }
+}

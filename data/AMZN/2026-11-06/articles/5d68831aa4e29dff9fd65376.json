@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/amazon-challenges-google-shopping-direct-232727864.html",
+    "fetched_at": "2026-11-06T07:00:38.501455-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon Challenges Google Shopping With Direct Product Feeds",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon's new \"Shop Direct MerchantWorkspace\" features now have a direct AI connection from the merchant's store to Alexa for Shopping and Amazon.\nShop Direct launched last year, but as of this week the MerchantWorkspace in the program offers a free, self-service online portal that allows third-party retailers to sync their own ecommerce websites directly with Amazon's search engine and Alexa forShopping.\nMerchants, typically small, buy their own ad media. Now they can connect the feed through Feedonomics, Salsify, CEDCommerce, and VersaFeed to help get their products discovered bycustomers.\nProducts submitted through Shop Direct may serve up in relevant search results on Amazon's website and app, as well as in Alexa for Shopping results. Amazon will notify the selleras the consumer leaves its platform before directing them to the merchant's website when shopping through the Shop Direct option.\nFor media buyers, specifically those managingdirect-to-consumer (DTC) brands, performance marketing, and retail media networks, this announcement changes the strategy for product discovery and ad spend allocation.\nCapital One ShoppingResearch as of October 2026 states in their annual retail tracker 52% of all consumers start their online product searchesdirectly on Amazon.\nMore than 310 million global consumers shop on Amazon at least once a year from about 2 million active selling partners with shops on the platform, according to theresearch.\nMedia buyers can now position their off-Amazon products directly in front of active shoppers.\nThe exact mechanics of the Shop Direct Merchant Workspace change the fundamentalstrategy for media buyers through the connection and typically accepts the same product catalog merchants use for Google Shopping.\nWhile media buyers typically have workarounds, when they runads on a standard Amazon product page, they cannot see the user data, making it difficult to attribute the data to sales.\nWhile the Shop Direct Merchant Workspace does not give merchantsaccess to Amazon's internal shopper data, it does change things by sending the customer directly to the merchant's checkout.",
+    "text_blocks": [
+      "Amazon's new \"Shop Direct MerchantWorkspace\" features now have a direct AI connection from the merchant's store to Alexa for Shopping and Amazon.",
+      "Shop Direct launched last year, but as of this week the MerchantWorkspace in the program offers a free, self-service online portal that allows third-party retailers to sync their own ecommerce websites directly with Amazon's search engine and Alexa forShopping.",
+      "Merchants, typically small, buy their own ad media. Now they can connect the feed through Feedonomics, Salsify, CEDCommerce, and VersaFeed to help get their products discovered bycustomers.",
+      "Products submitted through Shop Direct may serve up in relevant search results on Amazon's website and app, as well as in Alexa for Shopping results. Amazon will notify the selleras the consumer leaves its platform before directing them to the merchant's website when shopping through the Shop Direct option.",
+      "For media buyers, specifically those managingdirect-to-consumer (DTC) brands, performance marketing, and retail media networks, this announcement changes the strategy for product discovery and ad spend allocation.",
+      "Capital One ShoppingResearch as of October 2026 states in their annual retail tracker 52% of all consumers start their online product searchesdirectly on Amazon.",
+      "More than 310 million global consumers shop on Amazon at least once a year from about 2 million active selling partners with shops on the platform, according to theresearch.",
+      "Media buyers can now position their off-Amazon products directly in front of active shoppers.",
+      "The exact mechanics of the Shop Direct Merchant Workspace change the fundamentalstrategy for media buyers through the connection and typically accepts the same product catalog merchants use for Google Shopping.",
+      "While media buyers typically have workarounds, when they runads on a standard Amazon product page, they cannot see the user data, making it difficult to attribute the data to sales.",
+      "While the Shop Direct Merchant Workspace does not give merchantsaccess to Amazon's internal shopper data, it does change things by sending the customer directly to the merchant's checkout."
+    ],
+    "html": null
+  }
+}

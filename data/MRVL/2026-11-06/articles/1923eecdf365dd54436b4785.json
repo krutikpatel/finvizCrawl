@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/u-chip-stocks-rebound-sharply-105433545.html",
+    "fetched_at": "2026-11-06T07:00:49.160319-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "U.S. chip stocks recover sharply after Thursday’s brutal selloff",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- U.S. chip stocks rebounded in premarket trading Friday, recovering some ground after a sweeping AI-driven selloff Thursday following the Democrats' midterm election victory earlier this week.\nInvestors also got a much stronger-than-expected October jobs report, with payroll growth far exceeding forecasts and figures for prior months revised higher. Stock futures were little affected by the data, but Treasury yields jumped.\nThe iShares Semiconductor ETF jumped more than 5% before the open by 08:51 ET, and Nasdaq 100 futures rose 1.3%, after the index suffered its worst day since April 2025 on Thursday. The 10-year yield edged higher to 4.87%.\nAmong chipmakers hit hard the previous session, Lam Research surged about 13% in the premarket trade, Micron jumped 8% and Marvell rose around 10%. AMD and Applied Materials surged over 8% each, while Broadcom, Intel and U.S.-listed shares of SK Hynix added between 5% and 6%.\nSanDisk and ARM rose 10.6% and 8%, respectively.\nCloud-computing stocks also rallied. Astera Labs gained about 8% in premarket trading, while CoreWeave jumped 9.4% and Oracle added 4.4%. European AI-linked stocks, which have fallen sharply since the midterms, staged a modest recovery as well.\nThe rebound followed another rough session in Asia. South Korea's Kospi closed more than 6% lower for its worst day since 2025, while Japan's Nikkei 225 neared correction territory. Memory-chip makers Samsung Electronics and SK Hynix fell more than 6% and 10%, respectively.\nInvestors have been dumping AI stocks on concerns that Democratic policymakers could block data center projects across the U.S. amid growing voter opposition to their construction. The selling suggests investors are beginning to price in rising local opposition to the data center buildout, with some analysts saying markets have yet to fully weigh the costs it has imposed on U.S. communities.\nThursday was the second straight day of selling in AI shares and the fifth drop of more than 500 points in the Nasdaq Composite since mid-October, as the previously buoyant AI trade has come under growing scrutiny.\nMeanwhile, the latest U.S. jobs report came out on Friday, showing that the U.S. economy added 165,000 jobs in October, well above economists' forecast of 65,000 and up from a revised 60,000 in September.",
+    "text_blocks": [
+      "Investing.com -- U.S. chip stocks rebounded in premarket trading Friday, recovering some ground after a sweeping AI-driven selloff Thursday following the Democrats' midterm election victory earlier this week.",
+      "Investors also got a much stronger-than-expected October jobs report, with payroll growth far exceeding forecasts and figures for prior months revised higher. Stock futures were little affected by the data, but Treasury yields jumped.",
+      "The iShares Semiconductor ETF jumped more than 5% before the open by 08:51 ET, and Nasdaq 100 futures rose 1.3%, after the index suffered its worst day since April 2025 on Thursday. The 10-year yield edged higher to 4.87%.",
+      "Among chipmakers hit hard the previous session, Lam Research surged about 13% in the premarket trade, Micron jumped 8% and Marvell rose around 10%. AMD and Applied Materials surged over 8% each, while Broadcom, Intel and U.S.-listed shares of SK Hynix added between 5% and 6%.",
+      "SanDisk and ARM rose 10.6% and 8%, respectively.",
+      "Cloud-computing stocks also rallied. Astera Labs gained about 8% in premarket trading, while CoreWeave jumped 9.4% and Oracle added 4.4%. European AI-linked stocks, which have fallen sharply since the midterms, staged a modest recovery as well.",
+      "The rebound followed another rough session in Asia. South Korea's Kospi closed more than 6% lower for its worst day since 2025, while Japan's Nikkei 225 neared correction territory. Memory-chip makers Samsung Electronics and SK Hynix fell more than 6% and 10%, respectively.",
+      "Investors have been dumping AI stocks on concerns that Democratic policymakers could block data center projects across the U.S. amid growing voter opposition to their construction. The selling suggests investors are beginning to price in rising local opposition to the data center buildout, with some analysts saying markets have yet to fully weigh the costs it has imposed on U.S. communities.",
+      "Thursday was the second straight day of selling in AI shares and the fifth drop of more than 500 points in the Nasdaq Composite since mid-October, as the previously buoyant AI trade has come under growing scrutiny.",
+      "Meanwhile, the latest U.S. jobs report came out on Friday, showing that the U.S. economy added 165,000 jobs in October, well above economists' forecast of 65,000 and up from a revised 60,000 in September."
+    ],
+    "html": null
+  }
+}

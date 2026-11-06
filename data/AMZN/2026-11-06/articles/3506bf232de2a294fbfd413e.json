@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-tech-stocks-worst-day-since-2020-employment-report/card/growing-pressure-shows-the-ai-buildout-is-starting-to-outrun-big-tech-s-cash-1Kc9jCheHElPbmHQpYHQ?mod=mw_FV",
+    "fetched_at": "2026-11-06T07:00:38.296343-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Growing pressure shows the AI buildout is starting to outrun Big Tech’s cash - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "2 hours ago\nGrowing pressure shows the AI buildout is starting to outrun Big Tech’s cash\nA new report from Forrester Research reckons the AI bubble isn’t bursting yet but the buildout of AI infrastructure is starting to outpace Big Tech’s available cash. The Cambridge, MA-headquartered independent research boutique published a blog Thursday which scrutinized the financial health of the major AI players and concluded that a bursting of the AI bubble is not imminent, signs of strain are showing.\nTheir research illustrates that until September nearly all of the capital investment was paid for through operating cash but since then, the cushion is wearing thin. For example, Amazon spent $77 billion versus $42 billion of cash. Alphabet blew $9 billion more than available cash, Meta by $1.12 billion and both companies sold shares to raise capital in the last few months. Microsoft is still spending its own cash but borrowed money anyway through a filing ro raise $25 billion in bonds.\nMore worryingly, on the fringes of this cohort Oracle spent $1.61 per operating dollar in the year to August. The Forrester report, lead-authored by Brian Hopkins, defines a bubble as “supply built ahead of demand”. They estimate U.S. GDP needs to rise by 5% by 2035 to justify the current level of infrastructure investment.",
+    "text_blocks": [
+      "2 hours ago",
+      "Growing pressure shows the AI buildout is starting to outrun Big Tech’s cash",
+      "A new report from Forrester Research reckons the AI bubble isn’t bursting yet but the buildout of AI infrastructure is starting to outpace Big Tech’s available cash. The Cambridge, MA-headquartered independent research boutique published a blog Thursday which scrutinized the financial health of the major AI players and concluded that a bursting of the AI bubble is not imminent, signs of strain are showing.",
+      "Their research illustrates that until September nearly all of the capital investment was paid for through operating cash but since then, the cushion is wearing thin. For example, Amazon spent $77 billion versus $42 billion of cash. Alphabet blew $9 billion more than available cash, Meta by $1.12 billion and both companies sold shares to raise capital in the last few months. Microsoft is still spending its own cash but borrowed money anyway through a filing ro raise $25 billion in bonds.",
+      "More worryingly, on the fringes of this cohort Oracle spent $1.61 per operating dollar in the year to August. The Forrester report, lead-authored by Brian Hopkins, defines a bubble as “supply built ahead of demand”. They estimate U.S. GDP needs to rise by 5% by 2035 to justify the current level of infrastructure investment."
+    ],
+    "html": null
+  }
+}

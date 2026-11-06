@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/article/why-softbank-stock-is-sinking-under-the-weight-of-its-ai-bets-134912183.html",
+    "fetched_at": "2026-11-06T07:00:46.635169-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why SoftBank stock is sinking under the weight of its AI bets",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The over-the-top tech house Masayoshi Son has spent billions to build at SoftBank (SFTBY) is getting torched, looking at the stock price action.\nSoftBank shares crashed 10.83% in early trading on Friday after losing 14.4% on Thursday as the AI-heavy company was swept into the broader AI stock rout. Sentiment was also dinged by an FT report that China would not allow SoftBank to go ahead with the $5.4 billion acquisition of ABB's robotics division.\nShares are down 45% in the past month.\nThe company's credit risk climbed to its highest level in four years today, as measured by its five-year credit default swap (CDS) spread. The spread widened to as much as 466 basis points, its highest since Oct. 22, Reuters reported.\nThe level indicated a default probability of 30.6%.\nSoftBank's primary asset anchor remains its roughly 90% ownership stake in Arm Holdings (ARM), whose chip architectures power the vast majority of mobile and enterprise AI workloads. With concerns about a \"blue wave\" on Election Day stunting AI demand, a company like Arm is caught in the crosshairs — and by extension so is SoftBank.\nMeanwhile, the company also has a $64.6 billion stake in OpenAI, which had decided to push its IPO out to 2027. But OpenAI's valuation is at risk in light of the blue wave, as seen in chatter that the upcoming Anthropic IPO won't deliver it a $2 trillion valuation as many expected.\nFollow Brian Sozzi on X @BrianSozzi, Instagram, and LinkedIn. Tips on stories? Email him at brian.sozzi@yahoofinance.com.",
+    "text_blocks": [
+      "The over-the-top tech house Masayoshi Son has spent billions to build at SoftBank (SFTBY) is getting torched, looking at the stock price action.",
+      "SoftBank shares crashed 10.83% in early trading on Friday after losing 14.4% on Thursday as the AI-heavy company was swept into the broader AI stock rout. Sentiment was also dinged by an FT report that China would not allow SoftBank to go ahead with the $5.4 billion acquisition of ABB's robotics division.",
+      "Shares are down 45% in the past month.",
+      "The company's credit risk climbed to its highest level in four years today, as measured by its five-year credit default swap (CDS) spread. The spread widened to as much as 466 basis points, its highest since Oct. 22, Reuters reported.",
+      "The level indicated a default probability of 30.6%.",
+      "SoftBank's primary asset anchor remains its roughly 90% ownership stake in Arm Holdings (ARM), whose chip architectures power the vast majority of mobile and enterprise AI workloads. With concerns about a \"blue wave\" on Election Day stunting AI demand, a company like Arm is caught in the crosshairs — and by extension so is SoftBank.",
+      "Meanwhile, the company also has a $64.6 billion stake in OpenAI, which had decided to push its IPO out to 2027. But OpenAI's valuation is at risk in light of the blue wave, as seen in chatter that the upcoming Anthropic IPO won't deliver it a $2 trillion valuation as many expected.",
+      "Follow Brian Sozzi on X @BrianSozzi, Instagram, and LinkedIn. Tips on stories? Email him at brian.sozzi@yahoofinance.com."
+    ],
+    "html": null
+  }
+}

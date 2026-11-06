@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-climb-weak-175650036.html",
+    "fetched_at": "2026-11-06T07:00:43.975451-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "S&P 500 and Nasdaq Climb After Weak Jobs Report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nU.S. stocks climbed Friday as Wall Street reacted to a weaker-than-expected September jobs report, which may reduce pressure on the Federal Reserve to raise interest rates.\nThe Nasdaq Composite gained 1% in morning trading and reached a record level earlier in the session. The S&P 500 advanced 0.7%, while the Dow Jones Industrial Average added 0.3%.\nNvidia (NVDA) led gains among major technology stocks, rising more than 3% to reach a record intraday high. AMD and Intel also advanced, while CrowdStrike and Palo Alto Networks reached record levels.\nU.S. employers added 29,000 jobs in September, below the 84,000 increase economists had expected. The unemployment rate rose to 4.2% from 4.1%, prompting traders to reassess the outlook for monetary policy.\nFed funds futures showed an 86% probability that the central bank will leave interest rates unchanged at its Oct. 27-28 meeting, according to the CME FedWatch Tool. The shift in expectations supported demand for growth-oriented U.S. stocks during Friday's session.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "U.S. stocks climbed Friday as Wall Street reacted to a weaker-than-expected September jobs report, which may reduce pressure on the Federal Reserve to raise interest rates.",
+      "The Nasdaq Composite gained 1% in morning trading and reached a record level earlier in the session. The S&P 500 advanced 0.7%, while the Dow Jones Industrial Average added 0.3%.",
+      "Nvidia (NVDA) led gains among major technology stocks, rising more than 3% to reach a record intraday high. AMD and Intel also advanced, while CrowdStrike and Palo Alto Networks reached record levels.",
+      "U.S. employers added 29,000 jobs in September, below the 84,000 increase economists had expected. The unemployment rate rose to 4.2% from 4.1%, prompting traders to reassess the outlook for monetary policy.",
+      "Fed funds futures showed an 86% probability that the central bank will leave interest rates unchanged at its Oct. 27-28 meeting, according to the CME FedWatch Tool. The shift in expectations supported demand for growth-oriented U.S. stocks during Friday's session."
+    ],
+    "html": null
+  }
+}
