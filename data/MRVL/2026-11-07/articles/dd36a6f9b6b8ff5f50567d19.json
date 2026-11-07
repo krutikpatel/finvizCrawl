@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110626/card/chip-stocks-kick-start-a-rebound-but-are-still-trading-at-a-discount-llFL0kJbaLJsxi0zVkKL?mod=bar_FV",
+    "fetched_at": "2026-11-07T07:00:48.325143-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Chip Bounce Back. They're Still Trading at a Discount.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "7 hours ago\nChip stocks rose, but were still on pace for double-digit losses for the week.\nThe PHLX Semiconductor Index was up 6.4% on Friday, but was still down over 10% for the week.\nAmong the week's worst performers were chipmakers such as Lumentum, which was on pace for a 34% decline. Marvell, Sandisk, and Ciena were all down more than 20% for the week despite surging today.",
+    "text_blocks": [
+      "7 hours ago",
+      "Chip stocks rose, but were still on pace for double-digit losses for the week.",
+      "The PHLX Semiconductor Index was up 6.4% on Friday, but was still down over 10% for the week.",
+      "Among the week's worst performers were chipmakers such as Lumentum, which was on pace for a 34% decline. Marvell, Sandisk, and Ciena were all down more than 20% for the week despite surging today."
+    ],
+    "html": null
+  }
+}

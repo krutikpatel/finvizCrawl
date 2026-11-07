@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/economy/articles/data-centers-unpopular-key-motor-205012753.html",
+    "fetched_at": "2026-11-07T07:00:22.222376-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Data centers are unpopular — and a key motor of economic growth",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The shifting political winds surrounding data centers could buffet the entire U.S. economy, reducing investment in artificial intelligence and slowing growth, according to Wall Street analysts.\nThe historic tide of money pouring into AI, from data centers and frontier models to state-of-the-art chips and networking gear, has boosted business investment and financial markets in recent years. Federal Reserve researchers recently estimated that spending on data centers, power facilities and other AI-related tech equipment accounted for roughly 20% of U.S. gross domestic product over the preceding year.\nIn 2026, spending by \"hyperscalers\" such as Alphabet, Amazon, Meta and Microsoft — the companies racing to build data centers — is set to double to around $800 billion and is expected to reach $1 trillion in 2027, according to Capital Economics. Although slowing that buildout might well serve the public interest, given the widespread opposition to data centers, crimping that flow of dollars will have knock-on economic effects.\n\"Our economy is leveraged on this idea that AI will make us rich,\" economist Allison Schrager with the Manhattan Institute, a nonpartisan think tank, told CBS News. \"There are risks to making it slower — it will mean slower growth.\"\n\"Detrimental effects\"\nEconomists and investors now expect the Democrats' sweeping midterm election wins to both slow and increase the cost of data center development across the U.S. By contrast, those victories are unlikely to completely turn off the spigot, experts said, noting that political opposition to data centers isn't uniform, ranging from support for moratoriums on construction to more moderate proposals.\nAs a result, investment in data centers is likely to continue in the near term, both for projects currently underway and for facilities that have received permits.\nFor companies investing in AI, the bigger issue will be continuing such capital expenditures at the same pace even as the productivity gains and profits AI is expected to deliver remain largely unrealized for now.\n\"The high-level calculations essential to justify that level of CapEx, if sustained, we are talking $2 trillion in revenue for major AI companies by the early 2030s, which seems very unlikely,\" Capital Economics chief North America economist Stephen Brown told CBS News. \"Our view is that because of that, there is likely to be some slowdown in data center construction. We are not saying it will stop altogether, but the level of investment is likely to ease. And that would have some detrimental effects on the U.S. economy.\"",
+    "text_blocks": [
+      "The shifting political winds surrounding data centers could buffet the entire U.S. economy, reducing investment in artificial intelligence and slowing growth, according to Wall Street analysts.",
+      "The historic tide of money pouring into AI, from data centers and frontier models to state-of-the-art chips and networking gear, has boosted business investment and financial markets in recent years. Federal Reserve researchers recently estimated that spending on data centers, power facilities and other AI-related tech equipment accounted for roughly 20% of U.S. gross domestic product over the preceding year.",
+      "In 2026, spending by \"hyperscalers\" such as Alphabet, Amazon, Meta and Microsoft — the companies racing to build data centers — is set to double to around $800 billion and is expected to reach $1 trillion in 2027, according to Capital Economics. Although slowing that buildout might well serve the public interest, given the widespread opposition to data centers, crimping that flow of dollars will have knock-on economic effects.",
+      "\"Our economy is leveraged on this idea that AI will make us rich,\" economist Allison Schrager with the Manhattan Institute, a nonpartisan think tank, told CBS News. \"There are risks to making it slower — it will mean slower growth.\"",
+      "\"Detrimental effects\"",
+      "Economists and investors now expect the Democrats' sweeping midterm election wins to both slow and increase the cost of data center development across the U.S. By contrast, those victories are unlikely to completely turn off the spigot, experts said, noting that political opposition to data centers isn't uniform, ranging from support for moratoriums on construction to more moderate proposals.",
+      "As a result, investment in data centers is likely to continue in the near term, both for projects currently underway and for facilities that have received permits.",
+      "For companies investing in AI, the bigger issue will be continuing such capital expenditures at the same pace even as the productivity gains and profits AI is expected to deliver remain largely unrealized for now.",
+      "\"The high-level calculations essential to justify that level of CapEx, if sustained, we are talking $2 trillion in revenue for major AI companies by the early 2030s, which seems very unlikely,\" Capital Economics chief North America economist Stephen Brown told CBS News. \"Our view is that because of that, there is likely to be some slowdown in data center construction. We are not saying it will stop altogether, but the level of investment is likely to ease. And that would have some detrimental effects on the U.S. economy.\""
+    ],
+    "html": null
+  }
+}

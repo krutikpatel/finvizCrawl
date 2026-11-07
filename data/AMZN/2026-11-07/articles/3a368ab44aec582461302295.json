@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_FV",
+    "fetched_at": "2026-11-07T07:00:36.318668-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Elon Musk opens the door for a big SpaceX acquisition - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Elon Musk opens the door for a big SpaceX acquisition\nThe rocket and satellite-internet company is looking to challenge telecom giants\nElon Musk on Friday indicated he would be open to acquiring a leading telecommunications company as SpaceX looks to challenge major wireless providers like T-Mobile and Verizon.\nMusk told billionaire investor Ron Baron that SpaceX SPCX will be able to “get very far” in its race to compete with telecom giants with the spectrum licenses the company has purchased. Those licenses give a company, such as SpaceX, the right to use specific radio frequency bands.",
+    "text_blocks": [
+      "Elon Musk opens the door for a big SpaceX acquisition",
+      "The rocket and satellite-internet company is looking to challenge telecom giants",
+      "Elon Musk on Friday indicated he would be open to acquiring a leading telecommunications company as SpaceX looks to challenge major wireless providers like T-Mobile and Verizon.",
+      "Musk told billionaire investor Ron Baron that SpaceX SPCX will be able to “get very far” in its race to compete with telecom giants with the spectrum licenses the company has purchased. Those licenses give a company, such as SpaceX, the right to use specific radio frequency bands."
+    ],
+    "html": null
+  }
+}

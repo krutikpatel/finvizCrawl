@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-could-fall-further-181150535.html",
+    "fetched_at": "2026-11-07T07:00:39.492811-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nWarren Pies still believes in the AI boom. But he turned cautious on stocks ahead of Thursday's sharp technology selloff.\nHis firm, 3Fourteen Research, downgraded its outlook for stocks from overweight to neutral, citing weakening market signals and rising borrowing costs. Pies believes the massive AI data-center buildout may itself be pushing interest rates higher.\n\"The path could be very dangerous even if I'm right about the destination,\" he said in a Forward Guidance interview published Wednesday.\nHe also saw political trouble ahead. Speaking on Election Day, Pies said his contacts feared a \"blue tsunami\" and called efforts to slow data-center construction in Texas \"a real risk.\"\nAfter Democrats swept the midterms, fears of tighter restrictions helped fuel Thursday's semiconductor rout. Nvidia (NASDAQ:NVDA) fell 9.3%, while AMD (NASDAQ:AMD) plunged 17.3%. Both stocks rebounded Friday.\nAI Demand Remains Strong\nPies said demand for AI computing power shows no signs of slowing. His firm's research found virtually no Nvidia Blackwell B200 chips available for rent from the specialized cloud providers it monitors.\nThe shortage is reflected in rental prices. While 3Fourteen's models assumed GPU rental rates would fall 25% annually, Silicon Data's B200 benchmark instead climbed nearly 12%, from $5.88 per hour on October 8 to $6.58 Friday.\nConstruction is also moving ahead. Using satellite imagery to track data-center projects, 3Fourteen expects more than 27 gigawatts of additional capacity to come online in 2027.\n\"There's absolutely no signs of an overbuild,\" Pies said.\nThe AI Boom Could Hurt Itself\nPies worries that the enormous spending on AI infrastructure is pushing inflation higher, forcing the Federal Reserve to raise interest rates just as companies increasingly need to borrow money to build new data centers.\n\"The risk is that the Fed doesn't stop until they've broken something in the AI trade in the funding markets,\" he warned.\nBut he believes investors are overreacting by selling both chipmakers and cloud operators.\nHigher borrowing costs could delay new data centers, hurting chip sales. Yet companies with existing computing capacity could benefit as that capacity becomes scarcer and more valuable.\n\"To me this price action is panicky,\" Pies said.\nWhat Would Bring Him Back?\nPies wasn't ready to buy the dip. He wants to see either a clear recovery in stocks or investors becoming so pessimistic that the market may be close to a bottom.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Warren Pies still believes in the AI boom. But he turned cautious on stocks ahead of Thursday's sharp technology selloff.",
+      "His firm, 3Fourteen Research, downgraded its outlook for stocks from overweight to neutral, citing weakening market signals and rising borrowing costs. Pies believes the massive AI data-center buildout may itself be pushing interest rates higher.",
+      "\"The path could be very dangerous even if I'm right about the destination,\" he said in a Forward Guidance interview published Wednesday.",
+      "He also saw political trouble ahead. Speaking on Election Day, Pies said his contacts feared a \"blue tsunami\" and called efforts to slow data-center construction in Texas \"a real risk.\"",
+      "After Democrats swept the midterms, fears of tighter restrictions helped fuel Thursday's semiconductor rout. Nvidia (NASDAQ:NVDA) fell 9.3%, while AMD (NASDAQ:AMD) plunged 17.3%. Both stocks rebounded Friday.",
+      "AI Demand Remains Strong",
+      "Pies said demand for AI computing power shows no signs of slowing. His firm's research found virtually no Nvidia Blackwell B200 chips available for rent from the specialized cloud providers it monitors.",
+      "The shortage is reflected in rental prices. While 3Fourteen's models assumed GPU rental rates would fall 25% annually, Silicon Data's B200 benchmark instead climbed nearly 12%, from $5.88 per hour on October 8 to $6.58 Friday.",
+      "Construction is also moving ahead. Using satellite imagery to track data-center projects, 3Fourteen expects more than 27 gigawatts of additional capacity to come online in 2027.",
+      "\"There's absolutely no signs of an overbuild,\" Pies said.",
+      "The AI Boom Could Hurt Itself",
+      "Pies worries that the enormous spending on AI infrastructure is pushing inflation higher, forcing the Federal Reserve to raise interest rates just as companies increasingly need to borrow money to build new data centers.",
+      "\"The risk is that the Fed doesn't stop until they've broken something in the AI trade in the funding markets,\" he warned.",
+      "But he believes investors are overreacting by selling both chipmakers and cloud operators.",
+      "Higher borrowing costs could delay new data centers, hurting chip sales. Yet companies with existing computing capacity could benefit as that capacity becomes scarcer and more valuable.",
+      "\"To me this price action is panicky,\" Pies said.",
+      "What Would Bring Him Back?",
+      "Pies wasn't ready to buy the dip. He wants to see either a clear recovery in stocks or investors becoming so pessimistic that the market may be close to a bottom."
+    ],
+    "html": null
+  }
+}

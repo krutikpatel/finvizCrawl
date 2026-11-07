@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-falls-10-modest-revenue-142900987.html",
+    "fetched_at": "2026-11-07T07:00:44.725601-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm falls 10% as modest revenue outlook fails to impress investors",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Arm Holdings PLC (NASDAQ:ARM) shares fell 10% to $172.01 on Thursday after quarterly results beat estimates, but revenue guidance landed just above analysts' forecasts.\nThe British semiconductor technology company reported fiscal second-quarter adjusted earnings of $0.52 per share against estimates of $0.47, with revenue of $1.44 billion topping the $1.38 billion consensus.\nFor the third quarter, Arm forecast adjusted earnings of $0.56 per share, plus or minus $0.04, compared with analysts' expectations of $0.55.\nIts revenue outlook similarly offered a modest premium to expectations, with a midpoint of $1.54 billion against the $1.53 billion consensus.\nThe revenue forecast carries a $50 million allowance in either direction, putting the range at $1.49 billion to $1.59 billion.\nIn the reported quarter, revenue grew 27% from a year earlier, including a 50% increase in license and other revenue to $773 million.\nArm's royalty revenue grew more slowly, rising 8% to $670 million as gains from higher rates and increased data-center deployment were partly offset by memory pricing's impact on smartphones.\nThe company also reported adjusted operating income of $638 million, representing an adjusted operating margin of 44%.",
+    "text_blocks": [
+      "Arm Holdings PLC (NASDAQ:ARM) shares fell 10% to $172.01 on Thursday after quarterly results beat estimates, but revenue guidance landed just above analysts' forecasts.",
+      "The British semiconductor technology company reported fiscal second-quarter adjusted earnings of $0.52 per share against estimates of $0.47, with revenue of $1.44 billion topping the $1.38 billion consensus.",
+      "For the third quarter, Arm forecast adjusted earnings of $0.56 per share, plus or minus $0.04, compared with analysts' expectations of $0.55.",
+      "Its revenue outlook similarly offered a modest premium to expectations, with a midpoint of $1.54 billion against the $1.53 billion consensus.",
+      "The revenue forecast carries a $50 million allowance in either direction, putting the range at $1.49 billion to $1.59 billion.",
+      "In the reported quarter, revenue grew 27% from a year earlier, including a 50% increase in license and other revenue to $773 million.",
+      "Arm's royalty revenue grew more slowly, rising 8% to $670 million as gains from higher rates and increased data-center deployment were partly offset by memory pricing's impact on smartphones.",
+      "The company also reported adjusted operating income of $638 million, representing an adjusted operating margin of 44%."
+    ],
+    "html": null
+  }
+}

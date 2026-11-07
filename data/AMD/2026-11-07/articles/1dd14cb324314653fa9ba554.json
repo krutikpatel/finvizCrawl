@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-plunged-thursdays-market-rout-184741428.html",
+    "fetched_at": "2026-11-07T07:00:39.626110-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Semiconductor Plunged in Thursday's Market Rout. These Were the Ones That Lost the Most.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Semiconductor stocks suffered a punishing selloff on Thursday, with the PHLX Semiconductor Index plunging 12.25% as investors reassessed the artificial intelligence spending boom after the midterm elections resulted in a blue wave earlier this week.\nThe collapse hit chip designers, memory manufacturers and equipment suppliers, turning one of Wall Street's strongest growth trades into the center of a broader market rout. The index finished at 9,011.14, which began its biggest daily percentage decline since March 2020. The losses also swept through the most popular semiconductor exchange-traded funds, giving investors holding diversified chip portfolios little protection from the selling.\nAdvanced Micro Devices fell 17.3%, while Nvidia's stock dropped 9.3%. Nvidia's retreat left the AI heavyweight down 2.6% for 2026, marking a sharp reversal for a company whose shares had delivered enormous gains during the previous three years. Its size made the decline particularly consequential for the broader market.\nMemory and manufacturing equipment stocks absorbed even steeper damage as Micron Technology declined 17.46% to $656.39, while Lam Research fell 16.36% to $185.20. Those losses showed that the retreat extended across the companies supplying the components and machinery behind expanding computing capacity.\nThe selling reached investors through two major chip funds. The iShares Semiconductor ETF, known as SOXX, lost 12.15%, closing at $131.90. The VanEck Semiconductor ETF, or SMH, declined 11.21% to $447.73. Through Thursday, their losses for the week stood at approximately 23% and 20%, respectively, the publication reported.\nStill, the semiconductor index remained roughly 25% higher for the year after Thursday's stock plunge. Company earnings added pressure to an already nervous market as Qualcomm's stocks fell 9.5% after fourth-quarter smartphone chip sales missed Wall Street expectations.\nArm Holdings stock also sank about 13%, and its revenue outlook exceeded consensus slightly but failed to satisfy investors expecting more from the artificial intelligence boom. Intel declined about 10%, while SanDisk slid 22%, following a 7% drop in the previous session.\nBehind the sectorwide retreat was growing concern that the construction of AI data centers could slow. Democratic election victories in the midterms have heightened expectations for tougher scrutiny, adding to existing financing pressures. UBS analysts estimated that potential construction pauses could put around 30% of expected U.S. data center capacity additions for 2028 at risk.",
+    "text_blocks": [
+      "Semiconductor stocks suffered a punishing selloff on Thursday, with the PHLX Semiconductor Index plunging 12.25% as investors reassessed the artificial intelligence spending boom after the midterm elections resulted in a blue wave earlier this week.",
+      "The collapse hit chip designers, memory manufacturers and equipment suppliers, turning one of Wall Street's strongest growth trades into the center of a broader market rout. The index finished at 9,011.14, which began its biggest daily percentage decline since March 2020. The losses also swept through the most popular semiconductor exchange-traded funds, giving investors holding diversified chip portfolios little protection from the selling.",
+      "Advanced Micro Devices fell 17.3%, while Nvidia's stock dropped 9.3%. Nvidia's retreat left the AI heavyweight down 2.6% for 2026, marking a sharp reversal for a company whose shares had delivered enormous gains during the previous three years. Its size made the decline particularly consequential for the broader market.",
+      "Memory and manufacturing equipment stocks absorbed even steeper damage as Micron Technology declined 17.46% to $656.39, while Lam Research fell 16.36% to $185.20. Those losses showed that the retreat extended across the companies supplying the components and machinery behind expanding computing capacity.",
+      "The selling reached investors through two major chip funds. The iShares Semiconductor ETF, known as SOXX, lost 12.15%, closing at $131.90. The VanEck Semiconductor ETF, or SMH, declined 11.21% to $447.73. Through Thursday, their losses for the week stood at approximately 23% and 20%, respectively, the publication reported.",
+      "Still, the semiconductor index remained roughly 25% higher for the year after Thursday's stock plunge. Company earnings added pressure to an already nervous market as Qualcomm's stocks fell 9.5% after fourth-quarter smartphone chip sales missed Wall Street expectations.",
+      "Arm Holdings stock also sank about 13%, and its revenue outlook exceeded consensus slightly but failed to satisfy investors expecting more from the artificial intelligence boom. Intel declined about 10%, while SanDisk slid 22%, following a 7% drop in the previous session.",
+      "Behind the sectorwide retreat was growing concern that the construction of AI data centers could slow. Democratic election victories in the midterms have heightened expectations for tougher scrutiny, adding to existing financing pressures. UBS analysts estimated that potential construction pauses could put around 30% of expected U.S. data center capacity additions for 2028 at risk."
+    ],
+    "html": null
+  }
+}

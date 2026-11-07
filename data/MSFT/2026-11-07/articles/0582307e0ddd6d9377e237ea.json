@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/iren-stock-rebounds-as-ai-quarterly-revenue-surges-150602239.html",
+    "fetched_at": "2026-11-07T07:00:24.727885-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Iren stock rebounds as company's Q1 AI cloud revenue surges",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Iren (IREN) stock surged on Friday as the data center operator reported strong growth in its artificial intelligence cloud business in its fiscal first quarter.\nIren shares jumped more than 20% on Friday, rebounding from a roughly 17% decline in the previous session amid a broader sell-off in the AI trade. Despite the recovery, Iren shares remain down more than 50% year to date as investor concerns over AI infrastructure spending, financing requirements and data center expansion have weighed on the sector. The company, which has transitioned from bitcoin (BTC-USD) mining into AI cloud and data center infrastructure, has been particularly affected by the recent pullback in neocloud stocks.\nIren, whose customers include Microsoft (MSFT), reported $200 million in AI revenue during the three months ending Sept. 30, up from $71 million in the previous quarter and $7 million in the year-earlier period.\nHowever, the company posted a quarterly loss of $263 million, wider than the average analyst estimate compiled by Bloomberg.\nIren's AI Cloud gross margin of 86% came in line with the prior quarter.\nIren said it expanded an existing agreement with a leading frontier AI lab and separately signed a new five-year contract under which the customer prepaid approximately 90% of the associated GPU costs, reducing the need for additional debt financing.\nThe company also pushed back its timeline for reaching a $4 billion annualized revenue target, now expecting to hit the milestone in January or February, compared with its previous December forecast. The delay reflects supply constraints affecting critical equipment as well as a design change requested by Microsoft that has slowed development of a data center project in Texas.",
+    "text_blocks": [
+      "Iren (IREN) stock surged on Friday as the data center operator reported strong growth in its artificial intelligence cloud business in its fiscal first quarter.",
+      "Iren shares jumped more than 20% on Friday, rebounding from a roughly 17% decline in the previous session amid a broader sell-off in the AI trade. Despite the recovery, Iren shares remain down more than 50% year to date as investor concerns over AI infrastructure spending, financing requirements and data center expansion have weighed on the sector. The company, which has transitioned from bitcoin (BTC-USD) mining into AI cloud and data center infrastructure, has been particularly affected by the recent pullback in neocloud stocks.",
+      "Iren, whose customers include Microsoft (MSFT), reported $200 million in AI revenue during the three months ending Sept. 30, up from $71 million in the previous quarter and $7 million in the year-earlier period.",
+      "However, the company posted a quarterly loss of $263 million, wider than the average analyst estimate compiled by Bloomberg.",
+      "Iren's AI Cloud gross margin of 86% came in line with the prior quarter.",
+      "Iren said it expanded an existing agreement with a leading frontier AI lab and separately signed a new five-year contract under which the customer prepaid approximately 90% of the associated GPU costs, reducing the need for additional debt financing.",
+      "The company also pushed back its timeline for reaching a $4 billion annualized revenue target, now expecting to hit the milestone in January or February, compared with its previous December forecast. The delay reflects supply constraints affecting critical equipment as well as a design change requested by Microsoft that has slowed development of a data center project in Texas."
+    ],
+    "html": null
+  }
+}

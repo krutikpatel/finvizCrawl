@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/oracle-stock-microsoft-ai-cloud-1f1b4f78?mod=bar_FV",
+    "fetched_at": "2026-11-07T07:00:19.337258-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft to Wind Down Renting of AI Cloud Capacity From Oracle: Report<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft Won’t Renew Deal for Renting AI Cloud Capacity From Oracle: Report\nShares of Oracle turned slightly higher Friday following a report that said Microsoft was bringing to an end an agreement to rent artificial-intelligence computing capacity from Oracle.",
+    "text_blocks": [
+      "Microsoft Won’t Renew Deal for Renting AI Cloud Capacity From Oracle: Report",
+      "Shares of Oracle turned slightly higher Friday following a report that said Microsoft was bringing to an end an agreement to rent artificial-intelligence computing capacity from Oracle."
+    ],
+    "html": null
+  }
+}

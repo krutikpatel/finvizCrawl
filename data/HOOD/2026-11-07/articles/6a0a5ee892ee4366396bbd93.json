@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tokenized-stocks-okx-ice-company-objections-b183cb0a?mod=bar_FV",
+    "fetched_at": "2026-11-07T07:00:16.484021-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What If the Only Companies That Let Their Stocks Be Tokenized Are Crypto Firms?<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "What If the Only Companies That Let Their Stocks Be Tokenized Are Crypto Firms?\nThe tokenized stock market planned by crypto firm OKX and New York Stock Exchange-owner Intercontinental Exchange has run into a major roadblock. The problem? Companies outside the crypto industry are saying no.",
+    "text_blocks": [
+      "What If the Only Companies That Let Their Stocks Be Tokenized Are Crypto Firms?",
+      "The tokenized stock market planned by crypto firm OKX and New York Stock Exchange-owner Intercontinental Exchange has run into a major roadblock. The problem? Companies outside the crypto industry are saying no."
+    ],
+    "html": null
+  }
+}

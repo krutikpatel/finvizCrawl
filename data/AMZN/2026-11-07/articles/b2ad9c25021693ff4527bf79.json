@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/citi-raises-ai-revenue-forecasts-114800473.html",
+    "fetched_at": "2026-11-07T07:00:36.663809-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Citi Raises AI Revenue Forecasts Through 2028 as Cloud Demand Accelerates",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Citi has increased its artificial intelligence service revenue forecasts for 2026 through 2028, citing sustained demand for AI services and stronger monetisation across major cloud computing providers.\nThe investment bank raised its AI revenue estimates by 9% for 2026, 7% for 2027 and 17% for 2028, reflecting expectations for continued expansion in AI-related cloud services.\nCombined revenue growth at Amazon Web Services (AWS), Meta Platforms (NASDAQ:META), Google (NASDAQ:GOOG) and Microsoft (NASDAQ:MSFT) accelerated to 25% year over year in the third quarter.\nMeanwhile, cloud revenue growth among the three largest providers reached 56%, compared with 48% in the second quarter and 39% in the first quarter.\nAWS, Google and Microsoft Report Strong AI Adoption\nAmazon (NASDAQ:AMZN) projected AWS revenue growth exceeding 40% in both fiscal 2027 and 2028, reflecting expectations for sustained demand for cloud infrastructure.\nGoogle Cloud Platform reported that 2,600 customers consumed more than 100 billion tokens over the preceding 12 months, up from 2,000 customers in the second quarter.\nMicrosoft also recorded growing enterprise adoption, with the number of Microsoft 365 Copilot customers using consumption-based billing increasing more than 75% quarter over quarter.\nAdditionally, spending by Fortune 500 companies on AWS increased nearly sevenfold compared with the previous year.\nThe figures highlighted expanding corporate use of AI services and growing demand for computing capacity.\nHyperscaler Backlogs Continue Growing Despite Slower Additions\nAlthough AI demand remained strong, Citi identified some moderation in new backlog additions among major cloud providers.\nCombined quarterly backlog additions declined to $128 billion from $237 billion in the second quarter.\nTotal hyperscaler backlogs increased 142% year over year, although the growth rate slowed by nine percentage points compared with the previous quarter, against a comparison base that was 14 percentage points more demanding.\nMicrosoft's commercial bookings fell 11% in constant currency, partly reflecting unusually large Azure commitments recorded in the previous year.\nDespite the slower pace of new commitments, the substantial increase in existing backlogs continued to indicate significant contracted demand for cloud services.\nGlobal AI Investment Expected to Reach $1.68 Trillion in 2027\nCiti forecasts worldwide AI capital expenditure of $1.68 trillion in calendar 2027, representing a 64% increase from 2026.\nThe four largest hyperscalers are expected to account for approximately 64% of total spending, highlighting the concentration of infrastructure investment among major technology companies.",
+    "text_blocks": [
+      "Citi has increased its artificial intelligence service revenue forecasts for 2026 through 2028, citing sustained demand for AI services and stronger monetisation across major cloud computing providers.",
+      "The investment bank raised its AI revenue estimates by 9% for 2026, 7% for 2027 and 17% for 2028, reflecting expectations for continued expansion in AI-related cloud services.",
+      "Combined revenue growth at Amazon Web Services (AWS), Meta Platforms (NASDAQ:META), Google (NASDAQ:GOOG) and Microsoft (NASDAQ:MSFT) accelerated to 25% year over year in the third quarter.",
+      "Meanwhile, cloud revenue growth among the three largest providers reached 56%, compared with 48% in the second quarter and 39% in the first quarter.",
+      "AWS, Google and Microsoft Report Strong AI Adoption",
+      "Amazon (NASDAQ:AMZN) projected AWS revenue growth exceeding 40% in both fiscal 2027 and 2028, reflecting expectations for sustained demand for cloud infrastructure.",
+      "Google Cloud Platform reported that 2,600 customers consumed more than 100 billion tokens over the preceding 12 months, up from 2,000 customers in the second quarter.",
+      "Microsoft also recorded growing enterprise adoption, with the number of Microsoft 365 Copilot customers using consumption-based billing increasing more than 75% quarter over quarter.",
+      "Additionally, spending by Fortune 500 companies on AWS increased nearly sevenfold compared with the previous year.",
+      "The figures highlighted expanding corporate use of AI services and growing demand for computing capacity.",
+      "Hyperscaler Backlogs Continue Growing Despite Slower Additions",
+      "Although AI demand remained strong, Citi identified some moderation in new backlog additions among major cloud providers.",
+      "Combined quarterly backlog additions declined to $128 billion from $237 billion in the second quarter.",
+      "Total hyperscaler backlogs increased 142% year over year, although the growth rate slowed by nine percentage points compared with the previous quarter, against a comparison base that was 14 percentage points more demanding.",
+      "Microsoft's commercial bookings fell 11% in constant currency, partly reflecting unusually large Azure commitments recorded in the previous year.",
+      "Despite the slower pace of new commitments, the substantial increase in existing backlogs continued to indicate significant contracted demand for cloud services.",
+      "Global AI Investment Expected to Reach $1.68 Trillion in 2027",
+      "Citi forecasts worldwide AI capital expenditure of $1.68 trillion in calendar 2027, representing a 64% increase from 2026.",
+      "The four largest hyperscalers are expected to account for approximately 64% of total spending, highlighting the concentration of infrastructure investment among major technology companies."
+    ],
+    "html": null
+  }
+}

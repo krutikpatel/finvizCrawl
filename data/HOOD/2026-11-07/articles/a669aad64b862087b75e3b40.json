@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/advisor/articles/anthropic-ant-ipo-brokerage-firms-afe39034?mod=bar_FV",
+    "fetched_at": "2026-11-07T07:00:16.464971-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic IPO: How to Buy the Stock Before It Hits the Open Market<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Anthropic plans to give individual investors a chance to buy shares of the company when it goes public as early as this month. The artificial intelligence company anticipates allocating a portion of IPO shares to brokerage customers of Charles Schwab, Fidelity, Robinhood Financial (including its TradePMR unit), SoFi, and Morgan Stanley’s E*Trade, according to a Nov. 2 regulatory filing.",
+    "text_blocks": [
+      "Anthropic plans to give individual investors a chance to buy shares of the company when it goes public as early as this month. The artificial intelligence company anticipates allocating a portion of IPO shares to brokerage customers of Charles Schwab, Fidelity, Robinhood Financial (including its TradePMR unit), SoFi, and Morgan Stanley’s E*Trade, according to a Nov. 2 regulatory filing."
+    ],
+    "html": null
+  }
+}

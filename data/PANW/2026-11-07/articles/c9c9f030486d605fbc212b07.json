@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-stocks-surges-165704353.html",
+    "fetched_at": "2026-11-07T07:00:42.308965-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks Stocks Surges 2.4% as AI Defense Becomes Continuous Service",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalo Alto Networks (NASDAQ:PANW), the cybersecurity-platform company, introduced Unit 42 Continuous Frontier AI Defense on September 22, with shares up approximately 2.4% to $397.74 at around 10:29 a.m. ET Wednesday. The service gives customers ongoing security testing through an annual subscription. The valuation leaves little room for disappointment: shares stand 70.08% above the $233.85 GF Value estimate.\nThe service brings together Anthropic's Claude Mythos 5, OpenAI's GPT-5.6-Cyber and open-weight models to hunt for weaknesses and test whether attackers could exploit them. Palo Alto says its system recommends prioritized fixes, code changes and virtual patches, while security specialists verify findings and attack paths. The pitch is straightforward: keep testing as customers' systems change, then turn discoveries into fixes.\nFor investors, annual subscriptions could make security consulting revenue more predictable. But recurring billing alone does not guarantee attractive margins. AI usage and specialist reviews still carry costs. Renewals, service profitability and the amount of remediation that can be automated will determine whether this becomes a scalable earnings engine. At this valuation, a compelling product needs to deliver compelling economics.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palo Alto Networks (NASDAQ:PANW), the cybersecurity-platform company, introduced Unit 42 Continuous Frontier AI Defense on September 22, with shares up approximately 2.4% to $397.74 at around 10:29 a.m. ET Wednesday. The service gives customers ongoing security testing through an annual subscription. The valuation leaves little room for disappointment: shares stand 70.08% above the $233.85 GF Value estimate.",
+      "The service brings together Anthropic's Claude Mythos 5, OpenAI's GPT-5.6-Cyber and open-weight models to hunt for weaknesses and test whether attackers could exploit them. Palo Alto says its system recommends prioritized fixes, code changes and virtual patches, while security specialists verify findings and attack paths. The pitch is straightforward: keep testing as customers' systems change, then turn discoveries into fixes.",
+      "For investors, annual subscriptions could make security consulting revenue more predictable. But recurring billing alone does not guarantee attractive margins. AI usage and specialist reviews still carry costs. Renewals, service profitability and the amount of remediation that can be automated will determine whether this becomes a scalable earnings engine. At this valuation, a compelling product needs to deliver compelling economics."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/goldman-raises-global-data-center-004019419.html",
+    "fetched_at": "2026-11-07T07:00:19.620362-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Goldman Sachs raised its forecast for global data center capacity to 273 gigawatts by 2030 from 217 gigawatts previously, citing stronger artificial intelligence infrastructure demand and expectations for further project announcements.\nThe revised outlook implies 170 GW of additional capacity from 2025, when worldwide supply stood at approximately 103 GW, according to a November 2 research note.\nThe expansion could require $8.5 trillion in cumulative capital expenditure over five years, based on an estimated $50 billion per gigawatt, including computing infrastructure.\nAnnual global capacity additions are projected to reach 25 GW in 2026, 32 GW in 2027 and 35 GW in 2028. Longer-term forecasts were increased to account for projects not yet announced.\nThe U.S. capacity estimate rose to 152 GW by 2030 from 125 GW previously, representing 103 GW of new capacity after 2025. The country is expected to account for roughly 60% to 70% of worldwide additions through 2030.\nExpanding cloud, neocloud and related facilities supporting demand for graphics processing units contributed to the U.S. revision. Those categories added 11.8 GW to cumulative capacity forecasts for 2026 through 2030.\nLarge high-performance computing facilities associated with AI workloads are expected to dominate construction. Projects of at least 75 megawatts could represent 66% of global additions and 75% of U.S. additions by 2028.\nConsensus projections for selected U.S. technology and cloud companies indicate annual capital expenditure could reach approximately $1.74 trillion by 2030, compared with $457 billion in 2025.\nThe outlook also identifies mounting construction risks, including limited power availability, permitting delays, community opposition and rising financing costs. High-performance computing developments typically rely on debt financing covering 80% to 90% of project costs.\nProjects with secured electricity supplies and clear regulatory approvals are seen as better positioned to proceed, particularly as developers confront tighter financing conditions and heightened scrutiny of new facilities.\nOriginal Article\nGoldman raises global data center capacity forecast to 273 GW by 2030\nNvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg\nS&P revises Boston Scientific outlook to negative on franchise pressures",
+    "text_blocks": [
+      "Investing.com -- Goldman Sachs raised its forecast for global data center capacity to 273 gigawatts by 2030 from 217 gigawatts previously, citing stronger artificial intelligence infrastructure demand and expectations for further project announcements.",
+      "The revised outlook implies 170 GW of additional capacity from 2025, when worldwide supply stood at approximately 103 GW, according to a November 2 research note.",
+      "The expansion could require $8.5 trillion in cumulative capital expenditure over five years, based on an estimated $50 billion per gigawatt, including computing infrastructure.",
+      "Annual global capacity additions are projected to reach 25 GW in 2026, 32 GW in 2027 and 35 GW in 2028. Longer-term forecasts were increased to account for projects not yet announced.",
+      "The U.S. capacity estimate rose to 152 GW by 2030 from 125 GW previously, representing 103 GW of new capacity after 2025. The country is expected to account for roughly 60% to 70% of worldwide additions through 2030.",
+      "Expanding cloud, neocloud and related facilities supporting demand for graphics processing units contributed to the U.S. revision. Those categories added 11.8 GW to cumulative capacity forecasts for 2026 through 2030.",
+      "Large high-performance computing facilities associated with AI workloads are expected to dominate construction. Projects of at least 75 megawatts could represent 66% of global additions and 75% of U.S. additions by 2028.",
+      "Consensus projections for selected U.S. technology and cloud companies indicate annual capital expenditure could reach approximately $1.74 trillion by 2030, compared with $457 billion in 2025.",
+      "The outlook also identifies mounting construction risks, including limited power availability, permitting delays, community opposition and rising financing costs. High-performance computing developments typically rely on debt financing covering 80% to 90% of project costs.",
+      "Projects with secured electricity supplies and clear regulatory approvals are seen as better positioned to proceed, particularly as developers confront tighter financing conditions and heightened scrutiny of new facilities.",
+      "Original Article",
+      "Goldman raises global data center capacity forecast to 273 GW by 2030",
+      "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+      "S&P revises Boston Scientific outlook to negative on franchise pressures"
+    ],
+    "html": null
+  }
+}

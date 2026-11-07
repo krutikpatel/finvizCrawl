@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/meta-pauses-data-scraping-terms-222934008.html",
+    "fetched_at": "2026-11-07T07:00:08.821782-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta Pauses Data-Scraping Terms Following Publisher Criticism",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Following widespread criticism, Meta has indefinitely delayed proposed terms that would have allowed Instagram and Facebook to scrape the websites of Meta Business account holders for thecompany's AI model training purposes.\nMeta has officially taken down the link to the controversial terms, publishing a statement on its Business Help Center on Nov. 5 explainingthat the terms updates in question \"are now paused and will not take effect on November 20, 2026.\"\n\"We are continuing to consult with stakeholders and will provide a furtherupdate when we have more to share,\" the company's statement continues, adding that \"in the meantime, our existing terms remain in effect.\"\nOriginally introduced inmid-October, the new media terms would have allowed Meta to scrape content from news sites and use that content to train the company's evolving AI products.\nLess than a week later, Metapostponed the date of the updated commercial terms from Oct. 30 to Nov. 20, as a way to give the company \"more time to explain to our partners and stakeholders what is changing and what isnot,\" according to a company spokesperson at the time.\nThe tech giant's initial postponement came after a wave of complaints were issued by digital publishers and advertisers withregulatory authorities in the EU and UK regarding content competition concerns.\nNot long after the postponement, ten media groups in Norway took legal action against Meta, seeking to blockimplementation of the media terms, fearing that Meta would \"use this power to secure rights over journalistic content.\"\n\"We've heard publishers' feedback on ourproposed ads and business terms update,\" reads a recent X post from Andy Stone, Meta's vice president of communications,adding that a terms delay was likely to ensue.\nIn addition to Norway, Brazil has also issued preliminary actions to block the terms from taking effect, and the UK's competition andmarkets authority has opened a formal investigation into Meta, regarding the possible abuse of its \"dominant position by imposing exploitative terms on publishers and advertisers.\"\nIn the U.S., both Democratic and Republican senators sent letters to Mark Zuckerberg asking the Meta CEO to withdraw the proposed terms.\n\"Forcing publishers to choose betweensurrendering their off-platform IP or forfeiting a primary channel of public communication is a gross abuse of Meta's power as a powerful platform with critical access to consumers,\"Senator Adam Schiff wrote in a letter. \"Meta must not nullify federal IP protections and fair market competition through the unilateral insertion of fine print into terms of servicecontracts.\"",
+    "text_blocks": [
+      "Following widespread criticism, Meta has indefinitely delayed proposed terms that would have allowed Instagram and Facebook to scrape the websites of Meta Business account holders for thecompany's AI model training purposes.",
+      "Meta has officially taken down the link to the controversial terms, publishing a statement on its Business Help Center on Nov. 5 explainingthat the terms updates in question \"are now paused and will not take effect on November 20, 2026.\"",
+      "\"We are continuing to consult with stakeholders and will provide a furtherupdate when we have more to share,\" the company's statement continues, adding that \"in the meantime, our existing terms remain in effect.\"",
+      "Originally introduced inmid-October, the new media terms would have allowed Meta to scrape content from news sites and use that content to train the company's evolving AI products.",
+      "Less than a week later, Metapostponed the date of the updated commercial terms from Oct. 30 to Nov. 20, as a way to give the company \"more time to explain to our partners and stakeholders what is changing and what isnot,\" according to a company spokesperson at the time.",
+      "The tech giant's initial postponement came after a wave of complaints were issued by digital publishers and advertisers withregulatory authorities in the EU and UK regarding content competition concerns.",
+      "Not long after the postponement, ten media groups in Norway took legal action against Meta, seeking to blockimplementation of the media terms, fearing that Meta would \"use this power to secure rights over journalistic content.\"",
+      "\"We've heard publishers' feedback on ourproposed ads and business terms update,\" reads a recent X post from Andy Stone, Meta's vice president of communications,adding that a terms delay was likely to ensue.",
+      "In addition to Norway, Brazil has also issued preliminary actions to block the terms from taking effect, and the UK's competition andmarkets authority has opened a formal investigation into Meta, regarding the possible abuse of its \"dominant position by imposing exploitative terms on publishers and advertisers.\"",
+      "In the U.S., both Democratic and Republican senators sent letters to Mark Zuckerberg asking the Meta CEO to withdraw the proposed terms.",
+      "\"Forcing publishers to choose betweensurrendering their off-platform IP or forfeiting a primary channel of public communication is a gross abuse of Meta's power as a powerful platform with critical access to consumers,\"Senator Adam Schiff wrote in a letter. \"Meta must not nullify federal IP protections and fair market competition through the unilateral insertion of fine print into terms of servicecontracts.\""
+    ],
+    "html": null
+  }
+}

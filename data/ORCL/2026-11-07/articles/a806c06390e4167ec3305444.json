@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-limits-could-help-202448432.html",
+    "fetched_at": "2026-11-07T07:00:19.631566-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "How AI spending limits could help hyperscaler bonds but hurt stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- A regulatory brake on AI data-center spending could be good for hyperscaler bonds and bad for their stocks. The two groups want different things from the same company.\nWhy bondholders could win\n-\nLess borrowing. Slower data-center building means fewer new bond issues. That leaves less debt against the same earnings.\n-\nMore cash left over. If the capacity is \"already sold,\" revenue from existing contracts keeps arriving. With less capital spending, more of it is free cash flow, which is what covers interest and principal.\n-\nA fixed payoff. A bondholder who holds to maturity gets the coupon plus principal and nothing extra. Safety matters more than growth.\nWhy shareholders lose\nEquity values future growth. Slower expansion could cap future income, so stocks absorb the damage. The same applies to the China risk. If US firms are slowed and Chinese rivals gain ground, shareholders lose the upside. Bondholders mostly don't, unless the loss gets bad enough to threaten repayment.\nThe author flags one real danger for bonds: a company that grows faster than it can afford. That is a credit problem, and it is where the brake could help.\nWhat spreads are saying\nA spread is the extra yield a bond pays over a safe benchmark, so it measures perceived credit risk. Wider spreads mean the market demands more compensation.\n-\nHyperscaler spreads have widened in recent weeks. Most of it comes from Oracle and SpaceX, which the market already treats as risky because they keep burning cash.\n-\nIt isn't only hyperscalers. Sector spreads still rose after the six hyperscalers were removed. That points to a broader pullback in credit risk appetite, which began before the US midterm election. AI-spending worries are part of the cause.\n-\nHigh-grade credit is calm. The Bloomberg US Corporate index spread rose 2 bps Thursday after falling 2 bps Wednesday. Despite this week's volatility, investment-grade credit barely moved.\n-\nHigh yield is volatile but flat on the week. Spreads closed Thursday where they were last Friday. The author notes hyperscalers aren't in junk \"yet\", which hints that a deterioration could eventually push them there.\nTakeaways\n-\nA spending cap shifts value from future growth, which stocks price, to current cash flow, which bonds price.\n-\nMuch of the recent widening comes from a few cash-burning names, not the whole group.\n-\nThe broad credit market hasn't panicked. The unease is concentrated and still building.",
+    "text_blocks": [
+      "Investing.com -- A regulatory brake on AI data-center spending could be good for hyperscaler bonds and bad for their stocks. The two groups want different things from the same company.",
+      "Why bondholders could win",
+      "-",
+      "Less borrowing. Slower data-center building means fewer new bond issues. That leaves less debt against the same earnings.",
+      "-",
+      "More cash left over. If the capacity is \"already sold,\" revenue from existing contracts keeps arriving. With less capital spending, more of it is free cash flow, which is what covers interest and principal.",
+      "-",
+      "A fixed payoff. A bondholder who holds to maturity gets the coupon plus principal and nothing extra. Safety matters more than growth.",
+      "Why shareholders lose",
+      "Equity values future growth. Slower expansion could cap future income, so stocks absorb the damage. The same applies to the China risk. If US firms are slowed and Chinese rivals gain ground, shareholders lose the upside. Bondholders mostly don't, unless the loss gets bad enough to threaten repayment.",
+      "The author flags one real danger for bonds: a company that grows faster than it can afford. That is a credit problem, and it is where the brake could help.",
+      "What spreads are saying",
+      "A spread is the extra yield a bond pays over a safe benchmark, so it measures perceived credit risk. Wider spreads mean the market demands more compensation.",
+      "-",
+      "Hyperscaler spreads have widened in recent weeks. Most of it comes from Oracle and SpaceX, which the market already treats as risky because they keep burning cash.",
+      "-",
+      "It isn't only hyperscalers. Sector spreads still rose after the six hyperscalers were removed. That points to a broader pullback in credit risk appetite, which began before the US midterm election. AI-spending worries are part of the cause.",
+      "-",
+      "High-grade credit is calm. The Bloomberg US Corporate index spread rose 2 bps Thursday after falling 2 bps Wednesday. Despite this week's volatility, investment-grade credit barely moved.",
+      "-",
+      "High yield is volatile but flat on the week. Spreads closed Thursday where they were last Friday. The author notes hyperscalers aren't in junk \"yet\", which hints that a deterioration could eventually push them there.",
+      "Takeaways",
+      "-",
+      "A spending cap shifts value from future growth, which stocks price, to current cash flow, which bonds price.",
+      "-",
+      "Much of the recent widening comes from a few cash-burning names, not the whole group.",
+      "-",
+      "The broad credit market hasn't panicked. The unease is concentrated and still building."
+    ],
+    "html": null
+  }
+}

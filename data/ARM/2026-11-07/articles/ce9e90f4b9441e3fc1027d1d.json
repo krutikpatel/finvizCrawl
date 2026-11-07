@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=wsj_FV",
+    "fetched_at": "2026-11-07T07:00:44.547185-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq Futures Rise After Asian Indexes Slump in Global Market Selloff - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "The AI trade has for now stopped spiraling, after a bruising selloff that set back the Nasdaq by about $2.5 trillion yesterday.\nThe tech-heavy index is gaining more than 1%, reversing some of Thursday’s historic losses. The Dow, on the other hand, is about flat on the day after paring morning losses.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "The AI trade has for now stopped spiraling, after a bruising selloff that set back the Nasdaq by about $2.5 trillion yesterday.",
+      "The tech-heavy index is gaining more than 1%, reversing some of Thursday’s historic losses. The Dow, on the other hand, is about flat on the day after paring morning losses.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/oklo-earnings-stock-price-2be6ef11?mod=bar_FV",
+    "fetched_at": "2026-11-07T07:00:08.646816-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oklo Stock Jumps on Promising Updates on Its Novel Nuclear Reactors<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nuclear Reactor Firm Oklo Beats Earnings Expectations. That’s Not Why the Stock Is Up.\nShares of nuclear reactor start-up Oklo, formerly chaired by OpenAI CEO Sam Altman, closed sharply higher Friday following its third quarter earnings report.\nShares of nuclear reactor start-up Oklo, formerly chaired by OpenAI CEO Sam Altman, closed sharply higher Friday following its third quarter earnings report.",
+    "text_blocks": [
+      "Nuclear Reactor Firm Oklo Beats Earnings Expectations. That’s Not Why the Stock Is Up.",
+      "Shares of nuclear reactor start-up Oklo, formerly chaired by OpenAI CEO Sam Altman, closed sharply higher Friday following its third quarter earnings report.",
+      "Shares of nuclear reactor start-up Oklo, formerly chaired by OpenAI CEO Sam Altman, closed sharply higher Friday following its third quarter earnings report."
+    ],
+    "html": null
+  }
+}
