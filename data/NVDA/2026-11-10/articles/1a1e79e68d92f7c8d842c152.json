@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/data-news/nvidia-corp-caterpillar-share-losses-contribute-to-dow-s-210-point-drop-8ad3623b-250b450b8dd0?mod=mw_FV",
+    "fetched_at": "2026-11-10T07:00:33.678596-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "NVIDIA Corp., Caterpillar share losses contribute to Dow's 210-point drop - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Dow Update\nNVIDIA Corp., Caterpillar share losses contribute to Dow's 210-point drop\nDragged down by negative returns for shares of NVIDIA Corp. and Caterpillar, the Dow Jones Industrial Average is declining Tuesday morning.\nShares of NVIDIA Corp. NVIDIA Corp. and Caterpillar Caterpillar Inc. have contributed to the blue-chip gauge's intraday decline, as the Dow Dow Jones Industrial Average was most recently trading 210 points lower (-0.4%).\nAbout the Author",
+    "text_blocks": [
+      "Dow Update",
+      "NVIDIA Corp., Caterpillar share losses contribute to Dow's 210-point drop",
+      "Dragged down by negative returns for shares of NVIDIA Corp. and Caterpillar, the Dow Jones Industrial Average is declining Tuesday morning.",
+      "Shares of NVIDIA Corp. NVIDIA Corp. and Caterpillar Caterpillar Inc. have contributed to the blue-chip gauge's intraday decline, as the Dow Dow Jones Industrial Average was most recently trading 210 points lower (-0.4%).",
+      "About the Author"
+    ],
+    "html": null
+  }
+}

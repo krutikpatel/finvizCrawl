@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html",
+    "fetched_at": "2026-11-10T07:00:21.489159-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google's chip business is on a faster track than Nvidia's own AI boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia (NVDA) is investigating its own CEO. Google (GOOGL) is busy building the chips that could take Nvidia's customers.\nNvidia fell more than 4% Monday to its lowest close since April 7 as its board looks into CEO Jensen Huang's relationship with an alleged Chinese spy. That came even as chip stocks rallied, with the iShares Semiconductor ETF (SOXX) up more than 7%. Alphabet rose about 1%. It's the latest chapter in Wall Street's first $4.5 trillion CEO scandal.\nGoogle introduced two new tensor processing units, or TPUs — its homegrown AI chips — on Monday. The TPU 8tx and TPU 8i Max join the 8t and 8i it unveiled in April, the first time Google has introduced four TPU systems in a single year. Both new chips ship next year.\nThink of it as a chip menu. The 8tx keeps data encrypted for governments, banks, and other regulated businesses, paired with processors from AMD (AMD). The 8i Max squeezes two chips into one package for requests with long context windows — the amount of information an AI model can juggle at once.\nThe forecasts are the eye-popper. Bloomberg Intelligence sees TPU sales rising from about $12 billion this year to more than $135 billion by 2028, not counting chips rented through Google Cloud. That's more than 11-fold in two years.\nNvidia's data center business grew nearly eightfold in the first two years of the AI boom, from $15 billion in fiscal 2023 to $115 billion in fiscal 2025.\nThe chips are already flying off the line. Epoch AI estimates TPU shipments doubled in computing power in a single quarter this year, to roughly 800,000 chips.\nAnthropic is the headliner. Its IPO filing shows about $161 billion of lease payments tied to TPUs, which Raymond James says makes it the biggest custom-chip customer of Google's design partner, Broadcom (AVGO). Meta (META), OpenAI and Oracle (ORCL) are buyers too.\nGoogle used to roll out about one data center TPU a year. Now it has one for every job.\nNvidia still has the bigger engine.\nIts next-generation Rubin chip is rated at 35 petaflops — a measure of raw computing speed — compared with about 10 for Google's 8i and about 20 for the 8i Max, according to Yahoo Finance calculations.\nGoogle is selling on price. SemiAnalysis found that Google's current Ironwood TPU delivers up to nearly three times as much AI output per dollar as Nvidia's Blackwell chips when running AI agents, though Nvidia's top system still wins when speed is everything.\nForecasts aren't sales, and Nvidia still sells far more AI chips than anyone else.",
+    "text_blocks": [
+      "Nvidia (NVDA) is investigating its own CEO. Google (GOOGL) is busy building the chips that could take Nvidia's customers.",
+      "Nvidia fell more than 4% Monday to its lowest close since April 7 as its board looks into CEO Jensen Huang's relationship with an alleged Chinese spy. That came even as chip stocks rallied, with the iShares Semiconductor ETF (SOXX) up more than 7%. Alphabet rose about 1%. It's the latest chapter in Wall Street's first $4.5 trillion CEO scandal.",
+      "Google introduced two new tensor processing units, or TPUs — its homegrown AI chips — on Monday. The TPU 8tx and TPU 8i Max join the 8t and 8i it unveiled in April, the first time Google has introduced four TPU systems in a single year. Both new chips ship next year.",
+      "Think of it as a chip menu. The 8tx keeps data encrypted for governments, banks, and other regulated businesses, paired with processors from AMD (AMD). The 8i Max squeezes two chips into one package for requests with long context windows — the amount of information an AI model can juggle at once.",
+      "The forecasts are the eye-popper. Bloomberg Intelligence sees TPU sales rising from about $12 billion this year to more than $135 billion by 2028, not counting chips rented through Google Cloud. That's more than 11-fold in two years.",
+      "Nvidia's data center business grew nearly eightfold in the first two years of the AI boom, from $15 billion in fiscal 2023 to $115 billion in fiscal 2025.",
+      "The chips are already flying off the line. Epoch AI estimates TPU shipments doubled in computing power in a single quarter this year, to roughly 800,000 chips.",
+      "Anthropic is the headliner. Its IPO filing shows about $161 billion of lease payments tied to TPUs, which Raymond James says makes it the biggest custom-chip customer of Google's design partner, Broadcom (AVGO). Meta (META), OpenAI and Oracle (ORCL) are buyers too.",
+      "Google used to roll out about one data center TPU a year. Now it has one for every job.",
+      "Nvidia still has the bigger engine.",
+      "Its next-generation Rubin chip is rated at 35 petaflops — a measure of raw computing speed — compared with about 10 for Google's 8i and about 20 for the 8i Max, according to Yahoo Finance calculations.",
+      "Google is selling on price. SemiAnalysis found that Google's current Ironwood TPU delivers up to nearly three times as much AI output per dollar as Nvidia's Blackwell chips when running AI agents, though Nvidia's top system still wins when speed is everything.",
+      "Forecasts aren't sales, and Nvidia still sells far more AI chips than anyone else."
+    ],
+    "html": null
+  }
+}

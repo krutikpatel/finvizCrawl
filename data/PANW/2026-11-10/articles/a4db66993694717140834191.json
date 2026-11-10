@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-rises-morgan-stanley-122919510.html",
+    "fetched_at": "2026-11-10T07:00:43.619875-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Okta Stock Rises After Morgan Stanley Raises Price Target to $245",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nOkta (OKTA) climbed 1% in morning trading Tuesday after Morgan Stanley raised its price target on the cybersecurity company, citing potential growth tied to the expanding use of artificial intelligence agents, according to a Tuesday research note.\nAnalyst Meta Marshall lifted her target to $245 from $200 while keeping an Overweight rating. The change followed Okta's investor event earlier this month, where investors continued to assess the company's prospects in agentic identity, the security systems used to authenticate and manage AI-driven activity.\nMarshall said investor interest has been broadening beyond larger cybersecurity companies such as Palo Alto Networks and CrowdStrike. She said Okta and Fortinet are increasingly part of those discussions, while SentinelOne and SailPoint are considered in some cases.\nThe broader shift reflects rising attention on cybersecurity providers that could benefit as AI agents become more common in enterprise workflows. For Okta, the analyst expects the benefits from agentic identity to develop gradually. She also pointed to work on technical debt as a factor that could support progress this year, while maintaining that the company has additional room to expand as AI-agent adoption develops.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Okta (OKTA) climbed 1% in morning trading Tuesday after Morgan Stanley raised its price target on the cybersecurity company, citing potential growth tied to the expanding use of artificial intelligence agents, according to a Tuesday research note.",
+      "Analyst Meta Marshall lifted her target to $245 from $200 while keeping an Overweight rating. The change followed Okta's investor event earlier this month, where investors continued to assess the company's prospects in agentic identity, the security systems used to authenticate and manage AI-driven activity.",
+      "Marshall said investor interest has been broadening beyond larger cybersecurity companies such as Palo Alto Networks and CrowdStrike. She said Okta and Fortinet are increasingly part of those discussions, while SentinelOne and SailPoint are considered in some cases.",
+      "The broader shift reflects rising attention on cybersecurity providers that could benefit as AI agents become more common in enterprise workflows. For Okta, the analyst expects the benefits from agentic identity to develop gradually. She also pointed to work on technical debt as a factor that could support progress this year, while maintaining that the company has additional room to expand as AI-agent adoption develops."
+    ],
+    "html": null
+  }
+}

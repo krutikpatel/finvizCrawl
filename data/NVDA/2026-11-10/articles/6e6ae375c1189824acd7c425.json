@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026/card/stocks-to-watch-softbank-nvidia-rocket-lab-eHw0kcmPEkygIsePiWKh?mod=wsj_FV",
+    "fetched_at": "2026-11-10T07:00:34.702756-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks to Watch: SoftBank, Nvidia, CoreWeave",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n4 hours ago\nStocks to Watch: SoftBank, Nvidia, CoreWeave\n🔎SoftBank (JP:9984): The tech investor reported a $7 billion net loss after markets closed in Japan. Its shares jumped 14% before the close as AI-adjacent stocks rebounded.\n🔎Nvidia (NVDA): Shares of the chip giant are flat premarket after yesterday’s slide, as investors continue to digest the impact of an investigation into whether CEO Jensen Huang was a spying target of China.\n🔎 CoreWeave (CRWV): The Nvidia-backed cloud computing company is set to report quarterly results after the bell. Analysts expect revenue to grow but losses to widen.",
+    "text_blocks": [
+      "LIVE",
+      "4 hours ago",
+      "Stocks to Watch: SoftBank, Nvidia, CoreWeave",
+      "🔎SoftBank (JP:9984): The tech investor reported a $7 billion net loss after markets closed in Japan. Its shares jumped 14% before the close as AI-adjacent stocks rebounded.",
+      "🔎Nvidia (NVDA): Shares of the chip giant are flat premarket after yesterday’s slide, as investors continue to digest the impact of an investigation into whether CEO Jensen Huang was a spying target of China.",
+      "🔎 CoreWeave (CRWV): The Nvidia-backed cloud computing company is set to report quarterly results after the bell. Analysts expect revenue to grow but losses to widen."
+    ],
+    "html": null
+  }
+}

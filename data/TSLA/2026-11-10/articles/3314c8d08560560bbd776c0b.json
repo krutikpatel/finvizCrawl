@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/musk-expected-join-trump-apec-082249358.html",
+    "fetched_at": "2026-11-10T07:00:02.904899-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nov 10 (Reuters) - Top US business leaders, including Tesla chief Elon Musk, are expected to join President Donald Trump's delegation to China for next week's APEC summit, the South China Morning Post reported on Tuesday, although it said Nvidia chief Jensen Huang's attendance is uncertain.\nHuang had previously been in talks to join the delegation, but his participation is now in doubt, the report said, citing sources, amid a recent controversy that has prompted Nvidia's board to investigate whether he was the target of a foreign intelligence operation.\nHere are some more details:\n• The APEC summit is set for November 18-19 in the southern Chinese tech hub of Shenzhen\n• When asked on Sunday, if he would take Huang on his trip to Asia next week, Trump said: \"I don't know, but I'd certainly take him\"\n• CEOs of several US companies had accompanied Trump on his trip to China in May, including Mastercard's Michael Miebach, Tesla's Musk and Huang, with a focus on resolving business issues with China\n• Huang's addition to the trip was especially important for Nvidia, which has struggled to get regulatory permission to sell its powerful H200 AI chips in China\n• Nvidia's board launched a probe on Sunday on whether Huang had been the target of a foreign intelligence effort, after a report alleged he had a close relationship with a Chinese businesswoman who passed information to Beijing\n• While Huang is one of Trump's closest allies in Silicon Valley, the recent controversy has brought the president's relationship with Nvidia chief under renewed scrutiny\n• Tesla, Mastercard, Nvidia, and the White House did not immediately respond to Reuters requests for comment outside regular business hours\n(Reporting by Akanksha Khushi in Bengaluru; Editing by Subhranshu Sahu)",
+    "text_blocks": [
+      "Nov 10 (Reuters) - Top US business leaders, including Tesla chief Elon Musk, are expected to join President Donald Trump's delegation to China for next week's APEC summit, the South China Morning Post reported on Tuesday, although it said Nvidia chief Jensen Huang's attendance is uncertain.",
+      "Huang had previously been in talks to join the delegation, but his participation is now in doubt, the report said, citing sources, amid a recent controversy that has prompted Nvidia's board to investigate whether he was the target of a foreign intelligence operation.",
+      "Here are some more details:",
+      "• The APEC summit is set for November 18-19 in the southern Chinese tech hub of Shenzhen",
+      "• When asked on Sunday, if he would take Huang on his trip to Asia next week, Trump said: \"I don't know, but I'd certainly take him\"",
+      "• CEOs of several US companies had accompanied Trump on his trip to China in May, including Mastercard's Michael Miebach, Tesla's Musk and Huang, with a focus on resolving business issues with China",
+      "• Huang's addition to the trip was especially important for Nvidia, which has struggled to get regulatory permission to sell its powerful H200 AI chips in China",
+      "• Nvidia's board launched a probe on Sunday on whether Huang had been the target of a foreign intelligence effort, after a report alleged he had a close relationship with a Chinese businesswoman who passed information to Beijing",
+      "• While Huang is one of Trump's closest allies in Silicon Valley, the recent controversy has brought the president's relationship with Nvidia chief under renewed scrutiny",
+      "• Tesla, Mastercard, Nvidia, and the White House did not immediately respond to Reuters requests for comment outside regular business hours",
+      "(Reporting by Akanksha Khushi in Bengaluru; Editing by Subhranshu Sahu)"
+    ],
+    "html": null
+  }
+}

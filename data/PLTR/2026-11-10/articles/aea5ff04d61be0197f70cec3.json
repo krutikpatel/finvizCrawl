@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-completes-set-every-magnificent-170103142.html",
+    "fetched_at": "2026-11-10T07:00:29.479640-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Every member of Wall Street's \"Magnificent Seven\" now wants its stock kept off OKX and ICE's planned tokenized stock venue.\nApple and Meta Platforms are among 11 companies added to the list of objecting issuers in an updated notice from OKXICE TSV dated Thursday.\nThey join Microsoft, Alphabet, Amazon, Nvidia and Tesla, completing a sweep by the group of tech giants that makes up a large share of the S&P 500's value. The other new objectors are Home Depot, Boeing, GE Vernova, Palantir, ServiceNow, S&P Global, KLA, Super Micro Computer and Nebius Group, bringing the total number of companies saying \"no\" to the OKX and ICE platform to 67.\nMeta's objection carries some irony. The Facebook parent once tried to launch its own stablecoin, Libra, later renamed Diem, before abandoning the project in 2022 amid regulatory pushback.\nApple had been one of the last megacaps missing from the list after Amazon, Tesla, and SpaceX objected in the venue's Nov. 2 notice. The tally stood at 56 then, and at nine on Oct. 15, when the first objectors appeared.\nJust as notable is who hasn't objected. Crypto-friendly public companies such as Coinbase, Robinhood and Strategy don't appear on the list. Coinbase launched tokenized stocks for non-U.S. users on its Base network in August. Berkshire Hathaway, Visa, and Exxon Mobil are also absent. It's unclear whether OKXICE notified those companies.\nUnder the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act failed to advance in the Senate, a venue must notify a company before offering a version of its shares tokenized by an unaffiliated third party. If the company objects in writing within 30 days, the venue can't make that stock available for trading, according to the SEC's order. It's worth noting, though, that the objection applies only to that venue.\nOKXICE TSV, a 50-50 joint venture between NYSE owner Intercontinental Exchange and OKX's U.S. holding company, plans to offer tokenized U.S. stocks 24/7 through permissioned pools on OKX's XLayer blockchain. An outside \"tokenizer\" would hold real shares one-for-one through a registered broker-dealer.\nWith the market's biggest names opted out, it's unclear which major stocks the venue will be able to offer at launch, and its notices don't list the tokens it plans to make available.",
+    "text_blocks": [
+      "Every member of Wall Street's \"Magnificent Seven\" now wants its stock kept off OKX and ICE's planned tokenized stock venue.",
+      "Apple and Meta Platforms are among 11 companies added to the list of objecting issuers in an updated notice from OKXICE TSV dated Thursday.",
+      "They join Microsoft, Alphabet, Amazon, Nvidia and Tesla, completing a sweep by the group of tech giants that makes up a large share of the S&P 500's value. The other new objectors are Home Depot, Boeing, GE Vernova, Palantir, ServiceNow, S&P Global, KLA, Super Micro Computer and Nebius Group, bringing the total number of companies saying \"no\" to the OKX and ICE platform to 67.",
+      "Meta's objection carries some irony. The Facebook parent once tried to launch its own stablecoin, Libra, later renamed Diem, before abandoning the project in 2022 amid regulatory pushback.",
+      "Apple had been one of the last megacaps missing from the list after Amazon, Tesla, and SpaceX objected in the venue's Nov. 2 notice. The tally stood at 56 then, and at nine on Oct. 15, when the first objectors appeared.",
+      "Just as notable is who hasn't objected. Crypto-friendly public companies such as Coinbase, Robinhood and Strategy don't appear on the list. Coinbase launched tokenized stocks for non-U.S. users on its Base network in August. Berkshire Hathaway, Visa, and Exxon Mobil are also absent. It's unclear whether OKXICE notified those companies.",
+      "Under the SEC's innovation exemption, which the agency unveiled in September after the Clarity Act failed to advance in the Senate, a venue must notify a company before offering a version of its shares tokenized by an unaffiliated third party. If the company objects in writing within 30 days, the venue can't make that stock available for trading, according to the SEC's order. It's worth noting, though, that the objection applies only to that venue.",
+      "OKXICE TSV, a 50-50 joint venture between NYSE owner Intercontinental Exchange and OKX's U.S. holding company, plans to offer tokenized U.S. stocks 24/7 through permissioned pools on OKX's XLayer blockchain. An outside \"tokenizer\" would hold real shares one-for-one through a registered broker-dealer.",
+      "With the market's biggest names opted out, it's unclear which major stocks the venue will be able to offer at launch, and its notices don't list the tokens it plans to make available."
+    ],
+    "html": null
+  }
+}

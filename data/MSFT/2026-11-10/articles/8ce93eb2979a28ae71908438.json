@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/microsoft-reportedly-pushes-back-against-123224797.html",
+    "fetched_at": "2026-11-10T07:00:24.261635-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Reportedly Pushes Back Against Trump’s Plan To Ban Chinese Optical Transceivers – Flags Challenges To Data Center Rollout",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nThe Trump administration announced plans to ban imports of new Chinese optical transceiver models over national security concerns in August.\n-\nMicrosoft currently operates more than 500 data centers across 34 countries.\n-\nChinese companies control roughly two-thirds of the global optical transceiver market, according to Counterpoint Research.\nMicrosoft (MSFT) is reportedly urging the Trump administration to abandon a proposed ban on Chinese-made components used in AI data centers, warning that the restrictions could disrupt supply chains and hamper U.S.' AI buildout.\nMicrosoft is among several companies and trade groups pushing back against the administration's plans to ban imports of new Chinese optical transceiver models over national security concerns, according to a Reuters report on Tuesday.\nThe devices convert electrical signals into light and back, allowing servers, AI chips and networking equipment to exchange massive amounts of data through fiber-optic cables at high speeds.\nMSFT shares edged 0.3% lower in pre-market trading.\nBan Could Threaten US Data Center Rollout, Says Tech Lobby\nMicrosoft reportedly met with White House and National Security Council officials in September, alongside other technology companies, to highlight potential shortages if the ban takes effect.\n\"It really threatens to arguably grind (the data center rollout) to a halt,\" John Miller, general counsel of the Information Technology Industry Council (ITI), told Reuters. ITI, a tech lobbying group, had previously urged the FCC to avoid broad restrictions on optical transceivers.\nMicrosoft currently operates more than 500 data centers across 34 countries. In the U.S., it has 35 under construction and 134 planned, according to Cleanview, as cited in the report.\nChina's Dominance In Optical Transceiver Market Raises Espionage Concerns\nThe report adds that the U.S. fears the foreign-made components could potentially allow China to steal sensitive information, introduce malicious software, or disrupt U.S. data centers.\nChinese companies control roughly two-thirds of the global optical transceiver market, according to Counterpoint Research. The report highlighted Coherent (COHR) and Lumentum (LITE) as competing manufacturers, but added that Western suppliers lack the scale to replace Chinese volume in the near term.\nThe development comes amid heightened scrutiny of Chinese espionage following reports linking Nvidia (NVDA) CEO Jensen Huang to a businesswoman suspected by U.S. intelligence officials of sharing information with Beijing. On Monday, Trump said Huang denied knowing about the alleged espionage. Nvidia's board has launched an investigation, while China has rejected the spying allegations.",
+    "text_blocks": [
+      "-",
+      "The Trump administration announced plans to ban imports of new Chinese optical transceiver models over national security concerns in August.",
+      "-",
+      "Microsoft currently operates more than 500 data centers across 34 countries.",
+      "-",
+      "Chinese companies control roughly two-thirds of the global optical transceiver market, according to Counterpoint Research.",
+      "Microsoft (MSFT) is reportedly urging the Trump administration to abandon a proposed ban on Chinese-made components used in AI data centers, warning that the restrictions could disrupt supply chains and hamper U.S.' AI buildout.",
+      "Microsoft is among several companies and trade groups pushing back against the administration's plans to ban imports of new Chinese optical transceiver models over national security concerns, according to a Reuters report on Tuesday.",
+      "The devices convert electrical signals into light and back, allowing servers, AI chips and networking equipment to exchange massive amounts of data through fiber-optic cables at high speeds.",
+      "MSFT shares edged 0.3% lower in pre-market trading.",
+      "Ban Could Threaten US Data Center Rollout, Says Tech Lobby",
+      "Microsoft reportedly met with White House and National Security Council officials in September, alongside other technology companies, to highlight potential shortages if the ban takes effect.",
+      "\"It really threatens to arguably grind (the data center rollout) to a halt,\" John Miller, general counsel of the Information Technology Industry Council (ITI), told Reuters. ITI, a tech lobbying group, had previously urged the FCC to avoid broad restrictions on optical transceivers.",
+      "Microsoft currently operates more than 500 data centers across 34 countries. In the U.S., it has 35 under construction and 134 planned, according to Cleanview, as cited in the report.",
+      "China's Dominance In Optical Transceiver Market Raises Espionage Concerns",
+      "The report adds that the U.S. fears the foreign-made components could potentially allow China to steal sensitive information, introduce malicious software, or disrupt U.S. data centers.",
+      "Chinese companies control roughly two-thirds of the global optical transceiver market, according to Counterpoint Research. The report highlighted Coherent (COHR) and Lumentum (LITE) as competing manufacturers, but added that Western suppliers lack the scale to replace Chinese volume in the near term.",
+      "The development comes amid heightened scrutiny of Chinese espionage following reports linking Nvidia (NVDA) CEO Jensen Huang to a businesswoman suspected by U.S. intelligence officials of sharing information with Beijing. On Monday, Trump said Huang denied knowing about the alleged espionage. Nvidia's board has launched an investigation, while China has rejected the spying allegations."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+    "fetched_at": "2026-11-10T07:00:21.416048-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy\nNvidia (NVDA) stock trimmed losses to fall 4% on Monday after the chipmaker's board announced it would investigate the relationship between CEO Jensen Huang and a woman whom the intelligence community believes could be a Chinese Spy. The rest of the tech (XLK) sector, however, rallied.\nIn a Sunday memo to employees, Nvidia CEO Jensen Huang admitted to an extramarital affair, apologizing to his family and staff while pledging full cooperation with an independent board review. Wall Street analysts quickly flagged the heightened 'key-person risk' for the world's leading AI chipmaker.\n\"Jensen is the core DNA of Nvidia, and its AI success and ambitions are heavily tied to him staying on as CEO. Jensen is not replaceable,\" Yorkville Ives's Dan Ives wrote on Monday morning.\nA look across the semiconductor sector showed the risk damage was largely contained to Nvidia. Shares of rival AMD (AMD) bounced 13% after an upgrade to Buy from Oppenheimer analysts. Broadcom (AVGO) rose 8%, while Intel (INTC) edged up 5%.\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, rose nearly 4%, while semiconductor equipment maker ASML (ASML) also gained 6%.\nStorage maker SanDisk (SNDK) moved up 6%. Memory chipmaker Micron Technology (MU) rose more than 6%, while SK Hynix (SKHY) gained 5%.\nOther chip-related stocks include processor maker Qualcomm (QCOM) and semicondcutor designer Arm Holdings (ARM), moving up about 3% and 6% respectively.\nMeanwhile, Alphabet (GOOGL) shares rose more than 1% on Monday after the tech giant introduced two new tensor processing units, or TPUs. Alphabet has been accelerating its homegrown AI chip business, introducing four TPU systems in a single year.",
+    "text_blocks": [
+      "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "Nvidia (NVDA) stock trimmed losses to fall 4% on Monday after the chipmaker's board announced it would investigate the relationship between CEO Jensen Huang and a woman whom the intelligence community believes could be a Chinese Spy. The rest of the tech (XLK) sector, however, rallied.",
+      "In a Sunday memo to employees, Nvidia CEO Jensen Huang admitted to an extramarital affair, apologizing to his family and staff while pledging full cooperation with an independent board review. Wall Street analysts quickly flagged the heightened 'key-person risk' for the world's leading AI chipmaker.",
+      "\"Jensen is the core DNA of Nvidia, and its AI success and ambitions are heavily tied to him staying on as CEO. Jensen is not replaceable,\" Yorkville Ives's Dan Ives wrote on Monday morning.",
+      "A look across the semiconductor sector showed the risk damage was largely contained to Nvidia. Shares of rival AMD (AMD) bounced 13% after an upgrade to Buy from Oppenheimer analysts. Broadcom (AVGO) rose 8%, while Intel (INTC) edged up 5%.",
+      "Shares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, rose nearly 4%, while semiconductor equipment maker ASML (ASML) also gained 6%.",
+      "Storage maker SanDisk (SNDK) moved up 6%. Memory chipmaker Micron Technology (MU) rose more than 6%, while SK Hynix (SKHY) gained 5%.",
+      "Other chip-related stocks include processor maker Qualcomm (QCOM) and semicondcutor designer Arm Holdings (ARM), moving up about 3% and 6% respectively.",
+      "Meanwhile, Alphabet (GOOGL) shares rose more than 1% on Monday after the tech giant introduced two new tensor processing units, or TPUs. Alphabet has been accelerating its homegrown AI chip business, introducing four TPU systems in a single year."
+    ],
+    "html": null
+  }
+}

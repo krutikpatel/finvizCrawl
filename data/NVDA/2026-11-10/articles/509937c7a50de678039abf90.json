@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/us-political-shift-nvidia-curbs-142744002.html",
+    "fetched_at": "2026-11-10T07:00:33.761012-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US political shift and Nvidia curbs push AI compute towards China",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Artificial intelligence models are becoming commodities, shifting value towards distribution and the cost of the computing power needed to run them, according to Robert Taylor, data scientist and quantitative strategist at GlobalData.TS Lombard.\n\"As models become commodities, AI's lasting value goes to whoever owns distribution and whoever supplies compute most cheaply,\" Taylor wrote in his China Watch analysis research note this month.\n\"China can't own Western distribution, but it can be the cheapest supplier of compute, as it was for solar and batteries.\"\nThat shift is being reinforced by political pressure in the US. Democrats took Congress partly amid a backlash against data centres, while governors-elect in Texas and Georgia - two of the largest US data-centre markets - campaigned partly on moratoria.\nTaylor expects slower permitting and higher costs for grid upgrades. However, he said this would not eliminate demand for compute. \"A slower US build does not reduce demand for compute, it reallocates it, and the cheapest marginal supplier with spare power is China.\"\nNvidia is also narrowing access to its hardware. The company has told data-centre customers worldwide that at least 51% of their services must go to non-Chinese firms. That limits the route used by Chinese laboratories to rent Nvidia chips through operators in Southeast Asia.\nThe restrictions could push China's largest buyers towards domestic suppliers, including Huawei, Cambricon, and T-Head. Beijing is adding to that pressure by requiring state-funded data centres to use domestic chips.\nNvidia's share of China's accelerator shipments fell to 34% in the first half of 2026, while Huawei reached 28%, according to Taylor.\nCompanies are already making decisions on cost. Revolut moved its 2,000 engineers' default coding model from Claude Code and Codex to China's GLM. The change cut the bill to about one-tenth, with frontier models retained for the most demanding work.\nChina's energy costs could support a wider move into compute. Data-centre hubs in Inner Mongolia pay about 4.7 US cents per kWh, around half the US industrial average.\nTaylor said Chinese chips now match Nvidia on price per TFLOP. He expects China's manufacturing scale and lower operating costs to put pressure on Western hardware companies, as well as suppliers in Taiwan and Korea.\n\"US political shift and Nvidia curbs push AI compute towards China\" was originally created and published by Verdict, a GlobalData owned brand.",
+    "text_blocks": [
+      "Artificial intelligence models are becoming commodities, shifting value towards distribution and the cost of the computing power needed to run them, according to Robert Taylor, data scientist and quantitative strategist at GlobalData.TS Lombard.",
+      "\"As models become commodities, AI's lasting value goes to whoever owns distribution and whoever supplies compute most cheaply,\" Taylor wrote in his China Watch analysis research note this month.",
+      "\"China can't own Western distribution, but it can be the cheapest supplier of compute, as it was for solar and batteries.\"",
+      "That shift is being reinforced by political pressure in the US. Democrats took Congress partly amid a backlash against data centres, while governors-elect in Texas and Georgia - two of the largest US data-centre markets - campaigned partly on moratoria.",
+      "Taylor expects slower permitting and higher costs for grid upgrades. However, he said this would not eliminate demand for compute. \"A slower US build does not reduce demand for compute, it reallocates it, and the cheapest marginal supplier with spare power is China.\"",
+      "Nvidia is also narrowing access to its hardware. The company has told data-centre customers worldwide that at least 51% of their services must go to non-Chinese firms. That limits the route used by Chinese laboratories to rent Nvidia chips through operators in Southeast Asia.",
+      "The restrictions could push China's largest buyers towards domestic suppliers, including Huawei, Cambricon, and T-Head. Beijing is adding to that pressure by requiring state-funded data centres to use domestic chips.",
+      "Nvidia's share of China's accelerator shipments fell to 34% in the first half of 2026, while Huawei reached 28%, according to Taylor.",
+      "Companies are already making decisions on cost. Revolut moved its 2,000 engineers' default coding model from Claude Code and Codex to China's GLM. The change cut the bill to about one-tenth, with frontier models retained for the most demanding work.",
+      "China's energy costs could support a wider move into compute. Data-centre hubs in Inner Mongolia pay about 4.7 US cents per kWh, around half the US industrial average.",
+      "Taylor said Chinese chips now match Nvidia on price per TFLOP. He expects China's manufacturing scale and lower operating costs to put pressure on Western hardware companies, as well as suppliers in Taiwan and Korea.",
+      "\"US political shift and Nvidia curbs push AI compute towards China\" was originally created and published by Verdict, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

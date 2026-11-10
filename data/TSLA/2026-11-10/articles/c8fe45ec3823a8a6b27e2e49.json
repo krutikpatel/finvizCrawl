@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-cathie-wood-ef9d5868?mod=bar_FV",
+    "fetched_at": "2026-11-10T07:00:02.775686-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith\nNvidia CEO Jensen Huang is facing federal scrutiny over his relationship with an executive suspected of working for Chinese intelligence. But that’s not putting off some investors such as ARK Invest’s Cathie Wood.",
+    "text_blocks": [
+      "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith",
+      "Nvidia CEO Jensen Huang is facing federal scrutiny over his relationship with an executive suspected of working for Chinese intelligence. But that’s not putting off some investors such as ARK Invest’s Cathie Wood."
+    ],
+    "html": null
+  }
+}

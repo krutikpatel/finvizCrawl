@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/factbox-amazon-google-deep-pocketed-131914730.html",
+    "fetched_at": "2026-11-10T07:00:40.836819-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nov 10 (Reuters) - Only a few startups have attracted as much investor conviction as Anthropic. Backed by cornerstone investors such as Alphabet, Nvidia and AMD, the AI company has seen its valuation soar to near-unprecedented heights.\nAs Anthropic targets a $1 trillion valuation in its upcoming initial public offering, the debut offers a closely watched test of whether public markets still share that boundless enthusiasm amid a broader reckoning over the returns of the AI boom.\n(Reporting by Anhata Rooprai in Bengaluru; Editing by Arun Koyyur, Sherry Jacob-Phillips and Shreya Biswas)",
+    "text_blocks": [
+      "Nov 10 (Reuters) - Only a few startups have attracted as much investor conviction as Anthropic. Backed by cornerstone investors such as Alphabet, Nvidia and AMD, the AI company has seen its valuation soar to near-unprecedented heights.",
+      "As Anthropic targets a $1 trillion valuation in its upcoming initial public offering, the debut offers a closely watched test of whether public markets still share that boundless enthusiasm amid a broader reckoning over the returns of the AI boom.",
+      "(Reporting by Anhata Rooprai in Bengaluru; Editing by Arun Koyyur, Sherry Jacob-Phillips and Shreya Biswas)"
+    ],
+    "html": null
+  }
+}

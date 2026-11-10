@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=AMD",
+    "fetched_at": "2026-11-10T07:00:39.313585-08:00"
+  },
+  "company": {
+    "name": "Advanced Micro Devices Inc",
+    "sector": "Show Previous News",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 534.36,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX, S&P 500, RUI",
+    "Market Cap": "876.40B",
+    "Enterprise Value": "869.54B",
+    "Income": "7.62B",
+    "Sales": "45.44B",
+    "Book/sh": "41.70",
+    "Cash/sh": "9.62",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "31000",
+    "IPO": "Oct 15, 1979"
+  },
+  "raw": null
+}

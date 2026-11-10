@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-movers-d80c8da0?mod=bar_FV",
+    "fetched_at": "2026-11-10T07:00:16.288234-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, AMD, CoreWeave,  Coherent, Trade Desk, and More Stocks That Explain Today’s Market<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia, AMD, CoreWeave, Coherent, First Solar, Trade Desk, and More Stocks That Explain Today’s Market\nStocks rose Monday as an appetite for buying the dip outweighed a decline in Nvidia, which was pressured by an investigation involving CEO Jensen Huang.",
+    "text_blocks": [
+      "Nvidia, AMD, CoreWeave, Coherent, First Solar, Trade Desk, and More Stocks That Explain Today’s Market",
+      "Stocks rose Monday as an appetite for buying the dip outweighed a decline in Nvidia, which was pressured by an investigation involving CEO Jensen Huang."
+    ],
+    "html": null
+  }
+}

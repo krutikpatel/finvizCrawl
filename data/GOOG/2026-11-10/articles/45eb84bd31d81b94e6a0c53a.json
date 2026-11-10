@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/healthcare/articles/goodrx-stock-rises-google-cloud-135839792.html",
+    "fetched_at": "2026-11-10T07:00:21.339588-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "GoodRx stock rises on Google Cloud healthcare AI partnership",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Goodrx Holdings Inc (NASDAQ:GDRX) shares rose 4.7% in premarket trading Tuesday following the announcement of a partnership with Google Cloud's Gemini for healthcare platform.\nGoodRx said it is a launch partner for Google Cloud's Gemini for healthcare, integrating its prescription pricing and savings information directly into the AI platform through a Model Context Protocol (MCP) integration. The partnership allows healthcare enterprises to access GoodRx pricing data within their AI-powered workflows.\nThrough the integration, healthcare teams can use queries to compare pharmacy pricing based on medication, quantity, and location, and identify affordable options for patients. The system also provides guidance on how patients can access savings at pharmacies.\nThe integration creates an additional distribution channel for GoodRx to reach patients and expands visibility of pharmaceutical manufacturer self-pay programs available through its platform. These programs can now be surfaced when healthcare providers inquire about prescription costs and savings options through Gemini for healthcare.\n\"By bringing GoodRx's trusted prescription pricing and savings capabilities directly into AI-powered workflows, we're surfacing affordability information when healthcare decisions are being made,\" said Nitin Shingate, Chief Technology Officer of GoodRx.\nGoodRx said the MCP integration is designed to support additional AI platforms over time, with Google Cloud serving as the first deployment partner. The company indicated it is working on establishing an open, reusable integration framework to extend its capabilities across multiple AI platforms as adoption grows within the healthcare industry.\nOriginal Article\nGoodRx stock rises on Google Cloud healthcare AI partnership\nAnthropic targets more than $1 trillion valuation in much-anticipated IPO\nPepGen stock soars over 100% on positive Phase 2 trial data for DM1 drug",
+    "text_blocks": [
+      "Investing.com -- Goodrx Holdings Inc (NASDAQ:GDRX) shares rose 4.7% in premarket trading Tuesday following the announcement of a partnership with Google Cloud's Gemini for healthcare platform.",
+      "GoodRx said it is a launch partner for Google Cloud's Gemini for healthcare, integrating its prescription pricing and savings information directly into the AI platform through a Model Context Protocol (MCP) integration. The partnership allows healthcare enterprises to access GoodRx pricing data within their AI-powered workflows.",
+      "Through the integration, healthcare teams can use queries to compare pharmacy pricing based on medication, quantity, and location, and identify affordable options for patients. The system also provides guidance on how patients can access savings at pharmacies.",
+      "The integration creates an additional distribution channel for GoodRx to reach patients and expands visibility of pharmaceutical manufacturer self-pay programs available through its platform. These programs can now be surfaced when healthcare providers inquire about prescription costs and savings options through Gemini for healthcare.",
+      "\"By bringing GoodRx's trusted prescription pricing and savings capabilities directly into AI-powered workflows, we're surfacing affordability information when healthcare decisions are being made,\" said Nitin Shingate, Chief Technology Officer of GoodRx.",
+      "GoodRx said the MCP integration is designed to support additional AI platforms over time, with Google Cloud serving as the first deployment partner. The company indicated it is working on establishing an open, reusable integration framework to extend its capabilities across multiple AI platforms as adoption grows within the healthcare industry.",
+      "Original Article",
+      "GoodRx stock rises on Google Cloud healthcare AI partnership",
+      "Anthropic targets more than $1 trillion valuation in much-anticipated IPO",
+      "PepGen stock soars over 100% on positive Phase 2 trial data for DM1 drug"
+    ],
+    "html": null
+  }
+}

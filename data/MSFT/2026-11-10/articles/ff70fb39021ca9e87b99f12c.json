@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ibm-team-ai-agent-130000434.html",
+    "fetched_at": "2026-11-10T07:00:24.278615-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft, IBM team up on AI agent platform",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.\nDive Brief:\n-\nMicrosoft and IBM linked up to launch Imagine Enterprise, an agentic platform letting companies build and govern agents across data and daily processes, the companies shared in a Tuesday announcement.\n-\nIBM Consulting will bring more than 6,000 pre-built AI agents and transformation expertise to the platform, while Microsoft provides the AI and cloud foundation supporting agents' secure operation, the announcement said. Forward deployed engineers from both companies will support enterprises adopting the platform.\n-\n\"Clients are no longer looking for AI that simply helps people do the same work a little faster,\" Mohamad Ali, SVP and head of IBM Consulting, said in the announcement. \"They want to build an agentic business.\"\nDive Insight:\nMicrosoft and IBM's announcement comes as CIOs are contending with agentic AI's far-reaching effects — transforming workflows, processes and the workforce — and how to prepare their organizations.\nMost CIOs aren't conducting the deep redesign necessary to support an agentic-era workforce, according to analyst firm Gartner. Only 4% of CIOs have implemented plans to adjust roles for a human-agent workforce, Gartner found.\nVendors are jockeying to help enterprises ease into an agentic world. Companies including Microsoft, IBM, Google and AWS have launched forward deployed engineering programs to help address the pain points and complexities of scaling the technology. Many of the same companies and others are also offering pre-built agents with industry expertise so organizations can plug them into their environments.\nThe next phase of enterprise AI will go beyond the launch of agents and models, focusing instead on building cohesion, said IBM CEO Arvind Krishna.\n\"Organizations are recognizing that AI is only as effective as the system around it,\" Krishna told investors during IBM's Q3 2026 earnings call in October. \"The data that provides context, the workflows that orchestrate action, the infrastructure that secures and optimizes operations and the hybrid cloud foundation that provides flexibility without lock-in.\"\nLess than a month after the earnings call, IBM and Microsoft's launch of Imagine Enterprise connects forward deployed engineers with pre-built agents to support enterprise AI deployment. The platform includes industry-specific frameworks initially targeting financial services, insurance and retail.\n\"Enterprise AI will be won by organizations that can turn their data, industry expertise, and AI into action,\" Rodrigo Kede Lima, president of the Microsoft Frontier Company, said in the announcement.",
+    "text_blocks": [
+      "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.",
+      "Dive Brief:",
+      "-",
+      "Microsoft and IBM linked up to launch Imagine Enterprise, an agentic platform letting companies build and govern agents across data and daily processes, the companies shared in a Tuesday announcement.",
+      "-",
+      "IBM Consulting will bring more than 6,000 pre-built AI agents and transformation expertise to the platform, while Microsoft provides the AI and cloud foundation supporting agents' secure operation, the announcement said. Forward deployed engineers from both companies will support enterprises adopting the platform.",
+      "-",
+      "\"Clients are no longer looking for AI that simply helps people do the same work a little faster,\" Mohamad Ali, SVP and head of IBM Consulting, said in the announcement. \"They want to build an agentic business.\"",
+      "Dive Insight:",
+      "Microsoft and IBM's announcement comes as CIOs are contending with agentic AI's far-reaching effects — transforming workflows, processes and the workforce — and how to prepare their organizations.",
+      "Most CIOs aren't conducting the deep redesign necessary to support an agentic-era workforce, according to analyst firm Gartner. Only 4% of CIOs have implemented plans to adjust roles for a human-agent workforce, Gartner found.",
+      "Vendors are jockeying to help enterprises ease into an agentic world. Companies including Microsoft, IBM, Google and AWS have launched forward deployed engineering programs to help address the pain points and complexities of scaling the technology. Many of the same companies and others are also offering pre-built agents with industry expertise so organizations can plug them into their environments.",
+      "The next phase of enterprise AI will go beyond the launch of agents and models, focusing instead on building cohesion, said IBM CEO Arvind Krishna.",
+      "\"Organizations are recognizing that AI is only as effective as the system around it,\" Krishna told investors during IBM's Q3 2026 earnings call in October. \"The data that provides context, the workflows that orchestrate action, the infrastructure that secures and optimizes operations and the hybrid cloud foundation that provides flexibility without lock-in.\"",
+      "Less than a month after the earnings call, IBM and Microsoft's launch of Imagine Enterprise connects forward deployed engineers with pre-built agents to support enterprise AI deployment. The platform includes industry-specific frameworks initially targeting financial services, insurance and retail.",
+      "\"Enterprise AI will be won by organizations that can turn their data, industry expertise, and AI into action,\" Rodrigo Kede Lima, president of the Microsoft Frontier Company, said in the announcement."
+    ],
+    "html": null
+  }
+}

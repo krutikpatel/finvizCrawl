@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-china-sales-october-11dfb415?mod=bar_FV",
+    "fetched_at": "2026-11-10T07:00:02.797309-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla’s China Sales Hit Lowest Since 2022. What It Means for Year-End Targets.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla’s China Sales Hit Lowest Since 2022. What It Means for Year-End Targets.\nThe Chinese car market is terrible. Tesla’s latest results show just how weak the world’s largest market for new cars and new EVs is these days.\nThe Chinese car market is terrible. Tesla’s latest results show just how weak the world’s largest market for new cars and new EVs is these days.",
+    "text_blocks": [
+      "Tesla’s China Sales Hit Lowest Since 2022. What It Means for Year-End Targets.",
+      "The Chinese car market is terrible. Tesla’s latest results show just how weak the world’s largest market for new cars and new EVs is these days.",
+      "The Chinese car market is terrible. Tesla’s latest results show just how weak the world’s largest market for new cars and new EVs is these days."
+    ],
+    "html": null
+  }
+}
