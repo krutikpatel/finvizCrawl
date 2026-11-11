@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-rose-142849728.html",
+    "fetched_at": "2026-11-11T07:00:39.518708-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks Stock Rose Nearly 5% as Nvidia Launched an AI Agent Safety Platform. Here’s What Palo Alto Is Building on Top of It",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Palo Alto Networks (PANW) closed at $392.09 on September 28, up 4.63%, the day Nvidia (NVDA) launched a platform to police AI agents. Palo Alto was listed among more than 100 participating organizations and, in a same-day blog post, detailed how its AI firewall runs on Nvidia's chips and how it plans to extend its gateway and agent-identity tools to Nvidia's stack.\nThe gain more than erased a 3.9% drop on September 25, leaving shares about 0.6% above their September 24 close. It also tests a limit Chairman and CEO Nikesh Arora described on September 10: most AI data-center capacity, he estimated, does not buy Palo Alto's firewalls.\nPalo Alto's AI Firewall Already Runs on the Chips Behind Nvidia's Agent Watchdog\nPalo Alto chose to build on it. ItsPrisma AIRS AI Runtime firewall already runs natively on BlueField, and the company said the version it announced on September 28 draws on the Sentry design. It calls its AI gateway on Nvidia's Vera CPU a forward-looking architecture and describes linking Idira, the renamed CyberArk identity business, to OpenShell as a plan, with no revenue disclosed for any of it.\nPalo Alto, CrowdStrike (CRWD), and Zscaler (ZS) were the Nasdaq-100's three best performers, up 4.6%, 2.8%, and 3.3%. BTIG added a company-specific push, raising its target to $425 from $404 with a Buy rating, about 7% above the Street's mean target of about $396.\nArora Said Most AI Data Centers Skip Firewalls. BlueField Is Where Palo Alto Is Testing That\nAt Goldman Sachs' Communacopia + Technology Conference, Arora quantified that limit. \"I don't think more than 10% or 15% of the business in the world of building data centers is multi-tenant,\" he said. Single-tenant builds, he explained, are where Palo Alto does not get business: \"Hyperscaler, it's inefficient for them to buy firewalls because we are a Swiss Army knife for what is a very single-purpose task.\"\nThe BlueField firewall points at that gap. Palo Alto says it protects \"front-end network traffic of the AI factory\" from inside Nvidia hardware rather than from a separate appliance. Arora's broader bet is that AI companies need security vendors at that layer: \"LLMs do not sit in enforcement points,\" he said, adding that \"we probably become consumers of frontier LLMs.\"\nWhether single-tenant builders pay for that remains untested. The existing firewall line still grew: product revenue, which Palo Alto's fiscal 2025 annual report ties to firewall hardware and software licenses, rose 26.5% to $2.28 billion in fiscal 2026, a year that included CyberArk after its February 11 close.\nTIKR Advanced Model Analysis\nCurrent Price: $392.09\nTarget Price (Mid): ~$546\nPotential Total Return: ~39%\nAnnualized IRR: ~7% / year\nThe TIKR model's mid case points to around $546 by July 31, 2031, about 39% above $392.09, or around 7% a year over 4.8 years.\nModel Assumptions: averaged across the model's 10-year forecast, revenue grows around 12% a year, net income margin reaches around 27%, and the P/E contracts about 2% a year.\nRevenue Drivers: Idira identity, which Palo Alto plans to extend to Nvidia's OpenShell agents, and Chronosphere observability, which BTIG highlighted on September 28.\nMargin Driver: internal AI efficiency, which Arora said could give Palo Alto a 500 to 600 basis point edge over smaller rivals.\nPrimary Risk: AI data-center builders keeping agent enforcement inside Nvidia's own stack, the single-tenant gap Arora described.\nUpside: consensus expects fiscal 2031 revenue of about $24.5 billion, more than double fiscal 2026's $11.48 billion, though only two analysts forecast that year.\nDownside: Palo Alto has disclosed no revenue from its Nvidia-based products, so the mid case still leans on the existing platform if that gap stays open.\nConclusion\nFiscal first-quarter results come next; Palo Alto reported last year's on November 19, 2025, and guided this quarter's revenue to $3.30 billion to $3.31 billion. A result above the top of that range, or any number attached to the Nvidia-based products, would show the AI-factory push adding revenue. A result at the low end with no such disclosure would leave the gap Arora described intact.\nShould You Invest in Palo Alto Networks?\nThe only way to really know is to look at the numbers yourself. TIKR gives you free access to the same institutional-quality financial data that professional analysts use to answer exactly that question.\nPull up Palo Alto Networks, and you'll see years of historical financials, what Wall Street analysts expect for revenue and earnings in the quarters ahead, how valuation multiples have moved over time, and whether price targets are trending up or down.\nYou can build a free watchlist to track Palo Alto Networks alongside every other stock on your radar. No credit card required. Just the data you need to decide for yourself.",
+    "text_blocks": [
+      "Palo Alto Networks (PANW) closed at $392.09 on September 28, up 4.63%, the day Nvidia (NVDA) launched a platform to police AI agents. Palo Alto was listed among more than 100 participating organizations and, in a same-day blog post, detailed how its AI firewall runs on Nvidia's chips and how it plans to extend its gateway and agent-identity tools to Nvidia's stack.",
+      "The gain more than erased a 3.9% drop on September 25, leaving shares about 0.6% above their September 24 close. It also tests a limit Chairman and CEO Nikesh Arora described on September 10: most AI data-center capacity, he estimated, does not buy Palo Alto's firewalls.",
+      "Palo Alto's AI Firewall Already Runs on the Chips Behind Nvidia's Agent Watchdog",
+      "Palo Alto chose to build on it. ItsPrisma AIRS AI Runtime firewall already runs natively on BlueField, and the company said the version it announced on September 28 draws on the Sentry design. It calls its AI gateway on Nvidia's Vera CPU a forward-looking architecture and describes linking Idira, the renamed CyberArk identity business, to OpenShell as a plan, with no revenue disclosed for any of it.",
+      "Palo Alto, CrowdStrike (CRWD), and Zscaler (ZS) were the Nasdaq-100's three best performers, up 4.6%, 2.8%, and 3.3%. BTIG added a company-specific push, raising its target to $425 from $404 with a Buy rating, about 7% above the Street's mean target of about $396.",
+      "Arora Said Most AI Data Centers Skip Firewalls. BlueField Is Where Palo Alto Is Testing That",
+      "At Goldman Sachs' Communacopia + Technology Conference, Arora quantified that limit. \"I don't think more than 10% or 15% of the business in the world of building data centers is multi-tenant,\" he said. Single-tenant builds, he explained, are where Palo Alto does not get business: \"Hyperscaler, it's inefficient for them to buy firewalls because we are a Swiss Army knife for what is a very single-purpose task.\"",
+      "The BlueField firewall points at that gap. Palo Alto says it protects \"front-end network traffic of the AI factory\" from inside Nvidia hardware rather than from a separate appliance. Arora's broader bet is that AI companies need security vendors at that layer: \"LLMs do not sit in enforcement points,\" he said, adding that \"we probably become consumers of frontier LLMs.\"",
+      "Whether single-tenant builders pay for that remains untested. The existing firewall line still grew: product revenue, which Palo Alto's fiscal 2025 annual report ties to firewall hardware and software licenses, rose 26.5% to $2.28 billion in fiscal 2026, a year that included CyberArk after its February 11 close.",
+      "TIKR Advanced Model Analysis",
+      "Current Price: $392.09",
+      "Target Price (Mid): ~$546",
+      "Potential Total Return: ~39%",
+      "Annualized IRR: ~7% / year",
+      "The TIKR model's mid case points to around $546 by July 31, 2031, about 39% above $392.09, or around 7% a year over 4.8 years.",
+      "Model Assumptions: averaged across the model's 10-year forecast, revenue grows around 12% a year, net income margin reaches around 27%, and the P/E contracts about 2% a year.",
+      "Revenue Drivers: Idira identity, which Palo Alto plans to extend to Nvidia's OpenShell agents, and Chronosphere observability, which BTIG highlighted on September 28.",
+      "Margin Driver: internal AI efficiency, which Arora said could give Palo Alto a 500 to 600 basis point edge over smaller rivals.",
+      "Primary Risk: AI data-center builders keeping agent enforcement inside Nvidia's own stack, the single-tenant gap Arora described.",
+      "Upside: consensus expects fiscal 2031 revenue of about $24.5 billion, more than double fiscal 2026's $11.48 billion, though only two analysts forecast that year.",
+      "Downside: Palo Alto has disclosed no revenue from its Nvidia-based products, so the mid case still leans on the existing platform if that gap stays open.",
+      "Conclusion",
+      "Fiscal first-quarter results come next; Palo Alto reported last year's on November 19, 2025, and guided this quarter's revenue to $3.30 billion to $3.31 billion. A result above the top of that range, or any number attached to the Nvidia-based products, would show the AI-factory push adding revenue. A result at the low end with no such disclosure would leave the gap Arora described intact.",
+      "Should You Invest in Palo Alto Networks?",
+      "The only way to really know is to look at the numbers yourself. TIKR gives you free access to the same institutional-quality financial data that professional analysts use to answer exactly that question.",
+      "Pull up Palo Alto Networks, and you'll see years of historical financials, what Wall Street analysts expect for revenue and earnings in the quarters ahead, how valuation multiples have moved over time, and whether price targets are trending up or down.",
+      "You can build a free watchlist to track Palo Alto Networks alongside every other stock on your radar. No credit card required. Just the data you need to decide for yourself."
+    ],
+    "html": null
+  }
+}

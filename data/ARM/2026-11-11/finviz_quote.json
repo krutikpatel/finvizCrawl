@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=ARM",
+    "fetched_at": "2026-11-11T07:00:40.482547-08:00"
+  },
+  "company": {
+    "name": "Arm Holdings Plc ADR",
+    "sector": "Show Previous News",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 191.24,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "NDX",
+    "Market Cap": "204.63B",
+    "Enterprise Value": "201.51B",
+    "Income": "936.00M",
+    "Sales": "5.46B",
+    "Book/sh": "8.49",
+    "Cash/sh": "3.38",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "9584",
+    "IPO": "Sep 14, 2023"
+  },
+  "raw": null
+}

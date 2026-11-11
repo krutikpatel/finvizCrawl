@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-fell-anthropic-launches-121324796.html",
+    "fetched_at": "2026-11-11T07:00:23.715602-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft Stock Fell After Anthropic Launches Claude Sheets to Rival Excel",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft shares fell more than 2% in afternoon trading Tuesday after Anthropic introduced AI tools that compete with parts of Microsoft Office, including a spreadsheet application similar to Excel, as investors weighed a fresh challenge to one of the company's largest businesses.\nAnthropic's new offerings include Claude Sheets, Claude Whiteboards and Claude Data. The spreadsheet and whiteboard tools are in beta, while Claude Data, previously known as Claude Dashboards, is now generally available.\nAll three are included in paid Claude plans, and the additions build on Claude's existing ability to create documents, presentations, and designs. Claude Sheets is the most direct challenge to Microsoft from Anthropic so far.\nTeams can build and edit spreadsheets alongside the AI assistant, organize data across multiple tabs, and ask Claude to create or change formulas. Whiteboards lets colleagues map out ideas on a shared canvas and ask Claude to summarize them. Claude Data lets teams share live dashboards and reuse approved queries.\nThe bigger shift is what happens after Claude generates a first draft. Anthropic says teams previously often moved its output into another application to continue working, leaving Claude without access to subsequent changes.\nColleagues can now keep editing the same spreadsheet or whiteboard in Claude. That gives the company a chance to become the place where a team does its work from the first draft through revisions, a role Microsoft has long filled with Office.\nMicrosoft reported nearly $102 billion in fiscal 2026 revenue from Microsoft 365 commercial products and cloud services, up 16% from the previous year. The corresponding consumer category generated $9.2 billion, up 24%.\nTogether they accounted for about a third of Microsoft's $331.8 billion in annual revenue. The commercial category includes services such as Teams and SharePoint alongside Office, giving Microsoft a foothold across several parts of a customer's business.\nMicrosoft has also been using its AI assistant, Copilot, to sell more capabilities to existing customers. Commercial cloud revenue for Microsoft 365 grew 17%. Microsoft cited Copilot and its higher-tier Microsoft 365 E5 plan as drivers of increased revenue per user. As Claude adds more of the same capabilities, companies weighing what to spend on AI have another option for spreadsheet work and collaboration.\nIn November 2025, Microsoft said it would invest up to $5 billion in Anthropic as part of an agreement under which Anthropic committed to buying $30 billion of computing capacity on Microsoft's Azure cloud. The arrangement gives Microsoft a stake in Anthropic's growth even as the two companies compete to sell software to the same employers.",
+    "text_blocks": [
+      "Microsoft shares fell more than 2% in afternoon trading Tuesday after Anthropic introduced AI tools that compete with parts of Microsoft Office, including a spreadsheet application similar to Excel, as investors weighed a fresh challenge to one of the company's largest businesses.",
+      "Anthropic's new offerings include Claude Sheets, Claude Whiteboards and Claude Data. The spreadsheet and whiteboard tools are in beta, while Claude Data, previously known as Claude Dashboards, is now generally available.",
+      "All three are included in paid Claude plans, and the additions build on Claude's existing ability to create documents, presentations, and designs. Claude Sheets is the most direct challenge to Microsoft from Anthropic so far.",
+      "Teams can build and edit spreadsheets alongside the AI assistant, organize data across multiple tabs, and ask Claude to create or change formulas. Whiteboards lets colleagues map out ideas on a shared canvas and ask Claude to summarize them. Claude Data lets teams share live dashboards and reuse approved queries.",
+      "The bigger shift is what happens after Claude generates a first draft. Anthropic says teams previously often moved its output into another application to continue working, leaving Claude without access to subsequent changes.",
+      "Colleagues can now keep editing the same spreadsheet or whiteboard in Claude. That gives the company a chance to become the place where a team does its work from the first draft through revisions, a role Microsoft has long filled with Office.",
+      "Microsoft reported nearly $102 billion in fiscal 2026 revenue from Microsoft 365 commercial products and cloud services, up 16% from the previous year. The corresponding consumer category generated $9.2 billion, up 24%.",
+      "Together they accounted for about a third of Microsoft's $331.8 billion in annual revenue. The commercial category includes services such as Teams and SharePoint alongside Office, giving Microsoft a foothold across several parts of a customer's business.",
+      "Microsoft has also been using its AI assistant, Copilot, to sell more capabilities to existing customers. Commercial cloud revenue for Microsoft 365 grew 17%. Microsoft cited Copilot and its higher-tier Microsoft 365 E5 plan as drivers of increased revenue per user. As Claude adds more of the same capabilities, companies weighing what to spend on AI have another option for spreadsheet work and collaboration.",
+      "In November 2025, Microsoft said it would invest up to $5 billion in Anthropic as part of an agreement under which Anthropic committed to buying $30 billion of computing capacity on Microsoft's Azure cloud. The arrangement gives Microsoft a stake in Anthropic's growth even as the two companies compete to sell software to the same employers."
+    ],
+    "html": null
+  }
+}

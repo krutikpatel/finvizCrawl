@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/securitize-earnings-stock-price-1fbba0c1?mod=bar_FV",
+    "fetched_at": "2026-11-11T07:00:16.089288-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Securitize Stock: Tokenized Assets Hit $5 Billion<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Securitize Stock Jumps 24%, Defying Crypto Slump. Its Tokenized Assets Hit $5 Billion.\nA mixed earnings report and a slumping crypto industry weren’t enough to stop Securitize on Tuesday.\nA mixed earnings report and a slumping crypto industry weren’t enough to stop Securitize on Tuesday.",
+    "text_blocks": [
+      "Securitize Stock Jumps 24%, Defying Crypto Slump. Its Tokenized Assets Hit $5 Billion.",
+      "A mixed earnings report and a slumping crypto industry weren’t enough to stop Securitize on Tuesday.",
+      "A mixed earnings report and a slumping crypto industry weren’t enough to stop Securitize on Tuesday."
+    ],
+    "html": null
+  }
+}

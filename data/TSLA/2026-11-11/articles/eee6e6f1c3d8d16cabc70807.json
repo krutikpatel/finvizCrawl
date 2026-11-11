@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/unplugged-performance-tesla-cybertruck-production-offer-111126",
+    "fetched_at": "2026-11-11T07:00:02.823719-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/unplugged-performance-tesla-cybertruck-production-offer-111126",
+      "context": {
+        "url": "https://qz.com/unplugged-performance-tesla-cybertruck-production-offer-111126"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

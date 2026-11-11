@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/media-advertising/articles/california-privacy-agency-fines-fedex-213923174.html",
+    "fetched_at": "2026-11-11T07:00:08.634603-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "California Privacy Agency Fines FedEx Nearly $3M",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "California has fined shipping company FedEx $2.975million over alleged violations of the state's privacy law.\nAmong other charges, California's privacy agency said FedEx misrepresented its practices regarding website visitors' data, and alsofailed to honor opt-out requests that were transmitted via tools such as the Global Privacy Control.\nThe Global Privacy Control is a browser-based mechanism that essentially transmitsdo-not-sell-or-share-my-data requests when activated to every site that consumers visit.\nFedEx agreed to the order, but did not admit or deny the agency's findings and did notadmit liability.\nIn its order, the California Privacy Protection Agency said that between July 1, 2023 and October 27, 2025, FedEx shared website visitors' personal informationincluding pseudonymous identifiers -- but not shipping data -- with outside ad-tech companies.\n\"FedEx installed on its digital properties online tracking technologies fromMeta, LinkedIn, Google, Adobe, and other adtech companies,\" the agency alleged. \"These online tracking technologies made personal information about consumers visiting FedEx's digital properties,such as unique device and user identifiers, available to these adtech companies for purposes that included targeted advertising. This personal information did not include shipping data.\"\nThe agency says data showing that a customer visited FedEx.com \"may be a particularly valuable contribution to a consumer's profile because it may indicate potential interest inshipping-related services.\"\n\"When combined with unique identifiers collected through the online tracking technologies described above, this information contributes to moredetailed profiling of the consumer within the digital advertising ecosystem,\" the regulator writes.\nThe agency also said FedEx \"used online tracking technologies on its digitalproperties that shared consumers' personal information for cross-context behavioral advertising,\" but represented to consumers that it did not sell or share their data.\nFedEx also failed to \"configure its digital properties to properly detect and honor consumers' opt-out preference signals,\" according to the regulator.\nCalifornia's privacy law gives consumers the right to opt out of ad targeting based on data collected across sites and over time, and the state attorney general has said businessesthat collect personal data must comply with opt-out requests sent through tools like the Global Privacy Control.\nA FedEx spokesperson said Tuesday: \"This matter did not involveany customer shipping records or sensitive personal data.It pertained to the technical requirements for sharing standard website browsing data, such as cookies, with third party advertising providersto help us reach people who may be interested in FedEx services, and we are actively working to address the concerns raised.\"\nCalifornia's enforcement action comes around 14months after California and two other states said they were investigatingbusinesses that did not appear to be honoring opt-out signals sent through the Global Privacy Control.",
+    "text_blocks": [
+      "California has fined shipping company FedEx $2.975million over alleged violations of the state's privacy law.",
+      "Among other charges, California's privacy agency said FedEx misrepresented its practices regarding website visitors' data, and alsofailed to honor opt-out requests that were transmitted via tools such as the Global Privacy Control.",
+      "The Global Privacy Control is a browser-based mechanism that essentially transmitsdo-not-sell-or-share-my-data requests when activated to every site that consumers visit.",
+      "FedEx agreed to the order, but did not admit or deny the agency's findings and did notadmit liability.",
+      "In its order, the California Privacy Protection Agency said that between July 1, 2023 and October 27, 2025, FedEx shared website visitors' personal informationincluding pseudonymous identifiers -- but not shipping data -- with outside ad-tech companies.",
+      "\"FedEx installed on its digital properties online tracking technologies fromMeta, LinkedIn, Google, Adobe, and other adtech companies,\" the agency alleged. \"These online tracking technologies made personal information about consumers visiting FedEx's digital properties,such as unique device and user identifiers, available to these adtech companies for purposes that included targeted advertising. This personal information did not include shipping data.\"",
+      "The agency says data showing that a customer visited FedEx.com \"may be a particularly valuable contribution to a consumer's profile because it may indicate potential interest inshipping-related services.\"",
+      "\"When combined with unique identifiers collected through the online tracking technologies described above, this information contributes to moredetailed profiling of the consumer within the digital advertising ecosystem,\" the regulator writes.",
+      "The agency also said FedEx \"used online tracking technologies on its digitalproperties that shared consumers' personal information for cross-context behavioral advertising,\" but represented to consumers that it did not sell or share their data.",
+      "FedEx also failed to \"configure its digital properties to properly detect and honor consumers' opt-out preference signals,\" according to the regulator.",
+      "California's privacy law gives consumers the right to opt out of ad targeting based on data collected across sites and over time, and the state attorney general has said businessesthat collect personal data must comply with opt-out requests sent through tools like the Global Privacy Control.",
+      "A FedEx spokesperson said Tuesday: \"This matter did not involveany customer shipping records or sensitive personal data.It pertained to the technical requirements for sharing standard website browsing data, such as cookies, with third party advertising providersto help us reach people who may be interested in FedEx services, and we are actively working to address the concerns raised.\"",
+      "California's enforcement action comes around 14months after California and two other states said they were investigatingbusinesses that did not appear to be honoring opt-out signals sent through the Global Privacy Control."
+    ],
+    "html": null
+  }
+}

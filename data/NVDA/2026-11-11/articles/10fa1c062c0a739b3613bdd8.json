@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html",
+    "fetched_at": "2026-11-11T07:00:31.611544-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia (NVDA) stock rebounded on Wednesday as the overall chip sector surged on the heels of CoreWeave's (CRWV) better-than-expected quarterly results.\nNvidia shares rose for the first time since CEO Jensen Huang admitted to an affair with a woman suspected of being a Chinese spy, rising roughly 5% after two straight days of declines. A company board investigation, increased scrutiny from lawmakers and questions over whether restricted semiconductors were diverted to China have weighed on the stock in recent sessions.\nEven with the bounce, Nvidia is down about 14% in November and has lost about $700 billion in market value.\nThe rally also came despite a downgrade on the stock from Baird to Neutral.\n\"Downgrading to Neutral until uncertainties regarding U.S. government action likely resulting from the upcoming congressional hearing are lifted, U.S. government investigations reach their conclusions, revenue impact from risk channel near-term adjustments along with potential charges is quantified, and uncertainties around CEO tenure clear,\" analyst Tristan Gerra wrote in a note to clients.\nThe broader semiconductor sector jumped on Wednesday after CoreWeave raised its full-year revenue outlook to $13 billion to $13.3 billion, up from a prior target of $12 billion to $13 billion, citing strong demand for AI compute capacity.\n\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday.\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged.\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%. Semiconductor equipment maker ASML (ASML) rose 3%.\nStorage maker Sandisk (SNDK) and memory chipmakers Micron Technology (MU) and SK Hynix (SKHY) all gained over 6%.",
+    "text_blocks": [
+      "Nvidia (NVDA) stock rebounded on Wednesday as the overall chip sector surged on the heels of CoreWeave's (CRWV) better-than-expected quarterly results.",
+      "Nvidia shares rose for the first time since CEO Jensen Huang admitted to an affair with a woman suspected of being a Chinese spy, rising roughly 5% after two straight days of declines. A company board investigation, increased scrutiny from lawmakers and questions over whether restricted semiconductors were diverted to China have weighed on the stock in recent sessions.",
+      "Even with the bounce, Nvidia is down about 14% in November and has lost about $700 billion in market value.",
+      "The rally also came despite a downgrade on the stock from Baird to Neutral.",
+      "\"Downgrading to Neutral until uncertainties regarding U.S. government action likely resulting from the upcoming congressional hearing are lifted, U.S. government investigations reach their conclusions, revenue impact from risk channel near-term adjustments along with potential charges is quantified, and uncertainties around CEO tenure clear,\" analyst Tristan Gerra wrote in a note to clients.",
+      "The broader semiconductor sector jumped on Wednesday after CoreWeave raised its full-year revenue outlook to $13 billion to $13.3 billion, up from a prior target of $12 billion to $13 billion, citing strong demand for AI compute capacity.",
+      "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday.",
+      "Shares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged.",
+      "Shares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%. Semiconductor equipment maker ASML (ASML) rose 3%.",
+      "Storage maker Sandisk (SNDK) and memory chipmakers Micron Technology (MU) and SK Hynix (SKHY) all gained over 6%."
+    ],
+    "html": null
+  }
+}

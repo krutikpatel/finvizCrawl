@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026/card/coreweave-rallies-lifting-cloud-and-chip-stocks-NxyTyoU07TRvcjNeJmWU?mod=wsj_FV",
+    "fetched_at": "2026-11-11T07:00:10.881997-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CoreWeave Rallies, Lifting Cloud and Chip Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nJust In\nCoreWeave Rallies, Lifting Cloud and Chip Stocks\nCoreWeave shares are up some 12% after its earnings soothed investor anxieties around the AI build-out.\nIt's the second most actively traded stock on the Nasdaq-100 this morning. Other AI names are catching the tailwind, too:\n🏭 Other \"neoclouds,\" which lease data centers to tech giants, are up, notably Nebius.",
+    "text_blocks": [
+      "LIVE",
+      "Just In",
+      "CoreWeave Rallies, Lifting Cloud and Chip Stocks",
+      "CoreWeave shares are up some 12% after its earnings soothed investor anxieties around the AI build-out.",
+      "It's the second most actively traded stock on the Nasdaq-100 this morning. Other AI names are catching the tailwind, too:",
+      "🏭 Other \"neoclouds,\" which lease data centers to tech giants, are up, notably Nebius."
+    ],
+    "html": null
+  }
+}

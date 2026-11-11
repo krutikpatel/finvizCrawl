@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
+    "fetched_at": "2026-11-11T07:00:26.301039-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Goldman Sachs is sifting through the AI stock rubble in search of bargains.\n\"We believe stocks are now clearly in oversold territory,\" Goldman Sachs analyst James Schneider said about semiconductor stocks.\nThree of his top names to buy: Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD).\n\"Even in a 'no growth' scenario for 2028 (which we see as relatively unlikely), NVDA/AVGO are trading 12X/13X this baseline — which we believe valuations are compelling at current levels,\" Schneider wrote in a note. \"We find AMD to be very attractive given the growth we believe it can achieve, albeit at a less compelling valuation.\"\nIt has been a brutal run for tech stocks in November.\nThe S&P 500 (^GSPC) lost 4.3% of its market value on Nov. 5 as investors assessed what a blue wave on Election Day would mean for the build-out of AI data centers. The move wiped out $3 trillion in value.\nThe Dow Jones Industrial Average (^DJI) plunged 1,800 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 5.5%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).\nStocks have continued to trade with a downward bias, especially semiconductor names.\nThe Philadelphia Semiconductor Index (^SOX) is down 21% in the past month, and 6% in November alone.\n\"We believe the market has been contending with competing tensions relative to semiconductors: (1) How does the funding gap between current capex and free cash flows for hyperscalers and AI model labs levels get closed? (2) Is there sufficient land/power/shell coming on line to match current Street estimates for Semis?\" Schneider explained. \"Following the US elections on Nov. 3, the second of these tensions came into greater focus with greater uncertainty around the pace of datacenter builds in states such as Texas.\"\nHe added, \"[Although] we recognize there may be few catalysts for stocks to move higher before year end, we think risk/reward is compelling for select names at current levels.\"\nBrian Sozzi is Yahoo Finance's Executive Editor. Follow him on X @BrianSozzi, Instagram, and LinkedIn.",
+    "text_blocks": [
+      "Goldman Sachs is sifting through the AI stock rubble in search of bargains.",
+      "\"We believe stocks are now clearly in oversold territory,\" Goldman Sachs analyst James Schneider said about semiconductor stocks.",
+      "Three of his top names to buy: Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD).",
+      "\"Even in a 'no growth' scenario for 2028 (which we see as relatively unlikely), NVDA/AVGO are trading 12X/13X this baseline — which we believe valuations are compelling at current levels,\" Schneider wrote in a note. \"We find AMD to be very attractive given the growth we believe it can achieve, albeit at a less compelling valuation.\"",
+      "It has been a brutal run for tech stocks in November.",
+      "The S&P 500 (^GSPC) lost 4.3% of its market value on Nov. 5 as investors assessed what a blue wave on Election Day would mean for the build-out of AI data centers. The move wiped out $3 trillion in value.",
+      "The Dow Jones Industrial Average (^DJI) plunged 1,800 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 5.5%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).",
+      "Stocks have continued to trade with a downward bias, especially semiconductor names.",
+      "The Philadelphia Semiconductor Index (^SOX) is down 21% in the past month, and 6% in November alone.",
+      "\"We believe the market has been contending with competing tensions relative to semiconductors: (1) How does the funding gap between current capex and free cash flows for hyperscalers and AI model labs levels get closed? (2) Is there sufficient land/power/shell coming on line to match current Street estimates for Semis?\" Schneider explained. \"Following the US elections on Nov. 3, the second of these tensions came into greater focus with greater uncertainty around the pace of datacenter builds in states such as Texas.\"",
+      "He added, \"[Although] we recognize there may be few catalysts for stocks to move higher before year end, we think risk/reward is compelling for select names at current levels.\"",
+      "Brian Sozzi is Yahoo Finance's Executive Editor. Follow him on X @BrianSozzi, Instagram, and LinkedIn."
+    ],
+    "html": null
+  }
+}

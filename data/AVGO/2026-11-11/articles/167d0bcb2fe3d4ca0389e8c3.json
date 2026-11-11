@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
+    "fetched_at": "2026-11-11T07:00:26.157650-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Jensen Huang was Washington's loudest voice against cutting China off from American chips, and his spy scandal is now the hawks' best argument. Meanwhile, the Commerce Department hasn't added a single company to its export ban list in 13 months.\nThe Nvidia (NVDA) CEO admitted Sunday to an affair with Alice Huang, whom US intelligence officials believe worked for China's Ministry of State Security. Nvidia stock fell about 4% Monday, even as chip stocks (^SOX) jumped nearly 7%. That was Nvidia's worst day during a 5%-plus chip rally since Oct. 28, 1999, months after it went public.\nNvidia fell again Tuesday as The Information reported that at least $7.5 billion of Nvidia hardware has reached Chinese companies since 2023 through a network linked to Alice Huang. The stock closed down 5.5%, while rivals AMD (AMD) and Broadcom (AVGO) rose.\nThe list in question is Commerce's Entity List. Companies on it need a US license to buy American technology, and those licenses are rarely granted. Commerce added 170 names in 2025 and 366 the year before. It hasn't added one since Oct. 9, 2025, by Yahoo Finance's count.\nOn Monday, Commerce extended its pause on a rule that would stretch those limits to companies majority-owned by listed firms. But only by two months, to Jan. 10, a week after a new Democratic Congress is sworn in.\n\"I think Commerce Department is going to batten down the hatches, and they're going to enforce export controls in a way that they weren't doing it before,\" Isaac Stone Fish, CEO and founder of Strategy Risks, told Deirdre Bosa on Monday.\nThe tech industry's own leaders see the stakes. \"We lead in AI, and that means leading in power. It means leading in compute. It means leading in chips,\" Bret Taylor, OpenAI's chairman and CEO of AI startup Sierra, told Bosa on the same show. \"AI is not particularly popular right now in this country,\" he added. \"So I think this just introduces even more risk.\"\nHuang's case against chip bans was simple. Cut China off, and it builds its own champion.\nHuawei is his best exhibit. US sanctions knocked its sales from about $129 billion in 2020 to $95 billion two years later. Last year, it brought in about $123 billion, most of the way back, while building its own AI chips.\nStone Fish points instead to cars, where China absorbed Western know-how and then outbuilt its teachers. \"Arguably the best car in the world is not American, Japanese or European, but it's Chinese, and export controls are a way of preventing that from happening,\" he said.",
+    "text_blocks": [
+      "Jensen Huang was Washington's loudest voice against cutting China off from American chips, and his spy scandal is now the hawks' best argument. Meanwhile, the Commerce Department hasn't added a single company to its export ban list in 13 months.",
+      "The Nvidia (NVDA) CEO admitted Sunday to an affair with Alice Huang, whom US intelligence officials believe worked for China's Ministry of State Security. Nvidia stock fell about 4% Monday, even as chip stocks (^SOX) jumped nearly 7%. That was Nvidia's worst day during a 5%-plus chip rally since Oct. 28, 1999, months after it went public.",
+      "Nvidia fell again Tuesday as The Information reported that at least $7.5 billion of Nvidia hardware has reached Chinese companies since 2023 through a network linked to Alice Huang. The stock closed down 5.5%, while rivals AMD (AMD) and Broadcom (AVGO) rose.",
+      "The list in question is Commerce's Entity List. Companies on it need a US license to buy American technology, and those licenses are rarely granted. Commerce added 170 names in 2025 and 366 the year before. It hasn't added one since Oct. 9, 2025, by Yahoo Finance's count.",
+      "On Monday, Commerce extended its pause on a rule that would stretch those limits to companies majority-owned by listed firms. But only by two months, to Jan. 10, a week after a new Democratic Congress is sworn in.",
+      "\"I think Commerce Department is going to batten down the hatches, and they're going to enforce export controls in a way that they weren't doing it before,\" Isaac Stone Fish, CEO and founder of Strategy Risks, told Deirdre Bosa on Monday.",
+      "The tech industry's own leaders see the stakes. \"We lead in AI, and that means leading in power. It means leading in compute. It means leading in chips,\" Bret Taylor, OpenAI's chairman and CEO of AI startup Sierra, told Bosa on the same show. \"AI is not particularly popular right now in this country,\" he added. \"So I think this just introduces even more risk.\"",
+      "Huang's case against chip bans was simple. Cut China off, and it builds its own champion.",
+      "Huawei is his best exhibit. US sanctions knocked its sales from about $129 billion in 2020 to $95 billion two years later. Last year, it brought in about $123 billion, most of the way back, while building its own AI chips.",
+      "Stone Fish points instead to cars, where China absorbed Western know-how and then outbuilt its teachers. \"Arguably the best car in the world is not American, Japanese or European, but it's Chinese, and export controls are a way of preventing that from happening,\" he said."
+    ],
+    "html": null
+  }
+}

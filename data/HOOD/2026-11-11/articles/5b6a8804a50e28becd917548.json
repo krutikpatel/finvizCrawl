@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/-flash-heard-why-prediction-markets-are-so-lucrative-for-robinhood-patJaU83tdkdFbX3dPib?mod=wsj_FV",
+    "fetched_at": "2026-11-11T07:00:16.080976-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "⚡Flash Heard: Why Prediction Markets Are So Lucrative for Robinhood",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Oct. 28, 2026 3:44pm ET\n⚡Flash Heard: Why Prediction Markets Are So Lucrative for Robinhood\nPeople playing the predictions market don’t win with every contract. But their broker does.\nSince the fourth quarter of last year, Robinhood Markets has earned more transaction-based revenue from event contracts than stock trading. Event-contract revenue was $173 million in the third quarter, versus $121 million in equities.\nStill, it takes some figuring to understand how much more lucrative it is for Robinhood when customers put their money to work in contracts on sports, financial or political outcomes, versus putting it to work in the stock market.",
+    "text_blocks": [
+      "Oct. 28, 2026 3:44pm ET",
+      "⚡Flash Heard: Why Prediction Markets Are So Lucrative for Robinhood",
+      "People playing the predictions market don’t win with every contract. But their broker does.",
+      "Since the fourth quarter of last year, Robinhood Markets has earned more transaction-based revenue from event contracts than stock trading. Event-contract revenue was $173 million in the third quarter, versus $121 million in equities.",
+      "Still, it takes some figuring to understand how much more lucrative it is for Robinhood when customers put their money to work in contracts on sports, financial or political outcomes, versus putting it to work in the stock market."
+    ],
+    "html": null
+  }
+}

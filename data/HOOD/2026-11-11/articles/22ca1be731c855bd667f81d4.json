@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/robinhoods-chain-lifts-crypto-revenue-185408113.html",
+    "fetched_at": "2026-11-11T07:00:16.171763-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood's New Chain Lifts Crypto Revenue Despite Q3 Profit Miss",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood's crypto business finally bounced back last quarter, and its own Ethereum Layer 2 deserves much of the credit.\nPer the brokerage's Q3 2026 results, released Tuesday (Oct. 27th), crypto revenue came in at $120M, down 55% YoY but up 20% from Q2's $100M as Robinhood Chain wrapped its debut quarter on mainnet.\nWhat's the Scoop?\n-\nThe chain's haul: Robinhood Chain handled more than $80B in DEX trading and threw off upward of $50M in fees last quarter, putting it among the top five chains by both revenue and volume. On the earnings call, CFO Shiv Verma put Robinhood's net take at about $25M, or roughly $100M annualized.\n-\nEarn's tradeoff: Verma blamed a thinner crypto take rate on Robinhood Earn, the firm's USDG yield product built on Morpho, which he said holds \"over $500 million\" yet pays Robinhood less than its usual trading business. Volume played a role, too. Crypto notional volume sank 38% YoY to $50B, and Bitstamp now handles more of it ($29B) than the Robinhood app itself ($21B).\n-\nPrediction markets lead: Event contracts brought in $173M, more than 6x their year-ago total, beating crypto for a second quarter in a row. Verma told Reuters that prediction markets are \"almost a $500-million-a-year business already.\"\n-\nMixed bag overall: Revenue hit a record $1.42B, up 12% YoY, but Robinhood's $0.51 in diluted EPS fell short of the ~$0.55-$0.56 analyst consensus, weighed down in part by $67M in unrealized losses tied to Robinhood Ventures Fund I. HOOD shares slid after hours and were still trading lower Wednesday morning.\n-\nPerspective: Robinhood Chain is now a real revenue line, but maybe not a steady one just yet. Q3's fees got a boost from late-summer memecoin mania, and by late August the L2 was out-earning every major chain but Canton on daily organic revenue. Next up, Coinbase reports Thursday (Oct. 29th), which should show whether the retail spot slump is Robinhood's problem or the whole industry's.",
+    "text_blocks": [
+      "Robinhood's crypto business finally bounced back last quarter, and its own Ethereum Layer 2 deserves much of the credit.",
+      "Per the brokerage's Q3 2026 results, released Tuesday (Oct. 27th), crypto revenue came in at $120M, down 55% YoY but up 20% from Q2's $100M as Robinhood Chain wrapped its debut quarter on mainnet.",
+      "What's the Scoop?",
+      "-",
+      "The chain's haul: Robinhood Chain handled more than $80B in DEX trading and threw off upward of $50M in fees last quarter, putting it among the top five chains by both revenue and volume. On the earnings call, CFO Shiv Verma put Robinhood's net take at about $25M, or roughly $100M annualized.",
+      "-",
+      "Earn's tradeoff: Verma blamed a thinner crypto take rate on Robinhood Earn, the firm's USDG yield product built on Morpho, which he said holds \"over $500 million\" yet pays Robinhood less than its usual trading business. Volume played a role, too. Crypto notional volume sank 38% YoY to $50B, and Bitstamp now handles more of it ($29B) than the Robinhood app itself ($21B).",
+      "-",
+      "Prediction markets lead: Event contracts brought in $173M, more than 6x their year-ago total, beating crypto for a second quarter in a row. Verma told Reuters that prediction markets are \"almost a $500-million-a-year business already.\"",
+      "-",
+      "Mixed bag overall: Revenue hit a record $1.42B, up 12% YoY, but Robinhood's $0.51 in diluted EPS fell short of the ~$0.55-$0.56 analyst consensus, weighed down in part by $67M in unrealized losses tied to Robinhood Ventures Fund I. HOOD shares slid after hours and were still trading lower Wednesday morning.",
+      "-",
+      "Perspective: Robinhood Chain is now a real revenue line, but maybe not a steady one just yet. Q3's fees got a boost from late-summer memecoin mania, and by late August the L2 was out-earning every major chain but Canton on daily organic revenue. Next up, Coinbase reports Thursday (Oct. 29th), which should show whether the retail spot slump is Robinhood's problem or the whole industry's."
+    ],
+    "html": null
+  }
+}

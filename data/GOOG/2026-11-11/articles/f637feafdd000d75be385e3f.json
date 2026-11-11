@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/eu-drafts-curbs-targeting-addictive-165151496.html",
+    "fetched_at": "2026-11-11T07:00:21.258094-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "EU drafts curbs targeting addictive social media features and AI chatbots - report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- European Union regulators are preparing a fresh legislative assault on digital platforms, targeting addictive design mechanics and conversational artificial intelligence designed to drive compulsive engagement. The draft measures, part of an upcoming \"Digital Fairness Act\" reported by Bloomberg News, would mandate that tech companies allow adult users to disable features that encourage excessive use while also reining in AI chatbots that simulate personal relationships.\nThe proposed framework poses immediate compliance and operational headwinds for major technology operators, including Meta Platforms Inc (NASDAQ:META), Alphabet Inc's (NASDAQ:GOOGL) Google, and ByteDance Ltd.'s TikTok, whose business models depend heavily on prolonged user interaction. Non-compliance could carry severe financial repercussions, with draft provisions outlining penalties of up to 6% of a company's global annual turnover.\nThe initiative arrives as Brussels steadily intensifies regulatory pressure on behavioral algorithms, having already opened formal investigations into Meta and TikTok under the Digital Services Act over suspected addictive interface designs. European policymakers are simultaneously assembling a broader \"Kids Act\" intended to force social media and AI platforms into \"safe by design\" standards while curbing access for younger teenagers, according to Bloomberg.\nFor digital advertising and artificial intelligence developers, the emerging dual-track legislation signals a challenging regulatory trajectory across European markets that could directly threaten user session duration and ad impression inventory. Investors are now watching Wednesday's expected formal presentation by the European Commission to assess the definitive timetable, enforcement scope, and structural impact on top-line monetization.\nOriginal Article\nEU drafts curbs targeting addictive social media features and AI chatbots - report\nAnthropic targets next-week IPO despite AI market volatility, WSJ reports\nNvidia intervention preceded transfer of chip probe to Justice Department",
+    "text_blocks": [
+      "Investing.com -- European Union regulators are preparing a fresh legislative assault on digital platforms, targeting addictive design mechanics and conversational artificial intelligence designed to drive compulsive engagement. The draft measures, part of an upcoming \"Digital Fairness Act\" reported by Bloomberg News, would mandate that tech companies allow adult users to disable features that encourage excessive use while also reining in AI chatbots that simulate personal relationships.",
+      "The proposed framework poses immediate compliance and operational headwinds for major technology operators, including Meta Platforms Inc (NASDAQ:META), Alphabet Inc's (NASDAQ:GOOGL) Google, and ByteDance Ltd.'s TikTok, whose business models depend heavily on prolonged user interaction. Non-compliance could carry severe financial repercussions, with draft provisions outlining penalties of up to 6% of a company's global annual turnover.",
+      "The initiative arrives as Brussels steadily intensifies regulatory pressure on behavioral algorithms, having already opened formal investigations into Meta and TikTok under the Digital Services Act over suspected addictive interface designs. European policymakers are simultaneously assembling a broader \"Kids Act\" intended to force social media and AI platforms into \"safe by design\" standards while curbing access for younger teenagers, according to Bloomberg.",
+      "For digital advertising and artificial intelligence developers, the emerging dual-track legislation signals a challenging regulatory trajectory across European markets that could directly threaten user session duration and ad impression inventory. Investors are now watching Wednesday's expected formal presentation by the European Commission to assess the definitive timetable, enforcement scope, and structural impact on top-line monetization.",
+      "Original Article",
+      "EU drafts curbs targeting addictive social media features and AI chatbots - report",
+      "Anthropic targets next-week IPO despite AI market volatility, WSJ reports",
+      "Nvidia intervention preceded transfer of chip probe to Justice Department"
+    ],
+    "html": null
+  }
+}

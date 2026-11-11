@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/server-cpu-strength-persists-amd-132222608.html",
+    "fetched_at": "2026-11-11T07:00:42.135589-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- UBS told clients in a note on Wednesday that demand for server processors stayed strong in the third quarter, with chips based on Arm (NASDAQ: ARM) designs and Advanced Micro Devices (NASDAQ: AMD) continuing to take market share from Intel (NASDAQ: INTC).\nAnalyst Timothy Arcuri noted that total server CPU shipments rose about 6% from the prior quarter and 31% from a year earlier, beating the typical seasonal increase of 3%.\nOn a unit basis, Arm's share rose about 250 basis points to 20.1%, while Intel's fell about 240 basis points to 51.5%. AMD's share was roughly flat at 28.4%.\nUBS sees a much larger long-term opportunity for CPUs as agentic AI workloads require more processors alongside each GPU. The bank estimates unconstrained CPU demand could support a market of more than $500 billion by 2030.\nHowever, Arcuri said memory supply is likely to cap that growth, as AI processors need significantly more memory than traditional server chips.\n\"As a result, we think CPU demand could be substantially higher than our current forecasts, but memory supply likely keeps the realizable market closer to ~$210B by C2030,\" he wrote.\nPC processor shipments fell 6% from the prior quarter, well below the typical seasonal increase of 1%. Intel gained unit share in PCs but lost revenue share in notebooks.\nArcuri said rising memory prices, followed by higher CPU prices, are expected to weigh on PC demand. UBS now forecasts 2027 global PC shipments to fall 4%, compared with its prior forecast of a 2% increase.\nOriginal Article\nServer CPU strength persists as AMD and Arm gain share: UBS\nFTSE 100 today: Stocks rise as oil rebounds; Spirax tops gainers\nCoreWeave rally signals relief for Nvidia as analyst sees AI demand accelerating",
+    "text_blocks": [
+      "Investing.com -- UBS told clients in a note on Wednesday that demand for server processors stayed strong in the third quarter, with chips based on Arm (NASDAQ: ARM) designs and Advanced Micro Devices (NASDAQ: AMD) continuing to take market share from Intel (NASDAQ: INTC).",
+      "Analyst Timothy Arcuri noted that total server CPU shipments rose about 6% from the prior quarter and 31% from a year earlier, beating the typical seasonal increase of 3%.",
+      "On a unit basis, Arm's share rose about 250 basis points to 20.1%, while Intel's fell about 240 basis points to 51.5%. AMD's share was roughly flat at 28.4%.",
+      "UBS sees a much larger long-term opportunity for CPUs as agentic AI workloads require more processors alongside each GPU. The bank estimates unconstrained CPU demand could support a market of more than $500 billion by 2030.",
+      "However, Arcuri said memory supply is likely to cap that growth, as AI processors need significantly more memory than traditional server chips.",
+      "\"As a result, we think CPU demand could be substantially higher than our current forecasts, but memory supply likely keeps the realizable market closer to ~$210B by C2030,\" he wrote.",
+      "PC processor shipments fell 6% from the prior quarter, well below the typical seasonal increase of 1%. Intel gained unit share in PCs but lost revenue share in notebooks.",
+      "Arcuri said rising memory prices, followed by higher CPU prices, are expected to weigh on PC demand. UBS now forecasts 2027 global PC shipments to fall 4%, compared with its prior forecast of a 2% increase.",
+      "Original Article",
+      "Server CPU strength persists as AMD and Arm gain share: UBS",
+      "FTSE 100 today: Stocks rise as oil rebounds; Spirax tops gainers",
+      "CoreWeave rally signals relief for Nvidia as analyst sees AI demand accelerating"
+    ],
+    "html": null
+  }
+}

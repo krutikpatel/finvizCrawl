@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/data-centers-will-prevail-despite-all-the-opposition-how-to-play-it-with-options-087b19b2?mod=bar_FV",
+    "fetched_at": "2026-11-11T07:00:34.095038-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Data Centers Will Prevail Despite Opposition. How to Play It With Options<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Data Centers Will Prevail Despite All the Opposition. How to Play It With Options.\nArtificial intelligence may destroy humanity, and data center opposition could decimate the AI ecosystem, but the Democrats who now control Congress are unlikely to severely impede progress. Even the most vehement protesters are likely to evolve their thinking.",
+    "text_blocks": [
+      "Data Centers Will Prevail Despite All the Opposition. How to Play It With Options.",
+      "Artificial intelligence may destroy humanity, and data center opposition could decimate the AI ecosystem, but the Democrats who now control Congress are unlikely to severely impede progress. Even the most vehement protesters are likely to evolve their thinking."
+    ],
+    "html": null
+  }
+}

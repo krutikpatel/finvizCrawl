@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
+    "fetched_at": "2026-11-11T07:00:21.216886-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Good morning. Stocks rose on Monday, led by a rally in the Technology (XLK) sector. Nvidia (NVDA) shares, meanwhile, recovered from early-morning losses of as much as 8%, although the stock remained down more than 4% following reports alleging that the AI chipmaker's CEO, Jensen Huang, had an affair with a woman linked to the Chinese government.\nThe broader semiconductor sector rallied, with AMD (AMD) jumping 9% following an upgrade to Buy from Oppenheimer.\nThe 10-year Treasury (^TNX) yield eased to 4.85%, while Brent crude futures (BZ=F) tumbled 4%, trading near $94 per barrel, while WTI (CL=F) slipped to $87.\nHere's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.\nHere are some other notable stocks that Yahoo Finance readers are viewing this morning: Constellation Energy (CEG), Amazon (AMZN), and Alphabet (GOOGL).",
+    "text_blocks": [
+      "Good morning. Stocks rose on Monday, led by a rally in the Technology (XLK) sector. Nvidia (NVDA) shares, meanwhile, recovered from early-morning losses of as much as 8%, although the stock remained down more than 4% following reports alleging that the AI chipmaker's CEO, Jensen Huang, had an affair with a woman linked to the Chinese government.",
+      "The broader semiconductor sector rallied, with AMD (AMD) jumping 9% following an upgrade to Buy from Oppenheimer.",
+      "The 10-year Treasury (^TNX) yield eased to 4.85%, while Brent crude futures (BZ=F) tumbled 4%, trading near $94 per barrel, while WTI (CL=F) slipped to $87.",
+      "Here's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.",
+      "Here are some other notable stocks that Yahoo Finance readers are viewing this morning: Constellation Energy (CEG), Amazon (AMZN), and Alphabet (GOOGL)."
+    ],
+    "html": null
+  }
+}

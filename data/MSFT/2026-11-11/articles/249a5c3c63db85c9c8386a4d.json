@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/northern-trust-leans-microsoft-fdes-120000173.html",
+    "fetched_at": "2026-11-11T07:00:23.792520-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Northern Trust leans on Microsoft FDEs to boost agentic buildout",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.\nDive Brief:\n-\nNorthern Trust worked with Microsoft Frontier Company's forward deployed engineering teams to build an AI-powered onboarding agent that cuts data preparation time by 83% — from two and a half weeks to three days — for the financial services firm's analysts, according to a Monday announcement. The agent consolidates customer data from multiple, disparate sources into a standardized format to ease new client onboarding.\n-\nThe agent is built on Microsoft Azure, using Microsoft Foundry for enterprise AI, and connects to Microsoft 365 tools. The foundation lets Northern Trust analysts review and approve the agent's work while a governed intelligence layer preserves onboarding knowledge, letting the agent build expertise over time, the announcement said.\n-\nThe agent speeds the onboarding process for clients while maintaining oversight and controls, Pete Cherecwich, chief operating officer at Northern Trust, said in the announcement.\nDive Insight:\nNorthern Trust expanded its longstanding partnership with Microsoft to build the client onboarding agent, a move that comes as financial services firms navigate deploying advanced AI while maintaining security, privacy and governance controls.\nAccelerated AI use is prompting a heightened focus on governance and responsible AI use among financial institutions, according to an Evident report published last month. More than two-thirds of global financial firms surveyed by Evident for the report said they have added additional controls for AI systems.\nNorthern Trust's client onboarding agent combines \"advanced AI with enterprise-grade privacy, security and governance to make the process faster for clients,\" Northern Trust CEO Michael O'Grady said last month during the financial services firm's Q3 2026 earnings call.\nHuman oversight has been embedded throughout the agent's workflow, letting analysts evaluate the tool's reasoning and review outputs, according to the Monday announcement.\n\"This approach points to a broader opportunity across regulated industries to transform complex workflows and deliver business value without compromising trust,\" Bill Borden, corporate VP of worldwide financial services at Microsoft, said in the announcement.\nAlongside its client onboarding agent, Northern Trust has adopted client action plan agents, which O'Grady said save customer relationship managers two to three hours per client memo. AI-enabled digitization has also nearly doubled straight-through processing, or automated financial transactions, for the company. Internally, the bank's AI assistant Byron supports wealth managers with more tailored insights to deliver to clients, he added.",
+    "text_blocks": [
+      "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.",
+      "Dive Brief:",
+      "-",
+      "Northern Trust worked with Microsoft Frontier Company's forward deployed engineering teams to build an AI-powered onboarding agent that cuts data preparation time by 83% — from two and a half weeks to three days — for the financial services firm's analysts, according to a Monday announcement. The agent consolidates customer data from multiple, disparate sources into a standardized format to ease new client onboarding.",
+      "-",
+      "The agent is built on Microsoft Azure, using Microsoft Foundry for enterprise AI, and connects to Microsoft 365 tools. The foundation lets Northern Trust analysts review and approve the agent's work while a governed intelligence layer preserves onboarding knowledge, letting the agent build expertise over time, the announcement said.",
+      "-",
+      "The agent speeds the onboarding process for clients while maintaining oversight and controls, Pete Cherecwich, chief operating officer at Northern Trust, said in the announcement.",
+      "Dive Insight:",
+      "Northern Trust expanded its longstanding partnership with Microsoft to build the client onboarding agent, a move that comes as financial services firms navigate deploying advanced AI while maintaining security, privacy and governance controls.",
+      "Accelerated AI use is prompting a heightened focus on governance and responsible AI use among financial institutions, according to an Evident report published last month. More than two-thirds of global financial firms surveyed by Evident for the report said they have added additional controls for AI systems.",
+      "Northern Trust's client onboarding agent combines \"advanced AI with enterprise-grade privacy, security and governance to make the process faster for clients,\" Northern Trust CEO Michael O'Grady said last month during the financial services firm's Q3 2026 earnings call.",
+      "Human oversight has been embedded throughout the agent's workflow, letting analysts evaluate the tool's reasoning and review outputs, according to the Monday announcement.",
+      "\"This approach points to a broader opportunity across regulated industries to transform complex workflows and deliver business value without compromising trust,\" Bill Borden, corporate VP of worldwide financial services at Microsoft, said in the announcement.",
+      "Alongside its client onboarding agent, Northern Trust has adopted client action plan agents, which O'Grady said save customer relationship managers two to three hours per client memo. AI-enabled digitization has also nearly doubled straight-through processing, or automated financial transactions, for the company. Internally, the bank's AI assistant Byron supports wealth managers with more tailored insights to deliver to clients, he added."
+    ],
+    "html": null
+  }
+}

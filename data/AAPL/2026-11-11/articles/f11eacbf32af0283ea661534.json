@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/anthropic-ipo-ant-stock-price-fa215f5a?mod=bar_FV",
+    "fetched_at": "2026-11-11T07:00:05.528088-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic’s IPO Price Isn’t Outlandish. Here’s the Case for the Stock.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Anthropic’s IPO Price Isn’t So Outlandish. Here’s the Case for the Stock.\nAnthropic’s bankers seem to have lowered their IPO expectations following recent turmoil in the tech sector. It’s a potential win for retail investors.\nNot long ago, Wall Street was whispering about a $2 trillion valuation for Anthropic’s coming initial public offering. Now, after a series of artificial-intelligence-led selloffs, the company’s bankers have officially set a price range for the stock and, relatively speaking, it looks cheap.",
+    "text_blocks": [
+      "Anthropic’s IPO Price Isn’t So Outlandish. Here’s the Case for the Stock.",
+      "Anthropic’s bankers seem to have lowered their IPO expectations following recent turmoil in the tech sector. It’s a potential win for retail investors.",
+      "Not long ago, Wall Street was whispering about a $2 trillion valuation for Anthropic’s coming initial public offering. Now, after a series of artificial-intelligence-led selloffs, the company’s bankers have officially set a price range for the stock and, relatively speaking, it looks cheap."
+    ],
+    "html": null
+  }
+}

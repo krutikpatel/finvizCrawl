@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/panw-crwd-zs-lead-nasdaq-033828720.html",
+    "fetched_at": "2026-11-11T07:00:39.408237-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks\n-\nNvidia's new open-source framework brings major cybersecurity firms into an effort to secure autonomous AI agents.\n-\nRecent AI safety incidents have highlighted the growing risks of agents accessing real-world systems.\n-\nPANW and CRWD have extended a broader rally, nearing recent highs.\nCybersecurity stocks rallied on Monday even as the broader technology market came under pressure, with investors betting that the rapid expansion of AI agents will create a bigger market for digital security tools.\nPalo Alto Networks (PANW), CrowdStrike (CRWD) and Zscaler (ZS) were the top three performers in the Nasdaq-100, gaining 4.6%, 2.8% and 3.3%, respectively. All three trade near all-time highs. The stocks dipped 0.1% to 0.4% in overnight trading.\nThe rally came after Nvidia (NVDA) announced its Open Agent Safety Platform, a new open-source framework designed for security controls around autonomous AI agents from testing through deployment.\nCrowdStrike and Palo Alto Networks are among more than 100 organizations working with Nvidia on the platform. \"This is bigger than a single product. It's the beginning of an open ecosystem to build the trust layer for safe agent systems,\" Nvidia CEO Jensen Huang said in an X post announcing the initiative.\nAI Agents Raise Cybersecurity Stakes\nAs companies build more sophisticated AI agents and consumption rises, the need for safety controls is growing. OpenAI disclosed in July that an AI agent being tested internally escaped its containment and compromised the infrastructure of AI platform Hugging Face during a cybersecurity evaluation.\nMore recently, OpenAI agents attempted unauthorized access to several government and institutional websites, including U.S. government platforms and an Australian government portal.\nAnthropic has also disclosed multiple incidents in which Claude models gained unauthorized access to real third-party systems during cybersecurity evaluations.\nOn Monday, OpenAI said it canceled the planned October release of its GPT-6.1 Astra model after internal testing raised concerns around safety and alignment, including instances in which the model could evade human oversight.\nPANW, ZS, CRWD Stock Moves\nThe latest gains extend a much broader rally. PANW has surged roughly 100% over the past six months, while CrowdStrike has more than doubled in 2026. Zscaler, meanwhile, has staged a sharp September rebound after a volatile first half.",
+    "text_blocks": [
+      "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
+      "-",
+      "Nvidia's new open-source framework brings major cybersecurity firms into an effort to secure autonomous AI agents.",
+      "-",
+      "Recent AI safety incidents have highlighted the growing risks of agents accessing real-world systems.",
+      "-",
+      "PANW and CRWD have extended a broader rally, nearing recent highs.",
+      "Cybersecurity stocks rallied on Monday even as the broader technology market came under pressure, with investors betting that the rapid expansion of AI agents will create a bigger market for digital security tools.",
+      "Palo Alto Networks (PANW), CrowdStrike (CRWD) and Zscaler (ZS) were the top three performers in the Nasdaq-100, gaining 4.6%, 2.8% and 3.3%, respectively. All three trade near all-time highs. The stocks dipped 0.1% to 0.4% in overnight trading.",
+      "The rally came after Nvidia (NVDA) announced its Open Agent Safety Platform, a new open-source framework designed for security controls around autonomous AI agents from testing through deployment.",
+      "CrowdStrike and Palo Alto Networks are among more than 100 organizations working with Nvidia on the platform. \"This is bigger than a single product. It's the beginning of an open ecosystem to build the trust layer for safe agent systems,\" Nvidia CEO Jensen Huang said in an X post announcing the initiative.",
+      "AI Agents Raise Cybersecurity Stakes",
+      "As companies build more sophisticated AI agents and consumption rises, the need for safety controls is growing. OpenAI disclosed in July that an AI agent being tested internally escaped its containment and compromised the infrastructure of AI platform Hugging Face during a cybersecurity evaluation.",
+      "More recently, OpenAI agents attempted unauthorized access to several government and institutional websites, including U.S. government platforms and an Australian government portal.",
+      "Anthropic has also disclosed multiple incidents in which Claude models gained unauthorized access to real third-party systems during cybersecurity evaluations.",
+      "On Monday, OpenAI said it canceled the planned October release of its GPT-6.1 Astra model after internal testing raised concerns around safety and alignment, including instances in which the model could evade human oversight.",
+      "PANW, ZS, CRWD Stock Moves",
+      "The latest gains extend a much broader rally. PANW has surged roughly 100% over the past six months, while CrowdStrike has more than doubled in 2026. Zscaler, meanwhile, has staged a sharp September rebound after a volatile first half."
+    ],
+    "html": null
+  }
+}
