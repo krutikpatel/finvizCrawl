@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-urges-faster-ai-144700224.html",
+    "fetched_at": "2026-11-12T07:00:34.215446-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple CEO urges faster AI work as Siri leadership faces uncertainty",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple Inc (NASDAQ:AAPL, XETRA:APC) CEO John Ternus pressured software chief Craig Federighi to speed up the company's artificial intelligence roadmap and move quickly beyond essential Siri improvements, Bloomberg reported.\nTernus is reportedly pushing for changes in a closed-door meeting, citing concerns that the company has been slower to embrace AI than its competitors.\nFederighi has been considered an AI skeptic concerned about the technology's implications for privacy, security, society and employment, according to Gurman.\nApple wants Siri AI to become more agentic, he wrote, citing Ternus calling those capabilities \"promising\" on a recent earnings call.\nThe executive overseeing Siri engineering, Mike Rockwell, is still considering leaving his role or the company next year, according to the report.\nRockwell has reportedly been unhappy about receiving insufficient credit for fixing the digital assistant.\nIf he leaves, his Siri AI work could pass to Federighi's deputy, Sebastien Marineau, and Google veteran Amar Subramanya, hired last year to strengthen the company's AI efforts.\nApple is also changing development cycles for iOS 28 and other major operating system updates, allowing more time for coding, exploration, and feature development and less for integrating changes.",
+    "text_blocks": [
+      "Apple Inc (NASDAQ:AAPL, XETRA:APC) CEO John Ternus pressured software chief Craig Federighi to speed up the company's artificial intelligence roadmap and move quickly beyond essential Siri improvements, Bloomberg reported.",
+      "Ternus is reportedly pushing for changes in a closed-door meeting, citing concerns that the company has been slower to embrace AI than its competitors.",
+      "Federighi has been considered an AI skeptic concerned about the technology's implications for privacy, security, society and employment, according to Gurman.",
+      "Apple wants Siri AI to become more agentic, he wrote, citing Ternus calling those capabilities \"promising\" on a recent earnings call.",
+      "The executive overseeing Siri engineering, Mike Rockwell, is still considering leaving his role or the company next year, according to the report.",
+      "Rockwell has reportedly been unhappy about receiving insufficient credit for fixing the digital assistant.",
+      "If he leaves, his Siri AI work could pass to Federighi's deputy, Sebastien Marineau, and Google veteran Amar Subramanya, hired last year to strengthen the company's AI efforts.",
+      "Apple is also changing development cycles for iOS 28 and other major operating system updates, allowing more time for coding, exploration, and feature development and less for integrating changes."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-needs-3-beat-172700647.html",
+    "fetched_at": "2026-11-12T07:00:58.511580-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto needs a 3% beat to justify its premium valuation, says Bank of America",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Bank of America believes Palo Alto Networks Inc (NASDAQ:PANW, XETRA:5AP), will need to deliver a quarterly beat of at least 3% and raise its outlook to support its elevated valuation.\nThe bank reiterated its 'buy' rating on the cybersecurity group and $420 price target ahead of first-quarter financial 2027 results, due on November 18, after the shares retreated 25% from their October highs.\nPalo Alto trades at 18 times calendar-year 2027 enterprise value to sales, against a peer group median of seven times, leaving limited room for disappointment.\nBank of America said investors should focus on Next-Generation Security (NGS) annual recurring revenue (ARR), product revenue growth, remaining performance obligations (RPO), artificial intelligence security momentum and gross margins.\nNGS ARR is forecast to reach $9.55 billion in the first quarter, representing 63% year-on-year growth and implying $450 million of net new ARR, up 68%.\nConsensus expects NGS ARR to reach $9.9 billion in the second quarter, equivalent to 57% growth, with investors likely looking for beats of at least 3% against expectations.\nRevenue is forecast to rise 34% to $3.3 billion, while product revenue is expected to increase 25% to $542 million.\nRPO, which measures contracted revenue yet to be recognised, is forecast at $20.9 billion, up 35%, compared with $21.2 billion and 34% growth in the previous quarter.\nThe bank also highlighted Security for AI and Prisma AIRS, Palo Alto's artificial intelligence security platform, which previously reached $120 million in ARR and 800 customers.\nGross margins are another area of investor scrutiny, with Bank of America forecasting a 230-basis-point annual decline to 74.6% as higher cloud and component costs weigh on profitability.\nThe bank sees further support from firewall market share gains, platform sales and demand for hardware refreshes, despite signs of slowing growth at rivals Fortinet and Check Point.\nPalo Alto benefited from 17% growth in firewall bookings during financial 2026, while new cloud infrastructure, replacement cycles and rising artificial intelligence traffic could support further appliance purchases.\nBank of America also expects updates on the integration of CyberArk and Chronosphere, alongside clarity on the widely reported $500 million Clutch acquisition aimed at expanding its non-human identity security capabilities.\nThe bank argued that Palo Alto remains well positioned to benefit from organisations consolidating cybersecurity spending onto fewer platforms as artificial intelligence adoption increases.",
+    "text_blocks": [
+      "Bank of America believes Palo Alto Networks Inc (NASDAQ:PANW, XETRA:5AP), will need to deliver a quarterly beat of at least 3% and raise its outlook to support its elevated valuation.",
+      "The bank reiterated its 'buy' rating on the cybersecurity group and $420 price target ahead of first-quarter financial 2027 results, due on November 18, after the shares retreated 25% from their October highs.",
+      "Palo Alto trades at 18 times calendar-year 2027 enterprise value to sales, against a peer group median of seven times, leaving limited room for disappointment.",
+      "Bank of America said investors should focus on Next-Generation Security (NGS) annual recurring revenue (ARR), product revenue growth, remaining performance obligations (RPO), artificial intelligence security momentum and gross margins.",
+      "NGS ARR is forecast to reach $9.55 billion in the first quarter, representing 63% year-on-year growth and implying $450 million of net new ARR, up 68%.",
+      "Consensus expects NGS ARR to reach $9.9 billion in the second quarter, equivalent to 57% growth, with investors likely looking for beats of at least 3% against expectations.",
+      "Revenue is forecast to rise 34% to $3.3 billion, while product revenue is expected to increase 25% to $542 million.",
+      "RPO, which measures contracted revenue yet to be recognised, is forecast at $20.9 billion, up 35%, compared with $21.2 billion and 34% growth in the previous quarter.",
+      "The bank also highlighted Security for AI and Prisma AIRS, Palo Alto's artificial intelligence security platform, which previously reached $120 million in ARR and 800 customers.",
+      "Gross margins are another area of investor scrutiny, with Bank of America forecasting a 230-basis-point annual decline to 74.6% as higher cloud and component costs weigh on profitability.",
+      "The bank sees further support from firewall market share gains, platform sales and demand for hardware refreshes, despite signs of slowing growth at rivals Fortinet and Check Point.",
+      "Palo Alto benefited from 17% growth in firewall bookings during financial 2026, while new cloud infrastructure, replacement cycles and rising artificial intelligence traffic could support further appliance purchases.",
+      "Bank of America also expects updates on the integration of CyberArk and Chronosphere, alongside clarity on the widely reported $500 million Clutch acquisition aimed at expanding its non-human identity security capabilities.",
+      "The bank argued that Palo Alto remains well positioned to benefit from organisations consolidating cybersecurity spending onto fewer platforms as artificial intelligence adoption increases."
+    ],
+    "html": null
+  }
+}

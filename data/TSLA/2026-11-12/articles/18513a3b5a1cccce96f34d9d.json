@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/finland-approves-tesla-driver-assistance-104435782.html",
+    "fetched_at": "2026-11-12T07:00:03.625809-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Finland approves Tesla driver assistance system ahead of EU-wide decision",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Finnish Transport and Communications Agency (Traficom) has recognised the Dutch provisional type-approval for Tesla's Assisted Driving system, allowing immediate deployment on Finnish roads.\nThe recognition lets Tesla begin rolling out the software to customers in Finland before a formal European Union (EU) decision.\nThe European rollout depends on a vote scheduled for later this year by the European Commission's Technical Committee – Motor Vehicles (TCMV), after which EU-wide adoption would take effect in approximately three weeks.\nTraficom said national recognition does not bind Finland to a specific position in that vote.\nTo secure regulatory acceptance, Tesla made several modifications, most notably removing references to self driving.\nThe software, previously marketed as FSD (Supervised), is now Tesla Assisted Driving, where FSD stood for Full Self-Driving.\nTechnical changes to operational parameters mean drivers can no longer set the vehicle to continuously maintain speeds up to 50% above the posted speed limit.\nAny user configurations permitting speeding are now automatically reset to default settings, with zero tolerance above the limit, whenever the vehicle restarts.\nDashboard reporting on selected speed settings has been clarified.\nTraficom senior specialist Jukka Juhola said the agency considers advances in driver assistance system development a necessary part of progress towards automated transport.\nJuhola emphasised that the driver always remains fully responsible for vehicle operation, noting that such systems can make errors or operate inaccurately.\n\"The system's design and approval assessment have taken winter conditions into account, but its operation may be subject to various limitations if the cameras become covered in snow, slush or other dirt, or if traffic conditions become more challenging than usual,\" added Juhola.\nAlthough the software provides speed management and driver-monitoring alerts, motorists must remain prepared to intervene manually, including steering, braking or accelerating, even without a system prompt.\nTraficom said early domestic adoption lets Finnish drivers \"familiarise themselves with the system before the most challenging winter conditions arrive\".\nThe agency confirmed that deployment requires no vehicle modification inspection, provided the car has not undergone mechanical alterations affecting its operation, such as non-standard tyre sizes or suspension lowering kits.\nSeveral other European countries, including Belgium, Denmark, Estonia, Lithuania, the Netherlands and the Czech Republic, have also approved Tesla's FSD (Supervised).\n\"Finland approves Tesla driver assistance system ahead of EU-wide decision\" was originally created and published by Just Auto, a GlobalData owned brand.",
+    "text_blocks": [
+      "The Finnish Transport and Communications Agency (Traficom) has recognised the Dutch provisional type-approval for Tesla's Assisted Driving system, allowing immediate deployment on Finnish roads.",
+      "The recognition lets Tesla begin rolling out the software to customers in Finland before a formal European Union (EU) decision.",
+      "The European rollout depends on a vote scheduled for later this year by the European Commission's Technical Committee – Motor Vehicles (TCMV), after which EU-wide adoption would take effect in approximately three weeks.",
+      "Traficom said national recognition does not bind Finland to a specific position in that vote.",
+      "To secure regulatory acceptance, Tesla made several modifications, most notably removing references to self driving.",
+      "The software, previously marketed as FSD (Supervised), is now Tesla Assisted Driving, where FSD stood for Full Self-Driving.",
+      "Technical changes to operational parameters mean drivers can no longer set the vehicle to continuously maintain speeds up to 50% above the posted speed limit.",
+      "Any user configurations permitting speeding are now automatically reset to default settings, with zero tolerance above the limit, whenever the vehicle restarts.",
+      "Dashboard reporting on selected speed settings has been clarified.",
+      "Traficom senior specialist Jukka Juhola said the agency considers advances in driver assistance system development a necessary part of progress towards automated transport.",
+      "Juhola emphasised that the driver always remains fully responsible for vehicle operation, noting that such systems can make errors or operate inaccurately.",
+      "\"The system's design and approval assessment have taken winter conditions into account, but its operation may be subject to various limitations if the cameras become covered in snow, slush or other dirt, or if traffic conditions become more challenging than usual,\" added Juhola.",
+      "Although the software provides speed management and driver-monitoring alerts, motorists must remain prepared to intervene manually, including steering, braking or accelerating, even without a system prompt.",
+      "Traficom said early domestic adoption lets Finnish drivers \"familiarise themselves with the system before the most challenging winter conditions arrive\".",
+      "The agency confirmed that deployment requires no vehicle modification inspection, provided the car has not undergone mechanical alterations affecting its operation, such as non-standard tyre sizes or suspension lowering kits.",
+      "Several other European countries, including Belgium, Denmark, Estonia, Lithuania, the Netherlands and the Czech Republic, have also approved Tesla's FSD (Supervised).",
+      "\"Finland approves Tesla driver assistance system ahead of EU-wide decision\" was originally created and published by Just Auto, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

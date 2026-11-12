@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-stock-gains-1-165055884.html",
+    "fetched_at": "2026-11-12T07:00:58.597990-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Stock Gains 1.5% as Agent Security Adds Continuous Offense",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalo Alto Networks (NASDAQ:PANW), the enterprise cybersecurity company, joined Nvidia's (NASDAQ:NVDA) AI agent safety initiative on Monday, September 28. Shares rose nearly 1.5% to $380.24 at approximately 10.31am ET time today. Nvidia named Palo Alto among more than 100 organizations working with the platform, which aims to keep AI agents within defined operating limits.\nPalo Alto is already selling a different kind of AI defense. Its Unit 42 service uses models from Anthropic, OpenAI and others to probe customer systems for weaknesses on an annual subscription. Nvidia's OpenShell and Sentry focus on what agents can do while they run. Together, the two approaches point to a broader security opportunity, though the companies have announced no packaged integration or price.\nThe valuation leaves little room for a vague promise. The chart puts Palo Alto's $380.24 share price 62.73% above its $233.66 GF Value. Investors now need to see whether AI security demand produces customer adoption, renewals and stronger subscription margins.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palo Alto Networks (NASDAQ:PANW), the enterprise cybersecurity company, joined Nvidia's (NASDAQ:NVDA) AI agent safety initiative on Monday, September 28. Shares rose nearly 1.5% to $380.24 at approximately 10.31am ET time today. Nvidia named Palo Alto among more than 100 organizations working with the platform, which aims to keep AI agents within defined operating limits.",
+      "Palo Alto is already selling a different kind of AI defense. Its Unit 42 service uses models from Anthropic, OpenAI and others to probe customer systems for weaknesses on an annual subscription. Nvidia's OpenShell and Sentry focus on what agents can do while they run. Together, the two approaches point to a broader security opportunity, though the companies have announced no packaged integration or price.",
+      "The valuation leaves little room for a vague promise. The chart puts Palo Alto's $380.24 share price 62.73% above its $233.66 GF Value. Investors now need to see whether AI security demand produces customer adoption, renewals and stronger subscription margins."
+    ],
+    "html": null
+  }
+}

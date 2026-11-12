@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html",
+    "fetched_at": "2026-11-12T07:00:17.081485-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Wall St set to open lower after Nvidia rout, oil gains",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Niket Nishant and Utkarsh Hathi\nNov 12 (Reuters) - Wall Street's main indexes were on course to open lower on Thursday as fears of a possible CEO ouster at Nvidia as well as higher oil prices prompted investors to retreat to the sidelines.\nReports of a second extramarital affair involving Jensen Huang, Nvidia's longtime leader, sent its shares down 8.5% in premarket trading, as investors fretted over the potential fallout from any leadership change at the company central to the AI boom.\nHuang's exit could \"leave a vacuum at the top\", said Robert Pavlik, senior portfolio manager at Dakota Wealth.\n\"They're going to have to find a successor that will help the market feel comfortable in the leadership and the direction the company will take.\"\nAt 8:35 a.m. ET, Dow E-minis fell 174 points, or 0.33%, S&P 500 E-minis dropped 51 points, or 0.67%, and Nasdaq 100 E-minis tumbled 348 points, or 1.22%.\nAI stocks were also rattled by neocloud company Nebius saying its 2026 revenue would come in at the low end of its previous forecast, pulling its shares down 16%. Peer CoreWeave dropped about 10%.\nChipmakers Intel, Marvell Technology and Micron fell between 2.7% and 3.5%. Other data center-related firms IREN, Applied Digital and Core Scientific fell about 5% each.\nThe declines threatened to erase Wednesday's gains, when strong results from CoreWeave helped AI stocks regain some footing.\nApple was the only gainer among the Magnificent Seven, inching 0.4% higher. Nvidia's rivals Advanced Micro Devices and Broadcom were up 1.6% and 1.1%, respectively.\nINFLATION DATA AWAITED\nInvestors are also gearing up for the release of the Producer Price Index on Friday, which could help shape inflation expectations after data earlier this week showed consumer prices rose more than expected last month.\nA drop in oil prices so far in November has helped ease some concerns about price pressures, but investors remain wary of geopolitical risks in the Middle East.\nBrent crude futures and US West Texas Intermediate crude rose 1.4% and 1% on Thursday, after US President Donald Trump said \"we don't need a deal with Iran.\"\nTraders see a December rate hike by the Federal Reserve as a certainty, with about a 13% chance of an outsized 50-basis-point increase, according to the CME FedWatch tool.\n\"Energy effects will take longer to fade. Oil prices have remained near $100 per barrel for much of the year, extending their contribution to inflation,\" said Josh Hirt, senior US economist at Vanguard.",
+    "text_blocks": [
+      "By Niket Nishant and Utkarsh Hathi",
+      "Nov 12 (Reuters) - Wall Street's main indexes were on course to open lower on Thursday as fears of a possible CEO ouster at Nvidia as well as higher oil prices prompted investors to retreat to the sidelines.",
+      "Reports of a second extramarital affair involving Jensen Huang, Nvidia's longtime leader, sent its shares down 8.5% in premarket trading, as investors fretted over the potential fallout from any leadership change at the company central to the AI boom.",
+      "Huang's exit could \"leave a vacuum at the top\", said Robert Pavlik, senior portfolio manager at Dakota Wealth.",
+      "\"They're going to have to find a successor that will help the market feel comfortable in the leadership and the direction the company will take.\"",
+      "At 8:35 a.m. ET, Dow E-minis fell 174 points, or 0.33%, S&P 500 E-minis dropped 51 points, or 0.67%, and Nasdaq 100 E-minis tumbled 348 points, or 1.22%.",
+      "AI stocks were also rattled by neocloud company Nebius saying its 2026 revenue would come in at the low end of its previous forecast, pulling its shares down 16%. Peer CoreWeave dropped about 10%.",
+      "Chipmakers Intel, Marvell Technology and Micron fell between 2.7% and 3.5%. Other data center-related firms IREN, Applied Digital and Core Scientific fell about 5% each.",
+      "The declines threatened to erase Wednesday's gains, when strong results from CoreWeave helped AI stocks regain some footing.",
+      "Apple was the only gainer among the Magnificent Seven, inching 0.4% higher. Nvidia's rivals Advanced Micro Devices and Broadcom were up 1.6% and 1.1%, respectively.",
+      "INFLATION DATA AWAITED",
+      "Investors are also gearing up for the release of the Producer Price Index on Friday, which could help shape inflation expectations after data earlier this week showed consumer prices rose more than expected last month.",
+      "A drop in oil prices so far in November has helped ease some concerns about price pressures, but investors remain wary of geopolitical risks in the Middle East.",
+      "Brent crude futures and US West Texas Intermediate crude rose 1.4% and 1% on Thursday, after US President Donald Trump said \"we don't need a deal with Iran.\"",
+      "Traders see a December rate hike by the Federal Reserve as a certainty, with about a 13% chance of an outsized 50-basis-point increase, according to the CME FedWatch tool.",
+      "\"Energy effects will take longer to fade. Oil prices have remained near $100 per barrel for much of the year, extending their contribution to inflation,\" said Josh Hirt, senior US economist at Vanguard."
+    ],
+    "html": null
+  }
+}

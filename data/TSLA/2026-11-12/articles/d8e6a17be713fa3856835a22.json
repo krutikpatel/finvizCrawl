@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tesla-stock-elon-musk-jensen-huang-0718c7b7?mod=bar_FV",
+    "fetched_at": "2026-11-12T07:00:03.450840-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Could Elon Musk End Up as Jensen Huang’s Boss? ‘That Would Be an Honor.’<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Could Elon Musk End Up as Jensen Huang’s Boss? ‘That Would Be an Honor.’\nTesla and SpaceX CEO Elon Musk isn’t one to shy away from controversy. And he’s found another one to wade into: The future of Nvidia CEO Jensen Huang.\nTesla and SpaceX CEO Elon Musk isn’t one to shy away from controversy. And he’s found another one to wade into: The future of Nvidia CEO Jensen Huang.",
+    "text_blocks": [
+      "Could Elon Musk End Up as Jensen Huang’s Boss? ‘That Would Be an Honor.’",
+      "Tesla and SpaceX CEO Elon Musk isn’t one to shy away from controversy. And he’s found another one to wade into: The future of Nvidia CEO Jensen Huang.",
+      "Tesla and SpaceX CEO Elon Musk isn’t one to shy away from controversy. And he’s found another one to wade into: The future of Nvidia CEO Jensen Huang."
+    ],
+    "html": null
+  }
+}

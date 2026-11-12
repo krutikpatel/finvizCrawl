@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/business/earnings/arm-holdings-sales-climb-27-on-ai-demand-206782b6?mod=wsj_FV",
+    "fetched_at": "2026-11-12T07:01:01.362114-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Arm Holdings Revenue Grows 27% on Strong Artificial Intelligence Demand - WSJ",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Arm Holdings ARM 6.71%increase; up pointing triangle recorded 27% growth in revenue in its fiscal second quarter, as artificial intelligence demand fuels growth.\nThe semiconductor company posted a profit of $130 million, or 12 cents a share, compared with $238 million, or 22 cents a share, a year earlier.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+    "text_blocks": [
+      "Arm Holdings ARM 6.71%increase; up pointing triangle recorded 27% growth in revenue in its fiscal second quarter, as artificial intelligence demand fuels growth.",
+      "The semiconductor company posted a profit of $130 million, or 12 cents a share, compared with $238 million, or 22 cents a share, a year earlier.",
+      "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    ],
+    "html": null
+  }
+}

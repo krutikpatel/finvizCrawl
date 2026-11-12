@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/okxice-launch-tokenized-stock-trading-153400490.html",
+    "fetched_at": "2026-11-12T07:00:27.152391-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "OKXICE to Launch Tokenized Stock Trading with Coinbase, Circle, Strategy",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "OKX and Intercontinental Exchange (NYSE: $ICE), the parent company of the New York Stock Exchange (NYSE), will launch their blockchain-based securities trading platform on November 23, with more than 70 assets lined up for round-the-clock trading.\nThe joint venture, called OKXICE, has secured listings for Coinbase Global (NASDAQ: $COIN), Circle Internet Group (NYSE: $CRCL), Strategy (NASDAQ: $MSTR), Robinhood Markets (NASDAQ: $HOOD), BitGo (NYSE: $BTGO), Securitize (private) and Better Home & Finance Holding (NASDAQ: $BETR), according to an announcement on Wednesday.\nAsset manager Direxion will also bring 59 exchange-traded funds (ETFs) to the platform.\nMore From Cryptoprowl:\n-\nNYSE Parent ICE to Bring Hyperliquid-Based Perpetual Futures to US\n-\nBitwise Raises Bitcoin Price Forecast To $1.6 Million By 2036\n-\nSurvey Finds 90% Of Large Businesses Are Embracing Tokenized Money\n-\nMoody's Assigns Investment-Grade Rating To Ripple's Stablecoin\nThe launch comes after significant resistance from publicly traded companies to having their shares traded on blockchain-based platforms. Of the 62 companies initially proposed for OKXICE's original lineup, 56 reportedly objected to the listings.\nApple (NASDAQ: $AAPL), Microsoft (NASDAQ: $MSFT), Nvidia (NASDAQ: $NVDA), Amazon (NASDAQ: $AMZN), Tesla (NASDAQ: $TSLA) and JPMorgan Chase (NYSE: $JPM) were among those that opted out.\nThe revised lineup is heavily concentrated in companies with existing connections to the cryptocurrency industry, alongside Direxion's investment products.\nOKXICE will operate under the Securities and Exchange Commission's (SEC) five-year \"innovation exemption,\" introduced in September to allow qualified venues to trade tokenized US stocks through automated market makers (AMMs).\nThe platform will use Uniswap v4 liquidity pools on OKX's Ethereum layer-2 network, X Layer, while Securitize will provide the tokenization infrastructure.\nUnlike synthetic tokens that simply track stock prices, the securities will represent entitlements to underlying shares, preserving investors' rights to dividends, voting and other corporate actions.\nTrading will initially be restricted to eligible US-based OKX customers who complete identity verification. Investors will hold the tokens in self-custodial wallets, with OKXICE saying it will not control their assets or private keys",
+    "text_blocks": [
+      "OKX and Intercontinental Exchange (NYSE: $ICE), the parent company of the New York Stock Exchange (NYSE), will launch their blockchain-based securities trading platform on November 23, with more than 70 assets lined up for round-the-clock trading.",
+      "The joint venture, called OKXICE, has secured listings for Coinbase Global (NASDAQ: $COIN), Circle Internet Group (NYSE: $CRCL), Strategy (NASDAQ: $MSTR), Robinhood Markets (NASDAQ: $HOOD), BitGo (NYSE: $BTGO), Securitize (private) and Better Home & Finance Holding (NASDAQ: $BETR), according to an announcement on Wednesday.",
+      "Asset manager Direxion will also bring 59 exchange-traded funds (ETFs) to the platform.",
+      "More From Cryptoprowl:",
+      "-",
+      "NYSE Parent ICE to Bring Hyperliquid-Based Perpetual Futures to US",
+      "-",
+      "Bitwise Raises Bitcoin Price Forecast To $1.6 Million By 2036",
+      "-",
+      "Survey Finds 90% Of Large Businesses Are Embracing Tokenized Money",
+      "-",
+      "Moody's Assigns Investment-Grade Rating To Ripple's Stablecoin",
+      "The launch comes after significant resistance from publicly traded companies to having their shares traded on blockchain-based platforms. Of the 62 companies initially proposed for OKXICE's original lineup, 56 reportedly objected to the listings.",
+      "Apple (NASDAQ: $AAPL), Microsoft (NASDAQ: $MSFT), Nvidia (NASDAQ: $NVDA), Amazon (NASDAQ: $AMZN), Tesla (NASDAQ: $TSLA) and JPMorgan Chase (NYSE: $JPM) were among those that opted out.",
+      "The revised lineup is heavily concentrated in companies with existing connections to the cryptocurrency industry, alongside Direxion's investment products.",
+      "OKXICE will operate under the Securities and Exchange Commission's (SEC) five-year \"innovation exemption,\" introduced in September to allow qualified venues to trade tokenized US stocks through automated market makers (AMMs).",
+      "The platform will use Uniswap v4 liquidity pools on OKX's Ethereum layer-2 network, X Layer, while Securitize will provide the tokenization infrastructure.",
+      "Unlike synthetic tokens that simply track stock prices, the securities will represent entitlements to underlying shares, preserving investors' rights to dividends, voting and other corporate actions.",
+      "Trading will initially be restricted to eligible US-based OKX customers who complete identity verification. Investors will hold the tokens in self-custodial wallets, with OKXICE saying it will not control their assets or private keys"
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/helsing-debuts-clarity-military-ai-161625762.html",
+    "fetched_at": "2026-11-12T07:00:42.875932-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Helsing debuts Clarity military AI to challenge Palantir in Europe",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Helsing GmbH has unveiled an artificial intelligence platform designed to process battlefield data in seconds, positioning the German defense contractor as a sovereign European challenger to U.S. analytics provider Palantir Technologies Inc (NASDAQ:PLTR).\nThe software, dubbed Clarity, links intelligence from satellites, frontline sensor feeds, and reconnaissance drones to identify adversary assets before packaging targeting data for human operators. By parsing vast volumes of operational feeds in parallel, the platform aims to eliminate manual bottlenecks that routinely slow modern military command cycles.\nThe launch directly addresses growing unease across European capitals regarding tactical reliance on foreign defense technology for mission-critical operations. France, for instance, has actively moved to transition its domestic intelligence infrastructure away from Palantir products in favor of domestic alternatives.\nAgainst that backdrop, Berlin-based Helsing emphasized that Clarity is entirely developed and operated under European control, running on customer-owned infrastructure rather than external servers. The platform also adheres to NATO standards and Modular Open Systems Approach (MOSA) principles, ensuring compatibility with existing arsenals and multi-vendor hardware.\nBuilt on models trained on both battlefield inputs and synthetic tactical simulations, the system deploys specialized AI agents to cross-examine intelligence streams before nominating targets. However, the company stressed that human operators retain complete command of all lethal authorizations, with each engagement step requiring manual sign-off and maintaining a complete audit trail.\nFor European armed forces confronting an increasingly fragmented geopolitical landscape, the offering reflects an accelerating push toward strategic autonomy in software-defined warfare. As defense budgets expand across the continent, investor and industry attention is likely to focus on whether Helsing can convert that sovereign mandate into broader procurement mandates.\nOriginal Article\nHelsing debuts Clarity military AI to challenge Palantir in Europe\nMeta infrastructure chief Santosh Janardhan to step down in early 2027 - Bloomberg\nRBC names this Canadian retail giant a top pick despite premium valuation",
+    "text_blocks": [
+      "Investing.com -- Helsing GmbH has unveiled an artificial intelligence platform designed to process battlefield data in seconds, positioning the German defense contractor as a sovereign European challenger to U.S. analytics provider Palantir Technologies Inc (NASDAQ:PLTR).",
+      "The software, dubbed Clarity, links intelligence from satellites, frontline sensor feeds, and reconnaissance drones to identify adversary assets before packaging targeting data for human operators. By parsing vast volumes of operational feeds in parallel, the platform aims to eliminate manual bottlenecks that routinely slow modern military command cycles.",
+      "The launch directly addresses growing unease across European capitals regarding tactical reliance on foreign defense technology for mission-critical operations. France, for instance, has actively moved to transition its domestic intelligence infrastructure away from Palantir products in favor of domestic alternatives.",
+      "Against that backdrop, Berlin-based Helsing emphasized that Clarity is entirely developed and operated under European control, running on customer-owned infrastructure rather than external servers. The platform also adheres to NATO standards and Modular Open Systems Approach (MOSA) principles, ensuring compatibility with existing arsenals and multi-vendor hardware.",
+      "Built on models trained on both battlefield inputs and synthetic tactical simulations, the system deploys specialized AI agents to cross-examine intelligence streams before nominating targets. However, the company stressed that human operators retain complete command of all lethal authorizations, with each engagement step requiring manual sign-off and maintaining a complete audit trail.",
+      "For European armed forces confronting an increasingly fragmented geopolitical landscape, the offering reflects an accelerating push toward strategic autonomy in software-defined warfare. As defense budgets expand across the continent, investor and industry attention is likely to focus on whether Helsing can convert that sovereign mandate into broader procurement mandates.",
+      "Original Article",
+      "Helsing debuts Clarity military AI to challenge Palantir in Europe",
+      "Meta infrastructure chief Santosh Janardhan to step down in early 2027 - Bloomberg",
+      "RBC names this Canadian retail giant a top pick despite premium valuation"
+    ],
+    "html": null
+  }
+}

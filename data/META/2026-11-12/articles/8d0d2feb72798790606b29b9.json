@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/hugging-face-co-founder-says-ai-hacks-show-even-the-biggest-labs-havent-figured-out-ai-alignment-220000796.html",
+    "fetched_at": "2026-11-12T07:00:09.557962-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Hugging Face co-founder says AI hacks show even the biggest labs haven't figured out AI alignment",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "In July, the open-source AI site Hugging Face was attacked by a swarm of AI models developed by OpenAI (OPAI.PVT).\nThe episode, known as the Hugging Face incident, was one of the first major examples of how AI models can break free of their constraints and go rogue in an effort to complete assigned tasks.\nThe hack, which was followed by reports of similar cyberattacks perpetuated by models from Anthropic (ANTH.PVT); Google (GOOG, GOOGL); and Meta (META), coupled with the development of increasingly powerful frontier models, has led to a greater focus on cybersecurity in the age of AI.\nIt also raised questions about AI alignment, or whether AI systems act the way their developers intend them to.\n\"Our attack was indeed a consequence of this misalignment,\" Hugging Face co-founder and chief science officer Thomas Wolf told Deirdre Bosa.\n\"The AI should have decided when it was on the internet and was starting to penetrate an infrastructure that this was a bad behavior. And so that was, for me, the first sign that even though the labs are doing very good work, and they are massive, and there's a lot of very smart people there, they don't have it fully figured out,\" he added.\nIn response, Hugging Face has established its own open alignment team dedicated to working on safety and alignment for open models.\nBut the AI security issue is more than just alignment. Nefarious actors are already using AI models to scale their attacks against targets across the globe.\nWolf, however, says that there's at least a silver lining amid the chaos.\n\"I think … the positive view of that is that it's mostly an engineering process,\" he said.\n\"Cybersecurity has always been the story of offense increasing. First [there was a] virus, we invent the antivirus, everyone sets up, and then now we have these new steps. So we need to invent the new defense step,\" Wolf added.\n\"I think everyone in industry, at least in AI and tech industry, is focusing on that right now.\"\nEmail Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley or reach out on Signal or Telegram.",
+    "text_blocks": [
+      "In July, the open-source AI site Hugging Face was attacked by a swarm of AI models developed by OpenAI (OPAI.PVT).",
+      "The episode, known as the Hugging Face incident, was one of the first major examples of how AI models can break free of their constraints and go rogue in an effort to complete assigned tasks.",
+      "The hack, which was followed by reports of similar cyberattacks perpetuated by models from Anthropic (ANTH.PVT); Google (GOOG, GOOGL); and Meta (META), coupled with the development of increasingly powerful frontier models, has led to a greater focus on cybersecurity in the age of AI.",
+      "It also raised questions about AI alignment, or whether AI systems act the way their developers intend them to.",
+      "\"Our attack was indeed a consequence of this misalignment,\" Hugging Face co-founder and chief science officer Thomas Wolf told Deirdre Bosa.",
+      "\"The AI should have decided when it was on the internet and was starting to penetrate an infrastructure that this was a bad behavior. And so that was, for me, the first sign that even though the labs are doing very good work, and they are massive, and there's a lot of very smart people there, they don't have it fully figured out,\" he added.",
+      "In response, Hugging Face has established its own open alignment team dedicated to working on safety and alignment for open models.",
+      "But the AI security issue is more than just alignment. Nefarious actors are already using AI models to scale their attacks against targets across the globe.",
+      "Wolf, however, says that there's at least a silver lining amid the chaos.",
+      "\"I think … the positive view of that is that it's mostly an engineering process,\" he said.",
+      "\"Cybersecurity has always been the story of offense increasing. First [there was a] virus, we invent the antivirus, everyone sets up, and then now we have these new steps. So we need to invent the new defense step,\" Wolf added.",
+      "\"I think everyone in industry, at least in AI and tech industry, is focusing on that right now.\"",
+      "Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley or reach out on Signal or Telegram."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/billionaire-venture-capitalist-vinod-khosla-says-judge-ai-by-usage-not-stock-prices-190230250.html",
+    "fetched_at": "2026-11-12T07:00:30.613242-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Billionaire venture capitalist Vinod Khosla says judge AI by usage, not stock prices",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Wall Street wants to know whether AI is a bubble. Most of the worry is about who's paying for it.\nThe companies leading the build-out are spending faster than their businesses bring in cash. Combined free cash flow for Amazon (AMZN), Alphabet (GOOG, GOOGL), Meta (META), Microsoft (MSFT), and Oracle (ORCL) fell to about minus $31 billion in the third quarter, according to Goldman Sachs. That's down from positive $37 billion to $62 billion a quarter through 2025.\nAll that spending is a bet that people will use AI. Vinod Khosla, the billionaire Sun Microsystems co-founder and early OpenAI (OPAI.PVT) backer, says usage is the number to watch, not the stock market's mood swings. \"It's not prices, it's actual usage,\" he said Tuesday on Yahoo Finance's Deirdre Bosa Live. He measures it in tokens — the chunks of text AI models process.\nBy that measure, the boom is real. Much of Big Tech's cash goes into computing power that AI labs rent to run their chatbots, and those labs' sales are taking off. OpenAI's quarterly revenue jumped nearly 50% to $10 billion.\nKhosla has history on his side. \"When you look at internet traffic, you can't tell where the bubble was,\" he said. The share of Americans online kept climbing through the dot-com crash, from about 43% in 2000 to 59% in 2002, even as the Nasdaq Composite (^IXIC) lost 78%.\nThe builders paid for the internet, and their customers cashed in\nUsage was never the problem. Overbuilding was. Telecoms spent more than $500 billion laying fiber, and with 85% of it sitting unused, the cost of bandwidth fell 90%, according to research by Kai Wu, founder of Sparkline Capital.\nCorning (GLW), which made the glass, fell 99% from 2000 to 2002 and didn't top its dot-com high until February, a month after it signed a deal worth up to $6 billion to supply fiber for Meta's AI data centers. The AI rush then more than doubled the stock by late June. The stock has since given back more than half, closing Tuesday near its 2000 peak.\nCheap bandwidth was a gift to whoever came next. Netflix and Meta \"came around and started using it,\" Wu said on Yahoo Finance's Stocks in Translation podcast.\nAlphabet, Meta, and Netflix (NFLX), none of which was public when the Nasdaq peaked, have added more than $5 trillion in market value since their first trades. Cisco (CSCO) is worth about $174 billion less than at its 2000 peak, per Yahoo Finance calculations.\nThe roles have since flipped. \"Instead of Global Crossing, we now have Google,\" Wu said.",
+    "text_blocks": [
+      "Wall Street wants to know whether AI is a bubble. Most of the worry is about who's paying for it.",
+      "The companies leading the build-out are spending faster than their businesses bring in cash. Combined free cash flow for Amazon (AMZN), Alphabet (GOOG, GOOGL), Meta (META), Microsoft (MSFT), and Oracle (ORCL) fell to about minus $31 billion in the third quarter, according to Goldman Sachs. That's down from positive $37 billion to $62 billion a quarter through 2025.",
+      "All that spending is a bet that people will use AI. Vinod Khosla, the billionaire Sun Microsystems co-founder and early OpenAI (OPAI.PVT) backer, says usage is the number to watch, not the stock market's mood swings. \"It's not prices, it's actual usage,\" he said Tuesday on Yahoo Finance's Deirdre Bosa Live. He measures it in tokens — the chunks of text AI models process.",
+      "By that measure, the boom is real. Much of Big Tech's cash goes into computing power that AI labs rent to run their chatbots, and those labs' sales are taking off. OpenAI's quarterly revenue jumped nearly 50% to $10 billion.",
+      "Khosla has history on his side. \"When you look at internet traffic, you can't tell where the bubble was,\" he said. The share of Americans online kept climbing through the dot-com crash, from about 43% in 2000 to 59% in 2002, even as the Nasdaq Composite (^IXIC) lost 78%.",
+      "The builders paid for the internet, and their customers cashed in",
+      "Usage was never the problem. Overbuilding was. Telecoms spent more than $500 billion laying fiber, and with 85% of it sitting unused, the cost of bandwidth fell 90%, according to research by Kai Wu, founder of Sparkline Capital.",
+      "Corning (GLW), which made the glass, fell 99% from 2000 to 2002 and didn't top its dot-com high until February, a month after it signed a deal worth up to $6 billion to supply fiber for Meta's AI data centers. The AI rush then more than doubled the stock by late June. The stock has since given back more than half, closing Tuesday near its 2000 peak.",
+      "Cheap bandwidth was a gift to whoever came next. Netflix and Meta \"came around and started using it,\" Wu said on Yahoo Finance's Stocks in Translation podcast.",
+      "Alphabet, Meta, and Netflix (NFLX), none of which was public when the Nasdaq peaked, have added more than $5 trillion in market value since their first trades. Cisco (CSCO) is worth about $174 billion less than at its 2000 peak, per Yahoo Finance calculations.",
+      "The roles have since flipped. \"Instead of Global Crossing, we now have Google,\" Wu said."
+    ],
+    "html": null
+  }
+}

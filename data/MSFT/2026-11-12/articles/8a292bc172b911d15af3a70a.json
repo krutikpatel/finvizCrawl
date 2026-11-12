@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/shares-of-nvidia-s-competitors-gain-ground-JaMnTH4iDUR8cZIf3sKR?mod=mw_FV",
+    "fetched_at": "2026-11-12T07:00:37.165449-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Shares of Nvidia's competitors gain ground - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "6 hours ago\nShares of Nvidia's competitors gain ground\nThe pullback in technology stocks early Thursday is not wholesale, with shares of companies that compete with Nvidia attracting buyers.\nShares of Advanced Micro Devices, considered Nvidia's closest direct rival in data center GPUs and AI accelerators, are up about 3.5%. Broadcom, maker of AI custom chips that challenge Nvidia's offering, is seeing its stock gain more than 2%.\nBroadcom stock has already jumped 18% in the past three days as news of Jensen Huang's affair with an alleged Chinese spy rattled Nvidia.",
+    "text_blocks": [
+      "6 hours ago",
+      "Shares of Nvidia's competitors gain ground",
+      "The pullback in technology stocks early Thursday is not wholesale, with shares of companies that compete with Nvidia attracting buyers.",
+      "Shares of Advanced Micro Devices, considered Nvidia's closest direct rival in data center GPUs and AI accelerators, are up about 3.5%. Broadcom, maker of AI custom chips that challenge Nvidia's offering, is seeing its stock gain more than 2%.",
+      "Broadcom stock has already jumped 18% in the past three days as news of Jensen Huang's affair with an alleged Chinese spy rattled Nvidia."
+    ],
+    "html": null
+  }
+}

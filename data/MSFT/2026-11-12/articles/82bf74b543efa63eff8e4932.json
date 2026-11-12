@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/nvidia-drops-to-no-3-as-its-market-cap-is-set-to-fall-below-microsoft-s-2H0og4xjZHdDK52MmmGt?mod=mw_FV",
+    "fetched_at": "2026-11-12T07:00:36.858726-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia drops to No. 3, as its market cap is set to fall below Microsoft’s - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "1 hour ago\nNvidia drops to No. 3, as its market cap is set to fall below Microsoft’s\nIn a little over a week, a one-man scandal has knocked Nvidia off its perch as the most valuable company down to third, as the chip giant has lost more than a trillion dollars of market capitalization.\nNvidia's stock was sinking 8.5% in premarket trading and Microsoft's stock was down 0.4%. Nvidia has 24.1 billion shares outstanding and Microsoft has 7.43 billion shares outstanding, based on the companies' latest quarterly filings. At current implied premarket prices, Nvidia's market cap would be $3.832 trillion and Microsoft's would be $3.854 trillion.\nThe last time Nvidia was No. 1 was Nov. 3, when it closed with a market cap of $4.991 trillion and Apple's was $4.823 trillion, according to FactSet data. The next rung on the ladder is Alphabet in fourth place, with a current market cap of about $3.58 trillion.",
+    "text_blocks": [
+      "1 hour ago",
+      "Nvidia drops to No. 3, as its market cap is set to fall below Microsoft’s",
+      "In a little over a week, a one-man scandal has knocked Nvidia off its perch as the most valuable company down to third, as the chip giant has lost more than a trillion dollars of market capitalization.",
+      "Nvidia's stock was sinking 8.5% in premarket trading and Microsoft's stock was down 0.4%. Nvidia has 24.1 billion shares outstanding and Microsoft has 7.43 billion shares outstanding, based on the companies' latest quarterly filings. At current implied premarket prices, Nvidia's market cap would be $3.832 trillion and Microsoft's would be $3.854 trillion.",
+      "The last time Nvidia was No. 1 was Nov. 3, when it closed with a market cap of $4.991 trillion and Apple's was $4.823 trillion, according to FactSet data. The next rung on the ladder is Alphabet in fourth place, with a current market cap of about $3.58 trillion."
+    ],
+    "html": null
+  }
+}

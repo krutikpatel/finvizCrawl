@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/china-chip-stocks-rally-u-063831379.html",
+    "fetched_at": "2026-11-12T07:01:05.666816-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "U.S., Europe chip stocks dip as Nvidia board reportedly weighs ousting Huang",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com --Semiconductor stocks in Europe and the U.S. largely fell Thursday after Nvidia shares tumbled in premarket trading on reports that the chipmaker's board was weighing whether to oust Chief Executive Jensen Huang.\nNvidia's board was meeting Wednesday to decide whether to remove Huang, Reuters and WSJ reported, citing sources familiar with the matter. The meeting comes as the world's leading maker of AI chips deals with reports of two extramarital affairs involving its longtime chief.\nNvidia shares fell more than 6% in premarket trading by 04:35 ET (09:35 GMT). U.S. listed shares of SK Hynix slid 3.2% while Micron fell 2.7%. Marvell, Intel, and Lam Research shed about 1.9% each.\nBroadcom and AMD were outliers, each rising more than 3%.\nThe U.S. chip stocks tracked the declines in their European peers. ASML Holding fell about 2%, and Soitec lost 1.1%, while Infineon and BE Semiconductor also edged lower.\nIn contrast, Chinese chip stocks rallied on Thursday, with Cambricon surging more than 8% and Moore Threads gaining around 8.3%, supported by the prospect of tighter U.S. controls on access to advanced AI processors, renewing focus on China's domestic chip industry.\nSMIC's Shanghai-listed shares rose 2.2%. Hua Hong Semiconductor gained 2.5% and chip equipment maker NAURA Technology advanced 2%.\nThe gains contrasted with weakness among several Chinese technology companies, with Z.AI falling 9%, MiniMax dropping 7.8% and Alibaba declining 6.8%.\nU.S. semiconductor shares rose sharply on Wednesday, when the Philadelphia Semiconductor Index climbed 5.7%.\nStrong results from AI cloud provider CoreWeave helped ease concerns about the financing and sustainability of data-centre investment, supporting demand for chipmakers and other AI infrastructure suppliers. Chinese financial media also highlighted the overnight rebound as a driver of gains in domestic semiconductor stocks.\nInvestors were also assessing a potential tightening of U.S. restrictions. The Information reported that the Commerce Department was preparing a rule to prevent Chinese AI companies from remotely accessing advanced chips through data centres in other countries.",
+    "text_blocks": [
+      "Investing.com --Semiconductor stocks in Europe and the U.S. largely fell Thursday after Nvidia shares tumbled in premarket trading on reports that the chipmaker's board was weighing whether to oust Chief Executive Jensen Huang.",
+      "Nvidia's board was meeting Wednesday to decide whether to remove Huang, Reuters and WSJ reported, citing sources familiar with the matter. The meeting comes as the world's leading maker of AI chips deals with reports of two extramarital affairs involving its longtime chief.",
+      "Nvidia shares fell more than 6% in premarket trading by 04:35 ET (09:35 GMT). U.S. listed shares of SK Hynix slid 3.2% while Micron fell 2.7%. Marvell, Intel, and Lam Research shed about 1.9% each.",
+      "Broadcom and AMD were outliers, each rising more than 3%.",
+      "The U.S. chip stocks tracked the declines in their European peers. ASML Holding fell about 2%, and Soitec lost 1.1%, while Infineon and BE Semiconductor also edged lower.",
+      "In contrast, Chinese chip stocks rallied on Thursday, with Cambricon surging more than 8% and Moore Threads gaining around 8.3%, supported by the prospect of tighter U.S. controls on access to advanced AI processors, renewing focus on China's domestic chip industry.",
+      "SMIC's Shanghai-listed shares rose 2.2%. Hua Hong Semiconductor gained 2.5% and chip equipment maker NAURA Technology advanced 2%.",
+      "The gains contrasted with weakness among several Chinese technology companies, with Z.AI falling 9%, MiniMax dropping 7.8% and Alibaba declining 6.8%.",
+      "U.S. semiconductor shares rose sharply on Wednesday, when the Philadelphia Semiconductor Index climbed 5.7%.",
+      "Strong results from AI cloud provider CoreWeave helped ease concerns about the financing and sustainability of data-centre investment, supporting demand for chipmakers and other AI infrastructure suppliers. Chinese financial media also highlighted the overnight rebound as a driver of gains in domestic semiconductor stocks.",
+      "Investors were also assessing a potential tightening of U.S. restrictions. The Information reported that the Commerce Department was preparing a rule to prevent Chinese AI companies from remotely accessing advanced chips through data centres in other countries."
+    ],
+    "html": null
+  }
+}

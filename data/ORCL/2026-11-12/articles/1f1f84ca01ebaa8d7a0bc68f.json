@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-coreweave-surging-means-223603255.html",
+    "fetched_at": "2026-11-12T07:00:30.646910-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia-backed CoreWeave soared 24.7% Wednesday, helping revive the AI trade after weeks of selling, as the company reported surging demand for the expensive computing hardware powering the artificial intelligence boom.\nThe cloud provider posted $3.66 billion in third-quarter revenue, up 168% from a year ago, and raised its 2026 sales forecast to $13 billion to $13.3 billion. The results also helped lift Nvidia, along with AI infrastructure stocks including Nebius, IREN, Oracle and Applied Digital.\nFor investors watching Nvidia, CoreWeave offers a useful look at what happens after the chipmaker sells its processors.\nCoreWeave buys Nvidia GPUs, installs them in data centers, and rents that computing power to companies developing or running AI models, including OpenAI and other major customers.\nThat makes its revenue growth evidence that businesses are still willing to pay for AI computing capacity. It does not, by itself, establish that the enormous spending required to supply that capacity will produce sustainable profits.\nWhy Nvidia has so much riding on CoreWeave\nNvidia's connection goes well beyond a typical supplier relationship. In January, Nvidia invested another $2 billion in CoreWeave shares at $87.20 each, expanding a business arrangement aimed at building more than five gigawatts of AI data-center capacity by 2030.\nThe companies also agreed to introduce new Nvidia technology across CoreWeave's infrastructure, including its Rubin platform and Vera CPUs. That makes CoreWeave an important showcase and customer for future Nvidia hardware, not just the chips already installed.\n\"Together, we're racing to meet extraordinary demand for NVIDIA AI factories,\" Nvidia CEO Jensen Huang said when the expanded deal was announced in January.\nNvidia also has a $6.3 billion initial agreement to buy CoreWeave's unused computing capacity through April 2032, subject to the contract's conditions. In practice, the arrangement gives CoreWeave a buyer for capacity it cannot sell elsewhere, while Nvidia gets access to cloud computing built around its own chips.\nThe relationship explains both the excitement and some of the criticism surrounding AI investment. Nvidia sells the hardware, invests in a company buying that hardware, and has also committed to purchasing some of the computing services it helps create. Inventors call it \"circular finance.\" AI bros call it a meme. Skeptics call it a warning sign.\nThose are real commercial agreements, but the overlapping financial relationships complicate attempts to measure independent demand.",
+    "text_blocks": [
+      "Nvidia-backed CoreWeave soared 24.7% Wednesday, helping revive the AI trade after weeks of selling, as the company reported surging demand for the expensive computing hardware powering the artificial intelligence boom.",
+      "The cloud provider posted $3.66 billion in third-quarter revenue, up 168% from a year ago, and raised its 2026 sales forecast to $13 billion to $13.3 billion. The results also helped lift Nvidia, along with AI infrastructure stocks including Nebius, IREN, Oracle and Applied Digital.",
+      "For investors watching Nvidia, CoreWeave offers a useful look at what happens after the chipmaker sells its processors.",
+      "CoreWeave buys Nvidia GPUs, installs them in data centers, and rents that computing power to companies developing or running AI models, including OpenAI and other major customers.",
+      "That makes its revenue growth evidence that businesses are still willing to pay for AI computing capacity. It does not, by itself, establish that the enormous spending required to supply that capacity will produce sustainable profits.",
+      "Why Nvidia has so much riding on CoreWeave",
+      "Nvidia's connection goes well beyond a typical supplier relationship. In January, Nvidia invested another $2 billion in CoreWeave shares at $87.20 each, expanding a business arrangement aimed at building more than five gigawatts of AI data-center capacity by 2030.",
+      "The companies also agreed to introduce new Nvidia technology across CoreWeave's infrastructure, including its Rubin platform and Vera CPUs. That makes CoreWeave an important showcase and customer for future Nvidia hardware, not just the chips already installed.",
+      "\"Together, we're racing to meet extraordinary demand for NVIDIA AI factories,\" Nvidia CEO Jensen Huang said when the expanded deal was announced in January.",
+      "Nvidia also has a $6.3 billion initial agreement to buy CoreWeave's unused computing capacity through April 2032, subject to the contract's conditions. In practice, the arrangement gives CoreWeave a buyer for capacity it cannot sell elsewhere, while Nvidia gets access to cloud computing built around its own chips.",
+      "The relationship explains both the excitement and some of the criticism surrounding AI investment. Nvidia sells the hardware, invests in a company buying that hardware, and has also committed to purchasing some of the computing services it helps create. Inventors call it \"circular finance.\" AI bros call it a meme. Skeptics call it a warning sign.",
+      "Those are real commercial agreements, but the overlapping financial relationships complicate attempts to measure independent demand."
+    ],
+    "html": null
+  }
+}

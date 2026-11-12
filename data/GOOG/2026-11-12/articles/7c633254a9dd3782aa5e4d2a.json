@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-rolls-gemini-ai-voice-201340171.html",
+    "fetched_at": "2026-11-12T07:00:34.287045-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Alphabet Inc's (NASDAQ:GOOGL) Google is expanding its reach across Apple Inc's (NASDAQ:AAPL) ecosystem by bringing its Gemini artificial intelligence assistant directly to Apple CarPlay. The integration allows drivers to conduct hands-free, two-way conversations with Gemini Live through vehicle dashboard displays, with all voice exchanges automatically syncing back to the iOS app.\nThe rollout follows Google's earlier deployments on Android Auto and vehicles running Google built-in software, underscoring Big Tech's push to secure consumer engagement during daily drive times. By linking directly into Google Workspace services such as Gmail and Google Calendar, the assistant enables drivers to summarize unread email threads, dictate replies, and review daily agendas behind the wheel.\nFor Apple, the move highlights a continuing shift toward opening its long-restricted automotive interface to outside generative AI platforms. While CarPlay historically limited dashboard voice control strictly to Apple's native Siri assistant, the company opened the platform earlier this year to competing AI engines, including OpenAI's ChatGPT, Anthropic's Claude, SpaceX's Grok, and Perplexity.\nAgainst that backdrop, vehicle cabins have emerged as an active operational battleground for AI providers racing to make their interfaces daily consumer habits. The automotive setting offers an ideal deployment test for voice-driven reasoning models, where screen-free utility and natural conversation provide clear consumer value over conventional touch-based mobile apps.\nGoogle said the feature is beginning a global rollout across all languages supported by Gemini Live for users with updated iOS applications. The strategic integration ensures Google maintains a competitive foothold inside Apple's lucrative hardware installed base as multi-modal AI models increasingly contest primary interface roles across mobile and connected environments.\nOriginal Article\nGoogle rolls out Gemini AI voice assistant to Apple CarPlay dashboards\nWall Street ends higher, Nasdaq adds over 1.5% as AI trade comes back to life",
+    "text_blocks": [
+      "Investing.com -- Alphabet Inc's (NASDAQ:GOOGL) Google is expanding its reach across Apple Inc's (NASDAQ:AAPL) ecosystem by bringing its Gemini artificial intelligence assistant directly to Apple CarPlay. The integration allows drivers to conduct hands-free, two-way conversations with Gemini Live through vehicle dashboard displays, with all voice exchanges automatically syncing back to the iOS app.",
+      "The rollout follows Google's earlier deployments on Android Auto and vehicles running Google built-in software, underscoring Big Tech's push to secure consumer engagement during daily drive times. By linking directly into Google Workspace services such as Gmail and Google Calendar, the assistant enables drivers to summarize unread email threads, dictate replies, and review daily agendas behind the wheel.",
+      "For Apple, the move highlights a continuing shift toward opening its long-restricted automotive interface to outside generative AI platforms. While CarPlay historically limited dashboard voice control strictly to Apple's native Siri assistant, the company opened the platform earlier this year to competing AI engines, including OpenAI's ChatGPT, Anthropic's Claude, SpaceX's Grok, and Perplexity.",
+      "Against that backdrop, vehicle cabins have emerged as an active operational battleground for AI providers racing to make their interfaces daily consumer habits. The automotive setting offers an ideal deployment test for voice-driven reasoning models, where screen-free utility and natural conversation provide clear consumer value over conventional touch-based mobile apps.",
+      "Google said the feature is beginning a global rollout across all languages supported by Gemini Live for users with updated iOS applications. The strategic integration ensures Google maintains a competitive foothold inside Apple's lucrative hardware installed base as multi-modal AI models increasingly contest primary interface roles across mobile and connected environments.",
+      "Original Article",
+      "Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards",
+      "Wall Street ends higher, Nasdaq adds over 1.5% as AI trade comes back to life"
+    ],
+    "html": null
+  }
+}

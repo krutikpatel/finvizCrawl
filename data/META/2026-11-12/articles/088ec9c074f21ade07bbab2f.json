@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.digitimes.com/news/a20261112PD218/meta-infrastructure-data-president-aws.html",
+    "fetched_at": "2026-11-12T07:00:10.130019-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta infrastructure chief to hand over AI compute role in 2027",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.digitimes.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta Platforms' longtime infrastructure chief Santosh Janardhan will leave after the end of 1Q27, with former Amazon Web Services (AWS) vice president Dave Brown set to succeed him...\nThe article requires paid subscription.\nSubscribe Now",
+    "text_blocks": [
+      "Meta Platforms' longtime infrastructure chief Santosh Janardhan will leave after the end of 1Q27, with former Amazon Web Services (AWS) vice president Dave Brown set to succeed him...",
+      "The article requires paid subscription.",
+      "Subscribe Now"
+    ],
+    "html": null
+  }
+}

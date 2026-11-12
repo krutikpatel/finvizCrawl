@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_FV",
+    "fetched_at": "2026-11-12T07:00:30.182111-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nOracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst\nA Bernstein analyst thinks two key investor concerns will soon subside\nOracle could be closer than investors realize to generating serious returns on its artificial-intelligence investments. And according to one analyst, there are big catalysts on the horizon.\nShares of Oracle ORCL are down 36% so far this year, with the company seemingly at the center of several AI “controversies,” according to Bernstein analyst Mark Moerdler. Those include whether the AI buildout is a bubble, whether data centers can support strong economics and whether the company’s big AI customers can succeed in their own right.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
+      "A Bernstein analyst thinks two key investor concerns will soon subside",
+      "Oracle could be closer than investors realize to generating serious returns on its artificial-intelligence investments. And according to one analyst, there are big catalysts on the horizon.",
+      "Shares of Oracle ORCL are down 36% so far this year, with the company seemingly at the center of several AI “controversies,” according to Bernstein analyst Mark Moerdler. Those include whether the AI buildout is a bubble, whether data centers can support strong economics and whether the company’s big AI customers can succeed in their own right."
+    ],
+    "html": null
+  }
+}

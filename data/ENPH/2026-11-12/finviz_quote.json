@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "finviz",
+    "url": "https://finviz.com/stock?t=ENPH",
+    "fetched_at": "2026-11-12T07:00:22.567110-08:00"
+  },
+  "company": {
+    "name": "Enphase Energy Inc",
+    "sector": "Show Previous News",
+    "industry": null,
+    "country": null
+  },
+  "price": {
+    "value": 27.28,
+    "change": null,
+    "change_percent": null
+  },
+  "snapshot_table": {
+    "Index": "RUI",
+    "Market Cap": "3.61B",
+    "Enterprise Value": "3.29B",
+    "Income": "90.77M",
+    "Sales": "1.21B",
+    "Book/sh": "9.39",
+    "Cash/sh": "7.04",
+    "Dividend Est.": "-",
+    "Dividend TTM": "-",
+    "Dividend Ex-Date": "-",
+    "Dividend Gr. 3/5Y": "- -",
+    "Payout": "0.00%",
+    "Employees": "2872",
+    "IPO": "Mar 30, 2012"
+  },
+  "raw": null
+}

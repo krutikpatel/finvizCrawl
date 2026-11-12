@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/ondas-earnings-stock-price-palantir-240cf71c?mod=bar_FV",
+    "fetched_at": "2026-11-12T07:00:43.195467-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Drone Maker Ondas Updates Its Profitability Forecast as Revenue Surges 1,558%<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Drone Maker Ondas Updates Its Profitability Forecast as Revenue Surges 1,558%\nFresh off announcing a new private artificial-intelligence company in partnership with Palantir Technologies, autonomous drone maker Ondas posted record quarterly revenue and forecast it can break even sooner than expected.",
+    "text_blocks": [
+      "Drone Maker Ondas Updates Its Profitability Forecast as Revenue Surges 1,558%",
+      "Fresh off announcing a new private artificial-intelligence company in partnership with Palantir Technologies, autonomous drone maker Ondas posted record quarterly revenue and forecast it can break even sooner than expected."
+    ],
+    "html": null
+  }
+}
