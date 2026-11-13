@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "run_date": "2026-11-13",
+  "started_at": "2026-11-13T07:00:11.151733-08:00",
+  "finished_at": "2026-11-13T07:00:13.024292-08:00",
+  "timezone": "America/Los_Angeles",
+  "config": {
+    "project": {
+      "name": "finzwiz",
+      "schema_version": "1.0"
+    },
+    "output": {
+      "data_dir": "data",
+      "pretty_json": true
+    },
+    "dedup": {
+      "retention_days": 15,
+      "seen_urls_filename": "seen_urls.jsonl",
+      "compact_on_write": false
+    },
+    "scraping": {
+      "backend": "http",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "timeout_seconds": 30,
+      "retries": 2,
+      "delay_seconds": 1.0,
+      "max_concurrency": 5,
+      "playwright": {
+        "headless": true
+      }
+    },
+    "articles": {
+      "include_raw_html": false,
+      "max_text_chars": 0,
+      "max_articles_per_ticker": 5
+    },
+    "sentiment": {
+      "model": "gpt-5.6-terra",
+      "max_articles_per_batch": 20,
+      "log_filename": "sentiment_log.jsonl",
+      "summary_filename": "sentiment_summary.json"
+    }
+  },
+  "artifacts": {
+    "finviz_quote": "data/MU/2026-11-13/finviz_quote.json",
+    "finviz_news": "data/MU/2026-11-13/finviz_news.json",
+    "articles_dir": "data/MU/2026-11-13/articles",
+    "dedup_file": "data/MU/seen_urls.jsonl",
+    "run_manifest": "data/MU/2026-11-13/run_manifest.json"
+  },
+  "stats": {
+    "news_links_total": 100,
+    "news_links_new": 71,
+    "news_links_skipped_recent": 29,
+    "news_links_retry_failed": 0,
+    "articles_fetched_ok": 1,
+    "articles_failed": 4
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_FV",
+      "context": {
+        "url": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/micron-stock-price-rally-memory-chips-cb346d83?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/micron-stock-price-rally-memory-chips-cb346d83?mod=bar_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/applied-materials-earnings-stock-price-66c09c50?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/applied-materials-earnings-stock-price-66c09c50?mod=bar_FV"
+      }
+    },
+    {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/ai-after-jensen-stocks-to-watch-7I54PodECU0QpfRmYvWW?mod=wsj_FV",
+      "context": {
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/ai-after-jensen-stocks-to-watch-7I54PodECU0QpfRmYvWW?mod=wsj_FV"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/microsoft-reportedly-winds-down-oracle-133340480.html",
+    "fetched_at": "2026-11-13T07:00:21.064893-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft reportedly winds down Oracle AI infrastructure contract",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft is reportedly scaling back an arrangement to lease AI computing capacity from Oracle following a choice not to extend the agreement, Bloomberg reported, citing unnamed sources.\nOriginally announced in 2023, the partnership provided Microsoft with access to Oracle servers to operate an AI-supported edition of its Bing search engine.\nOver recent months, Microsoft has started decommissioning the leased infrastructure.\nThe hardware had diminished in usefulness to Microsoft over time as it ceased to satisfy the organisation's technical specifications, with the Oracle systems utilising previous-generation Nvidia processors.\nThe overall monetary value of the deal was not revealed.\nAn Oracle representative cited in the report stated that demand for the vendor's AI infrastructure remains strong, including for earlier-generation graphics processing units (GPUs).\nIn September, Oracle reported that it was extending agreements for four-year-old GPUs at a 20% premium over original contract prices.\nOracle's cloud unit has expanded substantially since 2023 on the back of major AI agreements with clients such as OpenAI and Meta Platforms, yielding $18bn in revenue for the year ending May 2026.\nHowever, increased capital expenditures have resulted in negative free cash flow for Oracle, drawing attention from investors.\nThe non-renewal takes place alongside a broader review by Microsoft of billions of dollars allocated to outside cloud partnerships.\nTo maintain its AI activities, the software provider had committed upwards of $80bn to lease capacity from external and \"neocloud\" vendors, including CoreWeave, Nscale, and Nebius.\nHowever, executive management has experienced growing frustration over high expenditure and schedule delays across these providers.\nConsequently, Microsoft has implemented stricter monitoring of its data centre initiatives, withdrawn from developments viewed as risky, and commenced internal discussions concerning whether to contract further neocloud capacity.\nLate last month, Microsoft also announced a voluntary buyout programme covering approximately 60,000 staff – representing upwards of a quarter of its international workforce – to curb expenses and back ongoing capital deployment in AI.\n\"Microsoft reportedly winds down Oracle AI infrastructure contract\" was originally created and published by Verdict, a GlobalData owned brand.",
+    "text_blocks": [
+      "Microsoft is reportedly scaling back an arrangement to lease AI computing capacity from Oracle following a choice not to extend the agreement, Bloomberg reported, citing unnamed sources.",
+      "Originally announced in 2023, the partnership provided Microsoft with access to Oracle servers to operate an AI-supported edition of its Bing search engine.",
+      "Over recent months, Microsoft has started decommissioning the leased infrastructure.",
+      "The hardware had diminished in usefulness to Microsoft over time as it ceased to satisfy the organisation's technical specifications, with the Oracle systems utilising previous-generation Nvidia processors.",
+      "The overall monetary value of the deal was not revealed.",
+      "An Oracle representative cited in the report stated that demand for the vendor's AI infrastructure remains strong, including for earlier-generation graphics processing units (GPUs).",
+      "In September, Oracle reported that it was extending agreements for four-year-old GPUs at a 20% premium over original contract prices.",
+      "Oracle's cloud unit has expanded substantially since 2023 on the back of major AI agreements with clients such as OpenAI and Meta Platforms, yielding $18bn in revenue for the year ending May 2026.",
+      "However, increased capital expenditures have resulted in negative free cash flow for Oracle, drawing attention from investors.",
+      "The non-renewal takes place alongside a broader review by Microsoft of billions of dollars allocated to outside cloud partnerships.",
+      "To maintain its AI activities, the software provider had committed upwards of $80bn to lease capacity from external and \"neocloud\" vendors, including CoreWeave, Nscale, and Nebius.",
+      "However, executive management has experienced growing frustration over high expenditure and schedule delays across these providers.",
+      "Consequently, Microsoft has implemented stricter monitoring of its data centre initiatives, withdrawn from developments viewed as risky, and commenced internal discussions concerning whether to contract further neocloud capacity.",
+      "Late last month, Microsoft also announced a voluntary buyout programme covering approximately 60,000 staff – representing upwards of a quarter of its international workforce – to curb expenses and back ongoing capital deployment in AI.",
+      "\"Microsoft reportedly winds down Oracle AI infrastructure contract\" was originally created and published by Verdict, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-profit-misses-estimates-crypto-141000605.html",
+    "fetched_at": "2026-11-13T07:00:18.541013-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood profit misses estimates as crypto revenue plunges",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Robinhood Markets Inc (NASDAQ:HOOD), the US online trading platform, reported a 14% decline in quarterly net income as cryptocurrency revenue plunged 55%, overshadowing record sales and strong growth in options and prediction-market trading.\nShares of Robinhood dropped nearly 4% on Wednesday morning in New York.\nNet income fell to $476 million in the third quarter, while diluted earnings per share dropped 16% to $0.51, below analysts' expectations of $0.55.\nTotal net revenue rose 12% year on year to a record $1.42 billion, while transaction-based revenue increased 19% to $867 million, supported by stronger activity in options and event contracts.\nRobinhood's cryptocurrency revenue fell to $120 million as trading activity weakened amid cooling digital asset markets, while crypto trading volume declined 38% to $50 billion, according to Reuters.\nThe decline was partly offset by options revenue, which rose 31% to $399 million, and event-contract revenue of $173 million, more than six times the year-earlier level.\nNet interest revenue fell 9% to $415 million, while operating expenses increased 16% to $739 million, reflecting higher credit-loss provisions, marketing spending and investment in new businesses.\nAdjusted earnings per share, which exclude certain items, fell 3% to $0.60, beating the $0.55 analyst consensus, despite the decline in reported earnings.\nRobinhood added 1.3 million subscribers to its Gold membership service over the year, taking the total to 5.2 million, while customer deposits and expanding financial products supported its broader growth strategy.\nThe results highlight Robinhood's efforts to diversify beyond volatile cryptocurrency trading as investors assess whether growth in other products can offset weaker digital asset activity.",
+    "text_blocks": [
+      "Robinhood Markets Inc (NASDAQ:HOOD), the US online trading platform, reported a 14% decline in quarterly net income as cryptocurrency revenue plunged 55%, overshadowing record sales and strong growth in options and prediction-market trading.",
+      "Shares of Robinhood dropped nearly 4% on Wednesday morning in New York.",
+      "Net income fell to $476 million in the third quarter, while diluted earnings per share dropped 16% to $0.51, below analysts' expectations of $0.55.",
+      "Total net revenue rose 12% year on year to a record $1.42 billion, while transaction-based revenue increased 19% to $867 million, supported by stronger activity in options and event contracts.",
+      "Robinhood's cryptocurrency revenue fell to $120 million as trading activity weakened amid cooling digital asset markets, while crypto trading volume declined 38% to $50 billion, according to Reuters.",
+      "The decline was partly offset by options revenue, which rose 31% to $399 million, and event-contract revenue of $173 million, more than six times the year-earlier level.",
+      "Net interest revenue fell 9% to $415 million, while operating expenses increased 16% to $739 million, reflecting higher credit-loss provisions, marketing spending and investment in new businesses.",
+      "Adjusted earnings per share, which exclude certain items, fell 3% to $0.60, beating the $0.55 analyst consensus, despite the decline in reported earnings.",
+      "Robinhood added 1.3 million subscribers to its Gold membership service over the year, taking the total to 5.2 million, while customer deposits and expanding financial products supported its broader growth strategy.",
+      "The results highlight Robinhood's efforts to diversify beyond volatile cryptocurrency trading as investors assess whether growth in other products can offset weaker digital asset activity."
+    ],
+    "html": null
+  }
+}

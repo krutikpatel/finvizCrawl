@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/marvell-agrees-acquire-lumentum-115bn-101002874.html",
+    "fetched_at": "2026-11-13T07:00:50.784675-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Marvell agrees Lumentum acquisition in $115bn all-stock deal",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Marvell Technology has reached an agreement to acquire Lumentum, a US-based optical and photonic technology company, in an all-stock transaction valued at $115bn, including debt.\nUnder the terms of the deal, Lumentum stockholders will receive 4.5 Marvell shares for each Lumentum share they own. This exchange ratio represents a premium of approximately 23.9% compared to the companies' unaffected closing share prices as of 28 October 2026.\nThe deal has been approved unanimously by their respective boards. Both companies are listed on Nasdaq.\nAfter completion, Marvell shareholders are expected to hold around 67% of the combined entity, while Lumentum shareholders will own approximately 33% on a fully diluted basis.\nThe acquisition comes amid increasing bandwidth demands in AI infrastructure, which have highlighted the limitations of copper-based systems and prompted a shift to optical solutions.\nAccording to a GlobalData report, data centres have become the backbone of economic competitiveness and a focus of geopolitical interest, driven by the AI revolution that commenced in late 2022. The semiconductor space will continue to evolve, with new entrants in the market trying to capitalise on the growing inference opportunity, as the technological landscape evolves and more enterprises deploy generative AI (GenAI) in production environments.\nThe report stated that greater adoption will also drive edge computing forward, as real-time workloads accelerate the need for localised data centre infrastructure to support latency-sensitive applications.\nAgainst this backdrop, the deal brings together Marvell's expertise in electrical and optical interconnect, custom AI accelerator (XPU), network switching, and advanced semiconductor technologies with Lumentum's strengths in lasers, optical transceivers, and optical circuit switching, as well as its capabilities in compound semiconductor manufacturing.\nThe acquisition will also bring together Lumentum's capabilities in compound semiconductor manufacturing.\nMarvell chairman and CEO Matt Murphy said: \"By bringing together two leaders with highly complementary technologies, exceptional talent and specialised manufacturing capabilities, we intend to help shape the next era of AI connectivity and create exceptional stockholder value.\"\nAccording to the companies, the integration is expected to offer a broader range of technologies, from complementary metal-oxide-semiconductor (CMOS) and silicon photonics to advanced packaging and may produce over $1bn in annual run-rate cost synergies.",
+    "text_blocks": [
+      "Marvell Technology has reached an agreement to acquire Lumentum, a US-based optical and photonic technology company, in an all-stock transaction valued at $115bn, including debt.",
+      "Under the terms of the deal, Lumentum stockholders will receive 4.5 Marvell shares for each Lumentum share they own. This exchange ratio represents a premium of approximately 23.9% compared to the companies' unaffected closing share prices as of 28 October 2026.",
+      "The deal has been approved unanimously by their respective boards. Both companies are listed on Nasdaq.",
+      "After completion, Marvell shareholders are expected to hold around 67% of the combined entity, while Lumentum shareholders will own approximately 33% on a fully diluted basis.",
+      "The acquisition comes amid increasing bandwidth demands in AI infrastructure, which have highlighted the limitations of copper-based systems and prompted a shift to optical solutions.",
+      "According to a GlobalData report, data centres have become the backbone of economic competitiveness and a focus of geopolitical interest, driven by the AI revolution that commenced in late 2022. The semiconductor space will continue to evolve, with new entrants in the market trying to capitalise on the growing inference opportunity, as the technological landscape evolves and more enterprises deploy generative AI (GenAI) in production environments.",
+      "The report stated that greater adoption will also drive edge computing forward, as real-time workloads accelerate the need for localised data centre infrastructure to support latency-sensitive applications.",
+      "Against this backdrop, the deal brings together Marvell's expertise in electrical and optical interconnect, custom AI accelerator (XPU), network switching, and advanced semiconductor technologies with Lumentum's strengths in lasers, optical transceivers, and optical circuit switching, as well as its capabilities in compound semiconductor manufacturing.",
+      "The acquisition will also bring together Lumentum's capabilities in compound semiconductor manufacturing.",
+      "Marvell chairman and CEO Matt Murphy said: \"By bringing together two leaders with highly complementary technologies, exceptional talent and specialised manufacturing capabilities, we intend to help shape the next era of AI connectivity and create exceptional stockholder value.\"",
+      "According to the companies, the integration is expected to offer a broader range of technologies, from complementary metal-oxide-semiconductor (CMOS) and silicon photonics to advanced packaging and may produce over $1bn in annual run-rate cost synergies."
+    ],
+    "html": null
+  }
+}

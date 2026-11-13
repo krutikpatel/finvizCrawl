@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-shares-jump-16-earnings-143800780.html",
+    "fetched_at": "2026-11-13T07:00:27.237480-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cerebras shares jump 16% as earnings beat and Microsoft deal fuel raised outlook",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cerebras Systems Inc (NASDAQ:CBRS) shares climbed 16% to $113 on Friday after the AI chipmaker reported record third-quarter revenue, its first adjusted quarterly profit and a stronger outlook.\nThe rally followed results showing core revenue rose 70% year on year to $230.9 million, beating analysts' expectations of $214.7 million.\nCore net income reached $29.82 million, compared with a $10.86 million loss a year earlier, marking the company's first profitable quarter on this adjusted measure as a public company.\nThe performance was supported by growing demand for artificial intelligence (AI) inference, the process of using trained AI models to generate responses and perform tasks.\nCloud and other services revenue increased 272% to $144.9 million, while core gross margin improved to 41%.\nCerebras also secured a cloud inference agreement with Microsoft in October, adding another major technology customer alongside existing relationships with Amazon Web Services and Oracle.\nThe partnership strengthens Cerebras' position in the market for AI computing infrastructure, where companies are competing to provide faster processing capacity for increasingly complex applications.\nManagement raised its full-year 2026 core revenue forecast to between $940 million and $960 million, from its previous range of $880 million to $890 million.\nFourth-quarter core revenue is expected to reach between $310 million and $330 million, substantially above analysts' forecast of approximately $275 million.\nThe company also expects fourth-quarter core gross margin to improve to between 47% and 49%, compared with 41% in the third quarter.\nHowever, its core operating margin remained negative at 14%, showing that the business has yet to achieve operating profitability despite its adjusted net income.\nCerebras ended September with $7.8 billion in cash, cash equivalents and short-term investments, alongside $850 million in available debt capacity.\nThe company also reported $26.1 billion in remaining performance obligations, representing contracted revenue yet to be recognised.\nChief executive Andrew Feldman reiterated expectations for revenue to triple in 2027 as the company expands its computing capacity and customer base.",
+    "text_blocks": [
+      "Cerebras Systems Inc (NASDAQ:CBRS) shares climbed 16% to $113 on Friday after the AI chipmaker reported record third-quarter revenue, its first adjusted quarterly profit and a stronger outlook.",
+      "The rally followed results showing core revenue rose 70% year on year to $230.9 million, beating analysts' expectations of $214.7 million.",
+      "Core net income reached $29.82 million, compared with a $10.86 million loss a year earlier, marking the company's first profitable quarter on this adjusted measure as a public company.",
+      "The performance was supported by growing demand for artificial intelligence (AI) inference, the process of using trained AI models to generate responses and perform tasks.",
+      "Cloud and other services revenue increased 272% to $144.9 million, while core gross margin improved to 41%.",
+      "Cerebras also secured a cloud inference agreement with Microsoft in October, adding another major technology customer alongside existing relationships with Amazon Web Services and Oracle.",
+      "The partnership strengthens Cerebras' position in the market for AI computing infrastructure, where companies are competing to provide faster processing capacity for increasingly complex applications.",
+      "Management raised its full-year 2026 core revenue forecast to between $940 million and $960 million, from its previous range of $880 million to $890 million.",
+      "Fourth-quarter core revenue is expected to reach between $310 million and $330 million, substantially above analysts' forecast of approximately $275 million.",
+      "The company also expects fourth-quarter core gross margin to improve to between 47% and 49%, compared with 41% in the third quarter.",
+      "However, its core operating margin remained negative at 14%, showing that the business has yet to achieve operating profitability despite its adjusted net income.",
+      "Cerebras ended September with $7.8 billion in cash, cash equivalents and short-term investments, alongside $850 million in available debt capacity.",
+      "The company also reported $26.1 billion in remaining performance obligations, representing contracted revenue yet to be recognised.",
+      "Chief executive Andrew Feldman reiterated expectations for revenue to triple in 2027 as the company expands its computing capacity and customer base."
+    ],
+    "html": null
+  }
+}

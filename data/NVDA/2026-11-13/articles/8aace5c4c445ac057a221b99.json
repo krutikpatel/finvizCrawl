@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+    "fetched_at": "2026-11-13T07:00:36.329248-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock market today: S&P 500, Nasdaq turn lower as  wholesale inflation rises, Nvidia stock falls",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls\nUS stocks edged higher on Friday as a bumpy week didn't prevent the major averages from pacing for weekly gains.\nThe Dow Jones Industrial Average (^DJI) rose 0.3%, while the S&P 500 (^GSPC) declined fractionally. The tech-heavy Nasdaq Composite (^IXIC) fell 0.3%.\nWhile stocks wobbled on Friday, they have largely held firm against a series of tremors from Nvidia (NVDA) CEO Jensen Huang stepping down to rising oil prices and a sell-off in government bonds.\nNvidia stock turned lower again on Friday as the fallout from Huang's affairs continued to unfold, raising the stakes for the company's third quarter earnings next Tuesday. Investors are debating whether the controversy surrounding the chip giant's former leader implicates the wider artificial intelligence boom that Nvidia has played a central role in building.\nChipmaker sector stocks declined further.\nOil prices were little changed, providing some relief after a spike in prices sparked Thursday's sell-off in bonds. As traders braced for an interest rate hike in December, the 10-year Treasury yield (^TNX) reached 5.16% on Friday, its highest level since October.\nThe setup has pressured the price of bitcoin (BTC), with the world's largest cryptocurrency tumbling below $70,000 early Friday for the first time in nearly three months.\nIn economic news, wholesale inflation rose 0.3% month over month in October, according to the producer price index. The reading was less than the 0.4% economists expected, but the annual rate of 6.5% highlighted persistent inflation pressures.",
+    "text_blocks": [
+      "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls",
+      "US stocks edged higher on Friday as a bumpy week didn't prevent the major averages from pacing for weekly gains.",
+      "The Dow Jones Industrial Average (^DJI) rose 0.3%, while the S&P 500 (^GSPC) declined fractionally. The tech-heavy Nasdaq Composite (^IXIC) fell 0.3%.",
+      "While stocks wobbled on Friday, they have largely held firm against a series of tremors from Nvidia (NVDA) CEO Jensen Huang stepping down to rising oil prices and a sell-off in government bonds.",
+      "Nvidia stock turned lower again on Friday as the fallout from Huang's affairs continued to unfold, raising the stakes for the company's third quarter earnings next Tuesday. Investors are debating whether the controversy surrounding the chip giant's former leader implicates the wider artificial intelligence boom that Nvidia has played a central role in building.",
+      "Chipmaker sector stocks declined further.",
+      "Oil prices were little changed, providing some relief after a spike in prices sparked Thursday's sell-off in bonds. As traders braced for an interest rate hike in December, the 10-year Treasury yield (^TNX) reached 5.16% on Friday, its highest level since October.",
+      "The setup has pressured the price of bitcoin (BTC), with the world's largest cryptocurrency tumbling below $70,000 early Friday for the first time in nearly three months.",
+      "In economic news, wholesale inflation rose 0.3% month over month in October, according to the producer price index. The reading was less than the 0.4% economists expected, but the annual rate of 6.5% highlighted persistent inflation pressures."
+    ],
+    "html": null
+  }
+}

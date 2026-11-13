@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-binge-hits-wall-213540407.html",
+    "fetched_at": "2026-11-13T07:00:10.026939-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nMajor technology corporations are approaching maximum borrowing boundaries within the global bond sector, Wells Fargo warns.\n-\nMarket participants are penalizing individual debt offerings that surpass $25 billion.\n-\nCombined issuance from top hyperscalers, alongside data center developments by firms like Nvidia and SpaceX, has driven total volume to roughly $400 billion for the year.\nThe massive financial push by hyperscalers, cloud architecture firms, and data center operators to build AI infrastructure has hit structural limits in international debt markets, according to Wells Fargo.\nMaureen O'Connor, global head of high-grade debt syndicate at Wells Fargo, characterized the recent trend as a distinct \"supply shock\" affecting the $15 trillion investment-grade landscape. Speaking on Bloomberg TV, O'Connor emphasized that the market is rapidly nearing its saturation ceiling.\nSurging Corporate Bond Volumes\nPrimary tech hyperscalers like Amazon, Microsoft, Alphabet, Meta, and Oracle have collectively brought over $200 billion in corporate bonds to market within the current calendar year. When factoring in specialized data center funding initiatives from industry players like Nvidia Corp. and SpaceX, aggregate volume surges to approximately $400 billion, Wells Fargo noted.\nAccording to O'Connor, bond offerings that eclipse the $25 billion threshold are now facing negative reactions in secondary trading. Consequently, financial advisors recommend that individual issuers limit their visits to the bond market to twice a year.\n\"We have definitely recognized a bit of a pivot point in and around about $25 billion per issuance being a bit of a pain point for investors,\" O'Connor stated during the broadcast. \"It puts a little bit of a lid on how much these companies can actually borrow directly from the investment-grade market.\"\nLooking ahead, O'Connor anticipates a structural shift in how firms secure capital for AI hardware components, projecting expanded use of off-balance-sheet financing models next year, specifically tailored for graphics processing units (GPUs) and tensor processing units (TPUs).\nAMZN, GOOGL, MSFT Stock: Retail View\nRetail sentiment on Stocktwits was 'bearish' towards Amazon stock and was 'neutral' for Microsoft and Alphabet stock, with 'normal' to 'high' message volumes.\nAMZN stock has gained 15%, Microsoft has added 8%, and Google has lost 4% year-to-date.",
+    "text_blocks": [
+      "-",
+      "Major technology corporations are approaching maximum borrowing boundaries within the global bond sector, Wells Fargo warns.",
+      "-",
+      "Market participants are penalizing individual debt offerings that surpass $25 billion.",
+      "-",
+      "Combined issuance from top hyperscalers, alongside data center developments by firms like Nvidia and SpaceX, has driven total volume to roughly $400 billion for the year.",
+      "The massive financial push by hyperscalers, cloud architecture firms, and data center operators to build AI infrastructure has hit structural limits in international debt markets, according to Wells Fargo.",
+      "Maureen O'Connor, global head of high-grade debt syndicate at Wells Fargo, characterized the recent trend as a distinct \"supply shock\" affecting the $15 trillion investment-grade landscape. Speaking on Bloomberg TV, O'Connor emphasized that the market is rapidly nearing its saturation ceiling.",
+      "Surging Corporate Bond Volumes",
+      "Primary tech hyperscalers like Amazon, Microsoft, Alphabet, Meta, and Oracle have collectively brought over $200 billion in corporate bonds to market within the current calendar year. When factoring in specialized data center funding initiatives from industry players like Nvidia Corp. and SpaceX, aggregate volume surges to approximately $400 billion, Wells Fargo noted.",
+      "According to O'Connor, bond offerings that eclipse the $25 billion threshold are now facing negative reactions in secondary trading. Consequently, financial advisors recommend that individual issuers limit their visits to the bond market to twice a year.",
+      "\"We have definitely recognized a bit of a pivot point in and around about $25 billion per issuance being a bit of a pain point for investors,\" O'Connor stated during the broadcast. \"It puts a little bit of a lid on how much these companies can actually borrow directly from the investment-grade market.\"",
+      "Looking ahead, O'Connor anticipates a structural shift in how firms secure capital for AI hardware components, projecting expanded use of off-balance-sheet financing models next year, specifically tailored for graphics processing units (GPUs) and tensor processing units (TPUs).",
+      "AMZN, GOOGL, MSFT Stock: Retail View",
+      "Retail sentiment on Stocktwits was 'bearish' towards Amazon stock and was 'neutral' for Microsoft and Alphabet stock, with 'normal' to 'high' message volumes.",
+      "AMZN stock has gained 15%, Microsoft has added 8%, and Google has lost 4% year-to-date."
+    ],
+    "html": null
+  }
+}
