@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/meta-tests-prediction-market-app-203017664.html",
+    "fetched_at": "2026-11-14T07:00:08.140954-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta tests prediction-market app for employees, WSJ reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Meta Platforms is testing an internal prediction-market app called Takes, allowing employees to predict the outcomes of events using virtual points rather than real money, The Wall Street Journal reported Friday.\nThe app uses a currency called \"cred,\" with users earning points for correct predictions and losing them for incorrect ones. Questions have included whether former Apple CEO Tim Cook will become Nvidia's next chief executive.\nThe project was previously known internally as Arena, following CEO Mark Zuckerberg's direction to develop a prediction-market product.\nThe move comes as platforms such as Kalshi and Polymarket gain popularity, particularly among younger users Meta is seeking to attract. Both companies face legal challenges from US states over whether their platforms constitute illegal gambling.\nTakes remains in employee testing, with no indication of when or whether Meta plans a public launch, the Journal reported.\nOriginal Article\nMeta tests prediction-market app for employees, WSJ reports\nInvesting.com's stocks of the week\nNvidia-led tech sell-off drags Wall Street lower despite inflation relief",
+    "text_blocks": [
+      "Investing.com -- Meta Platforms is testing an internal prediction-market app called Takes, allowing employees to predict the outcomes of events using virtual points rather than real money, The Wall Street Journal reported Friday.",
+      "The app uses a currency called \"cred,\" with users earning points for correct predictions and losing them for incorrect ones. Questions have included whether former Apple CEO Tim Cook will become Nvidia's next chief executive.",
+      "The project was previously known internally as Arena, following CEO Mark Zuckerberg's direction to develop a prediction-market product.",
+      "The move comes as platforms such as Kalshi and Polymarket gain popularity, particularly among younger users Meta is seeking to attract. Both companies face legal challenges from US states over whether their platforms constitute illegal gambling.",
+      "Takes remains in employee testing, with no indication of when or whether Meta plans a public launch, the Journal reported.",
+      "Original Article",
+      "Meta tests prediction-market app for employees, WSJ reports",
+      "Investing.com's stocks of the week",
+      "Nvidia-led tech sell-off drags Wall Street lower despite inflation relief"
+    ],
+    "html": null
+  }
+}

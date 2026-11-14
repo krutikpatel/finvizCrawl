@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-stocks-drop-3-154108343.html",
+    "fetched_at": "2026-11-14T07:00:39.309489-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Stocks Drop 3.9% as AI Becomes Its Own Red Team",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This article first appeared on GuruFocus.\nPalo Alto Networks (NASDAQ:PANW), the enterprise cybersecurity company, launched a new subscription service for finding security weaknesses before attackers do. Shares fell about 3.86% to $374.865 by roughly 10:35 a.m. ET Friday, measured against Thursday's $389.92 close.\nThe pitch is straightforward: give companies a running test of their applications, APIs and cloud systems, then show them which weaknesses an attacker could actually exploit. Unit 42 pairs AI models with its security specialists to check potential attack paths and help customers prioritize fixes. Reuters reported that the service is available globally through annual subscriptions.\nThe valuation leaves little room for a weak payoff. At $374.865, the shares sit 60.62% above the $233.38 GF Value shown in the graphic. That premium puts the focus on whether customers renew and whether the service earns enough to cover the AI and specialist work behind it. Finding more flaws is useful. Turning those findings into durable, profitable revenue is the test.",
+    "text_blocks": [
+      "This article first appeared on GuruFocus.",
+      "Palo Alto Networks (NASDAQ:PANW), the enterprise cybersecurity company, launched a new subscription service for finding security weaknesses before attackers do. Shares fell about 3.86% to $374.865 by roughly 10:35 a.m. ET Friday, measured against Thursday's $389.92 close.",
+      "The pitch is straightforward: give companies a running test of their applications, APIs and cloud systems, then show them which weaknesses an attacker could actually exploit. Unit 42 pairs AI models with its security specialists to check potential attack paths and help customers prioritize fixes. Reuters reported that the service is available globally through annual subscriptions.",
+      "The valuation leaves little room for a weak payoff. At $374.865, the shares sit 60.62% above the $233.38 GF Value shown in the graphic. That premium puts the focus on whether customers renew and whether the service earns enough to cover the AI and specialist work behind it. Finding more flaws is useful. Turning those findings into durable, profitable revenue is the test."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-stocks-pare-early-week-162440080.html",
+    "fetched_at": "2026-11-14T07:00:39.302505-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Cybersecurity Stocks Pare Early-Week Gains — Analysts See AI Security Demand Building, But Valuations Raise The Bar",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Cybersecurity Stocks Pare Early-Week Gains — Analysts See AI Security Demand Building, But Valuations Raise The Bar\n-\nOpenAI, Anthropic and Google have each disclosed incidents in which AI models gained unauthorized access to real-world systems during testing.\n-\nBernstein says demand signals remain positive but warns sector expectations have risen sharply.\n-\nMorgan Stanley sees increased cybersecurity spending benefiting major vendors such as CrowdStrike and Palo Alto.\nCybersecurity stocks were broadly lower Friday, trimming part of a sharp early-week advance that followed renewed concern over the risks posed by increasingly autonomous artificial-intelligence systems.\nAt the time of writing, Zscaler Inc. (ZS) was down about 8%, Palo Alto Networks Inc. (PANW) and Okta Inc. (OKTA) were down about 3% each, and CrowdStrike Holdings Inc. (CRWD) was down roughly 1%.\nThe selloff follows substantial gains through Wednesday. From Sept. 18 through Sept. 23, Okta, CrowdStrike, Zscaler, Palo Alto and Fortinet (FTNT) stocks jumped between 5% and 12%.\nThursday brought the first signs of cooling, and Friday's broader decline has pared more of the early-week gains, though the group remains on track for a second straight weekly advance.\nDemand Is Improving, But Expectations Have Risen\nAccording to a Bloomberg report, Bernstein said cybersecurity sentiment has turned positive, citing its mid-year chief information security officer and chief information officer surveys showing improving demand.\nAnalyst Peter Weed, however, warned the sector may have \"gotten over its skis\" as growth expectations accelerated. He cut his ratings on Palo Alto, Okta and SentinelOne.\nTrailing price-to-earnings ratios illustrate how wide the valuation spread has become.\nBernstein highlighted that many of the cybersecurity names it covers have risen roughly 100% or more since the start of 2026, and that crowding in the sector has increased significantly. Companies it previously considered \"too cheap\" now look fairly valued, it said.\nMeanwhile, Morgan Stanley said CrowdStrike and Palo Alto are positioned to benefit from higher cybersecurity spending as AI safety concerns move to the forefront, according to The Fly.\nWhy AI Safety Is Driving The Trade\nThe renewed focus on cybersecurity follows several incidents involving frontier AI models.\nAustralian officials said this week that an OpenAI agent gained unauthorized access to a government healthcare-statistics portal in June. Researchers also identified attempted access involving the Australian Institute of Health and Welfare, the University of New Mexico and Data USA.\nAnthropic separately disclosed incidents in which Claude models gained unauthorized access to real organizations during cybersecurity evaluations. Google also confirmed Gemini breached three companies during security testing.",
+    "text_blocks": [
+      "Cybersecurity Stocks Pare Early-Week Gains — Analysts See AI Security Demand Building, But Valuations Raise The Bar",
+      "-",
+      "OpenAI, Anthropic and Google have each disclosed incidents in which AI models gained unauthorized access to real-world systems during testing.",
+      "-",
+      "Bernstein says demand signals remain positive but warns sector expectations have risen sharply.",
+      "-",
+      "Morgan Stanley sees increased cybersecurity spending benefiting major vendors such as CrowdStrike and Palo Alto.",
+      "Cybersecurity stocks were broadly lower Friday, trimming part of a sharp early-week advance that followed renewed concern over the risks posed by increasingly autonomous artificial-intelligence systems.",
+      "At the time of writing, Zscaler Inc. (ZS) was down about 8%, Palo Alto Networks Inc. (PANW) and Okta Inc. (OKTA) were down about 3% each, and CrowdStrike Holdings Inc. (CRWD) was down roughly 1%.",
+      "The selloff follows substantial gains through Wednesday. From Sept. 18 through Sept. 23, Okta, CrowdStrike, Zscaler, Palo Alto and Fortinet (FTNT) stocks jumped between 5% and 12%.",
+      "Thursday brought the first signs of cooling, and Friday's broader decline has pared more of the early-week gains, though the group remains on track for a second straight weekly advance.",
+      "Demand Is Improving, But Expectations Have Risen",
+      "According to a Bloomberg report, Bernstein said cybersecurity sentiment has turned positive, citing its mid-year chief information security officer and chief information officer surveys showing improving demand.",
+      "Analyst Peter Weed, however, warned the sector may have \"gotten over its skis\" as growth expectations accelerated. He cut his ratings on Palo Alto, Okta and SentinelOne.",
+      "Trailing price-to-earnings ratios illustrate how wide the valuation spread has become.",
+      "Bernstein highlighted that many of the cybersecurity names it covers have risen roughly 100% or more since the start of 2026, and that crowding in the sector has increased significantly. Companies it previously considered \"too cheap\" now look fairly valued, it said.",
+      "Meanwhile, Morgan Stanley said CrowdStrike and Palo Alto are positioned to benefit from higher cybersecurity spending as AI safety concerns move to the forefront, according to The Fly.",
+      "Why AI Safety Is Driving The Trade",
+      "The renewed focus on cybersecurity follows several incidents involving frontier AI models.",
+      "Australian officials said this week that an OpenAI agent gained unauthorized access to a government healthcare-statistics portal in June. Researchers also identified attempted access involving the Australian Institute of Health and Welfare, the University of New Mexico and Data USA.",
+      "Anthropic separately disclosed incidents in which Claude models gained unauthorized access to real organizations during cybersecurity evaluations. Google also confirmed Gemini breached three companies during security testing."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/microsoft-says-ai-didnt-break-outlook--its-own-network-upgrade-did-133858185.html",
+    "fetched_at": "2026-11-14T07:00:23.404803-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft says AI didn’t break Outlook — its own network upgrade did",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Millions of office workers got an unplanned break from email Thursday. Their bosses' favorite new AI tool got one too.\nA Microsoft (MSFT) outage that began midday Thursday knocked out Outlook and other workplace apps worldwide, with Downdetector logging reports from 74 countries within about an hour. By Friday, Microsoft said it was seeing \"encouraging recovery progress.\"\nThe damage reached Microsoft's AI. Copilot couldn't access users' email, files, or calendars, and the Microsoft connectors for OpenAI's ChatGPT and Anthropic's (ANTH.PVT) Claude broke too.\nMicrosoft says more than 430 million people use its Microsoft 365 apps.\nWhat it means for you\nYour email isn't lost. Microsoft stretched its email timeout to 48 hours, so messages sent to you keep trying to deliver instead of bouncing back.\nThere isn't much to fix on your end. Resetting your password or reinstalling Outlook won't help, though desktop Outlook may still show mail it already downloaded.\nIf your company pays for Microsoft 365, it may be owed money. Microsoft promises 99.9% uptime, about 43 minutes of downtime a month, with credits of 25% to 100% of the monthly fee when it falls short. Your IT department has to file the claim.\nNot the first time\nMicrosoft is hard to replace, which is usually good news for its shareholders. Pershing Square CEO Bill Ackman, whose fund owns Microsoft stock, said at Yahoo Finance Invest on Thursday that Microsoft is \"the gateway to how people interact with the basic workflows of a desk worker,\" which makes it \"a much more difficult position to dislodge.\"\nThis week showed the other side of that.\nMicrosoft has blamed its own changes or maintenance for Microsoft 365 disruptions in at least six months this year, from a nearly 10-hour outage in January to a spam-filter update that bounced real email earlier this month.\nAustralia's home affairs minister, Tony Burke, said Microsoft believes it's dealing with \"an update that has gone awry,\" much like the 2024 CrowdStrike meltdown.\nHave you tried turning it off and on again?\nMicrosoft reached for the oldest fix in the help desk manual, saying Thursday it was \"restarting affected servers to return them to service.\"\nIt didn't stick. Servers that came back went down again once traffic returned. On Friday, Microsoft traced the outage to a problem from \"an earlier network capacity upgrade\" that surfaced after a recent network change, and said it was \"deeply sorry for the disruption.\"\nWhat we know about the layoffs\nThe outage comes as Microsoft trims its workforce while spending heavily on AI. It offered buyouts to about 60,000 employees in October, and those who accept leave Dec. 31. CEO Satya Nadella said last year that AI writes \"maybe 20%, 30%\" of Microsoft's code.",
+    "text_blocks": [
+      "Millions of office workers got an unplanned break from email Thursday. Their bosses' favorite new AI tool got one too.",
+      "A Microsoft (MSFT) outage that began midday Thursday knocked out Outlook and other workplace apps worldwide, with Downdetector logging reports from 74 countries within about an hour. By Friday, Microsoft said it was seeing \"encouraging recovery progress.\"",
+      "The damage reached Microsoft's AI. Copilot couldn't access users' email, files, or calendars, and the Microsoft connectors for OpenAI's ChatGPT and Anthropic's (ANTH.PVT) Claude broke too.",
+      "Microsoft says more than 430 million people use its Microsoft 365 apps.",
+      "What it means for you",
+      "Your email isn't lost. Microsoft stretched its email timeout to 48 hours, so messages sent to you keep trying to deliver instead of bouncing back.",
+      "There isn't much to fix on your end. Resetting your password or reinstalling Outlook won't help, though desktop Outlook may still show mail it already downloaded.",
+      "If your company pays for Microsoft 365, it may be owed money. Microsoft promises 99.9% uptime, about 43 minutes of downtime a month, with credits of 25% to 100% of the monthly fee when it falls short. Your IT department has to file the claim.",
+      "Not the first time",
+      "Microsoft is hard to replace, which is usually good news for its shareholders. Pershing Square CEO Bill Ackman, whose fund owns Microsoft stock, said at Yahoo Finance Invest on Thursday that Microsoft is \"the gateway to how people interact with the basic workflows of a desk worker,\" which makes it \"a much more difficult position to dislodge.\"",
+      "This week showed the other side of that.",
+      "Microsoft has blamed its own changes or maintenance for Microsoft 365 disruptions in at least six months this year, from a nearly 10-hour outage in January to a spam-filter update that bounced real email earlier this month.",
+      "Australia's home affairs minister, Tony Burke, said Microsoft believes it's dealing with \"an update that has gone awry,\" much like the 2024 CrowdStrike meltdown.",
+      "Have you tried turning it off and on again?",
+      "Microsoft reached for the oldest fix in the help desk manual, saying Thursday it was \"restarting affected servers to return them to service.\"",
+      "It didn't stick. Servers that came back went down again once traffic returned. On Friday, Microsoft traced the outage to a problem from \"an earlier network capacity upgrade\" that surfaced after a recent network change, and said it was \"deeply sorry for the disruption.\"",
+      "What we know about the layoffs",
+      "The outage comes as Microsoft trims its workforce while spending heavily on AI. It offered buyouts to about 60,000 employees in October, and those who accept leave Dec. 31. CEO Satya Nadella said last year that AI writes \"maybe 20%, 30%\" of Microsoft's code."
+    ],
+    "html": null
+  }
+}

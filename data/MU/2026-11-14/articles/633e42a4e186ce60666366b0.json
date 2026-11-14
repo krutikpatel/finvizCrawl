@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/undervalued-ai-stocks-watch-nvidia-205103391.html",
+    "fetched_at": "2026-11-14T07:00:10.600474-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Undervalued AI stocks to watch as Nvidia leadership uncertainty weighs on the sector",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- A screen of US-listed AI-linked names with market caps above $30B and Fair Value upsides above 15% turns up five stocks trading well below model estimates, even as Nvidia leadership uncertainty clouds the broader sector.\nThe Backdrop: Nvidia's Leadership Shock\nNVIDIA (NVDA) sold off after CEO Jensen Huang's public admission on Nov 8 and the board's independent investigation. His resignation then pushed the shares down again. The same analysis argues the damage to the wider AI industry may be limited, and that the drop could become a long-term opportunity, but it warns of near-term volatility (Read more, Nov 13, 2026). A screen of US-listed AI-linked names (semiconductors, software, networking, hardware) with market caps above $30B and a Fair Value upside above 15% produced the following results.\nFive Undervalued Signals\nWhy They Stand Out\n-\nMemory and storage: Micron and Western Digital supply the memory and storage that AI data centers need. Both trade at low forward multiples after steep pullbacks, so the market is pricing in a downturn that the analyst targets don't expect.\n-\nAI infrastructure rental: CoreWeave rents out Nvidia-powered compute. Its 127.1% analyst target upside is the largest in this group. It also depends most on Nvidia's health and has no positive earnings yet, so it is the riskiest of the five.\n-\nAI software: Salesforce and ServiceNow monetize AI through software. Salesforce is the only name here with a positive 3-month return (+11%), which makes it the steadier pick.\nThe Bear Case\n-\nLow multiples can be a trap. A forward P/E of 3.9x in memory may signal that analysts expect earnings to peak.\n-\nCircular-financing worries. Earlier coverage flagged that AI producers financing their own customers could inflate demand. Nvidia put its guarantee exposure at $3.5B (Read more, Aug 26, 2026).\n-\nLeadership uncertainty. A new Nvidia CEO could change the company's AI spending and supply-chain priorities.",
+    "text_blocks": [
+      "Investing.com -- A screen of US-listed AI-linked names with market caps above $30B and Fair Value upsides above 15% turns up five stocks trading well below model estimates, even as Nvidia leadership uncertainty clouds the broader sector.",
+      "The Backdrop: Nvidia's Leadership Shock",
+      "NVIDIA (NVDA) sold off after CEO Jensen Huang's public admission on Nov 8 and the board's independent investigation. His resignation then pushed the shares down again. The same analysis argues the damage to the wider AI industry may be limited, and that the drop could become a long-term opportunity, but it warns of near-term volatility (Read more, Nov 13, 2026). A screen of US-listed AI-linked names (semiconductors, software, networking, hardware) with market caps above $30B and a Fair Value upside above 15% produced the following results.",
+      "Five Undervalued Signals",
+      "Why They Stand Out",
+      "-",
+      "Memory and storage: Micron and Western Digital supply the memory and storage that AI data centers need. Both trade at low forward multiples after steep pullbacks, so the market is pricing in a downturn that the analyst targets don't expect.",
+      "-",
+      "AI infrastructure rental: CoreWeave rents out Nvidia-powered compute. Its 127.1% analyst target upside is the largest in this group. It also depends most on Nvidia's health and has no positive earnings yet, so it is the riskiest of the five.",
+      "-",
+      "AI software: Salesforce and ServiceNow monetize AI through software. Salesforce is the only name here with a positive 3-month return (+11%), which makes it the steadier pick.",
+      "The Bear Case",
+      "-",
+      "Low multiples can be a trap. A forward P/E of 3.9x in memory may signal that analysts expect earnings to peak.",
+      "-",
+      "Circular-financing worries. Earlier coverage flagged that AI producers financing their own customers could inflate demand. Nvidia put its guarantee exposure at $3.5B (Read more, Aug 26, 2026).",
+      "-",
+      "Leadership uncertainty. A new Nvidia CEO could change the company's AI spending and supply-chain priorities."
+    ],
+    "html": null
+  }
+}

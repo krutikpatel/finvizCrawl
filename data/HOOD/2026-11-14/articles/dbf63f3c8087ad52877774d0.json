@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/doj-cftc-sue-arkansas-protect-153300260.html",
+    "fetched_at": "2026-11-14T07:00:16.084765-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "DOJ, CFTC Sue Arkansas to Protect Kalshi’s Prediction Markets",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The U.S. Department of Justice and the Commodity Futures Trading Commission have sued Arkansas Attorney General Tim Griffin, seeking to stop the state from enforcing its gambling laws against prediction market platform Kalshi.\nThe lawsuit, filed Thursday in the U.S. District Court for the Eastern District of Arkansas, argues that federal law gives the CFTC exclusive authority over commodity futures, options, and swaps traded on regulated platforms.\nThe agencies say the event contracts offered by Kalshi fall under the Commodity Exchange Act and therefore come within the CFTC's regulatory authority. They argue that Arkansas cannot use its own gambling laws to restrict products offered by a federally regulated platform.\nMore From Cryptoprowl:\n-\nNYSE Parent ICE to Bring Hyperliquid-Based Perpetual Futures to US\n-\nBitwise Raises Bitcoin Price Forecast To $1.6 Million By 2036\n-\nSurvey Finds 90% Of Large Businesses Are Embracing Tokenized Money\n-\nMoody's Assigns Investment-Grade Rating To Ripple's Stablecoin\nThe federal agencies are seeking preliminary and permanent injunctions to prevent Griffin from enforcing the state's laws against Kalshi, arguing that federal regulations take precedence.\nGriffin sued Kalshi on November 4, accusing the company of operating an illegal gambling platform that lets users wager on the outcomes of a wide range of events. He argued that the platform's contracts amount to gambling and violate Arkansas law.\nThe dispute is part of a broader push by state authorities to challenge prediction markets operating across the U.S.\nLouisiana Attorney General Liz Murrill filed a separate lawsuit on Thursday against Kalshi, Polymarket, Robinhood (NASDAQ: $HOOD) and Coinbase Global (NASDAQ: $COIN), accusing the companies of violating state laws. She said she was seeking an immediate restraining order and injunction against the platforms.\nThe move comes as Kalshi has ended its advisory relationship with Donald Trump Jr. after his venture capital firm, 1789 Capital, increased its investment in rival prediction market Polymarket.\nLast month, Kalshi partnered with crypto custodian BitGo (NYSE: $BTGO) to let Kalshi Prime clients borrow against Bitcoin (CRYPTO: $BTC), Ethereum (CRYPTO: $ETH) and select stablecoins held in custody and use the funds as collateral for leveraged perpetual futures trading on its platform.",
+    "text_blocks": [
+      "The U.S. Department of Justice and the Commodity Futures Trading Commission have sued Arkansas Attorney General Tim Griffin, seeking to stop the state from enforcing its gambling laws against prediction market platform Kalshi.",
+      "The lawsuit, filed Thursday in the U.S. District Court for the Eastern District of Arkansas, argues that federal law gives the CFTC exclusive authority over commodity futures, options, and swaps traded on regulated platforms.",
+      "The agencies say the event contracts offered by Kalshi fall under the Commodity Exchange Act and therefore come within the CFTC's regulatory authority. They argue that Arkansas cannot use its own gambling laws to restrict products offered by a federally regulated platform.",
+      "More From Cryptoprowl:",
+      "-",
+      "NYSE Parent ICE to Bring Hyperliquid-Based Perpetual Futures to US",
+      "-",
+      "Bitwise Raises Bitcoin Price Forecast To $1.6 Million By 2036",
+      "-",
+      "Survey Finds 90% Of Large Businesses Are Embracing Tokenized Money",
+      "-",
+      "Moody's Assigns Investment-Grade Rating To Ripple's Stablecoin",
+      "The federal agencies are seeking preliminary and permanent injunctions to prevent Griffin from enforcing the state's laws against Kalshi, arguing that federal regulations take precedence.",
+      "Griffin sued Kalshi on November 4, accusing the company of operating an illegal gambling platform that lets users wager on the outcomes of a wide range of events. He argued that the platform's contracts amount to gambling and violate Arkansas law.",
+      "The dispute is part of a broader push by state authorities to challenge prediction markets operating across the U.S.",
+      "Louisiana Attorney General Liz Murrill filed a separate lawsuit on Thursday against Kalshi, Polymarket, Robinhood (NASDAQ: $HOOD) and Coinbase Global (NASDAQ: $COIN), accusing the companies of violating state laws. She said she was seeking an immediate restraining order and injunction against the platforms.",
+      "The move comes as Kalshi has ended its advisory relationship with Donald Trump Jr. after his venture capital firm, 1789 Capital, increased its investment in rival prediction market Polymarket.",
+      "Last month, Kalshi partnered with crypto custodian BitGo (NYSE: $BTGO) to let Kalshi Prime clients borrow against Bitcoin (CRYPTO: $BTC), Ethereum (CRYPTO: $ETH) and select stablecoins held in custody and use the funds as collateral for leveraged perpetual futures trading on its platform."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nscale-reports-ballooning-debt-more-225456316.html",
+    "fetched_at": "2026-11-14T07:00:23.435508-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nscale reports ballooning debt and need for more as IPO approaches",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Neocloud startup Nscale reported ballooning debt and increased reliance on Nvidia for financing as the startup aims for an IPO amid swirling questions about the sustainability of the AI boom.\nWhy it matters: The U.K. company is buying chips from Nvidia, getting financing from Nvidia, promising cloud computing to Anthropic and collaborating with Microsoft — illustrating the increasingly dense thicket of ties that bind together the AI economy.\nZoom in: Nscale reported in a regulatory filing that it will need additional financing to meet its projected obligations in 2027 warning that \"there can be no assurance\" it will secure the capital on acceptable terms.\n-\nThe projected need for more capital came after its debt already soared from $137 million at the end of the second quarter to $5.5 billion at the end of the third quarter, according to the new filing.\n-\nNvidia committed an additional $1 billion in financing to Nscale beyond the $1 billion that was already disclosed, according to the filing.\nThe intrigue: With the downfall of Nvidia CEO Jensen Huang, the markets will be watching to see whether the company continues to extend financing to customers like Nscale, which wants its chips to keep building data centers.\n-\nNvidia CFO Colette Kress, who is now serving as interim CEO, \"has sometimes pushed back on deals that Huang championed,\" including a deal to backstop a massive OpenAI project, The Information reported.\n-\nAfter Huang directed Nvidia to provide cloud companies with financing in exchange for a share of their revenue, Kress \"raised questions including how to decide which deals to pursue, how to value the guarantees, and how to calculate the return on investment,\" WSJ reported.\nReality check: \"The additional fundraising requirements won't knock Nscale's progress toward listing and it remains on track to go public before the end of the year,\" WSJ reported, citing a person close to the company.\nWhat to watch: Whether Nvidia turns off the spigot.\nAI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.",
+    "text_blocks": [
+      "Neocloud startup Nscale reported ballooning debt and increased reliance on Nvidia for financing as the startup aims for an IPO amid swirling questions about the sustainability of the AI boom.",
+      "Why it matters: The U.K. company is buying chips from Nvidia, getting financing from Nvidia, promising cloud computing to Anthropic and collaborating with Microsoft — illustrating the increasingly dense thicket of ties that bind together the AI economy.",
+      "Zoom in: Nscale reported in a regulatory filing that it will need additional financing to meet its projected obligations in 2027 warning that \"there can be no assurance\" it will secure the capital on acceptable terms.",
+      "-",
+      "The projected need for more capital came after its debt already soared from $137 million at the end of the second quarter to $5.5 billion at the end of the third quarter, according to the new filing.",
+      "-",
+      "Nvidia committed an additional $1 billion in financing to Nscale beyond the $1 billion that was already disclosed, according to the filing.",
+      "The intrigue: With the downfall of Nvidia CEO Jensen Huang, the markets will be watching to see whether the company continues to extend financing to customers like Nscale, which wants its chips to keep building data centers.",
+      "-",
+      "Nvidia CFO Colette Kress, who is now serving as interim CEO, \"has sometimes pushed back on deals that Huang championed,\" including a deal to backstop a massive OpenAI project, The Information reported.",
+      "-",
+      "After Huang directed Nvidia to provide cloud companies with financing in exchange for a share of their revenue, Kress \"raised questions including how to decide which deals to pursue, how to value the guarantees, and how to calculate the return on investment,\" WSJ reported.",
+      "Reality check: \"The additional fundraising requirements won't knock Nscale's progress toward listing and it remains on track to go public before the end of the year,\" WSJ reported, citing a person close to the company.",
+      "What to watch: Whether Nvidia turns off the spigot.",
+      "AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com."
+    ],
+    "html": null
+  }
+}
