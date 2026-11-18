@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/bill-gurley-says-giving-away-ai-is-googles-no-1-move-against-anthropic-133314859.html",
+    "fetched_at": "2026-11-18T07:00:36.069467-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Bill Gurley, the venture capitalist behind an early bet on Uber (UBER), has an idea for how Google could slow Anthropic (ANTH.PVT) down: Give the AI away.\nGurley, a general partner at Benchmark, told Deirdre Bosa Live on Monday that Alphabet's (GOOGL) Google should use free AI to keep Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) from pulling away. Anthropic prices its IPO Wednesday and begins trading Thursday under the ticker symbol ANT.\n\"If Google recognizes that Anthropic ... and OpenAI maybe are getting escape velocity away from them, it is the No. 1 thing they should go do ... bar none,\" he said.\nGurley calls it playing defense. Open-weight models, which anyone can download, run and change for free, keep one company from locking up a market. Google did it with Kubernetes \"when they were worried about Amazon and AWS,\" he said, and with Android \"when they were worried about Apple having a monopoly in phones.\"\nThe catch? \"We're not seeing those actions from Google.\"\nOpen-source AI is winning the traffic\nFree models already do most of the work. On OpenRouter, a marketplace developers use to reach hundreds of AI models, seven of the 10 most-used models last week came from Chinese labs and are free to download. DeepSeek's V4.1 Flash alone processed about 77 trillion tokens, the basic units of text that AI models read and write. That's more than the other nine combined.\nDuolingo (DUOL) CEO Luis von Ahn told Yahoo Finance last week that open models cut the cost of each AI video call to less than a cent from about 30 cents. \"The vast majority of our usage of AI will be in open-weight models pretty soon,\" he said.\nClosed AI is still winning the money\nThe money flows the other way. Closed models handled 28% of OpenRouter's tokens in mid-September but collected 73% of the spending, according to its September report. Similarly, Apple's (AAPL) iPhone accounted for about a fifth of phones sold in the second quarter but generated nearly half of revenue, according to Counterpoint Research.\nPrice is a big reason. Anthropic lists Claude Opus 5.5, its most-used model, at about 27 times what DeepSeek charges for its own. And while 39 companies sell DeepSeek's model on OpenRouter, nobody sells Claude Opus for less than Anthropic does. As Gurley put it, \"The marginal price is going to equal marginal cost.\"\nGurley also called Anthropic's choice to write off model training costs right away, rather than over years, \"pretty amazing,\" adding, \"it's still profitable, really high gross margin.\"",
+    "text_blocks": [
+      "Bill Gurley, the venture capitalist behind an early bet on Uber (UBER), has an idea for how Google could slow Anthropic (ANTH.PVT) down: Give the AI away.",
+      "Gurley, a general partner at Benchmark, told Deirdre Bosa Live on Monday that Alphabet's (GOOGL) Google should use free AI to keep Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) from pulling away. Anthropic prices its IPO Wednesday and begins trading Thursday under the ticker symbol ANT.",
+      "\"If Google recognizes that Anthropic ... and OpenAI maybe are getting escape velocity away from them, it is the No. 1 thing they should go do ... bar none,\" he said.",
+      "Gurley calls it playing defense. Open-weight models, which anyone can download, run and change for free, keep one company from locking up a market. Google did it with Kubernetes \"when they were worried about Amazon and AWS,\" he said, and with Android \"when they were worried about Apple having a monopoly in phones.\"",
+      "The catch? \"We're not seeing those actions from Google.\"",
+      "Open-source AI is winning the traffic",
+      "Free models already do most of the work. On OpenRouter, a marketplace developers use to reach hundreds of AI models, seven of the 10 most-used models last week came from Chinese labs and are free to download. DeepSeek's V4.1 Flash alone processed about 77 trillion tokens, the basic units of text that AI models read and write. That's more than the other nine combined.",
+      "Duolingo (DUOL) CEO Luis von Ahn told Yahoo Finance last week that open models cut the cost of each AI video call to less than a cent from about 30 cents. \"The vast majority of our usage of AI will be in open-weight models pretty soon,\" he said.",
+      "Closed AI is still winning the money",
+      "The money flows the other way. Closed models handled 28% of OpenRouter's tokens in mid-September but collected 73% of the spending, according to its September report. Similarly, Apple's (AAPL) iPhone accounted for about a fifth of phones sold in the second quarter but generated nearly half of revenue, according to Counterpoint Research.",
+      "Price is a big reason. Anthropic lists Claude Opus 5.5, its most-used model, at about 27 times what DeepSeek charges for its own. And while 39 companies sell DeepSeek's model on OpenRouter, nobody sells Claude Opus for less than Anthropic does. As Gurley put it, \"The marginal price is going to equal marginal cost.\"",
+      "Gurley also called Anthropic's choice to write off model training costs right away, rather than over years, \"pretty amazing,\" adding, \"it's still profitable, really high gross margin.\""
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html",
+    "fetched_at": "2026-11-18T07:00:19.431494-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia earnings spark premarket rally in chipmakers, neocloud stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com-- Shares of chipmakers and cloud computing firms rose sharply in premarket trading on Wednesday after blowout quarterly earnings from sector giant Nvidia helped restore faith in the artificial intelligence trade.\nBy 04:10 ET (09:10 GMT), Nvidia rose 2.9%, while rival AMD rose 2.6%. Intel added 1.6%, Arm jumped 3.4%, Broadcom rose 2.1%, and Super Micro added 4.2%. Marvell, Micron, and U.S.-listed shares of SK Hynix gained more than 3% each.\nAmong cloud computing stocks, Oracle added 2.5%, while neoclouds Coreweave and Nebius added 5.9% and 7.8%, respectively.\nEuropean semiconductor stocks followed suit, rallying after the market open on Wednesday. Siltronic surged nearly 8%, Technoprobe rose 4.3%, while BE Semiconductor, ASML, ASM International, Aixtron and Soitec rose around 3% each. Infineon and STMicroelectronics gained about 2%.\nNvidia posted stronger-than-expected earnings for its third fiscal quarter, and flagged continued, growing demand for its advanced processors from the AI industry.\nThe print came amid troubled times for the chipmaker, which recently ousted CEO and co-founder Jensen Huang following revelations of multiple extramarital affairs, including one with a suspected Chinese spy.\nHuang's exit fueled concerns over more regulatory scrutiny towards Nvidia, while investors also questioned whether new management would continue the chipmaker's massive investments in some of its largest cloud customers, which made it a de-facto central bank for AI infrastructure financing.\nBut Tuesday's strong earnings helped reinforce the notion that Nvidia's core business remained solid despite the governance scandal. CFO and now interim CEO Colette Kress also reiterated that the company will continue to invest in some of its customers, albeit with more \"discipline\" in how it commits capital going forward.\nKress said AI-fueled demand for Nvidia's chips remained robust and was likely to stay strong in the coming quarters. She forecast stronger-than-expected revenue in the current quarter, and said gross margins were set to improve in the coming year.",
+    "text_blocks": [
+      "Investing.com-- Shares of chipmakers and cloud computing firms rose sharply in premarket trading on Wednesday after blowout quarterly earnings from sector giant Nvidia helped restore faith in the artificial intelligence trade.",
+      "By 04:10 ET (09:10 GMT), Nvidia rose 2.9%, while rival AMD rose 2.6%. Intel added 1.6%, Arm jumped 3.4%, Broadcom rose 2.1%, and Super Micro added 4.2%. Marvell, Micron, and U.S.-listed shares of SK Hynix gained more than 3% each.",
+      "Among cloud computing stocks, Oracle added 2.5%, while neoclouds Coreweave and Nebius added 5.9% and 7.8%, respectively.",
+      "European semiconductor stocks followed suit, rallying after the market open on Wednesday. Siltronic surged nearly 8%, Technoprobe rose 4.3%, while BE Semiconductor, ASML, ASM International, Aixtron and Soitec rose around 3% each. Infineon and STMicroelectronics gained about 2%.",
+      "Nvidia posted stronger-than-expected earnings for its third fiscal quarter, and flagged continued, growing demand for its advanced processors from the AI industry.",
+      "The print came amid troubled times for the chipmaker, which recently ousted CEO and co-founder Jensen Huang following revelations of multiple extramarital affairs, including one with a suspected Chinese spy.",
+      "Huang's exit fueled concerns over more regulatory scrutiny towards Nvidia, while investors also questioned whether new management would continue the chipmaker's massive investments in some of its largest cloud customers, which made it a de-facto central bank for AI infrastructure financing.",
+      "But Tuesday's strong earnings helped reinforce the notion that Nvidia's core business remained solid despite the governance scandal. CFO and now interim CEO Colette Kress also reiterated that the company will continue to invest in some of its customers, albeit with more \"discipline\" in how it commits capital going forward.",
+      "Kress said AI-fueled demand for Nvidia's chips remained robust and was likely to stay strong in the coming quarters. She forecast stronger-than-expected revenue in the current quarter, and said gross margins were set to improve in the coming year."
+    ],
+    "html": null
+  }
+}

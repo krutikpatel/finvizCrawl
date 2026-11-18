@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kalshi-expands-stock-trading-planned-164200280.html",
+    "fetched_at": "2026-11-18T07:00:16.845334-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Kalshi expands into stock trading with planned brokerage launch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Kalshi has bought a small US brokerage firm and plans to introduce stock and exchange-traded fund trading within the next two months, the Wall Street Journal reported, marking a major expansion for the prediction-market operator.\nThe company acquired New York-based FB Securities in July, according to people familiar with the matter cited by the newspaper, and intends to use the broker to provide the infrastructure for conventional securities trading.\nThe move would put Kalshi in more direct competition with platforms such as Robinhood, which combines stock trading with access to prediction markets.\nThe planned expansion comes as Kalshi seeks to broaden its business beyond contracts that allow users to trade on the outcomes of events, including elections, sporting contests and economic indicators.\nThe company has already introduced perpetual futures linked to cryptocurrencies, commodities and individual stocks, extending its offerings into financial markets.\nHowever, its expansion comes amid mounting regulatory pressure over its existing prediction-market business.\nSeveral states, including New York, Nevada, New Mexico, Washington and Connecticut, have accused Kalshi of operating illegally, arguing that some of its event contracts amount to gambling and should fall under state regulation.\nNine Democratic senators have urged the CFTC to stop opposing state-level restrictions, highlighting the growing political and regulatory dispute surrounding the industry.\nIn September this year, a US appeals court ruled that states can regulate prediction markets, rejecting Kalshi's argument that its event contracts should be exempt from state gambling laws.\nKalshi's entry into conventional stock trading would broaden its appeal to investors while putting it in competition with established brokerage platforms.\nThe company has not publicly confirmed the reported launch timetable yet.",
+    "text_blocks": [
+      "Kalshi has bought a small US brokerage firm and plans to introduce stock and exchange-traded fund trading within the next two months, the Wall Street Journal reported, marking a major expansion for the prediction-market operator.",
+      "The company acquired New York-based FB Securities in July, according to people familiar with the matter cited by the newspaper, and intends to use the broker to provide the infrastructure for conventional securities trading.",
+      "The move would put Kalshi in more direct competition with platforms such as Robinhood, which combines stock trading with access to prediction markets.",
+      "The planned expansion comes as Kalshi seeks to broaden its business beyond contracts that allow users to trade on the outcomes of events, including elections, sporting contests and economic indicators.",
+      "The company has already introduced perpetual futures linked to cryptocurrencies, commodities and individual stocks, extending its offerings into financial markets.",
+      "However, its expansion comes amid mounting regulatory pressure over its existing prediction-market business.",
+      "Several states, including New York, Nevada, New Mexico, Washington and Connecticut, have accused Kalshi of operating illegally, arguing that some of its event contracts amount to gambling and should fall under state regulation.",
+      "Nine Democratic senators have urged the CFTC to stop opposing state-level restrictions, highlighting the growing political and regulatory dispute surrounding the industry.",
+      "In September this year, a US appeals court ruled that states can regulate prediction markets, rejecting Kalshi's argument that its event contracts should be exempt from state gambling laws.",
+      "Kalshi's entry into conventional stock trading would broaden its appeal to investors while putting it in competition with established brokerage platforms.",
+      "The company has not publicly confirmed the reported launch timetable yet."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026/card/-money-quote-nvidia-s-kress-seeks-to-reassure-on-demand-Wi6YH5owDFSSzvBFnAIe?mod=wsj_FV",
+    "fetched_at": "2026-11-18T07:00:33.357268-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "💬Money Quote: Nvidia’s Kress Seeks to Reassure on Demand",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\nJust In\n💬Money Quote: Nvidia’s Kress Seeks to Reassure on Demand\n📣 “The most important thing that we have been seeing is just, again, a continued growth in the demand that’s out there.”\n—Nvidia’s interim CEO Colette Kress, speaking to CNBC after the company reported record-breaking revenue in her first interview since Jensen Huang's exit.",
+    "text_blocks": [
+      "LIVE",
+      "Just In",
+      "💬Money Quote: Nvidia’s Kress Seeks to Reassure on Demand",
+      "📣 “The most important thing that we have been seeing is just, again, a continued growth in the demand that’s out there.”",
+      "—Nvidia’s interim CEO Colette Kress, speaking to CNBC after the company reported record-breaking revenue in her first interview since Jensen Huang's exit."
+    ],
+    "html": null
+  }
+}

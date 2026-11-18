@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_FV",
+    "fetched_at": "2026-11-18T07:00:21.615183-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple users report service interruptions — the latest in a series of tech outages - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple users report service interruptions — the latest in a series of tech outages\nThere are also reports of Gmail outages, though a Google spokesperson said the platform is not experiencing a service disruption\nApple and Google customers were reporting service outages on Tuesday, according to the website Downdetector — the latest disruptions in a string of technology outages reported by consumers over the past week.\nApple Support, Apple Pay, iCloud, Google and Gmail were listed as the services facing the most reported outages round 2 p.m. Eastern time Tuesday, according to the platform, which crowdsources data on service disruptions. Affected users also posted on social media that they were having issues accessing the platforms.\nAbout the Author\nGenna Contino is the Smart Spending reporter on MarketWatch's personal-finance desk. She previously covered personal finance for CNBC and city hall for the Charlotte Observer in North Carolina. She graduated from the Craig Newmark Graduate School of Journalism at the City University of New York in 2024.",
+    "text_blocks": [
+      "Apple users report service interruptions — the latest in a series of tech outages",
+      "There are also reports of Gmail outages, though a Google spokesperson said the platform is not experiencing a service disruption",
+      "Apple and Google customers were reporting service outages on Tuesday, according to the website Downdetector — the latest disruptions in a string of technology outages reported by consumers over the past week.",
+      "Apple Support, Apple Pay, iCloud, Google and Gmail were listed as the services facing the most reported outages round 2 p.m. Eastern time Tuesday, according to the platform, which crowdsources data on service disruptions. Affected users also posted on social media that they were having issues accessing the platforms.",
+      "About the Author",
+      "Genna Contino is the Smart Spending reporter on MarketWatch's personal-finance desk. She previously covered personal finance for CNBC and city hall for the Charlotte Observer in North Carolina. She graduated from the Craig Newmark Graduate School of Journalism at the City University of New York in 2024."
+    ],
+    "html": null
+  }
+}

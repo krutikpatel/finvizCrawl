@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-huang-departure/card/nvidia-s-data-center-sales-breakdown-OT1XZsiunmyXnli3m4ZA?mod=bar_FV",
+    "fetched_at": "2026-11-18T07:00:08.744547-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Risks Loom Over Nvidia’s Fast-Growing Data Center Segment",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "15 hours ago\nStarting this fiscal year, Nvidia began splitting its data center sales into two groups: hyperscalers—the very large buyers like Amazon.com, Microsoft, Alphabet and Meta Platforms—and smaller customers.\nWhile hyperscaler revenue was 56% of the $108 billion in third-quarter data center sales, the smaller group saw its sales grow by 195% since last year to $47.5 billion.\nThis second group contains the Asian customers who are renting Nvidia's servers out to Chinese companies, getting around export controls, and Nvidia may have to lose these customers.",
+    "text_blocks": [
+      "15 hours ago",
+      "Starting this fiscal year, Nvidia began splitting its data center sales into two groups: hyperscalers—the very large buyers like Amazon.com, Microsoft, Alphabet and Meta Platforms—and smaller customers.",
+      "While hyperscaler revenue was 56% of the $108 billion in third-quarter data center sales, the smaller group saw its sales grow by 195% since last year to $47.5 billion.",
+      "This second group contains the Asian customers who are renting Nvidia's servers out to Chinese companies, getting around export controls, and Nvidia may have to lose these customers."
+    ],
+    "html": null
+  }
+}

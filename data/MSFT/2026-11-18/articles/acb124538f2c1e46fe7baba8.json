@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/microsoft-expands-mai-portfolio-seven-100915966.html",
+    "fetched_at": "2026-11-18T07:00:24.852069-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft expands MAI portfolio with seven new models",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft has released seven new AI models under its Microsoft AI (MAI) division, aimed at addressing coding, image editing, cybersecurity, transcription and decision-making tasks, the company announced at its Ignite event.\nThe models are designed to deliver high performance while lowering operational costs, according to figures provided by Microsoft.\nMAI Cyber 2 Flash, one of the new models, is described by Microsoft as delivering superior capability to GPT-6 Astra on the CyberGymE2E benchmark, at less than 2% of the cost per task.\nMAI Code 2, intended for enterprise coding tasks, reportedly delivers 98% of the coding performance of GPT-6.1 Sol at 40% of its price, and 96% relative to Opus 5.5 at only 5% of the price.\nMAI Code 2 Flash is described as matching the performance of GPT-6 Luna at 65% of the cost and Haiku 5.5 at 20%.\nFor image processing, MAI Image 2.7 is ranked by Microsoft as the top image editing model on the Artificial Analysis benchmark, providing what the company says is the leading performance in its category at one-fifth the price of GPT Image 2.6 Sunburst (max).\nIn speech applications, MAI Realtime 1 offers speech-to-speech conversion starting from $0.01 per audio minute and is said to outperform GPT-Realtime 2.1.\nDragon Copilot Transcribe uses MAI Transcribe 2 and is already present in ten million monthly patient encounters, with Microsoft reporting that it halves error rates in multilingual environments.\nThe company's Decision 1.1 model is claimed to be 50 times faster and 79 times less costly than GPT-6.1 Sol, with 4,000 customers using the system for application integration.\nMicrosoft's second-generation AI accelerator, Maia 200, has entered production and is being used to run the company's largest AI models, delivering 1.7 times more tokens per watt.\nThe technology giant also revealed advances in custom AI models. It stated that AT&T has developed an MAI-based custom model for 5G network analytics, delivering what Microsoft called significantly lower costs and leading performance compared to other alternatives.\nThe launch of MAI Licensed Weights allows organisations to customise MAI models with proprietary data for exclusive and secure use in Azure environments.\nThe company said that MAI Cyber models already account for almost 40% of scans in MDASH, and the new MAI Cyber 2 Flash is now priced 86% lower on output tokens than the previous version.\nIn addition to the new models, Microsoft announced the AI Transparency Initiative at Ignite.\nThe company is collaborating with more than 40 organisations, including Adobe, Accenture, Mastercard, KPMG, and Volvo Cars, to promote transparent security and governance practices for AI models and agents.",
+    "text_blocks": [
+      "Microsoft has released seven new AI models under its Microsoft AI (MAI) division, aimed at addressing coding, image editing, cybersecurity, transcription and decision-making tasks, the company announced at its Ignite event.",
+      "The models are designed to deliver high performance while lowering operational costs, according to figures provided by Microsoft.",
+      "MAI Cyber 2 Flash, one of the new models, is described by Microsoft as delivering superior capability to GPT-6 Astra on the CyberGymE2E benchmark, at less than 2% of the cost per task.",
+      "MAI Code 2, intended for enterprise coding tasks, reportedly delivers 98% of the coding performance of GPT-6.1 Sol at 40% of its price, and 96% relative to Opus 5.5 at only 5% of the price.",
+      "MAI Code 2 Flash is described as matching the performance of GPT-6 Luna at 65% of the cost and Haiku 5.5 at 20%.",
+      "For image processing, MAI Image 2.7 is ranked by Microsoft as the top image editing model on the Artificial Analysis benchmark, providing what the company says is the leading performance in its category at one-fifth the price of GPT Image 2.6 Sunburst (max).",
+      "In speech applications, MAI Realtime 1 offers speech-to-speech conversion starting from $0.01 per audio minute and is said to outperform GPT-Realtime 2.1.",
+      "Dragon Copilot Transcribe uses MAI Transcribe 2 and is already present in ten million monthly patient encounters, with Microsoft reporting that it halves error rates in multilingual environments.",
+      "The company's Decision 1.1 model is claimed to be 50 times faster and 79 times less costly than GPT-6.1 Sol, with 4,000 customers using the system for application integration.",
+      "Microsoft's second-generation AI accelerator, Maia 200, has entered production and is being used to run the company's largest AI models, delivering 1.7 times more tokens per watt.",
+      "The technology giant also revealed advances in custom AI models. It stated that AT&T has developed an MAI-based custom model for 5G network analytics, delivering what Microsoft called significantly lower costs and leading performance compared to other alternatives.",
+      "The launch of MAI Licensed Weights allows organisations to customise MAI models with proprietary data for exclusive and secure use in Azure environments.",
+      "The company said that MAI Cyber models already account for almost 40% of scans in MDASH, and the new MAI Cyber 2 Flash is now priced 86% lower on output tokens than the previous version.",
+      "In addition to the new models, Microsoft announced the AI Transparency Initiative at Ignite.",
+      "The company is collaborating with more than 40 organisations, including Adobe, Accenture, Mastercard, KPMG, and Volvo Cars, to promote transparent security and governance practices for AI models and agents."
+    ],
+    "html": null
+  }
+}

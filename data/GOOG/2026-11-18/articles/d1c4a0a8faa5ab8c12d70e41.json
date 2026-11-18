@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/isomorphic-labs-5-billion-series-c-ai-drug-design-111726",
+    "fetched_at": "2026-11-18T07:00:21.583431-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/isomorphic-labs-5-billion-series-c-ai-drug-design-111726",
+      "context": {
+        "url": "https://qz.com/isomorphic-labs-5-billion-series-c-ai-drug-design-111726"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

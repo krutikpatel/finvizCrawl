@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/waymo-pauses-robotaxi-rides-us-001915187.html",
+    "fetched_at": "2026-11-18T07:00:36.054253-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Waymo pauses robotaxi rides on US freeways after California ban",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Abhirup Roy\nSAN FRANCISCO, Nov 17 (Reuters) - Alphabet's (GOOG) Waymo has halted operations of its robotaxis on US freeways, it said on Tuesday, after a California regulator barred its vehicles from freeways in the state.\nThe suspension is a setback for Waymo, which has been pushing for rapid expansion in the US and other countries after years of slow and steady growth, and comes as competitors such as Tesla and Amazon's Zoox make inroads into the robotaxi industry.\nThe California ban, which took effect last week, is a result of a series of incidents where Waymo robotaxis entered active construction zones, the California Department of Motor Vehicles said in a statement on Tuesday.\n\"The Department determined that Waymo's driverless freeway operations pose an imminent hazard to public safety,\" it said.\nWaymo has temporarily restricted freeway operations across its other operating markets to evaluate performance, a Waymo spokesperson said in a statement, adding the service continues to operate on streets.\nThe pullback by Waymo follows a similar move earlier this year when it suspended freeway rides to evaluate and improve performance around certain construction zones.\nThe California restriction will remain in place until Waymo demonstrates it has taken \"effective corrective actions to address the deficiencies,\" the DMV said.\nWaymo said it was \"working with the California DMV and other state officials diligently and responsibly to resume freeway operations.\"\nWaymo currently operates in 15 US cities, but offered freeway rides in only a few of those, including San Francisco and Los Angeles.\n(Reporting by Abhirup Roy in San Francisco; Editing by Chris Reese)",
+    "text_blocks": [
+      "By Abhirup Roy",
+      "SAN FRANCISCO, Nov 17 (Reuters) - Alphabet's (GOOG) Waymo has halted operations of its robotaxis on US freeways, it said on Tuesday, after a California regulator barred its vehicles from freeways in the state.",
+      "The suspension is a setback for Waymo, which has been pushing for rapid expansion in the US and other countries after years of slow and steady growth, and comes as competitors such as Tesla and Amazon's Zoox make inroads into the robotaxi industry.",
+      "The California ban, which took effect last week, is a result of a series of incidents where Waymo robotaxis entered active construction zones, the California Department of Motor Vehicles said in a statement on Tuesday.",
+      "\"The Department determined that Waymo's driverless freeway operations pose an imminent hazard to public safety,\" it said.",
+      "Waymo has temporarily restricted freeway operations across its other operating markets to evaluate performance, a Waymo spokesperson said in a statement, adding the service continues to operate on streets.",
+      "The pullback by Waymo follows a similar move earlier this year when it suspended freeway rides to evaluate and improve performance around certain construction zones.",
+      "The California restriction will remain in place until Waymo demonstrates it has taken \"effective corrective actions to address the deficiencies,\" the DMV said.",
+      "Waymo said it was \"working with the California DMV and other state officials diligently and responsibly to resume freeway operations.\"",
+      "Waymo currently operates in 15 US cities, but offered freeway rides in only a few of those, including San Francisco and Los Angeles.",
+      "(Reporting by Abhirup Roy in San Francisco; Editing by Chris Reese)"
+    ],
+    "html": null
+  }
+}

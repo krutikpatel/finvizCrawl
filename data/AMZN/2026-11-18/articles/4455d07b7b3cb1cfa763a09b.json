@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_FV",
+    "fetched_at": "2026-11-18T07:00:35.774641-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Opinion: The AI power scramble is in full force. Which companies really stand to profit? - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Your Digital Self\nOpinion: The AI power scramble is in full force. Which companies really stand to profit?\nBig Tech is inking deals with traditional power companies, but investors need to look beyond the headlines\nArtificial intelligence needs chips, data centers and lots of electricity. So which companies stand to gain the most at the end of the day?\nLet’s start with Amazon.com’s AMZN agreement for electricity from Constellation Energy’s CEG Calvert Cliffs nuclear plant in Maryland, which helps show how tech companies can help make costly energy projects viable, and how investors in power companies can benefit from AI demand.",
+    "text_blocks": [
+      "Your Digital Self",
+      "Opinion: The AI power scramble is in full force. Which companies really stand to profit?",
+      "Big Tech is inking deals with traditional power companies, but investors need to look beyond the headlines",
+      "Artificial intelligence needs chips, data centers and lots of electricity. So which companies stand to gain the most at the end of the day?",
+      "Let’s start with Amazon.com’s AMZN agreement for electricity from Constellation Energy’s CEG Calvert Cliffs nuclear plant in Maryland, which helps show how tech companies can help make costly energy projects viable, and how investors in power companies can benefit from AI demand."
+    ],
+    "html": null
+  }
+}

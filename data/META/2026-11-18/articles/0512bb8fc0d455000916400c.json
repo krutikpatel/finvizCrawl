@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/nvidia-earnings-stock-nvidia-jensen-huang-results-call/card/nvidia-expects-cpu-revenue-to-more-than-double-next-year-3n1VCELzeKoRoMChc9Dy?mod=mw_FV",
+    "fetched_at": "2026-11-18T07:00:08.921532-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia expects CPU revenue to more than double next year - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "16 hours ago\nNvidia expects CPU revenue to more than double next year\nNvidia's push into central processing units is proving to be a wild success.\nOn the earnings call, interim CEO Colette Kress shared that agentic AI is driving \"extraordinary demand for CPUs, far outstripping supply,\" and projected that total CPU revenue will more than double in fiscal 2028, which ends in January of that year.\nThis quarter, the company saw new customers such as CoreWeave, Meta and OpenAI adopt Vera CPUs.",
+    "text_blocks": [
+      "16 hours ago",
+      "Nvidia expects CPU revenue to more than double next year",
+      "Nvidia's push into central processing units is proving to be a wild success.",
+      "On the earnings call, interim CEO Colette Kress shared that agentic AI is driving \"extraordinary demand for CPUs, far outstripping supply,\" and projected that total CPU revenue will more than double in fiscal 2028, which ends in January of that year.",
+      "This quarter, the company saw new customers such as CoreWeave, Meta and OpenAI adopt Vera CPUs."
+    ],
+    "html": null
+  }
+}

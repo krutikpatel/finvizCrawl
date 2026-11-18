@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/major-us-banks-hit-disruptions-115231263.html",
+    "fetched_at": "2026-11-18T07:00:24.881505-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Major US banks hit by disruptions as Chase resolves software bug",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Thousands of customers across major US lenders, including JP Morgan Chase, Bank of America, Wells Fargo and US Bank, experienced problems accessing services earlier this week.\nChase Bank said its issue has now been resolved. The bank attributed the disruption to a \"software bug\" within its hardware systems, confirming that it was not a cyber security incident.\nA spokesperson stated that \"this was not a systemic issue\", adding that other institutions were impacted \"only to the extent that they were a party to a transaction with us\".\nThe disruption follows a series of separate technical problems, including a major Microsoft outage and a network breakdown that halted all US flights.\nDowndetector recorded almost 5,000 incident reports regarding Chase services.\nCustomers experienced difficulties signing into online accounts, checking balances and processing wire and bank transfers, according to CBS News.\nChase told customers that \"some transactions are taking longer than usual to complete\", though it informed the BBC that clients retained \"access to their accounts and funds\".\nThe precise details of the bug were not disclosed.\nOther major financial institutions reported technical disruptions.\nBank of America users reported failures at ATMs and on mobile banking applications, CBS reported.\nWells Fargo clients had trouble logging in, checking balances and conducting transactions.\nUS Bank customers reported difficulties transferring funds and using online accounts and mobile apps.\nUS Bank noted that its systems were not directly impacted, but users on digital payment network Zelle were met with notifications stating payments could not be sent.\nZelle said its service was \"operating as it should\" and pointed to issues at individual banks as the likely cause of the payment failures.\nOutage reports across Chase, Bank of America and US Bank have since fallen.\n\"Major US banks hit by disruptions as Chase resolves software bug\" was originally created and published by Retail Banker International, a GlobalData owned brand.",
+    "text_blocks": [
+      "Thousands of customers across major US lenders, including JP Morgan Chase, Bank of America, Wells Fargo and US Bank, experienced problems accessing services earlier this week.",
+      "Chase Bank said its issue has now been resolved. The bank attributed the disruption to a \"software bug\" within its hardware systems, confirming that it was not a cyber security incident.",
+      "A spokesperson stated that \"this was not a systemic issue\", adding that other institutions were impacted \"only to the extent that they were a party to a transaction with us\".",
+      "The disruption follows a series of separate technical problems, including a major Microsoft outage and a network breakdown that halted all US flights.",
+      "Downdetector recorded almost 5,000 incident reports regarding Chase services.",
+      "Customers experienced difficulties signing into online accounts, checking balances and processing wire and bank transfers, according to CBS News.",
+      "Chase told customers that \"some transactions are taking longer than usual to complete\", though it informed the BBC that clients retained \"access to their accounts and funds\".",
+      "The precise details of the bug were not disclosed.",
+      "Other major financial institutions reported technical disruptions.",
+      "Bank of America users reported failures at ATMs and on mobile banking applications, CBS reported.",
+      "Wells Fargo clients had trouble logging in, checking balances and conducting transactions.",
+      "US Bank customers reported difficulties transferring funds and using online accounts and mobile apps.",
+      "US Bank noted that its systems were not directly impacted, but users on digital payment network Zelle were met with notifications stating payments could not be sent.",
+      "Zelle said its service was \"operating as it should\" and pointed to issues at individual banks as the likely cause of the payment failures.",
+      "Outage reports across Chase, Bank of America and US Bank have since fallen.",
+      "\"Major US banks hit by disruptions as Chase resolves software bug\" was originally created and published by Retail Banker International, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

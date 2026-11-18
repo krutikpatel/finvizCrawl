@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111726/card/broad-selloff-leaves-few-places-to-hide-rLSY2YsrPN7nAHkHbH52?mod=bar_FV",
+    "fetched_at": "2026-11-18T07:00:16.475285-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broad Selloff Leaves Few Places to Hide",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "7 hours ago\nThis isn't an AI selloff.\nAfter opening flat this morning, the S&P 500 is now down about 1.4%, with news of yet another outage stoking fears that broad cyberattacks are hitting America's technological infrastructure.\nIn contrast to yesterday's action, when AI-exposed stocks like semiconductors bore the brunt of the selling, today's declines are very broad-based. More than 80% of the stocks in the S&P 500 are down on the day, and all eleven sectors are lower. The biggest sector losers are tech and financials, which shows how the losses are rippling through growth stocks and value stalwarts alike.",
+    "text_blocks": [
+      "7 hours ago",
+      "This isn't an AI selloff.",
+      "After opening flat this morning, the S&P 500 is now down about 1.4%, with news of yet another outage stoking fears that broad cyberattacks are hitting America's technological infrastructure.",
+      "In contrast to yesterday's action, when AI-exposed stocks like semiconductors bore the brunt of the selling, today's declines are very broad-based. More than 80% of the stocks in the S&P 500 are down on the day, and all eleven sectors are lower. The biggest sector losers are tech and financials, which shows how the losses are rippling through growth stocks and value stalwarts alike."
+    ],
+    "html": null
+  }
+}

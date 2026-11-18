@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ARM",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_FV",
+    "fetched_at": "2026-11-18T07:00:43.475147-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nMicron, AMD and other AI stocks fall as the chip sector’s selloff intensifies\nInvestors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem\nCracks in the artificial-intelligence trade are growing deeper, helping extend the broad-based selloff in semiconductor stocks into a third consecutive session Monday.\nShares of Micron Technology MU, Advanced Micro Devices AMD, Intel INTC, Marvell Technology MRVL and Arm Holdings ARM all closed down at least 6% on Monday. Nvidia’s NVDA stock fell 4%, while the PHLX Semiconductor Index SOX ended the day down 5%.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+      "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem",
+      "Cracks in the artificial-intelligence trade are growing deeper, helping extend the broad-based selloff in semiconductor stocks into a third consecutive session Monday.",
+      "Shares of Micron Technology MU, Advanced Micro Devices AMD, Intel INTC, Marvell Technology MRVL and Arm Holdings ARM all closed down at least 6% on Monday. Nvidia’s NVDA stock fell 4%, while the PHLX Semiconductor Index SOX ended the day down 5%."
+    ],
+    "html": null
+  }
+}
