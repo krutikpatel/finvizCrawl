@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ENPH",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/m/2ec0e319-c427-37d7-bff2-7d3b40d4fb83/enphase-energy-climbs-after.html",
+    "fetched_at": "2026-11-19T07:00:14.711759-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Enphase Energy Climbs After Barclays Upgrade and New Product Rollout (ENPH)",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Enphase Energy Inc (NASDAQ:ENPH) shares surged 6.7% in premarket trading on Thursday after receiving an analyst upgrade from Barclays and announcing the start of production shipments for a new commercial microinverter designed for large-scale solar installations.\nThe combination of a more constructive outlook from Wall Street and progress in the company's product pipeline helped lift investor sentiment following a challenging period for the solar technology sector.\nBarclays Sees Opportunity Beyond Solar\nBarclays analyst Christine Cho upgraded Enphase to Equalweight from Underweight and raised her price target to $51 from $30.\nThe analyst pointed to the company's emerging solid-state transformer (SST) business as a potentially significant growth opportunity, estimating the U.S. addressable market could reach an annual run rate of approximately $2 billion by the latter part of the decade.\n\"ENPH's solid-state transformer (SST) initiative represents a credible entry point into the evolving data center power stack,\" Cho commented. \"As hyperscalers migrate toward 800V DC architectures to support higher rack densities, SSTs are expected to become a core component, replacing or displacing traditional transformers, UPS systems, and PDUs. Unlike legacy hardware, SSTs resemble inverters in functionality – leveraging active power conversion and control – which plays directly to ENPH's technical strengths.\"\nData Center Expansion Could Create New Growth Engine\nCho noted that the rapid growth of artificial intelligence infrastructure is driving demand for more advanced power-management systems inside data centers.\nAccording to the analyst, Enphase could be well positioned to benefit from the transition toward 800-volt direct current architectures, which are expected to become increasingly common as hyperscale operators seek greater efficiency and higher rack densities.\nShe added that Enphase and SolarEdge could secure an early advantage if they maintain their technological lead as next-generation data centers begin scaling between 2028 and 2029.\nCompany Launches New Commercial Microinverter\nSeparately, Enphase announced that production shipments have begun for its IQ9S-3P Commercial Microinverter in the United States.\nThe new product utilizes gallium nitride (GaN) technology and is designed to support solar modules with power ratings of up to 770 watts.\nThe system connects directly to three-phase 480Y/277V grid infrastructure, eliminating the need for external transformers and simplifying installation for commercial customers.",
+    "text_blocks": [
+      "Enphase Energy Inc (NASDAQ:ENPH) shares surged 6.7% in premarket trading on Thursday after receiving an analyst upgrade from Barclays and announcing the start of production shipments for a new commercial microinverter designed for large-scale solar installations.",
+      "The combination of a more constructive outlook from Wall Street and progress in the company's product pipeline helped lift investor sentiment following a challenging period for the solar technology sector.",
+      "Barclays Sees Opportunity Beyond Solar",
+      "Barclays analyst Christine Cho upgraded Enphase to Equalweight from Underweight and raised her price target to $51 from $30.",
+      "The analyst pointed to the company's emerging solid-state transformer (SST) business as a potentially significant growth opportunity, estimating the U.S. addressable market could reach an annual run rate of approximately $2 billion by the latter part of the decade.",
+      "\"ENPH's solid-state transformer (SST) initiative represents a credible entry point into the evolving data center power stack,\" Cho commented. \"As hyperscalers migrate toward 800V DC architectures to support higher rack densities, SSTs are expected to become a core component, replacing or displacing traditional transformers, UPS systems, and PDUs. Unlike legacy hardware, SSTs resemble inverters in functionality – leveraging active power conversion and control – which plays directly to ENPH's technical strengths.\"",
+      "Data Center Expansion Could Create New Growth Engine",
+      "Cho noted that the rapid growth of artificial intelligence infrastructure is driving demand for more advanced power-management systems inside data centers.",
+      "According to the analyst, Enphase could be well positioned to benefit from the transition toward 800-volt direct current architectures, which are expected to become increasingly common as hyperscale operators seek greater efficiency and higher rack densities.",
+      "She added that Enphase and SolarEdge could secure an early advantage if they maintain their technological lead as next-generation data centers begin scaling between 2028 and 2029.",
+      "Company Launches New Commercial Microinverter",
+      "Separately, Enphase announced that production shipments have begun for its IQ9S-3P Commercial Microinverter in the United States.",
+      "The new product utilizes gallium nitride (GaN) technology and is designed to support solar modules with power ratings of up to 770 watts.",
+      "The system connects directly to three-phase 480Y/277V grid infrastructure, eliminating the need for external transformers and simplifying installation for commercial customers."
+    ],
+    "html": null
+  }
+}

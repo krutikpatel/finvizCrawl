@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/anthropic-ipo-highlights-something-weird-about-the-ai-industry-uHR0Inup5LnTaEpejyXn?mod=bar_FV",
+    "fetched_at": "2026-11-19T07:00:25.993110-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The IPO Highlights Something Weird About the AI Industry",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "2 hours ago\nAlphabet owns an estimated 1.8 billion shares of Anthropic after the latter's successful initial public stock offering.\nThe IPO, while good news for the industry by helping calm fears over financing the AI buildout, also highlights some of the strange relationships in Silicon Valley.\nAlphabet is an Anthropic supplier, investor, customer, and competitor, wrote Zion Research founder and accounting expert David Zion in a recent report.",
+    "text_blocks": [
+      "2 hours ago",
+      "Alphabet owns an estimated 1.8 billion shares of Anthropic after the latter's successful initial public stock offering.",
+      "The IPO, while good news for the industry by helping calm fears over financing the AI buildout, also highlights some of the strange relationships in Silicon Valley.",
+      "Alphabet is an Anthropic supplier, investor, customer, and competitor, wrote Zion Research founder and accounting expert David Zion in a recent report."
+    ],
+    "html": null
+  }
+}

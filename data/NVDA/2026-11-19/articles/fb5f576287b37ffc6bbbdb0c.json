@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-500-billion-financing-plan-144134035.html",
+    "fetched_at": "2026-11-19T07:00:34.382317-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia’s $500 Billion Financing Plan Has Yet to Put a Dollar to Work, WSJ Reports",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nSix Wall Street firms signed on to a $500 billion plan in August to help customers buy chips from Nvidia Corp. (NASDAQ:NVDA). Three months later, the plan has yet to put any money to work, The Wall Street Journal reported.\nSome lenders want a bigger guarantee from Nvidia in case a customer defaults and the chips sell for less than expected, the Journal reported.\nJensen Huang, who pushed for the plan, resigned last week. His interim replacement, Colette Kress, had already questioned some of those guarantees as CFO.\nHuang had envisioned a $1 trillion partnership. At the August launch, Goldman Sachs CEO David Solomon said the industry was in a \"pivotal moment of a historic AI investment cycle.\" The six firms had no obligation to raise the money, the Journal reported.\nTwo of those firms had already done a deal involving Nvidia's rival. In June, Apollo (NYSE:APO) and Blackstone helped arrange $35 billion for Anthropic to deploy chips from Broadcom Inc. (NASDAQ:AVGO). The deal frustrated Huang and pushed him to speed up his own effort, the Journal reported.\nWho Takes the Loss?\nIn August, Huang said Nvidia might protect lenders against weak resale prices on up to 25% of a deal. Broadcom had agreed to a much bigger guarantee, covering about 85% of the Anthropic financing, the Journal reported.\nOn Tuesday's Nvidia earnings call, Kress said the company would be selective about the deals it backs. Apollo CEO Marc Rowan told CNBC that if Nvidia stopped acting as guarantor, \"access to capital for a large number of neoclouds is going to disappear.\" Those companies buy chips and rent out the computing power.\nWhat Happens if Chip Rents Fall?\nIf those companies earn less from renting out chips, the chips could also fetch less on resale. That could leave Nvidia with a bigger bill if a customer defaults on a deal it guaranteed.\nA sharp drop in Nvidia H100 rents is one of six triggers in Polymarket's AI-bubble market. Silicon Data's H100 rental index was at $3.01 per GPU-hour on Nov. 18. It would have to fall by about two-thirds, to $1 or less, and stay there for five straight days to count.\nThe contract requires three of the six triggers within 90 days. Traders put the odds at 8% by year-end and 19% by June 30, 2027, with $3.93 million traded across deadlines.\nPeople familiar with the talks told the Journal they expect the first deal in 2027 at the earliest. Its terms will show how much of the risk lenders can persuade Nvidia to take.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Six Wall Street firms signed on to a $500 billion plan in August to help customers buy chips from Nvidia Corp. (NASDAQ:NVDA). Three months later, the plan has yet to put any money to work, The Wall Street Journal reported.",
+      "Some lenders want a bigger guarantee from Nvidia in case a customer defaults and the chips sell for less than expected, the Journal reported.",
+      "Jensen Huang, who pushed for the plan, resigned last week. His interim replacement, Colette Kress, had already questioned some of those guarantees as CFO.",
+      "Huang had envisioned a $1 trillion partnership. At the August launch, Goldman Sachs CEO David Solomon said the industry was in a \"pivotal moment of a historic AI investment cycle.\" The six firms had no obligation to raise the money, the Journal reported.",
+      "Two of those firms had already done a deal involving Nvidia's rival. In June, Apollo (NYSE:APO) and Blackstone helped arrange $35 billion for Anthropic to deploy chips from Broadcom Inc. (NASDAQ:AVGO). The deal frustrated Huang and pushed him to speed up his own effort, the Journal reported.",
+      "Who Takes the Loss?",
+      "In August, Huang said Nvidia might protect lenders against weak resale prices on up to 25% of a deal. Broadcom had agreed to a much bigger guarantee, covering about 85% of the Anthropic financing, the Journal reported.",
+      "On Tuesday's Nvidia earnings call, Kress said the company would be selective about the deals it backs. Apollo CEO Marc Rowan told CNBC that if Nvidia stopped acting as guarantor, \"access to capital for a large number of neoclouds is going to disappear.\" Those companies buy chips and rent out the computing power.",
+      "What Happens if Chip Rents Fall?",
+      "If those companies earn less from renting out chips, the chips could also fetch less on resale. That could leave Nvidia with a bigger bill if a customer defaults on a deal it guaranteed.",
+      "A sharp drop in Nvidia H100 rents is one of six triggers in Polymarket's AI-bubble market. Silicon Data's H100 rental index was at $3.01 per GPU-hour on Nov. 18. It would have to fall by about two-thirds, to $1 or less, and stay there for five straight days to count.",
+      "The contract requires three of the six triggers within 90 days. Traders put the odds at 8% by year-end and 19% by June 30, 2027, with $3.93 million traded across deadlines.",
+      "People familiar with the talks told the Journal they expect the first deal in 2027 at the earliest. Its terms will show how much of the risk lenders can persuade Nvidia to take."
+    ],
+    "html": null
+  }
+}

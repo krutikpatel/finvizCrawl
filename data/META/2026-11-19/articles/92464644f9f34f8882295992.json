@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/anthropic-will-be-the-u-s-market-s-first-pure-play-ai-lab-wk53Xln8UTl0f0YNxnpn?mod=bar_FV",
+    "fetched_at": "2026-11-19T07:00:09.081006-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic Will Be the U.S. Market's First Pure-Play AI Lab",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "15 hours ago\nMeta Platforms, Alphabet, SpaceX, and plenty of other public companies are developing artificial-intelligence models, but Anthropic will become the first where AI development is its entire business.\nThe company continually expands and evolves its Claude AI models, distributes them via its own interface or third-party clouds, and builds applications atop them. Rinse and repeat.\n\"For the first time a U.S. frontier lab carries a stand-alone public market price,\" tech analyst Dan Ives, a steadfast AI bull, wrote in a research note Wednesday. The valuation, he added is \"uncluttered by an ad business or a rocket business.\"",
+    "text_blocks": [
+      "15 hours ago",
+      "Meta Platforms, Alphabet, SpaceX, and plenty of other public companies are developing artificial-intelligence models, but Anthropic will become the first where AI development is its entire business.",
+      "The company continually expands and evolves its Claude AI models, distributes them via its own interface or third-party clouds, and builds applications atop them. Rinse and repeat.",
+      "\"For the first time a U.S. frontier lab carries a stand-alone public market price,\" tech analyst Dan Ives, a steadfast AI bull, wrote in a research note Wednesday. The valuation, he added is \"uncluttered by an ad business or a rocket business.\""
+    ],
+    "html": null
+  }
+}

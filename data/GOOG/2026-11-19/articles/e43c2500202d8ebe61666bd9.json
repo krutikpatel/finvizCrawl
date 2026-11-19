@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/anthropic-ipo-stock-trading-today-price-valuation-ant/card/anthropic-is-committed-to-spending-more-than-900-billion-on-computing-power-vhMzK7jkWt2Ehdr4J81F?mod=mw_FV",
+    "fetched_at": "2026-11-19T07:00:23.661942-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic is committed to spending more than $900 billion on computing power - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "1 hour ago\nAnthropic is committed to spending more than $900 billion on computing power\nIf there's one thing the AI industry can't get enough of, it's computing power. Demand for chips to train and run AI models far exceeds supply, and that's pushed companies to seek as much hardware as they can get.\nFor Anthropic, that hunger has led to $900.9 billion in aggregate committed spend, according to the company's IPO filing. That counts purchase commitments and lease agreements, including ones that haven't started.\nThe Claude maker said it uses chips from Amazon Web Services, Google, Nvidia and Advanced Micro Devices.",
+    "text_blocks": [
+      "1 hour ago",
+      "Anthropic is committed to spending more than $900 billion on computing power",
+      "If there's one thing the AI industry can't get enough of, it's computing power. Demand for chips to train and run AI models far exceeds supply, and that's pushed companies to seek as much hardware as they can get.",
+      "For Anthropic, that hunger has led to $900.9 billion in aggregate committed spend, according to the company's IPO filing. That counts purchase commitments and lease agreements, including ones that haven't started.",
+      "The Claude maker said it uses chips from Amazon Web Services, Google, Nvidia and Advanced Micro Devices."
+    ],
+    "html": null
+  }
+}

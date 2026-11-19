@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_FV",
+    "fetched_at": "2026-11-19T07:00:19.497106-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nOracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says\nEven if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein\nOracle’s stock has taken a beating this year as investors worry about the company’s role in the artificial-intelligence boom, but a Bernstein analyst thinks the stock looks cheap even if you were to assume the most difficult circumstances lie ahead.\nOracle shares ORCL are currently trading below what their value would be even if the company’s data-center business “would cease to exist” and if the company were unable to monetize its hardware while still being saddled with a boatload of AI-related debt, analyst Mark Moerdler argues.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
+      "Even if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein",
+      "Oracle’s stock has taken a beating this year as investors worry about the company’s role in the artificial-intelligence boom, but a Bernstein analyst thinks the stock looks cheap even if you were to assume the most difficult circumstances lie ahead.",
+      "Oracle shares ORCL are currently trading below what their value would be even if the company’s data-center business “would cease to exist” and if the company were unable to monetize its hardware while still being saddled with a boatload of AI-related debt, analyst Mark Moerdler argues."
+    ],
+    "html": null
+  }
+}

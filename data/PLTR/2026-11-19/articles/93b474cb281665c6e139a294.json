@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PLTR",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-highlights-open-models-amid-211947814.html",
+    "fetched_at": "2026-11-19T07:00:31.793211-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia highlights open models amid leadership shakeup",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.\nDive Brief:\n-\nAmid questions of leadership and deal stability during Nvidia's earnings call Tuesday, interim CEO Colette Kress carved out time to speak to shareholders about the company's commitment to its place in the open model ecosystem.\n-\nToken prices have declined since May, accelerating token usage and demand for compute, Kress said, and Nvidia projects revenue to grow about 75% year over year, up from 70% in earlier projections. Kress told investors that software and security companies including Microsoft, Salesforce, Palantir, CrowdStrike, Cadence and Synopsys announced products that use posttrained, or specialized, open models tailored to domain-specific use cases in the last few weeks, driving AI infrastructure demand.\n-\n\"A rapidly expanding ecosystem of inference providers is bringing these models to companies everywhere,\" Kress said during the call. \"At Nvidia, we are committed to fostering a vibrant open model ecosystem so every country, company and industry can build its own intelligence.\"\nDive Insight:\nThe use of open models — or publicly accessible models that developers can inspect, customize and deploy — is accelerating, as AI adoption and weekly token volume has surged since the beginning of the year. Agentic workloads now account for about three-quarters of all tokens in October, an OpenRouter report found.\nThese models, and the infrastructure to support their buildouts, will play an important role in the company's future, Kress said, as Nvidia navigates uncertainty following CEO Jensen Huang's exit last week. Although shareholders questioned the company's leadership stability, employee retention and deals, Kress said it has a market-leading multiyear roadmap with supply agreements extending through the end of the decade.\n\"We're addressing strong demand for compute across a diverse and expansive set of end customers, including hyperscalers, frontier labs, AI natives, enterprises and governments,\" Kress said.\nThe company's infrastructure investments will increase in Q3 to $390 billion, Kress said, a reflection of the company's confidence in its longevity. The spending will go toward securing data center and cloud capacity required to support its R&D efforts across hardware and software and \"increasingly in open models,\" Kress said.\nNvidia has played a key role in the open source community, which includes a family of Nemotron models it first released in 2023. In 2025, Huang touted the potential of open-source AI models during the company's Q2 2026 earnings call. Open source models offer enterprises the ability to build their own custom proprietary software stacks, Huang said at the time.",
+    "text_blocks": [
+      "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.",
+      "Dive Brief:",
+      "-",
+      "Amid questions of leadership and deal stability during Nvidia's earnings call Tuesday, interim CEO Colette Kress carved out time to speak to shareholders about the company's commitment to its place in the open model ecosystem.",
+      "-",
+      "Token prices have declined since May, accelerating token usage and demand for compute, Kress said, and Nvidia projects revenue to grow about 75% year over year, up from 70% in earlier projections. Kress told investors that software and security companies including Microsoft, Salesforce, Palantir, CrowdStrike, Cadence and Synopsys announced products that use posttrained, or specialized, open models tailored to domain-specific use cases in the last few weeks, driving AI infrastructure demand.",
+      "-",
+      "\"A rapidly expanding ecosystem of inference providers is bringing these models to companies everywhere,\" Kress said during the call. \"At Nvidia, we are committed to fostering a vibrant open model ecosystem so every country, company and industry can build its own intelligence.\"",
+      "Dive Insight:",
+      "The use of open models — or publicly accessible models that developers can inspect, customize and deploy — is accelerating, as AI adoption and weekly token volume has surged since the beginning of the year. Agentic workloads now account for about three-quarters of all tokens in October, an OpenRouter report found.",
+      "These models, and the infrastructure to support their buildouts, will play an important role in the company's future, Kress said, as Nvidia navigates uncertainty following CEO Jensen Huang's exit last week. Although shareholders questioned the company's leadership stability, employee retention and deals, Kress said it has a market-leading multiyear roadmap with supply agreements extending through the end of the decade.",
+      "\"We're addressing strong demand for compute across a diverse and expansive set of end customers, including hyperscalers, frontier labs, AI natives, enterprises and governments,\" Kress said.",
+      "The company's infrastructure investments will increase in Q3 to $390 billion, Kress said, a reflection of the company's confidence in its longevity. The spending will go toward securing data center and cloud capacity required to support its R&D efforts across hardware and software and \"increasingly in open models,\" Kress said.",
+      "Nvidia has played a key role in the open source community, which includes a family of Nemotron models it first released in 2023. In 2025, Huang touted the potential of open-source AI models during the company's Q2 2026 earnings call. Open source models offer enterprises the ability to build their own custom proprietary software stacks, Huang said at the time."
+    ],
+    "html": null
+  }
+}

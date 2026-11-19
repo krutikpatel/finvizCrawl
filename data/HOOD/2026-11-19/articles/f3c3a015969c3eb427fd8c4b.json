@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-schwab-shares-slip-kalshi-201532470.html",
+    "fetched_at": "2026-11-19T07:00:17.034352-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood, Schwab shares slip as Kalshi prepares to enter stock trading",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Shares of Robinhood Markets (NASDAQ: HOOD) and Charles Schwab (NYSE: SCHW) edged lower on Monday after The Wall Street Journal reported that Kalshi plans to expand into traditional stock trading, potentially increasing competition for established brokerage platforms.\nKalshi acquired New York-based broker-dealer FB Securities in July and plans to launch trading in stocks, exchange-traded funds and similar products within the next two months, according to people familiar with the matter cited by the Journal.\nRobinhood shares were already under pressure on Monday amid broader weakness in cryptocurrency markets but moved lower following the report, as investors weighed the potential implications of Kalshi's expansion. Schwab shares also edged lower.\nThe move marks a significant step in Kalshi's ambition to build a multiasset financial exchange, extending beyond its core prediction-market business.\nThe company has already expanded into perpetual futures tied to cryptocurrencies, precious metals and commodities, and earlier this month introduced contracts linked to more than 50 individual stocks, including Meta Platforms, McDonald's and SpaceX.\nKalshi is also planning to introduce compute futures, which would allow investors and companies to trade and hedge the cost of renting AI computing capacity.\nThe expansion comes as Kalshi faces regulatory challenges over its event contracts, while the company is reportedly seeking funding at a $65 billion valuation.\nOriginal Article\nRobinhood, Schwab shares slip as Kalshi prepares to enter stock trading\nMicrosoft says latent July bug triggered global Microsoft 365 outage",
+    "text_blocks": [
+      "Investing.com -- Shares of Robinhood Markets (NASDAQ: HOOD) and Charles Schwab (NYSE: SCHW) edged lower on Monday after The Wall Street Journal reported that Kalshi plans to expand into traditional stock trading, potentially increasing competition for established brokerage platforms.",
+      "Kalshi acquired New York-based broker-dealer FB Securities in July and plans to launch trading in stocks, exchange-traded funds and similar products within the next two months, according to people familiar with the matter cited by the Journal.",
+      "Robinhood shares were already under pressure on Monday amid broader weakness in cryptocurrency markets but moved lower following the report, as investors weighed the potential implications of Kalshi's expansion. Schwab shares also edged lower.",
+      "The move marks a significant step in Kalshi's ambition to build a multiasset financial exchange, extending beyond its core prediction-market business.",
+      "The company has already expanded into perpetual futures tied to cryptocurrencies, precious metals and commodities, and earlier this month introduced contracts linked to more than 50 individual stocks, including Meta Platforms, McDonald's and SpaceX.",
+      "Kalshi is also planning to introduce compute futures, which would allow investors and companies to trade and hedge the cost of renting AI computing capacity.",
+      "The expansion comes as Kalshi faces regulatory challenges over its event contracts, while the company is reportedly seeking funding at a $65 billion valuation.",
+      "Original Article",
+      "Robinhood, Schwab shares slip as Kalshi prepares to enter stock trading",
+      "Microsoft says latent July bug triggered global Microsoft 365 outage"
+    ],
+    "html": null
+  }
+}

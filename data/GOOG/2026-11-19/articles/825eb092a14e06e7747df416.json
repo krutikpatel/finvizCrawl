@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_FV",
+    "fetched_at": "2026-11-19T07:00:23.410339-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nGoogle turns to a volcano and rock-melting technology in a wild new bid to power AI\nGoogle’s agreement with Quaise is ‘a bet on a first-of-a-kind technology,’ according to a Bernstein analyst\nGoogle just gave a multimillion-dollar vote of confidence on an data-center power technology involving a volcano in Oregon, a gyrotron and melting rock.\nIt may sound far-fetched, but Alphabet’s GOOG GOOGL Google is hoping to reap the benefits of that power purchase agreement as soon as 2030. This underscores how Big Tech companies are searching high and low for electricity to supply their data centers, preferably through clean energy, off-grid, or both, and as the industry seeks to ward off the criticism that data centers are power hogs contributing to higher electricity bills.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+      "Google’s agreement with Quaise is ‘a bet on a first-of-a-kind technology,’ according to a Bernstein analyst",
+      "Google just gave a multimillion-dollar vote of confidence on an data-center power technology involving a volcano in Oregon, a gyrotron and melting rock.",
+      "It may sound far-fetched, but Alphabet’s GOOG GOOGL Google is hoping to reap the benefits of that power purchase agreement as soon as 2030. This underscores how Big Tech companies are searching high and low for electricity to supply their data centers, preferably through clean energy, off-grid, or both, and as the industry seeks to ward off the criticism that data centers are power hogs contributing to higher electricity bills."
+    ],
+    "html": null
+  }
+}

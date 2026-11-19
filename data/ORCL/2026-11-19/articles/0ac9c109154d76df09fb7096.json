@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-nvidia-q3-results-anthropic-expected-price-ipo/card/ai-debt-financing-to-hit-1-trillion-in-2027-goldman-sachs-says-qPxJhqvN0agHUEVun5Vq?mod=mw_FV",
+    "fetched_at": "2026-11-19T07:00:19.441263-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "AI debt financing to hit $1 trillion in 2027, Goldman Sachs says - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "13 hours ago\nAI debt financing to hit $1 trillion in 2027, Goldman Sachs says\nWhat AI slowdown?\nGoldman Sachs said on Wednesday that next year will see nearly $1 trillion in new debt to help finance the artificial-intelligence buildout.\nHere's the breakdown: About $440 billion globally from the market's five big hyperscalers and another $545 billion in project financing.",
+    "text_blocks": [
+      "13 hours ago",
+      "AI debt financing to hit $1 trillion in 2027, Goldman Sachs says",
+      "What AI slowdown?",
+      "Goldman Sachs said on Wednesday that next year will see nearly $1 trillion in new debt to help finance the artificial-intelligence buildout.",
+      "Here's the breakdown: About $440 billion globally from the market's five big hyperscalers and another $545 billion in project financing."
+    ],
+    "html": null
+  }
+}

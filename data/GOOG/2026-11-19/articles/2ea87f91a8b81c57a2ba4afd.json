@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/livecoverage/anthropic-ipo-stock-price-trading-ai-claude/card/why-anthropic-s-ipo-is-likely-a-victory-lap-for-amazon-nZddBDh0ZO4hl4yppNGB?mod=mw_FV",
+    "fetched_at": "2026-11-19T07:00:23.422118-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Why Anthropic’s IPO is likely a victory lap for Amazon - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "13 hours ago\nWhy Anthropic’s IPO is likely a victory lap for Amazon\nAmazon will be one of Anthropic's biggest shareholders following its initial public offering, with Alphabet not far behind.\nAnthropic said in a filing this week that Amazon will own 33.9% of its outstanding Class N common stock and 14.7% of capital shares. If Amazon converted its notes in full, it would own 48.2% of Anthropic Class N shares and 23.8% of its capital stock.\nGoogle will also own 31.6% of Anthropic's Class N shares and 13.7% of its outstanding capital stock, Anthropic disclosed.",
+    "text_blocks": [
+      "13 hours ago",
+      "Why Anthropic’s IPO is likely a victory lap for Amazon",
+      "Amazon will be one of Anthropic's biggest shareholders following its initial public offering, with Alphabet not far behind.",
+      "Anthropic said in a filing this week that Amazon will own 33.9% of its outstanding Class N common stock and 14.7% of capital shares. If Amazon converted its notes in full, it would own 48.2% of Anthropic Class N shares and 23.8% of its capital stock.",
+      "Google will also own 31.6% of Anthropic's Class N shares and 13.7% of its outstanding capital stock, Anthropic disclosed."
+    ],
+    "html": null
+  }
+}
