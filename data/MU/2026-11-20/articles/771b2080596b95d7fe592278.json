@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/sandisk-shares-begin-trading-at-8-for-1-split-stock-sinks-as-chip-sector-sells-off-142041917.html",
+    "fetched_at": "2026-11-20T07:00:27.051996-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sandisk stock begins trading at 8-for-1 split, shares sink",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Shares of memory and storage maker Sandisk (SNDK) fell in premarket trading Friday following an 8-for-1 stock split.\nThe stock split took effect after the market closed on Thursday. Shares closed just north of $755 in the prior session and were set to open at their new adjusted price on Friday, hovering near $88 each as they slid amid an overall semiconductor sell-off.\nLast month, Sandisk announced that shareholders would receive seven additional shares for each one held as of Nov. 9. The split does not change the total value of an investor's holdings, but reduces the per-share price to one-eighth of its pre-split level.\nSandisk stock declined 7% in premarket trading as the rest of the AI infrastructure trade was under pressure. Peers Seagate (STX) and Western Digital (WDC) were set to open lower.\nShares of memory chipmaker Micron Technology (MU) and SK Hynix (SKHY) were down 2% and 4%, respectively.",
+    "text_blocks": [
+      "Shares of memory and storage maker Sandisk (SNDK) fell in premarket trading Friday following an 8-for-1 stock split.",
+      "The stock split took effect after the market closed on Thursday. Shares closed just north of $755 in the prior session and were set to open at their new adjusted price on Friday, hovering near $88 each as they slid amid an overall semiconductor sell-off.",
+      "Last month, Sandisk announced that shareholders would receive seven additional shares for each one held as of Nov. 9. The split does not change the total value of an investor's holdings, but reduces the per-share price to one-eighth of its pre-split level.",
+      "Sandisk stock declined 7% in premarket trading as the rest of the AI infrastructure trade was under pressure. Peers Seagate (STX) and Western Digital (WDC) were set to open lower.",
+      "Shares of memory chipmaker Micron Technology (MU) and SK Hynix (SKHY) were down 2% and 4%, respectively."
+    ],
+    "html": null
+  }
+}

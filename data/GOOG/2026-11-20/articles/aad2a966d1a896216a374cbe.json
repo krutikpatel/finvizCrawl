@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.newsfilecorp.com/release/324345/Kaplan-Fox-Encourages-Alphabet-Inc.-GOOGL-GOOG-Investors-Seeking-Recovery-to-Contact-the-Firm-Before-December-1-2026",
+    "fetched_at": "2026-11-20T07:00:37.126586-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.newsfilecorp.com",
+    "language": null
+  },
+  "content": {
+    "text": "JavaScript is disabled\nIn order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
+    "text_blocks": [
+      "JavaScript is disabled",
+      "In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page."
+    ],
+    "html": null
+  }
+}

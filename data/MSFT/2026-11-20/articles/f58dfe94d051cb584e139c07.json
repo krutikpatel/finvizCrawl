@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-explains-004256847.html",
+    "fetched_at": "2026-11-20T07:00:40.867363-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Microsoft CEO Satya Nadella explained Wednesday why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit instead of reducing the workforce via another massive layoff.\nShort answer: AI, but not, he insists, in the way you might expect. He's not saying he's replacing employees with AI, especially software engineers. He's saying he's reorganizing Microsoft into a company where everyone uses AI to do their work, and their jobs become focused on managing that AI.\nThe buyout was \"to make sure that at least everyone felt like they had agency in making choices,\" he told Andrew Ross Sorkin during the DealBook Summit.\n\"Let's take software engineering. We went from, 'Well, we don't buy that AI can ever do software.' To suddenly, 'Wow, it can do all software, and why do we need software engineers?' To now rediscovering that software engineering is very much alive and, in fact, is going to thrive, except the way the team is organized and the work that a software engineer does has now got a new operating point,\" he explained.\nFor some people, \"that reorganization and change is sort of hard, right?\" he added, \"but, I mean, it has to be done.\"\nHe offered the example of the team that builds Cowork, the AI agent in Microsoft 365 apps. He said the team consists of just 11 developers who have mastered using AI to do their jobs. \"They build a software factory that builds the product. They don't build the product.\"\nHe believes that every employee will one day similarly become a manager of agents, rather than a person directly doing the work. \"That level of direction is what, by the way, is going to happen in all jobs.\"\nBut Microsoft, as a 51-year-old company, didn't grow up as an AI-first company. \"So the question is, how quickly can an incumbent transform the work, the workflow, and the work artifact, and with all the wage support that goes with it?\" he said. \"It's going to take a bit more time than anyone expects. And there is going to be in all of this, you know, people who may say, 'Hey, I have some other choices I want to make.'\"\nWhen asked about this same topic — why ask 60,000 people to voluntarily resign — last week by Gergely Orosz on his The Pragmatic Engineer podcast, Nadella further explained, \"We have created enormous anxiety in people sort of feeling that they don't have control of their own destiny because the way we have talked about this AI revolution.\"\nHe called out talk about the singularity (the hypothetical point at which AI surpasses human intelligence) and predictions that AI will take away all jobs. \"All of that leads anyone who even wants to change to be sort of anxious … You have to sort of walk the hard walk of really making the structural changes, getting people slotted, giving them opportunity.\"\nIn other words, the buyout was the message to employees: You can get with the new AI-first program, which will radically change your job, or you choose to get on with your life. Elsewhere.",
+    "text_blocks": [
+      "Microsoft CEO Satya Nadella explained Wednesday why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit instead of reducing the workforce via another massive layoff.",
+      "Short answer: AI, but not, he insists, in the way you might expect. He's not saying he's replacing employees with AI, especially software engineers. He's saying he's reorganizing Microsoft into a company where everyone uses AI to do their work, and their jobs become focused on managing that AI.",
+      "The buyout was \"to make sure that at least everyone felt like they had agency in making choices,\" he told Andrew Ross Sorkin during the DealBook Summit.",
+      "\"Let's take software engineering. We went from, 'Well, we don't buy that AI can ever do software.' To suddenly, 'Wow, it can do all software, and why do we need software engineers?' To now rediscovering that software engineering is very much alive and, in fact, is going to thrive, except the way the team is organized and the work that a software engineer does has now got a new operating point,\" he explained.",
+      "For some people, \"that reorganization and change is sort of hard, right?\" he added, \"but, I mean, it has to be done.\"",
+      "He offered the example of the team that builds Cowork, the AI agent in Microsoft 365 apps. He said the team consists of just 11 developers who have mastered using AI to do their jobs. \"They build a software factory that builds the product. They don't build the product.\"",
+      "He believes that every employee will one day similarly become a manager of agents, rather than a person directly doing the work. \"That level of direction is what, by the way, is going to happen in all jobs.\"",
+      "But Microsoft, as a 51-year-old company, didn't grow up as an AI-first company. \"So the question is, how quickly can an incumbent transform the work, the workflow, and the work artifact, and with all the wage support that goes with it?\" he said. \"It's going to take a bit more time than anyone expects. And there is going to be in all of this, you know, people who may say, 'Hey, I have some other choices I want to make.'\"",
+      "When asked about this same topic — why ask 60,000 people to voluntarily resign — last week by Gergely Orosz on his The Pragmatic Engineer podcast, Nadella further explained, \"We have created enormous anxiety in people sort of feeling that they don't have control of their own destiny because the way we have talked about this AI revolution.\"",
+      "He called out talk about the singularity (the hypothetical point at which AI surpasses human intelligence) and predictions that AI will take away all jobs. \"All of that leads anyone who even wants to change to be sort of anxious … You have to sort of walk the hard walk of really making the structural changes, getting people slotted, giving them opportunity.\"",
+      "In other words, the buyout was the message to employees: You can get with the new AI-first program, which will radically change your job, or you choose to get on with your life. Elsewhere."
+    ],
+    "html": null
+  }
+}

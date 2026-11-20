@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
+    "fetched_at": "2026-11-20T07:00:27.104230-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Chip giant Nvidia (NVDA) extended declines on Friday, heading for seven straight days of losses. Peers AMD (AMD) and Broadcom (AVGO) also tanked 6% and 3%, respectively. US-based chipmaker Intel (INTC) also declined.\nMemory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) dropped more than 3%. Shares of Taiwan Semiconductor Manufacturing Company (TSM) and equipment maker ASML (ASML) fell, leading the Technology (XLK) sector lower.\nYorkville Ives' Dan Ives said the AI trade weakness \"is a panic-driven sell-off\" in tech \"rather than a red flag moment indicating darker times ahead for tech and the market.\"\n\"Big Tech will be spending capex next year in the $1.5 trillion range and that is not changing because of the panic in the market the last few months,\" he wrote on Friday.\nThe broader chip sector fell on Thursday following the public debut of AI model maker Anthropic (ANT). The sector was already on shaky ground following the exit of Nvidia CEO Jensen Huang and concerns over AI financing.\nNvidia is now down 22% year to date, putting it on pace for its first yearly decline since 2022, when the Federal Reserve began a rate-hiking cycle, according to Yahoo Finance's AlphaSpace data.\nOther areas of the AI trade were under pressure Friday, with optical equipment maker Coherent (COHR) and Bloom Energy (BE) stocks sinking 6% and 7%, respectively.\nNeocloud providers CoreWeave (CRWV) and Nebius (NBIS) both extended losses from the prior session, declining roughly 6%.",
+    "text_blocks": [
+      "Chip giant Nvidia (NVDA) extended declines on Friday, heading for seven straight days of losses. Peers AMD (AMD) and Broadcom (AVGO) also tanked 6% and 3%, respectively. US-based chipmaker Intel (INTC) also declined.",
+      "Memory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) dropped more than 3%. Shares of Taiwan Semiconductor Manufacturing Company (TSM) and equipment maker ASML (ASML) fell, leading the Technology (XLK) sector lower.",
+      "Yorkville Ives' Dan Ives said the AI trade weakness \"is a panic-driven sell-off\" in tech \"rather than a red flag moment indicating darker times ahead for tech and the market.\"",
+      "\"Big Tech will be spending capex next year in the $1.5 trillion range and that is not changing because of the panic in the market the last few months,\" he wrote on Friday.",
+      "The broader chip sector fell on Thursday following the public debut of AI model maker Anthropic (ANT). The sector was already on shaky ground following the exit of Nvidia CEO Jensen Huang and concerns over AI financing.",
+      "Nvidia is now down 22% year to date, putting it on pace for its first yearly decline since 2022, when the Federal Reserve began a rate-hiking cycle, according to Yahoo Finance's AlphaSpace data.",
+      "Other areas of the AI trade were under pressure Friday, with optical equipment maker Coherent (COHR) and Bloom Energy (BE) stocks sinking 6% and 7%, respectively.",
+      "Neocloud providers CoreWeave (CRWV) and Nebius (NBIS) both extended losses from the prior session, declining roughly 6%."
+    ],
+    "html": null
+  }
+}

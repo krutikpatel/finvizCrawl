@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026/card/here-are-the-ai-stocks-tanking-this-morning-toF5LHILCo8Cffend4F8?mod=wsj_FV",
+    "fetched_at": "2026-11-20T07:00:48.867062-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Here Are the AI Stocks Tanking This Morning",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "LIVE\n6 min ago\nHere Are the AI Stocks Tanking This Morning\nIt's a sea of red for the data-center complex this morning. Here are a handful of names that are declining, besides Anthropic.\n🏿 Chipmakers: Nvidia, AMD, Intel, Broadcom\n☁️ Neoclouds: CoreWeave, IREN, Nebius",
+    "text_blocks": [
+      "LIVE",
+      "6 min ago",
+      "Here Are the AI Stocks Tanking This Morning",
+      "It's a sea of red for the data-center complex this morning. Here are a handful of names that are declining, besides Anthropic.",
+      "🏿 Chipmakers: Nvidia, AMD, Intel, Broadcom",
+      "☁️ Neoclouds: CoreWeave, IREN, Nebius"
+    ],
+    "html": null
+  }
+}

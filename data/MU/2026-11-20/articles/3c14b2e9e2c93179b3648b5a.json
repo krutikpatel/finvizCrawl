@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-fbf46f39?mod=bar_FV",
+    "fetched_at": "2026-11-20T07:00:26.927461-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Anthropic IPO, Nvidia, Tech Stock Selloff |  November 20 Barron's Daily <!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Stock Market Has Problems Even Anthropic Can’t Solve\nAnthropic has high hopes to cure diseases and solve some of the world’s biggest problems. But it can’t stop the AI stock rout.\nAnthropic has high hopes to cure diseases and solve some of the world’s biggest problems. But it can’t stop the AI stock rout.",
+    "text_blocks": [
+      "The Stock Market Has Problems Even Anthropic Can’t Solve",
+      "Anthropic has high hopes to cure diseases and solve some of the world’s biggest problems. But it can’t stop the AI stock rout.",
+      "Anthropic has high hopes to cure diseases and solve some of the world’s biggest problems. But it can’t stop the AI stock rout."
+    ],
+    "html": null
+  }
+}

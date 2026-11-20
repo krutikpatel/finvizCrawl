@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/retail-demand-wasn-t-as-strong-as-it-was-for-spacex-nuubtZNbIo5OsQafjaIg?mod=bar_FV",
+    "fetched_at": "2026-11-20T07:00:34.131191-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Retail Demand Wasn’t As Strong As It Was for SpaceX",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "4 hours ago\nFive big brokerage firms received a chunk of Anthropic shares at the IPO price of $83. And it looks like many of their customers were able to get some, if not all, of the stock they asked for, suggesting the allocation process went fairly smoothly. It probably helps that Fidelity, Charles Schwab, Robinhood, SoFi and Morgan Stanley’s E-Trade undertook a similar process just a few months ago when SpaceX went public in June.\n“We’re pleased to share that everything went as expected and all eligible Schwab clients who affirmed orders received at least a portion of their requested order,” a spokesperson for Schwab told Barron’s.\nA source close to Fidelity told Barron’s that the process for getting Anthropic shares was fairly similar to the allocation for the SpaceX IPO. But there was one notable difference. Investors with a minimum of $2,000 in a Fidelity brokerage account were eligible to place orders for SpaceX. That minimum has since been increased to $25,000.",
+    "text_blocks": [
+      "4 hours ago",
+      "Five big brokerage firms received a chunk of Anthropic shares at the IPO price of $83. And it looks like many of their customers were able to get some, if not all, of the stock they asked for, suggesting the allocation process went fairly smoothly. It probably helps that Fidelity, Charles Schwab, Robinhood, SoFi and Morgan Stanley’s E-Trade undertook a similar process just a few months ago when SpaceX went public in June.",
+      "“We’re pleased to share that everything went as expected and all eligible Schwab clients who affirmed orders received at least a portion of their requested order,” a spokesperson for Schwab told Barron’s.",
+      "A source close to Fidelity told Barron’s that the process for getting Anthropic shares was fairly similar to the allocation for the SpaceX IPO. But there was one notable difference. Investors with a minimum of $2,000 in a Fidelity brokerage account were eligible to place orders for SpaceX. That minimum has since been increased to $25,000."
+    ],
+    "html": null
+  }
+}

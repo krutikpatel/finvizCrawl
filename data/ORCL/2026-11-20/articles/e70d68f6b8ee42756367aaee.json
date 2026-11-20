@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/hsbc-offloads-300-million-troubled-230235524.html",
+    "fetched_at": "2026-11-20T07:00:34.258450-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "HSBC offloads $300 million troubled AI data center loan at steep discount - report",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- HSBC Holdings PLC (NYSE:HSBC) offloaded a roughly $300 million portion of a construction loan tied to a troubled New Mexico data center project at a steep discount, according to Bloomberg. The sale, executed at prices in the mid-80s several weeks ago, underscores mounting lender caution surrounding the financing of artificial intelligence infrastructure.\nThe bank exited the position shortly after Oracle Corp. issued a force majeure notice to the project's developer, a unit of Blue Owl Capital Inc. As Bloomberg previously reported in late September, Oracle took the step in an effort to defer payments should the southern New Mexico venture become derailed.\nHSBC's slice belongs to an $18 billion financing package, known as Project Miner, that a syndicate of roughly 20 banks arranged in late 2025 to fund the Doña Ana County campus. The facility is divided into distinct tranches linked to individual buildings across the development site.\nThe 2.45-gigawatt facility, dubbed Project Jupiter, represents a major component of the Stargate AI infrastructure build-out unveiled by US President Donald Trump in early 2025 alongside leaders from Oracle, OpenAI, and SoftBank Group Corp. Despite its high-profile backing, the venture has encountered significant local opposition and regulatory headwinds, including delays in securing critical air and pipeline permits.\nWhile participants in the broader syndicated loan market are generally free to trade positions, banks holding construction project financing typically retain the debt on their balance sheets, sometimes bound by pooled sell-down agreements. Consequently, lenders seeking an exit before a project's completion frequently absorb discounts that exceed the upfront fees received on the transaction.\nAgainst that backdrop, financial institutions are actively reassessing their broader exposure to AI-related debt as sector momentum faces fresh scrutiny. Market anxiety has been compounded by renewed regulatory pushback following a Democratic sweep and growing uncertainty over the pace of AI expansion after Jensen Huang's abrupt departure from Nvidia Corp.\nOriginal Article\nHSBC offloads $300 million troubled AI data center loan at steep discount - report\nBerkshire trims Bank of America, Capital One stakes, adds to Delta investment\nDow Jones, Nasdaq, S&P 500 weekly preview: Nvidia earnings, Anthropic IPO on deck",
+    "text_blocks": [
+      "Investing.com -- HSBC Holdings PLC (NYSE:HSBC) offloaded a roughly $300 million portion of a construction loan tied to a troubled New Mexico data center project at a steep discount, according to Bloomberg. The sale, executed at prices in the mid-80s several weeks ago, underscores mounting lender caution surrounding the financing of artificial intelligence infrastructure.",
+      "The bank exited the position shortly after Oracle Corp. issued a force majeure notice to the project's developer, a unit of Blue Owl Capital Inc. As Bloomberg previously reported in late September, Oracle took the step in an effort to defer payments should the southern New Mexico venture become derailed.",
+      "HSBC's slice belongs to an $18 billion financing package, known as Project Miner, that a syndicate of roughly 20 banks arranged in late 2025 to fund the Doña Ana County campus. The facility is divided into distinct tranches linked to individual buildings across the development site.",
+      "The 2.45-gigawatt facility, dubbed Project Jupiter, represents a major component of the Stargate AI infrastructure build-out unveiled by US President Donald Trump in early 2025 alongside leaders from Oracle, OpenAI, and SoftBank Group Corp. Despite its high-profile backing, the venture has encountered significant local opposition and regulatory headwinds, including delays in securing critical air and pipeline permits.",
+      "While participants in the broader syndicated loan market are generally free to trade positions, banks holding construction project financing typically retain the debt on their balance sheets, sometimes bound by pooled sell-down agreements. Consequently, lenders seeking an exit before a project's completion frequently absorb discounts that exceed the upfront fees received on the transaction.",
+      "Against that backdrop, financial institutions are actively reassessing their broader exposure to AI-related debt as sector momentum faces fresh scrutiny. Market anxiety has been compounded by renewed regulatory pushback following a Democratic sweep and growing uncertainty over the pace of AI expansion after Jensen Huang's abrupt departure from Nvidia Corp.",
+      "Original Article",
+      "HSBC offloads $300 million troubled AI data center loan at steep discount - report",
+      "Berkshire trims Bank of America, Capital One stakes, adds to Delta investment",
+      "Dow Jones, Nasdaq, S&P 500 weekly preview: Nvidia earnings, Anthropic IPO on deck"
+    ],
+    "html": null
+  }
+}

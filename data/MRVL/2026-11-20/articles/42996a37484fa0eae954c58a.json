@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734?mod=bar_FV",
+    "fetched_at": "2026-11-20T07:02:03.264330-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap. The Next Catalyst.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap. The Next Catalyst.\nThe tech selloff was persisting into Friday as embattled chip and memory stocks couldn’t catch a break after Anthropic initial public offering failed to rescue the artifical intelligence trade.",
+    "text_blocks": [
+      "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap. The Next Catalyst.",
+      "The tech selloff was persisting into Friday as embattled chip and memory stocks couldn’t catch a break after Anthropic initial public offering failed to rescue the artifical intelligence trade."
+    ],
+    "html": null
+  }
+}

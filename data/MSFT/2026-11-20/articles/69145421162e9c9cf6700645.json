@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/danaher-teams-microsoft-develop-ai-135136424.html",
+    "fetched_at": "2026-11-20T07:00:40.810356-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Danaher Teams Up With Microsoft To Develop AI-Powered Scientific Instruments, First Applications Expected This Year",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nThe platform will use Microsoft Azure for secure cloud infrastructure and Microsoft Foundry to power AI agents for instrument control and insight generation.\n-\nThe technology is designed to help scientists plan experiments, guide instrument operations, interpret results, and recommend corrective actions under human oversight.\n-\nIn preliminary internal testing, novice scientists using an AI assistant with a Leica microscope took up to 83% less time and 68% fewer steps than those working without the assistant, Danaher said.\nHealthcare company Danaher Corporation (DHR) announced a strategic partnership with Microsoft (MSFT) on Friday to develop smart, AI-powered scientific instruments and an interoperable platform designed to connect laboratory technologies and make research workflows more intelligent.\n\"With Microsoft, we are building a common foundation, so our instruments and laboratories work together consistently, as one connected Danaher,\" Danaher CEO Julie Sawyer Montgomery said.\nAt the time of writing in premarket trading, DHR shares traded marginally lower, while MSFT shares traded 2.3% lower.\nWhat The Partnership Involves\nThe partnership will focus on developing a common agentic platform for instrument control and insight generation. It will use Microsoft Azure for secure, compliant cloud infrastructure and Microsoft Foundry to power AI agents that interpret results and guide instrument control.\nThe technology is being designed to help scientists translate scientific questions into experimental plans, configure instruments and methods, guide experiment execution, troubleshoot issues, and recommend next steps for review. Instrument hardware will operate within defined safety boundaries and under user oversight.\nThe first commercial applications are expected to reach Danaher customers in 2026. These include MetaXpress Acquire AI Assistant, software from Danaher's Molecular Devices business for its high-content cellular imaging systems, designed to provide product support. Additional next-generation instruments using the platform are planned for 2027.\nDanaher said the collaboration is part of its broader strategy to connect intelligence at scientific instruments with laboratory data, workflows and the execution of experiments. However, the company believes this could help scientists use experimental results to determine subsequent steps, supporting increasingly connected and autonomous research workflows under scientific oversight.",
+    "text_blocks": [
+      "-",
+      "The platform will use Microsoft Azure for secure cloud infrastructure and Microsoft Foundry to power AI agents for instrument control and insight generation.",
+      "-",
+      "The technology is designed to help scientists plan experiments, guide instrument operations, interpret results, and recommend corrective actions under human oversight.",
+      "-",
+      "In preliminary internal testing, novice scientists using an AI assistant with a Leica microscope took up to 83% less time and 68% fewer steps than those working without the assistant, Danaher said.",
+      "Healthcare company Danaher Corporation (DHR) announced a strategic partnership with Microsoft (MSFT) on Friday to develop smart, AI-powered scientific instruments and an interoperable platform designed to connect laboratory technologies and make research workflows more intelligent.",
+      "\"With Microsoft, we are building a common foundation, so our instruments and laboratories work together consistently, as one connected Danaher,\" Danaher CEO Julie Sawyer Montgomery said.",
+      "At the time of writing in premarket trading, DHR shares traded marginally lower, while MSFT shares traded 2.3% lower.",
+      "What The Partnership Involves",
+      "The partnership will focus on developing a common agentic platform for instrument control and insight generation. It will use Microsoft Azure for secure, compliant cloud infrastructure and Microsoft Foundry to power AI agents that interpret results and guide instrument control.",
+      "The technology is being designed to help scientists translate scientific questions into experimental plans, configure instruments and methods, guide experiment execution, troubleshoot issues, and recommend next steps for review. Instrument hardware will operate within defined safety boundaries and under user oversight.",
+      "The first commercial applications are expected to reach Danaher customers in 2026. These include MetaXpress Acquire AI Assistant, software from Danaher's Molecular Devices business for its high-content cellular imaging systems, designed to provide product support. Additional next-generation instruments using the platform are planned for 2027.",
+      "Danaher said the collaboration is part of its broader strategy to connect intelligence at scientific instruments with laboratory data, workflows and the execution of experiments. However, the company believes this could help scientists use experimental results to determine subsequent steps, supporting increasingly connected and autonomous research workflows under scientific oversight."
+    ],
+    "html": null
+  }
+}

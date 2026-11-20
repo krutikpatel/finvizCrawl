@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026/card/stocks-are-selling-off-after-anthropic-s-debut-ePK39ls4WzYcvZS960CE?mod=wsj_FV",
+    "fetched_at": "2026-11-20T07:00:43.361113-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stocks Sell Off After Anthropic Debut",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Updated 16 hours ago\nStocks Sell Off After Anthropic Debut\nTech stocks' losses deepened after Anthropic's much-anticipated initial public offering today. The Nasdaq and Dow are now both off more than 2%. Some analysts say investors are selling other AI stocks, including AMD, to fund their purchases of the IPO. Here's a look at the stocks that are sliding on Anthropic's first day:",
+    "text_blocks": [
+      "Updated 16 hours ago",
+      "Stocks Sell Off After Anthropic Debut",
+      "Tech stocks' losses deepened after Anthropic's much-anticipated initial public offering today. The Nasdaq and Dow are now both off more than 2%. Some analysts say investors are selling other AI stocks, including AMD, to fund their purchases of the IPO. Here's a look at the stocks that are sliding on Anthropic's first day:"
+    ],
+    "html": null
+  }
+}

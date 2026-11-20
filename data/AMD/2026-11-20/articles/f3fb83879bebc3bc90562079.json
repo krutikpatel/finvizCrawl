@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/jump-implied-correlation-means-markets-144115357.html",
+    "fetched_at": "2026-11-20T07:00:55.605419-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "What a jump in implied correlation means for markets and the dispersion trade",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- The 1-month 50-delta implied correlation gauge added 7 points to move above 30, its highest intraday level since early April, according to a report from Bloomberg. High implied correlation means options markets expect stocks to move together. In practice, that is what indiscriminate, forced selling looks like: investors sell everything at once, whatever the fundamentals.\nWhat Implied Correlation Signals\nPrices as of Nov 20, 9:10 AM EST show it at work:\n-\nS&P 500 (US500) last closed at 7,175.83, down 2.02% (Nov 19, 3:59 PM EST).\n-\nNasdaq 100 (NDX) last closed at 26,517.05, down 2.21%.\n-\nCBOE Volatility Index (VIX) is at 29.77, up 4.68%.\n-\nAI names are lower pre-market: NVIDIA (NVDA) at $143.10 (-1.97%), Oracle (ORCL) at $107.85 (-2.46%), AMD (AMD) at $467.90 (-4.35%), and Anthropic (ANT) at $88.48 (-8.94%).\n-\nHavens are mixed: the 10-year yield is at 4.983%, below its 5.013% pre-market print, but gold is down 3.13% at $3,569.97.\nThe Dispersion Trade Problem\nDispersion strategies sell index volatility and buy single-stock options. They worked this year because correlation was low and single-stock volatility was high, so individual stocks swung independently while the index stayed calm.\n-\nWhy it hurts now: When correlation jumps, the index starts moving as much as its components. Sellers of index options face losses, while single-stock options do not gain enough to offset them. These positions amount to selling insurance against an index drop.\n-\nThe warning: On Nov 10, Will Bartlett of Parallax Volatility Advisers called the trade a \"ticking time bomb\" that could cause \"a lot of pain\" if volatility jumps. VIX has risen sharply since then.\n-\nFeedback loop: Losses can force dispersion funds to buy back index volatility, which pushes it higher. That is the same mechanical pressure as the negative gamma discussed earlier.\nImplications\n-\nBear case: If correlation keeps rising, dispersion unwinds could add fuel to the selloff. Fear gauges are already near levels seen at past drawdown peaks.\n-\nBull case: Extreme correlation is often a late-stage signal. Today's options expiration removes a large chunk of negative gamma, and VIX has eased from above 30 to 29.77. If correlation falls back, dispersion pain may fade.\n-\nTakeaway: Rising correlation means diversification is working less well and the selloff is driven by forced positioning. It will take a calmer tape to restore stock-by-stock trading.",
+    "text_blocks": [
+      "Investing.com -- The 1-month 50-delta implied correlation gauge added 7 points to move above 30, its highest intraday level since early April, according to a report from Bloomberg. High implied correlation means options markets expect stocks to move together. In practice, that is what indiscriminate, forced selling looks like: investors sell everything at once, whatever the fundamentals.",
+      "What Implied Correlation Signals",
+      "Prices as of Nov 20, 9:10 AM EST show it at work:",
+      "-",
+      "S&P 500 (US500) last closed at 7,175.83, down 2.02% (Nov 19, 3:59 PM EST).",
+      "-",
+      "Nasdaq 100 (NDX) last closed at 26,517.05, down 2.21%.",
+      "-",
+      "CBOE Volatility Index (VIX) is at 29.77, up 4.68%.",
+      "-",
+      "AI names are lower pre-market: NVIDIA (NVDA) at $143.10 (-1.97%), Oracle (ORCL) at $107.85 (-2.46%), AMD (AMD) at $467.90 (-4.35%), and Anthropic (ANT) at $88.48 (-8.94%).",
+      "-",
+      "Havens are mixed: the 10-year yield is at 4.983%, below its 5.013% pre-market print, but gold is down 3.13% at $3,569.97.",
+      "The Dispersion Trade Problem",
+      "Dispersion strategies sell index volatility and buy single-stock options. They worked this year because correlation was low and single-stock volatility was high, so individual stocks swung independently while the index stayed calm.",
+      "-",
+      "Why it hurts now: When correlation jumps, the index starts moving as much as its components. Sellers of index options face losses, while single-stock options do not gain enough to offset them. These positions amount to selling insurance against an index drop.",
+      "-",
+      "The warning: On Nov 10, Will Bartlett of Parallax Volatility Advisers called the trade a \"ticking time bomb\" that could cause \"a lot of pain\" if volatility jumps. VIX has risen sharply since then.",
+      "-",
+      "Feedback loop: Losses can force dispersion funds to buy back index volatility, which pushes it higher. That is the same mechanical pressure as the negative gamma discussed earlier.",
+      "Implications",
+      "-",
+      "Bear case: If correlation keeps rising, dispersion unwinds could add fuel to the selloff. Fear gauges are already near levels seen at past drawdown peaks.",
+      "-",
+      "Bull case: Extreme correlation is often a late-stage signal. Today's options expiration removes a large chunk of negative gamma, and VIX has eased from above 30 to 29.77. If correlation falls back, dispersion pain may fade.",
+      "-",
+      "Takeaway: Rising correlation means diversification is working less well and the selloff is driven by forced positioning. It will take a calmer tape to restore stock-by-stock trading."
+    ],
+    "html": null
+  }
+}

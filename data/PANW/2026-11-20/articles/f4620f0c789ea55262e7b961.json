@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_FV",
+    "fetched_at": "2026-11-20T07:00:57.844337-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Deep Dive\nThese were the only stocks that rose amid the stock market’s wipeout Thursday\nAll 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness\nOnly 38 stocks among the S&P 500 rose on Thursday amid a broad decline across the major U.S. indexes, as the successful completion of Anthropic’s record initial public offering sucked the wind out of the market.\nThe stock market opened broadly higher, as strong demand for Anthropic’s ANT IPO gave investors reason to be optimistic. But just as the artificial-intelligence giant’s stock soared out of the gate, the market started sinking, and the Dow Jones Industrial Average DJIA, the S&P 500 SPX and the Nasdaq Composite COMP all fell more than 2%.",
+    "text_blocks": [
+      "Deep Dive",
+      "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+      "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness",
+      "Only 38 stocks among the S&P 500 rose on Thursday amid a broad decline across the major U.S. indexes, as the successful completion of Anthropic’s record initial public offering sucked the wind out of the market.",
+      "The stock market opened broadly higher, as strong demand for Anthropic’s ANT IPO gave investors reason to be optimistic. But just as the artificial-intelligence giant’s stock soared out of the gate, the market started sinking, and the Dow Jones Industrial Average DJIA, the S&P 500 SPX and the Nasdaq Composite COMP all fell more than 2%."
+    ],
+    "html": null
+  }
+}

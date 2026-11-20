@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/factbox-amazon-google-deep-pocketed-131914730.html",
+    "fetched_at": "2026-11-20T07:00:37.075145-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nov 19 (Reuters) - Anthropic's market value hit $2 trillion in its Nasdaq debut on Thursday, with shares opening 34% above the $83 IPO price, offering a strong early signal of appetite for the AI trade.\nFew startups have attracted as much investor interest as Anthropic, which is backed by technology heavyweights from Alphabet to Nvidia and whose private valuation climbed to near-unprecedented heights before its Nasdaq debut under the ticker ANT.\n(Reporting by Anhata Rooprai and Prathik Jayaprakash in Bengaluru; Editing by Arun Koyyur, Sherry Jacob-Phillips, Shreya Biswas, Shinjini Ganguli and Maju Samuel)",
+    "text_blocks": [
+      "Nov 19 (Reuters) - Anthropic's market value hit $2 trillion in its Nasdaq debut on Thursday, with shares opening 34% above the $83 IPO price, offering a strong early signal of appetite for the AI trade.",
+      "Few startups have attracted as much investor interest as Anthropic, which is backed by technology heavyweights from Alphabet to Nvidia and whose private valuation climbed to near-unprecedented heights before its Nasdaq debut under the ticker ANT.",
+      "(Reporting by Anhata Rooprai and Prathik Jayaprakash in Bengaluru; Editing by Arun Koyyur, Sherry Jacob-Phillips, Shreya Biswas, Shinjini Ganguli and Maju Samuel)"
+    ],
+    "html": null
+  }
+}

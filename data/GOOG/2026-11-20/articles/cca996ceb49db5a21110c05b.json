@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.digitimes.com/news/a20261120VL201/google-launch-demand-electricity-data.html",
+    "fetched_at": "2026-11-20T07:00:37.373211-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Google taps Blue Origin's New Glenn for first heavy-lift launch of space-based AI project",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.digitimes.com",
+    "language": null
+  },
+  "content": {
+    "text": "Google has chosen Blue Origin to carry out the first heavy-lift launch for Project Suncatcher, its long-term effort to build AI computing infrastructure in orbit and power it with solar energy, the company said Wednesday.\nThe article requires paid subscription.\nSubscribe Now",
+    "text_blocks": [
+      "Google has chosen Blue Origin to carry out the first heavy-lift launch for Project Suncatcher, its long-term effort to build AI computing infrastructure in orbit and power it with solar energy, the company said Wednesday.",
+      "The article requires paid subscription.",
+      "Subscribe Now"
+    ],
+    "html": null
+  }
+}

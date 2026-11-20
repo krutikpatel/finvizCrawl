@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/bridgewater-warns-of-ai-security-risk-as-anthropic-shares-rise-in-debut-RxyAcE5h0W1SgJRON7Zu?mod=bar_FV",
+    "fetched_at": "2026-11-20T07:00:57.720119-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "3 hours ago\nBridgewater Associates laid out its thinking on artificial intelligence-related risks in a paper published last week.\nThe same week saw outages at Microsoft and an FAA ground stop that temporarily halted departures nationwide. This week, Apple and the National Security Agency reported outages. Officials and companies said they had no evidence the disruptions were cyberattacks.\nBridgewater analysts Hudson Attar and Arham Habib said open-source AI models had made hacking more dangerous and that Bridgewater was managing money on the assumption of a one-in-three chance of an economically destabilizing cyberattack within the next year.",
+    "text_blocks": [
+      "3 hours ago",
+      "Bridgewater Associates laid out its thinking on artificial intelligence-related risks in a paper published last week.",
+      "The same week saw outages at Microsoft and an FAA ground stop that temporarily halted departures nationwide. This week, Apple and the National Security Agency reported outages. Officials and companies said they had no evidence the disruptions were cyberattacks.",
+      "Bridgewater analysts Hudson Attar and Arham Habib said open-source AI models had made hacking more dangerous and that Bridgewater was managing money on the assumption of a one-in-three chance of an economically destabilizing cyberattack within the next year."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/fake-elon-musk-stream-drew-141241711.html",
+    "fetched_at": "2026-11-20T07:00:18.091096-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Fake Elon Musk Stream Drew 500,000 Viewers as Coinbase AI Blocked $4.7M in Crypto Transfers",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Key Takeaways\n-\nA fake Tesla livestream used an AI-generated Elon Musk to promise viewers it would double any crypto they sent.\n-\nCoinbase says its automated defenses stopped $4.7 million from leaving customer accounts.\n-\nCustomers approved the transfers themselves, exposing a blind spot in defenses designed to detect account takeovers.\nCoinbase says its AI fraud defenses stopped $4.7 million in crypto transfers to scammers who used an Elon Musk deepfake to promote a fake Tesla giveaway on YouTube.\nThe livestream drew more than 500,000 viewers, according to the exchange.\nCoinbase said hundreds of its customers attempted to send crypto to the scammers over roughly two hours.\nFake Elon Musk Tesla Giveaway\nIn its Nov. 17 disclosure, Coinbase said the scammers made their stream appear to be an official broadcast of Tesla's flying-car demonstration.\nAn AI-generated Musk promised to double any crypto viewers sent, while the broadcast displayed wallet addresses and a QR code.\nThe giveaway had already convinced customers by the time they reached Coinbase's confirmation screen.\nThey approved the transfers from their own accounts, making the payments harder to distinguish from legitimate activity.\n\"Our systems can see risk signals in real time. They can't see intent,\" Coinbase wrote.\nHow Coinbase Used AI to Interrupt the Scam\nCoinbase said its machine-learning models screened transfers in real time for signs of fraud, including brand impersonation and payments to recently created wallet addresses.\nWhen a transfer raised a flag, an automated agent could ask the customer about the offer in what Coinbase called a \"short, targeted conversation.\"\nIt could then explain why being asked to send crypto upfront in exchange for twice as much was a sign of fraud.\nCoinbase said the system scored each reply before showing it to the customer and handled the interventions \"with no humans in the loop.\"\nElon Musk and Ripple Deepfakes Have Pushed Similar Giveaways\nIn June 2024, scammers hijacked Australian broadcaster 7News' YouTube channel and used an AI-generated Musk to promote a crypto scam.\nCCN reported that the broadcasts reached more than 100,000 people.\nRipple warned of a similar scheme in July 2025 after deepfakes of CEO Brad Garlinghouse appeared on YouTube promising to double viewers' XRP.\nThe videos revived a scam Ripple had already taken YouTube to court over in 2020.\nThe companies settled the following year.\nTop Trending Crypto Articles\nThe post Fake Elon Musk Stream Drew 500,000 Viewers as Coinbase AI Blocked $4.7M in Crypto Transfers appeared first on ccn.com.",
+    "text_blocks": [
+      "Key Takeaways",
+      "-",
+      "A fake Tesla livestream used an AI-generated Elon Musk to promise viewers it would double any crypto they sent.",
+      "-",
+      "Coinbase says its automated defenses stopped $4.7 million from leaving customer accounts.",
+      "-",
+      "Customers approved the transfers themselves, exposing a blind spot in defenses designed to detect account takeovers.",
+      "Coinbase says its AI fraud defenses stopped $4.7 million in crypto transfers to scammers who used an Elon Musk deepfake to promote a fake Tesla giveaway on YouTube.",
+      "The livestream drew more than 500,000 viewers, according to the exchange.",
+      "Coinbase said hundreds of its customers attempted to send crypto to the scammers over roughly two hours.",
+      "Fake Elon Musk Tesla Giveaway",
+      "In its Nov. 17 disclosure, Coinbase said the scammers made their stream appear to be an official broadcast of Tesla's flying-car demonstration.",
+      "An AI-generated Musk promised to double any crypto viewers sent, while the broadcast displayed wallet addresses and a QR code.",
+      "The giveaway had already convinced customers by the time they reached Coinbase's confirmation screen.",
+      "They approved the transfers from their own accounts, making the payments harder to distinguish from legitimate activity.",
+      "\"Our systems can see risk signals in real time. They can't see intent,\" Coinbase wrote.",
+      "How Coinbase Used AI to Interrupt the Scam",
+      "Coinbase said its machine-learning models screened transfers in real time for signs of fraud, including brand impersonation and payments to recently created wallet addresses.",
+      "When a transfer raised a flag, an automated agent could ask the customer about the offer in what Coinbase called a \"short, targeted conversation.\"",
+      "It could then explain why being asked to send crypto upfront in exchange for twice as much was a sign of fraud.",
+      "Coinbase said the system scored each reply before showing it to the customer and handled the interventions \"with no humans in the loop.\"",
+      "Elon Musk and Ripple Deepfakes Have Pushed Similar Giveaways",
+      "In June 2024, scammers hijacked Australian broadcaster 7News' YouTube channel and used an AI-generated Musk to promote a crypto scam.",
+      "CCN reported that the broadcasts reached more than 100,000 people.",
+      "Ripple warned of a similar scheme in July 2025 after deepfakes of CEO Brad Garlinghouse appeared on YouTube promising to double viewers' XRP.",
+      "The videos revived a scam Ripple had already taken YouTube to court over in 2020.",
+      "The companies settled the following year.",
+      "Top Trending Crypto Articles",
+      "The post Fake Elon Musk Stream Drew 500,000 Viewers as Coinbase AI Blocked $4.7M in Crypto Transfers appeared first on ccn.com."
+    ],
+    "html": null
+  }
+}
