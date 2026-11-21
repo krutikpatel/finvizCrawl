@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_FV",
+    "fetched_at": "2026-11-21T07:00:38.133982-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet\nWalmart, Target and Amazon are some of the retailers offering meal-basket deals this year\nThanksgiving is less than a week away, and shoppers may see some notable food deals in the aisles. But think of them as just a brief break from rising prices, because there’s still going to be pressure on grocery shoppers.\nAt a time when many food prices continue to creep higher, Walmart WMT is selling a $35 Thanksgiving meal for 10 people, Target’s TGT deal will feed six people for $30 and Amazon.com’s AMZN offer is $25.",
+    "text_blocks": [
+      "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
+      "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year",
+      "Thanksgiving is less than a week away, and shoppers may see some notable food deals in the aisles. But think of them as just a brief break from rising prices, because there’s still going to be pressure on grocery shoppers.",
+      "At a time when many food prices continue to creep higher, Walmart WMT is selling a $35 Thanksgiving meal for 10 people, Target’s TGT deal will feed six people for $30 and Amazon.com’s AMZN offer is $25."
+    ],
+    "html": null
+  }
+}

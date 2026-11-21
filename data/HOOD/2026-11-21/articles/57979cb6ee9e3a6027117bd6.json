@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tokenized-stocks-are-weird-regular-stocks-may-be-weirder-33bb5066?mod=bar_FV",
+    "fetched_at": "2026-11-21T07:00:19.729503-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tokenized Stocks Are Weird. Regular Stocks May Be Weirder.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tokenized Stocks Are Weird. Regular Stocks May Be Weirder.\nAbout a year ago in this space, I wrote about Robinhood Markets’ growth in betting—I mean, ahem, prediction markets —along with its dabbling in tokenized stocks. At the time, the meme brokerage was using an offshore, synthetic, walled-garden approach. Its European customers could buy crypto tokens that gave them derivative price exposure to U.S. stocks, but they had to keep their trading within Robinhood’s ecosystem.",
+    "text_blocks": [
+      "Tokenized Stocks Are Weird. Regular Stocks May Be Weirder.",
+      "About a year ago in this space, I wrote about Robinhood Markets’ growth in betting—I mean, ahem, prediction markets —along with its dabbling in tokenized stocks. At the time, the meme brokerage was using an offshore, synthetic, walled-garden approach. Its European customers could buy crypto tokens that gave them derivative price exposure to U.S. stocks, but they had to keep their trading within Robinhood’s ecosystem."
+    ],
+    "html": null
+  }
+}

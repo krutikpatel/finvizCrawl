@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/nvidia-can-rebound-to-200-analyst-says-plus-l3harris-and-4-more-stocks-3c840464?mod=bar_FV",
+    "fetched_at": "2026-11-21T07:00:27.491868-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.\nThese reports, excerpted and edited by Barron’s, were issued recently by investment and research firms. The reports are a sampling of analysts’ thinking; they should not be considered the views or recommendations of Barron’s. Some of the reports’ issuers have provided, or hope to provide, investment-banking or other services to the companies being analyzed.",
+    "text_blocks": [
+      "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.",
+      "These reports, excerpted and edited by Barron’s, were issued recently by investment and research firms. The reports are a sampling of analysts’ thinking; they should not be considered the views or recommendations of Barron’s. Some of the reports’ issuers have provided, or hope to provide, investment-banking or other services to the companies being analyzed."
+    ],
+    "html": null
+  }
+}

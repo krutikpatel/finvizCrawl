@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://www.digitimes.com/news/a20261120PD247/tesla-shanghai-elon-musk-manufacturing-ceo.html",
+    "fetched_at": "2026-11-21T07:00:07.768586-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.digitimes.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tesla CEO Elon Musk made a whirlwind 24-hour visit to China, traveling to Shanghai on November 19 after concluding activities related to the APEC meetings in Shenzhen...\nThe article requires paid subscription.\nSubscribe Now\nTesla CEO Elon Musk made a whirlwind 24-hour visit to China, traveling to Shanghai on November 19 after concluding activities related to the APEC meetings in Shenzhen...",
+    "text_blocks": [
+      "Tesla CEO Elon Musk made a whirlwind 24-hour visit to China, traveling to Shanghai on November 19 after concluding activities related to the APEC meetings in Shenzhen...",
+      "The article requires paid subscription.",
+      "Subscribe Now",
+      "Tesla CEO Elon Musk made a whirlwind 24-hour visit to China, traveling to Shanghai on November 19 after concluding activities related to the APEC meetings in Shenzhen..."
+    ],
+    "html": null
+  }
+}

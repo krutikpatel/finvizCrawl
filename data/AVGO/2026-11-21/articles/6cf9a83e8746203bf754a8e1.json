@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/broadcom-stock-google-ai-chips-e75d888d?mod=bar_FV",
+    "fetched_at": "2026-11-21T07:00:30.022487-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Broadcom Stock Falls on Report Google is Cutting AI Chip Shipments<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Broadcom Stock Falls on Report Google is Cutting AI Chip Shipments\nAn already bad day for Broadcom got worse after a report that Alphabet Google has cut planned 2027 shipments of its custom chips developed in partnership with Broadcom by a million units.",
+    "text_blocks": [
+      "Broadcom Stock Falls on Report Google is Cutting AI Chip Shipments",
+      "An already bad day for Broadcom got worse after a report that Alphabet Google has cut planned 2027 shipments of its custom chips developed in partnership with Broadcom by a million units."
+    ],
+    "html": null
+  }
+}

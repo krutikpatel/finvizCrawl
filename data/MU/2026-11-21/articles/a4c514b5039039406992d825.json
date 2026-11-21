@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-slides-over-14-bearish-165900879.html",
+    "fetched_at": "2026-11-21T07:00:16.495160-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SanDisk slides over 14% as bearish NAND pricing outlook hits chip stocks",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "SanDisk (Nasdaq: SNDK) shares fell over 14% to $80.68 in Friday noon trading, losing $13.72, as a bearish outlook for NAND flash memory prices in 2027 raised concerns about the company's earnings prospects.\nThe decline followed a report from memory-market research firm TrendForce forecasting that NAND contract prices could remain flat or fall by as much as 5% quarter on quarter in the first quarter of 2027, before declines spread across all product categories from the second quarter.\nTrendForce also cut its forecast for fourth-quarter 2026 NAND contract price increases to 8%–13%, from an earlier estimate of 15%–20%, while noting that spot prices had already fallen more than 20% as distributors cleared inventory.\nThe outlook is a particular concern for SanDisk because its business is entirely focused on NAND flash, leaving it more exposed to a downturn in memory pricing than diversified chipmakers such as Micron.\nSanDisk has committed approximately half of its fiscal 2027 NAND bit supply and two-thirds of its fiscal 2028 supply through long-term agreements with hyperscale customers, although investors remain concerned about whether these contracts can protect margins if prices weaken.\nThursday's reported 87.4% plunge in SanDisk shares was a technical adjustment caused by its eight-for-one forward stock split, rather than an actual collapse.\nSanDisk Corp shares appeared to plunge 87.4% on some trading screens on Thursday, alarming investors, although the actual decline during the session was over 18%.\nThe misleading figure resulted from the company's eight-for-one forward stock split, which took effect at 4.01pm Eastern time on Thursday. The adjustment divided the price of each existing share by eight, creating an apparent fall of 87.5% when some data feeds compared the new split-adjusted price with the previous, unadjusted close.\nThe broader technology sector also weakened, with the Nasdaq falling 2.1% and the S&P 500 declining 0.9%. Micron, Western Digital, Seagate, AMD and TSMC also fell sharply, reflecting wider pressure on semiconductor valuations.",
+    "text_blocks": [
+      "SanDisk (Nasdaq: SNDK) shares fell over 14% to $80.68 in Friday noon trading, losing $13.72, as a bearish outlook for NAND flash memory prices in 2027 raised concerns about the company's earnings prospects.",
+      "The decline followed a report from memory-market research firm TrendForce forecasting that NAND contract prices could remain flat or fall by as much as 5% quarter on quarter in the first quarter of 2027, before declines spread across all product categories from the second quarter.",
+      "TrendForce also cut its forecast for fourth-quarter 2026 NAND contract price increases to 8%–13%, from an earlier estimate of 15%–20%, while noting that spot prices had already fallen more than 20% as distributors cleared inventory.",
+      "The outlook is a particular concern for SanDisk because its business is entirely focused on NAND flash, leaving it more exposed to a downturn in memory pricing than diversified chipmakers such as Micron.",
+      "SanDisk has committed approximately half of its fiscal 2027 NAND bit supply and two-thirds of its fiscal 2028 supply through long-term agreements with hyperscale customers, although investors remain concerned about whether these contracts can protect margins if prices weaken.",
+      "Thursday's reported 87.4% plunge in SanDisk shares was a technical adjustment caused by its eight-for-one forward stock split, rather than an actual collapse.",
+      "SanDisk Corp shares appeared to plunge 87.4% on some trading screens on Thursday, alarming investors, although the actual decline during the session was over 18%.",
+      "The misleading figure resulted from the company's eight-for-one forward stock split, which took effect at 4.01pm Eastern time on Thursday. The adjustment divided the price of each existing share by eight, creating an apparent fall of 87.5% when some data feeds compared the new split-adjusted price with the previous, unadjusted close.",
+      "The broader technology sector also weakened, with the Nasdaq falling 2.1% and the S&P 500 declining 0.9%. Micron, Western Digital, Seagate, AMD and TSMC also fell sharply, reflecting wider pressure on semiconductor valuations."
+    ],
+    "html": null
+  }
+}

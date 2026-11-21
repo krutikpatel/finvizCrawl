@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amazon-tech-giants-face-213447664.html",
+    "fetched_at": "2026-11-21T07:00:38.568661-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "From Nvidia To Amazon, Tech Giants Face Stunning Reversal As Nasdaq Erases 2026 Gains",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "U.S. stocks plunged Friday as a deepening sell-off in artificial intelligence companies sent Wall Street toward its worst weekly performance in more than a year, with investors increasingly concerned about technology valuations and the prospect of higher interest rates.\nThe Nasdaq Composite tumbled more than 5% in late afternoon trading, erasing its gains for 2026. The S&P 500 dropped 3.5%, while the Dow Jones Industrial Average fell 1.7%. Both the Dow and S&P 500 slipped into correction territory, trading more than 10% below their October record highs.\nThe S&P 500 was on track for its seventh consecutive losing session, marking its longest losing streak since February 2020, when the emergence of the COVID-19 pandemic rattled global financial markets.\nAll three major indexes were headed toward their worst weekly percentage losses since April 2025, when President Donald Trump's sweeping tariff announcement triggered a global market downturn. The Dow had already lost approximately 6.2% this week through Thursday's close.\nTechnology stocks were at the center of Friday's retreat, as the highly anticipated market debut of artificial intelligence developer Anthropic failed to restore confidence in a sector that had powered much of Wall Street's rally this year.\nThe company behind the Claude chatbot raised approximately $81 billion in its initial public offering on Thursday, surpassing SpaceX to become the largest IPO in history. Anthropic priced its shares at $83 and initially surged more than 30% when trading began. However, the stock surrendered much of those gains before Thursday's closing bell and continued falling Friday.\nThe disappointing performance compounded concerns about whether the enormous amounts of money flowing into AI companies and infrastructure can generate sufficient returns to justify their valuations.\nSemiconductor manufacturers suffered some of Friday's heaviest losses. Nvidia shares plunged approximately 12%, while Advanced Micro Devices, Broadcom and Micron Technology also recorded double-digit declines during the session.\nAmazon and Meta Platforms also came under pressure, while AI cloud infrastructure providers CoreWeave and Nebius recorded substantial losses. Companies benefiting indirectly from the expansion of AI infrastructure were also affected. Caterpillar shares declined amid concerns that a slowdown in data center investment could weaken demand for power generation equipment.\nThe technology rout spread internationally, with Japan's Nikkei and South Korea's Kospi both falling more than 5%. Adding to Wall Street's challenges were growing expectations that the Federal Reserve could raise interest rates again as inflation remains stubbornly elevated.",
+    "text_blocks": [
+      "U.S. stocks plunged Friday as a deepening sell-off in artificial intelligence companies sent Wall Street toward its worst weekly performance in more than a year, with investors increasingly concerned about technology valuations and the prospect of higher interest rates.",
+      "The Nasdaq Composite tumbled more than 5% in late afternoon trading, erasing its gains for 2026. The S&P 500 dropped 3.5%, while the Dow Jones Industrial Average fell 1.7%. Both the Dow and S&P 500 slipped into correction territory, trading more than 10% below their October record highs.",
+      "The S&P 500 was on track for its seventh consecutive losing session, marking its longest losing streak since February 2020, when the emergence of the COVID-19 pandemic rattled global financial markets.",
+      "All three major indexes were headed toward their worst weekly percentage losses since April 2025, when President Donald Trump's sweeping tariff announcement triggered a global market downturn. The Dow had already lost approximately 6.2% this week through Thursday's close.",
+      "Technology stocks were at the center of Friday's retreat, as the highly anticipated market debut of artificial intelligence developer Anthropic failed to restore confidence in a sector that had powered much of Wall Street's rally this year.",
+      "The company behind the Claude chatbot raised approximately $81 billion in its initial public offering on Thursday, surpassing SpaceX to become the largest IPO in history. Anthropic priced its shares at $83 and initially surged more than 30% when trading began. However, the stock surrendered much of those gains before Thursday's closing bell and continued falling Friday.",
+      "The disappointing performance compounded concerns about whether the enormous amounts of money flowing into AI companies and infrastructure can generate sufficient returns to justify their valuations.",
+      "Semiconductor manufacturers suffered some of Friday's heaviest losses. Nvidia shares plunged approximately 12%, while Advanced Micro Devices, Broadcom and Micron Technology also recorded double-digit declines during the session.",
+      "Amazon and Meta Platforms also came under pressure, while AI cloud infrastructure providers CoreWeave and Nebius recorded substantial losses. Companies benefiting indirectly from the expansion of AI infrastructure were also affected. Caterpillar shares declined amid concerns that a slowdown in data center investment could weaken demand for power generation equipment.",
+      "The technology rout spread internationally, with Japan's Nikkei and South Korea's Kospi both falling more than 5%. Adding to Wall Street's challenges were growing expectations that the Federal Reserve could raise interest rates again as inflation remains stubbornly elevated."
+    ],
+    "html": null
+  }
+}

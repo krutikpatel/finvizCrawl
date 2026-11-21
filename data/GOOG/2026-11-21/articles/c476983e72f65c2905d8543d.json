@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "GOOG",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_FV",
+    "fetched_at": "2026-11-21T07:00:25.161521-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nAlphabet just overtook Nvidia in market value for the first time in over 2 years\nNvidia is now the fourth-most valuable U.S. company, behind Apple, Microsoft and Alphabet\nA deepening selloff in Nvidia shares has sent the chip maker sliding down the ranks of the largest U.S. companies.\nAlphabet GOOGL GOOG is the latest company to overtake Nvidia NVDA in terms of market capitalization, leading Nvidia to fall to fourth place behind the Google parent company. Apple AAPL is now the world’s largest company, followed by Microsoft MSFT.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+      "Nvidia is now the fourth-most valuable U.S. company, behind Apple, Microsoft and Alphabet",
+      "A deepening selloff in Nvidia shares has sent the chip maker sliding down the ranks of the largest U.S. companies.",
+      "Alphabet GOOGL GOOG is the latest company to overtake Nvidia NVDA in terms of market capitalization, leading Nvidia to fall to fourth place behind the Google parent company. Apple AAPL is now the world’s largest company, followed by Microsoft MSFT."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-says-openai-contract-fully-224306974.html",
+    "fetched_at": "2026-11-21T07:00:22.744446-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Oracle Corporation (NYSE:ORCL) stated that it has secured the capital needed to fulfill its cloud infrastructure contract with OpenAI, describing itself as the first hyperscaler fully funded for the current artificial intelligence investment cycle. According to the company, a final capital raise earlier this month completed the financing framework previously outlined at its investor day, including vendor financing arrangements.\nAt that investor day, Oracle committed to capping additional capital markets fundraising for its fiscal 2027 through fiscal 2030 investment cycle at $20 billion, split evenly between $10 billion in equity and $10 billion in gross debt, excluding debt refinancing. That incremental capacity builds on a $20 billion at-the-market equity raise completed in the first quarter of fiscal 2027, alongside vendor financing, customer-provided hardware, and customer prepayments designed to reduce upfront cash outflows.\nThe company also preemptively addressed future media reports questioning its funding status, stating that any ongoing private discussions with suppliers are optional rather than required to meet its contractual obligations. The statement comes amid broader market scrutiny over how technology providers are financing capital expenditures that exceed current operating cash flows.\nAcross the AI sector, analysts and investors have raised questions regarding debt structures, off-balance-sheet arrangements, and circular financing models in which chipmakers, cloud providers, and AI developers finance one another's capacity expansion. In Oracle's case, market observers have focused on balance sheet leverage and customer concentration risk tied to its five-year, $300 billion computing agreement with OpenAI, which represents a substantial share of the company's remaining performance obligations.\nAlongside the financing update, Oracle provided progress markers on its physical infrastructure buildout. Construction at its Abilene campus, where OpenAI's Astra-6 model was trained, is nearing completion, the company said, while its next gigawatt-scale site in Shackelford has obtained full permitting.",
+    "text_blocks": [
+      "Investing.com -- Oracle Corporation (NYSE:ORCL) stated that it has secured the capital needed to fulfill its cloud infrastructure contract with OpenAI, describing itself as the first hyperscaler fully funded for the current artificial intelligence investment cycle. According to the company, a final capital raise earlier this month completed the financing framework previously outlined at its investor day, including vendor financing arrangements.",
+      "At that investor day, Oracle committed to capping additional capital markets fundraising for its fiscal 2027 through fiscal 2030 investment cycle at $20 billion, split evenly between $10 billion in equity and $10 billion in gross debt, excluding debt refinancing. That incremental capacity builds on a $20 billion at-the-market equity raise completed in the first quarter of fiscal 2027, alongside vendor financing, customer-provided hardware, and customer prepayments designed to reduce upfront cash outflows.",
+      "The company also preemptively addressed future media reports questioning its funding status, stating that any ongoing private discussions with suppliers are optional rather than required to meet its contractual obligations. The statement comes amid broader market scrutiny over how technology providers are financing capital expenditures that exceed current operating cash flows.",
+      "Across the AI sector, analysts and investors have raised questions regarding debt structures, off-balance-sheet arrangements, and circular financing models in which chipmakers, cloud providers, and AI developers finance one another's capacity expansion. In Oracle's case, market observers have focused on balance sheet leverage and customer concentration risk tied to its five-year, $300 billion computing agreement with OpenAI, which represents a substantial share of the company's remaining performance obligations.",
+      "Alongside the financing update, Oracle provided progress markers on its physical infrastructure buildout. Construction at its Abilene campus, where OpenAI's Astra-6 model was trained, is nearing completion, the company said, while its next gigawatt-scale site in Shackelford has obtained full permitting."
+    ],
+    "html": null
+  }
+}

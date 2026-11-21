@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026/card/here-are-the-nasdaq-stocks-getting-hit-the-hardest-today-k15GUuTwjaWZSTDWpLNG?mod=wsj_FV",
+    "fetched_at": "2026-11-21T07:00:16.211030-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Here Are the Nasdaq Stocks Getting Hit the Hardest Today",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "Updated 9 hours ago\nHere Are the Nasdaq Stocks Getting Hit the Hardest Today\nIt was a bloodbath out there for Nasdaq stocks. The Nasdaq Composite Index finished lower 5.3% and ended the week with a 10% tumble. Here were some of the hardest hit stocks in the index today.",
+    "text_blocks": [
+      "Updated 9 hours ago",
+      "Here Are the Nasdaq Stocks Getting Hit the Hardest Today",
+      "It was a bloodbath out there for Nasdaq stocks. The Nasdaq Composite Index finished lower 5.3% and ended the week with a 10% tumble. Here were some of the hardest hit stocks in the index today."
+    ],
+    "html": null
+  }
+}

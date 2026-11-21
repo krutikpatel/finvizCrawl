@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90?mod=bar_FV",
+    "fetched_at": "2026-11-21T07:00:42.860113-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "The Fear Gauge Hit 40. What the Market Is Worried About.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.\nThe market’s fear gauge—the Cboe Volatility Index, or VIX—hit 40 on Friday and closed at 37.66, up 32% on the day. That means two things: Investors no longer believe artificial-intelligence numbers and, as hard as it is to believe, the end of the selling is likely near.",
+    "text_blocks": [
+      "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
+      "The market’s fear gauge—the Cboe Volatility Index, or VIX—hit 40 on Friday and closed at 37.66, up 32% on the day. That means two things: Investors no longer believe artificial-intelligence numbers and, as hard as it is to believe, the end of the selling is likely near."
+    ],
+    "html": null
+  }
+}

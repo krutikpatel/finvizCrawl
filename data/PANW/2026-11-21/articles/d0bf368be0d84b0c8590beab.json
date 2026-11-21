@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/tech-stocks-down-cybersecurity-stocks-50f7140f?mod=bar_FV",
+    "fetched_at": "2026-11-21T07:00:45.189921-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tech Stocks Collapsed This Week. These Cybersecurity Stocks Escaped.<!-- --> - Barron's",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.barrons.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks Collapsed This Week. 4 Cybersecurity Stocks Escaped.\nThis week’s technology selloff is breaking every corner of the sector except one: cybersecurity.\nThis week’s technology selloff is breaking every corner of the sector except one: cybersecurity.",
+    "text_blocks": [
+      "Tech Stocks Collapsed This Week. 4 Cybersecurity Stocks Escaped.",
+      "This week’s technology selloff is breaking every corner of the sector except one: cybersecurity.",
+      "This week’s technology selloff is breaking every corner of the sector except one: cybersecurity."
+    ],
+    "html": null
+  }
+}

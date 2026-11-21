@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_FV",
+    "fetched_at": "2026-11-21T07:00:22.411417-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S. - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.\nCandidates rode opposition to data centers to wins in the midterms, making company leaders and investors wary of the industry’s future here\nThe companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.\nNow, President Donald Trump may be trying to upend their plans, citing fears that locating data centers outside the U.S. could give China an edge in the AI race.",
+    "text_blocks": [
+      "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
+      "Candidates rode opposition to data centers to wins in the midterms, making company leaders and investors wary of the industry’s future here",
+      "The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.",
+      "Now, President Donald Trump may be trying to upend their plans, citing fears that locating data centers outside the U.S. could give China an edge in the AI race."
+    ],
+    "html": null
+  }
+}

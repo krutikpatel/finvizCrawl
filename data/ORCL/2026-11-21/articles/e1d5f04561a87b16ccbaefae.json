@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "ORCL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-slides-6-bernstein-180438407.html",
+    "fetched_at": "2026-11-21T07:00:22.733837-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Oracle Stock Slides 6%, but Bernstein Says It’s Worth $133 Even if Its AI Data-Center Business Fails",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nOracle Corp. (NYSE:ORCL) fell more than 6% Friday, but Bernstein argues investors are overlooking what would survive a failed AI expansion: its databases, business software and conventional cloud operations.\nBernstein analyst Mark Moerdler estimates those businesses could support a $133 share price even if Oracle's AI data-center revenue disappeared, its hardware became worthless and the company still had to pay the debt incurred to build it.\nOracle traded at $103 Friday morning as chipmakers led another day of selling in AI stocks. That's below the $133 Moerdler thinks it would be worth even after a failed AI expansion.\nWhat Remains After an AI Failure?\nBernstein expects Oracle's databases, business software and conventional cloud services to keep earning money even if its AI data-center business fails. Its calculation values those surviving businesses at roughly 25 times their expected earnings over the next year.\nIn that scenario, Oracle would still have to pay for data centers its AI customers no longer use, and Moerdler says investors may already assume Oracle cannot find replacement tenants, leaving it \"holding the proverbial bag\" on about $288 billion in lease commitments.\nBut he thinks Oracle could find other cloud customers to fill those facilities. The payments also stretch over leases lasting as long as 19 years, spreading the bill rather than making it payable all at once.\nThat argument depends on demand surviving elsewhere. His $133 estimate does not cover a worldwide collapse in generative AI demand, which could make finding replacement customers much harder.\nShares Fall Below the Offering Price\nOracle priced $10 billion of new shares at $116 on Nov. 2, alongside $10 billion of bonds carrying interest rates of 7% to 8.65%.\nFriday's price leaves those shares almost 11% below the offering price.\nTraders Price a Broader Downturn\nOn Polymarket, traders put the chance of an AI industry downturn, as the contract defines it, at approximately 26% by June 30th, 2027, with $198,000 traded.\nThe contract requires three of six triggers in the same 90-day period, including steep stock-price declines and falling computing rental prices. It measures financial stress across the industry, rather than the complete global AI failure Bernstein excludes.\nMoerdler remains bullish, with an Outperform rating, equivalent to a buy, and a $325 price target, more than three times Friday's share price.",
+    "text_blocks": [
+      "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "Oracle Corp. (NYSE:ORCL) fell more than 6% Friday, but Bernstein argues investors are overlooking what would survive a failed AI expansion: its databases, business software and conventional cloud operations.",
+      "Bernstein analyst Mark Moerdler estimates those businesses could support a $133 share price even if Oracle's AI data-center revenue disappeared, its hardware became worthless and the company still had to pay the debt incurred to build it.",
+      "Oracle traded at $103 Friday morning as chipmakers led another day of selling in AI stocks. That's below the $133 Moerdler thinks it would be worth even after a failed AI expansion.",
+      "What Remains After an AI Failure?",
+      "Bernstein expects Oracle's databases, business software and conventional cloud services to keep earning money even if its AI data-center business fails. Its calculation values those surviving businesses at roughly 25 times their expected earnings over the next year.",
+      "In that scenario, Oracle would still have to pay for data centers its AI customers no longer use, and Moerdler says investors may already assume Oracle cannot find replacement tenants, leaving it \"holding the proverbial bag\" on about $288 billion in lease commitments.",
+      "But he thinks Oracle could find other cloud customers to fill those facilities. The payments also stretch over leases lasting as long as 19 years, spreading the bill rather than making it payable all at once.",
+      "That argument depends on demand surviving elsewhere. His $133 estimate does not cover a worldwide collapse in generative AI demand, which could make finding replacement customers much harder.",
+      "Shares Fall Below the Offering Price",
+      "Oracle priced $10 billion of new shares at $116 on Nov. 2, alongside $10 billion of bonds carrying interest rates of 7% to 8.65%.",
+      "Friday's price leaves those shares almost 11% below the offering price.",
+      "Traders Price a Broader Downturn",
+      "On Polymarket, traders put the chance of an AI industry downturn, as the contract defines it, at approximately 26% by June 30th, 2027, with $198,000 traded.",
+      "The contract requires three of six triggers in the same 90-day period, including steep stock-price declines and falling computing rental prices. It measures financial stress across the industry, rather than the complete global AI failure Bernstein excludes.",
+      "Moerdler remains bullish, with an Outperform rating, equivalent to a buy, and a $325 price target, more than three times Friday's share price."
+    ],
+    "html": null
+  }
+}

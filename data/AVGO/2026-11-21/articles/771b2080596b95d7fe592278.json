@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/sandisk-shares-begin-trading-at-8-for-1-split-stock-sinks-as-chip-sector-sells-off-142041917.html",
+    "fetched_at": "2026-11-21T07:00:30.184703-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Sandisk stock begins trading at 8-for-1 split, shares sink",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Shares of memory and storage maker Sandisk (SNDK) slumped as much as 14% Friday following an 8-for-1 stock split.\nThe stock split took effect after the market closed on Thursday. Shares closed just north of $755 in the prior session.\nLast month, Sandisk announced that shareholders would receive seven additional shares for each one held as of Nov. 9. The split does not change the total value of an investor's holdings, but reduces the per-share price to one-eighth of its pre-split level.\nThe rest of the AI infrastructure trade was under pressure Friday. Chip giant Nvidia (NVDA) fell 7% on Friday, putting its five-day losses at roughly 16%. Peers AMD (AMD) and Broadcom (AVGO) each dropped over 11% during the session, bringing AMD's weekly decline to about 19%.\nMemory chipmaker Micron Technology (MU) dropped 13% on Friday, bringing its losses over the past five sessions to roughly 22%.",
+    "text_blocks": [
+      "Shares of memory and storage maker Sandisk (SNDK) slumped as much as 14% Friday following an 8-for-1 stock split.",
+      "The stock split took effect after the market closed on Thursday. Shares closed just north of $755 in the prior session.",
+      "Last month, Sandisk announced that shareholders would receive seven additional shares for each one held as of Nov. 9. The split does not change the total value of an investor's holdings, but reduces the per-share price to one-eighth of its pre-split level.",
+      "The rest of the AI infrastructure trade was under pressure Friday. Chip giant Nvidia (NVDA) fell 7% on Friday, putting its five-day losses at roughly 16%. Peers AMD (AMD) and Broadcom (AVGO) each dropped over 11% during the session, bringing AMD's weekly decline to about 19%.",
+      "Memory chipmaker Micron Technology (MU) dropped 13% on Friday, bringing its losses over the past five sessions to roughly 22%."
+    ],
+    "html": null
+  }
+}

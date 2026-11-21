@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/robinhood-faces-shareholder-challenge-sec-110523692.html",
+    "fetched_at": "2026-11-21T07:00:19.851287-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Robinhood faces shareholder challenge as SEC loosens proxy oversight",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Ross Kerber\nNov 20 (Reuters) - A shareholder activist group called for online brokerage Robinhood to review its proxy-voting platform, concerned that retail investors aren't getting fair choices as financial regulators weaken balloting rules for corporate annual meetings.\nRobinhood and its Say investor-communications arm are at the center of changes coming to contests like director elections or CEO pay approvals. Robinhood worked with Tesla to create a way for retail investors to cast their ballots automatically that won approval from the US Securities and Exchange Commission in September.\nBackers say such retail-voting plans will increase retail investors' voting participation rates, even as the SEC takes steps that could eliminate shareholder proposals at corporate meetings. Critics say Tesla and others like ExxonMobil are designing their programs to unfairly channel votes in favor of management recommendations.\nA shareholder resolution filed with Robinhood for its next annual meeting, seen by Reuters, could spark debate about the role of investor rights. In the resolution the activist group As You Sow says Robinhood limits customers to using its own voting platform that requires a \"painstaking and time-consuming challenge\" to vote on individual corporate ballot items, rather than using third-party voting services.\nIt also notes Robinhood's work with Tesla's management-friendly voting option. The limited voting choices create legal and reputational risks, said As You Sow in its resolution, which calls for Robinhood to review offering clients more ways to vote, \"including an independent voting service of their choice.\"\nAs You Sow leaders said ideally Robinhood might offer something like Vanguard's voting program which casts prorated shares of funds' votes according to investors' preferences. Vanguard clients can select among voting policies like one that tends to support environmental and social shareholder resolutions, or one that supports management recommendations.\nRobinhood \"shouldn't be limiting choices,\" said Danielle Fugere, As You Sow president, in an interview. \"You should get to choose. That's what voting is all about.\"\nRobinhood representatives did not respond to messages seeking comment.\n(Reporting by Ross Kerber; Editing by Sonali Paul)",
+    "text_blocks": [
+      "By Ross Kerber",
+      "Nov 20 (Reuters) - A shareholder activist group called for online brokerage Robinhood to review its proxy-voting platform, concerned that retail investors aren't getting fair choices as financial regulators weaken balloting rules for corporate annual meetings.",
+      "Robinhood and its Say investor-communications arm are at the center of changes coming to contests like director elections or CEO pay approvals. Robinhood worked with Tesla to create a way for retail investors to cast their ballots automatically that won approval from the US Securities and Exchange Commission in September.",
+      "Backers say such retail-voting plans will increase retail investors' voting participation rates, even as the SEC takes steps that could eliminate shareholder proposals at corporate meetings. Critics say Tesla and others like ExxonMobil are designing their programs to unfairly channel votes in favor of management recommendations.",
+      "A shareholder resolution filed with Robinhood for its next annual meeting, seen by Reuters, could spark debate about the role of investor rights. In the resolution the activist group As You Sow says Robinhood limits customers to using its own voting platform that requires a \"painstaking and time-consuming challenge\" to vote on individual corporate ballot items, rather than using third-party voting services.",
+      "It also notes Robinhood's work with Tesla's management-friendly voting option. The limited voting choices create legal and reputational risks, said As You Sow in its resolution, which calls for Robinhood to review offering clients more ways to vote, \"including an independent voting service of their choice.\"",
+      "As You Sow leaders said ideally Robinhood might offer something like Vanguard's voting program which casts prorated shares of funds' votes according to investors' preferences. Vanguard clients can select among voting policies like one that tends to support environmental and social shareholder resolutions, or one that supports management recommendations.",
+      "Robinhood \"shouldn't be limiting choices,\" said Danielle Fugere, As You Sow president, in an interview. \"You should get to choose. That's what voting is all about.\"",
+      "Robinhood representatives did not respond to messages seeking comment.",
+      "(Reporting by Ross Kerber; Editing by Sonali Paul)"
+    ],
+    "html": null
+  }
+}

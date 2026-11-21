@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/apples-secret-ai-agent-shows-john-ternus-is-done-sitting-out-the-ai-race-164226953.html",
+    "fetched_at": "2026-11-21T07:00:13.025655-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple's secret AI agent shows John Ternus is done sitting out the AI race",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Apple (AAPL) scrubbed a job listing by Friday that showed it building its own AI agent. By then, Meta (META) and Anthropic (ANT) stock had already slid on what the post revealed.\nThe listing described \"an AI agent that can use a computer the way a capable person does,\" browsing the web, working across apps, and writing code, Bloomberg's Mark Gurman reported Thursday.\nThen it vanished. \"Apple killed the job listing, which is typical when they reveal too much about future plans,\" Gurman posted on X.\nIt's the clearest sign yet that Apple is done watching the AI boom from the bleachers. John Ternus, who replaced Tim Cook as CEO on Sept. 1, has been pressing software chief Craig Federighi to move faster, Bloomberg reported this month. Apple is aiming for a launch as soon as late next year.\nInvestors didn't wait. Anthropic stock fell nearly 5% in late trading Thursday after the report, below the low of its first session as a public company. Meta stock fell about 1%, while Apple shares rose Thursday evening. On Friday, Apple was holding up far better than Meta and the Nasdaq-100 (^NDX) as tech sold off.\nThe worry sits on Apple's own App Store shelf. AI assistants from its rivals hold four of the marketplace's top six free apps, led by Meta's Muse agent at No. 2. \"Over 10 million people activating in the span of 45 days. I mean, that's pretty incredible,\" AMD (AMD) CEO Lisa Su told Yahoo Finance about Muse.\nApple has been easing in all year, picking Google's (GOOG, GOOGL) Gemini to power the new Siri in January. \"As far as agentic capabilities, we think these are promising tools for users,\" Ternus said on his first earnings call as CEO.\nApple also controls the door. Its next Mac update will require users to click through 14 steps to let ChatGPT run their computer, up from four today, Bloomberg reported.\nIs Apple still behind in AI?\nSomebody still has to pay for the AI build-out. So far, it isn't Apple.\nApple's capital spending, or capex — what a company spends on long-lasting assets like buildings and equipment — fell nearly 30% to about $9 billion in its latest fiscal year. Meanwhile, Microsoft (MSFT), Meta, Alphabet, and Amazon (AMZN) spent more than $600 billion over four quarters.\nApple's research budget jumped about $11 billion, more than its entire capex bill. For the heavy lifting, it rents, paying Google about $1 billion a year for Gemini, according to Bloomberg.\nAn agent could change that math. Agents grind through multistep tasks in the background, which takes far more computing than answering a question. CFO Kevan Parekh said Apple is \"in very, very early stages of understanding the kind of mix of those costs.\"",
+    "text_blocks": [
+      "Apple (AAPL) scrubbed a job listing by Friday that showed it building its own AI agent. By then, Meta (META) and Anthropic (ANT) stock had already slid on what the post revealed.",
+      "The listing described \"an AI agent that can use a computer the way a capable person does,\" browsing the web, working across apps, and writing code, Bloomberg's Mark Gurman reported Thursday.",
+      "Then it vanished. \"Apple killed the job listing, which is typical when they reveal too much about future plans,\" Gurman posted on X.",
+      "It's the clearest sign yet that Apple is done watching the AI boom from the bleachers. John Ternus, who replaced Tim Cook as CEO on Sept. 1, has been pressing software chief Craig Federighi to move faster, Bloomberg reported this month. Apple is aiming for a launch as soon as late next year.",
+      "Investors didn't wait. Anthropic stock fell nearly 5% in late trading Thursday after the report, below the low of its first session as a public company. Meta stock fell about 1%, while Apple shares rose Thursday evening. On Friday, Apple was holding up far better than Meta and the Nasdaq-100 (^NDX) as tech sold off.",
+      "The worry sits on Apple's own App Store shelf. AI assistants from its rivals hold four of the marketplace's top six free apps, led by Meta's Muse agent at No. 2. \"Over 10 million people activating in the span of 45 days. I mean, that's pretty incredible,\" AMD (AMD) CEO Lisa Su told Yahoo Finance about Muse.",
+      "Apple has been easing in all year, picking Google's (GOOG, GOOGL) Gemini to power the new Siri in January. \"As far as agentic capabilities, we think these are promising tools for users,\" Ternus said on his first earnings call as CEO.",
+      "Apple also controls the door. Its next Mac update will require users to click through 14 steps to let ChatGPT run their computer, up from four today, Bloomberg reported.",
+      "Is Apple still behind in AI?",
+      "Somebody still has to pay for the AI build-out. So far, it isn't Apple.",
+      "Apple's capital spending, or capex — what a company spends on long-lasting assets like buildings and equipment — fell nearly 30% to about $9 billion in its latest fiscal year. Meanwhile, Microsoft (MSFT), Meta, Alphabet, and Amazon (AMZN) spent more than $600 billion over four quarters.",
+      "Apple's research budget jumped about $11 billion, more than its entire capex bill. For the heavy lifting, it rents, paying Google about $1 billion a year for Gemini, according to Bloomberg.",
+      "An agent could change that math. Agents grind through multistep tasks in the background, which takes far more computing than answering a question. CFO Kevan Parekh said Apple is \"in very, very early stages of understanding the kind of mix of those costs.\""
+    ],
+    "html": null
+  }
+}

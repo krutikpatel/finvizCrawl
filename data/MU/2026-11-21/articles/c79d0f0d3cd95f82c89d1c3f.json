@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MU",
+  "source": {
+    "name": "article",
+    "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_FV",
+    "fetched_at": "2026-11-21T07:00:16.194158-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag - MarketWatch",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.marketwatch.com",
+    "language": null
+  },
+  "content": {
+    "text": "Tech Stocks\nMicron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag\nCheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts\nMemory stocks were among the biggest decliners as the technology sector bled red ink on Friday.\nShares of Micron Technology MU closed down 14% on Friday, while shares of Sandisk SNDK fell 16%. Western Digital’s stock WDC sank 12%.",
+    "text_blocks": [
+      "Tech Stocks",
+      "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+      "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts",
+      "Memory stocks were among the biggest decliners as the technology sector bled red ink on Friday.",
+      "Shares of Micron Technology MU closed down 14% on Friday, while shares of Sandisk SNDK fell 16%. Western Digital’s stock WDC sank 12%."
+    ],
+    "html": null
+  }
+}

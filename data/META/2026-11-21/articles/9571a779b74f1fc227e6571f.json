@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026/card/one-potential-factor-weighing-on-meta-shares-today-a-job-posting-at-apple-R0uFVdRzJuMw532CGiQe?mod=wsj_FV",
+    "fetched_at": "2026-11-21T07:00:12.788763-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "One Potential Factor Weighing on Meta Today: a Job Posting at Apple",
+    "byline": null,
+    "published_at": null,
+    "site_name": "www.wsj.com",
+    "language": null
+  },
+  "content": {
+    "text": "21 hours ago\nOne Potential Factor Weighing on Meta Today: a Job Posting at Apple\nWhile the slide in Anthropic shares and broader tech selloff are dragging down Meta’s stock (down about 4% today), a new competitive threat from Apple may also be having an impact.\nAn Apple job posting from this week suggests the company might be aiming to build a tool similar to Meta’s viral Muse AI agent tool.\nThe posting for a “Senior Engineering Manager, Agentic AI – Proactive” that went up earlier this week read as follows:",
+    "text_blocks": [
+      "21 hours ago",
+      "One Potential Factor Weighing on Meta Today: a Job Posting at Apple",
+      "While the slide in Anthropic shares and broader tech selloff are dragging down Meta’s stock (down about 4% today), a new competitive threat from Apple may also be having an impact.",
+      "An Apple job posting from this week suggests the company might be aiming to build a tool similar to Meta’s viral Muse AI agent tool.",
+      "The posting for a “Senior Engineering Manager, Agentic AI – Proactive” that went up earlier this week read as follows:"
+    ],
+    "html": null
+  }
+}
