@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/u-chip-stocks-fall-premarket-121456516.html",
+    "fetched_at": "2026-11-24T07:00:27.274849-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "U.S. chip stocks fall premarket after Nvidia-led rally on Huang’s return",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- U.S. chip stocks slid in premarket trading Tuesday, giving back part of a sharp rally a day earlier that was sparked by Nvidia's decision to reinstate Jensen Huang as chief executive.\nNvidia shares fell more than 4% before the opening bell by 06:48 ET (11:48 GMT). The stock had surged 31.5% on Monday, adding nearly $1 trillion to the company's market value, after the board announced Huang's return. He had resigned Nov. 12 following revelations of extramarital affairs, including one with an alleged Chinese spy.\nOther chipmakers also retreated. Intel and Micron slumped more than 6%, Marvell shed 4.4%, ARM dropped 4.1%, while AMD, Applied Materials, and Lam Research lost more than 3%. Broadcom and Texas instruments fell more than 5%.\nNeocloud and data center companies, which jumped on Monday, also slipped. CoreWeave and Nebius fell about 5% each, while IREN slid 4.1%.\nU.S. stock futures also pointed lower as investors looked ahead to this week's inflation data, the last major reading on monetary policy before the Federal Reserve's December meeting.\nThe S&P 500 and the Nasdaq Composite posted their biggest one-day gains since April 2025 on Monday, when President Donald Trump paused his sweeping \"Liberation Day\" tariffs.\nBefore Monday's rebound, AI-linked stocks had struggled for weeks as investors questioned the sector's debt-fueled spending and the returns it could generate. Concerns about possible regulatory scrutiny after the Democrats' midterm sweep, along with Huang's exit, added to the unease.\nQuestions remain over how much Huang's return resolves but Monday's rally showed that investors see him as central to Nvidia, and Nvidia as central to the AI trade.\nOriginal Article\nU.S. chip stocks fall premarket after Nvidia-led rally on Huang's return\nWill Jensen's return act as a clearing event for chip stocks?\nAnthropic briefly falls below IPO price in premarket trading",
+    "text_blocks": [
+      "Investing.com -- U.S. chip stocks slid in premarket trading Tuesday, giving back part of a sharp rally a day earlier that was sparked by Nvidia's decision to reinstate Jensen Huang as chief executive.",
+      "Nvidia shares fell more than 4% before the opening bell by 06:48 ET (11:48 GMT). The stock had surged 31.5% on Monday, adding nearly $1 trillion to the company's market value, after the board announced Huang's return. He had resigned Nov. 12 following revelations of extramarital affairs, including one with an alleged Chinese spy.",
+      "Other chipmakers also retreated. Intel and Micron slumped more than 6%, Marvell shed 4.4%, ARM dropped 4.1%, while AMD, Applied Materials, and Lam Research lost more than 3%. Broadcom and Texas instruments fell more than 5%.",
+      "Neocloud and data center companies, which jumped on Monday, also slipped. CoreWeave and Nebius fell about 5% each, while IREN slid 4.1%.",
+      "U.S. stock futures also pointed lower as investors looked ahead to this week's inflation data, the last major reading on monetary policy before the Federal Reserve's December meeting.",
+      "The S&P 500 and the Nasdaq Composite posted their biggest one-day gains since April 2025 on Monday, when President Donald Trump paused his sweeping \"Liberation Day\" tariffs.",
+      "Before Monday's rebound, AI-linked stocks had struggled for weeks as investors questioned the sector's debt-fueled spending and the returns it could generate. Concerns about possible regulatory scrutiny after the Democrats' midterm sweep, along with Huang's exit, added to the unease.",
+      "Questions remain over how much Huang's return resolves but Monday's rally showed that investors see him as central to Nvidia, and Nvidia as central to the AI trade.",
+      "Original Article",
+      "U.S. chip stocks fall premarket after Nvidia-led rally on Huang's return",
+      "Will Jensen's return act as a clearing event for chip stocks?",
+      "Anthropic briefly falls below IPO price in premarket trading"
+    ],
+    "html": null
+  }
+}

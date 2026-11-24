@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/crowdstrike-buying-zscaler-cybersecurity-consolidates-153957978.html",
+    "fetched_at": "2026-11-24T07:00:41.424341-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CrowdStrike buying Zscaler as cybersecurity consolidates",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "CrowdStrike on Monday said it's agreed to acquire cybersecurity firm Zscaler for around $43.9 billion in stock.\nWhy it matters: Cyber consolidation is accelerating as companies seek to defend against both AI-enabled threats and AI-discovered security holes.\nBy the numbers: Zscaler shareholders will receive an implied value of $260.41 per share, which represents a 34% premium to Friday's closing price.\nGo deeper, via Bloomberg: \"The deal will pitch CrowdStrike into greater competition with Palo Alto Networks and Microsoft and underscores the shift toward a smaller number of companies protecting more of the world's computers and networks.\"\nAI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com.",
+    "text_blocks": [
+      "CrowdStrike on Monday said it's agreed to acquire cybersecurity firm Zscaler for around $43.9 billion in stock.",
+      "Why it matters: Cyber consolidation is accelerating as companies seek to defend against both AI-enabled threats and AI-discovered security holes.",
+      "By the numbers: Zscaler shareholders will receive an implied value of $260.41 per share, which represents a 34% premium to Friday's closing price.",
+      "Go deeper, via Bloomberg: \"The deal will pitch CrowdStrike into greater competition with Palo Alto Networks and Microsoft and underscores the shift toward a smaller number of companies protecting more of the world's computers and networks.\"",
+      "AI is moving fast. Axios AI+ keeps you ahead. Sign up free at Axios.com."
+    ],
+    "html": null
+  }
+}

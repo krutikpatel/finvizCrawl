@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/meta-launches-muse-ai-agent-141243273.html",
+    "fetched_at": "2026-11-24T07:00:10.507732-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Meta launches Muse AI agent in UK with several retail partners",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Meta has launched its personal AI agent, Muse, in the UK, with retailers including Sainsbury's, Argos and Debenhams Group among its connector partners.\nThe UK connector partners also include Marks & Spencer, Currys, Ocado Retail, ASOS, LOOKFANTASTIC, MyProtein and JD Sports, alongside travel and services brands Trainline, Jet2, easyJet and JustPark.\nMeta said that with some partners, users can connect a personal account so Muse can reorder their usual shop or pull up a booking.\nWith others, Muse can navigate the retailers' website from launch to help users find products and complete tasks.\nMeta UK country director Shruti Dube: \"I'm thrilled that millions of Brits will now have access to a personal agent that they control and that gets things done on their behalf.\n\"Partnering with beloved British brands and retailers means Muse works seamlessly with services people here use every day, making everything from the weekly shop to sorting out their travel needs easier.\"\nOn payments, Muse can check out using Link, built by Stripe, which generates a unique digital version of a user's card that is accessible only to agents using Link.\nIt can also use Shop Pay from Shopify at supported stores, drawing on payment and shipping details already saved there.\nMeta said PayPal – the US digital payment platform – is coming soon, and it claimed that Muse has no visibility of users' passwords or payment methods.\nMeta cited Christmas shopping and searching for a cheaper energy deal among the tasks Muse can handle.\nUsers who connect Instagram can have the agent turn a saved recipe Reel into a shopping list.\nAccording to Meta, Muse asks for approval before important actions such as making a purchase or sending an email.\nMuse runs on Muse Spark, the first model from Meta Superintelligence Labs.\nIn September, Shopify and Meta partnered to allow Muse to complete purchases on users' behalf across Shopify's merchant network.\nIn the same month, Amazon blocked Muse from operating on its platform, citing concerns over personalisation and data handling.\n\"Meta launches Muse AI agent in UK with several retail partners\" was originally created and published by Retail Insight Network, a GlobalData owned brand.",
+    "text_blocks": [
+      "Meta has launched its personal AI agent, Muse, in the UK, with retailers including Sainsbury's, Argos and Debenhams Group among its connector partners.",
+      "The UK connector partners also include Marks & Spencer, Currys, Ocado Retail, ASOS, LOOKFANTASTIC, MyProtein and JD Sports, alongside travel and services brands Trainline, Jet2, easyJet and JustPark.",
+      "Meta said that with some partners, users can connect a personal account so Muse can reorder their usual shop or pull up a booking.",
+      "With others, Muse can navigate the retailers' website from launch to help users find products and complete tasks.",
+      "Meta UK country director Shruti Dube: \"I'm thrilled that millions of Brits will now have access to a personal agent that they control and that gets things done on their behalf.",
+      "\"Partnering with beloved British brands and retailers means Muse works seamlessly with services people here use every day, making everything from the weekly shop to sorting out their travel needs easier.\"",
+      "On payments, Muse can check out using Link, built by Stripe, which generates a unique digital version of a user's card that is accessible only to agents using Link.",
+      "It can also use Shop Pay from Shopify at supported stores, drawing on payment and shipping details already saved there.",
+      "Meta said PayPal – the US digital payment platform – is coming soon, and it claimed that Muse has no visibility of users' passwords or payment methods.",
+      "Meta cited Christmas shopping and searching for a cheaper energy deal among the tasks Muse can handle.",
+      "Users who connect Instagram can have the agent turn a saved recipe Reel into a shopping list.",
+      "According to Meta, Muse asks for approval before important actions such as making a purchase or sending an email.",
+      "Muse runs on Muse Spark, the first model from Meta Superintelligence Labs.",
+      "In September, Shopify and Meta partnered to allow Muse to complete purchases on users' behalf across Shopify's merchant network.",
+      "In the same month, Amazon blocked Muse from operating on its platform, citing concerns over personalisation and data handling.",
+      "\"Meta launches Muse AI agent in UK with several retail partners\" was originally created and published by Retail Insight Network, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

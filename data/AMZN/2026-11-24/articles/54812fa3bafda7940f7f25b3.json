@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/amazon-acquire-decart-ai-optimisation-100916944.html",
+    "fetched_at": "2026-11-24T07:00:36.172784-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon to acquire Decart’s AI optimisation technology",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon has reached an agreement to acquire the proprietary technology behind the Decart Optimisation Stack (DOS).\nThe deal will also see Decart AI co-founders Moshe Shalev, Dean Leitersdorf, and Orian Leitersdorf, along with their team of AI researchers and engineers, join Amazon's workforce.\nThe company is purchasing the technology and team for $7.5bn, according to Bloomberg.\nThe transaction forms part of Amazon's broader effort to advance its investments in custom silicon and enhance AI inference for its customers.\nDecart specialises in full-stack performance optimisation that spans both hardware and software layers.\nAmazon, which operates in e-commerce and cloud computing, stated its ongoing focus on inference speed and compute efficiency, describing these as important for the future development of AI.\nThe company's custom silicon portfolio already includes products such as Graviton and Trainium, which are used in applications involving large language models, multimodal and agentic systems, and world models.\nThe two organisations began collaborating in 2025, with Decart's team working closely on Amazon's Trainium processors.\nAmazon said that the partnership produced strong performance results and revealed closely aligned priorities around compute efficiency and complex engineering challenges.\nAmazon foundational AI models, custom silicon, quantum computing senior vice president Peter DeSantis said: \"Every leap forward in AI starts with getting more out of every chip. More efficient compute means better training, better reinforcement learning, faster inference, and better models for customers at a lower cost.\n\"That's the pillar Trainium and our AI efforts are built on, and from our earliest work with Decart, we knew they were the kind of technologically fearless team who would help us push it even further.\"\nThe deal is subject to normal closing conditions, including regulatory approvals.\nDecart co-founder and CEO Dean Leitersdorf said: \"From day one, our mission has been to redefine the boundaries of what AI can do and to make it dramatically more efficient along the way.\n\"Joining Amazon gives our team the scale, the customers, and the infrastructure to pursue that mission faster than we could on our own. We're looking forward to exploring what we can build together.\"\nIn September 2026, Anthropic chose not to move forward with a deal that would have valued Decart AI at approximately $6bn, reported Bloomberg, citing sources familiar with the situation. Negotiations were underway the month before but did not progress.",
+    "text_blocks": [
+      "Amazon has reached an agreement to acquire the proprietary technology behind the Decart Optimisation Stack (DOS).",
+      "The deal will also see Decart AI co-founders Moshe Shalev, Dean Leitersdorf, and Orian Leitersdorf, along with their team of AI researchers and engineers, join Amazon's workforce.",
+      "The company is purchasing the technology and team for $7.5bn, according to Bloomberg.",
+      "The transaction forms part of Amazon's broader effort to advance its investments in custom silicon and enhance AI inference for its customers.",
+      "Decart specialises in full-stack performance optimisation that spans both hardware and software layers.",
+      "Amazon, which operates in e-commerce and cloud computing, stated its ongoing focus on inference speed and compute efficiency, describing these as important for the future development of AI.",
+      "The company's custom silicon portfolio already includes products such as Graviton and Trainium, which are used in applications involving large language models, multimodal and agentic systems, and world models.",
+      "The two organisations began collaborating in 2025, with Decart's team working closely on Amazon's Trainium processors.",
+      "Amazon said that the partnership produced strong performance results and revealed closely aligned priorities around compute efficiency and complex engineering challenges.",
+      "Amazon foundational AI models, custom silicon, quantum computing senior vice president Peter DeSantis said: \"Every leap forward in AI starts with getting more out of every chip. More efficient compute means better training, better reinforcement learning, faster inference, and better models for customers at a lower cost.",
+      "\"That's the pillar Trainium and our AI efforts are built on, and from our earliest work with Decart, we knew they were the kind of technologically fearless team who would help us push it even further.\"",
+      "The deal is subject to normal closing conditions, including regulatory approvals.",
+      "Decart co-founder and CEO Dean Leitersdorf said: \"From day one, our mission has been to redefine the boundaries of what AI can do and to make it dramatically more efficient along the way.",
+      "\"Joining Amazon gives our team the scale, the customers, and the infrastructure to pursue that mission faster than we could on our own. We're looking forward to exploring what we can build together.\"",
+      "In September 2026, Anthropic chose not to move forward with a deal that would have valued Decart AI at approximately $6bn, reported Bloomberg, citing sources familiar with the situation. Negotiations were underway the month before but did not progress."
+    ],
+    "html": null
+  }
+}

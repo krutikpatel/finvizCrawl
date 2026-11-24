@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/options/articles/house-memo-targets-officials-prediction-145539861.html",
+    "fetched_at": "2026-11-24T07:00:16.659062-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "House Memo Targets Officials’ Prediction Market Bets",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "House Oversight staff want Congress to curb officials' prediction market bets, at least on government actions and political outcomes. The November 13 memo aims those limits at officials who trade, leaving the platforms' business intact.\nThe size of that business shows in Robinhood's results. The broker's event contracts revenue rose more than sixfold year over year in Q3 2026.\nWho Congress Wants Off the Betting Slip\nThe committee opened its probe in May and widened it to five platforms in September. Staff asked Congress to consider two steps:\n-\nRestrict officials in all branches from prediction markets, through an outright ban or limits on government and political contracts.\n-\nHave platforms and regulators share the data needed to enforce those limits.\nThe limits would apply even when officials trade without inside information. The Senate already barred senators and their staff from prediction markets in April.\nThe Department of War has also barred personnel from using prediction markets for personal financial gain.\nThe memo cites three CFTC cases:\n-\nThe CFTC ordered former Congressman George Santos to pay $35,000 for manipulative trading on a Kalshi contract.\n-\nThe CFTC ordered White House teleprompter operator Gabriel Perez to pay $172,000 over Kalshi mention contracts.\n-\nThe CFTC alleges Google engineer Michele Spagnuolo made $1.2 million using nonpublic search data on Polymarket.com.\nKalshi caught the Santos and Perez trades, and Polymarket flagged the Google case. The memo says platform reporting like this has let the CFTC bring enforcement actions.\nWhy the Prediction Market Platforms Come Out Ahead\nThe memo says platforms first detected and reported most known insider trading cases themselves.\nIts final recommendation asks for information sharing so the markets can keep detecting insider trades.\nThat casts the platforms as partners in enforcing the proposed limits. Kalshi CEO Tarek Mansour had already backed insider trading bans for members of Congress.\nThe scale of the business those platforms run is easiest to see at Robinhood, which reports its event contracts revenue each quarter.\nRobinhood Shows How Big the Business Has Grown\nThe memo does not name Robinhood, which was not part of the probe. Its results are still the clearest public measure of the industry's scale, since Kalshi and Polymarket are private.\nAccording to its Q3 2026 results:\n-\nEvent contracts revenue rose more than sixfold year over year to $173 million.\n-\nCustomers traded a record 16.4 billion event contracts, more than 7x a year earlier.\n-\nCrypto revenue fell 55% year over year to $120 million.",
+    "text_blocks": [
+      "House Oversight staff want Congress to curb officials' prediction market bets, at least on government actions and political outcomes. The November 13 memo aims those limits at officials who trade, leaving the platforms' business intact.",
+      "The size of that business shows in Robinhood's results. The broker's event contracts revenue rose more than sixfold year over year in Q3 2026.",
+      "Who Congress Wants Off the Betting Slip",
+      "The committee opened its probe in May and widened it to five platforms in September. Staff asked Congress to consider two steps:",
+      "-",
+      "Restrict officials in all branches from prediction markets, through an outright ban or limits on government and political contracts.",
+      "-",
+      "Have platforms and regulators share the data needed to enforce those limits.",
+      "The limits would apply even when officials trade without inside information. The Senate already barred senators and their staff from prediction markets in April.",
+      "The Department of War has also barred personnel from using prediction markets for personal financial gain.",
+      "The memo cites three CFTC cases:",
+      "-",
+      "The CFTC ordered former Congressman George Santos to pay $35,000 for manipulative trading on a Kalshi contract.",
+      "-",
+      "The CFTC ordered White House teleprompter operator Gabriel Perez to pay $172,000 over Kalshi mention contracts.",
+      "-",
+      "The CFTC alleges Google engineer Michele Spagnuolo made $1.2 million using nonpublic search data on Polymarket.com.",
+      "Kalshi caught the Santos and Perez trades, and Polymarket flagged the Google case. The memo says platform reporting like this has let the CFTC bring enforcement actions.",
+      "Why the Prediction Market Platforms Come Out Ahead",
+      "The memo says platforms first detected and reported most known insider trading cases themselves.",
+      "Its final recommendation asks for information sharing so the markets can keep detecting insider trades.",
+      "That casts the platforms as partners in enforcing the proposed limits. Kalshi CEO Tarek Mansour had already backed insider trading bans for members of Congress.",
+      "The scale of the business those platforms run is easiest to see at Robinhood, which reports its event contracts revenue each quarter.",
+      "Robinhood Shows How Big the Business Has Grown",
+      "The memo does not name Robinhood, which was not part of the probe. Its results are still the clearest public measure of the industry's scale, since Kalshi and Polymarket are private.",
+      "According to its Q3 2026 results:",
+      "-",
+      "Event contracts revenue rose more than sixfold year over year to $173 million.",
+      "-",
+      "Customers traded a record 16.4 billion event contracts, more than 7x a year earlier.",
+      "-",
+      "Crypto revenue fell 55% year over year to $120 million."
+    ],
+    "html": null
+  }
+}

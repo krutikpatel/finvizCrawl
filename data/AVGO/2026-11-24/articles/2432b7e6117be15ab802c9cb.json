@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
+    "fetched_at": "2026-11-24T07:00:27.188194-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Nvidia (NVDA) stock retreated 8% on Tuesday, giving back some of its 31% surge from the prior session after the board of the AI chip giant reinstated Jensen Huang as CEO. Peers AMD (AMD) and Broadcom (AVGO) also declined from Monday's rebound as the overall AI trade came under renewed pressure.\nFollow live updates and reactions to Jensen Huang's return as Nvidia CEO\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, and equipment maker ASML (ASML) fell roughly 2% each while chip designer Arm Holdings (ARM) was down 4%.\nShares of memory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) also dropped more than 4%, giving back some of Monday's double-digit percentage gains. Storage and memory players SanDisk (SNDK), Seagate (STX), and Western Digital (WDC) all fell at least 5%.\nOther areas of the AI trade retreated, including neocloud providers' stocks CoreWeave (CRWV) and Nebius .",
+    "text_blocks": [
+      "Nvidia (NVDA) stock retreated 8% on Tuesday, giving back some of its 31% surge from the prior session after the board of the AI chip giant reinstated Jensen Huang as CEO. Peers AMD (AMD) and Broadcom (AVGO) also declined from Monday's rebound as the overall AI trade came under renewed pressure.",
+      "Follow live updates and reactions to Jensen Huang's return as Nvidia CEO",
+      "Shares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, and equipment maker ASML (ASML) fell roughly 2% each while chip designer Arm Holdings (ARM) was down 4%.",
+      "Shares of memory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) also dropped more than 4%, giving back some of Monday's double-digit percentage gains. Storage and memory players SanDisk (SNDK), Seagate (STX), and Western Digital (WDC) all fell at least 5%.",
+      "Other areas of the AI trade retreated, including neocloud providers' stocks CoreWeave (CRWV) and Nebius ."
+    ],
+    "html": null
+  }
+}
