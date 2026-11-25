@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-104903644.html",
+    "fetched_at": "2026-11-25T07:00:25.564227-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "U.S. chip stocks extend losses premarket as AI spending concerns resurface",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- U.S. semiconductor stocks extended their losses in premarket trading on Wednesday, as renewed doubts over the returns from massive artificial intelligence investments, fresh U.S. tariff threats and expectations of higher interest rates kept investors away from technology shares.\nNvidia fell 5.3% to $147.20, while Micron Technology dropped 5.9% to $592.88 and Advanced Micro Devices slid 5.7% to $389.69. Dell Technologies lost 7.4%, Intel fell 3.8% and Broadcom declined 3.9%. Nasdaq 100 futures dropped around 2%, while S&P 500 futures fell 1%, with Dow futures down 0.4%.\nThe latest declines extend Tuesday's selloff, when the Philadelphia Semiconductor Index plunged 7.9%, Nvidia fell 5.9% and Micron and AMD also suffered sharp losses. The Nasdaq Composite dropped 1.5%, although the Dow Jones Industrial Average gained 0.9%, highlighting the concentration of selling in technology and AI-linked shares.\nMonday's relief rally, triggered by Nvidia's reinstatement of Jensen Huang as chief executive, quickly lost momentum as investors returned to concerns over the sustainability of AI infrastructure spending.\nInvestors have increasingly questioned whether enormous, debt-funded investments in data centres and computing capacity will generate sufficient returns to justify current valuations.\nThe Wall Street Journal also reported growing concern over financing risks, with widening credit spreads and higher costs of insuring technology debt against default adding to investor caution.\nTrade uncertainty provided another headwind. The U.S. Trade Representative's office is preparing to release findings from an investigation into alleged excess industrial capacity among 16 major trading partners, including China and the European Union, potentially paving the way for additional tariffs.\nInvestors were also positioning ahead of Wednesday's U.S. personal consumption expenditures inflation report, the Federal Reserve's preferred inflation gauge, and third-quarter gross domestic product data.",
+    "text_blocks": [
+      "Investing.com -- U.S. semiconductor stocks extended their losses in premarket trading on Wednesday, as renewed doubts over the returns from massive artificial intelligence investments, fresh U.S. tariff threats and expectations of higher interest rates kept investors away from technology shares.",
+      "Nvidia fell 5.3% to $147.20, while Micron Technology dropped 5.9% to $592.88 and Advanced Micro Devices slid 5.7% to $389.69. Dell Technologies lost 7.4%, Intel fell 3.8% and Broadcom declined 3.9%. Nasdaq 100 futures dropped around 2%, while S&P 500 futures fell 1%, with Dow futures down 0.4%.",
+      "The latest declines extend Tuesday's selloff, when the Philadelphia Semiconductor Index plunged 7.9%, Nvidia fell 5.9% and Micron and AMD also suffered sharp losses. The Nasdaq Composite dropped 1.5%, although the Dow Jones Industrial Average gained 0.9%, highlighting the concentration of selling in technology and AI-linked shares.",
+      "Monday's relief rally, triggered by Nvidia's reinstatement of Jensen Huang as chief executive, quickly lost momentum as investors returned to concerns over the sustainability of AI infrastructure spending.",
+      "Investors have increasingly questioned whether enormous, debt-funded investments in data centres and computing capacity will generate sufficient returns to justify current valuations.",
+      "The Wall Street Journal also reported growing concern over financing risks, with widening credit spreads and higher costs of insuring technology debt against default adding to investor caution.",
+      "Trade uncertainty provided another headwind. The U.S. Trade Representative's office is preparing to release findings from an investigation into alleged excess industrial capacity among 16 major trading partners, including China and the European Union, potentially paving the way for additional tariffs.",
+      "Investors were also positioning ahead of Wednesday's U.S. personal consumption expenditures inflation report, the Federal Reserve's preferred inflation gauge, and third-quarter gross domestic product data."
+    ],
+    "html": null
+  }
+}

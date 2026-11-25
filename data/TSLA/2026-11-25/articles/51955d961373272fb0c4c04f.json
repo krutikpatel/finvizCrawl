@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fsd-push-europe-hits-121432255.html",
+    "fetched_at": "2026-11-25T07:00:03.038412-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Tesla’s FSD Push In Europe Hits Another Snag As EU Reportedly Delays Approval Talks Yet Again – TSLA Stock Falls Premarket",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "-\nTesla requires backing from at least 15 of the EU's 27 member states for FSD approval.\n-\nLast week, Italy became the 12th EU country to approve the technology.\n-\nTesla recently renamed FSD to Tesla Assisted Driving in Europe.\nTesla's (TSLA) push to secure European Union-wide approval for its Full Self-Driving (FSD) technology has hit another roadblock, with regulators reportedly postponing a meeting scheduled for December 1.\nA European Commission spokesperson confirmed to Reuters that the meeting would now take place on December 15.\nTSLA shares were down 2.8% at the time of writing.\nTesla Needs Backing From At Least 15 EU Countries\nThe EU's Technical Committee for Motor Vehicles (TCMV), which evaluates vehicle safety and regulatory requirements, was expected to vote on the technology after two previous meetings earlier this year ended without a vote.\nLast week, Italy became the 12th EU country to approve the technology, following the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, Czech Republic, Croatia, Slovakia, Latvia and Finland.\nHowever, Tesla requires backing from at least 15 of the bloc's 27 member states, representing 65% of its population, for EU-wide approval.\nFSD's Speeding Concerns\nSome EU countries, including France and Sweden, have raised safety concerns, particularly over the system's ability to exceed speed limits. Germany had also raised concerns about speeding and said the name FSD was misleading. However, it expressed support for a swift European approval process.\nLast month, Tesla renamed FSD to Tesla Assisted Driving (TAD) in Europe. In September, the carmaker had agreed that the system may exceed the speed limit \"slightly,\" by up to 10%. Earlier this year, Belgian advocacy group Johanna.be tested FSD and found frequent speed limit violations, sometimes up to 50% over the limit.\nThe technology still requires continuous driver supervision.\nFSD v15 Drives Wall Street Optimism\nThe regulatory delay comes days after Tesla began rolling out FSD (Supervised) v15 to select customers, with a wider rollout expected in December.\nTesla claims the latest version handles safety-critical situations 25 times better than its predecessor. The update also introduces Tesla Reality View, which shows drivers what the vehicle detects and how it plans to navigate.\nOther improvements include better recognition of animals, potholes, and road signs, along with improved speed management in poor weather conditions.",
+    "text_blocks": [
+      "-",
+      "Tesla requires backing from at least 15 of the EU's 27 member states for FSD approval.",
+      "-",
+      "Last week, Italy became the 12th EU country to approve the technology.",
+      "-",
+      "Tesla recently renamed FSD to Tesla Assisted Driving in Europe.",
+      "Tesla's (TSLA) push to secure European Union-wide approval for its Full Self-Driving (FSD) technology has hit another roadblock, with regulators reportedly postponing a meeting scheduled for December 1.",
+      "A European Commission spokesperson confirmed to Reuters that the meeting would now take place on December 15.",
+      "TSLA shares were down 2.8% at the time of writing.",
+      "Tesla Needs Backing From At Least 15 EU Countries",
+      "The EU's Technical Committee for Motor Vehicles (TCMV), which evaluates vehicle safety and regulatory requirements, was expected to vote on the technology after two previous meetings earlier this year ended without a vote.",
+      "Last week, Italy became the 12th EU country to approve the technology, following the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, Czech Republic, Croatia, Slovakia, Latvia and Finland.",
+      "However, Tesla requires backing from at least 15 of the bloc's 27 member states, representing 65% of its population, for EU-wide approval.",
+      "FSD's Speeding Concerns",
+      "Some EU countries, including France and Sweden, have raised safety concerns, particularly over the system's ability to exceed speed limits. Germany had also raised concerns about speeding and said the name FSD was misleading. However, it expressed support for a swift European approval process.",
+      "Last month, Tesla renamed FSD to Tesla Assisted Driving (TAD) in Europe. In September, the carmaker had agreed that the system may exceed the speed limit \"slightly,\" by up to 10%. Earlier this year, Belgian advocacy group Johanna.be tested FSD and found frequent speed limit violations, sometimes up to 50% over the limit.",
+      "The technology still requires continuous driver supervision.",
+      "FSD v15 Drives Wall Street Optimism",
+      "The regulatory delay comes days after Tesla began rolling out FSD (Supervised) v15 to select customers, with a wider rollout expected in December.",
+      "Tesla claims the latest version handles safety-critical situations 25 times better than its predecessor. The update also introduces Tesla Reality View, which shows drivers what the vehicle detects and how it plans to navigate.",
+      "Other improvements include better recognition of animals, potholes, and road signs, along with improved speed management in poor weather conditions."
+    ],
+    "html": null
+  }
+}

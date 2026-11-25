@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/microsoft-declares-a-code-red-in-the-middle-of-a-patchpocalypse-193740712.html",
+    "fetched_at": "2026-11-25T07:00:22.830839-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Companies are racing to patch a record number of software flaws this year. Microsoft just found out how long its own fixes take to reach the world.\nMicrosoft (MSFT) has declared a code red, its top-priority alarm, after a 24-hour outage this month, according to internal memos reported by Reuters. The goal is to fix future problems worldwide within an hour. A recent urgent fix took five to six days to reach everyone.\nThe Nov. 12-13 outage knocked out Outlook, Teams, and Copilot. The culprit was a flaw in Microsoft's own software, introduced in July, that went unnoticed for about four months. Microsoft ruled out hackers and AI agents.\nMicrosoft promises business customers that Microsoft 365 will be up 99.9% of the time, which allows about 44 minutes of downtime a month. By Yahoo Finance calculations, one 24-hour outage used up nearly three years' worth, though not every customer was down that long.\nMicrosoft stock fell 3% during premarket trading on Wednesday.\nResponders traded more than 11,000 messages across 11 Teams chats while the data they needed sat scattered across separate systems. The faulty component had \"roughly ten years' worth of acceptable failures,\" Charles Lamanna, a Microsoft executive vice president, said in a code red review.\nThe fix list includes dividing traffic by region, so trouble in one place doesn't spread everywhere, and also AI agents that comb through system data to find problems faster.\nIt all comes in the middle of what Ben Emons of FedWatch Advisors calls a \"Patchpocalypse,\" a flood of newly discovered software flaws, many found by AI, that companies have to fix. Newly reported flaws hit a record of almost 17,500 in October. Emons warned that \"every patch is a chance for something to break.\"\nSpeed is now everyone's problem. Cisco (CSCO) President Jeetu Patel told Deirdre Bosa Live on Monday that the time between a flaw going public and an attack \"is actually shrinking now, to minutes.\"\nThe numbers back him up. In 2018-19, attackers took an average of 63 days to exploit a newly revealed flaw, according to Google's Mandiant. In 2024, attacks began on average a day before a fix was even available. Mandiant estimates that head start grew to about a week in 2025.\n\"You can't just wait on these patches ... because patches are complicated. You have to bring down the system,\" Patel said. Cisco and OpenAI released a free tool Monday that puts temporary \"shields\" on systems while a fix is tested.\nOpenAI President Greg Brockman said on the same show that OpenAI once put a quarter of its production engineers on security alone, and every company should do the same.",
+    "text_blocks": [
+      "Companies are racing to patch a record number of software flaws this year. Microsoft just found out how long its own fixes take to reach the world.",
+      "Microsoft (MSFT) has declared a code red, its top-priority alarm, after a 24-hour outage this month, according to internal memos reported by Reuters. The goal is to fix future problems worldwide within an hour. A recent urgent fix took five to six days to reach everyone.",
+      "The Nov. 12-13 outage knocked out Outlook, Teams, and Copilot. The culprit was a flaw in Microsoft's own software, introduced in July, that went unnoticed for about four months. Microsoft ruled out hackers and AI agents.",
+      "Microsoft promises business customers that Microsoft 365 will be up 99.9% of the time, which allows about 44 minutes of downtime a month. By Yahoo Finance calculations, one 24-hour outage used up nearly three years' worth, though not every customer was down that long.",
+      "Microsoft stock fell 3% during premarket trading on Wednesday.",
+      "Responders traded more than 11,000 messages across 11 Teams chats while the data they needed sat scattered across separate systems. The faulty component had \"roughly ten years' worth of acceptable failures,\" Charles Lamanna, a Microsoft executive vice president, said in a code red review.",
+      "The fix list includes dividing traffic by region, so trouble in one place doesn't spread everywhere, and also AI agents that comb through system data to find problems faster.",
+      "It all comes in the middle of what Ben Emons of FedWatch Advisors calls a \"Patchpocalypse,\" a flood of newly discovered software flaws, many found by AI, that companies have to fix. Newly reported flaws hit a record of almost 17,500 in October. Emons warned that \"every patch is a chance for something to break.\"",
+      "Speed is now everyone's problem. Cisco (CSCO) President Jeetu Patel told Deirdre Bosa Live on Monday that the time between a flaw going public and an attack \"is actually shrinking now, to minutes.\"",
+      "The numbers back him up. In 2018-19, attackers took an average of 63 days to exploit a newly revealed flaw, according to Google's Mandiant. In 2024, attacks began on average a day before a fix was even available. Mandiant estimates that head start grew to about a week in 2025.",
+      "\"You can't just wait on these patches ... because patches are complicated. You have to bring down the system,\" Patel said. Cisco and OpenAI released a free tool Monday that puts temporary \"shields\" on systems while a fix is tested.",
+      "OpenAI President Greg Brockman said on the same show that OpenAI once put a quarter of its production engineers on security alone, and every company should do the same."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MRVL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-bid-zscaler-deal-202415003.html",
+    "fetched_at": "2026-11-25T07:00:45.169713-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- CrowdStrike's all-stock bid for Zscaler puts the price risk squarely on Zscaler shareholders, and the market is already pricing that in.\nScorecard\nAll figures as of Nov 24, 2:48 PM EST:\nThe Spread Tells the Story\n-\nTerms: Each Zscaler share converts into 1.135 CrowdStrike shares. That implied about $260.41 on Friday, a 34% premium, with an enterprise value near $43.9B. Closing is expected in the second half of CrowdStrike's fiscal 2028, per Investing.com Read more (Nov 24, 9:43 AM EST).\n-\nCalculation: At today's $210.10, the offer implies about $238.47 per Zscaler share, roughly 8% below Friday's value. Zscaler trades at $230.75, about 3.2% under that. Since it's all stock, Zscaler holders carry the price risk.\n-\nWhy the market is skeptical: The size is the issue. Both stocks carry flags for high EBITDA multiples in our data, and Zscaler is not profitable on a trailing basis.\nThe Case for Both Sides\n-\nBull view: CrowdStrike reported fiscal Q3 adjusted EPS of $0.34 on revenue of $1.58B, up 28%, beating estimates. Management targets $500M in annual cost savings within 18–24 months and about $1B of revenue synergies within 30 months. Guggenheim upgraded CrowdStrike to Buy, FBN raised its target to $235 and Jefferies kept a $240 target Read more (Nov 24, 2:02 AM EST).\n-\nBear view: TD Cowen downgraded Zscaler to Hold, and Freedom Broker cut its Zscaler target to $260 Read more (Nov 24, 12:32 AM EST). Integration at this scale is new for CrowdStrike, and cross-sell gains may be smaller than hoped.\nA Rough Day for the AI Complex\nThe tape adds pressure to the stock-as-currency argument. Nasdaq 100 (NDX) is at 26,184.04, down 2.10%. NVIDIA (NVDA) is down 7.55%, and Anthropic (ANT) is down 8.83%, a deeper fall than the \"slightly\" in the column. The Monday rally has largely reversed.",
+    "text_blocks": [
+      "Investing.com -- CrowdStrike's all-stock bid for Zscaler puts the price risk squarely on Zscaler shareholders, and the market is already pricing that in.",
+      "Scorecard",
+      "All figures as of Nov 24, 2:48 PM EST:",
+      "The Spread Tells the Story",
+      "-",
+      "Terms: Each Zscaler share converts into 1.135 CrowdStrike shares. That implied about $260.41 on Friday, a 34% premium, with an enterprise value near $43.9B. Closing is expected in the second half of CrowdStrike's fiscal 2028, per Investing.com Read more (Nov 24, 9:43 AM EST).",
+      "-",
+      "Calculation: At today's $210.10, the offer implies about $238.47 per Zscaler share, roughly 8% below Friday's value. Zscaler trades at $230.75, about 3.2% under that. Since it's all stock, Zscaler holders carry the price risk.",
+      "-",
+      "Why the market is skeptical: The size is the issue. Both stocks carry flags for high EBITDA multiples in our data, and Zscaler is not profitable on a trailing basis.",
+      "The Case for Both Sides",
+      "-",
+      "Bull view: CrowdStrike reported fiscal Q3 adjusted EPS of $0.34 on revenue of $1.58B, up 28%, beating estimates. Management targets $500M in annual cost savings within 18–24 months and about $1B of revenue synergies within 30 months. Guggenheim upgraded CrowdStrike to Buy, FBN raised its target to $235 and Jefferies kept a $240 target Read more (Nov 24, 2:02 AM EST).",
+      "-",
+      "Bear view: TD Cowen downgraded Zscaler to Hold, and Freedom Broker cut its Zscaler target to $260 Read more (Nov 24, 12:32 AM EST). Integration at this scale is new for CrowdStrike, and cross-sell gains may be smaller than hoped.",
+      "A Rough Day for the AI Complex",
+      "The tape adds pressure to the stock-as-currency argument. Nasdaq 100 (NDX) is at 26,184.04, down 2.10%. NVIDIA (NVDA) is down 7.55%, and Anthropic (ANT) is down 8.83%, a deeper fall than the \"slightly\" in the column. The Monday rally has largely reversed."
+    ],
+    "html": null
+  }
+}

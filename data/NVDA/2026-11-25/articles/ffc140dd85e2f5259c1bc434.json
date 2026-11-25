@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ticker": "NVDA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+    "fetched_at": "2026-11-25T07:00:30.785710-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues\nUS stocks fell on Wednesday as chip stocks extended their sell-off, the Trump administration announced new 20% tariffs, and the PCE index showed price increases picked up in October.\nThe Dow Jones Industrial Average (^DJI) dropped 2%, while the S&P 500 (^GSPC) sank 2.7%. The tech-heavy Nasdaq Composite (^IXIC) tumbled 4.1% as Wall Street's anxiety over inflation and the AI trade weighed on equities.\nStocks started the day on weaker footing as selling in semiconductor stocks continued, with Nvidia (NVDA) shares losing 8% in early trading. Despite Friday's major rally on Jensen Huang's Nvidia reinstatement, the AI trade has remained under pressure as questions about AI's profitability hammer stocks.\nThe focus on Wednesday turned to the latest Personal Consumption Expenditures index data, which showed core PCE — the Fed's preferred inflation gauge — rose to 3.3%, ahead of economists' expectations of 3.2% inflation. The reading solidified bets that the Federal Reserve will raise interest rates in December, with traders pricing in a 98% chance of a 25 basis point hike next month.\nThe Trump administration, meanwhile, unveiled new 20% tariffs targeting China, the European Union, and 12 other major US trading partners. The tariffs, which will be stacked on top of existing tariff rates, will go into effect after a public comment period — in January at the earliest.\nThe stock and bond markets will be closed tomorrow in observance of Thanksgiving and will reopen Friday for a half-day of trading.",
+    "text_blocks": [
+      "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
+      "US stocks fell on Wednesday as chip stocks extended their sell-off, the Trump administration announced new 20% tariffs, and the PCE index showed price increases picked up in October.",
+      "The Dow Jones Industrial Average (^DJI) dropped 2%, while the S&P 500 (^GSPC) sank 2.7%. The tech-heavy Nasdaq Composite (^IXIC) tumbled 4.1% as Wall Street's anxiety over inflation and the AI trade weighed on equities.",
+      "Stocks started the day on weaker footing as selling in semiconductor stocks continued, with Nvidia (NVDA) shares losing 8% in early trading. Despite Friday's major rally on Jensen Huang's Nvidia reinstatement, the AI trade has remained under pressure as questions about AI's profitability hammer stocks.",
+      "The focus on Wednesday turned to the latest Personal Consumption Expenditures index data, which showed core PCE — the Fed's preferred inflation gauge — rose to 3.3%, ahead of economists' expectations of 3.2% inflation. The reading solidified bets that the Federal Reserve will raise interest rates in December, with traders pricing in a 98% chance of a 25 basis point hike next month.",
+      "The Trump administration, meanwhile, unveiled new 20% tariffs targeting China, the European Union, and 12 other major US trading partners. The tariffs, which will be stacked on top of existing tariff rates, will go into effect after a public comment period — in January at the earliest.",
+      "The stock and bond markets will be closed tomorrow in observance of Thanksgiving and will reopen Friday for a half-day of trading."
+    ],
+    "html": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/ibm-microsoft-expand-azure-compute-114337558.html",
+    "fetched_at": "2026-11-25T07:00:22.796937-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "IBM and Microsoft expand Azure Compute Fleet integration",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "IBM and Microsoft have expanded their collaboration with the general availability of IBM Spectrum LSF and IBM Spectrum Collective provider plug-ins for Microsoft Azure Compute Fleet.\nThe plug-ins connect IBM's workload orchestration software with Azure Compute Fleet for compute-intensive workloads across hybrid environments.\nThe integration is aimed at applications including electronic design automation, computer-aided engineering, genome sequencing, molecular dynamics, AI training, fine-tuning, data analytics and AI inference.\nIBM Spectrum LSF and IBM Spectrum Collective distribute, deploy, orchestrate and optimise workloads across available computing resources.\nWith the Azure Compute Fleet integration, organisations can provision and release Azure virtual machines (VMs) automatically in response to workload requirements.\nUsers can specify several eligible Azure VM families and sizes through a single compute fleet request, including HDv2 and HXv2 instances.\nThis approach is intended to reduce dependence on one VM configuration and improve capacity availability during periods of high demand.\nThe integration also allows organisations to use discounted Azure Spot VMs for fault-tolerant workloads that can be restarted, while using pay-as-you-go capacity for workloads requiring more continuity.\nCompanies can add Azure capacity to process queued workloads during peak demand, then release those resources as demand declines.\nIBM said the plug-ins enable existing on-premises IBM Spectrum LSF and Spectrum Collective installations to extend into Azure without altering existing job-submission workflows or application scheduling practices.\nThe companies developed the native integration together to support workload orchestration across on-premises infrastructure, hyperscale cloud platforms and neocloud environments.\nSeparately, Reuters reported that Microsoft has declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after a 24-hour outage exposed shortcomings in its engineering systems and crisis response, citing internal memos.\nThe outage on 12-13 November affected governments from Australia and Japan to the US, delayed trading firms and disrupted airline communications.\nMicrosoft said the incident was not related to cyber activity or AI agents.\nMicrosoft attributed the outage to an undetected Windows scalability defect introduced in July.\nChief executive Satya Nadella publicly apologised for the disruption.\n\"IBM and Microsoft expand Azure Compute Fleet integration\" was originally created and published by Verdict, a GlobalData owned brand.",
+    "text_blocks": [
+      "IBM and Microsoft have expanded their collaboration with the general availability of IBM Spectrum LSF and IBM Spectrum Collective provider plug-ins for Microsoft Azure Compute Fleet.",
+      "The plug-ins connect IBM's workload orchestration software with Azure Compute Fleet for compute-intensive workloads across hybrid environments.",
+      "The integration is aimed at applications including electronic design automation, computer-aided engineering, genome sequencing, molecular dynamics, AI training, fine-tuning, data analytics and AI inference.",
+      "IBM Spectrum LSF and IBM Spectrum Collective distribute, deploy, orchestrate and optimise workloads across available computing resources.",
+      "With the Azure Compute Fleet integration, organisations can provision and release Azure virtual machines (VMs) automatically in response to workload requirements.",
+      "Users can specify several eligible Azure VM families and sizes through a single compute fleet request, including HDv2 and HXv2 instances.",
+      "This approach is intended to reduce dependence on one VM configuration and improve capacity availability during periods of high demand.",
+      "The integration also allows organisations to use discounted Azure Spot VMs for fault-tolerant workloads that can be restarted, while using pay-as-you-go capacity for workloads requiring more continuity.",
+      "Companies can add Azure capacity to process queued workloads during peak demand, then release those resources as demand declines.",
+      "IBM said the plug-ins enable existing on-premises IBM Spectrum LSF and Spectrum Collective installations to extend into Azure without altering existing job-submission workflows or application scheduling practices.",
+      "The companies developed the native integration together to support workload orchestration across on-premises infrastructure, hyperscale cloud platforms and neocloud environments.",
+      "Separately, Reuters reported that Microsoft has declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after a 24-hour outage exposed shortcomings in its engineering systems and crisis response, citing internal memos.",
+      "The outage on 12-13 November affected governments from Australia and Japan to the US, delayed trading firms and disrupted airline communications.",
+      "Microsoft said the incident was not related to cyber activity or AI agents.",
+      "Microsoft attributed the outage to an undetected Windows scalability defect introduced in July.",
+      "Chief executive Satya Nadella publicly apologised for the disruption.",
+      "\"IBM and Microsoft expand Azure Compute Fleet integration\" was originally created and published by Verdict, a GlobalData owned brand."
+    ],
+    "html": null
+  }
+}

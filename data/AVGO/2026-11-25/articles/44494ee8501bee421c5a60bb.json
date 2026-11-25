@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AVGO",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/articles/us-semiconductor-stocks-extend-losses-113427617.html",
+    "fetched_at": "2026-11-25T07:00:25.420686-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "US Semiconductor Stocks Extend Losses as AI Investment Concerns, Tariff Risks and Rate Expectations Weigh on Markets",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "US semiconductor and technology hardware stocks came under renewed selling pressure in premarket trading on Wednesday as investors reassessed the potential returns from artificial intelligence infrastructure investments amid rising borrowing costs and renewed trade uncertainty.\nNvidia (NASDAQ:NVDA) declined 5.3% to $147.20, while Micron Technology (NASDAQ:MU) fell 5.9% to $592.88 and Advanced Micro Devices (NASDAQ:AMD) dropped 5.7% to $389.69.\nDell Technologies (NYSE:DELL) lost 7.4%, Intel (NASDAQ:INTC) declined 3.8% and Broadcom (NASDAQ:AVGO) fell 3.9%.\nNasdaq 100 futures were down approximately 2%, while S&P 500 futures declined 1% and Dow Jones futures slipped 0.4%.\nSemiconductor Sector Extends Tuesday's Sharp Declines\nWednesday's premarket losses followed a substantial sell-off across semiconductor stocks during Tuesday's regular trading session.\nThe Philadelphia Semiconductor Index plunged 7.9%, while Nvidia shares declined 5.9%. Micron Technology and Advanced Micro Devices also recorded significant losses.\nThe Nasdaq Composite fell 1.5%, although the Dow Jones Industrial Average advanced 0.9%, reflecting the concentration of selling pressure within technology and artificial intelligence-related stocks.\nThe recovery recorded on Monday following Nvidia's reinstatement of Jensen Huang as chief executive proved short-lived, as investors returned their attention to the financial sustainability of AI infrastructure spending.\nFinancing Risks Raise Questions Over AI Investment Returns\nInvestors are increasingly assessing whether substantial debt-financed investments in data centres and computing infrastructure will generate sufficient financial returns to support current technology sector valuations.\nThe Wall Street Journal reported growing concerns surrounding financing risks, with widening credit spreads and increasing costs of insuring technology company debt against default contributing to investor caution.\nExpectations of higher interest rates have added to these concerns, particularly for highly valued growth companies and businesses undertaking substantial capital expenditure programmes.\nPotential US Tariffs and Inflation Data Add to Market Uncertainty\nTrade policy uncertainty has emerged as another source of pressure on technology shares.\nThe Office of the US Trade Representative is preparing to publish findings from an investigation into alleged excess industrial capacity across 16 major trading partners, including China and the European Union.\nThe investigation could provide a basis for additional US tariffs.",
+    "text_blocks": [
+      "US semiconductor and technology hardware stocks came under renewed selling pressure in premarket trading on Wednesday as investors reassessed the potential returns from artificial intelligence infrastructure investments amid rising borrowing costs and renewed trade uncertainty.",
+      "Nvidia (NASDAQ:NVDA) declined 5.3% to $147.20, while Micron Technology (NASDAQ:MU) fell 5.9% to $592.88 and Advanced Micro Devices (NASDAQ:AMD) dropped 5.7% to $389.69.",
+      "Dell Technologies (NYSE:DELL) lost 7.4%, Intel (NASDAQ:INTC) declined 3.8% and Broadcom (NASDAQ:AVGO) fell 3.9%.",
+      "Nasdaq 100 futures were down approximately 2%, while S&P 500 futures declined 1% and Dow Jones futures slipped 0.4%.",
+      "Semiconductor Sector Extends Tuesday's Sharp Declines",
+      "Wednesday's premarket losses followed a substantial sell-off across semiconductor stocks during Tuesday's regular trading session.",
+      "The Philadelphia Semiconductor Index plunged 7.9%, while Nvidia shares declined 5.9%. Micron Technology and Advanced Micro Devices also recorded significant losses.",
+      "The Nasdaq Composite fell 1.5%, although the Dow Jones Industrial Average advanced 0.9%, reflecting the concentration of selling pressure within technology and artificial intelligence-related stocks.",
+      "The recovery recorded on Monday following Nvidia's reinstatement of Jensen Huang as chief executive proved short-lived, as investors returned their attention to the financial sustainability of AI infrastructure spending.",
+      "Financing Risks Raise Questions Over AI Investment Returns",
+      "Investors are increasingly assessing whether substantial debt-financed investments in data centres and computing infrastructure will generate sufficient financial returns to support current technology sector valuations.",
+      "The Wall Street Journal reported growing concerns surrounding financing risks, with widening credit spreads and increasing costs of insuring technology company debt against default contributing to investor caution.",
+      "Expectations of higher interest rates have added to these concerns, particularly for highly valued growth companies and businesses undertaking substantial capital expenditure programmes.",
+      "Potential US Tariffs and Inflation Data Add to Market Uncertainty",
+      "Trade policy uncertainty has emerged as another source of pressure on technology shares.",
+      "The Office of the US Trade Representative is preparing to publish findings from an investigation into alleged excess industrial capacity across 16 major trading partners, including China and the European Union.",
+      "The investigation could provide a basis for additional US tariffs."
+    ],
+    "html": null
+  }
+}

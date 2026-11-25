@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/amazon-and-meta-are-negotiating-the-future-of-ai-shopping-consumers-arent-quite-there-yet-144215428.html",
+    "fetched_at": "2026-11-25T07:00:33.435461-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon and Meta are negotiating the future of AI shopping. Consumers aren't quite there yet.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon (AMZN) and Meta (META) are in talks to restore access to the e-commerce platform for Meta's popular personal AI agent Muse, Fortune reported Wednesday.\nAmazon blocked Muse in September to safeguard its nearly $70 billion advertising business, as AI agents could allow shoppers to bypass sponsored product listings.\nMuse is already working with Amazon rivals Walmart (WMT) and Best Buy (BBY) and is the most widely used personal AI agent. But for all the jockeying among tech giants to shape the future of online shopping, relatively few consumers are actually shopping this way.\nWhile 31% of shoppers surveyed in the US, UK, Canada, and Australia have tried a personal AI agent, only 19% of those users have used one at checkout, according to a recent Salesforce (CRM) survey. That works out to roughly 6% of those polled.\nThis holiday shopping season will be a major testing ground for agentic commerce. Salesforce expects AI to influence more than one in five holiday orders, including by helping shoppers research and discover products.\nThe question is how many shoppers will trust AI to go the final step and make purchases on their behalf.\n\"AI is more like your knowledgeable friend at the mall who can give you some advice. It's not yet the checkout counter that we all anticipate of becoming,\" PwC's Ali Furman told Yahoo Finance, with a majority of consumers using AI agents for advice to find gift ideas or compare prices, but not using the AI agent to make the purchase, instead going to a retailer's website.\nRenewed discussions between Amazon and Meta come after Walmart announced on Tuesday that its Black Friday deals can be shopped directly through Muse.\nWalmart touts that the agent can \"find items, build a basket and complete their purchase\" with a key search and price point in mind, like \"Black Friday TV deal under $500.\"\nFollow Rani Molla on X at @ranimolla or email her at rani.molla@yahooinc.com.\nFollow Brooke DiPalma on X at @BrookeDiPalma or email her at bdipalma@yahoofinance.com.",
+    "text_blocks": [
+      "Amazon (AMZN) and Meta (META) are in talks to restore access to the e-commerce platform for Meta's popular personal AI agent Muse, Fortune reported Wednesday.",
+      "Amazon blocked Muse in September to safeguard its nearly $70 billion advertising business, as AI agents could allow shoppers to bypass sponsored product listings.",
+      "Muse is already working with Amazon rivals Walmart (WMT) and Best Buy (BBY) and is the most widely used personal AI agent. But for all the jockeying among tech giants to shape the future of online shopping, relatively few consumers are actually shopping this way.",
+      "While 31% of shoppers surveyed in the US, UK, Canada, and Australia have tried a personal AI agent, only 19% of those users have used one at checkout, according to a recent Salesforce (CRM) survey. That works out to roughly 6% of those polled.",
+      "This holiday shopping season will be a major testing ground for agentic commerce. Salesforce expects AI to influence more than one in five holiday orders, including by helping shoppers research and discover products.",
+      "The question is how many shoppers will trust AI to go the final step and make purchases on their behalf.",
+      "\"AI is more like your knowledgeable friend at the mall who can give you some advice. It's not yet the checkout counter that we all anticipate of becoming,\" PwC's Ali Furman told Yahoo Finance, with a majority of consumers using AI agents for advice to find gift ideas or compare prices, but not using the AI agent to make the purchase, instead going to a retailer's website.",
+      "Renewed discussions between Amazon and Meta come after Walmart announced on Tuesday that its Black Friday deals can be shopped directly through Muse.",
+      "Walmart touts that the agent can \"find items, build a basket and complete their purchase\" with a key search and price point in mind, like \"Black Friday TV deal under $500.\"",
+      "Follow Rani Molla on X at @ranimolla or email her at rani.molla@yahooinc.com.",
+      "Follow Brooke DiPalma on X at @BrookeDiPalma or email her at bdipalma@yahoofinance.com."
+    ],
+    "html": null
+  }
+}

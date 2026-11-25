@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://qz.com/amazon-autos-uk-expansion-first-overseas-launch-112526",
+    "fetched_at": "2026-11-25T07:00:32.988779-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "403 Client Error: Forbidden for url: https://qz.com/amazon-autos-uk-expansion-first-overseas-launch-112526",
+      "context": {
+        "url": "https://qz.com/amazon-autos-uk-expansion-first-overseas-launch-112526"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

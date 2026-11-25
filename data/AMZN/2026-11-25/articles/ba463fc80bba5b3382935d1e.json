@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-meta-reportedly-talks-lift-141018682.html",
+    "fetched_at": "2026-11-25T07:00:33.433390-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Amazon may be having a change of heart about Meta's AI agent, Muse. The two tech giants are reportedly discussing a potential deal that would allow Meta's popular AI agent to connect directly to Amazon's store.\nThe talks would mark a significant reversal from just two months ago, when Muse users discovered they were unable to purchase products on Amazon and instead received an error message when attempting to check out.\nAccording to a Wednesday report by Fortune, citing people familiar with the discussions, Amazon and Meta have held multiple rounds of talks about the matter. Two key issues remain under negotiation: how search results would be presented and how advertising would be handled under a potential agreement.\nOne of Amazon's biggest concerns is how third-party shopping agents like Muse could affect its advertising business. In October, Amazon CEO Andy Jassy argued that few customers were making purchases through outside shopping agents.\nAmazon may also have been waiting for Muse to mature before agreeing to integrate it with its marketplace. If Muse places the wrong order or creates a problem with a purchase, Amazon could ultimately be left dealing with frustrated customers and unhappy sellers.\nFortune reported that executives are concerned that third-party shopping agents could weaken Amazon's direct relationship with consumers, according to people familiar with the matter.\nAny potential agreement between Amazon and Meta would reportedly require approval from both companies' CEOs, Fortune also reported.\nMeta and Amazon have not yet responded to TechCrunch's requests for comment.",
+    "text_blocks": [
+      "Amazon may be having a change of heart about Meta's AI agent, Muse. The two tech giants are reportedly discussing a potential deal that would allow Meta's popular AI agent to connect directly to Amazon's store.",
+      "The talks would mark a significant reversal from just two months ago, when Muse users discovered they were unable to purchase products on Amazon and instead received an error message when attempting to check out.",
+      "According to a Wednesday report by Fortune, citing people familiar with the discussions, Amazon and Meta have held multiple rounds of talks about the matter. Two key issues remain under negotiation: how search results would be presented and how advertising would be handled under a potential agreement.",
+      "One of Amazon's biggest concerns is how third-party shopping agents like Muse could affect its advertising business. In October, Amazon CEO Andy Jassy argued that few customers were making purchases through outside shopping agents.",
+      "Amazon may also have been waiting for Muse to mature before agreeing to integrate it with its marketplace. If Muse places the wrong order or creates a problem with a purchase, Amazon could ultimately be left dealing with frustrated customers and unhappy sellers.",
+      "Fortune reported that executives are concerned that third-party shopping agents could weaken Amazon's direct relationship with consumers, according to people familiar with the matter.",
+      "Any potential agreement between Amazon and Meta would reportedly require approval from both companies' CEOs, Fortune also reported.",
+      "Meta and Amazon have not yet responded to TechCrunch's requests for comment."
+    ],
+    "html": null
+  }
+}
