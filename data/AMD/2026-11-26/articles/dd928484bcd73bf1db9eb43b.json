@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMD",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/article/ai-trade-melts-down-as-tarrif-worries-fed-hike-odds-spook-market-alphacheck-150907700.html",
+    "fetched_at": "2026-11-26T07:00:45.403385-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Good morning. Stocks extended declines on Wednesday as the chip sector sold off and the Nasdaq 100 (^NDX) sank more than 4%. The index was on track to enter a bear market, down more than 20% from its peak.\nA new tariff announcement and hotter-than-expected inflation data raised expectations that the Federal Reserve will need to hike rates in December. That put pressure on growth stocks across the board.\nThe AI trade extended declines, with semiconductor stocks leading the Tech (XLK) sector lower. AI chip giant Nvidia (NVDA) stock retreated another 8% on Wednesday, leading a decline across 'Mag 7' stocks. Shares of AI developer Anthropic (ANT) sank 8%.\nHere's a check of the markets this morning, based on a heat map powered by Yahoo Finance's AlphaSpace.\nHere are some other notable stocks that Yahoo Finance readers are viewing this morning: SpaceX (SPCX), AMD (AMD), Microsoft (MSFT).\nClick here for the latest stock market news and in-depth analysis, including events that move stocks",
+    "text_blocks": [
+      "Good morning. Stocks extended declines on Wednesday as the chip sector sold off and the Nasdaq 100 (^NDX) sank more than 4%. The index was on track to enter a bear market, down more than 20% from its peak.",
+      "A new tariff announcement and hotter-than-expected inflation data raised expectations that the Federal Reserve will need to hike rates in December. That put pressure on growth stocks across the board.",
+      "The AI trade extended declines, with semiconductor stocks leading the Tech (XLK) sector lower. AI chip giant Nvidia (NVDA) stock retreated another 8% on Wednesday, leading a decline across 'Mag 7' stocks. Shares of AI developer Anthropic (ANT) sank 8%.",
+      "Here's a check of the markets this morning, based on a heat map powered by Yahoo Finance's AlphaSpace.",
+      "Here are some other notable stocks that Yahoo Finance readers are viewing this morning: SpaceX (SPCX), AMD (AMD), Microsoft (MSFT).",
+      "Click here for the latest stock market news and in-depth analysis, including events that move stocks"
+    ],
+    "html": null
+  }
+}

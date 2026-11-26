@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "ticker": "PANW",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-sued-over-215144369.html",
+    "fetched_at": "2026-11-26T07:00:48.126635-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Palo Alto Networks sued over alleged accounting fraud claims",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- Palo Alto Networks is facing a lawsuit from a former executive who says he was fired after raising concerns about accounting fraud at the cybersecurity company.\nDan McGill, a former regional vice president, filed a complaint Friday in the US District Court for the Southern District of New York. He alleged that company leadership encouraged resellers to issue purchase orders ahead of formal customer approval, in order to record transactions as booked sales and inflate revenue figures.\n`\nMcGill claims his superiors fabricated a story about him being involved in an altercation with a competitor's employee as a pretext to fire him.\nPalo Alto Networks has not publicly responded to the allegations. The case is listed as McGill v. Palo Alto Networks Inc., 26-cv-10391.\nThe lawsuit comes shortly after the company announced a $4.5 billion deal to acquire Applied Compute, a platform used for training and refining customized, open-weight artificial intelligence models and agents. That deal is expected to close in the fiscal third quarter of 2027.\nLast quarter, Palo Alto warned that its move toward software subscription products was pushing up cloud computing costs and putting pressure on gross margins. Chief Financial Officer Dipak Golechha said those costs were expected to grow faster than revenue in the 2027 fiscal year.\nOriginal Article\nPalo Alto Networks sued over alleged accounting fraud claims\nCathay General Bancorp stock rises on $200M buyback expansion\nEnterprise password manager 1Password reports breach of developer systems",
+    "text_blocks": [
+      "Investing.com -- Palo Alto Networks is facing a lawsuit from a former executive who says he was fired after raising concerns about accounting fraud at the cybersecurity company.",
+      "Dan McGill, a former regional vice president, filed a complaint Friday in the US District Court for the Southern District of New York. He alleged that company leadership encouraged resellers to issue purchase orders ahead of formal customer approval, in order to record transactions as booked sales and inflate revenue figures.",
+      "`",
+      "McGill claims his superiors fabricated a story about him being involved in an altercation with a competitor's employee as a pretext to fire him.",
+      "Palo Alto Networks has not publicly responded to the allegations. The case is listed as McGill v. Palo Alto Networks Inc., 26-cv-10391.",
+      "The lawsuit comes shortly after the company announced a $4.5 billion deal to acquire Applied Compute, a platform used for training and refining customized, open-weight artificial intelligence models and agents. That deal is expected to close in the fiscal third quarter of 2027.",
+      "Last quarter, Palo Alto warned that its move toward software subscription products was pushing up cloud computing costs and putting pressure on gross margins. Chief Financial Officer Dipak Golechha said those costs were expected to grow faster than revenue in the 2027 fiscal year.",
+      "Original Article",
+      "Palo Alto Networks sued over alleged accounting fraud claims",
+      "Cathay General Bancorp stock rises on $200M buyback expansion",
+      "Enterprise password manager 1Password reports breach of developer systems"
+    ],
+    "html": null
+  }
+}

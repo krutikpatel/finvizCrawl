@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "META",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-banks-prepare-4-5-183018691.html",
+    "fetched_at": "2026-11-26T07:00:11.296594-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- CoreWeave Inc's (NASDAQ:CRWV) underwriting banks are preparing to launch a $4.5 billion debt sale as early as next week, leveraging the cloud provider's artificial intelligence infrastructure contract with Meta Platforms Inc (NASDAQ:META) to secure investment-grade terms. According to Bloomberg, bankers at Morgan Stanley and Mitsubishi UFJ Financial Group Inc. are structuring the transaction, which will be backed by graphics processing units destined for a Meta-dedicated data center in Dalton, Georgia.\nProceeds from the offering will be held in an escrow account, allowing CoreWeave to draw down capital incrementally to fund hardware deployments while amortizing the debt over the life of the loan. Although CoreWeave carries a junk credit rating, the structural backing of Meta's counterparty credit is expected to earn the facility investment-grade ratings. Initial pricing discussions suggest the loan could yield between 7% and 7.5%, with early indications of interest already matching the $4.5 billion deal size.\nThe financing effort arrives amid intensifying market scrutiny over the capital intensity and long-term returns of artificial intelligence infrastructure. Broader sector sentiment has been further unsettled as billions of dollars in loans tied to Chinese technology firms were recently paused following new U.S. restrictions on chip access, threatening Asia's expanding AI debt market.\nAgainst that backdrop, CoreWeave's existing corporate debt has faced acute selling pressure despite the company beating both its own guidance and Wall Street estimates for full-year revenue earlier this month. On Wednesday, the cost to insure CoreWeave's debt against default over a five-year horizon jumped by the widest margin on record, with credit default swaps implying a greater than 70% probability of default within that timeframe.\nThe stark divergence between the company's standalone credit risk and its asset-backed borrowing capacity is underscored by secondary market trading. Trace data cited by Bloomberg shows CoreWeave's 9% senior notes due 2031 fell to record lows on Wednesday to yield 18%, more than double the anticipated yield on the Meta-tied facility, even as the company's delayed draw term loans continued to trade near par.",
+    "text_blocks": [
+      "Investing.com -- CoreWeave Inc's (NASDAQ:CRWV) underwriting banks are preparing to launch a $4.5 billion debt sale as early as next week, leveraging the cloud provider's artificial intelligence infrastructure contract with Meta Platforms Inc (NASDAQ:META) to secure investment-grade terms. According to Bloomberg, bankers at Morgan Stanley and Mitsubishi UFJ Financial Group Inc. are structuring the transaction, which will be backed by graphics processing units destined for a Meta-dedicated data center in Dalton, Georgia.",
+      "Proceeds from the offering will be held in an escrow account, allowing CoreWeave to draw down capital incrementally to fund hardware deployments while amortizing the debt over the life of the loan. Although CoreWeave carries a junk credit rating, the structural backing of Meta's counterparty credit is expected to earn the facility investment-grade ratings. Initial pricing discussions suggest the loan could yield between 7% and 7.5%, with early indications of interest already matching the $4.5 billion deal size.",
+      "The financing effort arrives amid intensifying market scrutiny over the capital intensity and long-term returns of artificial intelligence infrastructure. Broader sector sentiment has been further unsettled as billions of dollars in loans tied to Chinese technology firms were recently paused following new U.S. restrictions on chip access, threatening Asia's expanding AI debt market.",
+      "Against that backdrop, CoreWeave's existing corporate debt has faced acute selling pressure despite the company beating both its own guidance and Wall Street estimates for full-year revenue earlier this month. On Wednesday, the cost to insure CoreWeave's debt against default over a five-year horizon jumped by the widest margin on record, with credit default swaps implying a greater than 70% probability of default within that timeframe.",
+      "The stark divergence between the company's standalone credit risk and its asset-backed borrowing capacity is underscored by secondary market trading. Trace data cited by Bloomberg shows CoreWeave's 9% senior notes due 2031 fell to record lows on Wednesday to yield 18%, more than double the anticipated yield on the Meta-tied facility, even as the company's delayed draw term loans continued to trade near par."
+    ],
+    "html": null
+  }
+}

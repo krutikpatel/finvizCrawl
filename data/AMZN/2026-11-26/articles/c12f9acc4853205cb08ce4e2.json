@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AMZN",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/ai/articles/musks-plan-put-1-million-231630717.html",
+    "fetched_at": "2026-11-26T07:00:42.750862-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Musk's Plan To Put 1 Million AI Satellites In Orbit Gets US Approval. Amazon Questions Whether It Can Be Done.",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Elon Musk's SpaceX has won conditional U.S. approval to deploy up to 1 million AI computing satellites in orbit, advancing an unprecedented plan to move data centers into space despite warnings from rival Amazon that building such a massive network could take centuries.\nThe Federal Communications Commission authorized SpaceX's proposed Starmind constellation Wednesday, opening the door to an orbital computing network nearly 60 times the size of the approximately 17,000 satellites currently circling Earth.\nThe decision marks the first time the FCC has authorized a constellation of space-based data centers, potentially creating a new frontier in the race to expand computing infrastructure for artificial intelligence.\nBut the approval comes with a significant question: Can SpaceX build and operate anything approaching 1 million satellites?\nAmazon's satellite internet division, Amazon Leo, challenged the proposal in March, describing it as a \"lofty ambition rather than a real plan\" and questioning whether SpaceX had provided enough technical detail to support its claims.\nAmazon suggested deploying the proposed constellation could take centuries, raising doubts about whether Musk's company could deliver on its ambitions.\nThe FCC rejected objections seeking to block the application, granting SpaceX permission to pursue the project while imposing deployment deadlines and operational conditions.\nThe agency said the network could help the United States meet rapidly growing demand for AI computing.\n\"By moving compute capacity beyond Earth, SpaceX and the many competitors working on their own orbital data centers are meeting the moment,\" FCC Chairman Brendan Carr said in the agency's Wednesday announcement.\nThe project represents a major expansion of SpaceX's ambitions beyond rocket launches and satellite internet services.\nTraditional data centers require enormous amounts of electricity to power processors and cooling systems. The rapid growth of artificial intelligence has intensified demand for those facilities, placing increasing pressure on electricity grids, land and water resources.\nSpaceX believes part of that computing capacity could eventually move into orbit, where satellites would use solar energy to process information before transmitting data back to Earth.\nThe company told regulators that access to near-constant solar power could substantially reduce operating costs and the environmental impact associated with traditional data centers.\nHowever, those benefits remain projections, and SpaceX has not demonstrated that a network of this size can operate economically.",
+    "text_blocks": [
+      "Elon Musk's SpaceX has won conditional U.S. approval to deploy up to 1 million AI computing satellites in orbit, advancing an unprecedented plan to move data centers into space despite warnings from rival Amazon that building such a massive network could take centuries.",
+      "The Federal Communications Commission authorized SpaceX's proposed Starmind constellation Wednesday, opening the door to an orbital computing network nearly 60 times the size of the approximately 17,000 satellites currently circling Earth.",
+      "The decision marks the first time the FCC has authorized a constellation of space-based data centers, potentially creating a new frontier in the race to expand computing infrastructure for artificial intelligence.",
+      "But the approval comes with a significant question: Can SpaceX build and operate anything approaching 1 million satellites?",
+      "Amazon's satellite internet division, Amazon Leo, challenged the proposal in March, describing it as a \"lofty ambition rather than a real plan\" and questioning whether SpaceX had provided enough technical detail to support its claims.",
+      "Amazon suggested deploying the proposed constellation could take centuries, raising doubts about whether Musk's company could deliver on its ambitions.",
+      "The FCC rejected objections seeking to block the application, granting SpaceX permission to pursue the project while imposing deployment deadlines and operational conditions.",
+      "The agency said the network could help the United States meet rapidly growing demand for AI computing.",
+      "\"By moving compute capacity beyond Earth, SpaceX and the many competitors working on their own orbital data centers are meeting the moment,\" FCC Chairman Brendan Carr said in the agency's Wednesday announcement.",
+      "The project represents a major expansion of SpaceX's ambitions beyond rocket launches and satellite internet services.",
+      "Traditional data centers require enormous amounts of electricity to power processors and cooling systems. The rapid growth of artificial intelligence has intensified demand for those facilities, placing increasing pressure on electricity grids, land and water resources.",
+      "SpaceX believes part of that computing capacity could eventually move into orbit, where satellites would use solar energy to process information before transmitting data back to Earth.",
+      "The company told regulators that access to near-constant solar power could substantially reduce operating costs and the environmental impact associated with traditional data centers.",
+      "However, those benefits remain projections, and SpaceX has not demonstrated that a network of this size can operate economically."
+    ],
+    "html": null
+  }
+}

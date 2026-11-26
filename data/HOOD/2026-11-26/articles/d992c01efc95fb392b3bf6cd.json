@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "HOOD",
+  "source": {
+    "name": "article",
+    "url": "https://www.barrons.com/articles/klarna-stock-cfo-fa26b81b?mod=bar_FV",
+    "fetched_at": "2026-11-26T07:00:23.299663-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": false,
+    "error": {
+      "type": "http_error",
+      "message": "401 Client Error: HTTP Forbidden for url: https://www.barrons.com/articles/klarna-stock-cfo-fa26b81b?mod=bar_FV",
+      "context": {
+        "url": "https://www.barrons.com/articles/klarna-stock-cfo-fa26b81b?mod=bar_FV"
+      }
+    }
+  },
+  "metadata": {
+    "title": null,
+    "byline": null,
+    "published_at": null,
+    "site_name": null,
+    "language": null
+  },
+  "content": {
+    "text": null,
+    "text_blocks": null,
+    "html": null
+  }
+}

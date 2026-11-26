@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "ticker": "MSFT",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/doubleline-cohen-turns-bullish-hyperscaler-173352564.html",
+    "fetched_at": "2026-11-26T07:00:32.009989-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "DoubleLine’s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "Investing.com -- DoubleLine Capital has reversed its cautious stance on artificial intelligence debt, pivoting to become an active buyer following a steep selloff that widened corporate bond spreads to multi-year highs. Robert Cohen, director of corporate credit at the $90 billion-plus asset manager, noted in a Nov. 20 Bloomberg Intelligence Credit Edge podcast that prevailing prices and yields now adequately compensate investors for underlying sector risks.\nThe strategic shift comes after technology firms, led by major hyperscalers, issued hundreds of billions of dollars in record debt this year, a borrowing pace expected to persist into 2027. That supply surge pushed spreads on technology bonds to their widest levels in over three years, creating what Cohen characterized as genuine value for fixed-income buyers.\nAt the top end of the credit spectrum, Cohen highlighted bonds issued by AA-rated hyperscalers such as Amazon.com Inc., Alphabet Inc., and Microsoft Corp. Despite their top-tier ratings, these securities are currently trading at spreads over Treasuries more closely aligned with BBB-rated debt, which sits six notches lower at the edge of investment grade.\nFurther down the quality curve, Cohen pointed to opportunities in investment-grade SpaceX debt trading at junk-like yields, while noting he has begun evaluating Oracle Corp. due to its wider spreads relative to similarly rated peers. Against that backdrop, elevated Treasury yields paired with wider corporate spreads are positioning fixed income as a compelling alternative to equities amid stretched stock valuations.\nStill, DoubleLine's renewed appetite has clear boundaries, as Cohen remains firmly opposed to unsecured debt issued by junk-rated \"neocloud\" operators that stockpile chips to rent out computing power. Comparing the subsector's rapid expansion to the 2010s U.S. shale boom that triggered widespread energy bankruptcies, Cohen explicitly dismissed distressed-yielding CoreWeave Inc., questioning the sustainability of its capital structure and business plan.",
+    "text_blocks": [
+      "Investing.com -- DoubleLine Capital has reversed its cautious stance on artificial intelligence debt, pivoting to become an active buyer following a steep selloff that widened corporate bond spreads to multi-year highs. Robert Cohen, director of corporate credit at the $90 billion-plus asset manager, noted in a Nov. 20 Bloomberg Intelligence Credit Edge podcast that prevailing prices and yields now adequately compensate investors for underlying sector risks.",
+      "The strategic shift comes after technology firms, led by major hyperscalers, issued hundreds of billions of dollars in record debt this year, a borrowing pace expected to persist into 2027. That supply surge pushed spreads on technology bonds to their widest levels in over three years, creating what Cohen characterized as genuine value for fixed-income buyers.",
+      "At the top end of the credit spectrum, Cohen highlighted bonds issued by AA-rated hyperscalers such as Amazon.com Inc., Alphabet Inc., and Microsoft Corp. Despite their top-tier ratings, these securities are currently trading at spreads over Treasuries more closely aligned with BBB-rated debt, which sits six notches lower at the edge of investment grade.",
+      "Further down the quality curve, Cohen pointed to opportunities in investment-grade SpaceX debt trading at junk-like yields, while noting he has begun evaluating Oracle Corp. due to its wider spreads relative to similarly rated peers. Against that backdrop, elevated Treasury yields paired with wider corporate spreads are positioning fixed income as a compelling alternative to equities amid stretched stock valuations.",
+      "Still, DoubleLine's renewed appetite has clear boundaries, as Cohen remains firmly opposed to unsecured debt issued by junk-rated \"neocloud\" operators that stockpile chips to rent out computing power. Comparing the subsector's rapid expansion to the 2010s U.S. shale boom that triggered widespread energy bankruptcies, Cohen explicitly dismissed distressed-yielding CoreWeave Inc., questioning the sustainability of its capital structure and business plan."
+    ],
+    "html": null
+  }
+}

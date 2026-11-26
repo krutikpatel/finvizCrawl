@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "ticker": "AAPL",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/news/apple-pulls-minimax-ai-chatbot-051333389.html",
+    "fetched_at": "2026-11-26T07:00:08.176886-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "By Laurie Chen\nBEIJING, Nov 26 (Reuters) - Apple this week removed MiniMax's popular chatbot app Talkie from its App Store worldwide after media reports alleged that the product's AI-generated characters sent sexualised messages to minors.\nLaunched in 2023, Talkie offers a wide array of companions for users to chat with, often with romantic undertones. Shanghai-based MiniMax also has a Chinese version called Xingye.\nABC News and the Bureau of Investigative Journalism on Wednesday reported the app's characters had sent sexually inappropriate and abusive messages to children.\nThe app has an 18+ rating on both the Apple App Store and Google Play Store and depending on the country, the app says children aged under 14 or under 16 cannot sign up. But child safety advocates have criticised its lax verification safeguards, which allow users to self-report their age.\nMiniMax and Apple did not immediately respond to requests for comment.\nTalkie is offered in a range of languages and is particularly popular in the US, the Philippines and Mexico according to research firm Sensor Tower.\nUnlike AI assistants commonly found on large language models like ChatGPT or Gemini, AI companions are designed for sustained emotional engagement and human-like interactions with users, some with immersive storylines.\nTalkie and Xingye have been big revenue drivers for MiniMax, contributing over 60% of its income in 2024. The company stopped breaking out chatbot-related revenue shares this year.\nTalkie had roughly 11 million monthly active users across its app and website as of October 2026, according to Chinese research firm Unique.\nMiniMax has shifted its focus to enterprise coding and multimodal AI models such as MiniMax M1 and Hailuo-02, especially after its Hong Kong IPO in January.\nGROWING SCRUTINY OF AI CHATBOTS\nAI chatbots have come under growing scrutiny, particularly in regards to potential risks in interactions with minors.\nElon Musk's Grok AI chatbot was criticised by governments this year after it was used to create sexualised images of women and children, and AI companion maker Character.AI faces several lawsuits in the US over its chatbots' inappropriate interactions with minors.\nIn July, China cracked down on domestic AI companion apps including Xingye, banning intimate relationships for minors and ordering platforms to develop strict guardrails to curb emotional dependency and addiction risks.\nByteDance and Alibaba have also disabled humanlike interactive agents and customised agent features on their apps in response to the regulations.\nThose efforts by regulators and companies have sparked a widespread backlash from Chinese users who formed attachments to virtual characters.\n(Reporting by Laurie Chen; Editing by Eduardo Baptista and Edwina Gibbs)",
+    "text_blocks": [
+      "By Laurie Chen",
+      "BEIJING, Nov 26 (Reuters) - Apple this week removed MiniMax's popular chatbot app Talkie from its App Store worldwide after media reports alleged that the product's AI-generated characters sent sexualised messages to minors.",
+      "Launched in 2023, Talkie offers a wide array of companions for users to chat with, often with romantic undertones. Shanghai-based MiniMax also has a Chinese version called Xingye.",
+      "ABC News and the Bureau of Investigative Journalism on Wednesday reported the app's characters had sent sexually inappropriate and abusive messages to children.",
+      "The app has an 18+ rating on both the Apple App Store and Google Play Store and depending on the country, the app says children aged under 14 or under 16 cannot sign up. But child safety advocates have criticised its lax verification safeguards, which allow users to self-report their age.",
+      "MiniMax and Apple did not immediately respond to requests for comment.",
+      "Talkie is offered in a range of languages and is particularly popular in the US, the Philippines and Mexico according to research firm Sensor Tower.",
+      "Unlike AI assistants commonly found on large language models like ChatGPT or Gemini, AI companions are designed for sustained emotional engagement and human-like interactions with users, some with immersive storylines.",
+      "Talkie and Xingye have been big revenue drivers for MiniMax, contributing over 60% of its income in 2024. The company stopped breaking out chatbot-related revenue shares this year.",
+      "Talkie had roughly 11 million monthly active users across its app and website as of October 2026, according to Chinese research firm Unique.",
+      "MiniMax has shifted its focus to enterprise coding and multimodal AI models such as MiniMax M1 and Hailuo-02, especially after its Hong Kong IPO in January.",
+      "GROWING SCRUTINY OF AI CHATBOTS",
+      "AI chatbots have come under growing scrutiny, particularly in regards to potential risks in interactions with minors.",
+      "Elon Musk's Grok AI chatbot was criticised by governments this year after it was used to create sexualised images of women and children, and AI companion maker Character.AI faces several lawsuits in the US over its chatbots' inappropriate interactions with minors.",
+      "In July, China cracked down on domestic AI companion apps including Xingye, banning intimate relationships for minors and ordering platforms to develop strict guardrails to curb emotional dependency and addiction risks.",
+      "ByteDance and Alibaba have also disabled humanlike interactive agents and customised agent features on their apps in response to the regulations.",
+      "Those efforts by regulators and companies have sparked a widespread backlash from Chinese users who formed attachments to virtual characters.",
+      "(Reporting by Laurie Chen; Editing by Eduardo Baptista and Edwina Gibbs)"
+    ],
+    "html": null
+  }
+}

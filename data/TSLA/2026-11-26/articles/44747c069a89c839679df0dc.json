@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "ticker": "TSLA",
+  "source": {
+    "name": "article",
+    "url": "https://finance.yahoo.com/technology/article/spacex-stock-pares-losses-following-fcc-approval-for-data-centers-in-space-183757039.html",
+    "fetched_at": "2026-11-26T07:00:03.187753-08:00"
+  },
+  "extraction": {
+    "method": "http",
+    "success": true,
+    "error": null
+  },
+  "metadata": {
+    "title": "SpaceX stock pares losses following FCC approval for data centers in space",
+    "byline": null,
+    "published_at": null,
+    "site_name": "finance.yahoo.com",
+    "language": null
+  },
+  "content": {
+    "text": "The FCC authorized SpaceX (SPCX) to deploy up to 1 million data center satellites, calling it \"the first authorization in US history for a constellation of data centers in space.\"\nSpaceX first made the request in January for what it said would be the \"first step toward becoming a Kardashev II-level civilization — one that can harness the Sun's full power.\"\nThe approval helped SpaceX pare some of its losses from earlier in the day amid a broader tech sell-off and investor concerns over a potential merger with Tesla (TSLA). The stock is currently down around 1%, compared with 8% earlier in the day.\nIn response to a post on Elon Musk-owned X by FCC Chair Brendan Carr, Musk replied, \"This will be a great asset to America and the world.\"\nThe project is a long way from proven. SpaceX has warned investors in its IPO filing that orbital compute rests on technology \"not yet been proven at commercial scale, or at all,\" adding that it could be ultimately unsuccessful. CFO Bret Johnsen said in September that SpaceX is targeting its first orbital compute satellites next year, with a much bigger push in 2028.\nSpaceX also hasn't announced any customers for orbital capacity. Its AI revenue today comes from on-site data centers.\nWood Mackenzie estimated that a hypothetical 1-gigawatt orbital data center would cost about $170 billion, more than three times that of a ground-based one, owing largely to the expense of launching it from Earth. The firm said launch costs would need to fall about 70% to be competitive.\nSpaceX spent $19.6 billion on capital expenditure in the third quarter, nearly triple what it spent a year earlier and more than its $14.6 billion in revenue. Most of that spending went to AI. The company expects capital spending to roughly double to $35 billion to $40 billion in the fourth quarter as it expands its AI computing capacity.\nFollow Rani Molla on X at @ranimolla or email her at rani.molla@yahooinc.com.",
+    "text_blocks": [
+      "The FCC authorized SpaceX (SPCX) to deploy up to 1 million data center satellites, calling it \"the first authorization in US history for a constellation of data centers in space.\"",
+      "SpaceX first made the request in January for what it said would be the \"first step toward becoming a Kardashev II-level civilization — one that can harness the Sun's full power.\"",
+      "The approval helped SpaceX pare some of its losses from earlier in the day amid a broader tech sell-off and investor concerns over a potential merger with Tesla (TSLA). The stock is currently down around 1%, compared with 8% earlier in the day.",
+      "In response to a post on Elon Musk-owned X by FCC Chair Brendan Carr, Musk replied, \"This will be a great asset to America and the world.\"",
+      "The project is a long way from proven. SpaceX has warned investors in its IPO filing that orbital compute rests on technology \"not yet been proven at commercial scale, or at all,\" adding that it could be ultimately unsuccessful. CFO Bret Johnsen said in September that SpaceX is targeting its first orbital compute satellites next year, with a much bigger push in 2028.",
+      "SpaceX also hasn't announced any customers for orbital capacity. Its AI revenue today comes from on-site data centers.",
+      "Wood Mackenzie estimated that a hypothetical 1-gigawatt orbital data center would cost about $170 billion, more than three times that of a ground-based one, owing largely to the expense of launching it from Earth. The firm said launch costs would need to fall about 70% to be competitive.",
+      "SpaceX spent $19.6 billion on capital expenditure in the third quarter, nearly triple what it spent a year earlier and more than its $14.6 billion in revenue. Most of that spending went to AI. The company expects capital spending to roughly double to $35 billion to $40 billion in the fourth quarter as it expands its AI computing capacity.",
+      "Follow Rani Molla on X at @ranimolla or email her at rani.molla@yahooinc.com."
+    ],
+    "html": null
+  }
+}
